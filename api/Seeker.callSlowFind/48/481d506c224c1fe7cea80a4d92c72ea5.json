@@ -32,7 +32,7 @@
     "pattern": "schwer zu finden",
     "method": "phrase",
     "resultPattern": "\\bschwer zu finden",
-    "segsMatched": 11,
+    "segsMatched": 12,
     "bilaraPaths": [
       "root/pli/ms/sutta/an/an5/an5.60_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/an/an5/an5.60_translation-de-sabbamitta.json",
@@ -43,6 +43,9 @@
       "root/pli/ms/sutta/sn/sn3/sn3.21_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/sn/sn3/sn3.21_translation-de-sabbamitta.json",
       "translation/en/sujato/sutta/sn/sn3/sn3.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.57_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an4/an4.85_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/an/an4/an4.85_translation-de-sabbamitta.json",
       "translation/en/sujato/sutta/an/an4/an4.85_translation-en-sujato.json",
@@ -57,6 +60,7 @@
       "an5.60/de/sabbamitta",
       "an5.59/de/sabbamitta",
       "sn3.21/de/sabbamitta",
+      "an6.57/de/sabbamitta",
       "an4.85/de/sabbamitta",
       "an3.63/de/sabbamitta",
       "an3.13/de/sabbamitta"
@@ -255,6 +259,38 @@
           "pli": 59,
           "de": 58,
           "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.57_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.57",
+        "lang": "de",
+        "segMap": {
+          "an6.57:11.2": {
+            "scid": "an6.57:11.2",
+            "pli": "Idhānanda, ekacco nīce kule paccājāto hoti—caṇḍālakule vā nesādakule vā venakule vā rathakārakule vā pukkusakule vā, dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. ",
+            "de": "Es ist, wenn jemand in einer geringen Familie wiedergeboren ist – einer Familie von Ausgestoßenen, Bambusarbeitern, Jägern, Wagenbauern oder Abfallsammlern – arm, mit wenig zu essen und zu trinken, wo das Leben hart ist und Nahrung und Obdach <span class=\"scv-matched\">schwer zu finden</span>. ",
+            "en": "It’s when someone is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are hard to find. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n6. Das große Kapitel\n57. Wiedergeburtsklassen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 67,
+          "de": 62,
+          "en": 66
         }
       },
       {

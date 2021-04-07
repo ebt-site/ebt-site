@@ -32,7 +32,7 @@
     "pattern": "gesichert",
     "method": "phrase",
     "resultPattern": "\\bgesichert",
-    "segsMatched": 18,
+    "segsMatched": 17,
     "bilaraPaths": [
       "root/pli/ms/sutta/an/an4/an4.72_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/an/an4/an4.72_translation-de-sabbamitta.json",
@@ -43,9 +43,6 @@
       "root/pli/ms/sutta/an/an3/an3.16_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/an/an3/an3.16_translation-de-sabbamitta.json",
       "translation/en/sujato/sutta/an/an3/an3.16_translation-en-sujato.json",
-      "root/pli/ms/sutta/an/an5/an5.273-285_root-pli-ms.json",
-      "translation/de/sabbamitta/sutta/an/an5/an5.273-285_translation-de-sabbamitta.json",
-      "translation/en/sujato/sutta/an/an5/an5.273-285_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an4/an4.80_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/an/an4/an4.80_translation-de-sabbamitta.json",
       "translation/en/sujato/sutta/an/an4/an4.80_translation-en-sujato.json",
@@ -75,7 +72,6 @@
       "an4.72/de/sabbamitta",
       "an4.71/de/sabbamitta",
       "an3.16/de/sabbamitta",
-      "an5.273-285/de/sabbamitta",
       "an4.80/de/sabbamitta",
       "an4.79/de/sabbamitta",
       "an4.78/de/sabbamitta",
@@ -413,38 +409,6 @@
         "langSegs": {
           "pli": 23,
           "de": 22,
-          "en": 22
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/an/an5/an5.273-285_root-pli-ms.json",
-          "translation/de/sabbamitta/sutta/an/an5/an5.273-285_translation-de-sabbamitta.json",
-          "translation/en/sujato/sutta/an/an5/an5.273-285_translation-en-sujato.json"
-        ],
-        "author_uid": "sabbamitta",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "an5.273-285",
-        "lang": "de",
-        "segMap": {
-          "an5.273-285:3.1": {
-            "scid": "an5.273-285:3.1",
-            "pli": "Bhaṇḍāgāriko na sammannitabbo …pe… guttāguttaṁ na jānāti … bhaṇḍāgāriko sammannitabbo …pe… guttāguttaṁ jānāti …. ",
-            "de": "Jemand, der fünf Eigenschaften besitzt, sollte nicht zum Vorratsverwalter bestimmt werden … er weiß nicht, ob die Vorratsräume <span class=\"scv-matched\">gesichert</span> sind oder nicht … Jemand sollte zum Vorratsverwalter bestimmt werden … er weiß, ob die Vorratsräume <span class=\"scv-matched\">gesichert</span> sind oder nicht … ",
-            "en": "A person should not be appointed as storeperson … they don’t know if stores are protected or not … A person should be appointed as storeperson … they know if stores are protected or not … ",
-            "matched": true
-          }
-        },
-        "score": 1.043,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Nummerierte Lehrreden 5\n27. Abgekürzte Texte über Bestimmen\n273–285 Ein Unterkunftsanweiser",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 23,
-          "de": 19,
           "en": 22
         }
       },
