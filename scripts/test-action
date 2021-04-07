@@ -1,0 +1,29 @@
+#!/usr/bin/env node
+
+const fs = require('fs');
+const path = require('path');
+const Axios = require('axios');
+const { logger } = require('log-instance');
+const { Memoizer } = require('memo-again');
+const {
+    BilaraData,
+    Seeker,
+} = require('scv-bilara');
+const APP_DIR = path.join(__dirname, '..');
+const API_DIR = path.join(APP_DIR, 'api');
+
+logger.logLevel = 'info';
+
+(async function(){
+    let bilaraData = await new BilaraData().initialize(true);
+    console.log(bilaraData.bilaraPathMap.suidMap['sn12.23']);
+
+    let skr = await new Seeker({
+        bilaraData,
+    }).initialize();
+    var res = await skr.find({
+      pattern: 'root of suffering',
+    });
+    let { bilaraPaths, method, resultPattern } = res;
+    console.log({bilaraPaths, method, resultPattern });
+})();

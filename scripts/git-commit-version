@@ -1,0 +1,22 @@
+#!/bin/bash
+
+DIR=`dirname $0`
+SCRIPT=`basename $0`
+
+git status | grep 'nothing to commit' ; RC=$?
+if [ "$RC" == "0" ]; then
+  echo -e "$SCRIPT: nothing to commit"
+else
+  OLDVERSION=`$DIR/version`
+  MSG="$SCRIPT: changes by $GITHUB_WORKFLOW $HOSTNAME"
+  echo -e $MSG
+  git add .
+  git commit -am "$MSG"
+  npm version patch
+  VERSION=`$DIR/version`
+  git reset --soft HEAD~1
+  git commit --amend -m "v$VERSION $MSG"
+  if [ "$1" == "PUSH" ]; then
+    git push
+  fi
+fi

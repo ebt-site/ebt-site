@@ -1,0 +1,323 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "merkmalslos",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "merkmalslos",
+    "method": "phrase",
+    "resultPattern": "\\bmerkmalslos",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.13_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.13_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn47/sn47.9_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn47/sn47.9_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig3.3_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/thig/thig3.3_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/thig/thig3.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig2.1_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/thig/thig2.1_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/thig/thig2.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.183-352_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.183-352_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.183-352_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn33/de/sabbamitta",
+      "dn34/de/sabbamitta",
+      "an6.13/de/sabbamitta",
+      "sn47.9/de/sabbamitta",
+      "thig3.3/de/sabbamitta",
+      "thig2.1/de/sabbamitta",
+      "an3.183-352/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.10.123": {
+            "scid": "dn33:1.10.123",
+            "pli": "suññato samādhi, animitto samādhi, appaṇihito samādhi. ",
+            "de": "Versenkung in Leerheit, <span class=\"scv-matched\">merkmalslos</span>e Versenkung und ungerichtete Versenkung. ",
+            "en": "emptiness, signless, and undirected. ",
+            "matched": true
+          },
+          "dn33:2.2.99": {
+            "scid": "dn33:2.2.99",
+            "pli": "‘animittā hi kho me cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā. ",
+            "de": "‚Ich habe die <span class=\"scv-matched\">merkmalslos</span>e Erlösung des Herzens entwickelt. Ich habe sie gepflegt, sie zu meinem Fahrzeug und meiner Grundlage gemacht, habe sie hochgehalten, gefestigt und richtig umgesetzt. ",
+            "en": "‘I’ve developed the signless release of the heart. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. ",
+            "matched": true
+          },
+          "dn33:2.2.104": {
+            "scid": "dn33:2.2.104",
+            "pli": "Nissaraṇaṁ hetaṁ, āvuso, sabbanimittānaṁ, yadidaṁ animittā cetovimuttī’ti.  ",
+            "de": "Denn durch die <span class=\"scv-matched\">merkmalslos</span>e Erlösung des Herzens entrinnt man allen Merkmalen.‘ ",
+            "en": "For it is the signless release of the heart that is the escape from all signs.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.13_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.13_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.13",
+        "lang": "de",
+        "segMap": {
+          "an6.13:5.2": {
+            "scid": "an6.13:5.2",
+            "pli": "‘animittā hi kho me cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā; ",
+            "de": "‚Ich habe die <span class=\"scv-matched\">merkmalslos</span>e Erlösung des Herzens entwickelt. Ich habe sie gepflegt, sie zu meinem Fahrzeug und meiner Grundlage gemacht, habe sie hochgehalten, gefestigt und richtig umgesetzt. ",
+            "en": "‘I’ve developed the signless release of the heart. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. ",
+            "matched": true
+          },
+          "an6.13:5.7": {
+            "scid": "an6.13:5.7",
+            "pli": "Nissaraṇañhetaṁ, āvuso, sabbanimittānaṁ yadidaṁ animittācetovimuttī’ti. ",
+            "de": "Denn durch die <span class=\"scv-matched\">merkmalslos</span>e Erlösung des Herzens entrinnt man allen Merkmalen.‘ ",
+            "en": "For it is the signless release of the heart that is the escape from all signs.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.041,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n2. Warmherzig\n13. Elemente des Entrinnens",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 49,
+          "de": 40,
+          "en": 48
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.7.58": {
+            "scid": "dn34:1.7.58",
+            "pli": "‘animittā hi kho me cetovimutti bhāvitā …pe… ",
+            "de": "‚Ich habe die <span class=\"scv-matched\">merkmalslos</span>e Erlösung des Herzens entwickelt … ",
+            "en": "‘I’ve developed the signless release of the heart. … ",
+            "matched": true
+          },
+          "dn34:1.7.61": {
+            "scid": "dn34:1.7.61",
+            "pli": "nissaraṇaṁ hetaṁ, āvuso, sabbanimittānaṁ yadidaṁ animittā cetovimuttī’ti.  ",
+            "de": "Denn durch die <span class=\"scv-matched\">merkmalslos</span>e Erlösung des Herzens entrinnt man allen Merkmalen.‘ ",
+            "en": "For it is the signless release of the heart that is the escape from all signs.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig2.1_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/thig/thig2.1_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/thig/thig2.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig2.1",
+        "lang": "de",
+        "segMap": {
+          "thig2.1:2.1": {
+            "scid": "thig2.1:2.1",
+            "pli": "Animittañca bhāvehi,",
+            "de": "Meditiere über das <span class=\"scv-matched\">Merkmalslos</span>e, ",
+            "en": "Meditate on the signless,",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Strophen der altehrwürdigen Nonnen\nDas Zweierbuch\n2.1. Abhirūpanandā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "de": 12,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig3.3_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/thig/thig3.3_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/thig/thig3.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig3.3",
+        "lang": "de",
+        "segMap": {
+          "thig3.3:2.2": {
+            "scid": "thig3.3:2.2",
+            "pli": "lābhinīhaṁ yadicchakaṁ;",
+            "de": "und <span class=\"scv-matched\">Merkmalslos</span>igkeit, wann immer ich will. ",
+            "en": "and signlessness whenever I want.",
+            "matched": true
+          }
+        },
+        "score": 1.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Strophen der altehrwürdigen Nonnen\nDas Dreierbuch\n3.3. Eine andere Uttamā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 16,
+          "de": 15,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.9_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn47/sn47.9_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.9",
+        "lang": "de",
+        "segMap": {
+          "sn47.9:5.1": {
+            "scid": "sn47.9:5.1",
+            "pli": "Yasmiṁ, ānanda, samaye tathāgato sabbanimittānaṁ amanasikārā ekaccānaṁ vedanānaṁ nirodhā animittaṁ cetosamādhiṁ upasampajja viharati, phāsutaro, ānanda, tasmiṁ samaye tathāgatassa kāyo hoti. ",
+            "de": "Manchmal wendet der Klargewordene seine Aufmerksamkeit von allen Merkmalen ab, und mit dem Aufhören bestimmter Gefühle tritt er in die <span class=\"scv-matched\">merkmalslos</span>e Versenkung des Herzens ein und verweilt darin. Nur dann hat der Körper des Klargewordenen weniger Beschwerden. ",
+            "en": "Sometimes the Realized One, not focusing on any signs, and with the cessation of certain feelings, enters and remains in the signless immersion of the heart. Only then does the Realized One’s body become more comfortable. ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 47\n1. In Ambapālīs Wald\n9. Krank",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "de": 45,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.183-352_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.183-352_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.183-352_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.183-352",
+        "lang": "de",
+        "segMap": {
+          "an3.183-352:1.3": {
+            "scid": "an3.183-352:1.3",
+            "pli": "Suññato samādhi, animitto samādhi, appaṇihito samādhi—",
+            "de": "Versenkung in die Leerheit, <span class=\"scv-matched\">merkmalslos</span>e Versenkung und ungerichtete Versenkung. ",
+            "en": "Emptiness immersion; signless immersion; and undirected immersion. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n18. Abgekürzte Texte, die mit Gier beginnen\n183–352",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 66,
+          "de": 65,
+          "en": 65
+        }
+      }
+    ]
+  }
+}

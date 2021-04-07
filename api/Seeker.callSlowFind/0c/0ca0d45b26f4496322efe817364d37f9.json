@@ -1,0 +1,122 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "muschelschalen, steine und kiesel",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "muschelschalen, steine und kiesel",
+    "method": "phrase",
+    "resultPattern": "\\bmuschelschalen, steine und kiesel",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an1/an1.41-50_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.41-50_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.41-50_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an1.41-50/de/sabbamitta",
+      "dn10/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.41-50_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an1/an1.41-50_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an1/an1.41-50_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.41-50",
+        "lang": "de",
+        "segMap": {
+          "an1.45:1.1": {
+            "scid": "an1.45:1.1",
+            "pli": "“Seyyathāpi, bhikkhave, udakarahado āvilo luḷito kalalībhūto tattha cakkhumā puriso tīre ṭhito na passeyya sippisambukampi sakkharakaṭhalampi macchagumbampi carantampi tiṭṭhantampi. ",
+            "de": "„Angenommen, Mönche und Nonnen, da wäre ein See, der trüb, dunkel und schmutzig wäre. Ein Mensch mit gutem Sehvermögen, der am Ufer stünde, würde die <span class=\"scv-matched\">Muschelschalen, Steine und Kiesel</span> nicht sehen, noch die Fischschwärme, die herumschwämmen oder stillstünden. ",
+            "en": "“Suppose, mendicants, there was a lake that was cloudy, murky, and muddy. A person with good eyesight standing on the bank would not see the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still. ",
+            "matched": true
+          },
+          "an1.46:1.1": {
+            "scid": "an1.46:1.1",
+            "pli": "“Seyyathāpi, bhikkhave, udakarahado accho vippasanno anāvilo tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakaṭhalampi macchagumbampi carantampi tiṭṭhantampi. ",
+            "de": "„Angenommen, Mönche und Nonnen, da wäre ein See, der durchsichtig, klar und ungetrübt ist. Ein Mensch mit gutem Sehvermögen, der am Ufer stünde, würde die <span class=\"scv-matched\">Muschelschalen, Steine und Kiesel</span> sehen und auch die Fischschwärme, die herumschwämmen oder stillstünden. ",
+            "en": "“Suppose, mendicants, there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would see the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still. ",
+            "matched": true
+          }
+        },
+        "score": 2.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 1\n5. Eine Granne\n41–50",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 67,
+          "de": 66,
+          "en": 66
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn10",
+        "lang": "de",
+        "segMap": {
+          "dn10:2.36.1": {
+            "scid": "dn10:2.36.1",
+            "pli": "Seyyathāpi, māṇava, pabbatasaṅkhepe udakarahado accho vippasanno anāvilo. Tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakathalampi macchagumbampi carantampi tiṭṭhantampi. Tassa evamassa: ‘ayaṁ kho udakarahado accho vippasanno anāvilo. Tatrime sippisambukāpi sakkharakathalāpi macchagumbāpi carantipi tiṭṭhantipī’ti. ",
+            "de": "Wie ein See, der durchsichtig, klar und ungetrübt wäre. Ein Mensch mit gutem Sehvermögen, der am Ufer stünde, würde die <span class=\"scv-matched\">Muschelschalen, Steine und Kiesel</span> sehen und auch die Fischschwärme, die herumschwämmen oder stillstünden. Er dächte: ‚Dieser See ist durchsichtig, klar und ungetrübt. Hier sind die <span class=\"scv-matched\">Muschelschalen, Steine und Kiesel</span> und die Fischschwärme, die herumschwimmen oder stillstehen.‘ ",
+            "en": "Suppose that in a mountain glen there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would see the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still. They’d think: ‘This lake is transparent, clear, and unclouded. And here are the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 10\nMit Subha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 284,
+          "de": 226,
+          "en": 281
+        }
+      }
+    ]
+  }
+}

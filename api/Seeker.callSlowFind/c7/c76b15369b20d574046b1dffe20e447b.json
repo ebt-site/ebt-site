@@ -1,0 +1,230 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "von den fußsohlen aufwärts",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "von den fußsohlen aufwärts",
+    "method": "phrase",
+    "resultPattern": "\\bvon den fußsohlen aufwärts",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/mn/mn10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig2.8_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/thig/thig2.8_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/thig/thig2.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.29_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.29_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.29_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an10/an10.60_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn10/de/sabbamitta",
+      "thig2.8/de/sabbamitta",
+      "dn28/de/sabbamitta",
+      "an6.29/de/sabbamitta",
+      "an10.60/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/mn/mn10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn10",
+        "lang": "de",
+        "segMap": {
+          "mn10:10.1": {
+            "scid": "mn10:10.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā, adho kesamatthakā, tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
+            "de": "Dann betrachtet da ein Mönch seinen eigenen Körper, <span class=\"scv-matched\">von den Fußsohlen aufwärts</span> und von den Haarspitzen abwärts, der von Haut umhüllt und mit zahlreichen widerlichen Dingen angefüllt ist. ",
+            "en": "Furthermore, a mendicant examines their own body, up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "matched": true
+          },
+          "mn10:10.4": {
+            "scid": "mn10:10.4",
+            "pli": "Evameva kho, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā, adho kesamatthakā, tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
+            "de": "Ebenso betrachtet da ein Mönch seinen eigenen Körper, <span class=\"scv-matched\">von den Fußsohlen aufwärts</span> und von den Haarspitzen abwärts, der von Haut umhüllt und mit zahlreichen widerlichen Dingen angefüllt ist. ",
+            "en": " ",
+            "matched": true
+          }
+        },
+        "score": 2.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Mittlere Lehrreden 10\nAchtsamkeitsmeditation",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 235,
+          "de": 204,
+          "en": 233
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig2.8_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/thig/thig2.8_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/thig/thig2.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig2.8",
+        "lang": "de",
+        "segMap": {
+          "thig2.8:1.1": {
+            "scid": "thig2.8:1.1",
+            "pli": "“Uddhaṁ pādatalā amma,",
+            "de": "Meine liebe Mutter, <span class=\"scv-matched\">von den Fußsohlen aufwärts</span> ",
+            "en": "My dear mother, I examined this body,",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Strophen der altehrwürdigen Nonnen\nDas Zweierbuch\nAbhayas Mutter",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.29_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.29_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.29",
+        "lang": "de",
+        "segMap": {
+          "an6.29:6.1": {
+            "scid": "an6.29:6.1",
+            "pli": "Puna caparaṁ, bhante, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
+            "de": "Dann betrachtet da ein Mönch seinen eigenen Körper, <span class=\"scv-matched\">von den Fußsohlen aufwärts</span> und von den Haarspitzen abwärts, der von Haut umhüllt und mit zahlreichen widerlichen Dingen angefüllt ist. ",
+            "en": "Furthermore, a mendicant examines their own body up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n3. Unübertrefflich\n29. Mit Udāyī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 52,
+          "de": 49,
+          "en": 51
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an10/an10.60_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.60",
+        "lang": "de",
+        "segMap": {
+          "an10.60:6.2": {
+            "scid": "an10.60:6.2",
+            "pli": "Idhānanda, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānāppakārassa asucino paccavekkhati: ",
+            "de": "Es ist, wenn ein Mönch seinen eigenen Körper betrachtet, <span class=\"scv-matched\">von den Fußsohlen aufwärts</span> und von den Haarspitzen abwärts, der von Haut umhüllt und mit zahlreichen widerlichen Dingen angefüllt ist. ",
+            "en": "It’s when a mendicant examines their own body up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 10\n6. Der eigene Geist\n60. Mit Girimānanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 80,
+          "de": 78,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn28",
+        "lang": "de",
+        "segMap": {
+          "dn28:7.3": {
+            "scid": "dn28:7.3",
+            "pli": "Idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
+            "de": "Zunächst erfährt da ein Asket oder Brahmane durch eifriges, entschlossenes, hingegebenes und energisches Bemühen eine Versenkung des Herzens solcher Art, dass er seinen eigenen Körper betrachtet, <span class=\"scv-matched\">von den Fußsohlen aufwärts</span> und von den Haarspitzen abwärts, der von Haut umhüllt und mit zahlreichen widerlichen Dingen angefüllt ist: ",
+            "en": "Firstly, some ascetic or brahmin—by dint of keen, resolute, committed, and diligent effort, and right focus—experiences an immersion of the heart of such a kind that they examine their own body up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 28\nZuversicht wecken\n1. Sāriputtas Löwengebrüll",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 250,
+          "de": 236,
+          "en": 249
+        }
+      }
+    ]
+  }
+}

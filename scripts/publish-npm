@@ -1,0 +1,17 @@
+#!/bin/bash
+DIR=`dirname $0`; pushd $DIR/..
+SCRIPT=`basename $0`
+
+PUBVER=`npm view | grep latest | sed s/^.*:.//`
+PKGVER=`grep version package.json | head -1 | sed s/[^0-9.]//g`
+if [ "$PUBVER" == "PKGVER" ]; then
+  echo "$SCRIPT: $PKGVER no change"
+  echo -1
+else
+  if [ "$NODE_AUTH_TOKEN" == "" ]; then
+    echo "$SCRIPT: publishing $PUBVER => $PKGVER (NODE_AUTH_TOKEN: missing)"
+  else 
+    echo "$SCRIPT: publishing $PUBVER => $PKGVER (NODE_AUTH_TOKEN: OK)"
+  fi
+  npm publish
+fi

@@ -1,0 +1,59 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "meditation eines edlen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "meditation eines edlen",
+    "method": "keywords",
+    "resultPattern": "\\bmeditation|\\beines|\\bedlen",
+    "segsMatched": 0,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.179_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.179_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.179_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn18_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn18_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn18_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn21_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+    ],
+    "suttaRefs": [],
+    "mlDocs": []
+  }
+}

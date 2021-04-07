@@ -1,0 +1,40 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "他の人が贈り物を贈る事を妨げ",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "他の人が贈り物を贈る事を妨げ",
+    "method": "keywords",
+    "resultPattern": "\\b他の人が贈り物を贈る事を妨げ",
+    "segsMatched": 0,
+    "bilaraPaths": [],
+    "suttaRefs": [],
+    "mlDocs": []
+  }
+}

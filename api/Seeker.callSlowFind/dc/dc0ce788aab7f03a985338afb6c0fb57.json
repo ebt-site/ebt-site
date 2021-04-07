@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "auflösen der bindungen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "auflösen der bindungen",
+    "method": "phrase",
+    "resultPattern": "\\bauflösen der bindungen",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn5/sn5.8_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn5/sn5.8_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn5/sn5.8_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn5.8/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn5/sn5.8_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn5/sn5.8_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn5/sn5.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn5.8",
+        "lang": "de",
+        "segMap": {
+          "sn5.8:5.4": {
+            "scid": "sn5.8:5.4",
+            "pli": "vimutto upadhisaṅkhaye; ",
+            "de": "und ist durch das <span class=\"scv-matched\">Auflösen der Bindungen</span> befreit. ",
+            "en": "freed with the ending of attachments. ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 5\n1. Nonnen\n8. Mit Sīsupacālā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "de": 28,
+          "en": 28
+        }
+      }
+    ]
+  }
+}

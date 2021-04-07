@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "老いる定め",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "老いる定め",
+    "method": "phrase",
+    "resultPattern": "老いる定め",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.182_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.182_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an4/an4.182_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an4.182/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.182_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.182_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an4/an4.182_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.182",
+        "lang": "jpn",
+        "segMap": {
+          "an4.182:2.2": {
+            "scid": "an4.182:2.2",
+            "pli": "‘Jarādhammaṁ mā jīrī’ti natthi koci pāṭibhogo—",
+            "en": "No-one can guarantee that someone liable to old age will not grow old. ",
+            "jpn": "<span class=\"scv-matched\">老いる定め</span>である人に老いる事はないと誰も保証出来ません。",
+            "matched": true
+          }
+        },
+        "score": 1.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 四集\n第十九.　バラモン（婆羅門品）\n182. 保証",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 17,
+          "en": 16,
+          "jpn": 12
+        }
+      }
+    ]
+  }
+}

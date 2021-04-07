@@ -1,0 +1,138 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "to wander alone",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "to wander alone",
+    "method": "phrase",
+    "resultPattern": "\\bto wander alone",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn128_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn128_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/dhp/dhp60-75_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/dhp/dhp60-75_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/dhp/dhp320-333_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/dhp/dhp320-333_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn128/en/sujato",
+      "dhp60-75/en/sujato",
+      "dhp320-333/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/dhp/dhp320-333_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/dhp/dhp320-333_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dhp320-333",
+        "lang": "en",
+        "segMap": {
+          "dhp330:1": {
+            "scid": "dhp330:1",
+            "pli": "Ekassa caritaṁ seyyo,",
+            "en": "It’s better <span class=\"scv-matched\">to wander alone</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Minor Collection\nSayings of the Dhamma\n23. Elephants\nAttadantavatthu",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 68,
+          "en": 59
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/dhp/dhp60-75_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/dhp/dhp60-75_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dhp60-75",
+        "lang": "en",
+        "segMap": {
+          "dhp61:3": {
+            "scid": "dhp61:3",
+            "pli": "Ekacariyaṁ daḷhaṁ kayirā,",
+            "en": "then firmly resolve <span class=\"scv-matched\">to wander alone</span>—",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Minor Collection\nSayings of the Dhamma\n5. The Fool\nAññatarapurisavatthu",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 87,
+          "en": 72
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn128_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn128_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn128",
+        "lang": "en",
+        "segMap": {
+          "mn128:6.38": {
+            "scid": "mn128:6.38",
+            "pli": "Ekassa caritaṁ seyyo, ",
+            "en": "It’s better <span class=\"scv-matched\">to wander alone</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 128\nCorruptions",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 281,
+          "en": 280
+        }
+      }
+    ]
+  }
+}

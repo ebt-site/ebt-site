@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+Object.entries(process.env)
+.sort((a,b) => a[0].toLowerCase().localeCompare(b[0].toLowerCase()))
+.forEach(([key,value])=>{
+  const keyPad = (key + '                                        ').substring(0,35);
+  console.log(`${keyPad}\t${value}`);
+});

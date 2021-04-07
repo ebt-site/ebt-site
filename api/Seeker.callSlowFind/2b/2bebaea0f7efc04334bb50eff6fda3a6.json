@@ -1,0 +1,50 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "drei monate in klausur",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "drei monate in klausur",
+    "method": "keywords",
+    "resultPattern": "\\bdrei|\\bmonate|\\bin|\\bklausur",
+    "segsMatched": 0,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn19_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn19_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn19_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+    ],
+    "suttaRefs": [],
+    "mlDocs": []
+  }
+}

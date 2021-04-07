@@ -1,0 +1,64 @@
+#!/bin/bash
+
+GROUP=images
+
+echo -e "WIKI\t: creating $SLUGFILE"
+mkdir -p pages/$GROUP
+SLUGFILE=pages/$GROUP/_slug.vue 
+cat > $SLUGFILE <<- SLUG
+  <template>
+    <scv-article :article="article">
+      <nuxt-content :document="article" />
+      <scv-image-info :article="article" />
+    </scv-article>
+  </template>
+  <script>
+    const { ScvArticle, ScvImageInfo } = require('@/components');
+    export default {
+      async asyncData({ \$content, params }) {
+        const article = await \$content('images', params.slug).fetch()
+        return { article }
+      },
+      components: { ScvArticle, ScvImageInfo, },
+    }
+  </script>
+SLUG
+
+echo -e "WIKI\t: creating content/$GROUP"
+if [ ! -e "content/wiki/$GROUP.md" ]; then
+  echo -e "WIKI\t: creating content/wiki/$GROUP.md"
+cat > content/wiki/$GROUP.md << MDGROUP
+---
+title: $GROUP title
+description: $GROUP description
+img: benjamin-balazs-xtiGzOiJe1Q-unsplash.png
+img-alt: Generic image for $GROUP 
+slugDir: $GROUP
+order: 9999
+---
+### Wiki/$GROUP Contents
+Images used on this site
+MDGROUP
+fi # GROUP.md
+
+mkdir -p content/$GROUP
+
+SITEURL=`scripts/site-url`
+
+for IMG in `ls static/*.png`
+do 
+  IMGNAME=`basename $IMG | sed s/.png//`
+  PAGE=$IMGNAME.md
+  echo -e "WIKI\t: creating content/$GROUP/$PAGE"
+  cat > content/$GROUP/$PAGE << MDIMAGE
+---
+title: $IMGNAME
+description: Site image
+img: $IMGNAME.png
+img-alt: Picture $IMGNAME.png
+---
+
+_Do not edit this wiki page. It is generated automatically._ 
+
+MDIMAGE
+done
