@@ -1,0 +1,23 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bwer spricht diese strophe",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/sn/sn5/sn5.9_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/sn/sn5/sn5.5_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/sn/sn5/sn5.4_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/sn/sn5/sn5.3_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/sn/sn5/sn5.2_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/sn/sn5/sn5.1_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/sn/sn5/sn5.10_translation-de-sabbamitta.json:1"
+  ]
+}

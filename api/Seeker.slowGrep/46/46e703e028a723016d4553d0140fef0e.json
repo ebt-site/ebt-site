@@ -1,0 +1,24 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bes kommt eine zeit",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json:7",
+    "translation/de/sabbamitta/sutta/an/an5/an5.78_translation-de-sabbamitta.json:5",
+    "translation/de/sabbamitta/sutta/an/an4/an4.200_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.92_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an4/an4.170_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an3/an3.62_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an3/an3.101_translation-de-sabbamitta.json:1"
+  ]
+}

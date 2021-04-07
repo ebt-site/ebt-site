@@ -1,0 +1,17 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bhopefully that’ll happen",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json:1"
+  ]
+}

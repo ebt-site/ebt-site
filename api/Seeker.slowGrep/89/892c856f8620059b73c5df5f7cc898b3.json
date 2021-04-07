@@ -1,0 +1,20 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bwenig gelernt",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an4/an4.6_translation-de-sabbamitta.json:7",
+    "translation/de/sabbamitta/sutta/an/an5/an5.157_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/an/an5/an5.158_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an5/an5.101_translation-de-sabbamitta.json:1"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bbegrenzte versenkung und weisheit",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an3/an3.86_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.87_translation-de-sabbamitta.json:1"
+  ]
+}

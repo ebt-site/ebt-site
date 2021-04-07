@@ -1,0 +1,30 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bkraft des vertrauens",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an5/an5.2_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an5/an5.14_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an1/an1.394-574_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an5/an5.15_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an4/an4.152_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an6/an6.4_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an5/an5.308-1152_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an5/an5.307_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an5/an5.1_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an5/an5.16_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an5/an5.13_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an5/an5.12_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an5/an5.11_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an3/an3.156-162_translation-de-sabbamitta.json:1"
+  ]
+}

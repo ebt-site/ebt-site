@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bgiving food",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn1/sn1.42_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an4/an4.58_translation-en-sujato.json:1"
+  ]
+}

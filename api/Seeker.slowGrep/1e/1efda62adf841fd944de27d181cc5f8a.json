@@ -1,0 +1,21 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bmindfulness of death",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an8/an8.73_translation-en-sujato.json:24",
+    "translation/en/sujato/sutta/an/an6/an6.19_translation-en-sujato.json:20",
+    "translation/en/sujato/sutta/an/an8/an8.74_translation-en-sujato.json:4",
+    "translation/en/sujato/sutta/an/an6/an6.20_translation-en-sujato.json:4",
+    "translation/en/sujato/sutta/an/an1/an1.296-305_translation-en-sujato.json:1"
+  ]
+}

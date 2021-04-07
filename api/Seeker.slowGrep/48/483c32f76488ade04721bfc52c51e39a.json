@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bversenkung weiterzuentwickeln",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an4/an4.41_translation-de-sabbamitta.json:6",
+    "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json:5"
+  ]
+}

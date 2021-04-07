@@ -1,0 +1,23 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bdisappearance of the true teaching",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an4/an4.160_translation-en-sujato.json:6",
+    "translation/en/sujato/sutta/an/an1/an1.98-139_translation-en-sujato.json:6",
+    "translation/en/sujato/sutta/an/an5/an5.156_translation-en-sujato.json:4",
+    "translation/en/sujato/sutta/an/an5/an5.155_translation-en-sujato.json:4",
+    "translation/en/sujato/sutta/sn/sn16/sn16.13_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an5/an5.154_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an2/an2.11-20_translation-en-sujato.json:2"
+  ]
+}

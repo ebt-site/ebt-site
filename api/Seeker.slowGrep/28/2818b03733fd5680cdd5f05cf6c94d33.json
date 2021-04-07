@@ -1,0 +1,20 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bblind from birth",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn99_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn75_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/kn/ud/vagga6/ud6.4_translation-en-sujato.json:1"
+  ]
+}

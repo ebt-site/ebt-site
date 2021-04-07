@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bzu spänen",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an4/an4.195_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an3/an3.69_translation-de-sabbamitta.json:1"
+  ]
+}

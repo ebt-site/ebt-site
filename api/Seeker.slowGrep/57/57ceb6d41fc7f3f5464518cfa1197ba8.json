@@ -1,0 +1,23 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bthe eye is impermanent",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn35/sn35.99_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn35/sn35.93_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn35/sn35.1_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn35/sn35.140_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn35/sn35.13_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn35/sn35.100_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn25/sn25.1_translation-en-sujato.json:1"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bvon nahrung erhalten",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/kn/kp/kp4_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json:1"
+  ]
+}

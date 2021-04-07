@@ -1,0 +1,26 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\ba beryl gem that was naturally beautiful",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn2/sn2.29_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn80_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn79_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn77_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn123_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn120_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json:1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bdunkelheit.* und licht",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/sn/sn10/sn10.8_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an3/an3.59_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an3/an3.58_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/dn/dn21_translation-de-sabbamitta.json:1"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bfaith and love",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn65_translation-en-sujato.json:6",
+    "translation/en/sujato/sutta/an/an6/an6.30_translation-en-sujato.json:6",
+    "translation/en/sujato/sutta/sn/sn55/sn55.25_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn55/sn55.24_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn70_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json:1"
+  ]
+}

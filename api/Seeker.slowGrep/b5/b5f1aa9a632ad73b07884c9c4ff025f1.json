@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\blass.* es gut sein mit den sieben jahren",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/mn/mn10_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json:1"
+  ]
+}

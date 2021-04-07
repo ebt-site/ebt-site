@@ -1,0 +1,21 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\blodert freude auf",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json:6",
+    "translation/de/sabbamitta/sutta/an/an5/an5.26_translation-de-sabbamitta.json:5",
+    "translation/de/sabbamitta/sutta/sn/sn47/sn47.10_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json:1"
+  ]
+}

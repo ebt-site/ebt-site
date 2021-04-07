@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bfür vertrauen",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/sn/sn12/sn12.23_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an10/an10.61_translation-de-sabbamitta.json:1"
+  ]
+}

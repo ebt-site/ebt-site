@@ -1,0 +1,21 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\black of faith",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an10/an10.62_translation-en-sujato.json:5",
+    "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json:5",
+    "translation/en/sujato/sutta/an/an6/an6.66_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an6/an6.65_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an10/an10.85_translation-en-sujato.json:1"
+  ]
+}

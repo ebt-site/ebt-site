@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "ゾンビ",
+      "maxResults": 1000,
+      "lang": "jpn",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/jpn/kaz/sutta/an/an4/an4.53_translation-jpn-kaz.json:12",
+    "translation/jpn/kaz/sutta/an/an4/an4.54_translation-jpn-kaz.json:9"
+  ]
+}

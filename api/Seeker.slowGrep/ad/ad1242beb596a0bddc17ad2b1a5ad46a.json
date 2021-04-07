@@ -1,0 +1,24 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\beye of wisdom",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/kn/iti/vagga7/iti61_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn56/sn56.63_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn41/sn41.7_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn41/sn41.5_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn41/sn41.1_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn43_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an1/an1.333-377_translation-en-sujato.json:1"
+  ]
+}

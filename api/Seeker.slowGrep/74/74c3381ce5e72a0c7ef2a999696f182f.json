@@ -1,0 +1,34 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bdrei menschen",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an3/an3.21_translation-de-sabbamitta.json:16",
+    "translation/de/sabbamitta/sutta/an/an3/an3.13_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/an/an3/an3.24_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an3/an3.57_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.30_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.29_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.28_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.27_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.26_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.25_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.23_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.22_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.132_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.116_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.115_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.114_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.113_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json:1"
+  ]
+}

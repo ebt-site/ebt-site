@@ -1,0 +1,43 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bscrupulous and kind",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an9/an9.18_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an8/an8.45_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an8/an8.43_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an8/an8.42_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an8/an8.41_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn94_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn51_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn41_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn27_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn135_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn114_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn112_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn101_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn8_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn1_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.99_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.217_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.216_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.212_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.211_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.176_translation-en-sujato.json:1"
+  ]
+}

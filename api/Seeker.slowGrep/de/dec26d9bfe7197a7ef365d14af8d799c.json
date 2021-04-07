@@ -1,0 +1,26 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bmy lasting welfare and happiness",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/dn/dn5_translation-en-sujato.json:5",
+    "translation/en/sujato/sutta/kn/ud/vagga1/ud1.10_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn135_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an7/an7.47_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn22/sn22.1_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn16/sn16.11_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn26_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json:1"
+  ]
+}

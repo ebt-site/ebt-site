@@ -1,0 +1,37 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bmanifestation",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn28_translation-en-sujato.json:6",
+    "translation/en/sujato/sutta/sn/sn14/sn14.36_translation-en-sujato.json:4",
+    "translation/en/sujato/sutta/an/an3/an3.3_translation-en-sujato.json:4",
+    "translation/en/sujato/sutta/sn/sn35/sn35.22_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn35/sn35.21_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn26/sn26.2_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn26/sn26.1_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn26/sn26.10_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn22/sn22.30_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn26/sn26.9_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn129_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn26/sn26.8_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn26/sn26.7_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn26/sn26.6_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn26/sn26.5_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn26/sn26.4_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn26/sn26.3_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn12/sn12.2_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn9_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn141_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json:1"
+  ]
+}

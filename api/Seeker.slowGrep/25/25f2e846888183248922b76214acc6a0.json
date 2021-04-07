@@ -1,0 +1,20 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bwenige wünsche zu haben",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an5/an5.90_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an9/an9.1_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an5/an5.97_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an1/an1.82-97_translation-de-sabbamitta.json:1"
+  ]
+}

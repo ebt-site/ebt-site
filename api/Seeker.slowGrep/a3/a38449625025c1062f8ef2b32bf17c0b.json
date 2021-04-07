@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bcultivation of immersion",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn54/sn54.12_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn54/sn54.11_translation-en-sujato.json:2"
+  ]
+}

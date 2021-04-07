@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bbe directly known",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json:13",
+    "translation/en/sujato/sutta/an/an6/an6.61_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn35/sn35.43-51_translation-en-sujato.json:2"
+  ]
+}

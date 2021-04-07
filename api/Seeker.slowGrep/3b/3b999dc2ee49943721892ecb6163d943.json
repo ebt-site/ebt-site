@@ -1,0 +1,26 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\brenounce the rod and the sword",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn41_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn135_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn114_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn8_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.217_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.216_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.212_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.211_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.176_translation-en-sujato.json:1"
+  ]
+}

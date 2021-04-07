@@ -1,0 +1,29 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bhead hair, body hair",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn51/sn51.20_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn35/sn35.127_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn10/sn10.1_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn62_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn28_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn140_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn119_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/kn/kp/kp3_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an6/an6.29_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json:1"
+  ]
+}

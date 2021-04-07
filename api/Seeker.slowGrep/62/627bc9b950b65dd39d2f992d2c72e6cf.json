@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bsuffering of many",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an2/an2.32-41_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an1/an1.316-332_translation-en-sujato.json:1"
+  ]
+}

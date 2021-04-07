@@ -1,0 +1,23 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bgerechter könig, der sich an grundsätze",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an5/an5.133_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.14_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/dn/dn18_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json:1"
+  ]
+}

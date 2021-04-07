@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\btake pleasure in choices",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn56/sn56.46_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn56/sn56.43_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn56/sn56.42_translation-en-sujato.json:2"
+  ]
+}

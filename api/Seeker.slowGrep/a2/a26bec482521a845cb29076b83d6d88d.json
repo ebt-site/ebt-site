@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bin schulden geraten",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an6/an6.45_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json:1"
+  ]
+}

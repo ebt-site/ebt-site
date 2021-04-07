@@ -1,0 +1,24 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bend of the world",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an9/an9.38_translation-en-sujato.json:11",
+    "translation/en/sujato/sutta/sn/sn2/sn2.26_translation-en-sujato.json:10",
+    "translation/en/sujato/sutta/an/an4/an4.45_translation-en-sujato.json:10",
+    "translation/en/sujato/sutta/sn/sn35/sn35.116_translation-en-sujato.json:7",
+    "translation/en/sujato/sutta/sn/sn35/sn35.228_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/kn/iti/vagga11/iti109_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an4/an4.5_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an4/an4.46_translation-en-sujato.json:1"
+  ]
+}

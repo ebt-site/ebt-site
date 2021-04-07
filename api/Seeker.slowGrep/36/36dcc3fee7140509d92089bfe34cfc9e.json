@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "老いる定め",
+      "maxResults": 1000,
+      "lang": "jpn",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/jpn/kaz/sutta/an/an3/an3.39_translation-jpn-kaz.json:2",
+    "translation/jpn/kaz/sutta/an/an4/an4.182_translation-jpn-kaz.json:1"
+  ]
+}

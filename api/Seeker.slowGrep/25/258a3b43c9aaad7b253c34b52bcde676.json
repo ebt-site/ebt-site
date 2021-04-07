@@ -1,0 +1,31 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bannoyance, hate, and bitterness",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn65_translation-en-sujato.json:4",
+    "translation/en/sujato/sutta/an/an5/an5.157_translation-en-sujato.json:4",
+    "translation/en/sujato/sutta/an/an4/an4.197_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/an/an3/an3.64_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/mn/mn36_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn135_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an3/an3.67_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an3/an3.27_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an3/an3.25_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn79_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn15_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an8/an8.14_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an8/an8.10_translation-en-sujato.json:1"
+  ]
+}

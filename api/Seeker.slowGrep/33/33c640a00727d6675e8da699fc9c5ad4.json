@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bslain by conceit",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn8/sn8.3_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/kn/thag/thag21.1_translation-en-sujato.json:2"
+  ]
+}

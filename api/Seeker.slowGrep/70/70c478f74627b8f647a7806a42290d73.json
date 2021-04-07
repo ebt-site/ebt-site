@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bthe wise give",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/kn/thig/thig13.3_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an5/an5.36_translation-en-sujato.json:1"
+  ]
+}

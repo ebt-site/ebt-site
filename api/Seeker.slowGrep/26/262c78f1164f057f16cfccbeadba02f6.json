@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bnoch für alle äußeren reize",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an3/an3.32_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an3/an3.33_translation-de-sabbamitta.json:2"
+  ]
+}

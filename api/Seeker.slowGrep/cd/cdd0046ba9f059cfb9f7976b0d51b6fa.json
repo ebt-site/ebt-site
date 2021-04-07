@@ -1,0 +1,17 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "深い瞑想の幸福",
+      "maxResults": 1000,
+      "lang": "jpn",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/jpn/kaz/sutta/an/an2/an2.64-76_translation-jpn-kaz.json:2"
+  ]
+}

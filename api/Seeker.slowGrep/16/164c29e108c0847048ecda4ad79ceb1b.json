@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bconcepts of identity",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn18_translation-en-sujato.json:8",
+    "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/kn/ud/vagga7/ud7.7_translation-en-sujato.json:2"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bhaving few wishes",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an5/an5.190_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/an/an5/an5.181_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/an/an1/an1.98-139_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an1/an1.82-97_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn24_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/kn/thag/thag19.1_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an8/an8.30_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an6/an6.114_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an5/an5.184_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an5/an5.183_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an5/an5.182_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an1/an1.61-70_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an1/an1.378-393_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.70_translation-en-sujato.json:1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\brebirth in the dimension",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn36_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn26_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn100_translation-en-sujato.json:1"
+  ]
+}

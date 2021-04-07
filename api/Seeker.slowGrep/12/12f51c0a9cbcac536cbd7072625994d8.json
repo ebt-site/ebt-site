@@ -1,0 +1,15 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "大変よくしてくれ",
+      "maxResults": 1000,
+      "lang": "jpn",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": []
+}

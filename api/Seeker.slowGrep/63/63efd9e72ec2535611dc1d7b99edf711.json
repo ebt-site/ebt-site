@@ -1,0 +1,21 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\btake the wealth",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn41_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn114_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an10/an10.217_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an10/an10.211_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an10/an10.176_translation-en-sujato.json:2"
+  ]
+}

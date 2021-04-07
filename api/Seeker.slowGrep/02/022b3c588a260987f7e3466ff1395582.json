@@ -1,0 +1,25 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bthese four noble truths",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn56/sn56.29_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn56/sn56.23_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn56/sn56.28_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn56/sn56.27_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn56/sn56.26_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn56/sn56.14_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn56/sn56.13_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/kn/thag/thag7.5_translation-en-sujato.json:1"
+  ]
+}
