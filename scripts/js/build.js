@@ -8,16 +8,15 @@ const { Memoizer } = require('memo-again');
 const {
     BilaraData,
     Seeker,
+    ExecGit,
 } = require('scv-bilara');
 const APP_DIR = path.join(__dirname, '..', '..');
 const API_DIR = path.join(APP_DIR, 'api');
 const SRC_DIR = path.join(APP_DIR, 'src');
 const SRC_EXAMPLES = path.join(SRC_DIR, 'examples.js');
 const API_EXAMPLES = path.join(API_DIR, 'examples.json');
-const BILARA_PATH = path.join(APP_DIR, 'local', 'bilara-data');
-const EXAMPLES_DIR = path.join(APP_DIR, 'src', 'examples');
-const EXAMPLES_BASEURL = 
-    'https://raw.githubusercontent.com/sc-voice/scv-static/main/src/examples';
+const EBT_DATA_DIR = path.join(APP_DIR, 'local', 'ebt-data');
+const EXAMPLES_DIR = path.join(EBT_DATA_DIR, 'examples');
 
 logger.logLevel = 'info';
 
@@ -37,9 +36,21 @@ ${json}
 }
 
 (async function(){ try {
-    let bilaraData = await new BilaraData().initialize(true);
+    let execGit = new ExecGit({
+        repo: 'https://github.com/ebt-site/ebt-data.git',
+        logger,
+    });
+    let bilaraData = new BilaraData({
+        name: 'ebt-data',
+        branch: 'published',
+        execGit,
+    });
+    await bilaraData.initialize();
 
-    let exampleFiles = await fs.promises.readdir(EXAMPLES_DIR);
+    let exampleFiles = (await fs.promises.readdir(EXAMPLES_DIR))
+        .filter(f=>/examples-/.test(f));
+    logger.info(`exampleFiles`, exampleFiles);
+
     let examples = {};
     let languages = [];
     for (exampleFile of exampleFiles) {
@@ -75,6 +86,7 @@ ${json}
     let matchHighlight = '<span class="scv-matched">$&</span>';
     let skr = await new Seeker({
         bilaraData,
+        root: EBT_DATA_DIR,
         memoizer,
     }).initialize();
     logger.logLevel = 'warn';

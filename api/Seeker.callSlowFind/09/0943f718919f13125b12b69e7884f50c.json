@@ -32,7 +32,7 @@
     "pattern": "grausam",
     "method": "phrase",
     "resultPattern": "\\bgrausam",
-    "segsMatched": 39,
+    "segsMatched": 40,
     "bilaraPaths": [
       "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
@@ -73,6 +73,9 @@
       "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/an/an6/an6.58_translation-de-sabbamitta.json",
       "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.57_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/an/an5/an5.140_translation-de-sabbamitta.json",
       "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json",
@@ -121,6 +124,7 @@
       "dn32/de/sabbamitta",
       "dn17/de/sabbamitta",
       "an6.58/de/sabbamitta",
+      "an6.57/de/sabbamitta",
       "an5.140/de/sabbamitta",
       "an4.262/de/sabbamitta",
       "an4.198/de/sabbamitta",
@@ -749,6 +753,38 @@
           "pli": 59,
           "de": 58,
           "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.57_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.57",
+        "lang": "de",
+        "segMap": {
+          "an6.57:2.1": {
+            "scid": "an6.57:2.1",
+            "pli": "Tatridaṁ, bhante, pūraṇena kassapena kaṇhābhijāti paññattā, orabbhikā sūkarikā sākuṇikā māgavikā luddā macchaghātakā corā coraghātakā bandhanāgārikā ye vā panaññepi keci kurūrakammantā. ",
+            "de": "Die schwarze Wiedergeburtsklasse besteht aus denen, die Schafe, Schweine, Geflügel oder Rotwild schlachten, der Jagd oder Fischerei nachgehen, die Räuber oder Henker, Rindermetzger oder Kerkermeister sind oder ein anderes <span class=\"scv-matched\">grausam</span>es Geschäft betreiben. ",
+            "en": "The black class of rebirth consists of slaughterers of sheep, pigs, poultry, or deer, hunters or fishers, bandits, executioners, butchers of cattle, jailers, and any others with a cruel livelihood. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n6. Das große Kapitel\n57. Wiedergeburtsklassen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 67,
+          "de": 62,
+          "en": 66
         }
       },
       {

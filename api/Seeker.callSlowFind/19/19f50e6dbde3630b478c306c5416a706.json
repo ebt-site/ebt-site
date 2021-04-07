@@ -31,7 +31,7 @@
     "pattern": "to the higher mind",
     "method": "phrase",
     "resultPattern": "\\bto the higher mind",
-    "segsMatched": 61,
+    "segsMatched": 60,
     "bilaraPaths": [
       "root/pli/ms/sutta/an/an5/an5.179_root-pli-ms.json",
       "translation/en/sujato/sutta/an/an5/an5.179_translation-en-sujato.json",
@@ -59,8 +59,6 @@
       "translation/en/sujato/sutta/kn/ud/vagga4/ud4.7_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/thag/thag10.7_root-pli-ms.json",
       "translation/en/sujato/sutta/kn/thag/thag10.7_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp179-196_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp179-196_translation-en-sujato.json",
       "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
       "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json",
       "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
@@ -136,7 +134,6 @@
       "mn108/en/sujato",
       "ud4.7/en/sujato",
       "thag10.7/en/sujato",
-      "dhp179-196/en/sujato",
       "dn28/en/sujato",
       "dn14/en/sujato",
       "an8.71/en/sujato",
@@ -1341,35 +1338,6 @@
         "segsMatched": 1,
         "langSegs": {
           "pli": 78,
-          "en": 77
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp179-196_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp179-196_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp179-196",
-        "lang": "en",
-        "segMap": {
-          "dhp185:5": {
-            "scid": "dhp185:5",
-            "pli": "Adhicitte ca āyogo,",
-            "en": "commitment <span class=\"scv-matched\">to the higher mind</span>—",
-            "matched": true
-          }
-        },
-        "score": 1.011,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n14. The Buddhas\nMāradhītaravatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 88,
           "en": 77
         }
       },

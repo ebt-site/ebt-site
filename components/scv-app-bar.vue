@@ -56,7 +56,7 @@ export default {
     },
     title: {
       type: String,
-      default: "scv-static",
+      default: "ebt-vue",
     },
     imgUrl: {
       type: String,

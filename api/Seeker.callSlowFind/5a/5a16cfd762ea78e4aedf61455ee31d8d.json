@@ -31,7 +31,7 @@
     "pattern": "puppet",
     "method": "phrase",
     "resultPattern": "\\bpuppet",
-    "segsMatched": 12,
+    "segsMatched": 11,
     "bilaraPaths": [
       "root/pli/ms/sutta/sn/sn5/sn5.9_root-pli-ms.json",
       "translation/en/sujato/sutta/sn/sn5/sn5.9_translation-en-sujato.json",
@@ -46,9 +46,7 @@
       "root/pli/ms/sutta/kn/thag/thag20.1_root-pli-ms.json",
       "translation/en/sujato/sutta/kn/thag/thag20.1_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/thag/thag16.4_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/thag/thag16.4_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp146-156_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp146-156_translation-en-sujato.json"
+      "translation/en/sujato/sutta/kn/thag/thag16.4_translation-en-sujato.json"
     ],
     "suttaRefs": [
       "sn5.9/en/sujato",
@@ -57,8 +55,7 @@
       "sn48.41/en/sujato",
       "mn82/en/sujato",
       "thag20.1/en/sujato",
-      "thag16.4/en/sujato",
-      "dhp146-156/en/sujato"
+      "thag16.4/en/sujato"
     ],
     "mlDocs": [
       {
@@ -199,35 +196,6 @@
         "langSegs": {
           "pli": 25,
           "en": 24
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp146-156_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp146-156_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp146-156",
-        "lang": "en",
-        "segMap": {
-          "dhp147:1": {
-            "scid": "dhp147:1",
-            "pli": "Passa cittakataṁ bimbaṁ,",
-            "en": "See this fancy <span class=\"scv-matched\">puppet</span>,",
-            "matched": true
-          }
-        },
-        "score": 1.017,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n11. Old Age\nVisākhāyasahāyikānaṁvatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 59,
-          "en": 49
         }
       },
       {

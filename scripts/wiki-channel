@@ -16,7 +16,7 @@ cat > $SLUGFILE << SLUG
   </scv-article>
 </template>
 <script>
-  import { ScvVue } from '@sc-voice/scv-static';
+  import { ScvVue } from 'ebt-vue';
   const { ScvArticle } = ScvVue;
   export default {
     async asyncData({ \$content, params }) {

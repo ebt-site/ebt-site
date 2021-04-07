@@ -43,7 +43,7 @@ export default {
       console.log(`search:`, value);
     },
     githubUrl(path) {
-      return `https://github.com/sc-voice/scv-static/blob/main/${path}`;
+      return `https://github.com/ebt-site/ebt-vue/blob/main/${path}`;
     },
   },
   computed: {

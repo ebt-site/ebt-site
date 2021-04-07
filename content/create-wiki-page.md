@@ -18,5 +18,5 @@ automatically updated and deployed.
 ### Images
 Images are stored in the `static` folder.
 For example, the candle image shown on this page is stored in 
-[static/candle.png](https://github.com/sc-voice/scv-static/blob/main/static/candle.png)
+[static/candle.png](https://github.com/ebt-site/ebt-vue/blob/main/static/candle.png)
 

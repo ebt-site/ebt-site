@@ -31,7 +31,7 @@
     "pattern": "moderation in eating",
     "method": "phrase",
     "resultPattern": "\\bmoderation in eating",
-    "segsMatched": 11,
+    "segsMatched": 10,
     "bilaraPaths": [
       "root/pli/ms/sutta/sn/sn3/sn3.13_root-pli-ms.json",
       "translation/en/sujato/sutta/sn/sn3/sn3.13_translation-en-sujato.json",
@@ -41,8 +41,6 @@
       "translation/en/sujato/sutta/kn/ud/vagga4/ud4.6_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/iti/vagga4/iti29_root-pli-ms.json",
       "translation/en/sujato/sutta/kn/iti/vagga4/iti29_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp179-196_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp179-196_translation-en-sujato.json",
       "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
       "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
       "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
@@ -57,7 +55,6 @@
       "mn53/en/sujato",
       "ud4.6/en/sujato",
       "iti29/en/sujato",
-      "dhp179-196/en/sujato",
       "dn33/en/sujato",
       "dn14/en/sujato",
       "an5.150/en/sujato",
@@ -219,35 +216,6 @@
         "langSegs": {
           "pli": 90,
           "en": 89
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp179-196_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp179-196_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp179-196",
-        "lang": "en",
-        "segMap": {
-          "dhp185:3": {
-            "scid": "dhp185:3",
-            "pli": "Mattaññutā ca bhattasmiṁ,",
-            "en": "<span class=\"scv-matched\">moderation in eating</span>; ",
-            "matched": true
-          }
-        },
-        "score": 1.011,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n14. The Buddhas\nMāradhītaravatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 88,
-          "en": 77
         }
       },
       {

@@ -32,7 +32,7 @@
     "pattern": "gesund",
     "method": "phrase",
     "resultPattern": "\\bgesund",
-    "segsMatched": 39,
+    "segsMatched": 40,
     "bilaraPaths": [
       "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
@@ -82,6 +82,9 @@
       "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/an/an6/an6.58_translation-de-sabbamitta.json",
       "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.57_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an5/an5.29_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/an/an5/an5.29_translation-de-sabbamitta.json",
       "translation/en/sujato/sutta/an/an5/an5.29_translation-en-sujato.json",
@@ -115,6 +118,7 @@
       "dn19/de/sabbamitta",
       "dn12/de/sabbamitta",
       "an6.58/de/sabbamitta",
+      "an6.57/de/sabbamitta",
       "an5.29/de/sabbamitta",
       "an4.70/de/sabbamitta",
       "an3.155/de/sabbamitta",
@@ -758,6 +762,38 @@
           "pli": 59,
           "de": 58,
           "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.57_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.57",
+        "lang": "de",
+        "segMap": {
+          "an6.57:9.4": {
+            "scid": "an6.57:9.4",
+            "pli": "Evamevaṁ kho, ānanda, pūraṇena kassapena appaṭiññāya etesaṁ samaṇabrāhmaṇānaṁ imā chaḷabhijātiyo paññattā, yathā taṁ bālena abyattena akhettaññunā akusalena. ",
+            "de": "Ebenso hat Pūraṇa Kassapa diese sechs Wiedergeburtsklassen ohne die Zustimmung jener Asketen und Brahmanen beschrieben. Und er hat es auf törichte, unfähige und untaugliche Weise getan, ohne <span class=\"scv-matched\">gesund</span>en Menschenverstand. ",
+            "en": "In the same way, Pūraṇa Kassapa has described these six classes of rebirth without the consent of those ascetics and brahmins. And he has done so in a foolish, incompetent, unskilled way, lacking common sense. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n6. Das große Kapitel\n57. Wiedergeburtsklassen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 67,
+          "de": 62,
+          "en": 66
         }
       },
       {

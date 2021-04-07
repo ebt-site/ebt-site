@@ -31,7 +31,7 @@
     "pattern": "anxiety",
     "method": "phrase",
     "resultPattern": "\\banxiety",
-    "segsMatched": 27,
+    "segsMatched": 26,
     "bilaraPaths": [
       "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
       "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json",
@@ -47,8 +47,6 @@
       "translation/en/sujato/sutta/sn/sn22/sn22.90_translation-en-sujato.json",
       "root/pli/ms/sutta/mn/mn98_root-pli-ms.json",
       "translation/en/sujato/sutta/mn/mn98_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp383-423_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp383-423_translation-en-sujato.json",
       "root/pli/ms/sutta/dn/dn1_root-pli-ms.json",
       "translation/en/sujato/sutta/dn/dn1_translation-en-sujato.json"
     ],
@@ -60,7 +58,6 @@
       "sn2.17/en/sujato",
       "sn22.90/en/sujato",
       "mn98/en/sujato",
-      "dhp383-423/en/sujato",
       "dn1/en/sujato"
     ],
     "mlDocs": [
@@ -344,35 +341,6 @@
         "langSegs": {
           "pli": 100,
           "en": 99
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp383-423_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp383-423_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp383-423",
-        "lang": "en",
-        "segMap": {
-          "dhp397:2": {
-            "scid": "dhp397:2",
-            "pli": "yo ve na paritassati;",
-            "en": "they have no <span class=\"scv-matched\">anxiety</span>. ",
-            "matched": true
-          }
-        },
-        "score": 1.004,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n26. Brahmins\nPasādabahulabrāhmaṇavatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 270,
-          "en": 181
         }
       },
       {

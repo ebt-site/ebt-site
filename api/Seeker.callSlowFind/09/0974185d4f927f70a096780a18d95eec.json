@@ -31,14 +31,12 @@
     "pattern": "letting go of attachments",
     "method": "phrase",
     "resultPattern": "\\bletting go of attachments",
-    "segsMatched": 7,
+    "segsMatched": 6,
     "bilaraPaths": [
       "root/pli/ms/sutta/sn/sn46/sn46.17_root-pli-ms.json",
       "translation/en/sujato/sutta/sn/sn46/sn46.17_translation-en-sujato.json",
       "root/pli/ms/sutta/sn/sn45/sn45.34_root-pli-ms.json",
       "translation/en/sujato/sutta/sn/sn45/sn45.34_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp76-89_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp76-89_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an10/an10.170_root-pli-ms.json",
       "translation/en/sujato/sutta/an/an10/an10.170_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an10/an10.169_root-pli-ms.json",
@@ -51,7 +49,6 @@
     "suttaRefs": [
       "sn46.17/en/sujato",
       "sn45.34/en/sujato",
-      "dhp76-89/en/sujato",
       "an10.170/en/sujato",
       "an10.169/en/sujato",
       "an10.118/en/sujato",
@@ -230,35 +227,6 @@
         "langSegs": {
           "pli": 40,
           "en": 39
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp76-89_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp76-89_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp76-89",
-        "lang": "en",
-        "segMap": {
-          "dhp89:3": {
-            "scid": "dhp89:3",
-            "pli": "Ādānapaṭinissagge,",
-            "en": "who, <span class=\"scv-matched\">letting go of attachments</span>, ",
-            "matched": true
-          }
-        },
-        "score": 1.013,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n6. The Astute\nRādhattheravatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 75,
-          "en": 63
         }
       }
     ]

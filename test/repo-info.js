@@ -5,8 +5,8 @@
     it("TESTTESTinfo => repository info", async()=>{
         let info = await RepoInfo.info();
         should.deepEqual(info, {
-            account: 'sc-voice',
-            repository: 'scv-static',
+            account: 'ebt-site',
+            repository: 'ebt-vue',
         });
     });
 })

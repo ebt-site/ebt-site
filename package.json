@@ -1,7 +1,7 @@
 {
-  "name": "@sc-voice/scv-static",
+  "name": "ebt-vue",
   "version": "0.5.74",
-  "description": "SuttaCentral Voice static website library",
+  "description": "Vue/Vuetify component library for EBT-Site",
   "main": "index.js",
   "public": true,
   "directories": {
@@ -12,7 +12,7 @@
     "@nuxt/content": "^1.13.1",
     "core-js": "^3.6.5",
     "nuxt": "^2.14.12",
-    "scv-bilara": "^2.1.6",
+    "scv-bilara": "^2.1.7",
     "vue-cookie": "^1.1.4",
     "vue-details": "^1.0.9"
   },

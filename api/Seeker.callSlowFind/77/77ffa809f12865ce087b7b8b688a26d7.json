@@ -31,7 +31,7 @@
     "pattern": "moderation",
     "method": "phrase",
     "resultPattern": "\\bmoderation",
-    "segsMatched": 80,
+    "segsMatched": 78,
     "bilaraPaths": [
       "root/pli/ms/sutta/an/an7/an7.68_root-pli-ms.json",
       "translation/en/sujato/sutta/an/an7/an7.68_translation-en-sujato.json",
@@ -89,10 +89,6 @@
       "translation/en/sujato/sutta/kn/thag/thag15.1_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/thag/thag10.6_root-pli-ms.json",
       "translation/en/sujato/sutta/kn/thag/thag10.6_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp179-196_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp179-196_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp1-20_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp1-20_translation-en-sujato.json",
       "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
       "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
       "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
@@ -137,8 +133,6 @@
       "thag16.10/en/sujato",
       "thag15.1/en/sujato",
       "thag10.6/en/sujato",
-      "dhp179-196/en/sujato",
-      "dhp1-20/en/sujato",
       "dn34/en/sujato",
       "dn28/en/sujato",
       "dn14/en/sujato",
@@ -1303,64 +1297,6 @@
         "langSegs": {
           "pli": 90,
           "en": 89
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp179-196_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp179-196_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp179-196",
-        "lang": "en",
-        "segMap": {
-          "dhp185:3": {
-            "scid": "dhp185:3",
-            "pli": "Mattaññutā ca bhattasmiṁ,",
-            "en": "<span class=\"scv-matched\">moderation</span> in eating; ",
-            "matched": true
-          }
-        },
-        "score": 1.011,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n14. The Buddhas\nMāradhītaravatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 88,
-          "en": 77
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp1-20_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp1-20_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp1-20",
-        "lang": "en",
-        "segMap": {
-          "dhp8:3": {
-            "scid": "dhp8:3",
-            "pli": "Bhojanamhi ca mattaññuṁ,",
-            "en": "eating in <span class=\"scv-matched\">moderation</span>, ",
-            "matched": true
-          }
-        },
-        "score": 1.009,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n1. Pairs\nCakkhupālattheravatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 108,
-          "en": 93
         }
       },
       {

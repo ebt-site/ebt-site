@@ -31,7 +31,7 @@
     "pattern": "loved one",
     "method": "phrase",
     "resultPattern": "\\bloved one",
-    "segsMatched": 31,
+    "segsMatched": 30,
     "bilaraPaths": [
       "root/pli/ms/sutta/mn/mn87_root-pli-ms.json",
       "translation/en/sujato/sutta/mn/mn87_translation-en-sujato.json",
@@ -43,8 +43,6 @@
       "translation/en/sujato/sutta/mn/mn56_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/thag/thag19.1_root-pli-ms.json",
       "translation/en/sujato/sutta/kn/thag/thag19.1_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp209-220_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp209-220_translation-en-sujato.json",
       "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
       "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an8/an8.44_root-pli-ms.json",
@@ -62,7 +60,6 @@
       "sn3.4/en/sujato",
       "mn56/en/sujato",
       "thag19.1/en/sujato",
-      "dhp209-220/en/sujato",
       "dn30/en/sujato",
       "an8.44/en/sujato",
       "an7.64/en/sujato",
@@ -333,35 +330,6 @@
         "langSegs": {
           "pli": 59,
           "en": 59
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp209-220_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp209-220_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp209-220",
-        "lang": "en",
-        "segMap": {
-          "dhp219:3": {
-            "scid": "dhp219:3",
-            "pli": "Ñātimittā suhajjā ca,",
-            "en": "family, friends, and <span class=\"scv-matched\">loved one</span>s",
-            "matched": true
-          }
-        },
-        "score": 1.016,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n16. The Beloved\nTayojanapabbajitavatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 61,
-          "en": 51
         }
       },
       {

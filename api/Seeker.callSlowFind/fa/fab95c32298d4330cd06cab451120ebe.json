@@ -31,7 +31,7 @@
     "pattern": "signless",
     "method": "phrase",
     "resultPattern": "\\bsignless",
-    "segsMatched": 67,
+    "segsMatched": 65,
     "bilaraPaths": [
       "root/pli/ms/sutta/mn/mn43_root-pli-ms.json",
       "translation/en/sujato/sutta/mn/mn43_translation-en-sujato.json",
@@ -49,8 +49,6 @@
       "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an6/an6.60_root-pli-ms.json",
       "translation/en/sujato/sutta/an/an6/an6.60_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp90-99_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp90-99_translation-en-sujato.json",
       "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
       "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an6/an6.13_root-pli-ms.json",
@@ -91,7 +89,6 @@
       "sn22.80/en/sujato",
       "dn33/en/sujato",
       "an6.60/en/sujato",
-      "dhp90-99/en/sujato",
       "dn34/en/sujato",
       "an6.13/en/sujato",
       "sn8.4/en/sujato",
@@ -614,41 +611,6 @@
         "langSegs": {
           "pli": 49,
           "en": 48
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp90-99_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp90-99_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp90-99",
-        "lang": "en",
-        "segMap": {
-          "dhp92:4": {
-            "scid": "dhp92:4",
-            "pli": "vimokkho yesaṁ gocaro;",
-            "en": "of the <span class=\"scv-matched\">signless</span> and the empty:",
-            "matched": true
-          },
-          "dhp93:4": {
-            "scid": "dhp93:4",
-            "pli": "vimokkho yassa gocaro;",
-            "en": "of the <span class=\"scv-matched\">signless</span> and the empty:",
-            "matched": true
-          }
-        },
-        "score": 2.034,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n7. The Perfected Ones\nJīvakapañhavatthu",
-        "segsMatched": 2,
-        "langSegs": {
-          "pli": 58,
-          "en": 47
         }
       },
       {

@@ -255,8 +255,8 @@
                 let guid = this.exampleGuid(pattern, lang);
                 let url = [
                     'https://raw.githubusercontent.com',
-                    'sc-voice',
-                    'scv-static',
+                    'ebt-site',
+                    'ebt-vue',
                     'main',
                     'api',
                     'Seeker.callSlowFind',

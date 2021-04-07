@@ -31,7 +31,7 @@
     "pattern": "giant",
     "method": "phrase",
     "resultPattern": "\\bgiant",
-    "segsMatched": 51,
+    "segsMatched": 50,
     "bilaraPaths": [
       "root/pli/ms/sutta/an/an6/an6.43_root-pli-ms.json",
       "translation/en/sujato/sutta/an/an6/an6.43_translation-en-sujato.json",
@@ -60,9 +60,7 @@
       "root/pli/ms/sutta/kn/thag/thag4.6_root-pli-ms.json",
       "translation/en/sujato/sutta/kn/thag/thag4.6_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/thag/thag16.6_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/thag/thag16.6_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp320-333_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp320-333_translation-en-sujato.json"
+      "translation/en/sujato/sutta/kn/thag/thag16.6_translation-en-sujato.json"
     ],
     "suttaRefs": [
       "an6.43/en/sujato",
@@ -78,8 +76,7 @@
       "mn24/en/sujato",
       "ud4.4/en/sujato",
       "thag4.6/en/sujato",
-      "thag16.6/en/sujato",
-      "dhp320-333/en/sujato"
+      "thag16.6/en/sujato"
     ],
     "mlDocs": [
       {
@@ -557,35 +554,6 @@
         "langSegs": {
           "pli": 54,
           "en": 53
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp320-333_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp320-333_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp320-333",
-        "lang": "en",
-        "segMap": {
-          "dhp322:4": {
-            "scid": "dhp322:4",
-            "pli": "attadanto tato varaṁ.",
-            "en": "or <span class=\"scv-matched\">giant</span> tuskers.",
-            "matched": true
-          }
-        },
-        "score": 1.015,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n23. Elephants\nAttadantavatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 68,
-          "en": 59
         }
       },
       {

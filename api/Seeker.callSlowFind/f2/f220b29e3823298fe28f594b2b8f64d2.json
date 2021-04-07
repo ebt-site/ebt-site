@@ -31,7 +31,7 @@
     "pattern": "hard to find",
     "method": "phrase",
     "resultPattern": "\\bhard to find",
-    "segsMatched": 29,
+    "segsMatched": 28,
     "bilaraPaths": [
       "root/pli/ms/sutta/an/an5/an5.60_root-pli-ms.json",
       "translation/en/sujato/sutta/an/an5/an5.60_translation-en-sujato.json",
@@ -57,8 +57,6 @@
       "translation/en/sujato/sutta/kn/thag/thag2.9_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/thag/thag2.47_root-pli-ms.json",
       "translation/en/sujato/sutta/kn/thag/thag2.47_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp179-196_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp179-196_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an8/an8.29_root-pli-ms.json",
       "translation/en/sujato/sutta/an/an8/an8.29_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
@@ -87,7 +85,6 @@
       "thig16.1/en/sujato",
       "thag2.9/en/sujato",
       "thag2.47/en/sujato",
-      "dhp179-196/en/sujato",
       "an8.29/en/sujato",
       "an6.57/en/sujato",
       "an4.85/en/sujato",
@@ -613,35 +610,6 @@
         "langSegs": {
           "pli": 74,
           "en": 73
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp179-196_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp179-196_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp179-196",
-        "lang": "en",
-        "segMap": {
-          "dhp193:1": {
-            "scid": "dhp193:1",
-            "pli": "Dullabho purisājañño,",
-            "en": "It’s <span class=\"scv-matched\">hard to find</span> a thoroughbred man",
-            "matched": true
-          }
-        },
-        "score": 1.011,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n14. The Buddhas\nMāradhītaravatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 88,
-          "en": 77
         }
       },
       {

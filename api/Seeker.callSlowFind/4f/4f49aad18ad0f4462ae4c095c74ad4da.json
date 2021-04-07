@@ -31,14 +31,12 @@
     "pattern": "rid of craving",
     "method": "phrase",
     "resultPattern": "\\brid of craving",
-    "segsMatched": 15,
+    "segsMatched": 13,
     "bilaraPaths": [
       "root/pli/ms/sutta/mn/mn18_root-pli-ms.json",
       "translation/en/sujato/sutta/mn/mn18_translation-en-sujato.json",
       "root/pli/ms/sutta/mn/mn11_root-pli-ms.json",
       "translation/en/sujato/sutta/mn/mn11_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp334-359_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp334-359_translation-en-sujato.json",
       "root/pli/ms/sutta/mn/mn82_root-pli-ms.json",
       "translation/en/sujato/sutta/mn/mn82_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/thag/thag16.8_root-pli-ms.json",
@@ -59,7 +57,6 @@
     "suttaRefs": [
       "mn18/en/sujato",
       "mn11/en/sujato",
-      "dhp334-359/en/sujato",
       "mn82/en/sujato",
       "thag16.8/en/sujato",
       "thag16.4/en/sujato",
@@ -109,41 +106,6 @@
         "langSegs": {
           "pli": 132,
           "en": 131
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp334-359_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp334-359_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp334-359",
-        "lang": "en",
-        "segMap": {
-          "dhp351:2": {
-            "scid": "dhp351:2",
-            "pli": "vītataṇho anaṅgaṇo;",
-            "en": "<span class=\"scv-matched\">rid of craving</span>, free of blemish, ",
-            "matched": true
-          },
-          "dhp352:1": {
-            "scid": "dhp352:1",
-            "pli": "Vītataṇho anādāno,",
-            "en": "<span class=\"scv-matched\">Rid of craving</span>, free of grasping,",
-            "matched": true
-          }
-        },
-        "score": 2.016,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n24. Craving\nKapilamacchavatthu",
-        "segsMatched": 2,
-        "langSegs": {
-          "pli": 124,
-          "en": 111
         }
       },
       {

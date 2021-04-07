@@ -31,7 +31,7 @@
     "pattern": "hard to see",
     "method": "phrase",
     "resultPattern": "\\bhard to see",
-    "segsMatched": 41,
+    "segsMatched": 39,
     "bilaraPaths": [
       "root/pli/ms/sutta/dn/dn1_root-pli-ms.json",
       "translation/en/sujato/sutta/dn/dn1_translation-en-sujato.json",
@@ -62,11 +62,7 @@
       "root/pli/ms/sutta/kn/thag/thag19.1_root-pli-ms.json",
       "translation/en/sujato/sutta/kn/thag/thag19.1_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/thag/thag1.4_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/thag/thag1.4_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp33-43_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp33-43_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp235-255_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp235-255_translation-en-sujato.json"
+      "translation/en/sujato/sutta/kn/thag/thag1.4_translation-en-sujato.json"
     ],
     "suttaRefs": [
       "dn1/en/sujato",
@@ -83,9 +79,7 @@
       "thig3.5/en/sujato",
       "thag2.46/en/sujato",
       "thag19.1/en/sujato",
-      "thag1.4/en/sujato",
-      "dhp33-43/en/sujato",
-      "dhp235-255/en/sujato"
+      "thag1.4/en/sujato"
     ],
     "mlDocs": [
       {
@@ -582,35 +576,6 @@
       },
       {
         "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp33-43_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp33-43_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp33-43",
-        "lang": "en",
-        "segMap": {
-          "dhp36:1": {
-            "scid": "dhp36:1",
-            "pli": "Sududdasaṁ sunipuṇaṁ,",
-            "en": "So <span class=\"scv-matched\">hard to see</span>, so subtle,",
-            "matched": true
-          }
-        },
-        "score": 1.018,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n3. The Mind\nMeghiyattheravatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 57,
-          "en": 47
-        }
-      },
-      {
-        "bilaraPaths": [
           "root/pli/ms/sutta/sn/sn43/sn43.14-43_root-pli-ms.json",
           "translation/en/sujato/sutta/sn/sn43/sn43.14-43_translation-en-sujato.json"
         ],
@@ -636,35 +601,6 @@
         "langSegs": {
           "pli": 67,
           "en": 66
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp235-255_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp235-255_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp235-255",
-        "lang": "en",
-        "segMap": {
-          "dhp252:2": {
-            "scid": "dhp252:2",
-            "pli": "attano pana duddasaṁ;",
-            "en": "<span class=\"scv-matched\">hard to see</span> one’s own.",
-            "matched": true
-          }
-        },
-        "score": 1.01,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n18. Stains\nGoghātakaputtavatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 104,
-          "en": 104
         }
       },
       {

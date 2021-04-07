@@ -4,7 +4,7 @@ const http = require('http');
 const express = require('express');
 const app = module.exports = express();
 
-const ROOT='scv-static';
+const ROOT='ebt-vue';
 app.use(`/${ROOT}`, express.static('dist'))
 
 

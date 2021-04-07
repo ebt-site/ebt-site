@@ -1,6 +1,6 @@
 #!/bin/bash
 
-let URL=https://raw.githubusercontent.com/sc-voice/scv-static/main/src/examples.js
+let URL=https://raw.githubusercontent.com/ebt-site/ebt-vue/main/src/examples.js
 
 curl $URL \
   -H 'Connection: keep-alive' \

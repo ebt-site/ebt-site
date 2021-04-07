@@ -31,7 +31,7 @@
     "pattern": "rafter",
     "method": "phrase",
     "resultPattern": "\\brafter",
-    "segsMatched": 18,
+    "segsMatched": 17,
     "bilaraPaths": [
       "root/pli/ms/sutta/sn/sn48/sn48.52_root-pli-ms.json",
       "translation/en/sujato/sutta/sn/sn48/sn48.52_translation-en-sujato.json",
@@ -57,8 +57,6 @@
       "translation/en/sujato/sutta/mn/mn100_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/thag/thag2.32_root-pli-ms.json",
       "translation/en/sujato/sutta/kn/thag/thag2.32_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp146-156_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp146-156_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an6/an6.53_root-pli-ms.json",
       "translation/en/sujato/sutta/an/an6/an6.53_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an10/an10.15_root-pli-ms.json",
@@ -77,7 +75,6 @@
       "mn12/en/sujato",
       "mn100/en/sujato",
       "thag2.32/en/sujato",
-      "dhp146-156/en/sujato",
       "an6.53/en/sujato",
       "an10.15/en/sujato"
     ],
@@ -388,35 +385,6 @@
         "langSegs": {
           "pli": 45,
           "en": 42
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp146-156_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp146-156_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp146-156",
-        "lang": "en",
-        "segMap": {
-          "dhp154:3": {
-            "scid": "dhp154:3",
-            "pli": "Sabbā te phāsukā bhaggā,",
-            "en": "Your <span class=\"scv-matched\">rafter</span>s are all broken,",
-            "matched": true
-          }
-        },
-        "score": 1.017,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n11. Old Age\nVisākhāyasahāyikānaṁvatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 59,
-          "en": 49
         }
       },
       {

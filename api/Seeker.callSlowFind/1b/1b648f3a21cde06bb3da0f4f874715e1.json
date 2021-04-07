@@ -31,7 +31,7 @@
     "pattern": "on love",
     "method": "phrase",
     "resultPattern": "\\bon love",
-    "segsMatched": 6,
+    "segsMatched": 5,
     "bilaraPaths": [
       "root/pli/ms/sutta/mn/mn62_root-pli-ms.json",
       "translation/en/sujato/sutta/mn/mn62_translation-en-sujato.json",
@@ -40,16 +40,13 @@
       "root/pli/ms/sutta/kn/kp/kp9_root-pli-ms.json",
       "translation/en/sujato/sutta/kn/kp/kp9_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/iti/vagga3/iti27_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/iti/vagga3/iti27_translation-en-sujato.json",
-      "root/pli/ms/sutta/kn/dhp/dhp360-382_root-pli-ms.json",
-      "translation/en/sujato/sutta/kn/dhp/dhp360-382_translation-en-sujato.json"
+      "translation/en/sujato/sutta/kn/iti/vagga3/iti27_translation-en-sujato.json"
     ],
     "suttaRefs": [
       "mn62/en/sujato",
       "mn118/en/sujato",
       "kp9/en/sujato",
-      "iti27/en/sujato",
-      "dhp360-382/en/sujato"
+      "iti27/en/sujato"
     ],
     "mlDocs": [
       {
@@ -143,35 +140,6 @@
         "langSegs": {
           "pli": 47,
           "en": 35
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/kn/dhp/dhp360-382_root-pli-ms.json",
-          "translation/en/sujato/sutta/kn/dhp/dhp360-382_translation-en-sujato.json"
-        ],
-        "author_uid": "sujato",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dhp360-382",
-        "lang": "en",
-        "segMap": {
-          "dhp368:1": {
-            "scid": "dhp368:1",
-            "pli": "Mettāvihārī yo bhikkhu,",
-            "en": "A mendicant who meditates <span class=\"scv-matched\">on love</span>,",
-            "matched": true
-          }
-        },
-        "score": 1.009,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Minor Collection\nSayings of the Dhamma\n25. Mendicants\nPañcabhikkhuvatthu",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 113,
-          "en": 100
         }
       },
       {
