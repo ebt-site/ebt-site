@@ -71,5 +71,5 @@ It may also help to look at the source for this wiki page itself
 for ideas on how to include images:
 
 
-[content/author/add-image.md](https://raw.githubusercontent.com/sc-voice/ebt-site/main/content/author/add-image.md)
+[content/author/add-image.md](https://raw.githubusercontent.com/ebt-site/ebt-vue/main/content/author/add-image.md)
 

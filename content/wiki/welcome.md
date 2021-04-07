@@ -9,7 +9,7 @@ order: 9999
 
 ## Overview
 EBT-Vue is the [Jamstack](https://jamstack.org/) framework 
-used to build [EBT-Site](https://sc-voice.github.io/ebt-site).
+used to build [EBT-Site](https://ebt-site.github.io/ebt-vue).
 The framework includes:
 
 * Javascript APIs for [SuttaCentral.net](https://suttacentral.net)
@@ -30,7 +30,7 @@ On Ubuntu or Debian, open a terminal window
 to install the `ebt-vue` framework.
 
 
-<pre> npm install --save @sc-voice/ebt-vue </pre>
+<pre> npm install --save ebt-vue </pre>
 
 To launch the developer website on `https://localhost:3000`
 
