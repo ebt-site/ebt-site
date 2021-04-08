@@ -49,14 +49,14 @@
         let bw = new BilaraWeb({fetch});
         let example = 'root of suffering';
         let lang = 'en';
-        let guid = 'f0f933e47f162a7a7824c1378804efbf';
+        let guid = 'f0453d300d1391f5bded7acb6b3ae5c0';
         should(bw.exampleGuid(example, lang)).equal(guid);
     });
     it("TESTTESTexampleGuid(...) => de guid", async()=>{
         let bw = new BilaraWeb({fetch});
         let example = 'sei.* abhängig entstanden';
         let lang = 'de';
-        let guid = 'e68b92c404fbf58e108917ab8d493c03';
+        let guid = '6887db39e3f45d06e4e87ebf004a0334';
         should(bw.exampleGuid(example, lang)).equal(guid);
     });
     it("find(...) finds example", async()=>{

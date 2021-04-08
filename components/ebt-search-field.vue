@@ -22,7 +22,6 @@
 
 <script>
 import Vue from 'vue';
-const GITHUB = 'https://raw.githubusercontent.com';
 
 export default {
   components: {

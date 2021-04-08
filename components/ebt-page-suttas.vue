@@ -42,9 +42,6 @@ export default {
     search(value) {
       console.log(`search:`, value);
     },
-    githubUrl(path) {
-      return `https://github.com/ebt-site/ebt-vue/blob/main/${path}`;
-    },
   },
   computed: {
     version() {

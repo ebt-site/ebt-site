@@ -155,7 +155,6 @@ import {
   mdiLaunch, 
   mdiDotsHorizontal,
 } from '@mdi/js'
-const GITHUB = 'https://raw.githubusercontent.com';
 const {
   SuttaDuration,
 } = require('../src/index');
