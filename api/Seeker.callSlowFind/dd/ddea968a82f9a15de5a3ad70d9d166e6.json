@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,13 +66,13 @@
           "an8.74:2.4": {
             "scid": "an8.74:2.4",
             "pli": "ahi vā maṁ ḍaṁseyya, vicchiko vā maṁ ḍaṁseyya, satapadī vā maṁ ḍaṁseyya; ",
-            "en": "A <span class=\"scv-matched\">snake</span> might bite me, or a <span class=\"scv-matched\">scorpion</span> or <span class=\"scv-matched\">centipede</span> might sting me. ",
+            "en": "A <span class=\"ebt-matched\">snake</span> might bite me, or a <span class=\"ebt-matched\">scorpion</span> or <span class=\"ebt-matched\">centipede</span> might sting me. ",
             "matched": true
           },
           "an8.74:6.3": {
             "scid": "an8.74:6.3",
             "pli": "ahi vā maṁ ḍaṁseyya, vicchiko vā maṁ ḍaṁseyya, satapadī vā maṁ ḍaṁseyya; ",
-            "en": "A <span class=\"scv-matched\">snake</span> might bite me, or a <span class=\"scv-matched\">scorpion</span> or <span class=\"scv-matched\">centipede</span> might sting me. ",
+            "en": "A <span class=\"ebt-matched\">snake</span> might bite me, or a <span class=\"ebt-matched\">scorpion</span> or <span class=\"ebt-matched\">centipede</span> might sting me. ",
             "matched": true
           }
         },
@@ -101,13 +101,13 @@
           "an6.20:2.3": {
             "scid": "an6.20:2.3",
             "pli": "ahi vā maṁ ḍaṁseyya, vicchiko vā maṁ ḍaṁseyya, satapadī vā maṁ ḍaṁseyya; ",
-            "en": "A <span class=\"scv-matched\">snake</span> might bite me, or a <span class=\"scv-matched\">scorpion</span> or <span class=\"scv-matched\">centipede</span> might sting me. ",
+            "en": "A <span class=\"ebt-matched\">snake</span> might bite me, or a <span class=\"ebt-matched\">scorpion</span> or <span class=\"ebt-matched\">centipede</span> might sting me. ",
             "matched": true
           },
           "an6.20:5.3": {
             "scid": "an6.20:5.3",
             "pli": "ahi vā maṁ ḍaṁseyya, vicchiko vā maṁ ḍaṁseyya, satapadī vā maṁ ḍaṁseyya; ",
-            "en": "A <span class=\"scv-matched\">snake</span> might bite me, or a <span class=\"scv-matched\">scorpion</span> or <span class=\"scv-matched\">centipede</span> might sting me. ",
+            "en": "A <span class=\"ebt-matched\">snake</span> might bite me, or a <span class=\"ebt-matched\">scorpion</span> or <span class=\"ebt-matched\">centipede</span> might sting me. ",
             "matched": true
           }
         },
@@ -136,13 +136,13 @@
           "an10.216:4.4": {
             "scid": "an10.216:4.4",
             "pli": "Ahi vicchikā satapadī nakulā biḷārā mūsikā ulūkā, ye vā panaññepi keci tiracchānayonikā sattā manusse disvā saṁsappanti. ",
-            "en": "<span class=\"scv-matched\">Snake</span>s, <span class=\"scv-matched\">scorpion</span>s, <span class=\"scv-matched\">centipede</span>s, mongooses, cats, mice, owls, or whatever other species of animal that creep away when they see humans. ",
+            "en": "<span class=\"ebt-matched\">Snake</span>s, <span class=\"ebt-matched\">scorpion</span>s, <span class=\"ebt-matched\">centipede</span>s, mongooses, cats, mice, owls, or whatever other species of animal that creep away when they see humans. ",
             "matched": true
           },
           "an10.216:6.4": {
             "scid": "an10.216:6.4",
             "pli": "Ahi vicchikā satapadī nakulā biḷārā mūsikā ulūkā, ye vā panaññepi keci tiracchānayonikā sattā manusse disvā saṁsappanti. ",
-            "en": "<span class=\"scv-matched\">Snake</span>s, <span class=\"scv-matched\">scorpion</span>s, <span class=\"scv-matched\">centipede</span>s, mongooses, cats, mice, owls, or whatever other species of animal that creep away when they see humans. ",
+            "en": "<span class=\"ebt-matched\">Snake</span>s, <span class=\"ebt-matched\">scorpion</span>s, <span class=\"ebt-matched\">centipede</span>s, mongooses, cats, mice, owls, or whatever other species of animal that creep away when they see humans. ",
             "matched": true
           }
         },
@@ -171,7 +171,7 @@
           "an4.67:10.1": {
             "scid": "an4.67:10.1",
             "pli": "Ahivicchikā satapadī, ",
-            "en": "<span class=\"scv-matched\">snake</span>s and <span class=\"scv-matched\">scorpion</span>s, <span class=\"scv-matched\">centipede</span>s, ",
+            "en": "<span class=\"ebt-matched\">snake</span>s and <span class=\"ebt-matched\">scorpion</span>s, <span class=\"ebt-matched\">centipede</span>s, ",
             "matched": true
           }
         },
@@ -200,7 +200,7 @@
           "an5.77:2.5": {
             "scid": "an5.77:2.5",
             "pli": "ahi vā maṁ ḍaṁseyya, vicchiko vā maṁ ḍaṁseyya, satapadī vā maṁ ḍaṁseyya, ",
-            "en": "I might get bitten by a <span class=\"scv-matched\">snake</span>, a <span class=\"scv-matched\">scorpion</span>, or a <span class=\"scv-matched\">centipede</span>. ",
+            "en": "I might get bitten by a <span class=\"ebt-matched\">snake</span>, a <span class=\"ebt-matched\">scorpion</span>, or a <span class=\"ebt-matched\">centipede</span>. ",
             "matched": true
           }
         },

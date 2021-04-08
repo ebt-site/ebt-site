@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "dn10:2.24.1": {
             "scid": "dn10:2.24.1",
             "pli": "Seyyathāpi, māṇava, puriso muñjamhā īsikaṁ pavāheyya. ",
-            "en": "Suppose a person was to draw <span class=\"scv-matched\">a reed out from its sheath</span>. ",
+            "en": "Suppose a person was to draw <span class=\"ebt-matched\">a reed out from its sheath</span>. ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "mn77:30.2": {
             "scid": "mn77:30.2",
             "pli": "Seyyathāpi, udāyi, puriso muñjamhā īsikaṁ pabbāheyya; ",
-            "en": "Suppose a person was to draw <span class=\"scv-matched\">a reed out from its sheath</span>. ",
+            "en": "Suppose a person was to draw <span class=\"ebt-matched\">a reed out from its sheath</span>. ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "dn2:86.1": {
             "scid": "dn2:86.1",
             "pli": "Seyyathāpi, mahārāja, puriso muñjamhā īsikaṁ pavāheyya. ",
-            "en": "Suppose a person was to draw <span class=\"scv-matched\">a reed out from its sheath</span>. ",
+            "en": "Suppose a person was to draw <span class=\"ebt-matched\">a reed out from its sheath</span>. ",
             "matched": true
           }
         },

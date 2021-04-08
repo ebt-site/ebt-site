@@ -1,19 +1,19 @@
 <template>
-  <div class="scv-nav-app">
-    <div class="scv-nav-app-title" @click="clickHome()">
-      <img :src="imgUrl" class="scv-nav-img" @click="clickHome()" ></img>
+  <div class="ebt-nav-app">
+    <div class="ebt-nav-app-title" @click="clickHome()">
+      <img :src="imgUrl" class="ebt-nav-img" @click="clickHome()" ></img>
       <v-icon class="ml-2 mb-1">{{mdiHome}}</v-icon>
-      <div class="scv-nav-title">{{title}}</div>
+      <div class="ebt-nav-title">{{title}}</div>
     </div>
-    <div class="scv-nav-app-icons">
-      <v-btn icon to="/suttas" class="scv-icon-btn" >
+    <div class="ebt-nav-app-icons">
+      <v-btn icon to="/suttas" class="ebt-icon-btn" >
         <v-icon dark>{{mdiMagnify}}</v-icon>
       </v-btn>
-      <scv-settings :js="js" 
+      <ebt-settings :js="js" 
         :monolingual="monolingual"
         :version="`version ${version}`"
       />
-      <v-btn icon to="/wiki" class="scv-icon-btn" >
+      <v-btn icon to="/wiki" class="ebt-icon-btn" >
         <v-icon dark>{{mdiWikipedia}}</v-icon>
       </v-btn>
       <slot></slot>
@@ -22,7 +22,7 @@
 </template>
 
 <script>
-import ScvSettings from './scv-settings';
+import EbtSettings from './ebt-settings';
 import {
   mdiHome,
   mdiMagnify,
@@ -39,7 +39,7 @@ const JS = {
 
 export default {
   components: {
-    ScvSettings,
+    EbtSettings,
   },
   props: {
     version: {
@@ -82,7 +82,7 @@ export default {
       }
     },
     clickPageTop() {
-        let elt = document.getElementById("scv-search-field");
+        let elt = document.getElementById("ebt-search-field");
         if (elt) {
             let refSearchAuto = elt.__vue__.$refs.refSearchAuto;
             let input = refSearchAuto.$refs.input;
@@ -93,7 +93,7 @@ export default {
         }
     },
     clickPageBottom() {
-        let elt = document.getElementById("scv-tipitaka");
+        let elt = document.getElementById("ebt-tipitaka");
         console.log('clickPageBottom', {elt});
         elt && this.$nextTick(()=>{
             elt.scrollIntoView({block: "center"});
@@ -104,7 +104,7 @@ export default {
         let { sutta_uid, lang } = cursor;
         let updateHistory = false;
         if (sutta_uid !== sutta.sutta_uid) {
-            await $store.dispatch('scv/loadSutta', {sutta_uid, lang, updateHistory});
+            await $store.dispatch('ebt/loadSutta', {sutta_uid, lang, updateHistory});
         }
         let elt = document.getElementById(cursor.scid);
         elt && elt.scrollIntoView({block: "center"});
@@ -120,7 +120,7 @@ export default {
         return `${scid}/${lang}`;
     },
     cursor() {
-        return this.$store.state.scv.settings.cursor;
+        return this.$store.state.ebt.settings.cursor;
     },
     current() {
         let { history, sutta } = this;
@@ -129,10 +129,10 @@ export default {
         return history[iCur] || sutta;
     },
     sutta() {
-        return this.$store.state.scv.sutta;
+        return this.$store.state.ebt.sutta;
     },
     history() {
-      return this.$store.state.scv.settings.history;
+      return this.$store.state.ebt.settings.history;
     },
     js() { 
       return JS;

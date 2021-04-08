@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn2.10:5.1": {
             "scid": "sn2.10:5.1",
             "pli": "Yo andhakāre tamasi pabhaṅkaro, ",
-            "en": "He <span class=\"scv-matched\">shines a light</span> in the darkness, ",
+            "en": "He <span class=\"ebt-matched\">shines a light</span> in the darkness, ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "sn10.7:8.2": {
             "scid": "sn10.7:8.2",
             "pli": "sammūḷhānaṁ pabhaṅkaro; ",
-            "en": "he <span class=\"scv-matched\">shines a light</span>. ",
+            "en": "he <span class=\"ebt-matched\">shines a light</span>. ",
             "matched": true
           }
         },

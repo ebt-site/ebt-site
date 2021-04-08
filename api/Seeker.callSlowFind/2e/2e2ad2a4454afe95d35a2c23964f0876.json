@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,13 +72,13 @@
           "an6.24:1.1": {
             "scid": "an6.24:1.1",
             "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu himavantaṁ pabbatarājaṁ padāleyya, ko pana vādo chavāya avijjāya. ",
-            "en": "“Mendicants, a mendicant who has six qualities could shatter Himalaya, the king of mountains, let alone this <span class=\"scv-matched\">wretched</span> ignorance! ",
+            "en": "“Mendicants, a mendicant who has six qualities could shatter Himalaya, the king of mountains, let alone this <span class=\"ebt-matched\">wretched</span> ignorance! ",
             "matched": true
           },
           "an6.24:1.4": {
             "scid": "an6.24:1.4",
             "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu himavantaṁ pabbatarājaṁ padāleyya, ko pana vādo chavāya avijjāyā”ti. ",
-            "en": "A mendicant who has these six qualities could shatter Himalaya, the king of mountains, let alone this <span class=\"scv-matched\">wretched</span> ignorance!” ",
+            "en": "A mendicant who has these six qualities could shatter Himalaya, the king of mountains, let alone this <span class=\"ebt-matched\">wretched</span> ignorance!” ",
             "matched": true
           }
         },
@@ -107,13 +107,13 @@
           "thag6.5:2.1": {
             "scid": "thag6.5:2.1",
             "pli": "Yaṁ esā sahate jammī,",
-            "en": "Whoever is beaten by this <span class=\"scv-matched\">wretched</span> craving,",
+            "en": "Whoever is beaten by this <span class=\"ebt-matched\">wretched</span> craving,",
             "matched": true
           },
           "thag6.5:3.1": {
             "scid": "thag6.5:3.1",
             "pli": "Yo cetaṁ sahate jammiṁ,",
-            "en": "But whoever prevails over this <span class=\"scv-matched\">wretched</span> craving,",
+            "en": "But whoever prevails over this <span class=\"ebt-matched\">wretched</span> craving,",
             "matched": true
           }
         },
@@ -142,7 +142,7 @@
           "thig5.8:5.3": {
             "scid": "thig5.8:5.3",
             "pli": "Dhi tavatthu jare jamme,",
-            "en": "Curse you, <span class=\"scv-matched\">wretched</span> old age!",
+            "en": "Curse you, <span class=\"ebt-matched\">wretched</span> old age!",
             "matched": true
           }
         },
@@ -171,7 +171,7 @@
           "sn48.41:5.1": {
             "scid": "sn48.41:5.1",
             "pli": "“Dhī taṁ jammi jare atthu, ",
-            "en": "“Curse this <span class=\"scv-matched\">wretched</span> old age, ",
+            "en": "“Curse this <span class=\"ebt-matched\">wretched</span> old age, ",
             "matched": true
           }
         },
@@ -200,7 +200,7 @@
           "sn2.30:10.1": {
             "scid": "sn2.30:10.1",
             "pli": "“Sahācaritena chavo sigālo, ",
-            "en": "“Though the <span class=\"scv-matched\">wretched</span> jackal howls along, ",
+            "en": "“Though the <span class=\"ebt-matched\">wretched</span> jackal howls along, ",
             "matched": true
           }
         },
@@ -229,7 +229,7 @@
           "an3.36:19.4": {
             "scid": "an3.36:19.4",
             "pli": "hīnakāyūpagā narā. ",
-            "en": "when they go to that <span class=\"scv-matched\">wretched</span> place. ",
+            "en": "when they go to that <span class=\"ebt-matched\">wretched</span> place. ",
             "matched": true
           }
         },
@@ -258,7 +258,7 @@
           "mn130:30.6": {
             "scid": "mn130:30.6",
             "pli": "hīnakāyūpagā narā. ",
-            "en": "when they go to that <span class=\"scv-matched\">wretched</span> place. ",
+            "en": "when they go to that <span class=\"ebt-matched\">wretched</span> place. ",
             "matched": true
           }
         },

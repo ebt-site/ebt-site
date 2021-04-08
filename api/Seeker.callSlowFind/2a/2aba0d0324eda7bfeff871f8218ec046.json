@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "dn5:25.4": {
             "scid": "dn5:25.4",
             "pli": "“Yo kho, brāhmaṇa, pasannacitto buddhaṁ saraṇaṁ gacchati, dhammaṁ saraṇaṁ gacchati, saṅghaṁ saraṇaṁ gacchati; ",
-            "en": "“When <span class=\"scv-matched\">someone with confident heart goes for refuge</span> to the Buddha, the teaching, and the Saṅgha.” ",
+            "en": "“When <span class=\"ebt-matched\">someone with confident heart goes for refuge</span> to the Buddha, the teaching, and the Saṅgha.” ",
             "matched": true
           }
         },

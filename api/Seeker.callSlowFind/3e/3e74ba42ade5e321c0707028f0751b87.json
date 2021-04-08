@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "sn3.4:1.9": {
             "scid": "sn3.4:1.9",
             "pli": "“piyo no attā”ti, atha kho tesaṁ appiyo attā’. ",
-            "en": "“I <span class=\"scv-matched\">love myself</span>”, they don’t really. ",
+            "en": "“I <span class=\"ebt-matched\">love myself</span>”, they don’t really. ",
             "matched": true
           },
           "sn3.4:1.16": {
             "scid": "sn3.4:1.16",
             "pli": "‘appiyo no attā’ti; atha kho tesaṁ piyo attā. ",
-            "en": "“I don’t <span class=\"scv-matched\">love myself</span>”, they do really. ",
+            "en": "“I don’t <span class=\"ebt-matched\">love myself</span>”, they do really. ",
             "matched": true
           }
         },

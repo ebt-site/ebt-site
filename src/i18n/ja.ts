@@ -154,7 +154,7 @@ export default {
     yesDeleteUser: 'はい。ユーザーを削除します: ',
 
   },
-  scv: {
+  ebt: {
     audio: "音声ファイル",
     aboutTitle: "ボイスについて",
     and: "と",

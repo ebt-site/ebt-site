@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an10.99:38.3": {
             "scid": "an10.99:38.3",
             "pli": "Saṅghe te viharato phāsu bhavissatī”ti. ",
-            "en": "If you stay with the Saṅgha you’ll <span class=\"scv-matched\">be comfortable</span>.” ",
+            "en": "If you stay with the Saṅgha you’ll <span class=\"ebt-matched\">be comfortable</span>.” ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "thag17.3:20.4": {
             "scid": "thag17.3:20.4",
             "pli": "kuto samaṇaphāsutā.",
-            "en": "how can you <span class=\"scv-matched\">be comfortable</span> as an ascetic?”",
+            "en": "how can you <span class=\"ebt-matched\">be comfortable</span> as an ascetic?”",
             "matched": true
           }
         },

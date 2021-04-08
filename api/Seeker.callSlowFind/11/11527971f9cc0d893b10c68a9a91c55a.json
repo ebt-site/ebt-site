@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "an5.34:7.2": {
             "scid": "an5.34:7.2",
             "pli": "“yānimāni, bhante, bhagavatā cattāri sandiṭṭhikāni dānaphalāni akkhātāni, nāhaṁ ettha bhagavato saddhāya gacchāmi; ahaṁ petāni jānāmi. ",
-            "en": "“When it comes to those four <span class=\"scv-matched\">fruits of giving</span> that are apparent in the present life, I don’t have to rely on faith in the Buddha, for I know them too. ",
+            "en": "“When it comes to those four <span class=\"ebt-matched\">fruits of giving</span> that are apparent in the present life, I don’t have to rely on faith in the Buddha, for I know them too. ",
             "matched": true
           },
           "an5.34:7.7": {
             "scid": "an5.34:7.7",
             "pli": "Yānimāni, bhante, bhagavatā cattāri sandiṭṭhikāni dānaphalāni akkhātāni, nāhaṁ ettha bhagavato saddhāya gacchāmi; ahaṁ petāni jānāmi. ",
-            "en": "When it comes to these four <span class=\"scv-matched\">fruits of giving</span> that are apparent in the present life, I don’t have to rely on faith in the Buddha, for I know them too. ",
+            "en": "When it comes to these four <span class=\"ebt-matched\">fruits of giving</span> that are apparent in the present life, I don’t have to rely on faith in the Buddha, for I know them too. ",
             "matched": true
           }
         },
@@ -92,13 +92,13 @@
           "an7.57:10.1": {
             "scid": "an7.57:10.1",
             "pli": "Yānimāni, bhante, bhagavatā sandiṭṭhikāni dānaphalāni akkhātāni, nāhaṁ ettha bhagavato saddhāya gacchāmi. ",
-            "en": "When it comes to these <span class=\"scv-matched\">fruits of giving</span> that are apparent in the present life, I don’t have to rely on faith in the Buddha, ",
+            "en": "When it comes to these <span class=\"ebt-matched\">fruits of giving</span> that are apparent in the present life, I don’t have to rely on faith in the Buddha, ",
             "matched": true
           },
           "an7.57:10.10": {
             "scid": "an7.57:10.10",
             "pli": "Yānimāni, bhante, bhagavatā sandiṭṭhikāni dānaphalāni akkhātāni, nāhaṁ ettha bhagavato saddhāya gacchāmi. ",
-            "en": "When it comes to these <span class=\"scv-matched\">fruits of giving</span> that are apparent in the present life, I don’t have to rely on faith in the Buddha, ",
+            "en": "When it comes to these <span class=\"ebt-matched\">fruits of giving</span> that are apparent in the present life, I don’t have to rely on faith in the Buddha, ",
             "matched": true
           }
         },

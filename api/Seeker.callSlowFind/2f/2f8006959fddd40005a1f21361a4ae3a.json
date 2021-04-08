@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,14 +57,14 @@
           "dn24:2.14.11": {
             "scid": "dn24:2.14.11",
             "pli": "‘Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
-            "de": "‚Es kommt eine Zeit, werte Freunde, nachdem eine sehr lange Zeitspanne vergangen ist, da dieses <span class=\"scv-matched\">Weltall sich zusammenzieht</span>. ",
+            "de": "‚Es kommt eine Zeit, werte Freunde, nachdem eine sehr lange Zeitspanne vergangen ist, da dieses <span class=\"ebt-matched\">Weltall sich zusammenzieht</span>. ",
             "en": "‘There comes a time when, reverends, after a very long period has passed, this cosmos contracts. ",
             "matched": true
           },
           "dn24:2.14.12": {
             "scid": "dn24:2.14.12",
             "pli": "Saṁvaṭṭamāne loke yebhuyyena sattā ābhassarasaṁvattanikā honti. ",
-            "de": "Wenn das <span class=\"scv-matched\">Weltall sich zusammenzieht</span>, gehen die Lebewesen zumeist zum Bereich der Götter von strahlendem Glanz. ",
+            "de": "Wenn das <span class=\"ebt-matched\">Weltall sich zusammenzieht</span>, gehen die Lebewesen zumeist zum Bereich der Götter von strahlendem Glanz. ",
             "en": "As the cosmos contracts, sentient beings are mostly headed for the realm of streaming radiance. ",
             "matched": true
           }

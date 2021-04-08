@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "dn34:1.2.6": {
             "scid": "dn34:1.2.6",
             "pli": "Kāyagatāsati sātasahagatā. ",
-            "de": "Achtsamkeit auf den Körper <span class=\"scv-matched\">voller Hochgefühl</span>. ",
+            "de": "Achtsamkeit auf den Körper <span class=\"ebt-matched\">voller Hochgefühl</span>. ",
             "en": "Mindfulness of the body that is full of pleasure. ",
             "matched": true
           }

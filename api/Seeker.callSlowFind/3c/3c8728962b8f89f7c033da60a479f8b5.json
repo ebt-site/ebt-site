@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,14 +61,14 @@
           "dn25:4.5": {
             "scid": "dn25:4.5",
             "pli": "Aññathā kho pana so bhagavā araññavanapatthāni pantāni senāsanāni paṭisevati appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppānī”ti. ",
-            "de": "Das ist ganz anders als wenn der Buddha abgelegene Unterkünfte in der Wildnis und im Wald aufsucht, die ruhig und still sind, <span class=\"scv-matched\">weit weg von der tollen Menge</span>, fern von menschlichen Siedlungen und für die Klausur geeignet. ",
+            "de": "Das ist ganz anders als wenn der Buddha abgelegene Unterkünfte in der Wildnis und im Wald aufsucht, die ruhig und still sind, <span class=\"ebt-matched\">weit weg von der tollen Menge</span>, fern von menschlichen Siedlungen und für die Klausur geeignet. ",
             "en": "It’s quite different to the way the Buddha frequents remote lodgings in the wilderness and the forest that are quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat.” ",
             "matched": true
           },
           "dn25:21.9": {
             "scid": "dn25:21.9",
             "pli": "Udāhu, evaṁ su te bhagavanto araññavanapatthāni pantāni senāsanāni paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni, seyyathāpāhaṁ etarahī’”ti. ",
-            "de": "Oder sagten sie, dass die Buddhas abgelegene Unterkünfte in der Wildnis und im Wald aufsuchten, die ruhig und still sind, <span class=\"scv-matched\">weit weg von der tollen Menge</span>, fern von menschlichen Siedlungen und für die Klausur geeignet, wie ich es heutzutage tue?“ ",
+            "de": "Oder sagten sie, dass die Buddhas abgelegene Unterkünfte in der Wildnis und im Wald aufsuchten, die ruhig und still sind, <span class=\"ebt-matched\">weit weg von der tollen Menge</span>, fern von menschlichen Siedlungen und für die Klausur geeignet, wie ich es heutzutage tue?“ ",
             "en": "Or did they say that the Buddhas frequented remote lodgings in the wilderness and the forest that are quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat, like I do these days?” ",
             "matched": true
           }
@@ -100,7 +100,7 @@
           "dn32:2.13": {
             "scid": "dn32:2.13",
             "pli": "Santi hi, bhante, bhagavato sāvakā araññavanapatthāni pantāni senāsanāni paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni. ",
-            "de": "Herr, es gibt Schülerinnen und Schüler des Buddha, die abgelegene Unterkünfte in der Wildnis und im Wald aufsuchen, die ruhig und still sind, <span class=\"scv-matched\">weit weg von der tollen Menge</span>, fern von menschlichen Siedlungen und für die Klausur geeignet. ",
+            "de": "Herr, es gibt Schülerinnen und Schüler des Buddha, die abgelegene Unterkünfte in der Wildnis und im Wald aufsuchen, die ruhig und still sind, <span class=\"ebt-matched\">weit weg von der tollen Menge</span>, fern von menschlichen Siedlungen und für die Klausur geeignet. ",
             "en": "Sir, there are disciples of the Buddha who frequent remote lodgings in the wilderness and the forest that are quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat. ",
             "matched": true
           }

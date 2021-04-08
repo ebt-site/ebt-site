@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "dn8:19.5": {
             "scid": "dn8:19.5",
             "pli": "Sa kho so, kassapa, bhikkhu evaṁ sīlasampanno na kutoci bhayaṁ samanupassati, yadidaṁ sīlasaṁvarato. ",
-            "en": "A mendicant thus accomplished in ethics sees <span class=\"scv-matched\">no danger in any quarter</span> in regards to their ethical restraint. ",
+            "en": "A mendicant thus accomplished in ethics sees <span class=\"ebt-matched\">no danger in any quarter</span> in regards to their ethical restraint. ",
             "matched": true
           },
           "dn8:19.6": {
@@ -72,7 +72,7 @@
           "dn8:19.7": {
             "scid": "dn8:19.7",
             "pli": "evameva kho, kassapa, bhikkhu evaṁ sīlasampanno na kutoci bhayaṁ samanupassati, yadidaṁ sīlasaṁvarato. ",
-            "en": "In the same way, a mendicant thus accomplished in ethics sees <span class=\"scv-matched\">no danger in any quarter</span> in regards to their ethical restraint. ",
+            "en": "In the same way, a mendicant thus accomplished in ethics sees <span class=\"ebt-matched\">no danger in any quarter</span> in regards to their ethical restraint. ",
             "matched": true
           }
         },
@@ -101,7 +101,7 @@
           "dn10:1.29.1": {
             "scid": "dn10:1.29.1",
             "pli": "Sa kho so, māṇava, bhikkhu evaṁ sīlasampanno na kutoci bhayaṁ samanupassati, yadidaṁ sīlasaṁvarato. ",
-            "en": "A mendicant thus accomplished in ethics sees <span class=\"scv-matched\">no danger in any quarter</span> in regards to their ethical restraint. ",
+            "en": "A mendicant thus accomplished in ethics sees <span class=\"ebt-matched\">no danger in any quarter</span> in regards to their ethical restraint. ",
             "matched": true
           },
           "dn10:1.29.2": {
@@ -113,7 +113,7 @@
           "dn10:1.29.3": {
             "scid": "dn10:1.29.3",
             "pli": "evameva kho, māṇava, bhikkhu evaṁ sīlasampanno na kutoci bhayaṁ samanupassati, yadidaṁ sīlasaṁvarato. ",
-            "en": "A mendicant thus accomplished in ethics sees <span class=\"scv-matched\">no danger in any quarter</span> in regards to their ethical restraint. ",
+            "en": "A mendicant thus accomplished in ethics sees <span class=\"ebt-matched\">no danger in any quarter</span> in regards to their ethical restraint. ",
             "matched": true
           }
         },
@@ -142,7 +142,7 @@
           "dn2:63.1": {
             "scid": "dn2:63.1",
             "pli": "Sa kho so, mahārāja, bhikkhu evaṁ sīlasampanno na kutoci bhayaṁ samanupassati, yadidaṁ sīlasaṁvarato. ",
-            "en": "A mendicant thus accomplished in ethics sees <span class=\"scv-matched\">no danger in any quarter</span> in regards to their ethical restraint. ",
+            "en": "A mendicant thus accomplished in ethics sees <span class=\"ebt-matched\">no danger in any quarter</span> in regards to their ethical restraint. ",
             "matched": true
           },
           "dn2:63.2": {
@@ -154,7 +154,7 @@
           "dn2:63.3": {
             "scid": "dn2:63.3",
             "pli": "evameva kho, mahārāja, bhikkhu evaṁ sīlasampanno na kutoci bhayaṁ samanupassati, yadidaṁ sīlasaṁvarato. ",
-            "en": "In the same way, a mendicant thus accomplished in ethics sees <span class=\"scv-matched\">no danger in any quarter</span> in regards to their ethical restraint. ",
+            "en": "In the same way, a mendicant thus accomplished in ethics sees <span class=\"ebt-matched\">no danger in any quarter</span> in regards to their ethical restraint. ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "dn16:6.4.4": {
             "scid": "dn16:6.4.4",
             "pli": "So bhikkhūhi neva vattabbo, na ovaditabbo, na anusāsitabbo”ti. ",
-            "en": "but the mendicants should <span class=\"scv-matched\">not advise or instruct</span> him.” ",
+            "en": "but the mendicants should <span class=\"ebt-matched\">not advise or instruct</span> him.” ",
             "matched": true
           }
         },

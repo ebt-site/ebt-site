@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "dn23:30.7": {
             "scid": "dn23:30.7",
             "pli": "Icchāmi cāhaṁ, bho kassapa, mahāyaññaṁ yajituṁ, anusāsatu maṁ bhavaṁ kassapo, yaṁ mamassa dīgharattaṁ hitāya sukhāyā”ti. ",
-            "de": "Meister Kassapa, ich wünsche ein großes Opfer darzubringen. Bitte leite mich an, so dass es <span class=\"scv-matched\">zu meinem langanhaltenden Nutzen</span> und Glück ist.“ ",
+            "de": "Meister Kassapa, ich wünsche ein großes Opfer darzubringen. Bitte leite mich an, so dass es <span class=\"ebt-matched\">zu meinem langanhaltenden Nutzen</span> und Glück ist.“ ",
             "en": "Master Kassapa, I wish to perform a great sacrifice. Please instruct me so it will be for my lasting welfare and happiness.” ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "dn30:1.25.3": {
             "scid": "dn30:1.25.3",
             "pli": "‘kiṁ, bhante, kusalaṁ, kiṁ akusalaṁ, kiṁ sāvajjaṁ, kiṁ anavajjaṁ, kiṁ sevitabbaṁ, kiṁ na sevitabbaṁ, kiṁ me karīyamānaṁ dīgharattaṁ ahitāya dukkhāya assa, kiṁ vā pana me karīyamānaṁ dīgharattaṁ hitāya sukhāya assā’ti. ",
-            "de": "‚Ihr Herren, was ist tauglich? Was ist untauglich? Was ist tadelnswert? Was ist ohne Tadel? Was sollte gepflegt werden? Was sollte nicht gepflegt werden? Welches Verhalten führt zu meinem langanhaltenden Unglück und Leiden? Welches Verhalten führt <span class=\"scv-matched\">zu meinem langanhaltenden Nutzen</span> und Glück?‘ ",
+            "de": "‚Ihr Herren, was ist tauglich? Was ist untauglich? Was ist tadelnswert? Was ist ohne Tadel? Was sollte gepflegt werden? Was sollte nicht gepflegt werden? Welches Verhalten führt zu meinem langanhaltenden Unglück und Leiden? Welches Verhalten führt <span class=\"ebt-matched\">zu meinem langanhaltenden Nutzen</span> und Glück?‘ ",
             "en": "‘Sirs, what is skillful? What is unskillful? What is blameworthy? What is blameless? What should be cultivated? What should not be cultivated? Doing what leads to my lasting harm and suffering? Doing what leads to my lasting welfare and happiness?’ ",
             "matched": true
           }

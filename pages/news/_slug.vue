@@ -1,10 +1,10 @@
 <template>
-  <scv-article :article="article">
+  <ebt-article :article="article">
     <nuxt-content :document="article" class="mt-5"/>
-  </scv-article>
+  </ebt-article>
 </template>
 <script>
-  import ScvArticle from '@/components/scv-article';
+  import EbtArticle from '@/components/ebt-article';
 
   export default {
     async asyncData({ $content, params }) {
@@ -14,7 +14,7 @@
     },
 
     components: {
-      ScvArticle,
+      EbtArticle,
     },
     computed: {
       newsDate() {

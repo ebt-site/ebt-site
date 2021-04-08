@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,7 +65,7 @@
           "kp4:1.2": {
             "scid": "kp4:1.2",
             "pli": "Sabbe sattā āhāraṭṭhitikā.",
-            "de": "Alle Lebewesen werden <span class=\"scv-matched\">von Nahrung erhalten</span>. ",
+            "de": "Alle Lebewesen werden <span class=\"ebt-matched\">von Nahrung erhalten</span>. ",
             "en": "All sentient beings are sustained by food.",
             "matched": true
           }
@@ -97,7 +97,7 @@
           "dn33:1.8.2": {
             "scid": "dn33:1.8.2",
             "pli": "Sabbe sattā āhāraṭṭhitikā. ",
-            "de": "‚Alle Lebewesen werden <span class=\"scv-matched\">von Nahrung erhalten</span>.‘ ",
+            "de": "‚Alle Lebewesen werden <span class=\"ebt-matched\">von Nahrung erhalten</span>.‘ ",
             "en": "‘All sentient beings are sustained by food.’ ",
             "matched": true
           }
@@ -129,7 +129,7 @@
           "dn34:1.2.27": {
             "scid": "dn34:1.2.27",
             "pli": "Sabbe sattā āhāraṭṭhitikā. ",
-            "de": "Alle Lebewesen werden <span class=\"scv-matched\">von Nahrung erhalten</span>. ",
+            "de": "Alle Lebewesen werden <span class=\"ebt-matched\">von Nahrung erhalten</span>. ",
             "en": "All sentient beings are sustained by food. ",
             "matched": true
           }

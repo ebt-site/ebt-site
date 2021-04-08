@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an3.73:1.7": {
             "scid": "an3.73:1.7",
             "pli": "Samādhi nu kho, bhante, pubbe, pacchā ñāṇaṁ; ",
-            "en": "But, sir, <span class=\"scv-matched\">does immersion come first</span>, then knowledge? ",
+            "en": "But, sir, <span class=\"ebt-matched\">does immersion come first</span>, then knowledge? ",
             "matched": true
           },
           "an3.73:1.8": {

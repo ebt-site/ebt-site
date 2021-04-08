@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,28 +57,28 @@
           "an3.140:0.3": {
             "scid": "an3.140:0.3",
             "pli": "140. Assakhaḷuṅkasutta ",
-            "de": "140. Ein <span class=\"scv-matched\">wildes Fohlen</span> ",
+            "de": "140. Ein <span class=\"ebt-matched\">wildes Fohlen</span> ",
             "en": "140. A Wild Colt ",
             "matched": true
           },
           "an3.140:2.2": {
             "scid": "an3.140:2.2",
             "pli": "Idha, bhikkhave, ekacco assakhaḷuṅko javasampanno hoti; na vaṇṇasampanno, na ārohapariṇāhasampanno. ",
-            "de": "Ein <span class=\"scv-matched\">wildes Fohlen</span> ist schnell, aber nicht schön und nicht wohlgestaltet. ",
+            "de": "Ein <span class=\"ebt-matched\">wildes Fohlen</span> ist schnell, aber nicht schön und nicht wohlgestaltet. ",
             "en": "One wild colt is fast, but not beautiful or well proportioned. ",
             "matched": true
           },
           "an3.140:2.3": {
             "scid": "an3.140:2.3",
             "pli": "Idha pana, bhikkhave, ekacco assakhaḷuṅko javasampanno ca hoti vaṇṇasampanno ca; na ārohapariṇāhasampanno. ",
-            "de": "Ein anderes <span class=\"scv-matched\">wildes Fohlen</span> ist schnell und schön, aber nicht wohlgestaltet. ",
+            "de": "Ein anderes <span class=\"ebt-matched\">wildes Fohlen</span> ist schnell und schön, aber nicht wohlgestaltet. ",
             "en": "Another wild colt is fast and beautiful, but not well proportioned. ",
             "matched": true
           },
           "an3.140:2.4": {
             "scid": "an3.140:2.4",
             "pli": "Idha pana, bhikkhave, ekacco assakhaḷuṅko javasampanno ca hoti vaṇṇasampanno ca ārohapariṇāhasampanno ca. ",
-            "de": "Und wieder ein anderes <span class=\"scv-matched\">wildes Fohlen</span> ist schnell, schön und wohlgestaltet. ",
+            "de": "Und wieder ein anderes <span class=\"ebt-matched\">wildes Fohlen</span> ist schnell, schön und wohlgestaltet. ",
             "en": "While another wild colt is fast, beautiful, and well proportioned. ",
             "matched": true
           }

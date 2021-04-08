@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn22.43:3.3": {
             "scid": "sn22.43:3.3",
             "pli": "Vedanāya tveva, bhikkhave, aniccataṁ viditvā vipariṇāmaṁ virāgaṁ nirodhaṁ, ‘pubbe ceva vedanā etarahi ca sabbā vedanā aniccā dukkhā vipariṇāmadhammā’ti, evametaṁ yathābhūtaṁ sammappaññāya passato ye sokaparidevadukkhadomanassupāyāsā te pahīyanti. ",
-            "en": "Sorrow, lamentation, pain, sadness, and distress are given up when you understand <span class=\"scv-matched\">the impermanence of feeling</span> … ",
+            "en": "Sorrow, lamentation, pain, sadness, and distress are given up when you understand <span class=\"ebt-matched\">the impermanence of feeling</span> … ",
             "matched": true
           }
         },

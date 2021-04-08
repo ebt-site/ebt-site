@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -77,7 +77,7 @@
           "an6.2:3.2": {
             "scid": "an6.2:3.2",
             "pli": "Sarāgaṁ vā cittaṁ sarāgaṁ cittanti pajānāti, ",
-            "de": "Sie erkennt <span class=\"scv-matched\">einen gierigen Geist</span> als ‚gierigen Geist‘ ",
+            "de": "Sie erkennt <span class=\"ebt-matched\">einen gierigen Geist</span> als ‚gierigen Geist‘ ",
             "en": "They understand mind with greed as ‘mind with greed’,",
             "matched": true
           }
@@ -109,7 +109,7 @@
           "an5.23:5.2": {
             "scid": "an5.23:5.2",
             "pli": "sarāgaṁ vā cittaṁ sarāgaṁ cittanti pajāneyyaṁ,",
-            "de": "Dass ich <span class=\"scv-matched\">einen gierigen Geist</span> als „gierigen Geist“ erkennen könnte,",
+            "de": "Dass ich <span class=\"ebt-matched\">einen gierigen Geist</span> als „gierigen Geist“ erkennen könnte,",
             "en": "May I understand mind with greed as “mind with greed”,",
             "matched": true
           }
@@ -141,7 +141,7 @@
           "an3.101:5.2": {
             "scid": "an3.101:5.2",
             "pli": "sarāgaṁ vā cittaṁ sarāgaṁ cittanti pajāneyyaṁ, ",
-            "de": "Dass ich <span class=\"scv-matched\">einen gierigen Geist</span> als „gierigen Geist“ erkennen könnte,",
+            "de": "Dass ich <span class=\"ebt-matched\">einen gierigen Geist</span> als „gierigen Geist“ erkennen könnte,",
             "en": "May I understand mind with greed as “mind with greed”, ",
             "matched": true
           }
@@ -173,7 +173,7 @@
           "an5.28:13.2": {
             "scid": "an5.28:13.2",
             "pli": "sarāgaṁ vā cittaṁ sarāgaṁ cittanti pajāneyyaṁ,",
-            "de": "Dass ich <span class=\"scv-matched\">einen gierigen Geist</span> als „gierigen Geist“ erkennen könnte,",
+            "de": "Dass ich <span class=\"ebt-matched\">einen gierigen Geist</span> als „gierigen Geist“ erkennen könnte,",
             "en": "May I understand mind with greed as “mind with greed”,",
             "matched": true
           }
@@ -205,7 +205,7 @@
           "dn10:2.28.3": {
             "scid": "dn10:2.28.3",
             "pli": "sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāti,",
-            "de": "<span class=\"scv-matched\">einen gierigen Geist</span> als ‚gierigen Geist‘",
+            "de": "<span class=\"ebt-matched\">einen gierigen Geist</span> als ‚gierigen Geist‘",
             "en": "mind with greed as ‘mind with greed’,",
             "matched": true
           }
@@ -237,7 +237,7 @@
           "mn10:34.2": {
             "scid": "mn10:34.2",
             "pli": "Idha, bhikkhave, bhikkhu sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāti. ",
-            "de": "Da erkennt ein Mönch <span class=\"scv-matched\">einen gierigen Geist</span> als ‚gierigen Geist‘ ",
+            "de": "Da erkennt ein Mönch <span class=\"ebt-matched\">einen gierigen Geist</span> als ‚gierigen Geist‘ ",
             "en": "It’s when a mendicant understands mind with greed as ‘mind with greed,’",
             "matched": true
           }

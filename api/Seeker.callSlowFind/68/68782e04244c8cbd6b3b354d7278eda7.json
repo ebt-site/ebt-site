@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -67,14 +67,14 @@
           "an5.83:1.3": {
             "scid": "an5.83:1.3",
             "pli": "Kuhako ca hoti, lapako ca, nemittiko ca, nippesiko ca, lābhena ca lābhaṁ nijigīsitā—",
-            "de": "Sie betrügt, schmeichelt, macht Andeutungen und wertet andere ab, und sie benutzt <span class=\"scv-matched\">materiellen</span> <span class=\"scv-matched\">Besitz</span>, <span class=\"scv-matched\">um</span> <span class=\"scv-matched\">mehr</span> materiellem <span class=\"scv-matched\">Besitz</span> nachzujagen. ",
+            "de": "Sie betrügt, schmeichelt, macht Andeutungen und wertet andere ab, und sie benutzt <span class=\"ebt-matched\">materiellen</span> <span class=\"ebt-matched\">Besitz</span>, <span class=\"ebt-matched\">um</span> <span class=\"ebt-matched\">mehr</span> materiellem <span class=\"ebt-matched\">Besitz</span> nachzujagen. ",
             "en": "They use deceit, flattery, hinting, and belittling, and they use material possessions to chase after other material possessions. ",
             "matched": true
           },
           "an5.83:2.3": {
             "scid": "an5.83:2.3",
             "pli": "Na ca kuhako hoti, na ca lapako, na ca nemittiko, na ca nippesiko, na ca lābhena lābhaṁ nijigīsitā—",
-            "de": "Sie betrügt nicht, schmeichelt nicht, macht keine Andeutungen und wertet andere nicht ab, und sie benutzt <span class=\"scv-matched\">materiellen</span> <span class=\"scv-matched\">Besitz</span> nicht, <span class=\"scv-matched\">um</span> <span class=\"scv-matched\">mehr</span> materiellem <span class=\"scv-matched\">Besitz</span> nachzujagen. ",
+            "de": "Sie betrügt nicht, schmeichelt nicht, macht keine Andeutungen und wertet andere nicht ab, und sie benutzt <span class=\"ebt-matched\">materiellen</span> <span class=\"ebt-matched\">Besitz</span> nicht, <span class=\"ebt-matched\">um</span> <span class=\"ebt-matched\">mehr</span> materiellem <span class=\"ebt-matched\">Besitz</span> nachzujagen. ",
             "en": "They don’t use deceit, flattery, hinting, or belittling, and they don’t use material possessions to chase after other material possessions. ",
             "matched": true
           }
@@ -106,7 +106,7 @@
           "dn28:12.2": {
             "scid": "dn28:12.2",
             "pli": "Idha, bhante, ekacco sacco cassa saddho ca, na ca kuhako, na ca lapako, na ca nemittiko, na ca nippesiko, na ca lābhena lābhaṁ nijigīsanako, indriyesu guttadvāro, bhojane mattaññū, samakārī, jāgariyānuyogamanuyutto, atandito, āraddhavīriyo, jhāyī, satimā, kalyāṇapaṭibhāno, gatimā, dhitimā, matimā, na ca kāmesu giddho, sato ca nipako ca. ",
-            "de": "Da ist jemand aufrichtig und vertrauensvoll. Er betrügt nicht, schmeichelt nicht, macht keine Andeutungen und wertet andere nicht ab, und er benutzt <span class=\"scv-matched\">materiellen</span> <span class=\"scv-matched\">Besitz</span> nicht, <span class=\"scv-matched\">um</span> <span class=\"scv-matched\">mehr</span> materiellem <span class=\"scv-matched\">Besitz</span> nachzujagen. Er bewacht die Tore der Sinne und hält beim Essen Maß. Er ist gerecht, weiht sich dem Wachsein, ist unermüdlich und energisch und weiht sich der Meditation. Er hat ein gutes Gedächtnis, gute Wortgewandtheit, eine große Reichweite, Merkfähigkeit und Bedachtsamkeit. Er ist nicht gierig nach Sinnenfreuden. Er ist achtsam und wach. ",
+            "de": "Da ist jemand aufrichtig und vertrauensvoll. Er betrügt nicht, schmeichelt nicht, macht keine Andeutungen und wertet andere nicht ab, und er benutzt <span class=\"ebt-matched\">materiellen</span> <span class=\"ebt-matched\">Besitz</span> nicht, <span class=\"ebt-matched\">um</span> <span class=\"ebt-matched\">mehr</span> materiellem <span class=\"ebt-matched\">Besitz</span> nachzujagen. Er bewacht die Tore der Sinne und hält beim Essen Maß. Er ist gerecht, weiht sich dem Wachsein, ist unermüdlich und energisch und weiht sich der Meditation. Er hat ein gutes Gedächtnis, gute Wortgewandtheit, eine große Reichweite, Merkfähigkeit und Bedachtsamkeit. Er ist nicht gierig nach Sinnenfreuden. Er ist achtsam und wach. ",
             "en": "It’s when someone is honest and faithful. They don’t use deceit, flattery, hinting, or belittling, and they don’t use material possessions to chase after other material possessions. They guard the sense doors and eat in moderation. They’re fair, dedicated to wakefulness, tireless, energetic, and meditative. They have good memory, eloquence, range, retention, and thoughtfulness. They’re not greedy for sensual pleasures. They are mindful and alert. ",
             "matched": true
           }

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,7 +72,7 @@
           "sn56.30:2.5": {
             "scid": "sn56.30:2.5",
             "pli": "Yo dukkhanirodhaṁ passati dukkhampi so passati, dukkhasamudayampi passati, dukkhanirodhagāminiṁ paṭipadampi passati. ",
-            "en": "Someone <span class=\"scv-matched\">who sees the cessation of suffering</span> also sees suffering, the origin of suffering, and the practice that leads to the cessation of suffering. ",
+            "en": "Someone <span class=\"ebt-matched\">who sees the cessation of suffering</span> also sees suffering, the origin of suffering, and the practice that leads to the cessation of suffering. ",
             "matched": true
           },
           "sn56.30:2.6": {

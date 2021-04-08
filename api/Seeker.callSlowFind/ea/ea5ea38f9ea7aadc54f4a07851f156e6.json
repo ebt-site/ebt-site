@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,14 +65,14 @@
           "an6.20:2.3": {
             "scid": "an6.20:2.3",
             "pli": "ahi vā maṁ ḍaṁseyya, vicchiko vā maṁ ḍaṁseyya, satapadī vā maṁ ḍaṁseyya; ",
-            "de": "Ich könnte von einer <span class=\"scv-matched\">Schlange</span>, einem <span class=\"scv-matched\">Skorpion</span> oder einem <span class=\"scv-matched\">Tausendfüßler</span> gebissen oder gestochen werden. ",
+            "de": "Ich könnte von einer <span class=\"ebt-matched\">Schlange</span>, einem <span class=\"ebt-matched\">Skorpion</span> oder einem <span class=\"ebt-matched\">Tausendfüßler</span> gebissen oder gestochen werden. ",
             "en": "A snake might bite me, or a scorpion or centipede might sting me. ",
             "matched": true
           },
           "an6.20:5.3": {
             "scid": "an6.20:5.3",
             "pli": "ahi vā maṁ ḍaṁseyya, vicchiko vā maṁ ḍaṁseyya, satapadī vā maṁ ḍaṁseyya; ",
-            "de": "Ich könnte von einer <span class=\"scv-matched\">Schlange</span>, einem <span class=\"scv-matched\">Skorpion</span> oder einem <span class=\"scv-matched\">Tausendfüßler</span> gebissen oder gestochen werden. ",
+            "de": "Ich könnte von einer <span class=\"ebt-matched\">Schlange</span>, einem <span class=\"ebt-matched\">Skorpion</span> oder einem <span class=\"ebt-matched\">Tausendfüßler</span> gebissen oder gestochen werden. ",
             "en": "A snake might bite me, or a scorpion or centipede might sting me. ",
             "matched": true
           }
@@ -104,7 +104,7 @@
           "an4.67:10.1": {
             "scid": "an4.67:10.1",
             "pli": "Ahivicchikā satapadī, ",
-            "de": "<span class=\"scv-matched\">Schlange</span>n, <span class=\"scv-matched\">Skorpion</span>e, <span class=\"scv-matched\">Tausendfüßler</span>, ",
+            "de": "<span class=\"ebt-matched\">Schlange</span>n, <span class=\"ebt-matched\">Skorpion</span>e, <span class=\"ebt-matched\">Tausendfüßler</span>, ",
             "en": "snakes and scorpions, centipedes, ",
             "matched": true
           }
@@ -136,7 +136,7 @@
           "an5.77:2.5": {
             "scid": "an5.77:2.5",
             "pli": "ahi vā maṁ ḍaṁseyya, vicchiko vā maṁ ḍaṁseyya, satapadī vā maṁ ḍaṁseyya, ",
-            "de": "könnte ich von einer <span class=\"scv-matched\">Schlange</span>, einem <span class=\"scv-matched\">Skorpion</span> oder einem <span class=\"scv-matched\">Tausendfüßler</span> gebissen oder gestochen werden. ",
+            "de": "könnte ich von einer <span class=\"ebt-matched\">Schlange</span>, einem <span class=\"ebt-matched\">Skorpion</span> oder einem <span class=\"ebt-matched\">Tausendfüßler</span> gebissen oder gestochen werden. ",
             "en": "I might get bitten by a snake, a scorpion, or a centipede. ",
             "matched": true
           }

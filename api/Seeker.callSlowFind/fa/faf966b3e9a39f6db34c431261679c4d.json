@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,25 +57,25 @@
           "sn12.35:2.1": {
             "scid": "sn12.35:2.1",
             "pli": "“Katamā nu kho, bhante, jāti, kassa ca panāyaṁ jātī”ti? ",
-            "en": "“What is rebirth, sir, and <span class=\"scv-matched\">who does it belong to</span>?” ",
+            "en": "“What is rebirth, sir, and <span class=\"ebt-matched\">who does it belong to</span>?” ",
             "matched": true
           },
           "sn12.35:2.2": {
             "scid": "sn12.35:2.2",
             "pli": "“No kallo pañho”ti bhagavā avoca, “‘katamā jāti, kassa ca panāyaṁ jātī’ti iti vā, bhikkhu, yo vadeyya, ‘aññā jāti aññassa ca panāyaṁ jātī’ti iti vā, bhikkhu, yo vadeyya, ubhayametaṁ ekatthaṁ byañjanameva nānaṁ. ",
-            "en": "“That’s not a fitting question,” said the Buddha. “You might say, ‘What is rebirth, and <span class=\"scv-matched\">who does it belong to</span>?’ Or you might say, ‘Rebirth is one thing, who it belongs to is another.’ But both of these mean the same thing, only the phrasing differs. ",
+            "en": "“That’s not a fitting question,” said the Buddha. “You might say, ‘What is rebirth, and <span class=\"ebt-matched\">who does it belong to</span>?’ Or you might say, ‘Rebirth is one thing, who it belongs to is another.’ But both of these mean the same thing, only the phrasing differs. ",
             "matched": true
           },
           "sn12.35:3.2": {
             "scid": "sn12.35:3.2",
             "pli": "“No kallo pañho”ti bhagavā avoca, “‘katamo bhavo, kassa ca panāyaṁ bhavo’ti iti vā, bhikkhu, yo vadeyya, ‘añño bhavo aññassa ca panāyaṁ bhavo’ti iti vā, bhikkhu, yo vadeyya, ubhayametaṁ ekatthaṁ byañjanameva nānaṁ. ",
-            "en": "“That’s not a fitting question,” said the Buddha. “You might say, ‘What is continued existence, and <span class=\"scv-matched\">who does it belong to</span>?’ Or you might say, ‘Continued existence is one thing, who it belongs to is another.’ But both of these mean the same thing, only the phrasing differs. ",
+            "en": "“That’s not a fitting question,” said the Buddha. “You might say, ‘What is continued existence, and <span class=\"ebt-matched\">who does it belong to</span>?’ Or you might say, ‘Continued existence is one thing, who it belongs to is another.’ But both of these mean the same thing, only the phrasing differs. ",
             "matched": true
           },
           "sn12.35:6.2": {
             "scid": "sn12.35:6.2",
             "pli": "‘Katamā jāti, kassa ca panāyaṁ jāti’ iti vā, ‘aññā jāti, aññassa ca panāyaṁ jāti’ iti vā, ‘taṁ jīvaṁ taṁ sarīraṁ’ iti vā, ‘aññaṁ jīvaṁ aññaṁ sarīraṁ’ iti vā. ",
-            "en": "‘What is rebirth, and <span class=\"scv-matched\">who does it belong to</span>?’ or ‘rebirth is one thing, who it belongs to is another’, or ‘the soul and the body are the same thing’, or ‘the soul and the body are different things.’ ",
+            "en": "‘What is rebirth, and <span class=\"ebt-matched\">who does it belong to</span>?’ or ‘rebirth is one thing, who it belongs to is another’, or ‘the soul and the body are the same thing’, or ‘the soul and the body are different things.’ ",
             "matched": true
           }
         },
@@ -104,7 +104,7 @@
           "sn7.2:2.7": {
             "scid": "sn7.2:2.7",
             "pli": "“Sace kho pana te, brāhmaṇa, nappaṭiggaṇhanti, kassa taṁ hotī”ti? ",
-            "en": "“But if they don’t accept it, brahmin, <span class=\"scv-matched\">who does it belong to</span>?” ",
+            "en": "“But if they don’t accept it, brahmin, <span class=\"ebt-matched\">who does it belong to</span>?” ",
             "matched": true
           }
         },

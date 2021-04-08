@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,25 +60,25 @@
           "an3.47:1.1": {
             "scid": "an3.47:1.1",
             "pli": "“Tīṇimāni, bhikkhave, saṅkhatassa saṅkhatalakkhaṇāni. ",
-            "en": "“Mendicants, conditioned phenomena have these <span class=\"scv-matched\">three characteristics</span>. ",
+            "en": "“Mendicants, conditioned phenomena have these <span class=\"ebt-matched\">three characteristics</span>. ",
             "matched": true
           },
           "an3.47:1.4": {
             "scid": "an3.47:1.4",
             "pli": "Imāni kho, bhikkhave, tīṇi saṅkhatassa saṅkhatalakkhaṇānī”ti. ",
-            "en": "These are the <span class=\"scv-matched\">three characteristics</span> of conditioned phenomena.” ",
+            "en": "These are the <span class=\"ebt-matched\">three characteristics</span> of conditioned phenomena.” ",
             "matched": true
           },
           "an3.47:2.1": {
             "scid": "an3.47:2.1",
             "pli": "“Tīṇimāni, bhikkhave, asaṅkhatassa asaṅkhatalakkhaṇāni. ",
-            "en": "“Unconditioned phenomena have these <span class=\"scv-matched\">three characteristics</span>. ",
+            "en": "“Unconditioned phenomena have these <span class=\"ebt-matched\">three characteristics</span>. ",
             "matched": true
           },
           "an3.47:2.4": {
             "scid": "an3.47:2.4",
             "pli": "Imāni kho, bhikkhave, tīṇi asaṅkhatassa asaṅkhatalakkhaṇānī”ti. ",
-            "en": "These are the <span class=\"scv-matched\">three characteristics</span> of unconditioned phenomena.” ",
+            "en": "These are the <span class=\"ebt-matched\">three characteristics</span> of unconditioned phenomena.” ",
             "matched": true
           }
         },
@@ -107,25 +107,25 @@
           "an3.3:1.1": {
             "scid": "an3.3:1.1",
             "pli": "“Tīṇimāni, bhikkhave, bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni. ",
-            "en": "“There are these <span class=\"scv-matched\">three characteristics</span>, signs, and manifestations of a fool. ",
+            "en": "“There are these <span class=\"ebt-matched\">three characteristics</span>, signs, and manifestations of a fool. ",
             "matched": true
           },
           "an3.3:1.8": {
             "scid": "an3.3:1.8",
             "pli": "Imāni kho, bhikkhave, tīṇi bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni. ",
-            "en": "These are the <span class=\"scv-matched\">three characteristics</span>, signs, and manifestations of a fool. ",
+            "en": "These are the <span class=\"ebt-matched\">three characteristics</span>, signs, and manifestations of a fool. ",
             "matched": true
           },
           "an3.3:2.1": {
             "scid": "an3.3:2.1",
             "pli": "Tīṇimāni, bhikkhave, paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. ",
-            "en": "There are these <span class=\"scv-matched\">three characteristics</span>, signs, and manifestations of an astute person. ",
+            "en": "There are these <span class=\"ebt-matched\">three characteristics</span>, signs, and manifestations of an astute person. ",
             "matched": true
           },
           "an3.3:2.8": {
             "scid": "an3.3:2.8",
             "pli": "Imāni kho, bhikkhave, tīṇi paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. ",
-            "en": "These are the <span class=\"scv-matched\">three characteristics</span>, signs, and manifestations of an astute person. ",
+            "en": "These are the <span class=\"ebt-matched\">three characteristics</span>, signs, and manifestations of an astute person. ",
             "matched": true
           }
         },
@@ -154,13 +154,13 @@
           "mn129:2.1": {
             "scid": "mn129:2.1",
             "pli": "“Tīṇimāni, bhikkhave, bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni. ",
-            "en": "“These are the <span class=\"scv-matched\">three characteristics</span>, signs, and manifestations of a fool. ",
+            "en": "“These are the <span class=\"ebt-matched\">three characteristics</span>, signs, and manifestations of a fool. ",
             "matched": true
           },
           "mn129:27.1": {
             "scid": "mn129:27.1",
             "pli": "Tīṇimāni, bhikkhave, paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. ",
-            "en": "There are these <span class=\"scv-matched\">three characteristics</span>, signs, and manifestations of an astute person. ",
+            "en": "There are these <span class=\"ebt-matched\">three characteristics</span>, signs, and manifestations of an astute person. ",
             "matched": true
           }
         },

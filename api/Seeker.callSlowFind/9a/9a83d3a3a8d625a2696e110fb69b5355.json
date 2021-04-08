@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn22.16:1.7": {
             "scid": "sn22.16:1.7",
             "pli": "saṅkhārā dukkhā … ",
-            "en": "<span class=\"scv-matched\">Choices are suffering</span> … ",
+            "en": "<span class=\"ebt-matched\">Choices are suffering</span> … ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "sn22.19:1.7": {
             "scid": "sn22.19:1.7",
             "pli": "saṅkhārā dukkhā … ",
-            "en": "<span class=\"scv-matched\">Choices are suffering</span> … ",
+            "en": "<span class=\"ebt-matched\">Choices are suffering</span> … ",
             "matched": true
           }
         },

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,14 +65,14 @@
           "an3.49:1.3": {
             "scid": "an3.49:1.3",
             "pli": "Anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya ātappaṁ karaṇīyaṁ, anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya ātappaṁ karaṇīyaṁ, uppannānaṁ sārīrikānaṁ vedanānaṁ dukkhānaṁ tibbānaṁ kharānaṁ kaṭukānaṁ asātānaṁ amanāpānaṁ pāṇaharānaṁ adhivāsanāya ātappaṁ karaṇīyaṁ. ",
-            "de": "Ihr sollt eifrig sein, um schlechte, untaugliche Eigenschaften am Entstehen zu hindern. Ihr sollt eifrig sein, um taugliche Eigenschaften entstehen zu lassen. Und ihr sollt eifrig sein, um körperliche Schmerzen <span class=\"scv-matched\">zu ertragen</span> – scharfe, heftige, brennende, peinliche, unangenehme, lebensbedrohende. ",
+            "de": "Ihr sollt eifrig sein, um schlechte, untaugliche Eigenschaften am Entstehen zu hindern. Ihr sollt eifrig sein, um taugliche Eigenschaften entstehen zu lassen. Und ihr sollt eifrig sein, um körperliche Schmerzen <span class=\"ebt-matched\">zu ertragen</span> – scharfe, heftige, brennende, peinliche, unangenehme, lebensbedrohende. ",
             "en": "You should be keen to prevent bad, unskillful qualities from arising. You should be keen to give rise to skillful qualities. And you should be keen to endure physical pain—sharp, severe, acute, unpleasant, disagreeable, life-threatening. ",
             "matched": true
           },
           "an3.49:2.1": {
             "scid": "an3.49:2.1",
             "pli": "Yato kho, bhikkhave, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya ātappaṁ karoti, anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya ātappaṁ karoti, uppannānaṁ sārīrikānaṁ vedanānaṁ dukkhānaṁ tibbānaṁ kharānaṁ kaṭukānaṁ asātānaṁ amanāpānaṁ pāṇaharānaṁ adhivāsanāya ātappaṁ karoti. ",
-            "de": "Das ist ein Mönch oder eine Nonne: eifrig, um schlechte, untaugliche Eigenschaften am Entstehen zu hindern, eifrig, um taugliche Eigenschaften entstehen zu lassen, und eifrig, um körperliche Schmerzen <span class=\"scv-matched\">zu ertragen</span> – scharfe, heftige, brennende, peinliche, unangenehme, lebensbedrohende. ",
+            "de": "Das ist ein Mönch oder eine Nonne: eifrig, um schlechte, untaugliche Eigenschaften am Entstehen zu hindern, eifrig, um taugliche Eigenschaften entstehen zu lassen, und eifrig, um körperliche Schmerzen <span class=\"ebt-matched\">zu ertragen</span> – scharfe, heftige, brennende, peinliche, unangenehme, lebensbedrohende. ",
             "en": "It’s a mendicant who is keen to prevent bad, unskillful qualities from arising. They’re keen to give rise to skillful qualities. And they’re keen to endure physical pain—sharp, severe, acute, unpleasant, disagreeable, life-threatening. ",
             "matched": true
           }
@@ -104,14 +104,14 @@
           "an7.36:1.3": {
             "scid": "an7.36:1.3",
             "pli": "Duddadaṁ dadāti, dukkaraṁ karoti, dukkhamaṁ khamati, guyhamassa āvi karoti, guyhamassa pariguhati, āpadāsu na jahati, khīṇena nātimaññati. ",
-            "de": "Er gibt, was schwer zu geben ist. Er tut, was schwer zu tun ist. Er erträgt, was schwer <span class=\"scv-matched\">zu ertragen</span> ist. Er vertraut dir seine Geheimnisse an. Er bewahrt deine Geheimnisse. In Zeiten der Not lässt er dich nicht fallen. Bei Verlusten schaut er nicht auf dich herab. ",
+            "de": "Er gibt, was schwer zu geben ist. Er tut, was schwer zu tun ist. Er erträgt, was schwer <span class=\"ebt-matched\">zu ertragen</span> ist. Er vertraut dir seine Geheimnisse an. Er bewahrt deine Geheimnisse. In Zeiten der Not lässt er dich nicht fallen. Bei Verlusten schaut er nicht auf dich herab. ",
             "en": "They give what is hard to give. They do what is hard to do. They endure what is hard to endure. They reveal their secrets to you. They keep your secrets. They don’t abandon you in times of trouble. They don’t look down on you in times of loss. ",
             "matched": true
           },
           "an7.36:2.4": {
             "scid": "an7.36:2.4",
             "pli": "khamati dukkhamāni ca. ",
-            "de": "und Dinge, die schwer <span class=\"scv-matched\">zu ertragen</span> sind. ",
+            "de": "und Dinge, die schwer <span class=\"ebt-matched\">zu ertragen</span> sind. ",
             "en": "and with things hard to endure. ",
             "matched": true
           }
@@ -143,7 +143,7 @@
           "an3.135:1.3": {
             "scid": "an3.135:1.3",
             "pli": "Duddadaṁ dadāti, dukkaraṁ karoti, dukkhamaṁ khamati—",
-            "de": "Sie gibt, was schwer zu geben ist. Sie tut, was schwer zu tun ist. Sie erträgt, was schwer <span class=\"scv-matched\">zu ertragen</span> ist. ",
+            "de": "Sie gibt, was schwer zu geben ist. Sie tut, was schwer zu tun ist. Sie erträgt, was schwer <span class=\"ebt-matched\">zu ertragen</span> ist. ",
             "en": "They give what is hard to give, they do what is hard to do, and they bear what is hard to bear. ",
             "matched": true
           }

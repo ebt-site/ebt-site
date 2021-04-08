@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,31 +57,31 @@
           "an3.70:6.6": {
             "scid": "an3.70:6.6",
             "pli": "‘ariyasāvako brahmuposathaṁ upavasati, brahmunā saddhiṁ saṁvasati, brahmañcassa ārabbha cittaṁ pasīdati, pāmojjaṁ uppajjati, ye cittassa upakkilesā te pahīyanti’. ",
-            "en": "‘A noble disciple who <span class=\"scv-matched\">observes the sabbath</span> of Brahmā, living together with Brahmā. And because they think of Brahmā their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
+            "en": "‘A noble disciple who <span class=\"ebt-matched\">observes the sabbath</span> of Brahmā, living together with Brahmā. And because they think of Brahmā their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
             "matched": true
           },
           "an3.70:9.5": {
             "scid": "an3.70:9.5",
             "pli": "Ayaṁ vuccati, visākhe, ‘ariyasāvako dhammuposathaṁ upavasati, dhammena saddhiṁ saṁvasati, dhammañcassa ārabbha cittaṁ pasīdati, pāmojjaṁ uppajjati, ye cittassa upakkilesā te pahīyanti’. ",
-            "en": "This is called: ‘A noble disciple who <span class=\"scv-matched\">observes the sabbath</span> of Dhamma, living together with Dhamma. And because they think of the Dhamma their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
+            "en": "This is called: ‘A noble disciple who <span class=\"ebt-matched\">observes the sabbath</span> of Dhamma, living together with Dhamma. And because they think of the Dhamma their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
             "matched": true
           },
           "an3.70:12.5": {
             "scid": "an3.70:12.5",
             "pli": "Ayaṁ vuccati, visākhe, ‘ariyasāvako saṅghuposathaṁ upavasati, saṅghena saddhiṁ saṁvasati, saṅghañcassa ārabbha cittaṁ pasīdati, pāmojjaṁ uppajjati, ye cittassa upakkilesā te pahīyanti’. ",
-            "en": "This is called: ‘A noble disciple who <span class=\"scv-matched\">observes the sabbath</span> of the Saṅgha, living together with the Saṅgha. And because they think of the Saṅgha their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
+            "en": "This is called: ‘A noble disciple who <span class=\"ebt-matched\">observes the sabbath</span> of the Saṅgha, living together with the Saṅgha. And because they think of the Saṅgha their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
             "matched": true
           },
           "an3.70:15.4": {
             "scid": "an3.70:15.4",
             "pli": "Ayaṁ vuccati, visākhe, ‘ariyasāvako sīluposathaṁ upavasati, sīlena saddhiṁ saṁvasati, sīlañcassa ārabbha cittaṁ pasīdati, pāmojjaṁ uppajjati, ye cittassa upakkilesā te pahīyanti’. ",
-            "en": "This is called: ‘A noble disciple who <span class=\"scv-matched\">observes the sabbath</span> of ethical conduct, living together with ethics. And because they think of their ethical conduct their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
+            "en": "This is called: ‘A noble disciple who <span class=\"ebt-matched\">observes the sabbath</span> of ethical conduct, living together with ethics. And because they think of their ethical conduct their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
             "matched": true
           },
           "an3.70:18.10": {
             "scid": "an3.70:18.10",
             "pli": "Ayaṁ vuccati, visākhe, ‘ariyasāvako devatuposathaṁ upavasati, devatāhi saddhiṁ saṁvasati, devatā ārabbha cittaṁ pasīdati, pāmojjaṁ uppajjati, ye cittassa upakkilesā te pahīyanti’. ",
-            "en": "This is called: ‘A noble disciple who <span class=\"scv-matched\">observes the sabbath</span> of the deities, living together with the deities. And because they think of the deities their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
+            "en": "This is called: ‘A noble disciple who <span class=\"ebt-matched\">observes the sabbath</span> of the deities, living together with the deities. And because they think of the deities their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
             "matched": true
           }
         },
@@ -110,7 +110,7 @@
           "mn83:13.5": {
             "scid": "mn83:13.5",
             "pli": "uposathañca upavasati cātuddasiṁ pañcadasiṁ aṭṭhamiñca pakkhassā’ti. ",
-            "en": "And he <span class=\"scv-matched\">observes the sabbath</span> on the fourteenth, fifteenth, and eighth of the fortnight.’ ",
+            "en": "And he <span class=\"ebt-matched\">observes the sabbath</span> on the fourteenth, fifteenth, and eighth of the fortnight.’ ",
             "matched": true
           }
         },

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,14 +65,14 @@
           "an3.110:1.4": {
             "scid": "an3.110:1.4",
             "pli": "Seyyathāpi, gahapati, kūṭāgāre ducchanne kūṭampi byāpannaṁ hoti, gopānasiyopi byāpannā honti, bhittipi byāpannā hoti; ",
-            "de": "Es ist wie bei einem Giebelhaus, dessen Dach schlecht ist: First, <span class=\"scv-matched\">Dachsparren</span> und Wände sind eingefallen. ",
+            "de": "Es ist wie bei einem Giebelhaus, dessen Dach schlecht ist: First, <span class=\"ebt-matched\">Dachsparren</span> und Wände sind eingefallen. ",
             "en": "It’s like a bungalow with a bad roof. The roof peak, rafters, and walls fall in. ",
             "matched": true
           },
           "an3.110:2.3": {
             "scid": "an3.110:2.3",
             "pli": "Seyyathāpi, gahapati, kūṭāgāre succhanne kūṭampi abyāpannaṁ hoti, gopānasiyopi abyāpannā honti, bhittipi abyāpannā hoti; ",
-            "de": "Es ist wie bei einem Giebelhaus, dessen Dach gut ist: First, <span class=\"scv-matched\">Dachsparren</span> und Wände sind nicht eingefallen. ",
+            "de": "Es ist wie bei einem Giebelhaus, dessen Dach gut ist: First, <span class=\"ebt-matched\">Dachsparren</span> und Wände sind nicht eingefallen. ",
             "en": "It’s like a bungalow with a good roof. The roof peak, rafters, and walls are not fallen in. ",
             "matched": true
           }
@@ -104,14 +104,14 @@
           "an3.109:2.1": {
             "scid": "an3.109:2.1",
             "pli": "Seyyathāpi, gahapati, kūṭāgāre ducchanne kūṭampi arakkhitaṁ hoti, gopānasiyopi arakkhitā honti, bhittipi arakkhitā hoti; ",
-            "de": "Es ist wie bei einem Giebelhaus, dessen Dach schlecht ist: First, <span class=\"scv-matched\">Dachsparren</span> und Wände sind ungeschützt. ",
+            "de": "Es ist wie bei einem Giebelhaus, dessen Dach schlecht ist: First, <span class=\"ebt-matched\">Dachsparren</span> und Wände sind ungeschützt. ",
             "en": "It’s like a bungalow with a bad roof. The roof peak, rafters, and walls are unprotected. ",
             "matched": true
           },
           "an3.109:5.1": {
             "scid": "an3.109:5.1",
             "pli": "Seyyathāpi, gahapati, kūṭāgāre succhanne kūṭampi rakkhitaṁ hoti, gopānasiyopi rakkhitā honti, bhittipi rakkhitā hoti; ",
-            "de": "Es ist wie bei einem Giebelhaus, dessen Dach gut ist: First, <span class=\"scv-matched\">Dachsparren</span> und Wände sind geschützt. ",
+            "de": "Es ist wie bei einem Giebelhaus, dessen Dach gut ist: First, <span class=\"ebt-matched\">Dachsparren</span> und Wände sind geschützt. ",
             "en": "It’s like a bungalow with a good roof. The roof peak, rafters, and walls are protected. ",
             "matched": true
           }
@@ -143,7 +143,7 @@
           "an6.53:5.1": {
             "scid": "an6.53:5.1",
             "pli": "Seyyathāpi, brāhmaṇa, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭaninnā kūṭasamosaraṇā, kūṭaṁ tāsaṁ aggamakkhāyati; ",
-            "de": "Die <span class=\"scv-matched\">Dachsparren</span> eines Giebelhauses lehnen sich alle an den First, sie neigen sich zum First, treffen sich am First, daher gilt der First als der oberste von allen. ",
+            "de": "Die <span class=\"ebt-matched\">Dachsparren</span> eines Giebelhauses lehnen sich alle an den First, sie neigen sich zum First, treffen sich am First, daher gilt der First als der oberste von allen. ",
             "en": "The rafters of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
             "matched": true
           }

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,21 +65,21 @@
           "an1.418:1.1": {
             "scid": "an1.418:1.1",
             "pli": "paññindriyaṁ bhāveti …. ",
-            "de": "wenn er die <span class=\"scv-matched\">Fähigkeit zur Weisheit</span> entwickelt, und sei es nur für die Dauer eines Fingerschnippens … ",
+            "de": "wenn er die <span class=\"ebt-matched\">Fähigkeit zur Weisheit</span> entwickelt, und sei es nur für die Dauer eines Fingerschnippens … ",
             "en": "the faculty of wisdom, even for the time of a finger-snap … ",
             "matched": true
           },
           "an1.499:1.1": {
             "scid": "an1.499:1.1",
             "pli": "paññindriyaṁ bhāveti … ",
-            "de": "die <span class=\"scv-matched\">Fähigkeit zur Weisheit</span> … ",
+            "de": "die <span class=\"ebt-matched\">Fähigkeit zur Weisheit</span> … ",
             "en": "the faculty of wisdom … ",
             "matched": true
           },
           "an1.569:1.1": {
             "scid": "an1.569:1.1",
             "pli": "paññindriyaṁ bhāveti … ",
-            "de": "die <span class=\"scv-matched\">Fähigkeit zur Weisheit</span> … ",
+            "de": "die <span class=\"ebt-matched\">Fähigkeit zur Weisheit</span> … ",
             "en": "the faculty of wisdom … ",
             "matched": true
           }
@@ -111,7 +111,7 @@
           "an3.21:7.7": {
             "scid": "an3.21:7.7",
             "pli": "Imassa, āvuso, puggalassa paññindriyaṁ adhimattan”ti. ",
-            "de": "Weil diese Person eine herausragende <span class=\"scv-matched\">Fähigkeit zur Weisheit</span> besitzt.“ ",
+            "de": "Weil diese Person eine herausragende <span class=\"ebt-matched\">Fähigkeit zur Weisheit</span> besitzt.“ ",
             "en": "Because this person’s faculty of wisdom is outstanding.” ",
             "matched": true
           }
@@ -143,7 +143,7 @@
           "an3.159:1.5": {
             "scid": "an3.159:1.5",
             "pli": "paññindriyaṁ bhāveti …pe…. ",
-            "de": "die <span class=\"scv-matched\">Fähigkeit zur Weisheit</span> … ",
+            "de": "die <span class=\"ebt-matched\">Fähigkeit zur Weisheit</span> … ",
             "en": "wisdom … ",
             "matched": true
           }

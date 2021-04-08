@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "mn39:14.1": {
             "scid": "mn39:14.1",
             "pli": "Seyyathāpi, bhikkhave, puriso iṇaṁ ādāya kammante payojeyya. ",
-            "en": "Suppose a man <span class=\"scv-matched\">who has gotten into debt</span> were to apply himself to work, ",
+            "en": "Suppose a man <span class=\"ebt-matched\">who has gotten into debt</span> were to apply himself to work, ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "dn10:2.7.1": {
             "scid": "dn10:2.7.1",
             "pli": "Seyyathāpi, māṇava, puriso iṇaṁ ādāya kammante payojeyya. ",
-            "en": "Suppose a man <span class=\"scv-matched\">who has gotten into debt</span> were to apply himself to work, ",
+            "en": "Suppose a man <span class=\"ebt-matched\">who has gotten into debt</span> were to apply himself to work, ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "dn2:69.1": {
             "scid": "dn2:69.1",
             "pli": "Seyyathāpi, mahārāja, puriso iṇaṁ ādāya kammante payojeyya. ",
-            "en": "Suppose a man <span class=\"scv-matched\">who has gotten into debt</span> were to apply himself to work, ",
+            "en": "Suppose a man <span class=\"ebt-matched\">who has gotten into debt</span> were to apply himself to work, ",
             "matched": true
           }
         },

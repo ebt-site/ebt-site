@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an6.62:11.10": {
             "scid": "an6.62:11.10",
             "pli": "“Seyyathāpi vā panānanda, rattiyā paccūsasamayaṁ sūriye uggacchante, jāneyyāsi tvaṁ, ānanda, andhakāro antaradhāyissati, āloko pātubhavissatī”ti? ",
-            "en": "“Suppose it’s the crack of dawn and the sun is rising. Wouldn’t you know that the <span class=\"scv-matched\">dark will vanish</span> and the light appear?” ",
+            "en": "“Suppose it’s the crack of dawn and the sun is rising. Wouldn’t you know that the <span class=\"ebt-matched\">dark will vanish</span> and the light appear?” ",
             "matched": true
           }
         },

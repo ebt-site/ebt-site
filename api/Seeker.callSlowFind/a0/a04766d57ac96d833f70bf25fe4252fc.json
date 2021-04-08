@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,7 +66,7 @@
           "an10.50:13.3": {
             "scid": "an10.50:13.3",
             "pli": "ayampi dhammo sāraṇīyo …pe… saṁvattati. ",
-            "en": "this warm-hearted quality makes for fondness and respect, helping the Saṅgha to live <span class=\"scv-matched\">in harmony and unity</span>, without quarreling. ",
+            "en": "this warm-hearted quality makes for fondness and respect, helping the Saṅgha to live <span class=\"ebt-matched\">in harmony and unity</span>, without quarreling. ",
             "matched": true
           },
           "an10.50:14.1": {

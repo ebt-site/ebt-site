@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "dn27:10.1": {
             "scid": "dn27:10.1",
             "pli": "Hoti kho so, vāseṭṭha, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
-            "en": "There comes a time when, Vāseṭṭha, after a very long period has passed, <span class=\"scv-matched\">this cosmos contracts</span>. ",
+            "en": "There comes a time when, Vāseṭṭha, after a very long period has passed, <span class=\"ebt-matched\">this cosmos contracts</span>. ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "dn1:2.2.1": {
             "scid": "dn1:2.2.1",
             "pli": "Hoti kho so, bhikkhave, samayo, yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
-            "en": "There comes a time when, after a very long period has passed, <span class=\"scv-matched\">this cosmos contracts</span>. ",
+            "en": "There comes a time when, after a very long period has passed, <span class=\"ebt-matched\">this cosmos contracts</span>. ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "dn24:2.14.11": {
             "scid": "dn24:2.14.11",
             "pli": "‘Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
-            "en": "‘There comes a time when, reverends, after a very long period has passed, <span class=\"scv-matched\">this cosmos contracts</span>. ",
+            "en": "‘There comes a time when, reverends, after a very long period has passed, <span class=\"ebt-matched\">this cosmos contracts</span>. ",
             "matched": true
           }
         },

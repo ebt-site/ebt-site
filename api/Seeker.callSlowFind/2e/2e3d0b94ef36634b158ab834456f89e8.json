@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "sn14.12:1.2": {
             "scid": "sn14.12:1.2",
             "pli": "“Sanidānaṁ, bhikkhave, uppajjati kāmavitakko, no anidānaṁ; sanidānaṁ uppajjati byāpādavitakko, no anidānaṁ; sanidānaṁ uppajjati vihiṁsāvitakko, no anidānaṁ. ",
-            "en": "“Mendicants, sensual, malicious, and cruel <span class=\"scv-matched\">thoughts arise</span> for a reason, not without reason. ",
+            "en": "“Mendicants, sensual, malicious, and cruel <span class=\"ebt-matched\">thoughts arise</span> for a reason, not without reason. ",
             "matched": true
           },
           "sn14.12:2.1": {
             "scid": "sn14.12:2.1",
             "pli": "Kathañca, bhikkhave, sanidānaṁ uppajjati kāmavitakko, no anidānaṁ; sanidānaṁ uppajjati byāpādavitakko, no anidānaṁ; sanidānaṁ uppajjati vihiṁsāvitakko, no anidānaṁ? ",
-            "en": "And how do sensual, malicious, and cruel <span class=\"scv-matched\">thoughts arise</span> for a reason, not without reason? ",
+            "en": "And how do sensual, malicious, and cruel <span class=\"ebt-matched\">thoughts arise</span> for a reason, not without reason? ",
             "matched": true
           },
           "sn14.12:6.1": {
@@ -104,13 +104,13 @@
           "an9.14:2.1": {
             "scid": "an9.14:2.1",
             "pli": "“Kimārammaṇā, samiddhi, purisassa saṅkappavitakkā uppajjantī”ti? ",
-            "en": "“Samiddhi, based on what do <span class=\"scv-matched\">thoughts arise</span> in a person?” ",
+            "en": "“Samiddhi, based on what do <span class=\"ebt-matched\">thoughts arise</span> in a person?” ",
             "matched": true
           },
           "an9.14:11.1": {
             "scid": "an9.14:11.1",
             "pli": "“‘Kimārammaṇā, samiddhi, purisassa saṅkappavitakkā uppajjantī’ti, iti puṭṭho samāno ‘nāmarūpārammaṇā, bhante’ti vadesi. ",
-            "en": "“Samiddhi, when you were asked what is the basis on which <span class=\"scv-matched\">thoughts arise</span> in a person, you answered ‘name and form’. ",
+            "en": "“Samiddhi, when you were asked what is the basis on which <span class=\"ebt-matched\">thoughts arise</span> in a person, you answered ‘name and form’. ",
             "matched": true
           }
         },

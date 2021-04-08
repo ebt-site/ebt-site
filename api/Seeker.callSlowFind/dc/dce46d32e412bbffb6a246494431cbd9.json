@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,14 +65,14 @@
           "an3.47:1.1": {
             "scid": "an3.47:1.1",
             "pli": "“Tīṇimāni, bhikkhave, saṅkhatassa saṅkhatalakkhaṇāni. ",
-            "de": "„Mönche und Nonnen, <span class=\"scv-matched\">bedingte Erscheinungen</span> haben diese drei Kennzeichen. ",
+            "de": "„Mönche und Nonnen, <span class=\"ebt-matched\">bedingte Erscheinungen</span> haben diese drei Kennzeichen. ",
             "en": "“Mendicants, conditioned phenomena have these three characteristics. ",
             "matched": true
           },
           "an3.47:1.4": {
             "scid": "an3.47:1.4",
             "pli": "Imāni kho, bhikkhave, tīṇi saṅkhatassa saṅkhatalakkhaṇānī”ti. ",
-            "de": "Das sind die drei Kennzeichen <span class=\"scv-matched\">bedingter Erscheinungen</span>.“ ",
+            "de": "Das sind die drei Kennzeichen <span class=\"ebt-matched\">bedingter Erscheinungen</span>.“ ",
             "en": "These are the three characteristics of conditioned phenomena.” ",
             "matched": true
           }
@@ -104,7 +104,7 @@
           "dn17:2.16.1": {
             "scid": "dn17:2.16.1",
             "pli": "Passānanda, sabbete saṅkhārā atītā niruddhā vipariṇatā. ",
-            "de": "Sieh, Ānanda, all diese <span class=\"scv-matched\">bedingten Erscheinungen</span> sind vergangen, haben aufgehört und sind zugrunde gegangen. ",
+            "de": "Sieh, Ānanda, all diese <span class=\"ebt-matched\">bedingten Erscheinungen</span> sind vergangen, haben aufgehört und sind zugrunde gegangen. ",
             "en": "See, Ānanda! All those conditioned phenomena have passed, ceased, and perished. ",
             "matched": true
           }
@@ -136,7 +136,7 @@
           "dn14:3.13.3": {
             "scid": "dn14:3.13.3",
             "pli": "saṅkhārānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ nibbāne ānisaṁsaṁ pakāsesi. ",
-            "de": "Er erklärte die nachteiligen Folgen der <span class=\"scv-matched\">bedingten Erscheinungen</span>, die so schäbig und verdorben sind, und die vorteilhaften Folgen des Erlöschens. ",
+            "de": "Er erklärte die nachteiligen Folgen der <span class=\"ebt-matched\">bedingten Erscheinungen</span>, die so schäbig und verdorben sind, und die vorteilhaften Folgen des Erlöschens. ",
             "en": "He explained the drawbacks of conditioned phenomena, so sordid and corrupt, and the benefit of extinguishment. ",
             "matched": true
           }

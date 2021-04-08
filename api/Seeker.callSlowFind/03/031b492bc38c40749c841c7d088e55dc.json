@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -82,7 +82,7 @@
           "an9.1:7.1": {
             "scid": "an9.1:7.1",
             "pli": "Puna caparaṁ, āvuso, bhikkhu yāyaṁ kathā abhisallekhikā cetovivaraṇasappāyā, seyyathidaṁ—appicchakathā santuṭṭhikathā pavivekakathā asaṁsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī akasiralābhī. ",
-            "de": "Dann findet da eine Nonne, wann immer sie will, ohne Mühe und Not, Gelegenheit, an Gesprächen über Zurückhaltung teilzunehmen, <span class=\"scv-matched\">die</span> helfen, das Herz zu öffnen: nämlich an Gesprächen darüber, <span class=\"scv-matched\">wenig</span>e <span class=\"scv-matched\">Wünsche</span> zu <span class=\"scv-matched\">haben</span>, über Zufriedenheit, Abgeschiedenheit, Abstand, das Aufrütteln der Energie, Ethik, Versenkung, Weisheit, Freiheit und das Wissen und Sehen der Freiheit. ",
+            "de": "Dann findet da eine Nonne, wann immer sie will, ohne Mühe und Not, Gelegenheit, an Gesprächen über Zurückhaltung teilzunehmen, <span class=\"ebt-matched\">die</span> helfen, das Herz zu öffnen: nämlich an Gesprächen darüber, <span class=\"ebt-matched\">wenig</span>e <span class=\"ebt-matched\">Wünsche</span> zu <span class=\"ebt-matched\">haben</span>, über Zufriedenheit, Abgeschiedenheit, Abstand, das Aufrütteln der Energie, Ethik, Versenkung, Weisheit, Freiheit und das Wissen und Sehen der Freiheit. ",
             "en": "Furthermore, a mendicant gets to take part in talk about self-effacement that helps open the heart, when they want, without trouble or difficulty. That is, talk about fewness of wishes, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. ",
             "matched": true
           }
@@ -114,7 +114,7 @@
           "dn34:2.1.151": {
             "scid": "dn34:2.1.151",
             "pli": "appicchassāyaṁ dhammo, nāyaṁ dhammo mahicchassa. ",
-            "de": "‚<span class=\"scv-matched\">Die</span>se Lehre ist für <span class=\"scv-matched\">die</span>, <span class=\"scv-matched\">die</span> <span class=\"scv-matched\">wenig</span>e <span class=\"scv-matched\">Wünsche</span> <span class=\"scv-matched\">haben</span>, nicht für <span class=\"scv-matched\">die</span>, <span class=\"scv-matched\">die</span> viele <span class=\"scv-matched\">Wünsche</span> <span class=\"scv-matched\">haben</span>. ",
+            "de": "‚<span class=\"ebt-matched\">Die</span>se Lehre ist für <span class=\"ebt-matched\">die</span>, <span class=\"ebt-matched\">die</span> <span class=\"ebt-matched\">wenig</span>e <span class=\"ebt-matched\">Wünsche</span> <span class=\"ebt-matched\">haben</span>, nicht für <span class=\"ebt-matched\">die</span>, <span class=\"ebt-matched\">die</span> viele <span class=\"ebt-matched\">Wünsche</span> <span class=\"ebt-matched\">haben</span>. ",
             "en": "‘This teaching is for those of few wishes, not those of many wishes. ",
             "matched": true
           }

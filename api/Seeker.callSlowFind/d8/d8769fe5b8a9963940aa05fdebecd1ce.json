@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "sn46.3:3.4": {
             "scid": "sn46.3:3.4",
             "pli": "Tassa taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ. ",
-            "en": "As they <span class=\"scv-matched\">investigate principles</span> with wisdom in this way their energy is roused up and unflagging. ",
+            "en": "As they <span class=\"ebt-matched\">investigate principles</span> with wisdom in this way their energy is roused up and unflagging. ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "sn54.13:12.1": {
             "scid": "sn54.13:12.1",
             "pli": "Tassa taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ. ",
-            "en": "As they <span class=\"scv-matched\">investigate principles</span> with wisdom in this way their energy is roused up and unflagging. ",
+            "en": "As they <span class=\"ebt-matched\">investigate principles</span> with wisdom in this way their energy is roused up and unflagging. ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "mn118:32.1": {
             "scid": "mn118:32.1",
             "pli": "Tassa taṁ dhammaṁ paññāya pavicinato pavicayato parivīmaṁsaṁ āpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ. ",
-            "en": "As they <span class=\"scv-matched\">investigate principles</span> with wisdom in this way their energy is roused up and unflagging. ",
+            "en": "As they <span class=\"ebt-matched\">investigate principles</span> with wisdom in this way their energy is roused up and unflagging. ",
             "matched": true
           }
         },

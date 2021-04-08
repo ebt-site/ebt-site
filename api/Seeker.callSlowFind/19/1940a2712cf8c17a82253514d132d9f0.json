@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -120,25 +120,25 @@
           "an6.63:13.2": {
             "scid": "an6.63:13.2",
             "pli": "Phassanirodho, bhikkhave, kāmanirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, sensual pleasures cease. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, sensual pleasures cease. ",
             "matched": true
           },
           "an6.63:19.2": {
             "scid": "an6.63:19.2",
             "pli": "Phassanirodho, bhikkhave, vedanānirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feelings cease. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feelings cease. ",
             "matched": true
           },
           "an6.63:25.2": {
             "scid": "an6.63:25.2",
             "pli": "Phassanirodho, bhikkhave, saññānirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, perception ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, perception ceases. ",
             "matched": true
           },
           "an6.63:37.2": {
             "scid": "an6.63:37.2",
             "pli": "Phassanirodho, bhikkhave, kammanirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, deeds cease. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, deeds cease. ",
             "matched": true
           }
         },
@@ -173,7 +173,7 @@
           "mn38:20.6": {
             "scid": "mn38:20.6",
             "pli": "phassanirodhā vedanānirodho, ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           },
           "mn38:22.8": {
@@ -185,7 +185,7 @@
           "mn38:22.9": {
             "scid": "mn38:22.9",
             "pli": "phassanirodhā vedanānirodho, ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           }
         },
@@ -214,7 +214,7 @@
           "dn14:2.20.24": {
             "scid": "dn14:2.20.24",
             "pli": "‘phasse kho asati vedanā na hoti, phassanirodhā vedanānirodho’ti. ",
-            "en": "‘When contact doesn’t exist there’s no feeling. <span class=\"scv-matched\">When contact ceases</span>, feeling ceases.’ ",
+            "en": "‘When contact doesn’t exist there’s no feeling. <span class=\"ebt-matched\">When contact ceases</span>, feeling ceases.’ ",
             "matched": true
           },
           "dn14:2.20.26": {
@@ -232,7 +232,7 @@
           "dn14:2.21.3": {
             "scid": "dn14:2.21.3",
             "pli": "nāmarūpanirodhā viññāṇanirodho, viññāṇanirodhā nāmarūpanirodho, nāmarūpanirodhā saḷāyatananirodho, saḷāyatananirodhā phassanirodho, phassanirodhā vedanānirodho, vedanānirodhā taṇhānirodho, taṇhānirodhā upādānanirodho, upādānanirodhā bhavanirodho, bhavanirodhā jātinirodho, jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti. ",
-            "en": "When name and form cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. <span class=\"scv-matched\">When contact ceases</span>, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. ",
+            "en": "When name and form cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. <span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. ",
             "matched": true
           }
         },
@@ -261,19 +261,19 @@
           "sn22.56:6.6": {
             "scid": "sn22.56:6.6",
             "pli": "phassanirodhā vedanānirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           },
           "sn22.56:9.6": {
             "scid": "sn22.56:9.6",
             "pli": "phassanirodhā saññānirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, perception ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, perception ceases. ",
             "matched": true
           },
           "sn22.56:10.6": {
             "scid": "sn22.56:10.6",
             "pli": "phassanirodhā saṅkhāranirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, choices cease. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, choices cease. ",
             "matched": true
           }
         },
@@ -302,7 +302,7 @@
           "sn12.4:19.4": {
             "scid": "sn12.4:19.4",
             "pli": "‘phasse kho asati vedanā na hoti, phassanirodhā vedanānirodho’ti. ",
-            "en": "‘When contact doesn’t exist there’s no feeling. <span class=\"scv-matched\">When contact ceases</span>, feeling ceases.’ ",
+            "en": "‘When contact doesn’t exist there’s no feeling. <span class=\"ebt-matched\">When contact ceases</span>, feeling ceases.’ ",
             "matched": true
           },
           "sn12.4:20.2": {
@@ -343,19 +343,19 @@
           "sn22.57:6.7": {
             "scid": "sn22.57:6.7",
             "pli": "phassanirodhā vedanānirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           },
           "sn22.57:10.6": {
             "scid": "sn22.57:10.6",
             "pli": "phassanirodhā saññānirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, perception ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, perception ceases. ",
             "matched": true
           },
           "sn22.57:11.7": {
             "scid": "sn22.57:11.7",
             "pli": "phassanirodhā saṅkhāranirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, choices cease. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, choices cease. ",
             "matched": true
           }
         },
@@ -390,7 +390,7 @@
           "ud1.3:3.6": {
             "scid": "ud1.3:3.6",
             "pli": "phassanirodhā vedanānirodho,",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           }
         },
@@ -425,7 +425,7 @@
           "sn12.1:3.6": {
             "scid": "sn12.1:3.6",
             "pli": "phassanirodhā vedanānirodho; ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           }
         },
@@ -460,7 +460,7 @@
           "sn12.12:7.2": {
             "scid": "sn12.12:7.2",
             "pli": "phassanirodhā vedanānirodho; ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           }
         },
@@ -489,7 +489,7 @@
           "sn12.68:4.6": {
             "scid": "sn12.68:4.6",
             "pli": "phassanirodhā vedanānirodhoti … ",
-            "en": "<span class=\"scv-matched\">when contact ceases</span>, feeling ceases … ",
+            "en": "<span class=\"ebt-matched\">when contact ceases</span>, feeling ceases … ",
             "matched": true
           },
           "sn12.68:4.7": {
@@ -530,7 +530,7 @@
           "sn12.24:21.10": {
             "scid": "sn12.24:21.10",
             "pli": "phassanirodhā vedanānirodho; ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           }
         },
@@ -565,7 +565,7 @@
           "an3.61:16.7": {
             "scid": "an3.61:16.7",
             "pli": "phassanirodhā vedanānirodho, ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           }
         },
@@ -600,7 +600,7 @@
           "mn115:11.22": {
             "scid": "mn115:11.22",
             "pli": "phassanirodhā vedanānirodho, ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           }
         },
@@ -629,7 +629,7 @@
           "sn12.70:19.8": {
             "scid": "sn12.70:19.8",
             "pli": "phassanirodhā vedanānirodhoti … ",
-            "en": "<span class=\"scv-matched\">when contact ceases</span>, feeling ceases … ",
+            "en": "<span class=\"ebt-matched\">when contact ceases</span>, feeling ceases … ",
             "matched": true
           },
           "sn12.70:19.9": {
@@ -664,7 +664,7 @@
           "mn9:40-42.9": {
             "scid": "mn9:40-42.9",
             "pli": "Phassasamudayā vedanāsamudayo, phassanirodhā vedanānirodho, ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā, seyyathidaṁ—",
-            "en": "Feeling originates from contact. Feeling ceases <span class=\"scv-matched\">when contact ceases</span>. The practice that leads to the cessation of feeling is simply this noble eightfold path …” ",
+            "en": "Feeling originates from contact. Feeling ceases <span class=\"ebt-matched\">when contact ceases</span>. The practice that leads to the cessation of feeling is simply this noble eightfold path …” ",
             "matched": true
           },
           "mn9:44-46.9": {
@@ -699,7 +699,7 @@
           "sn36.26:1.10": {
             "scid": "sn36.26:1.10",
             "pli": "Phassanirodhā …pe… ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. … ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. … ",
             "matched": true
           }
         },
@@ -728,7 +728,7 @@
           "sn47.42:1.7": {
             "scid": "sn47.42:1.7",
             "pli": "phassanirodhā vedanānaṁ atthaṅgamo. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feelings end. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feelings end. ",
             "matched": true
           }
         },
@@ -757,7 +757,7 @@
           "sn36.23:2.6": {
             "scid": "sn36.23:2.6",
             "pli": "Phassanirodhā vedanānirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           }
         },
@@ -786,7 +786,7 @@
           "ud1.2:2.8": {
             "scid": "ud1.2:2.8",
             "pli": "phassanirodhā vedanānirodho,",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           }
         },
@@ -815,7 +815,7 @@
           "sn36.17:1.8": {
             "scid": "sn36.17:1.8",
             "pli": "phassanirodhā vedanānirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           }
         },
@@ -844,7 +844,7 @@
           "sn36.15:1.8": {
             "scid": "sn36.15:1.8",
             "pli": "phassanirodhā vedanānirodho. ",
-            "en": "<span class=\"scv-matched\">When contact ceases</span>, feeling ceases. ",
+            "en": "<span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. ",
             "matched": true
           }
         },
@@ -873,7 +873,7 @@
           "sn55.28:4.7": {
             "scid": "sn55.28:4.7",
             "pli": "Avijjāya tveva asesavirāganirodhā saṅkhāranirodho …pe… ",
-            "en": "When ignorance fades away and ceases with nothing left over, choices cease. When choices cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. <span class=\"scv-matched\">When contact ceases</span>, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. ",
+            "en": "When ignorance fades away and ceases with nothing left over, choices cease. When choices cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. <span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. ",
             "matched": true
           }
         },
@@ -902,7 +902,7 @@
           "an10.92:6.17": {
             "scid": "an10.92:6.17",
             "pli": "avijjāya tveva asesavirāganirodhā saṅkhāranirodho …pe… ",
-            "en": "When ignorance fades away and ceases with nothing left over, choices cease. When choices cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. <span class=\"scv-matched\">When contact ceases</span>, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. ",
+            "en": "When ignorance fades away and ceases with nothing left over, choices cease. When choices cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. <span class=\"ebt-matched\">When contact ceases</span>, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. ",
             "matched": true
           }
         },

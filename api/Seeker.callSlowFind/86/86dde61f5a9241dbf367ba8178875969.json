@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -84,13 +84,13 @@
           "an5.2:2.1": {
             "scid": "an5.2:2.1",
             "pli": "Katamañca, bhikkhave, saddhābalaṁ? ",
-            "en": "And what is <span class=\"scv-matched\">the power of faith</span>? ",
+            "en": "And what is <span class=\"ebt-matched\">the power of faith</span>? ",
             "matched": true
           },
           "an5.2:2.4": {
             "scid": "an5.2:2.4",
             "pli": "Idaṁ vuccati, bhikkhave, saddhābalaṁ. ",
-            "en": "This is called <span class=\"scv-matched\">the power of faith</span>. ",
+            "en": "This is called <span class=\"ebt-matched\">the power of faith</span>. ",
             "matched": true
           },
           "an5.2:7.2": {
@@ -131,13 +131,13 @@
           "an5.14:2.1": {
             "scid": "an5.14:2.1",
             "pli": "Katamañca, bhikkhave, saddhābalaṁ? ",
-            "en": "And what is <span class=\"scv-matched\">the power of faith</span>? ",
+            "en": "And what is <span class=\"ebt-matched\">the power of faith</span>? ",
             "matched": true
           },
           "an5.14:2.4": {
             "scid": "an5.14:2.4",
             "pli": "Idaṁ vuccati, bhikkhave, saddhābalaṁ. ",
-            "en": "This is called <span class=\"scv-matched\">the power of faith</span>. ",
+            "en": "This is called <span class=\"ebt-matched\">the power of faith</span>. ",
             "matched": true
           }
         },
@@ -172,13 +172,13 @@
           "an7.4:2.1": {
             "scid": "an7.4:2.1",
             "pli": "Katamañca, bhikkhave, saddhābalaṁ? ",
-            "en": "And what is <span class=\"scv-matched\">the power of faith</span>? ",
+            "en": "And what is <span class=\"ebt-matched\">the power of faith</span>? ",
             "matched": true
           },
           "an7.4:2.4": {
             "scid": "an7.4:2.4",
             "pli": "Idaṁ vuccati, bhikkhave, saddhābalaṁ. ",
-            "en": "This is called <span class=\"scv-matched\">the power of faith</span>. ",
+            "en": "This is called <span class=\"ebt-matched\">the power of faith</span>. ",
             "matched": true
           }
         },
@@ -207,19 +207,19 @@
           "an1.419:1.1": {
             "scid": "an1.419:1.1",
             "pli": "Saddhābalaṁ bhāveti …",
-            "en": "If they develop <span class=\"scv-matched\">the power of faith</span> … ",
+            "en": "If they develop <span class=\"ebt-matched\">the power of faith</span> … ",
             "matched": true
           },
           "an1.500:1.1": {
             "scid": "an1.500:1.1",
             "pli": "saddhābalaṁ bhāveti … ",
-            "en": "<span class=\"scv-matched\">the power of faith</span> … ",
+            "en": "<span class=\"ebt-matched\">the power of faith</span> … ",
             "matched": true
           },
           "an1.570:1.1": {
             "scid": "an1.570:1.1",
             "pli": "saddhābalaṁ bhāveti … ",
-            "en": "<span class=\"scv-matched\">the power of faith</span> … ",
+            "en": "<span class=\"ebt-matched\">the power of faith</span> … ",
             "matched": true
           }
         },
@@ -248,7 +248,7 @@
           "an4.152:0.3": {
             "scid": "an4.152:0.3",
             "pli": "152. Saddhābalasutta ",
-            "en": "152. <span class=\"scv-matched\">The Power of Faith</span> ",
+            "en": "152. <span class=\"ebt-matched\">The Power of Faith</span> ",
             "matched": true
           },
           "an4.152:1.3": {
@@ -289,7 +289,7 @@
           "an5.15:1.4": {
             "scid": "an5.15:1.4",
             "pli": "Kattha ca, bhikkhave, saddhābalaṁ daṭṭhabbaṁ? ",
-            "en": "And where should <span class=\"scv-matched\">the power of faith</span> be seen? ",
+            "en": "And where should <span class=\"ebt-matched\">the power of faith</span> be seen? ",
             "matched": true
           }
         },
@@ -318,13 +318,13 @@
           "sn48.43:4.2": {
             "scid": "sn48.43:4.2",
             "pli": "Yaṁ, bhikkhave, saddhindriyaṁ taṁ saddhābalaṁ, yaṁ saddhābalaṁ taṁ saddhindriyaṁ; ",
-            "en": "The faculty of faith is <span class=\"scv-matched\">the power of faith</span>, and <span class=\"scv-matched\">the power of faith</span> is the faculty of faith. ",
+            "en": "The faculty of faith is <span class=\"ebt-matched\">the power of faith</span>, and <span class=\"ebt-matched\">the power of faith</span> is the faculty of faith. ",
             "matched": true
           },
           "sn48.43:6.4": {
             "scid": "sn48.43:6.4",
             "pli": "Evameva kho, bhikkhave, yaṁ saddhindriyaṁ taṁ saddhābalaṁ, yaṁ saddhābalaṁ taṁ saddhindriyaṁ; ",
-            "en": "In the same way, the faculty of faith is <span class=\"scv-matched\">the power of faith</span>, and <span class=\"scv-matched\">the power of faith</span> is the faculty of faith. ",
+            "en": "In the same way, the faculty of faith is <span class=\"ebt-matched\">the power of faith</span>, and <span class=\"ebt-matched\">the power of faith</span> is the faculty of faith. ",
             "matched": true
           }
         },
@@ -353,7 +353,7 @@
           "an3.160:1.1": {
             "scid": "an3.160:1.1",
             "pli": "Saddhābalaṁ bhāveti … ",
-            "en": "They develop <span class=\"scv-matched\">the power of faith</span> … ",
+            "en": "They develop <span class=\"ebt-matched\">the power of faith</span> … ",
             "matched": true
           }
         },
@@ -382,7 +382,7 @@
           "sn43.12:9.2": {
             "scid": "sn43.12:9.2",
             "pli": "Idha, bhikkhave, bhikkhu saddhābalaṁ bhāveti vivekanissitaṁ …pe… ",
-            "en": "A mendicant develops <span class=\"scv-matched\">the power of faith</span> … ",
+            "en": "A mendicant develops <span class=\"ebt-matched\">the power of faith</span> … ",
             "matched": true
           }
         },

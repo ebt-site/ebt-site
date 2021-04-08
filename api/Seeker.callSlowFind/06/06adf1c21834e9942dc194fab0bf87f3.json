@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,7 +65,7 @@
           "an3.91:3.13": {
             "scid": "an3.91:3.13",
             "pli": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu, āyatiṁ saṁvarāyā”ti. ",
-            "de": "Bitte, Herr, <span class=\"scv-matched\">nimm meinen Fehler</span> als Fehler an, und ich will mich in Zukunft zügeln.“ ",
+            "de": "Bitte, Herr, <span class=\"ebt-matched\">nimm meinen Fehler</span> als Fehler an, und ich will mich in Zukunft zügeln.“ ",
             "en": "Please, sir, accept my mistake for what it is, so I will restrain myself in future.” ",
             "matched": true
           }
@@ -97,7 +97,7 @@
           "an4.159:9.3": {
             "scid": "an4.159:9.3",
             "pli": "Tassā me, bhante, ayyo ānando accayaṁ accayato paṭiggaṇhātu, āyatiṁ saṁvarāyā”ti. ",
-            "de": "Bitte, Herr, <span class=\"scv-matched\">nimm meinen Fehler</span> als Fehler an, und ich will mich in Zukunft zügeln.“ ",
+            "de": "Bitte, Herr, <span class=\"ebt-matched\">nimm meinen Fehler</span> als Fehler an, und ich will mich in Zukunft zügeln.“ ",
             "en": "Please, sir, accept my mistake for what it is, so I can restrain myself in future.” ",
             "matched": true
           }
@@ -129,7 +129,7 @@
           "dn25:22.3": {
             "scid": "dn25:22.3",
             "pli": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu āyatiṁ saṁvarāyā”ti. ",
-            "de": "Bitte, Herr, <span class=\"scv-matched\">nimm meinen Fehler</span> als Fehler an, und ich will mich in Zukunft zügeln.“ ",
+            "de": "Bitte, Herr, <span class=\"ebt-matched\">nimm meinen Fehler</span> als Fehler an, und ich will mich in Zukunft zügeln.“ ",
             "en": "Please, sir, accept my mistake for what it is, so I will restrain myself in future.” ",
             "matched": true
           }

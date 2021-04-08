@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an4.198:8.1": {
             "scid": "an4.198:8.1",
             "pli": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. ",
-            "de": "Wenn sie fortgezogen ist, nimmt sie die Übung und die Lebensweise der Mönche und Nonnen auf. Sie gibt das Töten lebender Geschöpfe auf und <span class=\"scv-matched\">verzichtet auf Stock und Schwert</span>. Sie ist gewissenhaft und gütig und lebt voller Anteilnahme für alle Lebewesen. ",
+            "de": "Wenn sie fortgezogen ist, nimmt sie die Übung und die Lebensweise der Mönche und Nonnen auf. Sie gibt das Töten lebender Geschöpfe auf und <span class=\"ebt-matched\">verzichtet auf Stock und Schwert</span>. Sie ist gewissenhaft und gütig und lebt voller Anteilnahme für alle Lebewesen. ",
             "en": "Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "dn10:1.11.2": {
             "scid": "dn10:1.11.2",
             "pli": "Idha, māṇava, bhikkhu pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. ",
-            "de": "Da gibt eine Nonne das Töten lebender Geschöpfe auf. Sie <span class=\"scv-matched\">verzichtet auf Stock und Schwert</span>. Sie ist gewissenhaft und gütig und lebt voller Anteilnahme für alle Lebewesen … ",
+            "de": "Da gibt eine Nonne das Töten lebender Geschöpfe auf. Sie <span class=\"ebt-matched\">verzichtet auf Stock und Schwert</span>. Sie ist gewissenhaft und gütig und lebt voller Anteilnahme für alle Lebewesen … ",
             "en": "It’s when a mendicant gives up killing living creatures. They renounce the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. … ",
             "matched": true
           }

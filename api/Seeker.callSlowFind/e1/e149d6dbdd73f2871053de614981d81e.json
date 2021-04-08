@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "dn33:3.1.95": {
             "scid": "dn33:3.1.95",
             "pli": "Āsajja dānaṁ deti, bhayā dānaṁ deti, ‘adāsi me’ti dānaṁ deti, ‘dassati me’ti dānaṁ deti, ‘sāhu dānan’ti dānaṁ deti, ‘ahaṁ pacāmi, ime na pacanti, nārahāmi pacanto apacantānaṁ dānaṁ na dātun’ti dānaṁ deti, ‘idaṁ me dānaṁ dadato kalyāṇo kittisaddo abbhuggacchatī’ti dānaṁ deti. ",
-            "de": "Jemand beleidigt jemanden und gibt dann eine Gabe. Jemand gibt aus Furcht. Jemand gibt in dem Gedanken: ‚Dieser Mensch hat mir gegeben.‘ Jemand gibt in dem Gedanken: ‚Dieser Mensch wird mir geben.‘ Jemand gibt in dem Gedanken: ‚Geben ist gut.‘ Jemand gibt in dem Gedanken: ‚Ich koche, sie kochen nicht. Es wäre nicht recht von mir, ihnen nichts zu geben.‘ Jemand gibt in dem Gedanken: ‚Wenn ich diese Gabe gebe, werde ich einen guten Ruf haben.‘ Jemand gibt, um den Geist <span class=\"scv-matched\">zu zieren und auszurüsten</span>. ",
+            "de": "Jemand beleidigt jemanden und gibt dann eine Gabe. Jemand gibt aus Furcht. Jemand gibt in dem Gedanken: ‚Dieser Mensch hat mir gegeben.‘ Jemand gibt in dem Gedanken: ‚Dieser Mensch wird mir geben.‘ Jemand gibt in dem Gedanken: ‚Geben ist gut.‘ Jemand gibt in dem Gedanken: ‚Ich koche, sie kochen nicht. Es wäre nicht recht von mir, ihnen nichts zu geben.‘ Jemand gibt in dem Gedanken: ‚Wenn ich diese Gabe gebe, werde ich einen guten Ruf haben.‘ Jemand gibt, um den Geist <span class=\"ebt-matched\">zu zieren und auszurüsten</span>. ",
             "en": "A person might give a gift after insulting the recipient. Or they give out of fear. Or they give thinking, ‘They gave to me.’ Or they give thinking, ‘They’ll give to me.’ Or they give thinking, ‘It’s good to give.’ Or they give thinking, ‘I cook, they don’t. It wouldn’t be right for me to not give to them.’ Or they give thinking, ‘By giving this gift I’ll get a good reputation.’ Or they give thinking, ‘This is an adornment and requisite for the mind.’ ",
             "matched": true
           }

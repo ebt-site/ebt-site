@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an4.257:2.2": {
             "scid": "an4.257:2.2",
             "pli": "“Ettha idāni, mālukyaputta, kiṁ dahare bhikkhū vakkhāma; ",
-            "en": "“Well now, Māluṅkyaputta, what are we <span class=\"scv-matched\">to say to the young monks</span>, ",
+            "en": "“Well now, Māluṅkyaputta, what are we <span class=\"ebt-matched\">to say to the young monks</span>, ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "sn35.95:2.1": {
             "scid": "sn35.95:2.1",
             "pli": "“Ettha dāni, mālukyaputta, kiṁ dahare bhikkhū vakkhāma. ",
-            "en": "“Well now, Māluṅkyaputta, what are we <span class=\"scv-matched\">to say to the young monks</span>, ",
+            "en": "“Well now, Māluṅkyaputta, what are we <span class=\"ebt-matched\">to say to the young monks</span>, ",
             "matched": true
           }
         },

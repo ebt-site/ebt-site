@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -141,25 +141,25 @@
           "dn26:10.10": {
             "scid": "dn26:10.10",
             "pli": "‘saccaṁ kira tvaṁ, ambho purisa, paresaṁ adinnaṁ theyyasaṅkhātaṁ ādiyī’ti? ",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span>, mister, that you stole from others with the intention to commit theft?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span>, mister, that you stole from others with the intention to commit theft?’ ",
             "matched": true
           },
           "dn26:11.6": {
             "scid": "dn26:11.6",
             "pli": "‘saccaṁ kira tvaṁ, ambho purisa, paresaṁ adinnaṁ theyyasaṅkhātaṁ ādiyī’ti? ",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span>, mister, that you stole from others?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span>, mister, that you stole from others?’ ",
             "matched": true
           },
           "dn26:12.10": {
             "scid": "dn26:12.10",
             "pli": "‘saccaṁ kira tvaṁ, ambho purisa, paresaṁ adinnaṁ theyyasaṅkhātaṁ ādiyī’ti? ",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span>, mister, that you stole from others?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span>, mister, that you stole from others?’ ",
             "matched": true
           },
           "dn26:14.8": {
             "scid": "dn26:14.8",
             "pli": "‘saccaṁ kira tvaṁ, ambho purisa, paresaṁ adinnaṁ theyyasaṅkhātaṁ ādiyī’ti? ",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span>, mister, that you stole from others?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span>, mister, that you stole from others?’ ",
             "matched": true
           }
         },
@@ -188,25 +188,25 @@
           "dn24:2.14.5": {
             "scid": "dn24:2.14.5",
             "pli": "‘saccaṁ kira tumhe āyasmanto issarakuttaṁ brahmakuttaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? ",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
             "matched": true
           },
           "dn24:2.18.3": {
             "scid": "dn24:2.18.3",
             "pli": "‘saccaṁ kira tumhe āyasmanto khiḍḍāpadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? ",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
             "matched": true
           },
           "dn24:2.19.3": {
             "scid": "dn24:2.19.3",
             "pli": "‘saccaṁ kira tumhe āyasmanto manopadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? ",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
             "matched": true
           },
           "dn24:2.20.3": {
             "scid": "dn24:2.20.3",
             "pli": "‘saccaṁ kira tumhe āyasmanto adhiccasamuppannaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? ",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
             "matched": true
           }
         },
@@ -235,19 +235,19 @@
           "an3.61:2.3": {
             "scid": "an3.61:2.3",
             "pli": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino: ",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
             "matched": true
           },
           "an3.61:4.3": {
             "scid": "an3.61:4.3",
             "pli": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino—",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
             "matched": true
           },
           "an3.61:6.3": {
             "scid": "an3.61:6.3",
             "pli": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino—",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
             "matched": true
           }
         },
@@ -276,13 +276,13 @@
           "sn22.85:3.1": {
             "scid": "sn22.85:3.1",
             "pli": "“Saccaṁ kira te, āvuso yamaka, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Reverend Yamaka, that you have such a harmful misconception: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Reverend Yamaka, that you have such a harmful misconception: ",
             "matched": true
           },
           "sn22.85:6.1": {
             "scid": "sn22.85:6.1",
             "pli": "“Saccaṁ kira te, āvuso yamaka, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Reverend Yamaka, that you have such a harmful misconception: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Reverend Yamaka, that you have such a harmful misconception: ",
             "matched": true
           }
         },
@@ -311,13 +311,13 @@
           "mn22:3.2": {
             "scid": "mn22:3.2",
             "pli": "“saccaṁ kira te, āvuso ariṭṭha, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Reverend Ariṭṭha, that you have such a harmful misconception: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Reverend Ariṭṭha, that you have such a harmful misconception: ",
             "matched": true
           },
           "mn22:5.7": {
             "scid": "mn22:5.7",
             "pli": "“saccaṁ kira te, ariṭṭha, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Ariṭṭha, that you have such a harmful misconception: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Ariṭṭha, that you have such a harmful misconception: ",
             "matched": true
           }
         },
@@ -346,13 +346,13 @@
           "mn38:3.5": {
             "scid": "mn38:3.5",
             "pli": "“saccaṁ kira te, āvuso sāti, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Reverend Sāti, that you have such a harmful misconception: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Reverend Sāti, that you have such a harmful misconception: ",
             "matched": true
           },
           "mn38:5.7": {
             "scid": "mn38:5.7",
             "pli": "“saccaṁ kira te, sāti, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Sāti, that you have such a harmful misconception: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Sāti, that you have such a harmful misconception: ",
             "matched": true
           }
         },
@@ -381,7 +381,7 @@
           "sn7.21:2.4": {
             "scid": "sn7.21:2.4",
             "pli": "“saccaṁ kira tvaṁ, brāhmaṇa, udakasuddhiko, udakena suddhiṁ paccesi, sāyaṁ pātaṁ udakorohanānuyogamanuyutto viharasī”ti? ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, brahmin, that you practice purification by water, believing in purification by water; that you live committed to the practice of immersing yourself in water at dawn and dusk?” ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, brahmin, that you practice purification by water, believing in purification by water; that you live committed to the practice of immersing yourself in water at dawn and dusk?” ",
             "matched": true
           }
         },
@@ -410,7 +410,7 @@
           "sn21.4:2.6": {
             "scid": "sn21.4:2.6",
             "pli": "“saccaṁ kira tvaṁ, bhikkhu, pacchābhattaṁ piṇḍapātapaṭikkanto vihāraṁ pavisitvā appossukko tuṇhībhūto saṅkasāyasi, na bhikkhūnaṁ veyyāvaccaṁ karosi cīvarakārasamaye”ti? ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, monk, that after your meal, on your return from alms-round, you entered your dwelling, where you adhered to passivity and silence, and you didn’t help the mendicants out when it was time to sew robes?” ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, monk, that after your meal, on your return from alms-round, you entered your dwelling, where you adhered to passivity and silence, and you didn’t help the mendicants out when it was time to sew robes?” ",
             "matched": true
           }
         },
@@ -439,7 +439,7 @@
           "ud3.6:3.3": {
             "scid": "ud3.6:3.3",
             "pli": "“saccaṁ kira tvaṁ, vaccha, bhikkhū vasalavādena samudācarasī”ti?",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Vaccha, that you addressed the mendicants as ‘lowlifes’?”",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Vaccha, that you addressed the mendicants as ‘lowlifes’?”",
             "matched": true
           }
         },
@@ -468,7 +468,7 @@
           "sn21.10:2.7": {
             "scid": "sn21.10:2.7",
             "pli": "“saccaṁ kira tvaṁ, thera, ekavihārī ekavihārassa ca vaṇṇavādī”ti? ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Senior, that you live alone and praise living alone?” ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Senior, that you live alone and praise living alone?” ",
             "matched": true
           }
         },
@@ -497,7 +497,7 @@
           "sn16.6:4.2": {
             "scid": "sn16.6:4.2",
             "pli": "“saccaṁ kira tumhe, bhikkhave, aññamaññaṁ sutena accāvadatha: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, monks, that you’ve been competing in studies, saying: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, monks, that you’ve been competing in studies, saying: ",
             "matched": true
           }
         },
@@ -526,7 +526,7 @@
           "ud2.10:6.1": {
             "scid": "ud2.10:6.1",
             "pli": "“Saccaṁ kira tvaṁ, bhaddiya, araññagatopi rukkhamūlagatopi suññāgāragatopi abhikkhaṇaṁ udānaṁ udānesi:",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Bhaddiya, that even in the wilderness, at the foot of a tree, or in an empty dwelling, you frequently express this heartfelt sentiment:",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Bhaddiya, that even in the wilderness, at the foot of a tree, or in an empty dwelling, you frequently express this heartfelt sentiment:",
             "matched": true
           }
         },
@@ -555,7 +555,7 @@
           "an3.64:3.2": {
             "scid": "an3.64:3.2",
             "pli": "“saccaṁ kira tvaṁ, sarabha, evaṁ vadesi: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Sarabha, that you’ve been saying: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Sarabha, that you’ve been saying: ",
             "matched": true
           }
         },
@@ -584,7 +584,7 @@
           "an10.94:4.4": {
             "scid": "an10.94:4.4",
             "pli": "“saccaṁ kira, gahapati, samaṇo gotamo sabbaṁ tapaṁ garahati, sabbaṁ tapassiṁ lūkhājīviṁ ekaṁsena upakkosati upavadatī”ti? ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, householder? Does the ascetic Gotama criticize all forms of mortification? Does he categorically condemn and denounce those self-mortifiers who live rough?” ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, householder? Does the ascetic Gotama criticize all forms of mortification? Does he categorically condemn and denounce those self-mortifiers who live rough?” ",
             "matched": true
           }
         },
@@ -613,7 +613,7 @@
           "ud3.2:5.1": {
             "scid": "ud3.2:5.1",
             "pli": "“Saccaṁ kira tvaṁ, nanda, sambahulānaṁ bhikkhūnaṁ evamārocesi:",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Nanda, that you informed several mendicants that ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Nanda, that you informed several mendicants that ",
             "matched": true
           }
         },
@@ -642,7 +642,7 @@
           "sn22.84:3.6": {
             "scid": "sn22.84:3.6",
             "pli": "“saccaṁ kira tvaṁ, tissa, sambahulānaṁ bhikkhūnaṁ evamārocesi: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Tissa, that you informed several mendicants that ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Tissa, that you informed several mendicants that ",
             "matched": true
           }
         },
@@ -671,7 +671,7 @@
           "an8.8:5.1": {
             "scid": "an8.8:5.1",
             "pli": "“Saccaṁ kira, bhante, āyasmā uttaro bhikkhūnaṁ evaṁ dhammaṁ desesi: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, sir, that you teach the mendicants in this way: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, sir, that you teach the mendicants in this way: ",
             "matched": true
           }
         },
@@ -700,7 +700,7 @@
           "mn48:4.7": {
             "scid": "mn48:4.7",
             "pli": "“saccaṁ kira tumhe, bhikkhave, bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharatha, ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, mendicants, that you have been arguing, quarreling, and fighting, continually wounding each other with barbed words? ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, mendicants, that you have been arguing, quarreling, and fighting, continually wounding each other with barbed words? ",
             "matched": true
           }
         },
@@ -729,7 +729,7 @@
           "sn12.32:6.7": {
             "scid": "sn12.32:6.7",
             "pli": "“saccaṁ kira tayā, sāriputta, aññā byākatā: ",
-            "en": "“Sāriputta, <span class=\"scv-matched\">is it really true</span> that you have declared enlightenment: ",
+            "en": "“Sāriputta, <span class=\"ebt-matched\">is it really true</span> that you have declared enlightenment: ",
             "matched": true
           }
         },
@@ -758,7 +758,7 @@
           "sn12.70:4.8": {
             "scid": "sn12.70:4.8",
             "pli": "“saccaṁ kirāyasmantehi bhagavato santike aññā byākatā: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span> that the venerables have declared enlightenment in the Buddha’s presence?” ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span> that the venerables have declared enlightenment in the Buddha’s presence?” ",
             "matched": true
           }
         },
@@ -787,7 +787,7 @@
           "dn12:9.6": {
             "scid": "dn12:9.6",
             "pli": "“saccaṁ kira te, lohicca, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Lohicca, that you have such a harmful misconception: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Lohicca, that you have such a harmful misconception: ",
             "matched": true
           }
         },
@@ -816,7 +816,7 @@
           "mn70:6.7": {
             "scid": "mn70:6.7",
             "pli": "“saccaṁ kira, bhikkhave, sambahulā bhikkhū tumhe upasaṅkamitvā etadavocuṁ: ",
-            "en": "The Buddha said to them, “<span class=\"scv-matched\">Is it really true</span>, mendicants, that several mendicants went to you and said: ",
+            "en": "The Buddha said to them, “<span class=\"ebt-matched\">Is it really true</span>, mendicants, that several mendicants went to you and said: ",
             "matched": true
           }
         },
@@ -845,7 +845,7 @@
           "mn21:5.1": {
             "scid": "mn21:5.1",
             "pli": "“Saccaṁ kira tvaṁ, phagguna, bhikkhunīhi saddhiṁ ativelaṁ saṁsaṭṭho viharasi? ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Phagguna, that you’ve been mixing overly closely together with the nuns? ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Phagguna, that you’ve been mixing overly closely together with the nuns? ",
             "matched": true
           }
         },
@@ -874,7 +874,7 @@
           "dn4:4.5": {
             "scid": "dn4:4.5",
             "pli": "“saccaṁ kira bhavaṁ soṇadaṇḍo samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī”ti? ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span> that you are going to see the ascetic Gotama?” ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span> that you are going to see the ascetic Gotama?” ",
             "matched": true
           }
         },
@@ -903,7 +903,7 @@
           "dn5:5.6": {
             "scid": "dn5:5.6",
             "pli": "“saccaṁ kira bhavaṁ kūṭadanto samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī”ti? ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span> that you are going to see the ascetic Gotama?” ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span> that you are going to see the ascetic Gotama?” ",
             "matched": true
           }
         },
@@ -932,7 +932,7 @@
           "dn25:21.2": {
             "scid": "dn25:21.2",
             "pli": "“saccaṁ kira, nigrodha, bhāsitā te esā vācā”ti? ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, Nigrodha—are those your words?” ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Nigrodha—are those your words?” ",
             "matched": true
           }
         },
@@ -961,7 +961,7 @@
           "mn95:7.5": {
             "scid": "mn95:7.5",
             "pli": "“saccaṁ kira bhavaṁ caṅkī samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī”ti? ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span> that you are going to see the ascetic Gotama?” ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span> that you are going to see the ascetic Gotama?” ",
             "matched": true
           }
         },
@@ -990,7 +990,7 @@
           "mn101:3.2": {
             "scid": "mn101:3.2",
             "pli": "‘saccaṁ kira tumhe, āvuso nigaṇṭhā, evaṁvādino evaṁdiṭṭhino—",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
             "matched": true
           }
         },
@@ -1019,7 +1019,7 @@
           "dn9:34.4": {
             "scid": "dn9:34.4",
             "pli": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino: ",
-            "en": "‘<span class=\"scv-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
             "matched": true
           }
         },
@@ -1048,7 +1048,7 @@
           "dn23:32.10": {
             "scid": "dn23:32.10",
             "pli": "“saccaṁ kira tvaṁ, tāta uttara, dānaṁ datvā evaṁ anuddisasi: ",
-            "en": "“<span class=\"scv-matched\">Is it really true</span>, dear Uttara, that you referred to the offering in this way?” ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, dear Uttara, that you referred to the offering in this way?” ",
             "matched": true
           }
         },

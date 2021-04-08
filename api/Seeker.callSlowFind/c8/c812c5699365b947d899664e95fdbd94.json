@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an6.29:5.1": {
             "scid": "an6.29:5.1",
             "pli": "“Puna caparaṁ, bhante, bhikkhu ālokasaññaṁ manasi karoti, divā saññaṁ adhiṭṭhāti, yathā divā tathā rattiṁ, yathā rattiṁ tathā divā; ",
-            "en": "Furthermore, a mendicant focuses on the perception of light, concentrating on the perception of day regardless of <span class=\"scv-matched\">whether it is night or day</span>. ",
+            "en": "Furthermore, a mendicant focuses on the perception of light, concentrating on the perception of day regardless of <span class=\"ebt-matched\">whether it is night or day</span>. ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "dn33:1.11.35": {
             "scid": "dn33:1.11.35",
             "pli": "Idhāvuso, bhikkhu ālokasaññaṁ manasi karoti, divāsaññaṁ adhiṭṭhāti yathā divā tathā rattiṁ, yathā rattiṁ tathā divā. ",
-            "en": "A mendicant focuses on the perception of light, concentrating on the perception of day regardless of <span class=\"scv-matched\">whether it is night or day</span>. ",
+            "en": "A mendicant focuses on the perception of light, concentrating on the perception of day regardless of <span class=\"ebt-matched\">whether it is night or day</span>. ",
             "matched": true
           }
         },

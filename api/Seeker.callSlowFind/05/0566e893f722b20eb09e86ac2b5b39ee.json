@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an6.63:42.2": {
             "scid": "an6.63:42.2",
             "pli": "Idha, bhikkhave, ekacco yena dukkhena abhibhūto pariyādinnacitto socati kilamati paridevati, urattāḷiṁ kandati, sammohaṁ āpajjati, yena vā pana dukkhena abhibhūto pariyādinnacitto bahiddhā pariyeṭṭhiṁ āpajjati: ",
-            "en": "It’s when someone who is overcome and <span class=\"scv-matched\">overwhelmed by suffering</span> sorrows and wails and laments, beating their breast and falling into confusion. Or else, overcome by that suffering, they begin an external search, wondering: ",
+            "en": "It’s when someone who is overcome and <span class=\"ebt-matched\">overwhelmed by suffering</span> sorrows and wails and laments, beating their breast and falling into confusion. Or else, overcome by that suffering, they begin an external search, wondering: ",
             "matched": true
           }
         },

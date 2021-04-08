@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -63,7 +63,7 @@
           "sn34.55:1.5": {
             "scid": "sn34.55:1.5",
             "pli": "Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sappāyakārī hoti, na samādhismiṁ sātaccakārī. ",
-            "en": "One meditator is skilled in doing what’s <span class=\"scv-matched\">conducive to immersion</span> but not in practicing persistently for it. ",
+            "en": "One meditator is skilled in doing what’s <span class=\"ebt-matched\">conducive to immersion</span> but not in practicing persistently for it. ",
             "matched": true
           },
           "sn34.55:1.6": {
@@ -116,7 +116,7 @@
           "sn34.10:0.3": {
             "scid": "sn34.10:0.3",
             "pli": "10. Samādhimūlakasappāyakārīsutta ",
-            "en": "10. <span class=\"scv-matched\">Conducive to Immersion</span> ",
+            "en": "10. <span class=\"ebt-matched\">Conducive to Immersion</span> ",
             "matched": true
           },
           "sn34.10:1.4": {

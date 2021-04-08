@@ -1,5 +1,5 @@
 <template>
-  <v-sheet class="scv-settings" v-if="isMounted">
+  <v-sheet class="ebt-settings" v-if="isMounted">
     <v-btn dark icon
         id="more-menu-btn"
         @click="clickSettings()"
@@ -7,11 +7,11 @@
         aria-controls="more-menu"
         :aria-label="$t('ariaMore')"
         :aria-expanded="moreVisible"
-        class="scv-icon-btn" :style="cssProps" >
-        <v-icon size="20px" class="scv-settings-icon">{{mdiCog}}</v-icon>
+        class="ebt-icon-btn" :style="cssProps" >
+        <v-icon size="20px" class="ebt-settings-icon">{{mdiCog}}</v-icon>
     </v-btn>
     <v-sheet light>
-    <ul light class="scv-more-menu" 
+    <ul light class="ebt-more-menu" 
       id = "more-menu"
       ref="ref-more-menu"
       aria-labelledby="more-menu-btn"
@@ -23,22 +23,22 @@
           @click="clickDetails('general', $event)"
           :open="showDetail('general')"
         >
-          <summary class="scv-summary">
-            <div class="scv-settings-title">
+          <summary class="ebt-summary">
+            <div class="ebt-settings-title">
                 <div>{{$t('general')}}</div>
                 <div class="body-2">
                   {{version}}
                   <span v-if="saveCookies && openDetail!=='general'">, cookies</span>
                 </div>
-            </div><!--scv-settings-title-->
+            </div><!--ebt-settings-title-->
           </summary>
-          <div class="scv-settings-detail">
-            <scv-checkbox v-model="saveSettingsExamples"
+          <div class="ebt-settings-detail">
+            <ebt-checkbox v-model="saveSettingsExamples"
               ref="saveSettingsExamples-focus"
               :label="$t('storeSettingsHistory')"/>
           </div>
-          <div class="scv-settings-detail">
-            <scv-checkbox v-model="saveSettings"
+          <div class="ebt-settings-detail">
+            <ebt-checkbox v-model="saveSettings"
               ref="saveSettings-focus"
               :label="$t('storeSettingsInCookies')"/>
           </div>
@@ -49,19 +49,19 @@
           @click="clickDetails('lang', $event)"
           :open="showDetail('lang')"
         >
-          <summary class="scv-summary">
-            <div class="scv-settings-title">
+          <summary class="ebt-summary">
+            <div class="ebt-settings-title">
                 <div>{{$t('languages')}}</div>
                 <div v-if="openDetail!=='lang'" class="body-2">
                   {{locale.toUpperCase()}} {{lang.toUpperCase()}}
                 </div>
-            </div><!--scv-settings-title-->
+            </div><!--ebt-settings-title-->
           </summary>
-          <div class="scv-settings-detail">
-            <div class="scv-select-container">
+          <div class="ebt-settings-detail">
+            <div class="ebt-select-container">
               <select id="locale-select" 
                 ref="lang-focus"
-                class="scv-select"
+                class="ebt-select"
                 v-model="locale"
                 @click="stopPropagation($event)">
                 <option v-for="item in languages" :key="item.code" 
@@ -70,9 +70,9 @@
               </select>
               <label for="locale-select">{{$t('uiLanguage')}}</label>
             </div>
-            <div class="scv-select-container">
+            <div class="ebt-select-container">
               <select id="lang-select" 
-                class="scv-select"
+                class="ebt-select"
                 v-model="lang"
                 @click="stopPropagation($event)">
                 <option v-for="item in transLanguages" :key="item.code" 
@@ -89,43 +89,43 @@
           @click="clickDetails('trans', $event)"
           :open="showDetail('trans')"
         >
-          <summary class="scv-summary">
-            <div class="scv-settings-title">
+          <summary class="ebt-summary">
+            <div class="ebt-settings-title">
                 <div>{{$t('textLayout')}}</div>
                 <div >
                   <span v-if="showId" class="body-2">#</span>
                   <span v-if="showPali" class="body-2">Pali</span>
-                  <v-icon class="scv-settings-icon"
+                  <v-icon class="ebt-settings-icon"
                     v-if="fullLine && showPali && showTrans">
                     {{ mdiFormatAlignJustify}}
                   </v-icon>
-                  <v-icon class="scv-settings-icon"
+                  <v-icon class="ebt-settings-icon"
                     v-if="!fullLine && showPali && showTrans" >
                     {{ mdiFormatColumns}}
                   </v-icon>
                   <span v-if="showTrans" class="body-2">
                     {{lang.toUpperCase()}}</span>
                 </div>
-            </div><!--scv-settings-title-->
+            </div><!--ebt-settings-title-->
           </summary>
-          <div class="scv-settings-detail">
-            <scv-checkbox v-model="showPali" 
+          <div class="ebt-settings-detail">
+            <ebt-checkbox v-model="showPali" 
               ref="trans-focus"
               :aria-checked="showPali"
               :label="$t('showPaliText')"
               @click="stopPropagation($event)"
               />
-            <scv-checkbox v-model="showTrans" 
+            <ebt-checkbox v-model="showTrans" 
               :aria-checked="showTrans"
               :label="$t('showTransText')"
               @click="stopPropagation($event)"
               />
-            <scv-checkbox v-model="fullLine" 
+            <ebt-checkbox v-model="fullLine" 
               :aria-checked="fullLine"
               :label="$t('showLineByLine')"
               @click="stopPropagation($event)"
               />
-            <scv-checkbox v-model="showId" 
+            <ebt-checkbox v-model="showId" 
               :aria-checked="showId"
               :label="$t('showTextSegmentIds')"
               @click="stopPropagation($event)"
@@ -138,8 +138,8 @@
           @click="clickDetails('reader', $event)"
           :open="showDetail('reader')"
           >
-          <summary class="scv-summary">
-            <div class="scv-settings-title">
+          <summary class="ebt-summary">
+            <div class="ebt-settings-title">
               <div>{{$t('reader')}}</div>
               <div>
                 <span class="body-2" v-if="showPali && openDetail!=='reader'">
@@ -147,12 +147,12 @@
                 <span class="body-2" v-if="showTrans && openDetail!=='reader'">
                   {{vnameTrans}}</span>
               </div>
-            </div><!--scv-settings-title-->
+            </div><!--ebt-settings-title-->
           </summary>
-          <div class="scv-settings-detail">
-            <div class="scv-select-container">
+          <div class="ebt-settings-detail">
+            <div class="ebt-select-container">
               <select id="reader-select-trans" 
-                class="scv-select"
+                class="ebt-select"
                 ref="reader-focus"
                 v-model="vnameTrans"
                 @click="stopPropagation($event)">
@@ -162,9 +162,9 @@
               </select>
               <label for="reader-select-trans">{{lang.toUpperCase()}}</label>
             </div>
-            <div class="scv-select-container">
+            <div class="ebt-select-container">
               <select id="reader-select-root" 
-                class="scv-select"
+                class="ebt-select"
                 v-model="vnameRoot"
                 @click="stopPropagation($event)">
                 <option v-for="item in langVoices('pli', 'vnameRoot')" :key="item.code" 
@@ -181,26 +181,26 @@
           @click="clickDetails('search', $event)"
           :open="showDetail('search')"
           >
-          <summary class="scv-summary">
-            <div class="scv-settings-title">
+          <summary class="ebt-summary">
+            <div class="ebt-settings-title">
               <div>{{$t('searchResults')}}</div>
               <div class="body-2" v-if="openDetail!=='search'">{{maxResults}}</div>
             </div>
           </summary>
-          <div class="scv-settings-detail" >
-            <div class="scv-select-container"
+          <div class="ebt-settings-detail" >
+            <div class="ebt-select-container"
               @click="stopPropagation($event)"
               >
               <select id="maxResults-select" 
                 ref="search-focus"
-                class="scv-select"
+                class="ebt-select"
                 v-model="maxResults"
                 >
                 <option v-for="n in [5,10,25,50]" :key="n" 
                   :selected="maxResults === n"
                   :value="n">{{n}} {{$t('searchResults')}}</option>
               </select>
-            </div><!--scv-select-container-->
+            </div><!--ebt-select-container-->
           </div>
         </details>
       </li>
@@ -209,17 +209,17 @@
           @click="clickDetails('audio', $event)"
           :open="showDetail('audio')"
           >
-          <summary class="scv-summary">  
-            <div class="scv-settings-title"> 
+          <summary class="ebt-summary">  
+            <div class="ebt-settings-title"> 
               <div>{{$t('audio')}} </div>
               <div class="body-2" v-if="openDetail!=='audio'">{{audio}}</div>
             </div>
           </summary>
-          <div class="scv-settings-detail">
-            <div class="scv-select-container" @click="stopPropagation($event)" >
+          <div class="ebt-settings-detail">
+            <div class="ebt-select-container" @click="stopPropagation($event)" >
               <select id="audio-select" 
                 ref="audio-focus"
-                class="scv-select "
+                class="ebt-select "
                 v-model="audio"
                 >
                 <option :selected="audio==='opus'" value="opus">
@@ -229,11 +229,11 @@
                 <option :selected="audio==='mp3'" value="mp3">
                   MP3 {{$t('audio')}}</option>
               </select>
-            </div><!--scv-select-container-->
-            <div class="scv-select-container" @click="stopPropagation($event)" >
+            </div><!--ebt-select-container-->
+            <div class="ebt-select-container" @click="stopPropagation($event)" >
               <select id="ips-select" 
                 ref="sound-focus"
-                class="scv-select caption"
+                class="ebt-select caption"
                 v-model="ips"
                 >
                 <option v-for="item in ipsChoices" :key="item.value" 
@@ -243,7 +243,7 @@
               </select>
               <label for="ips-select" v-if="ips">
                 <v-btn icon 
-                  class="scv-icon-btn"
+                  class="ebt-icon-btn"
                   @click="playBell"
                   >
                   <v-icon small>{{mdiVolumeHigh}}</v-icon>
@@ -255,28 +255,28 @@
                 <source type="audio/ogg" :src="bell.url.substring(1)" />
                 <p>{{$t('noHTML5')}}</p>
               </audio>
-            </div><!--scv-select-container-->
+            </div><!--ebt-select-container-->
           </div>
         </details>
       </li><!-- Audio -->
       <li class="text-center settings-close" role="none">
         <v-btn id="btnSettings" 
           small
-          class="scv-text-btn"
+          class="ebt-text-btn"
           :aria-label="$t('ariaClose')"
           @click="focusMore(false,$event)"
           >
           {{$t('$vuetify.close')}}
         </v-btn>
       </li>
-    </ul> <!-- scv-more-menu -->
+    </ul> <!-- ebt-more-menu -->
     </v-sheet>
-  </v-sheet> <!-- scv-more -->
+  </v-sheet> <!-- ebt-more -->
 </template>
 
 <script>
 import Vue from "vue";
-import ScvCheckbox from './scv-checkbox.vue';
+import EbtCheckbox from './ebt-checkbox.vue';
 import {
   mdiCog,
   mdiVolumeHigh,
@@ -291,7 +291,7 @@ const {version } = require('../package.json');
 
 export default {
   components: {
-    ScvCheckbox,
+    EbtCheckbox,
   },
   props: {
     version: {
@@ -318,14 +318,14 @@ export default {
   },
   mounted() {
     let { monolingual } = this;
-    this.$store.dispatch('scv/loadVoices');
+    this.$store.dispatch('ebt/loadVoices');
     Vue.set(this, "isMounted", true);
     if (monolingual) {
       this.locale = monolingual;
       this.lang = monolingual;
-      console.log(`scv-settings mounted monolingual:${monolingual}`);
+      console.log(`ebt-settings mounted monolingual:${monolingual}`);
     } else {
-      console.log(`scv-settings mounted`, this);
+      console.log(`ebt-settings mounted`, this);
     }
   },
   methods:{
@@ -400,37 +400,37 @@ export default {
       return this.hasOwnProperty('$t');
     },
     fullLine: {
-      get: function() { return this.$store.state.scv.settings.fullLine; },
-      set: function(value) { this.$store.commit("scv/settings", {fullLine:value}); },
+      get: function() { return this.$store.state.ebt.settings.fullLine; },
+      set: function(value) { this.$store.commit("ebt/settings", {fullLine:value}); },
     },
     showTrans: {
-      get: function() { return this.$store.state.scv.settings.showTrans; },
-      set: function(value) { this.$store.commit("scv/settings", {showTrans:value}); },
+      get: function() { return this.$store.state.ebt.settings.showTrans; },
+      set: function(value) { this.$store.commit("ebt/settings", {showTrans:value}); },
     },
     showPali: {
-      get: function() { return this.$store.state.scv.settings.showPali; },
-      set: function(value) { this.$store.commit("scv/settings", {showPali:value}); },
+      get: function() { return this.$store.state.ebt.settings.showPali; },
+      set: function(value) { this.$store.commit("ebt/settings", {showPali:value}); },
     },
     showId: {
-      get: function() { return this.$store.state.scv.settings.showId; },
-      set: function(value) { this.$store.commit("scv/settings", {showId:value}); },
+      get: function() { return this.$store.state.ebt.settings.showId; },
+      set: function(value) { this.$store.commit("ebt/settings", {showId:value}); },
     },
     lang: {
-      get: function() { return this.$store.state.scv.settings.lang; },
-      set: function(value) { this.$store.commit("scv/settings", {lang:value}); },
+      get: function() { return this.$store.state.ebt.settings.lang; },
+      set: function(value) { this.$store.commit("ebt/settings", {lang:value}); },
     },
     maxResults: {
-      get: function() { return this.$store.state.scv.settings.maxResults; },
+      get: function() { return this.$store.state.ebt.settings.maxResults; },
       set: function(value) { 
-        this.$store.commit("scv/settings", {maxResults:Number(value)}); },
+        this.$store.commit("ebt/settings", {maxResults:Number(value)}); },
     },
     locale: {
-      get: function() { return this.$store.state.scv.settings.locale; },
-      set: function(value) { this.$store.commit("scv/settings", {locale:value}); },
+      get: function() { return this.$store.state.ebt.settings.locale; },
+      set: function(value) { this.$store.commit("ebt/settings", {locale:value}); },
     },
     audio: {
-      get: function() { return this.$store.state.scv.settings.audio; },
-      set: function(value) { this.$store.commit("scv/settings", {audio:value}); },
+      get: function() { return this.$store.state.ebt.settings.audio; },
+      set: function(value) { this.$store.commit("ebt/settings", {audio:value}); },
     },
     saveCookies: {
       get: function() {
@@ -438,34 +438,34 @@ export default {
       }
     },
     saveSettings: {
-      get: function() { return !!this.$store.state.scv.settings.saveSettings; },
+      get: function() { return !!this.$store.state.ebt.settings.saveSettings; },
       set: function(value) { 
-        this.$store.commit("scv/settings", {saveSettings:value}); 
+        this.$store.commit("ebt/settings", {saveSettings:value}); 
       },
     },
     saveSettingsExamples: {
-      get: function() { return !!this.$store.state.scv.settings.saveSettingsExamples; },
+      get: function() { return !!this.$store.state.ebt.settings.saveSettingsExamples; },
       set: function(value) { 
-        this.$store.commit("scv/settings", {saveSettingsExamples:value}); 
+        this.$store.commit("ebt/settings", {saveSettingsExamples:value}); 
       },
     },
     vnameRoot: {
-      get: function() { return this.$store.state.scv.settings.vnameRoot; },
+      get: function() { return this.$store.state.ebt.settings.vnameRoot; },
       set: function(value) { 
-        this.$store.commit("scv/settings", {vnameRoot:value}); 
+        this.$store.commit("ebt/settings", {vnameRoot:value}); 
       },
     },
     vnameTrans: {
-      get: function() { return this.$store.state.scv.settings.vnameTrans; },
+      get: function() { return this.$store.state.ebt.settings.vnameTrans; },
       set: function(value) { 
-        this.$store.commit("scv/settings", {vnameTrans:value}); 
+        this.$store.commit("ebt/settings", {vnameTrans:value}); 
       },
     },
     settings() {
-      return this.$store.state.scv.settings;
+      return this.$store.state.ebt.settings;
     },
     voices() {
-      return this.$store.state.scv.voices;
+      return this.$store.state.ebt.voices;
     },
     transLanguages() {
       return Settings.TRANS_LANGUAGES;
@@ -482,8 +482,8 @@ export default {
       return this.ips && Settings.IPS_CHOICES[this.ips].url;
     },
     ips: {
-      get: function() { return this.$store.state.scv.settings.ips; },
-      set: function(value) { this.$store.commit("scv/settings", {ips:value}); },
+      get: function() { return this.$store.state.ebt.settings.ips; },
+      set: function(value) { this.$store.commit("ebt/settings", {ips:value}); },
     },
   },
 }

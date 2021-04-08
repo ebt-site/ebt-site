@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -80,7 +80,7 @@
           "dn10:2.20.0": {
             "scid": "dn10:2.20.0",
             "pli": "3. Paññākkhandha ",
-            "de": "3. Der <span class=\"scv-matched\">Umfang der Weisheit</span> ",
+            "de": "3. Der <span class=\"ebt-matched\">Umfang der Weisheit</span> ",
             "en": "3. The Spectrum of Wisdom ",
             "matched": true
           },
@@ -108,7 +108,7 @@
           "dn10:2.37.5": {
             "scid": "dn10:2.37.5",
             "pli": "Evaṁ paripuṇṇañcāhaṁ, bho ānanda, ariyaṁ paññākkhandhaṁ ito bahiddhā aññesu samaṇabrāhmaṇesu na samanupassāmi. ",
-            "de": "Solch einen vollständigen <span class=\"scv-matched\">Umfang der Weisheit</span> kann man bei den anderen Asketen und Brahmanen nicht sehen. ",
+            "de": "Solch einen vollständigen <span class=\"ebt-matched\">Umfang der Weisheit</span> kann man bei den anderen Asketen und Brahmanen nicht sehen. ",
             "en": "Such a complete spectrum of wisdom cannot be seen among the other ascetics and brahmins. ",
             "matched": true
           }
@@ -140,14 +140,14 @@
           "an5.22:1.5": {
             "scid": "an5.22:1.5",
             "pli": "‘Samādhikkhandhaṁ aparipūretvā paññākkhandhaṁ paripūressatī’ti netaṁ ṭhānaṁ vijjati. ",
-            "de": "Ohne den ganzen Umfang der Versenkung zu erfüllen, ist es unmöglich, den ganzen <span class=\"scv-matched\">Umfang der Weisheit</span> zu erfüllen. ",
+            "de": "Ohne den ganzen Umfang der Versenkung zu erfüllen, ist es unmöglich, den ganzen <span class=\"ebt-matched\">Umfang der Weisheit</span> zu erfüllen. ",
             "en": "Without fulfilling the entire spectrum of immersion, it’s impossible to fulfill the entire spectrum of wisdom. ",
             "matched": true
           },
           "an5.22:2.5": {
             "scid": "an5.22:2.5",
             "pli": "‘Samādhikkhandhaṁ paripūretvā paññākkhandhaṁ paripūressatī’ti ṭhānametaṁ vijjatī”ti. ",
-            "de": "Wenn der ganze Umfang der Versenkung erfüllt ist, ist es möglich, den ganzen <span class=\"scv-matched\">Umfang der Weisheit</span> zu erfüllen.“ ",
+            "de": "Wenn der ganze Umfang der Versenkung erfüllt ist, ist es möglich, den ganzen <span class=\"ebt-matched\">Umfang der Weisheit</span> zu erfüllen.“ ",
             "en": "Having fulfilled the entire spectrum of immersion, it’s possible to fulfill the entire spectrum of wisdom.” ",
             "matched": true
           }
@@ -179,7 +179,7 @@
           "an4.21:5.1": {
             "scid": "an4.21:5.1",
             "pli": "Aparipūrassa kho ahaṁ paññākkhandhassa pāripūriyā aññaṁ samaṇaṁ vā brāhmaṇaṁ vā sakkatvā garuṁ katvā upanissāya vihareyyaṁ. ",
-            "de": "Ich würde einen anderen Asketen oder Brahmanen ehren und achten und mich auf ihn stützen, um den ganzen <span class=\"scv-matched\">Umfang der Weisheit</span> zu erfüllen, wenn er noch nicht erfüllt wäre. ",
+            "de": "Ich würde einen anderen Asketen oder Brahmanen ehren und achten und mich auf ihn stützen, um den ganzen <span class=\"ebt-matched\">Umfang der Weisheit</span> zu erfüllen, wenn er noch nicht erfüllt wäre. ",
             "en": "I would honor and respect and rely on another ascetic or brahmin so as to complete the entrie spectrum of wisdom, if it were incomplete. ",
             "matched": true
           }
@@ -211,7 +211,7 @@
           "dn33:1.11.146": {
             "scid": "dn33:1.11.146",
             "pli": "sīlakkhandho, samādhikkhandho, paññākkhandho, vimuttikkhandho. ",
-            "de": "der Umfang der Ethik, der Umfang der Versenkung, der <span class=\"scv-matched\">Umfang der Weisheit</span> und der Umfang der Freiheit. ",
+            "de": "der Umfang der Ethik, der Umfang der Versenkung, der <span class=\"ebt-matched\">Umfang der Weisheit</span> und der Umfang der Freiheit. ",
             "en": "ethics, immersion, wisdom, and freedom. ",
             "matched": true
           }
@@ -243,7 +243,7 @@
           "dn34:1.6.103": {
             "scid": "dn34:1.6.103",
             "pli": "sīlakkhandho, samādhikkhandho, paññākkhandho, vimuttikkhandho, vimuttiñāṇadassanakkhandho. ",
-            "de": "der Umfang der Ethik, der Umfang der Versenkung, der <span class=\"scv-matched\">Umfang der Weisheit</span>, der Umfang der Freiheit und der Umfang des Wissens und Sehens der Freiheit. ",
+            "de": "der Umfang der Ethik, der Umfang der Versenkung, der <span class=\"ebt-matched\">Umfang der Weisheit</span>, der Umfang der Freiheit und der Umfang des Wissens und Sehens der Freiheit. ",
             "en": "ethics, immersion, wisdom, freedom, and knowledge and vision of freedom. ",
             "matched": true
           }

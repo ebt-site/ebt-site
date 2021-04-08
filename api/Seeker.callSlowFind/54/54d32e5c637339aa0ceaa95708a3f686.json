@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -75,13 +75,13 @@
           "iti88:7.1": {
             "scid": "iti88:7.1",
             "pli": "Duṭṭho atthaṁ na jānāti,",
-            "en": "<span class=\"scv-matched\">A hateful person</span> doesn’t know the good. ",
+            "en": "<span class=\"ebt-matched\">A hateful person</span> doesn’t know the good. ",
             "matched": true
           },
           "iti88:7.2": {
             "scid": "iti88:7.2",
             "pli": "duṭṭho dhammaṁ na passati;",
-            "en": "<span class=\"scv-matched\">A hateful person</span> doesn’t see the truth. ",
+            "en": "<span class=\"ebt-matched\">A hateful person</span> doesn’t see the truth. ",
             "matched": true
           }
         },
@@ -110,13 +110,13 @@
           "an3.69:3.2": {
             "scid": "an3.69:3.2",
             "pli": "yadapi duṭṭho abhisaṅkharoti kāyena vācāya manasā tadapi akusalaṁ; ",
-            "en": "When <span class=\"scv-matched\">a hateful person</span> chooses to act by way of body, speech, or mind, that too is unskillful. ",
+            "en": "When <span class=\"ebt-matched\">a hateful person</span> chooses to act by way of body, speech, or mind, that too is unskillful. ",
             "matched": true
           },
           "an3.69:3.3": {
             "scid": "an3.69:3.3",
             "pli": "yadapi duṭṭho dosena abhibhūto pariyādinnacitto parassa asatā dukkhaṁ uppādayati vadhena vā bandhanena vā jāniyā vā garahāya vā pabbājanāya vā balavamhi balattho itipi tadapi akusalaṁ. ",
-            "en": "When <span class=\"scv-matched\">a hateful person</span>, overcome by hate, causes another to suffer under a false pretext—by execution or imprisonment or confiscation or condemnation or banishment—thinking ‘I’m powerful, I want power’, that too is unskillful. ",
+            "en": "When <span class=\"ebt-matched\">a hateful person</span>, overcome by hate, causes another to suffer under a false pretext—by execution or imprisonment or confiscation or condemnation or banishment—thinking ‘I’m powerful, I want power’, that too is unskillful. ",
             "matched": true
           }
         },
@@ -145,7 +145,7 @@
           "an3.55:3.1": {
             "scid": "an3.55:3.1",
             "pli": "Duṭṭho kho, brāhmaṇa …pe… ",
-            "en": "<span class=\"scv-matched\">A hateful person</span> … ",
+            "en": "<span class=\"ebt-matched\">A hateful person</span> … ",
             "matched": true
           }
         },
@@ -174,7 +174,7 @@
           "an3.53:3.1": {
             "scid": "an3.53:3.1",
             "pli": "Duṭṭho kho, brāhmaṇa, dosena abhibhūto pariyādinnacitto attabyābādhāyapi ceteti, parabyābādhāyapi ceteti, ubhayabyābādhāyapi ceteti, cetasikampi dukkhaṁ domanassaṁ paṭisaṁvedeti. ",
-            "en": "<span class=\"scv-matched\">A hateful person</span>, overcome by hate, intends to hurt themselves, hurt others, and hurt both. They experience mental pain and sadness. ",
+            "en": "<span class=\"ebt-matched\">A hateful person</span>, overcome by hate, intends to hurt themselves, hurt others, and hurt both. They experience mental pain and sadness. ",
             "matched": true
           }
         },
@@ -203,7 +203,7 @@
           "an3.54:5.1": {
             "scid": "an3.54:5.1",
             "pli": "Duṭṭho kho, brāhmaṇa, dosena …pe… ",
-            "en": "<span class=\"scv-matched\">A hateful person</span> … ",
+            "en": "<span class=\"ebt-matched\">A hateful person</span> … ",
             "matched": true
           }
         },
@@ -232,7 +232,7 @@
           "an3.71:4.1": {
             "scid": "an3.71:4.1",
             "pli": "Duṭṭho kho, āvuso, dosena …pe… ",
-            "en": "<span class=\"scv-matched\">A hateful person</span>, overcome by hate, intends to hurt themselves, hurt others, and hurt both. … ",
+            "en": "<span class=\"ebt-matched\">A hateful person</span>, overcome by hate, intends to hurt themselves, hurt others, and hurt both. … ",
             "matched": true
           }
         },
@@ -261,7 +261,7 @@
           "an7.47:10.2": {
             "scid": "an7.47:10.2",
             "pli": "Duṭṭho kho, brāhmaṇa, dosena abhibhūto pariyādinnacitto kāyena duccaritaṁ carati, vācāya duccaritaṁ carati, manasā duccaritaṁ carati. ",
-            "en": "<span class=\"scv-matched\">A hateful person</span> does bad things by way of body, speech, and mind. ",
+            "en": "<span class=\"ebt-matched\">A hateful person</span> does bad things by way of body, speech, and mind. ",
             "matched": true
           }
         },
@@ -290,7 +290,7 @@
           "sn42.12:22.6": {
             "scid": "sn42.12:22.6",
             "pli": "Yaṁ duṭṭho dosādhikaraṇaṁ attabyābādhāyapi ceteti, parabyābādhāyapi ceteti, ubhayabyābādhāyapi ceteti. ",
-            "en": "<span class=\"scv-matched\">A hateful person</span>, because of hate, intends to hurt themselves, hurt others, and hurt both. ",
+            "en": "<span class=\"ebt-matched\">A hateful person</span>, because of hate, intends to hurt themselves, hurt others, and hurt both. ",
             "matched": true
           }
         },

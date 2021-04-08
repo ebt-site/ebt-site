@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -81,28 +81,28 @@
           "an3.21:9.1": {
             "scid": "an3.21:9.1",
             "pli": "“Na khvettha, sāriputta, sukaraṁ ekaṁsena byākātuṁ: ",
-            "de": "„Es ist nicht leicht, Sāriputta, in dieser Sache <span class=\"scv-matched\">eindeutig</span> zu erklären, ",
+            "de": "„Es ist nicht leicht, Sāriputta, in dieser Sache <span class=\"ebt-matched\">eindeutig</span> zu erklären, ",
             "en": "“In this matter, Sāriputta, it’s not easy to definitively declare that ",
             "matched": true
           },
           "an3.21:10.1": {
             "scid": "an3.21:10.1",
             "pli": "Na khvettha, sāriputta, sukaraṁ ekaṁsena byākātuṁ: ",
-            "de": "Es ist nicht leicht, in dieser Sache <span class=\"scv-matched\">eindeutig</span> zu erklären, ",
+            "de": "Es ist nicht leicht, in dieser Sache <span class=\"ebt-matched\">eindeutig</span> zu erklären, ",
             "en": "In this matter, it’s not easy to definitively declare that ",
             "matched": true
           },
           "an3.21:11.1": {
             "scid": "an3.21:11.1",
             "pli": "Na khvettha, sāriputta, sukaraṁ ekaṁsena byākātuṁ: ",
-            "de": "Es ist nicht leicht, in dieser Sache <span class=\"scv-matched\">eindeutig</span> zu erklären, ",
+            "de": "Es ist nicht leicht, in dieser Sache <span class=\"ebt-matched\">eindeutig</span> zu erklären, ",
             "en": "In this matter, it’s not easy to definitively declare that ",
             "matched": true
           },
           "an3.21:12.1": {
             "scid": "an3.21:12.1",
             "pli": "Na khvettha, sāriputta, sukaraṁ ekaṁsena byākātuṁ: ",
-            "de": "Es ist nicht leicht, in dieser Sache <span class=\"scv-matched\">eindeutig</span> zu erklären, ",
+            "de": "Es ist nicht leicht, in dieser Sache <span class=\"ebt-matched\">eindeutig</span> zu erklären, ",
             "en": "In this matter, it’s not easy to definitively declare that ",
             "matched": true
           }
@@ -134,14 +134,14 @@
           "an4.42:1.3": {
             "scid": "an4.42:1.3",
             "pli": "Atthi, bhikkhave, pañho ekaṁsabyākaraṇīyo; ",
-            "de": "Es gibt eine Frage, die mit einer <span class=\"scv-matched\">eindeutig</span>en Aussage zu beantworten ist. ",
+            "de": "Es gibt eine Frage, die mit einer <span class=\"ebt-matched\">eindeutig</span>en Aussage zu beantworten ist. ",
             "en": "There is a question that should be answered definitively. ",
             "matched": true
           },
           "an4.42:2.1": {
             "scid": "an4.42:2.1",
             "pli": "Ekaṁsavacanaṁ ekaṁ, ",
-            "de": "Eine wird <span class=\"scv-matched\">eindeutig</span> beantwortet, ",
+            "de": "Eine wird <span class=\"ebt-matched\">eindeutig</span> beantwortet, ",
             "en": "One is stated definitively, ",
             "matched": true
           }
@@ -173,14 +173,14 @@
           "sn47.12:1.5": {
             "scid": "sn47.12:1.5",
             "pli": "“Uḷārā kho tyāyaṁ, sāriputta, āsabhī vācā bhāsitā, ekaṁso gahito, sīhanādo nadito: ",
-            "de": "„Das ist eine gewaltige und dramatische Aussage, Sāriputta. Du hast ein <span class=\"scv-matched\">eindeutig</span>es und bestimmtes Löwengebrüll gebrüllt: ",
+            "de": "„Das ist eine gewaltige und dramatische Aussage, Sāriputta. Du hast ein <span class=\"ebt-matched\">eindeutig</span>es und bestimmtes Löwengebrüll gebrüllt: ",
             "en": "“That’s a grand and dramatic statement, Sāriputta. You’ve roared a definitive, categorical lion’s roar, saying: ",
             "matched": true
           },
           "sn47.12:5.2": {
             "scid": "sn47.12:5.2",
             "pli": "Atha kiñcarahi tyāyaṁ, sāriputta, uḷārā āsabhī vācā bhāsitā, ekaṁso gahito, sīhanādo nadito: ",
-            "de": "was genau tust du, dass du so eine gewaltige und dramatische Aussage machst, so ein <span class=\"scv-matched\">eindeutig</span>es und bestimmtes Löwengebrüll brüllst?“ ",
+            "de": "was genau tust du, dass du so eine gewaltige und dramatische Aussage machst, so ein <span class=\"ebt-matched\">eindeutig</span>es und bestimmtes Löwengebrüll brüllst?“ ",
             "en": "what exactly are you doing, making such a grand and dramatic statement, roaring such a definitive, categorical lion’s roar?” ",
             "matched": true
           }
@@ -212,14 +212,14 @@
           "an3.67:2.2": {
             "scid": "an3.67:2.2",
             "pli": "Sacāyaṁ, bhikkhave, puggalo pañhaṁ puṭṭho samāno ekaṁsabyākaraṇīyaṁ pañhaṁ na ekaṁsena byākaroti, vibhajjabyākaraṇīyaṁ pañhaṁ na vibhajja byākaroti, paṭipucchābyākaraṇīyaṁ pañhaṁ na paṭipucchā byākaroti, ṭhapanīyaṁ pañhaṁ na ṭhapeti, evaṁ santāyaṁ, bhikkhave, puggalo akaccho hoti. ",
-            "de": "Wenn jemand etwas gefragt wird, das mit einer <span class=\"scv-matched\">eindeutig</span>en Aussage beantwortet werden muss, und die Person macht keine <span class=\"scv-matched\">eindeutig</span>e Aussage; oder etwas benötigt eine Aufgliederung und die Person gliedert es in ihrer Antwort nicht auf; oder es muss eine Gegenfrage gestellt werden und die Person antwortet ohne Gegenfrage; oder eine Frage muss ausgelassen werden und die Person lässt sie nicht aus – dann ist diese Person nicht zum Diskutieren fähig. ",
+            "de": "Wenn jemand etwas gefragt wird, das mit einer <span class=\"ebt-matched\">eindeutig</span>en Aussage beantwortet werden muss, und die Person macht keine <span class=\"ebt-matched\">eindeutig</span>e Aussage; oder etwas benötigt eine Aufgliederung und die Person gliedert es in ihrer Antwort nicht auf; oder es muss eine Gegenfrage gestellt werden und die Person antwortet ohne Gegenfrage; oder eine Frage muss ausgelassen werden und die Person lässt sie nicht aus – dann ist diese Person nicht zum Diskutieren fähig. ",
             "en": "When a person is asked a question, if it needs to be answered definitively and they don’t answer it definitively; or if it needs analysis and they answer without analyzing it; or if it needs a counter-question and they answer without a counter-question; or if it should be set aside and they don’t set it aside, then that person is not competent to hold a discussion. ",
             "matched": true
           },
           "an3.67:2.3": {
             "scid": "an3.67:2.3",
             "pli": "Sace panāyaṁ, bhikkhave, puggalo pañhaṁ puṭṭho samāno ekaṁsabyākaraṇīyaṁ pañhaṁ ekaṁsena byākaroti, vibhajjabyākaraṇīyaṁ pañhaṁ vibhajja byākaroti, paṭipucchābyākaraṇīyaṁ pañhaṁ paṭipucchā byākaroti, ṭhapanīyaṁ pañhaṁ ṭhapeti, evaṁ santāyaṁ, bhikkhave, puggalo kaccho hoti. ",
-            "de": "Wenn jemand etwas gefragt wird, das mit einer <span class=\"scv-matched\">eindeutig</span>en Aussage beantwortet werden muss, und die Person macht eine <span class=\"scv-matched\">eindeutig</span>e Aussage; oder etwas benötigt eine Aufgliederung und die Person gliedert es in ihrer Antwort auf; oder es muss eine Gegenfrage gestellt werden und die Person antwortet mit einer Gegenfrage; oder eine Frage muss ausgelassen werden und die Person lässt sie aus – dann ist diese Person zum Diskutieren fähig. ",
+            "de": "Wenn jemand etwas gefragt wird, das mit einer <span class=\"ebt-matched\">eindeutig</span>en Aussage beantwortet werden muss, und die Person macht eine <span class=\"ebt-matched\">eindeutig</span>e Aussage; oder etwas benötigt eine Aufgliederung und die Person gliedert es in ihrer Antwort auf; oder es muss eine Gegenfrage gestellt werden und die Person antwortet mit einer Gegenfrage; oder eine Frage muss ausgelassen werden und die Person lässt sie aus – dann ist diese Person zum Diskutieren fähig. ",
             "en": "When a person is asked a question, if it needs to be answered definitively and they answer it definitively; or if it needs analysis and they answer after analyzing it; or if it needs a counter-question and they answer with a counter-question; or if it should be set aside and they set it aside, then that person is competent to hold a discussion. ",
             "matched": true
           }
@@ -251,14 +251,14 @@
           "dn28:1.5": {
             "scid": "dn28:1.5",
             "pli": "“Uḷārā kho te ayaṁ, sāriputta, āsabhī vācā bhāsitā, ekaṁso gahito, sīhanādo nadito: ",
-            "de": "„Das ist eine gewaltige und dramatische Aussage, Sāriputta. Du hast ein <span class=\"scv-matched\">eindeutig</span>es und bestimmtes Löwengebrüll gebrüllt: ",
+            "de": "„Das ist eine gewaltige und dramatische Aussage, Sāriputta. Du hast ein <span class=\"ebt-matched\">eindeutig</span>es und bestimmtes Löwengebrüll gebrüllt: ",
             "en": "“That’s a grand and dramatic statement, Sāriputta. You’ve roared a definitive, categorical lion’s roar, saying: ",
             "matched": true
           },
           "dn28:1.18": {
             "scid": "dn28:1.18",
             "pli": "Atha kiṁ carahi te ayaṁ, sāriputta, uḷārā āsabhī vācā bhāsitā, ekaṁso gahito, sīhanādo nadito: ",
-            "de": "was genau tust du, dass du so eine gewaltige und dramatische Aussage machst, so ein <span class=\"scv-matched\">eindeutig</span>es und bestimmtes Löwengebrüll brüllst?“ ",
+            "de": "was genau tust du, dass du so eine gewaltige und dramatische Aussage machst, so ein <span class=\"ebt-matched\">eindeutig</span>es und bestimmtes Löwengebrüll brüllst?“ ",
             "en": "what exactly are you doing, making such a grand and dramatic statement, roaring such a definitive, categorical lion’s roar?” ",
             "matched": true
           }
@@ -290,7 +290,7 @@
           "dn24:1.17.4": {
             "scid": "dn24:1.17.4",
             "pli": "‘Bhagavatā cassa, bhante, esā vācā ekaṁsena odhāritā—",
-            "de": "‚Herr, der Buddha hat <span class=\"scv-matched\">eindeutig</span> erklärt, ",
+            "de": "‚Herr, der Buddha hat <span class=\"ebt-matched\">eindeutig</span> erklärt, ",
             "en": "‘Sir, the Buddha has definitively asserted that ",
             "matched": true
           }
@@ -322,7 +322,7 @@
           "dn33:1.11.152": {
             "scid": "dn33:1.11.152",
             "pli": "ekaṁsabyākaraṇīyo pañho, paṭipucchābyākaraṇīyo pañho, vibhajjabyākaraṇīyo pañho, ṭhapanīyo pañho. ",
-            "de": "Es gibt eine Frage, die mit einer <span class=\"scv-matched\">eindeutig</span>en Aussage zu beantworten ist. Es gibt eine Frage, die mit einer Gegenfrage zu beantworten ist. Es gibt eine Frage, die durch Aufgliederung zu beantworten ist. Es gibt eine Frage, die auszulassen ist. ",
+            "de": "Es gibt eine Frage, die mit einer <span class=\"ebt-matched\">eindeutig</span>en Aussage zu beantworten ist. Es gibt eine Frage, die mit einer Gegenfrage zu beantworten ist. Es gibt eine Frage, die durch Aufgliederung zu beantworten ist. Es gibt eine Frage, die auszulassen ist. ",
             "en": "There is a question that should be answered definitively. There is a question that should be answered analytically. There is a question that should be answered with a counter-question. There is a question that should be set aside. ",
             "matched": true
           }

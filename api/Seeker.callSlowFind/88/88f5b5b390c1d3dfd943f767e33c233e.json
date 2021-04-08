@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,13 +72,13 @@
           "sn44.10:1.4": {
             "scid": "sn44.10:1.4",
             "pli": "Evaṁ vutte, bhagavā tuṇhī ahosi. ",
-            "en": "But when he said this, <span class=\"scv-matched\">the Buddha kept silent</span>. ",
+            "en": "But when he said this, <span class=\"ebt-matched\">the Buddha kept silent</span>. ",
             "matched": true
           },
           "sn44.10:1.6": {
             "scid": "sn44.10:1.6",
             "pli": "Dutiyampi kho bhagavā tuṇhī ahosi. ",
-            "en": "But for a second time <span class=\"scv-matched\">the Buddha kept silent</span>. ",
+            "en": "But for a second time <span class=\"ebt-matched\">the Buddha kept silent</span>. ",
             "matched": true
           }
         },
@@ -107,13 +107,13 @@
           "an8.20:2.1": {
             "scid": "an8.20:2.1",
             "pli": "Evaṁ vutte, bhagavā tuṇhī ahosi. ",
-            "en": "But when he said this, <span class=\"scv-matched\">the Buddha kept silent</span>. ",
+            "en": "But when he said this, <span class=\"ebt-matched\">the Buddha kept silent</span>. ",
             "matched": true
           },
           "an8.20:2.5": {
             "scid": "an8.20:2.5",
             "pli": "Dutiyampi kho bhagavā tuṇhī ahosi. ",
-            "en": "But for a second time <span class=\"scv-matched\">the Buddha kept silent</span>. ",
+            "en": "But for a second time <span class=\"ebt-matched\">the Buddha kept silent</span>. ",
             "matched": true
           }
         },
@@ -142,13 +142,13 @@
           "ud3.3:12.6": {
             "scid": "ud3.3:12.6",
             "pli": "Evaṁ vutte, bhagavā tuṇhī ahosi.",
-            "en": "But <span class=\"scv-matched\">the Buddha kept silent</span>. ",
+            "en": "But <span class=\"ebt-matched\">the Buddha kept silent</span>. ",
             "matched": true
           },
           "ud3.3:13.6": {
             "scid": "ud3.3:13.6",
             "pli": "Dutiyampi kho bhagavā tuṇhī ahosi.",
-            "en": "But for a second time <span class=\"scv-matched\">the Buddha kept silent</span>. ",
+            "en": "But for a second time <span class=\"ebt-matched\">the Buddha kept silent</span>. ",
             "matched": true
           }
         },
@@ -177,13 +177,13 @@
           "ud5.5:2.6": {
             "scid": "ud5.5:2.6",
             "pli": "Evaṁ vutte, bhagavā tuṇhī ahosi.",
-            "en": "But when he said this, <span class=\"scv-matched\">the Buddha kept silent</span>. ",
+            "en": "But when he said this, <span class=\"ebt-matched\">the Buddha kept silent</span>. ",
             "matched": true
           },
           "ud5.5:3.6": {
             "scid": "ud5.5:3.6",
             "pli": "Dutiyampi kho bhagavā tuṇhī ahosi.",
-            "en": "But for a second time <span class=\"scv-matched\">the Buddha kept silent</span>. ",
+            "en": "But for a second time <span class=\"ebt-matched\">the Buddha kept silent</span>. ",
             "matched": true
           }
         },
@@ -212,7 +212,7 @@
           "sn7.3:1.4": {
             "scid": "sn7.3:1.4",
             "pli": "Evaṁ vutte, bhagavā tuṇhī ahosi. ",
-            "en": "But when he said this, <span class=\"scv-matched\">the Buddha kept silent</span>. ",
+            "en": "But when he said this, <span class=\"ebt-matched\">the Buddha kept silent</span>. ",
             "matched": true
           }
         },
@@ -241,7 +241,7 @@
           "an10.95:8.2": {
             "scid": "an10.95:8.2",
             "pli": "Evaṁ vutte, bhagavā tuṇhī ahosi. ",
-            "en": "But when he said this, <span class=\"scv-matched\">the Buddha kept silent</span>. ",
+            "en": "But when he said this, <span class=\"ebt-matched\">the Buddha kept silent</span>. ",
             "matched": true
           }
         },
@@ -270,7 +270,7 @@
           "mn85:7.8": {
             "scid": "mn85:7.8",
             "pli": "Evaṁ vutte, bhagavā tuṇhī ahosi. ",
-            "en": "But when he said this, <span class=\"scv-matched\">the Buddha kept silent</span>. ",
+            "en": "But when he said this, <span class=\"ebt-matched\">the Buddha kept silent</span>. ",
             "matched": true
           }
         },

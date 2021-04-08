@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn12.17:4.9": {
             "scid": "sn12.17:4.9",
             "pli": "Ācikkhatu ca me, bhante, bhagavā dukkhaṁ. ",
-            "en": "Sir, <span class=\"scv-matched\">explain suffering to me</span>! ",
+            "en": "Sir, <span class=\"ebt-matched\">explain suffering to me</span>! ",
             "matched": true
           }
         },

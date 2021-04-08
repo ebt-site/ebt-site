@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an10.143:0.3": {
             "scid": "an10.143:0.3",
             "pli": "143. Dukkhudrayasutta ",
-            "en": "143. <span class=\"scv-matched\">With Suffering as Outcome</span> ",
+            "en": "143. <span class=\"ebt-matched\">With Suffering as Outcome</span> ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "an10.187:0.3": {
             "scid": "an10.187:0.3",
             "pli": "187. Dukkhudrayasutta ",
-            "en": "187. <span class=\"scv-matched\">With Suffering as Outcome</span> ",
+            "en": "187. <span class=\"ebt-matched\">With Suffering as Outcome</span> ",
             "matched": true
           }
         },

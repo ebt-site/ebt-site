@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -63,13 +63,13 @@
           "dn23:11.15.0": {
             "scid": "dn23:11.15.0",
             "pli": "2.5. Jaccandhaupamā ",
-            "en": "2.5. <span class=\"scv-matched\">Blind From Birth</span> ",
+            "en": "2.5. <span class=\"ebt-matched\">Blind From Birth</span> ",
             "matched": true
           },
           "dn23:11.16": {
             "scid": "dn23:11.16",
             "pli": "“Seyyathāpi, rājañña, jaccandho puriso na passeyya kaṇha—sukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakāni rūpāni, na passeyya candimasūriye. ",
-            "en": "“Chieftain, suppose there was a person <span class=\"scv-matched\">blind from birth</span>. They couldn’t see sights that are dark or bright, or blue, yellow, red, or magenta. They couldn’t see even and uneven ground, or the stars, or the moon and sun. ",
+            "en": "“Chieftain, suppose there was a person <span class=\"ebt-matched\">blind from birth</span>. They couldn’t see sights that are dark or bright, or blue, yellow, red, or magenta. They couldn’t see even and uneven ground, or the stars, or the moon and sun. ",
             "matched": true
           }
         },
@@ -98,7 +98,7 @@
           "ud6.4:17.3": {
             "scid": "ud6.4:17.3",
             "pli": "‘ehi tvaṁ, ambho purisa, yāvatakā sāvatthiyā jaccandhā te sabbe ekajjhaṁ sannipātehī’ti.",
-            "en": "‘Please, mister, gather all those <span class=\"scv-matched\">blind from birth</span> throughout Sāvatthī and bring them together in one place.’",
+            "en": "‘Please, mister, gather all those <span class=\"ebt-matched\">blind from birth</span> throughout Sāvatthī and bring them together in one place.’",
             "matched": true
           }
         },
@@ -127,7 +127,7 @@
           "mn75:20.11": {
             "scid": "mn75:20.11",
             "pli": "api nu so jaccandho puriso jānanto passanto amuṁ telamalikataṁ sāhuḷicīraṁ paṭiggaṇheyya, paṭiggahetvā pārupeyya, pārupetvā attamano attamanavācaṁ nicchāreyya: ",
-            "en": "Did that person <span class=\"scv-matched\">blind from birth</span> do this knowing and seeing, ",
+            "en": "Did that person <span class=\"ebt-matched\">blind from birth</span> do this knowing and seeing, ",
             "matched": true
           }
         },
@@ -156,7 +156,7 @@
           "mn99:12.1": {
             "scid": "mn99:12.1",
             "pli": "“Seyyathāpi, māṇava, jaccandho puriso na passeyya kaṇhasukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakarūpāni, na passeyya candimasūriye. ",
-            "en": "“Suppose there was a person <span class=\"scv-matched\">blind from birth</span>. They couldn’t see sights that are dark or bright, or blue, yellow, red, or magenta. They couldn’t see even and uneven ground, or the stars, or the moon and sun. ",
+            "en": "“Suppose there was a person <span class=\"ebt-matched\">blind from birth</span>. They couldn’t see sights that are dark or bright, or blue, yellow, red, or magenta. They couldn’t see even and uneven ground, or the stars, or the moon and sun. ",
             "matched": true
           }
         },

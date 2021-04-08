@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -84,19 +84,19 @@
           "dn25:2.1": {
             "scid": "dn25:2.1",
             "pli": "Tena kho pana samayena nigrodho paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā. ",
-            "en": "Now at that time, Nigrodha was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all <span class=\"scv-matched\">kinds of unworthy</span> talk, such as ",
+            "en": "Now at that time, Nigrodha was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all <span class=\"ebt-matched\">kinds of unworthy</span> talk, such as ",
             "matched": true
           },
           "dn25:4.3": {
             "scid": "dn25:4.3",
             "pli": "“aññathā kho ime bhonto aññatitthiyā paribbājakā saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṁ tiracchānakathaṁ anuyuttā viharanti. ",
-            "en": "“The way the wanderers make an uproar as they sit together and talk about all <span class=\"scv-matched\">kinds of unworthy</span> topics is one thing. ",
+            "en": "“The way the wanderers make an uproar as they sit together and talk about all <span class=\"ebt-matched\">kinds of unworthy</span> topics is one thing. ",
             "matched": true
           },
           "dn25:21.6": {
             "scid": "dn25:21.6",
             "pli": "‘ye te ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, evaṁ su te bhagavanto saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṁ tiracchānakathaṁ anuyuttā viharanti. ",
-            "en": "when the perfected ones, the fully awakened Buddhas of the past came together, they made an uproar, a dreadful racket as they sat and talked about all <span class=\"scv-matched\">kinds of unworthy</span> topics, ",
+            "en": "when the perfected ones, the fully awakened Buddhas of the past came together, they made an uproar, a dreadful racket as they sat and talked about all <span class=\"ebt-matched\">kinds of unworthy</span> topics, ",
             "matched": true
           }
         },
@@ -125,13 +125,13 @@
           "an10.69:1.2": {
             "scid": "an10.69:1.2",
             "pli": "Tena kho pana samayena sambahulā bhikkhū pacchābhattaṁ piṇḍapātapaṭikkantā upaṭṭhānasālāyaṁ sannisinnā sannipatitā anekavihitaṁ tiracchānakathaṁ anuyuttā viharanti, seyyathidaṁ—",
-            "en": "Now at that time, after the meal, on return from alms-round, several mendicants sat together in the assembly hall. They engaged in all <span class=\"scv-matched\">kinds of unworthy</span> talk, such as ",
+            "en": "Now at that time, after the meal, on return from alms-round, several mendicants sat together in the assembly hall. They engaged in all <span class=\"ebt-matched\">kinds of unworthy</span> talk, such as ",
             "matched": true
           },
           "an10.69:3.3": {
             "scid": "an10.69:3.3",
             "pli": "“Na kho panetaṁ, bhikkhave, tumhākaṁ patirūpaṁ kulaputtānaṁ saddhāya agārasmā anagāriyaṁ pabbajitānaṁ, yaṁ tumhe anekavihitaṁ tiracchānakathaṁ anuyuttā vihareyyātha, seyyathidaṁ—",
-            "en": "“Mendicants, it is not appropriate for you gentlemen who have gone forth in faith from the lay life to homelessness to engage in these <span class=\"scv-matched\">kinds of unworthy</span> talk. ",
+            "en": "“Mendicants, it is not appropriate for you gentlemen who have gone forth in faith from the lay life to homelessness to engage in these <span class=\"ebt-matched\">kinds of unworthy</span> talk. ",
             "matched": true
           }
         },
@@ -160,13 +160,13 @@
           "mn79:3.1": {
             "scid": "mn79:3.1",
             "pli": "Tena kho pana samayena sakuludāyī paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā, seyyathidaṁ—",
-            "en": "Now at that time, Sakuludāyī was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all <span class=\"scv-matched\">kinds of unworthy</span> talk, such as ",
+            "en": "Now at that time, Sakuludāyī was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all <span class=\"ebt-matched\">kinds of unworthy</span> talk, such as ",
             "matched": true
           },
           "mn79:5.3": {
             "scid": "mn79:5.3",
             "pli": "Yadāhaṁ, bhante, imaṁ parisaṁ anupasaṅkanto homi athāyaṁ parisā anekavihitaṁ tiracchānakathaṁ kathentī nisinnā hoti; ",
-            "en": "When I don’t come to the assembly, they sit and engage in all <span class=\"scv-matched\">kinds of unworthy</span> talk. ",
+            "en": "When I don’t come to the assembly, they sit and engage in all <span class=\"ebt-matched\">kinds of unworthy</span> talk. ",
             "matched": true
           }
         },
@@ -195,7 +195,7 @@
           "sn56.10:1.1": {
             "scid": "sn56.10:1.1",
             "pli": "“Mā, bhikkhave, anekavihitaṁ tiracchānakathaṁ katheyyātha, seyyathidaṁ—",
-            "en": "“Mendicants, don’t engage in all <span class=\"scv-matched\">kinds of unworthy</span> talk, such as ",
+            "en": "“Mendicants, don’t engage in all <span class=\"ebt-matched\">kinds of unworthy</span> talk, such as ",
             "matched": true
           }
         },
@@ -224,7 +224,7 @@
           "an10.70:1.3": {
             "scid": "an10.70:1.3",
             "pli": "rājakathaṁ corakathaṁ mahāmattakathaṁ …pe… itibhavābhavakathaṁ iti vāti. ",
-            "en": "They engaged in all <span class=\"scv-matched\">kinds of unworthy</span> talk, such as talk about kings, bandits, and ministers; talk about armies, threats, and wars; talk about food, drink, clothes, and beds; talk about garlands and fragrances; talk about family, vehicles, villages, towns, cities, and nations; talk about women and heroes; street talk and well talk; talk about the departed; miscellaneous talk; tales of land and sea; and talk about being reborn in this or that state of existence. ",
+            "en": "They engaged in all <span class=\"ebt-matched\">kinds of unworthy</span> talk, such as talk about kings, bandits, and ministers; talk about armies, threats, and wars; talk about food, drink, clothes, and beds; talk about garlands and fragrances; talk about family, vehicles, villages, towns, cities, and nations; talk about women and heroes; street talk and well talk; talk about the departed; miscellaneous talk; tales of land and sea; and talk about being reborn in this or that state of existence. ",
             "matched": true
           }
         },
@@ -253,7 +253,7 @@
           "an10.94:2.2": {
             "scid": "an10.94:2.2",
             "pli": "Tena kho pana samayena te aññatitthiyā paribbājakā saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṁ tiracchānakathaṁ kathentā nisinnā honti. ",
-            "en": "Now at that time, the wanderers who follow other paths had come together, making an uproar, a dreadful racket as they sat and talked about all <span class=\"scv-matched\">kinds of unworthy</span> topics. ",
+            "en": "Now at that time, the wanderers who follow other paths had come together, making an uproar, a dreadful racket as they sat and talked about all <span class=\"ebt-matched\">kinds of unworthy</span> topics. ",
             "matched": true
           }
         },
@@ -282,7 +282,7 @@
           "an10.93:2.2": {
             "scid": "an10.93:2.2",
             "pli": "Tena kho pana samayena aññatitthiyā paribbājakā saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṁ tiracchānakathaṁ kathentā nisinnā honti. ",
-            "en": "Now at that time, the wanderers who follow other paths had come together, making an uproar, a dreadful racket as they sat and talked about all <span class=\"scv-matched\">kinds of unworthy</span> topics. ",
+            "en": "Now at that time, the wanderers who follow other paths had come together, making an uproar, a dreadful racket as they sat and talked about all <span class=\"ebt-matched\">kinds of unworthy</span> topics. ",
             "matched": true
           }
         },
@@ -311,7 +311,7 @@
           "mn78:3.1": {
             "scid": "mn78:3.1",
             "pli": "Tena kho pana samayena uggāhamāno paribbājako samaṇamuṇḍikāputto mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā, seyyathidaṁ—",
-            "en": "Now at that time, Uggāhamāna was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all <span class=\"scv-matched\">kinds of unworthy</span> talk, such as ",
+            "en": "Now at that time, Uggāhamāna was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all <span class=\"ebt-matched\">kinds of unworthy</span> talk, such as ",
             "matched": true
           }
         },
@@ -340,7 +340,7 @@
           "mn76:4.1": {
             "scid": "mn76:4.1",
             "pli": "Tena kho pana samayena sandako paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā, seyyathidaṁ—",
-            "en": "Now at that time, Sandaka and the large assembly of wanderers were sitting together making an uproar, a dreadful racket. They engaged in all <span class=\"scv-matched\">kinds of unworthy</span> talk, such as ",
+            "en": "Now at that time, Sandaka and the large assembly of wanderers were sitting together making an uproar, a dreadful racket. They engaged in all <span class=\"ebt-matched\">kinds of unworthy</span> talk, such as ",
             "matched": true
           }
         },
@@ -369,7 +369,7 @@
           "mn77:4.2": {
             "scid": "mn77:4.2",
             "pli": "Tena kho pana samayena sakuludāyī paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā, seyyathidaṁ—",
-            "en": "Now at that time, Sakuludāyī was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all <span class=\"scv-matched\">kinds of unworthy</span> talk, such as ",
+            "en": "Now at that time, Sakuludāyī was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all <span class=\"ebt-matched\">kinds of unworthy</span> talk, such as ",
             "matched": true
           }
         },
@@ -398,7 +398,7 @@
           "dn9:3.1": {
             "scid": "dn9:3.1",
             "pli": "Tena kho pana samayena poṭṭhapādo paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā. ",
-            "en": "Now at that time, Poṭṭhapāda was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all <span class=\"scv-matched\">kinds of unworthy</span> talk, such as ",
+            "en": "Now at that time, Poṭṭhapāda was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all <span class=\"ebt-matched\">kinds of unworthy</span> talk, such as ",
             "matched": true
           }
         },

@@ -1,6 +1,6 @@
 <template>
-  <article class="nuxt-content scv-article">
-    <div class="scv-wiki-heading">
+  <article class="nuxt-content ebt-article">
+    <div class="ebt-wiki-heading">
       <a :href="imgSrc" target="_blank">
         <img :src="article.img" />
       </a>
@@ -43,7 +43,7 @@
         </details>
       </div>
     </div>
-    <div v-if="article.link" class="scv-article-link">
+    <div v-if="article.link" class="ebt-article-link">
       <a :href="article.link">{{article.link}}</a>
     </div>
 
@@ -53,17 +53,17 @@
       -->
     </slot>
 
-    <scv-article-items :article="article" :items="items" />
+    <ebt-article-items :article="article" :items="items" />
   </article>
 </template>
 <script>
-  import ScvArticleItems from './scv-article-items';
+  import EbtArticleItems from './ebt-article-items';
   import {
     mdiFileEditOutline,
   } from '@mdi/js';
   export default {
     components: {
-      ScvArticleItems,
+      EbtArticleItems,
     },
     props: {
       article: {

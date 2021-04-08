@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,14 +57,14 @@
           "an5.34:7.2": {
             "scid": "an5.34:7.2",
             "pli": "“yānimāni, bhante, bhagavatā cattāri sandiṭṭhikāni dānaphalāni akkhātāni, nāhaṁ ettha bhagavato saddhāya gacchāmi; ahaṁ petāni jānāmi. ",
-            "de": "„Wenn es um diese vier <span class=\"scv-matched\">Früchte des Gebens</span> geht, die in diesem Leben sichtbar sind, so muss ich mich nicht auf mein Vertrauen zum Buddha verlassen, denn ich kenne sie auch. ",
+            "de": "„Wenn es um diese vier <span class=\"ebt-matched\">Früchte des Gebens</span> geht, die in diesem Leben sichtbar sind, so muss ich mich nicht auf mein Vertrauen zum Buddha verlassen, denn ich kenne sie auch. ",
             "en": "“When it comes to those four fruits of giving that are apparent in the present life, I don’t have to rely on faith in the Buddha, for I know them too. ",
             "matched": true
           },
           "an5.34:7.7": {
             "scid": "an5.34:7.7",
             "pli": "Yānimāni, bhante, bhagavatā cattāri sandiṭṭhikāni dānaphalāni akkhātāni, nāhaṁ ettha bhagavato saddhāya gacchāmi; ahaṁ petāni jānāmi. ",
-            "de": "Wenn es um diese vier <span class=\"scv-matched\">Früchte des Gebens</span> geht, die in diesem Leben sichtbar sind, so muss ich mich nicht auf mein Vertrauen zum Buddha verlassen, denn ich kenne sie auch. ",
+            "de": "Wenn es um diese vier <span class=\"ebt-matched\">Früchte des Gebens</span> geht, die in diesem Leben sichtbar sind, so muss ich mich nicht auf mein Vertrauen zum Buddha verlassen, denn ich kenne sie auch. ",
             "en": "When it comes to these four fruits of giving that are apparent in the present life, I don’t have to rely on faith in the Buddha, for I know them too. ",
             "matched": true
           }

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -78,7 +78,7 @@
           "mn29:2.5": {
             "scid": "mn29:2.5",
             "pli": "So tena lābhasakkārasilokena attamano hoti paripuṇṇasaṅkappo. ",
-            "en": "<span class=\"scv-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
             "matched": true
           },
           "mn29:3.5": {
@@ -90,19 +90,19 @@
           "mn29:3.9": {
             "scid": "mn29:3.9",
             "pli": "So tāya sīlasampadāya attamano hoti paripuṇṇasaṅkappo. ",
-            "en": "<span class=\"scv-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
             "matched": true
           },
           "mn29:4.26": {
             "scid": "mn29:4.26",
             "pli": "So tāya samādhisampadāya attamano hoti paripuṇṇasaṅkappo. ",
-            "en": "<span class=\"scv-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
             "matched": true
           },
           "mn29:5.15": {
             "scid": "mn29:5.15",
             "pli": "So tena ñāṇadassanena attamano hoti paripuṇṇasaṅkappo. ",
-            "en": "<span class=\"scv-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
             "matched": true
           },
           "mn29:6.5": {
@@ -114,19 +114,19 @@
           "mn29:6.8": {
             "scid": "mn29:6.8",
             "pli": "So tāya sīlasampadāya attamano hoti, no ca kho paripuṇṇasaṅkappo. ",
-            "en": "<span class=\"scv-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
             "matched": true
           },
           "mn29:6.11": {
             "scid": "mn29:6.11",
             "pli": "So tāya samādhisampadāya attamano hoti, no ca kho paripuṇṇasaṅkappo. ",
-            "en": "<span class=\"scv-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
             "matched": true
           },
           "mn29:6.14": {
             "scid": "mn29:6.14",
             "pli": "So tena ñāṇadassanena attamano hoti, no ca kho paripuṇṇasaṅkappo. ",
-            "en": "<span class=\"scv-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
             "matched": true
           }
         },
@@ -155,7 +155,7 @@
           "mn30:8.5": {
             "scid": "mn30:8.5",
             "pli": "So tena lābhasakkārasilokena attamano hoti paripuṇṇasaṅkappo. ",
-            "en": "<span class=\"scv-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
             "matched": true
           },
           "mn30:12.5": {
@@ -167,19 +167,19 @@
           "mn30:12.9": {
             "scid": "mn30:12.9",
             "pli": "So tāya sīlasampadāya attamano hoti, no ca kho paripuṇṇasaṅkappo. ",
-            "en": "<span class=\"scv-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
             "matched": true
           },
           "mn30:12.13": {
             "scid": "mn30:12.13",
             "pli": "So tāya samādhisampadāya attamano hoti, no ca kho paripuṇṇasaṅkappo. ",
-            "en": "<span class=\"scv-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
             "matched": true
           },
           "mn30:12.17": {
             "scid": "mn30:12.17",
             "pli": "So tena ñāṇadassanena attamano hoti, no ca kho paripuṇṇasaṅkappo. ",
-            "en": "<span class=\"scv-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
             "matched": true
           }
         },
@@ -208,25 +208,25 @@
           "mn28:10.8": {
             "scid": "mn28:10.8",
             "pli": "Tassa ce, āvuso, bhikkhuno evaṁ buddhaṁ anussarato, evaṁ dhammaṁ anussarato, evaṁ saṅghaṁ anussarato upekkhā kusalanissitā saṇṭhāti, so tena attamano hoti. ",
-            "en": "But if, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, <span class=\"scv-matched\">they’re happy with that</span>. ",
+            "en": "But if, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, <span class=\"ebt-matched\">they’re happy with that</span>. ",
             "matched": true
           },
           "mn28:14.1": {
             "scid": "mn28:14.1",
             "pli": "tassa ce, āvuso, bhikkhuno evaṁ buddhaṁ anussarato, evaṁ dhammaṁ anussarato, evaṁ saṅghaṁ anussarato upekkhā kusalanissitā saṇṭhāti. So tena attamano hoti. ",
-            "en": "If, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, <span class=\"scv-matched\">they’re happy with that</span>. ",
+            "en": "If, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, <span class=\"ebt-matched\">they’re happy with that</span>. ",
             "matched": true
           },
           "mn28:18-20.1": {
             "scid": "mn28:18-20.1",
             "pli": "Atha khvāssa notevettha hoti …pe… tassa ce, āvuso, bhikkhuno evaṁ buddhaṁ anussarato evaṁ dhammaṁ anussarato evaṁ saṅghaṁ anussarato upekkhā kusalanissitā saṇṭhāti, so tena attamano hoti. ",
-            "en": "If, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, <span class=\"scv-matched\">they’re happy with that</span>. ",
+            "en": "If, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, <span class=\"ebt-matched\">they’re happy with that</span>. ",
             "matched": true
           },
           "mn28:25.10": {
             "scid": "mn28:25.10",
             "pli": "Tassa ce, āvuso, bhikkhuno evaṁ buddhaṁ anussarato, evaṁ dhammaṁ anussarato, evaṁ saṅghaṁ anussarato, upekkhā kusalanissitā saṇṭhāti, so tena attamano hoti. ",
-            "en": "But if, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, <span class=\"scv-matched\">they’re happy with that</span>. ",
+            "en": "But if, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, <span class=\"ebt-matched\">they’re happy with that</span>. ",
             "matched": true
           }
         },
@@ -255,13 +255,13 @@
           "dn25:9.2": {
             "scid": "dn25:9.2",
             "pli": "“Idha, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā attamano hoti paripuṇṇasaṅkappo. ",
-            "en": "“Firstly, a mortifier undertakes a practice of mortification. <span class=\"scv-matched\">They’re happy with that</span>, as they’ve got all they wished for. ",
+            "en": "“Firstly, a mortifier undertakes a practice of mortification. <span class=\"ebt-matched\">They’re happy with that</span>, as they’ve got all they wished for. ",
             "matched": true
           },
           "dn25:10.1": {
             "scid": "dn25:10.1",
             "pli": "Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena attamano hoti paripuṇṇasaṅkappo. ",
-            "en": "Furthermore, a mortifier undertakes a practice of mortification. They generate possessions, honor, and popularity through that mortification. <span class=\"scv-matched\">They’re happy with that</span>, as they’ve got all they wished for. ",
+            "en": "Furthermore, a mortifier undertakes a practice of mortification. They generate possessions, honor, and popularity through that mortification. <span class=\"ebt-matched\">They’re happy with that</span>, as they’ve got all they wished for. ",
             "matched": true
           },
           "dn25:13.1": {
@@ -302,7 +302,7 @@
           "an10.52:3.3": {
             "scid": "an10.52:3.3",
             "pli": "No ce tattha passati rajaṁ vā aṅgaṇaṁ vā, tenevattamano hoti paripuṇṇasaṅkappo: ",
-            "en": "But if they don’t see any dirt or blemish there, <span class=\"scv-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
+            "en": "But if they don’t see any dirt or blemish there, <span class=\"ebt-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
             "matched": true
           }
         },
@@ -331,7 +331,7 @@
           "an10.51:3.3": {
             "scid": "an10.51:3.3",
             "pli": "No ce tattha passati rajaṁ vā aṅgaṇaṁ vā, tenevattamano hoti paripuṇṇasaṅkappo: ",
-            "en": "But if they don’t see any dirt or blemish there, <span class=\"scv-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
+            "en": "But if they don’t see any dirt or blemish there, <span class=\"ebt-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
             "matched": true
           }
         },
@@ -360,7 +360,7 @@
           "an10.53:6.3": {
             "scid": "an10.53:6.3",
             "pli": "No ce tattha passati rajaṁ vā aṅgaṇaṁ vā, tenevattamano hoti paripuṇṇasaṅkappo: ",
-            "en": "But if they don’t see any dirt or blemish there, <span class=\"scv-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
+            "en": "But if they don’t see any dirt or blemish there, <span class=\"ebt-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
             "matched": true
           }
         },
@@ -389,7 +389,7 @@
           "an10.55:7.3": {
             "scid": "an10.55:7.3",
             "pli": "No ce tattha passati rajaṁ vā aṅgaṇaṁ vā, tenevattamano hoti paripuṇṇasaṅkappo: ",
-            "en": "But if they don’t see any dirt or blemish there, <span class=\"scv-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
+            "en": "But if they don’t see any dirt or blemish there, <span class=\"ebt-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
             "matched": true
           }
         },
@@ -418,7 +418,7 @@
           "an10.54:2.3": {
             "scid": "an10.54:2.3",
             "pli": "No ce tattha passati rajaṁ vā aṅgaṇaṁ vā, tenevattamano hoti paripuṇṇasaṅkappo: ",
-            "en": "But if they don’t see any dirt or blemish there, <span class=\"scv-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
+            "en": "But if they don’t see any dirt or blemish there, <span class=\"ebt-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
             "matched": true
           }
         },

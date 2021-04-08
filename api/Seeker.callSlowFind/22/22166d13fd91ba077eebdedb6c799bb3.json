@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "dn10:1.28.1": {
             "scid": "dn10:1.28.1",
             "pli": "Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṁ kappenti, ",
-            "de": "Da sind manche Asketen und Brahmanen, die <span class=\"scv-matched\">Speisen genießen, die aus Vertrauen</span> gespendet wurden. Und dennoch verdienen sie ihren Unterhalt mit unwürdigen Wissenszweigen, mit einem falschen Lebenserwerb: ",
+            "de": "Da sind manche Asketen und Brahmanen, die <span class=\"ebt-matched\">Speisen genießen, die aus Vertrauen</span> gespendet wurden. Und dennoch verdienen sie ihren Unterhalt mit unwürdigen Wissenszweigen, mit einem falschen Lebenserwerb: ",
             "en": "There are some ascetics and brahmins who, while enjoying food given in faith, still earn a living by unworthy branches of knowledge, by wrong livelihood. ",
             "matched": true
           }

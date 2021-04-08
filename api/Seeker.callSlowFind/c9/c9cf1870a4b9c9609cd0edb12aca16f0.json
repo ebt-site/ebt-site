@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "mn148:10.32": {
             "scid": "mn148:10.32",
             "pli": "Taṇhāya uppādopi vayopi paññāyati. ",
-            "en": "The arising and <span class=\"scv-matched\">vanishing of craving</span> is evident, ",
+            "en": "The arising and <span class=\"ebt-matched\">vanishing of craving</span> is evident, ",
             "matched": true
           },
           "mn148:15.8": {
             "scid": "mn148:15.8",
             "pli": "Taṇhāya uppādopi vayopi paññāyati. ",
-            "en": "The arising and <span class=\"scv-matched\">vanishing of craving</span> is evident, ",
+            "en": "The arising and <span class=\"ebt-matched\">vanishing of craving</span> is evident, ",
             "matched": true
           }
         },

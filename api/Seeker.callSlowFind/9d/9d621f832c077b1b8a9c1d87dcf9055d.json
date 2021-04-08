@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,19 +57,19 @@
           "an3.32:2.1": {
             "scid": "an3.32:2.1",
             "pli": "“Siyā nu kho, bhante, bhikkhuno tathārūpo samādhipaṭilābho yathā imasmiñca saviññāṇake kāye ahaṅkāramamaṅkāramānānusayā nāssu, bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā nāssu; ",
-            "en": "“Could it be, sir, that a mendicant might gain a state of immersion such that there’s no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to <span class=\"scv-matched\">conceit for all</span> external stimuli; ",
+            "en": "“Could it be, sir, that a mendicant might gain a state of immersion such that there’s no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to <span class=\"ebt-matched\">conceit for all</span> external stimuli; ",
             "matched": true
           },
           "an3.32:2.3": {
             "scid": "an3.32:2.3",
             "pli": "“Siyā, ānanda, bhikkhuno tathārūpo samādhipaṭilābho yathā imasmiñca saviññāṇake kāye ahaṅkāramamaṅkāramānānusayā nāssu, bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā nāssu; ",
-            "en": "“It could be, Ānanda, that a mendicant gains a state of immersion such that they have no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to <span class=\"scv-matched\">conceit for all</span> external stimuli; ",
+            "en": "“It could be, Ānanda, that a mendicant gains a state of immersion such that they have no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to <span class=\"ebt-matched\">conceit for all</span> external stimuli; ",
             "matched": true
           },
           "an3.32:4.3": {
             "scid": "an3.32:4.3",
             "pli": "Evaṁ kho, ānanda, siyā bhikkhuno tathārūpo samādhipaṭilābho yathā imasmiñca saviññāṇake kāye ahaṅkāramamaṅkāramānānusayā nāssu, bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā nāssu; ",
-            "en": "That’s how, Ānanda, a mendicant might gain a state of immersion such that there’s no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to <span class=\"scv-matched\">conceit for all</span> external stimuli; ",
+            "en": "That’s how, Ānanda, a mendicant might gain a state of immersion such that there’s no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to <span class=\"ebt-matched\">conceit for all</span> external stimuli; ",
             "matched": true
           }
         },
@@ -98,13 +98,13 @@
           "an3.33:2.2": {
             "scid": "an3.33:2.2",
             "pli": "‘imasmiñca saviññāṇake kāye ahaṅkāramamaṅkāramānānusayā na bhavissanti, bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na bhavissanti, yañca cetovimuttiṁ paññāvimuttiṁ upasampajja viharato ahaṅkāramamaṅkāramānānusayā na honti tañca cetovimuttiṁ paññāvimuttiṁ upasampajja viharissāmā’ti. ",
-            "en": "‘There’ll be no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to <span class=\"scv-matched\">conceit for all</span> external stimuli; and we’ll live having achieved the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more.’ ",
+            "en": "‘There’ll be no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to <span class=\"ebt-matched\">conceit for all</span> external stimuli; and we’ll live having achieved the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more.’ ",
             "matched": true
           },
           "an3.33:3.1": {
             "scid": "an3.33:3.1",
             "pli": "Yato ca kho, sāriputta, bhikkhuno imasmiñca saviññāṇake kāye ahaṅkāramamaṅkāramānānusayā na honti, bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na honti, yañca cetovimuttiṁ paññāvimuttiṁ upasampajja viharato ahaṅkāramamaṅkāramānānusayā na honti tañca cetovimuttiṁ paññāvimuttiṁ upasampajja viharati; ",
-            "en": "When a mendicant has no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to <span class=\"scv-matched\">conceit for all</span> external stimuli; and they live having attained the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more—",
+            "en": "When a mendicant has no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to <span class=\"ebt-matched\">conceit for all</span> external stimuli; and they live having attained the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more—",
             "matched": true
           }
         },

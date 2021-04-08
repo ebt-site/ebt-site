@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "an10.29:20.1": {
             "scid": "an10.29:20.1",
             "pli": "Santi, bhikkhave, eke samaṇabrāhmaṇā paramatthavisuddhiṁ paññāpenti. ",
-            "en": "There are some ascetics and brahmins who advocate <span class=\"scv-matched\">ultimate purity</span>. ",
+            "en": "There are some ascetics and brahmins who advocate <span class=\"ebt-matched\">ultimate purity</span>. ",
             "matched": true
           },
           "an10.29:20.2": {
             "scid": "an10.29:20.2",
             "pli": "Etadaggaṁ, bhikkhave, paramatthavisuddhiṁ paññapentānaṁ yadidaṁ sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati. ",
-            "en": "This is the best of the advocates of <span class=\"scv-matched\">ultimate purity</span>, that is, when someone, going totally beyond the dimension of nothingness, enters and remains in the dimension of neither perception nor non-perception. ",
+            "en": "This is the best of the advocates of <span class=\"ebt-matched\">ultimate purity</span>, that is, when someone, going totally beyond the dimension of nothingness, enters and remains in the dimension of neither perception nor non-perception. ",
             "matched": true
           }
         },
@@ -92,7 +92,7 @@
           "sn4.1:6.3": {
             "scid": "sn4.1:6.3",
             "pli": "Pattosmi paramaṁ suddhiṁ, ",
-            "en": "I attained <span class=\"scv-matched\">ultimate purity</span>. ",
+            "en": "I attained <span class=\"ebt-matched\">ultimate purity</span>. ",
             "matched": true
           }
         },

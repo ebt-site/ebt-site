@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,19 +57,19 @@
           "an10.61:2.2": {
             "scid": "an10.61:2.2",
             "pli": "Ko cāhāro avijjāya? ",
-            "en": "And what is the <span class=\"scv-matched\">fuel for ignorance</span>? ",
+            "en": "And what is the <span class=\"ebt-matched\">fuel for ignorance</span>? ",
             "matched": true
           },
           "an10.61:3.2": {
             "scid": "an10.61:3.2",
             "pli": "evametissā avijjāya āhāro hoti, evañca pāripūri. ",
-            "en": "That’s the <span class=\"scv-matched\">fuel for ignorance</span>, and that’s how it’s fulfilled. ",
+            "en": "That’s the <span class=\"ebt-matched\">fuel for ignorance</span>, and that’s how it’s fulfilled. ",
             "matched": true
           },
           "an10.61:5.2": {
             "scid": "an10.61:5.2",
             "pli": "evametissā avijjāya āhāro hoti, evañca pāripūri. ",
-            "en": "That’s the <span class=\"scv-matched\">fuel for ignorance</span>, and that’s how it’s fulfilled. ",
+            "en": "That’s the <span class=\"ebt-matched\">fuel for ignorance</span>, and that’s how it’s fulfilled. ",
             "matched": true
           }
         },
@@ -98,7 +98,7 @@
           "an10.62:2.5": {
             "scid": "an10.62:2.5",
             "pli": "Ko cāhāro avijjāya? ",
-            "en": "And what is the <span class=\"scv-matched\">fuel for ignorance</span>? ",
+            "en": "And what is the <span class=\"ebt-matched\">fuel for ignorance</span>? ",
             "matched": true
           }
         },

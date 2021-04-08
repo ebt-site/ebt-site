@@ -153,7 +153,7 @@ export default {
     yesDeleteUser: 'Já. Eyða notanda: ',
 
   },
-  scv: {
+  ebt: {
     audio: "Audio",
     aboutTitle: "Um rödd",
     and: "og",

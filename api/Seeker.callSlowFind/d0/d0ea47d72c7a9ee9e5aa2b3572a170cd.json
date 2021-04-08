@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an4.257:3.8": {
             "scid": "an4.257:3.8",
             "pli": "Yato kho, mālukyaputta, bhikkhuno taṇhā pahīnā hoti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā, ayaṁ vuccati, mālukyaputta, ‘bhikkhu acchecchi taṇhaṁ, vivattayi saṁyojanaṁ, sammā mānābhisamayā antamakāsi dukkhassā’”ti. ",
-            "de": "Dieses <span class=\"scv-matched\">Verlangen wird von einem Mönch und einer Nonne aufgegeben</span>, an der Wurzel abgeschnitten, sodass es wie der Stumpf einer Palme ist, dass es ausgelöscht ist und sich in Zukunft nicht mehr erheben kann. Dann nennt man einen Mönch und eine Nonne, die das Verlangen abgeschnitten, die Fesseln gelöst, die Einbildung richtig erfasst und dadurch dem Leiden ein Ende gemacht haben.“ ",
+            "de": "Dieses <span class=\"ebt-matched\">Verlangen wird von einem Mönch und einer Nonne aufgegeben</span>, an der Wurzel abgeschnitten, sodass es wie der Stumpf einer Palme ist, dass es ausgelöscht ist und sich in Zukunft nicht mehr erheben kann. Dann nennt man einen Mönch und eine Nonne, die das Verlangen abgeschnitten, die Fesseln gelöst, die Einbildung richtig erfasst und dadurch dem Leiden ein Ende gemacht haben.“ ",
             "en": "That craving is given up by a mendicant, cut off at the root, made like a palm stump, obliterated, and unable to arise in the future. Then they’re called a mendicant who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.” ",
             "matched": true
           }

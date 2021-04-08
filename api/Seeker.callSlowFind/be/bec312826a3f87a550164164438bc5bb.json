@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,19 +54,19 @@
           "dn23:29.12": {
             "scid": "dn23:29.12",
             "pli": "Tena hi, samma, tvañca sāṇabhāraṁ chaḍḍehi, ahañca sāṇabhāraṁ chaḍḍessāmi, ubho sāṇasuttabhāraṁ ādāya gamissāmā’ti. ",
-            "en": "Well then, my friend, <span class=\"scv-matched\">let’s abandon our bundles</span> of hemp, and both take a bundle of hemp thread and go on.’ ",
+            "en": "Well then, my friend, <span class=\"ebt-matched\">let’s abandon our bundles</span> of hemp, and both take a bundle of hemp thread and go on.’ ",
             "matched": true
           },
           "dn23:29.18": {
             "scid": "dn23:29.18",
             "pli": "Tena hi, samma, tvañca sāṇabhāraṁ chaḍḍehi, ahañca sāṇasuttabhāraṁ chaḍḍessāmi, ubho sāṇibhāraṁ ādāya gamissāmā’ti. ",
-            "en": "Well then, my friend, <span class=\"scv-matched\">let’s abandon our bundles</span>, and both take a bundle of hemp cloth and go on.’ ",
+            "en": "Well then, my friend, <span class=\"ebt-matched\">let’s abandon our bundles</span>, and both take a bundle of hemp cloth and go on.’ ",
             "matched": true
           },
           "dn23:29.35": {
             "scid": "dn23:29.35",
             "pli": "Tena hi, samma, tvañca sāṇabhāraṁ chaḍḍehi, ahañca sajjhabhāraṁ chaḍḍessāmi, ubho suvaṇṇabhāraṁ ādāya gamissāmā’ti. ",
-            "en": "Well then, my friend, <span class=\"scv-matched\">let’s abandon our bundles</span>, and both take a bundle of gold and go on.’ ",
+            "en": "Well then, my friend, <span class=\"ebt-matched\">let’s abandon our bundles</span>, and both take a bundle of gold and go on.’ ",
             "matched": true
           }
         },

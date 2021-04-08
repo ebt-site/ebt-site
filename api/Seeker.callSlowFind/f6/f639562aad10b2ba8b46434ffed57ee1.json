@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "an5.37:1.5": {
             "scid": "an5.37:1.5",
             "pli": "vaṇṇaṁ datvā vaṇṇassa bhāgī hoti dibbassa vā mānusassa vā; ",
-            "en": "<span class=\"scv-matched\">Giving beauty</span>, they have beauty as a god or human. ",
+            "en": "<span class=\"ebt-matched\">Giving beauty</span>, they have beauty as a god or human. ",
             "matched": true
           },
           "an5.37:3.1": {
@@ -95,7 +95,7 @@
           "an4.58:2.5": {
             "scid": "an4.58:2.5",
             "pli": "Vaṇṇaṁ datvā … sukhaṁ datvā … balaṁ datvā balassa bhāgī hoti dibbassa vā mānusassa vā. ",
-            "en": "<span class=\"scv-matched\">Giving beauty</span> … happiness … strength … ",
+            "en": "<span class=\"ebt-matched\">Giving beauty</span> … happiness … strength … ",
             "matched": true
           }
         },
@@ -124,7 +124,7 @@
           "an4.57:2.5": {
             "scid": "an4.57:2.5",
             "pli": "Vaṇṇaṁ datvā vaṇṇassa bhāginī hoti dibbassa vā mānusassa vā. ",
-            "en": "<span class=\"scv-matched\">Giving beauty</span>, she has beauty as a god or human. ",
+            "en": "<span class=\"ebt-matched\">Giving beauty</span>, she has beauty as a god or human. ",
             "matched": true
           }
         },

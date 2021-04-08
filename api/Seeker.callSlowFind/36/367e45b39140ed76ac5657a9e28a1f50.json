@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an2.19:2.2": {
             "scid": "an2.19:2.2",
             "pli": "Sakkā, bhikkhave, kusalaṁ bhāvetuṁ. ",
-            "en": "It is <span class=\"scv-matched\">possible to develop</span> the skillful. ",
+            "en": "It is <span class=\"ebt-matched\">possible to develop</span> the skillful. ",
             "matched": true
           }
         },

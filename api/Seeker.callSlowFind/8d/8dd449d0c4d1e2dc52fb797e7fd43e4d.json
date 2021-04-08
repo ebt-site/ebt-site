@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an4.59:2.1": {
             "scid": "an4.59:2.1",
             "pli": "Yo saññatānaṁ paradattabhojinaṁ, ",
-            "de": "<span class=\"scv-matched\">Sorgfältig Essen</span> zur rechten Zeit ",
+            "de": "<span class=\"ebt-matched\">Sorgfältig Essen</span> zur rechten Zeit ",
             "en": " ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "an4.58:3.1": {
             "scid": "an4.58:3.1",
             "pli": "Yo saññatānaṁ paradattabhojinaṁ, ",
-            "de": "<span class=\"scv-matched\">Sorgfältig Essen</span> zur rechten Zeit ",
+            "de": "<span class=\"ebt-matched\">Sorgfältig Essen</span> zur rechten Zeit ",
             "en": "Carefully giving food at the right time, ",
             "matched": true
           }

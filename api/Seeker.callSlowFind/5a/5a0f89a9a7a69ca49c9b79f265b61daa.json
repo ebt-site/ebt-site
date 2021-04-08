@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,21 +61,21 @@
           "an3.36:4.2": {
             "scid": "an3.36:4.2",
             "pli": "‘ambho, purisa, tassa te viññussa sato mahallakassa na etadahosi—",
-            "de": "‚Mensch, als <span class=\"scv-matched\">vernünftiger erwachsener</span> Mensch, ist dir da nicht in den Sinn gekommen: ",
+            "de": "‚Mensch, als <span class=\"ebt-matched\">vernünftiger erwachsener</span> Mensch, ist dir da nicht in den Sinn gekommen: ",
             "en": "‘Mister, did it not occur to you—being sensible and mature—",
             "matched": true
           },
           "an3.36:7.2": {
             "scid": "an3.36:7.2",
             "pli": "‘ambho purisa, tassa te viññussa sato mahallakassa na etadahosi: ",
-            "de": "‚Mensch, als <span class=\"scv-matched\">vernünftiger erwachsener</span> Mensch, ist dir da nicht in den Sinn gekommen: ",
+            "de": "‚Mensch, als <span class=\"ebt-matched\">vernünftiger erwachsener</span> Mensch, ist dir da nicht in den Sinn gekommen: ",
             "en": "‘Mister, did it not occur to you—being sensible and mature—",
             "matched": true
           },
           "an3.36:11.2": {
             "scid": "an3.36:11.2",
             "pli": "‘ambho purisa, tassa te viññussa sato mahallakassa na etadahosi—",
-            "de": "‚Mensch, als <span class=\"scv-matched\">vernünftiger erwachsener</span> Mensch, ist dir da nicht in den Sinn gekommen: ",
+            "de": "‚Mensch, als <span class=\"ebt-matched\">vernünftiger erwachsener</span> Mensch, ist dir da nicht in den Sinn gekommen: ",
             "en": "‘Mister, did it not occur to you—being sensible and mature—",
             "matched": true
           }
@@ -107,7 +107,7 @@
           "dn25:21.15": {
             "scid": "dn25:21.15",
             "pli": "“Tassa te, nigrodha, viññussa sato mahallakassa na etadahosi: ",
-            "de": "„Nigrodha, du bist ein <span class=\"scv-matched\">vernünftiger erwachsener</span> Mensch. Ist dir da nicht in den Sinn gekommen: ",
+            "de": "„Nigrodha, du bist ein <span class=\"ebt-matched\">vernünftiger erwachsener</span> Mensch. Ist dir da nicht in den Sinn gekommen: ",
             "en": "“Nigrodha, you are a sensible and mature man. Did it not occur to you: ",
             "matched": true
           }

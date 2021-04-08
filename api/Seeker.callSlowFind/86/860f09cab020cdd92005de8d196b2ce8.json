@@ -14,7 +14,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,8 +57,8 @@
           "an6.45:12.2": {
             "scid": "an6.45:12.2",
             "pli": "Nāhaṁ, bhikkhave, aññaṁ ekabandhanampi samanupassāmi evaṁdāruṇaṁ evaṅkaṭukaṁ evaṁantarāyakaraṁ anuttarassa yogakkhemassa adhigamāya, yathayidaṁ, bhikkhave, nirayabandhanaṁ vā tiracchānayonibandhanaṁ vāti. ",
-            "de": "Ich sehe kein einziges Gefängnis, das so <span class=\"scv-matched\">brutal</span> und bösartig ist und solch ein Hindernis für das Erreichen der höchsten Geborgenheit darstellt wie das Gefängnis der Hölle oder des Tierreichs. ",
-            "en": "I don’t see a single prison that’s as <span class=\"scv-matched\">brutal</span>, as vicious, and such an obstacle to reaching the supreme sanctuary as the prison of hell or the animal realm. ",
+            "de": "Ich sehe kein einziges Gefängnis, das so <span class=\"ebt-matched\">brutal</span> und bösartig ist und solch ein Hindernis für das Erreichen der höchsten Geborgenheit darstellt wie das Gefängnis der Hölle oder des Tierreichs. ",
+            "en": "I don’t see a single prison that’s as <span class=\"ebt-matched\">brutal</span>, as vicious, and such an obstacle to reaching the supreme sanctuary as the prison of hell or the animal realm. ",
             "matched": true
           }
         },

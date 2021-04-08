@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -69,49 +69,49 @@
           "an7.66:3.2": {
             "scid": "an7.66:3.2",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni vassasatasahassāni devo na vassati. ",
-            "de": "Es kommt eine Zeit, nachdem eine <span class=\"scv-matched\">sehr lange Zeit</span>spanne vergangen ist, da der Regen nicht mehr fällt. Viele Jahre lang, viele hundert, viele tausend, viele hunderttausend Jahre lang wird kein Regen fallen. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da der Regen nicht mehr fällt. Viele Jahre lang, viele hundert, viele tausend, viele hunderttausend Jahre lang wird kein Regen fallen. ",
             "en": "There comes a time when, after a very long period has passed, the rain doesn’t fall. For many years, many hundreds, many thousands, many hundreds of thousands of years no rain falls. ",
             "matched": true
           },
           "an7.66:4.1": {
             "scid": "an7.66:4.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena dutiyo sūriyo pātubhavati. ",
-            "de": "Es kommt eine Zeit, nachdem eine <span class=\"scv-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine zweite Sonne. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine zweite Sonne. ",
             "en": "There comes a time when, after a very long period has passed, a second sun appears. ",
             "matched": true
           },
           "an7.66:5.1": {
             "scid": "an7.66:5.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tatiyo sūriyo pātubhavati. ",
-            "de": "Es kommt eine Zeit, nachdem eine <span class=\"scv-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine dritte Sonne. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine dritte Sonne. ",
             "en": "There comes a time when, after a very long period has passed, a third sun appears. ",
             "matched": true
           },
           "an7.66:6.1": {
             "scid": "an7.66:6.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena catuttho sūriyo pātubhavati. ",
-            "de": "Es kommt eine Zeit, nachdem eine <span class=\"scv-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine vierte Sonne. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine vierte Sonne. ",
             "en": "There comes a time when, after a very long period has passed, a fourth sun appears. ",
             "matched": true
           },
           "an7.66:7.1": {
             "scid": "an7.66:7.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena pañcamo sūriyo pātubhavati. ",
-            "de": "Es kommt eine Zeit, nachdem eine <span class=\"scv-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine fünfte Sonne. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine fünfte Sonne. ",
             "en": "There comes a time when, after a very long period has passed, a fifth sun appears. ",
             "matched": true
           },
           "an7.66:8.1": {
             "scid": "an7.66:8.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena chaṭṭho sūriyo pātubhavati. ",
-            "de": "Es kommt eine Zeit, nachdem eine <span class=\"scv-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine sechste Sonne. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine sechste Sonne. ",
             "en": "There comes a time when, after a very long period has passed, a sixth sun appears. ",
             "matched": true
           },
           "an7.66:9.1": {
             "scid": "an7.66:9.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena sattamo sūriyo pātubhavati. ",
-            "de": "Es kommt eine Zeit, nachdem eine <span class=\"scv-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine siebte Sonne. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine siebte Sonne. ",
             "en": "There comes a time when, after a very long period has passed, a seventh sun appears. ",
             "matched": true
           }
@@ -143,35 +143,35 @@
           "dn24:2.14.11": {
             "scid": "dn24:2.14.11",
             "pli": "‘Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
-            "de": "‚Es kommt eine Zeit, werte Freunde, nachdem eine <span class=\"scv-matched\">sehr lange Zeit</span>spanne vergangen ist, da dieses Weltall sich zusammenzieht. ",
+            "de": "‚Es kommt eine Zeit, werte Freunde, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da dieses Weltall sich zusammenzieht. ",
             "en": "‘There comes a time when, reverends, after a very long period has passed, this cosmos contracts. ",
             "matched": true
           },
           "dn24:2.14.13": {
             "scid": "dn24:2.14.13",
             "pli": "Te tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino ciraṁ dīghamaddhānaṁ tiṭṭhanti. ",
-            "de": "Dort sind sie geistgeschaffen, ernähren sich von Ekstase, sind selbstleuchtend und bewegen sich über den Himmel, von gleichmäßiger Pracht, und sie bleiben so für eine <span class=\"scv-matched\">sehr lange Zeit</span>. ",
+            "de": "Dort sind sie geistgeschaffen, ernähren sich von Ekstase, sind selbstleuchtend und bewegen sich über den Himmel, von gleichmäßiger Pracht, und sie bleiben so für eine <span class=\"ebt-matched\">sehr lange Zeit</span>. ",
             "en": "There they are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a very long time. ",
             "matched": true
           },
           "dn24:2.15.1": {
             "scid": "dn24:2.15.1",
             "pli": "Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
-            "de": "Es kommt eine Zeit, nachdem eine <span class=\"scv-matched\">sehr lange Zeit</span>spanne vergangen ist, da dieses Weltall sich ausdehnt. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da dieses Weltall sich ausdehnt. ",
             "en": "There comes a time when, after a very long period has passed, this cosmos expands. ",
             "matched": true
           },
           "dn24:2.15.4": {
             "scid": "dn24:2.15.4",
             "pli": "So tattha hoti manomayo pītibhakkho sayampabho antalikkhacaro subhaṭṭhāyī, ciraṁ dīghamaddhānaṁ tiṭṭhati. ",
-            "de": "Dort ist es geistgeschaffen, ernährt sich von Ekstase, ist selbstleuchtend und bewegt sich über den Himmel, von gleichmäßiger Pracht, und es bleibt so für eine <span class=\"scv-matched\">sehr lange Zeit</span>. ",
+            "de": "Dort ist es geistgeschaffen, ernährt sich von Ekstase, ist selbstleuchtend und bewegt sich über den Himmel, von gleichmäßiger Pracht, und es bleibt so für eine <span class=\"ebt-matched\">sehr lange Zeit</span>. ",
             "en": "There they are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a very long time. ",
             "matched": true
           },
           "dn24:2.16.4": {
             "scid": "dn24:2.16.4",
             "pli": "Tepi tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino, ciraṁ dīghamaddhānaṁ tiṭṭhanti. ",
-            "de": "Dort sind sie geistgeschaffen, ernähren sich von Ekstase, sind selbstleuchtend und bewegen sich über den Himmel, von gleichmäßiger Pracht, und sie bleiben so für eine <span class=\"scv-matched\">sehr lange Zeit</span>. ",
+            "de": "Dort sind sie geistgeschaffen, ernähren sich von Ekstase, sind selbstleuchtend und bewegen sich über den Himmel, von gleichmäßiger Pracht, und sie bleiben so für eine <span class=\"ebt-matched\">sehr lange Zeit</span>. ",
             "en": "There they too are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a very long time. ",
             "matched": true
           }
@@ -203,7 +203,7 @@
           "sn56.47:1.4": {
             "scid": "sn56.47:1.4",
             "pli": "“Yadi nūna, bhante, kadāci karahaci dīghassa addhuno accayenā”ti. ",
-            "de": "„Nur nach <span class=\"scv-matched\">sehr langer Zeit</span>, Herr, wenn überhaupt.“ ",
+            "de": "„Nur nach <span class=\"ebt-matched\">sehr langer Zeit</span>, Herr, wenn überhaupt.“ ",
             "en": "“Only after a very long time, sir, if ever.” ",
             "matched": true
           }
@@ -235,7 +235,7 @@
           "an4.1:2.1": {
             "scid": "an4.1:2.1",
             "pli": "“Catunnaṁ, bhikkhave, dhammānaṁ ananubodhā appaṭivedhā evamidaṁ dīghamaddhānaṁ sandhāvitaṁ saṁsaritaṁ mamañceva tumhākañca. ",
-            "de": "„Mönche und Nonnen, weil wir vier Dinge nicht verstanden und nicht durchdrungen hatten, sind wir, ihr sowohl als ich, für eine <span class=\"scv-matched\">sehr lange Zeit</span> gewandert und umhergezogen. ",
+            "de": "„Mönche und Nonnen, weil wir vier Dinge nicht verstanden und nicht durchdrungen hatten, sind wir, ihr sowohl als ich, für eine <span class=\"ebt-matched\">sehr lange Zeit</span> gewandert und umhergezogen. ",
             "en": "“Mendicants, not understanding and not penetrating four things, both you and I have wandered and transmigrated for such a very long time. ",
             "matched": true
           }

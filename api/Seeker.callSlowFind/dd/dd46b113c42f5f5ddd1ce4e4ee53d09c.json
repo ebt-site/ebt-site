@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,13 +60,13 @@
           "mn67:13.5": {
             "scid": "mn67:13.5",
             "pli": "Appossukko dāni bhagavā diṭṭhadhammasukhavihāraṁ anuyutto viharissati, ahañca dāni āyasmā ca sāriputto bhikkhusaṅghaṁ pariharissāmā’”ti. ",
-            "en": "Now he will remain passive, dwelling in blissful meditation in the present life. Meanwhile, Venerable Sāriputta and I will <span class=\"scv-matched\">lead the mendicant</span> Saṅgha.’” ",
+            "en": "Now he will remain passive, dwelling in blissful meditation in the present life. Meanwhile, Venerable Sāriputta and I will <span class=\"ebt-matched\">lead the mendicant</span> Saṅgha.’” ",
             "matched": true
           },
           "mn67:13.7": {
             "scid": "mn67:13.7",
             "pli": "Ahaṁ vā hi, moggallāna, bhikkhusaṅghaṁ parihareyyaṁ sāriputtamoggallānā vā”ti. ",
-            "en": "For either I should <span class=\"scv-matched\">lead the mendicant</span> Saṅgha, or else Sāriputta and Moggallāna.” ",
+            "en": "For either I should <span class=\"ebt-matched\">lead the mendicant</span> Saṅgha, or else Sāriputta and Moggallāna.” ",
             "matched": true
           }
         },
@@ -95,13 +95,13 @@
           "mn51:2.3": {
             "scid": "mn51:2.3",
             "pli": "Yepi te, bho gotama, ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā tepi bhagavanto etaparamaṁyeva sammā bhikkhusaṅghaṁ paṭipādesuṁ—",
-            "en": "All the perfected ones, the fully awakened Buddhas in the past or the future who <span class=\"scv-matched\">lead the mendicant</span> Saṅgha to practice properly will at best do so ",
+            "en": "All the perfected ones, the fully awakened Buddhas in the past or the future who <span class=\"ebt-matched\">lead the mendicant</span> Saṅgha to practice properly will at best do so ",
             "matched": true
           },
           "mn51:3.2": {
             "scid": "mn51:3.2",
             "pli": "Yepi te, kandaraka, ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā tepi bhagavanto etaparamaṁyeva sammā bhikkhusaṅghaṁ paṭipādesuṁ—",
-            "en": "All the perfected ones, the fully awakened Buddhas in the past or the future who <span class=\"scv-matched\">lead the mendicant</span> Saṅgha to practice properly will at best do so ",
+            "en": "All the perfected ones, the fully awakened Buddhas in the past or the future who <span class=\"ebt-matched\">lead the mendicant</span> Saṅgha to practice properly will at best do so ",
             "matched": true
           }
         },
@@ -130,7 +130,7 @@
           "an5.100:2.3": {
             "scid": "an5.100:2.3",
             "pli": "‘ahaṁ bhikkhusaṅghaṁ pariharissāmī’ti. ",
-            "en": "‘I will <span class=\"scv-matched\">lead the mendicant</span> Saṅgha.’ ",
+            "en": "‘I will <span class=\"ebt-matched\">lead the mendicant</span> Saṅgha.’ ",
             "matched": true
           }
         },

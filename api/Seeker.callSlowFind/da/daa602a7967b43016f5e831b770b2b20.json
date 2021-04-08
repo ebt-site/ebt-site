@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,49 +61,49 @@
           "an3.60:8.1": {
             "scid": "an3.60:8.1",
             "pli": "“Tīṇi kho imāni, brāhmaṇa, pāṭihāriyāni. ",
-            "de": "„Brahmane, es gibt <span class=\"scv-matched\">drei Vorführungen</span>. ",
+            "de": "„Brahmane, es gibt <span class=\"ebt-matched\">drei Vorführungen</span>. ",
             "en": "“Brahmin, there are three kinds of demonstration. ",
             "matched": true
           },
           "an3.60:13.5": {
             "scid": "an3.60:13.5",
             "pli": "Imāni kho, brāhmaṇa, tīṇi pāṭihāriyāni. ",
-            "de": "Das sind die <span class=\"scv-matched\">drei Vorführungen</span>. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Vorführungen</span>. ",
             "en": "These are the three kinds of demonstration. ",
             "matched": true
           },
           "an3.60:13.6": {
             "scid": "an3.60:13.6",
             "pli": "Imesaṁ te, brāhmaṇa, tiṇṇaṁ pāṭihāriyānaṁ katamaṁ pāṭihāriyaṁ khamati abhikkantatarañca paṇītatarañcā”ti? ",
-            "de": "Welche dieser <span class=\"scv-matched\">drei Vorführungen</span> betrachtest du als die erlesenste?“ ",
+            "de": "Welche dieser <span class=\"ebt-matched\">drei Vorführungen</span> betrachtest du als die erlesenste?“ ",
             "en": "Of these three kinds of demonstration, which do you consider to be the finest?” ",
             "matched": true
           },
           "an3.60:16.3": {
             "scid": "an3.60:16.3",
             "pli": "Idameva, bho gotama, pāṭihāriyaṁ khamati imesaṁ tiṇṇaṁ pāṭihāriyānaṁ abhikkantatarañca paṇītatarañca. ",
-            "de": "– diese Vorführung gefällt mir am besten, Meister Gotama. Sie ist die erlesenste der <span class=\"scv-matched\">drei Vorführungen</span>. ",
+            "de": "– diese Vorführung gefällt mir am besten, Meister Gotama. Sie ist die erlesenste der <span class=\"ebt-matched\">drei Vorführungen</span>. ",
             "en": "I prefer this demonstration, Master Gotama. It’s the finest of the three kinds of demonstration. ",
             "matched": true
           },
           "an3.60:17.2": {
             "scid": "an3.60:17.2",
             "pli": "Yāvasubhāsitamidaṁ bhotā gotamena imehi ca mayaṁ tīhi pāṭihāriyehi samannāgataṁ bhavantaṁ gotamaṁ dhārema. ",
-            "de": "wie gut das vom Meister Gotama gesagt wurde. Wir betrachten den Meister Gotama als jemanden, der die <span class=\"scv-matched\">drei Vorführungen</span> besitzt. ",
+            "de": "wie gut das vom Meister Gotama gesagt wurde. Wir betrachten den Meister Gotama als jemanden, der die <span class=\"ebt-matched\">drei Vorführungen</span> besitzt. ",
             "en": "how well this was said by Master Gotama. We regard Master Gotama as someone who possesses these three kinds of demonstration. ",
             "matched": true
           },
           "an3.60:19.1": {
             "scid": "an3.60:19.1",
             "pli": "“Atthi pana, bho gotama, añño ekabhikkhupi yo imehi tīhi pāṭihāriyehi samannāgato, aññatra bhotā gotamenā”ti? ",
-            "de": "„Aber Meister Gotama, gibt es außer dem Meister Gotama auch nur eine andere Nonne oder einen Mönch, der diese <span class=\"scv-matched\">drei Vorführungen</span> besitzt?“ ",
+            "de": "„Aber Meister Gotama, gibt es außer dem Meister Gotama auch nur eine andere Nonne oder einen Mönch, der diese <span class=\"ebt-matched\">drei Vorführungen</span> besitzt?“ ",
             "en": "“But Master Gotama, is there even one other mendicant who possesses these three kinds of demonstration, apart from Master Gotama?” ",
             "matched": true
           },
           "an3.60:19.2": {
             "scid": "an3.60:19.2",
             "pli": "“Na kho, brāhmaṇa, ekaṁyeva sataṁ na dve satāni na tīṇi satāni na cattāri satāni na pañca satāni, atha kho bhiyyova, ye bhikkhū imehi tīhi pāṭihāriyehi samannāgatā”ti. ",
-            "de": "„Es gibt nicht nur hundert Mönche und Nonnen, Brahmane, die diese <span class=\"scv-matched\">drei Vorführungen</span> besitzen, auch nicht zwei-, drei-, vier- oder fünfhundert, sondern viel mehr.“ ",
+            "de": "„Es gibt nicht nur hundert Mönche und Nonnen, Brahmane, die diese <span class=\"ebt-matched\">drei Vorführungen</span> besitzen, auch nicht zwei-, drei-, vier- oder fünfhundert, sondern viel mehr.“ ",
             "en": "“There’s not just one hundred mendicants, brahmin, who possess these three kinds of demonstration, nor two, three, four, or five hundred, but many more than that.” ",
             "matched": true
           }
@@ -135,7 +135,7 @@
           "dn33:1.10.145": {
             "scid": "dn33:1.10.145",
             "pli": "Tīṇi pāṭihāriyāni—",
-            "de": "<span class=\"scv-matched\">Drei Vorführungen</span>: ",
+            "de": "<span class=\"ebt-matched\">Drei Vorführungen</span>: ",
             "en": "Three demonstrations: ",
             "matched": true
           }

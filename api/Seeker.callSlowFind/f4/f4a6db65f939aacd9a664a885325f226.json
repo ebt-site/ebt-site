@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -89,21 +89,21 @@
           "an3.140:4.2": {
             "scid": "an3.140:4.2",
             "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
-            "de": "Es ist, wenn eine Nonne <span class=\"scv-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
+            "de": "Es ist, wenn eine Nonne <span class=\"ebt-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
             "en": "It’s when a mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
             "matched": true
           },
           "an3.140:5.2": {
             "scid": "an3.140:5.2",
             "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
-            "de": "Es ist, wenn eine Nonne <span class=\"scv-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
+            "de": "Es ist, wenn eine Nonne <span class=\"ebt-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
             "en": "It’s when a mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
             "matched": true
           },
           "an3.140:6.2": {
             "scid": "an3.140:6.2",
             "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
-            "de": "Es ist, wenn eine Nonne <span class=\"scv-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
+            "de": "Es ist, wenn eine Nonne <span class=\"ebt-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
             "en": "It’s when a mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
             "matched": true
           }
@@ -135,7 +135,7 @@
           "an3.96:4.2": {
             "scid": "an3.96:4.2",
             "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti; ",
-            "de": "Es ist, wenn eine Nonne <span class=\"scv-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ",
+            "de": "Es ist, wenn eine Nonne <span class=\"ebt-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ",
             "en": "It’s when a mendicant truly understands: ‘This is suffering’ … ",
             "matched": true
           }
@@ -167,7 +167,7 @@
           "an4.259:5.2": {
             "scid": "an4.259:5.2",
             "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
-            "de": "Es ist, wenn sie <span class=\"scv-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
+            "de": "Es ist, wenn sie <span class=\"ebt-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
             "en": "It’s when they truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
             "matched": true
           }
@@ -199,7 +199,7 @@
           "an3.25:2.2": {
             "scid": "an3.25:2.2",
             "pli": "Idha, bhikkhave, ekacco puggalo ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
-            "de": "Es ist jemand, der <span class=\"scv-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
+            "de": "Es ist jemand, der <span class=\"ebt-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
             "en": "It’s someone who truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
             "matched": true
           }
@@ -231,7 +231,7 @@
           "an3.133:3.2": {
             "scid": "an3.133:3.2",
             "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti; ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti; ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti; ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
-            "de": "Es ist, wenn ein Mönch <span class=\"scv-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
+            "de": "Es ist, wenn ein Mönch <span class=\"ebt-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
             "en": "It’s when a mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
             "matched": true
           }
@@ -263,7 +263,7 @@
           "an4.194:5.2": {
             "scid": "an4.194:5.2",
             "pli": "Idha, byagghapajjā, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
-            "de": "Es ist, wenn eine Nonne <span class=\"scv-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
+            "de": "Es ist, wenn eine Nonne <span class=\"ebt-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
             "en": "Take a mendicant who truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
             "matched": true
           }
@@ -295,7 +295,7 @@
           "an4.181:4.2": {
             "scid": "an4.181:4.2",
             "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
-            "de": "Es ist, wenn er <span class=\"scv-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
+            "de": "Es ist, wenn er <span class=\"ebt-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
             "en": "It’s when they truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
             "matched": true
           }
@@ -327,7 +327,7 @@
           "an4.190:7.2": {
             "scid": "an4.190:7.2",
             "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
-            "de": "Es ist, wenn er <span class=\"scv-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
+            "de": "Es ist, wenn er <span class=\"ebt-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
             "en": "It’s when they truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
             "matched": true
           }
@@ -359,7 +359,7 @@
           "an3.20:4.5": {
             "scid": "an3.20:4.5",
             "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
-            "de": "Es ist, wenn eine Nonne <span class=\"scv-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
+            "de": "Es ist, wenn eine Nonne <span class=\"ebt-matched\">wirklich versteht: ‚Das ist das Leiden.‘</span> … ‚Das ist das Entstehen des Leidens.‘ … ‚Das ist das Aufhören des Leidens.‘ … ‚Das ist die Übung, die zum Aufhören des Leidens führt.‘ ",
             "en": "It’s when a mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
             "matched": true
           }

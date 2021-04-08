@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "dn12:10.11": {
             "scid": "dn12:10.11",
             "pli": "“Ahitānukampissa mettaṁ vā tesu cittaṁ paccupaṭṭhitaṁ hoti sapattakaṁ vā”ti? ",
-            "en": "“But does an unkind person have <span class=\"scv-matched\">love in their heart</span> or hostility?” ",
+            "en": "“But does an unkind person have <span class=\"ebt-matched\">love in their heart</span> or hostility?” ",
             "matched": true
           },
           "dn12:11.11": {
             "scid": "dn12:11.11",
             "pli": "“Ahitānukampissa mettaṁ vā tesu cittaṁ paccupaṭṭhitaṁ hoti sapattakaṁ vā”ti? ",
-            "en": "“But does an unkind person have <span class=\"scv-matched\">love in their heart</span> or hostility?” ",
+            "en": "“But does an unkind person have <span class=\"ebt-matched\">love in their heart</span> or hostility?” ",
             "matched": true
           }
         },

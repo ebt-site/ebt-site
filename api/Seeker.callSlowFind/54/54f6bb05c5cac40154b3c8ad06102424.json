@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,14 +57,14 @@
           "dn25:9.2": {
             "scid": "dn25:9.2",
             "pli": "“Idha, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā attamano hoti paripuṇṇasaṅkappo. ",
-            "de": "„Zunächst unternimmt da ein Büßender eine Bußübung. Er <span class=\"scv-matched\">ist damit zufrieden</span>, er hat alles erreicht, was er wollte. ",
+            "de": "„Zunächst unternimmt da ein Büßender eine Bußübung. Er <span class=\"ebt-matched\">ist damit zufrieden</span>, er hat alles erreicht, was er wollte. ",
             "en": "“Firstly, a mortifier undertakes a practice of mortification. They’re happy with that, as they’ve got all they wished for. ",
             "matched": true
           },
           "dn25:10.1": {
             "scid": "dn25:10.1",
             "pli": "Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena attamano hoti paripuṇṇasaṅkappo. ",
-            "de": "Dann unternimmt da ein Büßender eine Bußübung. Er schafft sich durch diese Bußübung Besitz, Ehre und Beliebtheit. Er <span class=\"scv-matched\">ist damit zufrieden</span>, er hat alles erreicht, was er wollte. ",
+            "de": "Dann unternimmt da ein Büßender eine Bußübung. Er schafft sich durch diese Bußübung Besitz, Ehre und Beliebtheit. Er <span class=\"ebt-matched\">ist damit zufrieden</span>, er hat alles erreicht, was er wollte. ",
             "en": "Furthermore, a mortifier undertakes a practice of mortification. They generate possessions, honor, and popularity through that mortification. They’re happy with that, as they’ve got all they wished for. ",
             "matched": true
           },

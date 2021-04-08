@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,14 +61,14 @@
           "an3.102:1.1": {
             "scid": "an3.102:1.1",
             "pli": "“Adhicittamanuyuttena, bhikkhave, bhikkhunā tīṇi nimittāni kālena kālaṁ manasi kātabbāni—",
-            "de": "„Mönche und Nonnen, ein Mönch, der sich der hohen Geistesübung weiht, sollte sich von Zeit zu Zeit <span class=\"scv-matched\">drei Grundlagen</span> zuwenden: ",
+            "de": "„Mönche und Nonnen, ein Mönch, der sich der hohen Geistesübung weiht, sollte sich von Zeit zu Zeit <span class=\"ebt-matched\">drei Grundlagen</span> zuwenden: ",
             "en": "“Mendicants, a mendicant committed to the higher mind should focus on three foundations from time to time: ",
             "matched": true
           },
           "an3.102:3.1": {
             "scid": "an3.102:3.1",
             "pli": "Evamevaṁ kho, bhikkhave, adhicittamanuyuttena bhikkhunā tīṇi nimittāni kālena kālaṁ manasi kātabbāni—",
-            "de": "Ebenso sollte ein Mönch, der sich der hohen Geistesübung weiht, sich von Zeit zu Zeit <span class=\"scv-matched\">drei Grundlagen</span> zuwenden: ",
+            "de": "Ebenso sollte ein Mönch, der sich der hohen Geistesübung weiht, sich von Zeit zu Zeit <span class=\"ebt-matched\">drei Grundlagen</span> zuwenden: ",
             "en": "In the same way, a mendicant committed to the higher mind should focus on three foundations from time to time: ",
             "matched": true
           }
@@ -100,7 +100,7 @@
           "dn33:1.10.85": {
             "scid": "dn33:1.10.85",
             "pli": "Tīṇi codanāvatthūni—",
-            "de": "<span class=\"scv-matched\">Drei Grundlagen</span> für Anklagen: ",
+            "de": "<span class=\"ebt-matched\">Drei Grundlagen</span> für Anklagen: ",
             "en": "Three grounds for accusations: ",
             "matched": true
           }

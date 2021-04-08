@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "dn15:7.3": {
             "scid": "dn15:7.3",
             "pli": "rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā, sabbaso taṇhāya asati taṇhānirodhā api nu kho upādānaṁ paññāyethā”ti? ",
-            "en": "That is, craving for sights, sounds, smells, tastes, touches, and thoughts. When there’s <span class=\"scv-matched\">no craving at all</span>, with the cessation of craving, would grasping still be found?” ",
+            "en": "That is, craving for sights, sounds, smells, tastes, touches, and thoughts. When there’s <span class=\"ebt-matched\">no craving at all</span>, with the cessation of craving, would grasping still be found?” ",
             "matched": true
           },
           "dn15:8.3": {
@@ -69,7 +69,7 @@
           "dn15:18.3": {
             "scid": "dn15:18.3",
             "pli": "kāmataṇhā bhavataṇhā vibhavataṇhā, sabbaso taṇhāya asati taṇhānirodhā api nu kho pariyesanā paññāyethā”ti? ",
-            "en": "That is, craving for sensual pleasures, craving for continued existence, and craving to end existence. When there’s <span class=\"scv-matched\">no craving at all</span>, with the cessation of craving, would seeking still be found?” ",
+            "en": "That is, craving for sensual pleasures, craving for continued existence, and craving to end existence. When there’s <span class=\"ebt-matched\">no craving at all</span>, with the cessation of craving, would seeking still be found?” ",
             "matched": true
           }
         },
@@ -104,7 +104,7 @@
           "sn12.51:20.1": {
             "scid": "sn12.51:20.1",
             "pli": "“Sabbaso vā pana taṇhāya asati, taṇhānirodhā api nu kho upādānaṁ paññāyethā”ti? ",
-            "en": "“And when there’s <span class=\"scv-matched\">no craving at all</span>, would grasping still be found?” ",
+            "en": "“And when there’s <span class=\"ebt-matched\">no craving at all</span>, would grasping still be found?” ",
             "matched": true
           }
         },

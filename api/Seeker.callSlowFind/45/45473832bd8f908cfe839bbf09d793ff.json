@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,14 +57,14 @@
           "dn23:19.11": {
             "scid": "dn23:19.11",
             "pli": "‘vadehi, bho saṅkha, vadehi, bho saṅkhā’ti. ",
-            "de": "‚<span class=\"scv-matched\">Sprich, gutes Horn</span>! <span class=\"scv-matched\">Sprich, gutes Horn</span>!‘ ",
+            "de": "‚<span class=\"ebt-matched\">Sprich, gutes Horn</span>! <span class=\"ebt-matched\">Sprich, gutes Horn</span>!‘ ",
             "en": "‘Speak, good horn! Speak, good horn!’ ",
             "matched": true
           },
           "dn23:19.14": {
             "scid": "dn23:19.14",
             "pli": "‘vadehi, bho saṅkha, vadehi, bho saṅkhā’ti. ",
-            "de": "‚<span class=\"scv-matched\">Sprich, gutes Horn</span>! <span class=\"scv-matched\">Sprich, gutes Horn</span>!‘ ",
+            "de": "‚<span class=\"ebt-matched\">Sprich, gutes Horn</span>! <span class=\"ebt-matched\">Sprich, gutes Horn</span>!‘ ",
             "en": "‘Speak, good horn! Speak, good horn!’ ",
             "matched": true
           }

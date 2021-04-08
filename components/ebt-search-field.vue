@@ -1,5 +1,5 @@
 <template>
-  <div id="scv-search-field" v-if="displayable" class="pl-1">
+  <div id="ebt-search-field" v-if="displayable" class="pl-1">
     <v-autocomplete 
       ref="refSearchAuto"
       v-model="search"
@@ -9,11 +9,11 @@
       clearable
       @input="onSearchInput($event)"
     ></v-autocomplete>
-    <div class="scv-inspire-row">
+    <div class="ebt-inspire-row">
       <v-btn @click="clickInspireMe()"
         role="button"
         :aria-label="$t('inspireMe')"
-        class="scv-text-btn " :style="cssVars" small>
+        class="ebt-text-btn " :style="cssVars" small>
         {{$t('inspireMe')}}
       </v-btn>
     </div>
@@ -47,8 +47,8 @@ export default {
         that.onSearchInput(search);
       });
     }
-    console.log('scv-search-field.mounted() route', this.$route);
-    this.$nuxt.$on('scv-load-example', payload => {
+    console.log('ebt-search-field.mounted() route', this.$route);
+    this.$nuxt.$on('ebt-load-example', payload => {
         let { $el:refSearchAuto } = $refs['refSearchAuto'] || {};
         refSearchAuto && refSearchAuto.scrollIntoView({
             block: "center",
@@ -62,11 +62,11 @@ export default {
       pattern = pattern.toLowerCase().trim();
       let parsed = bilaraWeb.parseSuttaRef(pattern, lang);
       if (parsed) {
-        this.$store.dispatch('scv/loadSutta', parsed );
+        this.$store.dispatch('ebt/loadSutta', parsed );
         return;
       }
 
-      this.$store.dispatch('scv/loadExample', {pattern, lang});
+      this.$store.dispatch('ebt/loadExample', {pattern, lang});
     } catch(e) {
       console.error(`onSearchInput(${pattern})`, e.message);
     }},
@@ -95,17 +95,17 @@ export default {
   },
   computed: {
     lang() {
-        return this.$store.state.scv.settings.lang;
+        return this.$store.state.ebt.settings.lang;
     },
     locale() {
-        return this.$store.state.scv.settings.locale;
+        return this.$store.state.ebt.settings.locale;
     },
     examples() {
-        return this.$store.state.scv.examples;
+        return this.$store.state.ebt.examples;
     },
     search: {
-        get: function() { return this.$store.state.scv.search },
-        set: function(value) { this.$store.commit('scv/search', value); },
+        get: function() { return this.$store.state.ebt.search },
+        set: function(value) { this.$store.commit('ebt/search', value); },
     },
     cssVars() {
       return {

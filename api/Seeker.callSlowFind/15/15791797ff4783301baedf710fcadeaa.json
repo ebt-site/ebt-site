@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -77,35 +77,35 @@
           "an6.29:1.2": {
             "scid": "an6.29:1.2",
             "pli": "“kati nu kho, udāyi, anussatiṭṭhānānī”ti? ",
-            "de": "„Udāyī, wie viele <span class=\"scv-matched\">Gegenstände zur Besinnung</span> gibt es?“ ",
+            "de": "„Udāyī, wie viele <span class=\"ebt-matched\">Gegenstände zur Besinnung</span> gibt es?“ ",
             "en": "“Udāyī, how many topics for recollection are there?” ",
             "matched": true
           },
           "an6.29:1.8": {
             "scid": "an6.29:1.8",
             "pli": "“kati nu kho, udāyi, anussatiṭṭhānānī”ti? ",
-            "de": "„Udāyī, wie viele <span class=\"scv-matched\">Gegenstände zur Besinnung</span> gibt es?“ ",
+            "de": "„Udāyī, wie viele <span class=\"ebt-matched\">Gegenstände zur Besinnung</span> gibt es?“ ",
             "en": "“Udāyī, how many topics for recollection are there?” ",
             "matched": true
           },
           "an6.29:3.4": {
             "scid": "an6.29:3.4",
             "pli": "Kati nu kho, ānanda, anussatiṭṭhānānī”ti? ",
-            "de": "Ānanda, wie viele <span class=\"scv-matched\">Gegenstände zur Besinnung</span> gibt es?“ ",
+            "de": "Ānanda, wie viele <span class=\"ebt-matched\">Gegenstände zur Besinnung</span> gibt es?“ ",
             "en": "Ānanda, how many topics for recollection are there?” ",
             "matched": true
           },
           "an6.29:4.1": {
             "scid": "an6.29:4.1",
             "pli": "“Pañca, bhante, anussatiṭṭhānāni. ",
-            "de": "„Herr, es gibt fünf <span class=\"scv-matched\">Gegenstände zur Besinnung</span>. ",
+            "de": "„Herr, es gibt fünf <span class=\"ebt-matched\">Gegenstände zur Besinnung</span>. ",
             "en": "“Sir, there are five topics for recollection. ",
             "matched": true
           },
           "an6.29:10.3": {
             "scid": "an6.29:10.3",
             "pli": "Imāni kho, bhante, pañca anussatiṭṭhānānī”ti. ",
-            "de": "Das sind die fünf <span class=\"scv-matched\">Gegenstände zur Besinnung</span>.“ ",
+            "de": "Das sind die fünf <span class=\"ebt-matched\">Gegenstände zur Besinnung</span>.“ ",
             "en": "These are the five topics for recollection.” ",
             "matched": true
           }
@@ -137,21 +137,21 @@
           "an6.9:0.3": {
             "scid": "an6.9:0.3",
             "pli": "9. Anussatiṭṭhānasutta ",
-            "de": "9. <span class=\"scv-matched\">Gegenstände zur Besinnung</span> ",
+            "de": "9. <span class=\"ebt-matched\">Gegenstände zur Besinnung</span> ",
             "en": "9. Topics for Recollection ",
             "matched": true
           },
           "an6.9:1.1": {
             "scid": "an6.9:1.1",
             "pli": "“Chayimāni, bhikkhave, anussatiṭṭhānāni. ",
-            "de": "„Mönche und Nonnen, es gibt sechs <span class=\"scv-matched\">Gegenstände zur Besinnung</span>. ",
+            "de": "„Mönche und Nonnen, es gibt sechs <span class=\"ebt-matched\">Gegenstände zur Besinnung</span>. ",
             "en": "“Mendicants, there are these six topics for recollection. ",
             "matched": true
           },
           "an6.9:1.4": {
             "scid": "an6.9:1.4",
             "pli": "Imāni kho, bhikkhave, cha anussatiṭṭhānānī”ti. ",
-            "de": "Das sind die sechs <span class=\"scv-matched\">Gegenstände zur Besinnung</span>.“ ",
+            "de": "Das sind die sechs <span class=\"ebt-matched\">Gegenstände zur Besinnung</span>.“ ",
             "en": "These are the six topics for recollection.” ",
             "matched": true
           }
@@ -183,21 +183,21 @@
           "an6.25:0.3": {
             "scid": "an6.25:0.3",
             "pli": "25. Anussatiṭṭhānasutta ",
-            "de": "25. <span class=\"scv-matched\">Gegenstände zur Besinnung</span> ",
+            "de": "25. <span class=\"ebt-matched\">Gegenstände zur Besinnung</span> ",
             "en": "25. Topics for Recollection ",
             "matched": true
           },
           "an6.25:1.1": {
             "scid": "an6.25:1.1",
             "pli": "“Chayimāni, bhikkhave, anussatiṭṭhānāni. ",
-            "de": "„Mönche und Nonnen, es gibt sechs <span class=\"scv-matched\">Gegenstände zur Besinnung</span>. ",
+            "de": "„Mönche und Nonnen, es gibt sechs <span class=\"ebt-matched\">Gegenstände zur Besinnung</span>. ",
             "en": "“Mendicants, there are these six topics for recollection. ",
             "matched": true
           },
           "an6.25:8.1": {
             "scid": "an6.25:8.1",
             "pli": "Imāni kho, bhikkhave, cha anussatiṭṭhānānī”ti. ",
-            "de": "Das sind die sechs <span class=\"scv-matched\">Gegenstände zur Besinnung</span>.“ ",
+            "de": "Das sind die sechs <span class=\"ebt-matched\">Gegenstände zur Besinnung</span>.“ ",
             "en": "These are the six topics for recollection.” ",
             "matched": true
           }
@@ -229,14 +229,14 @@
           "an6.26:1.7": {
             "scid": "an6.26:1.7",
             "pli": "Yāvañcidaṁ tena bhagavatā jānatā passatā arahatā sammāsambuddhena sambādhe okāsādhigamo anubuddho sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ cha anussatiṭṭhānāni. ",
-            "de": "wie der Gesegnete, der weiß und sieht, der Vollendete, der vollkommen erwachte Buddha eine Öffnung in einem abgeschlossenen Raum gefunden hat, um die Wesen zu läutern, Kummer und Weinen zu überwinden, Schmerz und Traurigkeit ein Ende zu machen, den Kreislauf des Leidens zu beenden und das Erlöschen zu verwirklichen: nämlich die sechs <span class=\"scv-matched\">Gegenstände zur Besinnung</span>. ",
+            "de": "wie der Gesegnete, der weiß und sieht, der Vollendete, der vollkommen erwachte Buddha eine Öffnung in einem abgeschlossenen Raum gefunden hat, um die Wesen zu läutern, Kummer und Weinen zu überwinden, Schmerz und Traurigkeit ein Ende zu machen, den Kreislauf des Leidens zu beenden und das Erlöschen zu verwirklichen: nämlich die sechs <span class=\"ebt-matched\">Gegenstände zur Besinnung</span>. ",
             "en": "How this Blessed One who knows and sees, the perfected one, the fully awakened Buddha, has found an opening in a confined space; that is, the six topics for recollection. They are in order to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to end the cycle of suffering, and to realize extinguishment. ",
             "matched": true
           },
           "an6.26:8.2": {
             "scid": "an6.26:8.2",
             "pli": "Yāvañcidaṁ tena bhagavatā jānatā passatā arahatā sammāsambuddhena sambādhe okāsādhigamo anubuddho sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ cha anussatiṭṭhānānī”ti. ",
-            "de": "wie der Gesegnete, der weiß und sieht, der Vollendete, der vollkommen erwachte Buddha eine Öffnung in einem abgeschlossenen Raum gefunden hat, um die Wesen zu läutern, Kummer und Weinen zu überwinden, Schmerz und Traurigkeit ein Ende zu machen, den Kreislauf des Leidens zu beenden und das Erlöschen zu verwirklichen: nämlich die sechs <span class=\"scv-matched\">Gegenstände zur Besinnung</span>.“ ",
+            "de": "wie der Gesegnete, der weiß und sieht, der Vollendete, der vollkommen erwachte Buddha eine Öffnung in einem abgeschlossenen Raum gefunden hat, um die Wesen zu läutern, Kummer und Weinen zu überwinden, Schmerz und Traurigkeit ein Ende zu machen, den Kreislauf des Leidens zu beenden und das Erlöschen zu verwirklichen: nämlich die sechs <span class=\"ebt-matched\">Gegenstände zur Besinnung</span>.“ ",
             "en": "How this Blessed One who knows and sees, the perfected one, the fully awakened Buddha, has found an opening in a confined space; that is, the six topics for recollection. They are in order to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to end the cycle of suffering, and to realize extinguishment.” ",
             "matched": true
           }
@@ -268,7 +268,7 @@
           "dn33:2.2.114": {
             "scid": "dn33:2.2.114",
             "pli": "Cha anussatiṭṭhānāni—",
-            "de": "Sechs <span class=\"scv-matched\">Gegenstände zur Besinnung</span>: ",
+            "de": "Sechs <span class=\"ebt-matched\">Gegenstände zur Besinnung</span>: ",
             "en": "Six topics for recollection:",
             "matched": true
           }
@@ -300,7 +300,7 @@
           "dn34:1.7.14": {
             "scid": "dn34:1.7.14",
             "pli": "Cha anussatiṭṭhānāni—",
-            "de": "Sechs <span class=\"scv-matched\">Gegenstände zur Besinnung</span>: ",
+            "de": "Sechs <span class=\"ebt-matched\">Gegenstände zur Besinnung</span>: ",
             "en": "Six topics for recollection:",
             "matched": true
           }

@@ -4,18 +4,18 @@
     <v-expansion-panels multiple accordion flat v-model="panels">
       <v-expansion-panel >
         <v-expansion-panel-header>
-          scv-search-field
+          ebt-search-field
         </v-expansion-panel-header>
         <v-expansion-panel-content>
           <v-sheet light class="mt-5">
-            <scv-search-field
+            <ebt-search-field
               :lang="lang"
               :js="js"
               v-on:search-text="search"
             />
           </v-sheet>
           <details><summary class="ex-more">...</summary>
-            ScvSearchField is an auto-completion text field that accepts
+            EbtSearchField is an auto-completion text field that accepts
             Suttacentral sutta references as well as arbitrary search strings.
             Search strings are automatically completed with 
             <a :href="githubUrl('src/examples.js')"
@@ -28,72 +28,72 @@
 
       <v-expansion-panel>
         <v-expansion-panel-header>
-          scv-results
+          ebt-results
         </v-expansion-panel-header>
         <v-expansion-panel-content>
           <v-sheet light class="mt-5" style="min-width:22em; ">
-            <scv-results :lang="lang" 
+            <ebt-results :lang="lang" 
               :js="js"
             />
           </v-sheet>
           <details><summary class="ex-more">...</summary>
-            ScvResults displays multiple search results.
+            EbtResults displays multiple search results.
           </details>
         </v-expansion-panel-content>
       </v-expansion-panel>
 
       <v-expansion-panel>
         <v-expansion-panel-header>
-          scv-sutta
+          ebt-sutta
         </v-expansion-panel-header>
         <v-expansion-panel-content>
           <v-card light class="mt-5">
-            <scv-sutta :js="js" />
+            <ebt-sutta :js="js" />
           </v-card>
           <details><summary class="ex-more">...</summary>
-            ScvSutta displays a single sutta
+            EbtSutta displays a single sutta
           </details>
         </v-expansion-panel-content>
       </v-expansion-panel>
 
       <v-expansion-panel>
         <v-expansion-panel-header>
-          scv-tipitaka
+          ebt-tipitaka
         </v-expansion-panel-header>
         <v-expansion-panel-content>
           <v-sheet light class="mt-5" style="min-width:22em; ">
-            <scv-tipitaka :lang="lang" :js="js" />
+            <ebt-tipitaka :lang="lang" :js="js" />
           </v-sheet>
           <details><summary class="ex-more">...</summary>
-            ScvTipitaka displays Tipitaka structure
+            EbtTipitaka displays Tipitaka structure
           </details>
         </v-expansion-panel-content>
       </v-expansion-panel>
 
       <v-expansion-panel>
         <v-expansion-panel-header>
-          scv-cursor
+          ebt-cursor
         </v-expansion-panel-header>
         <v-expansion-panel-content>
           <v-sheet light class="mt-5" style="min-width:22em; ">
-            <scv-cursor :lang="lang" :js="js"/>
+            <ebt-cursor :lang="lang" :js="js"/>
           </v-sheet>
           <details><summary class="ex-more">...</summary>
-            ScvCursor displays sutta cursor 
+            EbtCursor displays sutta cursor 
           </details>
         </v-expansion-panel-content>
       </v-expansion-panel>
 
       <v-expansion-panel >
         <v-expansion-panel-header>
-          scv-settings
+          ebt-settings
         </v-expansion-panel-header>
         <v-expansion-panel-content>
           <v-sheet light class="mt-5">
-            <scv-settings :js="js" />
+            <ebt-settings :js="js" />
           </v-sheet>
           <details><summary class="ex-more">...</summary>
-            ScvSettings is menu for Voice settings
+            EbtSettings is menu for Voice settings
           </details>
         </v-expansion-panel-content>
       </v-expansion-panel>
@@ -104,12 +104,12 @@
 
 <script>
 import Vue from 'vue';
-import ScvSearchField from '~/components/scv-search-field.vue';
-import ScvResults from '~/components/scv-results.vue';
-import ScvSutta from '~/components/scv-sutta.vue';
-import ScvSettings from '~/components/scv-settings.vue';
-import ScvTipitaka from '~/components/scv-tipitaka.vue';
-import ScvCursor from '~/components/scv-cursor.vue';
+import EbtSearchField from '~/components/ebt-search-field.vue';
+import EbtResults from '~/components/ebt-results.vue';
+import EbtSutta from '~/components/ebt-sutta.vue';
+import EbtSettings from '~/components/ebt-settings.vue';
+import EbtTipitaka from '~/components/ebt-tipitaka.vue';
+import EbtCursor from '~/components/ebt-cursor.vue';
 
 const JS = {
   BilaraWeb: require('../src/bilara-web'),
@@ -118,12 +118,12 @@ const JS = {
 
 export default {
   components: {
-    ScvSearchField,
-    ScvResults,
-    ScvSutta,
-    ScvSettings,
-    ScvTipitaka,
-    ScvCursor,
+    EbtSearchField,
+    EbtResults,
+    EbtSutta,
+    EbtSettings,
+    EbtTipitaka,
+    EbtCursor,
   },
   data: function(){
     return {

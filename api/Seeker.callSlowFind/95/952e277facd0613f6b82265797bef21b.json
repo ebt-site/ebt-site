@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -69,13 +69,13 @@
           "an8.5:1.1": {
             "scid": "an8.5:1.1",
             "pli": "“Aṭṭhime, bhikkhave, lokadhammā lokaṁ anuparivattanti, loko ca aṭṭha lokadhamme anuparivattati. ",
-            "en": "“Mendicants, the <span class=\"scv-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around the <span class=\"scv-matched\">eight worldly conditions</span>. ",
+            "en": "“Mendicants, the <span class=\"ebt-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around the <span class=\"ebt-matched\">eight worldly conditions</span>. ",
             "matched": true
           },
           "an8.5:1.4": {
             "scid": "an8.5:1.4",
             "pli": "Ime kho, bhikkhave, aṭṭha lokadhammā lokaṁ anuparivattanti, loko ca ime aṭṭha lokadhamme anuparivattatīti. ",
-            "en": "These <span class=\"scv-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around these <span class=\"scv-matched\">eight worldly conditions</span>. ",
+            "en": "These <span class=\"ebt-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around these <span class=\"ebt-matched\">eight worldly conditions</span>. ",
             "matched": true
           }
         },
@@ -104,13 +104,13 @@
           "an8.6:1.1": {
             "scid": "an8.6:1.1",
             "pli": "“Aṭṭhime, bhikkhave, lokadhammā lokaṁ anuparivattanti, loko ca aṭṭha lokadhamme anuparivattati. ",
-            "en": "“Mendicants, the <span class=\"scv-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around the <span class=\"scv-matched\">eight worldly conditions</span>. ",
+            "en": "“Mendicants, the <span class=\"ebt-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around the <span class=\"ebt-matched\">eight worldly conditions</span>. ",
             "matched": true
           },
           "an8.6:1.4": {
             "scid": "an8.6:1.4",
             "pli": "Ime kho, bhikkhave, aṭṭha lokadhammā lokaṁ anuparivattanti, loko ca ime aṭṭha lokadhamme anuparivattati. ",
-            "en": "These <span class=\"scv-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around these <span class=\"scv-matched\">eight worldly conditions</span>. ",
+            "en": "These <span class=\"ebt-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around these <span class=\"ebt-matched\">eight worldly conditions</span>. ",
             "matched": true
           }
         },
@@ -139,13 +139,13 @@
           "an4.192:6.4": {
             "scid": "an4.192:6.4",
             "pli": "‘tathābhūto kho ayaṁ lokasannivāso tathābhūto ayaṁ attabhāvapaṭilābho yathābhūte lokasannivāse yathābhūte attabhāvapaṭilābhe aṭṭha lokadhammā lokaṁ anuparivattanti loko ca aṭṭha lokadhamme anuparivattati—",
-            "en": "‘The world’s like that. Reincarnation’s like that. That’s why the <span class=\"scv-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around the <span class=\"scv-matched\">eight worldly conditions</span>: ",
+            "en": "‘The world’s like that. Reincarnation’s like that. That’s why the <span class=\"ebt-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around the <span class=\"ebt-matched\">eight worldly conditions</span>: ",
             "matched": true
           },
           "an4.192:7.2": {
             "scid": "an4.192:7.2",
             "pli": "‘tathābhūto kho ayaṁ lokasannivāso tathābhūto ayaṁ attabhāvapaṭilābho yathābhūte lokasannivāse yathābhūte attabhāvapaṭilābhe aṭṭha lokadhammā lokaṁ anuparivattanti loko ca aṭṭha lokadhamme anuparivattati—",
-            "en": "‘The world’s like that. Reincarnation’s like that. That’s why the <span class=\"scv-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around the <span class=\"scv-matched\">eight worldly conditions</span>: ",
+            "en": "‘The world’s like that. Reincarnation’s like that. That’s why the <span class=\"ebt-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around the <span class=\"ebt-matched\">eight worldly conditions</span>: ",
             "matched": true
           }
         },
@@ -174,7 +174,7 @@
           "an10.27:17.5": {
             "scid": "an10.27:17.5",
             "pli": "Aṭṭhasu lokadhammesu—",
-            "en": "The <span class=\"scv-matched\">eight worldly conditions</span>. … ",
+            "en": "The <span class=\"ebt-matched\">eight worldly conditions</span>. … ",
             "matched": true
           }
         },
@@ -203,7 +203,7 @@
           "dn33:3.1.140": {
             "scid": "dn33:3.1.140",
             "pli": "Aṭṭha lokadhammā—",
-            "en": "<span class=\"scv-matched\">Eight worldly conditions</span>: ",
+            "en": "<span class=\"ebt-matched\">Eight worldly conditions</span>: ",
             "matched": true
           }
         },
@@ -232,7 +232,7 @@
           "dn34:2.1.35": {
             "scid": "dn34:2.1.35",
             "pli": "Aṭṭha lokadhammā—",
-            "en": "<span class=\"scv-matched\">Eight worldly conditions</span>: ",
+            "en": "<span class=\"ebt-matched\">Eight worldly conditions</span>: ",
             "matched": true
           }
         },

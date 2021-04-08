@@ -1,32 +1,32 @@
 <template>
-  <div v-if="sutta && sutta.sutta_uid" class="scv-sutta" >
-    <header class="scv-header-class">
-      <scv-history :js="js" />
+  <div v-if="sutta && sutta.sutta_uid" class="ebt-sutta" >
+    <header class="ebt-header-class">
+      <ebt-history :js="js" />
     </header>
-    <div class="scv-text-container" @click="textClicked($event)">
+    <div class="ebt-text-container" @click="textClicked($event)">
       <div v-for="seg in segments" :key="seg.scid" 
         :id="seg.scid"
         @click="clickSegment(seg)"
         :class="segmentClass(seg)">
-        <div v-if="settings.showId" class="scv-scid">{{seg.scid}}</div>
-        <div v-if="settings.showPali" v-html="seg.pli" class="scv-text-root"/>
-        <div v-if="settings.showTrans" v-html="seg[sutta.lang]" class="scv-text-trans"/>
+        <div v-if="settings.showId" class="ebt-scid">{{seg.scid}}</div>
+        <div v-if="settings.showPali" v-html="seg.pli" class="ebt-text-root"/>
+        <div v-if="settings.showTrans" v-html="seg[sutta.lang]" class="ebt-text-trans"/>
       </div>
-    </div><!-- scv-text-container -->
-    <footer class="scv-footer">
-        <scv-tipitaka :js="js" />
+    </div><!-- ebt-text-container -->
+    <footer class="ebt-footer">
+        <ebt-tipitaka :js="js" />
     </footer>
   </div>
 </template>
 
 <script>
-import ScvHistory from './scv-history'
-import ScvTipitaka from './scv-tipitaka'
+import EbtHistory from './ebt-history'
+import EbtTipitaka from './ebt-tipitaka'
 
 export default {
   components: {
-    ScvHistory,
-    ScvTipitaka,
+    EbtHistory,
+    EbtTipitaka,
   },
   props: {
     js: Object,
@@ -42,38 +42,38 @@ export default {
   methods:{
     clickSegment(seg) {
       let { $store } = this;
-      $store.commit('scv/cursorScid', seg.scid);
+      $store.commit('ebt/cursorScid', seg.scid);
     },
     title(n) {
         return this.titles[n] || {};
     },
     textClicked(event) {
       let { sutta, lang, $store } = this;
-      if (event.target.className === 'scv-matched') {
+      if (event.target.className === 'ebt-matched') {
         let text = event.target.innerText;
         let pattern = this.bilaraWeb.exampleOfMatch(text, lang);
         console.log(`textClicked`, event, text, 'example:', pattern, lang);
         if (pattern) {
-          $store.dispatch('scv/loadExample', {pattern, lang});
+          $store.dispatch('ebt/loadExample', {pattern, lang});
         }
       }
     },
     segmentClass(seg) {
-        let { cursor, fullLine } = this.$store.state.scv.settings;
+        let { cursor, fullLine } = this.$store.state.ebt.settings;
         let { scid } = seg;
         let { titles } = this;
-        let segClass = "scv-segment";
+        let segClass = "ebt-segment";
         if (/:0.1$/.test(scid)) {
-          segClass = `scv-division`;
+          segClass = `ebt-division`;
         } else if (/:0/.test(scid)) {
-          segClass = `scv-sutta-title`;
+          segClass = `ebt-sutta-title`;
         }
         if (!fullLine) {
-          segClass += ' scv-side-by-side';
+          segClass += ' ebt-side-by-side';
         }
 
         return cursor && seg.scid === cursor.scid
-            ? `${segClass} scv-sutta-cursor`
+            ? `${segClass} ebt-sutta-cursor`
             : `${segClass}`;
     },
   },
@@ -86,10 +86,10 @@ export default {
       return this.sutta.segments;
     },
     settings() {
-      return this.$store.state.scv.settings;
+      return this.$store.state.ebt.settings;
     },
     sutta() {
-      return this.$store.state.scv.sutta;
+      return this.$store.state.ebt.sutta;
     },
     lang() {
       return this.sutta.lang || 'en';

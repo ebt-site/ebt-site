@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -78,25 +78,25 @@
           "mn86:2.1": {
             "scid": "mn86:2.1",
             "pli": "Tena kho pana samayena rañño pasenadissa kosalassa vijite coro aṅgulimālo nāma hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. ",
-            "en": "Now at that time in the realm of King Pasenadi of Kosala there was a bandit named Aṅgulimāla. He was violent, bloody-handed, <span class=\"scv-matched\">a hardened killer</span>, merciless to living beings. ",
+            "en": "Now at that time in the realm of King Pasenadi of Kosala there was a bandit named Aṅgulimāla. He was violent, bloody-handed, <span class=\"ebt-matched\">a hardened killer</span>, merciless to living beings. ",
             "matched": true
           },
           "mn86:3.6": {
             "scid": "mn86:3.6",
             "pli": "Etasmiṁ, samaṇa, magge coro aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. ",
-            "en": "On this road there is a bandit named Aṅgulimāla. He is violent, bloody-handed, <span class=\"scv-matched\">a hardened killer</span>, merciless to living beings. ",
+            "en": "On this road there is a bandit named Aṅgulimāla. He is violent, bloody-handed, <span class=\"ebt-matched\">a hardened killer</span>, merciless to living beings. ",
             "matched": true
           },
           "mn86:8.2": {
             "scid": "mn86:8.2",
             "pli": "“coro te, deva, vijite aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. ",
-            "en": "“In your realm, Your Majesty, there is a bandit named Aṅgulimāla. He is violent, bloody-handed, <span class=\"scv-matched\">a hardened killer</span>, merciless to living beings. ",
+            "en": "“In your realm, Your Majesty, there is a bandit named Aṅgulimāla. He is violent, bloody-handed, <span class=\"ebt-matched\">a hardened killer</span>, merciless to living beings. ",
             "matched": true
           },
           "mn86:10.2": {
             "scid": "mn86:10.2",
             "pli": "Coro me, bhante, vijite aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. ",
-            "en": "In my realm there is a bandit named Aṅgulimāla. He is violent, bloody-handed, <span class=\"scv-matched\">a hardened killer</span>, merciless to living beings. … ",
+            "en": "In my realm there is a bandit named Aṅgulimāla. He is violent, bloody-handed, <span class=\"ebt-matched\">a hardened killer</span>, merciless to living beings. … ",
             "matched": true
           }
         },
@@ -125,7 +125,7 @@
           "an10.211:1.3": {
             "scid": "an10.211:1.3",
             "pli": "Idha, bhikkhave, ekacco pāṇātipātī hoti, luddo lohitapāṇi hatapahate niviṭṭho adayāpanno sabbapāṇabhūtesu. ",
-            "en": "It’s when a certain person kills living creatures. They’re violent, bloody-handed, <span class=\"scv-matched\">a hardened killer</span>, merciless to living beings. ",
+            "en": "It’s when a certain person kills living creatures. They’re violent, bloody-handed, <span class=\"ebt-matched\">a hardened killer</span>, merciless to living beings. ",
             "matched": true
           }
         },
@@ -154,7 +154,7 @@
           "an10.212:1.3": {
             "scid": "an10.212:1.3",
             "pli": "Idha, bhikkhave, ekacco pāṇātipātī hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno sabbapāṇabhūtesu. ",
-            "en": "It’s when a certain person kills living creatures. They’re violent, bloody-handed, <span class=\"scv-matched\">a hardened killer</span>, merciless to living beings. ",
+            "en": "It’s when a certain person kills living creatures. They’re violent, bloody-handed, <span class=\"ebt-matched\">a hardened killer</span>, merciless to living beings. ",
             "matched": true
           }
         },
@@ -183,7 +183,7 @@
           "an10.217:3.2": {
             "scid": "an10.217:3.2",
             "pli": "Idha, bhikkhave, ekacco pāṇātipātī hoti, luddo lohitapāṇi hatapahate niviṭṭho adayāpanno sabbapāṇabhūtesu. ",
-            "en": "It’s when a certain person kills living creatures. They’re violent, bloody-handed, <span class=\"scv-matched\">a hardened killer</span>, merciless to living beings. ",
+            "en": "It’s when a certain person kills living creatures. They’re violent, bloody-handed, <span class=\"ebt-matched\">a hardened killer</span>, merciless to living beings. ",
             "matched": true
           }
         },
@@ -212,7 +212,7 @@
           "an10.216:3.1": {
             "scid": "an10.216:3.1",
             "pli": "Idha, bhikkhave, ekacco pāṇātipātī hoti luddo lohitapāṇi hatapahate niviṭṭho, adayāpanno sabbapāṇabhūtesu. ",
-            "en": "Take a certain person who kills living creatures. They’re violent, bloody-handed, <span class=\"scv-matched\">a hardened killer</span>, merciless to living beings. ",
+            "en": "Take a certain person who kills living creatures. They’re violent, bloody-handed, <span class=\"ebt-matched\">a hardened killer</span>, merciless to living beings. ",
             "matched": true
           }
         },
@@ -241,7 +241,7 @@
           "an10.176:6.2": {
             "scid": "an10.176:6.2",
             "pli": "Idha, cunda, ekacco pāṇātipātī hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno sabbapāṇabhūtesu. ",
-            "en": "It’s when a certain person kills living creatures. They’re violent, bloody-handed, <span class=\"scv-matched\">a hardened killer</span>, merciless to living beings. ",
+            "en": "It’s when a certain person kills living creatures. They’re violent, bloody-handed, <span class=\"ebt-matched\">a hardened killer</span>, merciless to living beings. ",
             "matched": true
           }
         },
@@ -270,7 +270,7 @@
           "mn41:8.2": {
             "scid": "mn41:8.2",
             "pli": "Idha, gahapatayo, ekacco pāṇātipātī hoti, luddo lohitapāṇi hatappahate niviṭṭho adayāpanno pāṇabhūtesu. ",
-            "en": "It’s when a certain person kills living creatures. They’re violent, bloody-handed, <span class=\"scv-matched\">a hardened killer</span>, merciless to living beings. ",
+            "en": "It’s when a certain person kills living creatures. They’re violent, bloody-handed, <span class=\"ebt-matched\">a hardened killer</span>, merciless to living beings. ",
             "matched": true
           }
         },
@@ -299,7 +299,7 @@
           "mn135:5.1": {
             "scid": "mn135:5.1",
             "pli": "“Idha, māṇava, ekacco itthī vā puriso vā pāṇātipātī hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. ",
-            "en": "“Take some woman or man who kills living creatures. They’re violent, bloody-handed, <span class=\"scv-matched\">a hardened killer</span>, merciless to living beings. ",
+            "en": "“Take some woman or man who kills living creatures. They’re violent, bloody-handed, <span class=\"ebt-matched\">a hardened killer</span>, merciless to living beings. ",
             "matched": true
           }
         },
@@ -328,7 +328,7 @@
           "mn114:5.9": {
             "scid": "mn114:5.9",
             "pli": "Idha, bhante, ekacco pāṇātipātī hoti luddo lohitapāṇi hatappahate niviṭṭho adayāpanno pāṇabhūtesu; ",
-            "en": "It’s when someone kills living creatures. They’re violent, bloody-handed, <span class=\"scv-matched\">a hardened killer</span>, merciless to living beings. ",
+            "en": "It’s when someone kills living creatures. They’re violent, bloody-handed, <span class=\"ebt-matched\">a hardened killer</span>, merciless to living beings. ",
             "matched": true
           }
         },

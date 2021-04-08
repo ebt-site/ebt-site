@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn35.108:3.1": {
             "scid": "sn35.108:3.1",
             "pli": "“Cakkhusmiṁ kho, bhikkhave, sati cakkhuṁ upādāya cakkhuṁ abhinivissa seyyohamasmīti vā hoti, sadisohamasmīti vā hoti, hīnohamasmīti vā hoti …pe… ",
-            "en": "“When there’s an eye, because of <span class=\"scv-matched\">grasping the eye</span> and insisting on the eye, people think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’. … ",
+            "en": "“When there’s an eye, because of <span class=\"ebt-matched\">grasping the eye</span> and insisting on the eye, people think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’. … ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "sn35.105:3.1": {
             "scid": "sn35.105:3.1",
             "pli": "“Cakkhusmiṁ kho, bhikkhave, sati cakkhuṁ upādāya uppajjati ajjhattaṁ sukhaṁ dukkhaṁ …pe… ",
-            "en": "“Mendicants, when there’s an eye, because of <span class=\"scv-matched\">grasping the eye</span>, pleasure and pain arise in oneself. … ",
+            "en": "“Mendicants, when there’s an eye, because of <span class=\"ebt-matched\">grasping the eye</span>, pleasure and pain arise in oneself. … ",
             "matched": true
           }
         },

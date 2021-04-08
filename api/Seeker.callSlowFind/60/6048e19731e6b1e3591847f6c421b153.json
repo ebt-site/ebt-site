@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn22.95:15.2": {
             "scid": "sn22.95:15.2",
             "pli": "kareyya saraṇattano; ",
-            "en": "and <span class=\"scv-matched\">make a refuge for themselves</span>. ",
+            "en": "and <span class=\"ebt-matched\">make a refuge for themselves</span>. ",
             "matched": true
           }
         },

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an4.198:10.2": {
             "scid": "an4.198:10.2",
             "pli": "Seyyathāpi nāma pakkhī sakuṇo yena yeneva ḍeti, sapattabhārova ḍeti; ",
-            "de": "Wie ein Vogel: <span class=\"scv-matched\">Wohin er fliegt</span>, da hat er nur seine Flügel dabei. ",
+            "de": "Wie ein Vogel: <span class=\"ebt-matched\">Wohin er fliegt</span>, da hat er nur seine Flügel dabei. ",
             "en": "They’re like a bird: wherever it flies, wings are its only burden. ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "dn10:2.4.3": {
             "scid": "dn10:2.4.3",
             "pli": "Seyyathāpi, māṇava, pakkhī sakuṇo yena yeneva ḍeti, sapattabhārova ḍeti; ",
-            "de": "Wie ein Vogel: <span class=\"scv-matched\">Wohin er fliegt</span>, da hat er nur seine Flügel dabei. ",
+            "de": "Wie ein Vogel: <span class=\"ebt-matched\">Wohin er fliegt</span>, da hat er nur seine Flügel dabei. ",
             "en": "They’re like a bird: wherever it flies, wings are its only burden. ",
             "matched": true
           }

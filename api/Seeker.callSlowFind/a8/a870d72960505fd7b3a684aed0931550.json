@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn10.12:7.2": {
             "scid": "sn10.12:7.2",
             "pli": "dhammaṁ nibbānapattiyā; ",
-            "en": "<span class=\"scv-matched\">gains wisdom by wanting</span> to learn, ",
+            "en": "<span class=\"ebt-matched\">gains wisdom by wanting</span> to learn, ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,25 +54,25 @@
           "sn46.52:9.10": {
             "scid": "sn46.52:9.10",
             "pli": "Yadapi, bhikkhave, ajjhattaṁ dhammesu vicikicchā tadapi nīvaraṇaṁ, yadapi bahiddhā dhammesu vicikicchā tadapi nīvaraṇaṁ. ",
-            "en": "Doubt about <span class=\"scv-matched\">internal things</span> is a hindrance; and doubt about external things is also a hindrance. ",
+            "en": "Doubt about <span class=\"ebt-matched\">internal things</span> is a hindrance; and doubt about external things is also a hindrance. ",
             "matched": true
           },
           "sn46.52:10.2": {
             "scid": "sn46.52:10.2",
             "pli": "Yadapi, bhikkhave, ajjhattaṁ dhammesu sati tadapi satisambojjhaṅgo, yadapi bahiddhā dhammesu sati tadapi satisambojjhaṅgo. ",
-            "en": "Mindfulness of <span class=\"scv-matched\">internal things</span> is the awakening factor of mindfulness; and mindfulness of external things is also the awakening factor of mindfulness. ",
+            "en": "Mindfulness of <span class=\"ebt-matched\">internal things</span> is the awakening factor of mindfulness; and mindfulness of external things is also the awakening factor of mindfulness. ",
             "matched": true
           },
           "sn46.52:11.1": {
             "scid": "sn46.52:11.1",
             "pli": "Yadapi, bhikkhave, ajjhattaṁ dhammesu paññāya pavicinati pavicarati parivīmaṁsamāpajjati tadapi dhammavicayasambojjhaṅgo, yadapi bahiddhā dhammesu paññāya pavicinati pavicarati parivīmaṁsamāpajjati tadapi dhammavicayasambojjhaṅgo. ",
-            "en": "Investigating, exploring, and inquiring into <span class=\"scv-matched\">internal things</span> with wisdom is the awakening factor of investigation of principles; and investigating, exploring, and inquiring into external things with wisdom is also the awakening factor of investigation of principles. ",
+            "en": "Investigating, exploring, and inquiring into <span class=\"ebt-matched\">internal things</span> with wisdom is the awakening factor of investigation of principles; and investigating, exploring, and inquiring into external things with wisdom is also the awakening factor of investigation of principles. ",
             "matched": true
           },
           "sn46.52:16.1": {
             "scid": "sn46.52:16.1",
             "pli": "Yadapi, bhikkhave, ajjhattaṁ dhammesu upekkhā tadapi upekkhāsambojjhaṅgo, yadapi bahiddhā dhammesu upekkhā tadapi upekkhāsambojjhaṅgo. ",
-            "en": "Equanimity for <span class=\"scv-matched\">internal things</span> is the awakening factor of equanimity; and equanimity for external things is also the awakening factor of equanimity. ",
+            "en": "Equanimity for <span class=\"ebt-matched\">internal things</span> is the awakening factor of equanimity; and equanimity for external things is also the awakening factor of equanimity. ",
             "matched": true
           }
         },

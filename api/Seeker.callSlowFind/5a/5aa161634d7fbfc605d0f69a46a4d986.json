@@ -14,7 +14,7 @@
       "searchLang": "jpn",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "jpn",
       "types": [
         "root",
@@ -58,21 +58,21 @@
             "scid": "an3.16:0.3",
             "pli": "16. Apaṇṇakasutta ",
             "en": "16. Guaranteed ",
-            "jpn": "16. <span class=\"scv-matched\">保証され</span>ている事",
+            "jpn": "16. <span class=\"ebt-matched\">保証され</span>ている事",
             "matched": true
           },
           "an3.16:1.1": {
             "scid": "an3.16:1.1",
             "pli": "“Tīhi, bhikkhave, dhammehi samannāgato bhikkhu apaṇṇakapaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāya. ",
             "en": "“Mendicants, when a mendicant has three things their practice is guaranteed, and they have laid the groundwork for ending the defilements. ",
-            "jpn": "「托鉢僧侶たちよ、托鉢僧侶が三つのものを備えている時、道は<span class=\"scv-matched\">保証され</span>ていて、穢れを終わらせる基礎作りをすでに始めています。",
+            "jpn": "「托鉢僧侶たちよ、托鉢僧侶が三つのものを備えている時、道は<span class=\"ebt-matched\">保証され</span>ていて、穢れを終わらせる基礎作りをすでに始めています。",
             "matched": true
           },
           "an3.16:4.4": {
             "scid": "an3.16:4.4",
             "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu apaṇṇakapaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāyā”ti. ",
             "en": "When a mendicant has these three things their practice is guaranteed, and they have laid the groundwork for ending the defilements.” ",
-            "jpn": "托鉢僧侶が、これら三つのものを備えている時、道は<span class=\"scv-matched\">保証され</span>ていて、穢れを終わらせる基礎作りをすでに始めているのです。」",
+            "jpn": "托鉢僧侶が、これら三つのものを備えている時、道は<span class=\"ebt-matched\">保証され</span>ていて、穢れを終わらせる基礎作りをすでに始めているのです。」",
             "matched": true
           }
         },

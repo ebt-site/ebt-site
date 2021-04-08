@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "an5.176:3.11": {
             "scid": "an5.176:3.11",
             "pli": "Yampissa kāmūpasaṁhitaṁ dukkhaṁ domanassaṁ, tampissa tasmiṁ samaye na hoti. ",
-            "en": "The pain and <span class=\"scv-matched\">sadness connected with sensual pleasures</span>. ",
+            "en": "The pain and <span class=\"ebt-matched\">sadness connected with sensual pleasures</span>. ",
             "matched": true
           },
           "an5.176:4.3": {
             "scid": "an5.176:4.3",
             "pli": "Yampissa kāmūpasaṁhitaṁ dukkhaṁ domanassaṁ, tampissa tasmiṁ samaye na hoti. ",
-            "en": "The pain and <span class=\"scv-matched\">sadness connected with sensual pleasures</span>. ",
+            "en": "The pain and <span class=\"ebt-matched\">sadness connected with sensual pleasures</span>. ",
             "matched": true
           }
         },

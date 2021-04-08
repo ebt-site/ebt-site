@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,84 +57,84 @@
           "an3.63:6.9": {
             "scid": "an3.63:6.9",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto caṅkamāmi, dibbo me eso tasmiṁ samaye caṅkamo hoti. ",
-            "de": "<span class=\"scv-matched\">Wenn ich so übe</span> und gehe, dann gehe ich wie die Götter. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich so übe</span> und gehe, dann gehe ich wie die Götter. ",
             "en": "When I’m practicing like this, if I walk, at that time I walk like the gods. ",
             "matched": true
           },
           "an3.63:6.10": {
             "scid": "an3.63:6.10",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto tiṭṭhāmi, dibbaṁ me etaṁ tasmiṁ samaye ṭhānaṁ hoti. ",
-            "de": "<span class=\"scv-matched\">Wenn ich so übe</span> und stehe, dann stehe ich wie die Götter. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich so übe</span> und stehe, dann stehe ich wie die Götter. ",
             "en": "When I’m practicing like this, if I stand, at that time I stand like the gods. ",
             "matched": true
           },
           "an3.63:6.11": {
             "scid": "an3.63:6.11",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto nisīdāmi, dibbaṁ me etaṁ tasmiṁ samaye āsanaṁ hoti. ",
-            "de": "<span class=\"scv-matched\">Wenn ich so übe</span> und sitze, dann sitze ich wie die Götter. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich so übe</span> und sitze, dann sitze ich wie die Götter. ",
             "en": "When I’m practicing like this, if I sit, at that time I sit like the gods. ",
             "matched": true
           },
           "an3.63:6.12": {
             "scid": "an3.63:6.12",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto seyyaṁ kappemi, dibbaṁ me etaṁ tasmiṁ samaye uccāsayanamahāsayanaṁ hoti. ",
-            "de": "<span class=\"scv-matched\">Wenn ich so übe</span> und liege, dann liege ich wie die Götter. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich so übe</span> und liege, dann liege ich wie die Götter. ",
             "en": "When I’m practicing like this, if I lie down, at that time I lie down like the gods. ",
             "matched": true
           },
           "an3.63:8.9": {
             "scid": "an3.63:8.9",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto caṅkamāmi, brahmā me eso tasmiṁ samaye caṅkamo hoti. ",
-            "de": "<span class=\"scv-matched\">Wenn ich so übe</span> und gehe, dann gehe ich wie Brahmā. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich so übe</span> und gehe, dann gehe ich wie Brahmā. ",
             "en": "When I’m practicing like this, if I walk, at that time I walk like Brahmā. ",
             "matched": true
           },
           "an3.63:8.10": {
             "scid": "an3.63:8.10",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto tiṭṭhāmi …pe… ",
-            "de": "<span class=\"scv-matched\">Wenn ich so übe</span> und stehe, dann stehe ich wie Brahmā. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich so übe</span> und stehe, dann stehe ich wie Brahmā. ",
             "en": "… I stand like Brahmā. … ",
             "matched": true
           },
           "an3.63:8.11": {
             "scid": "an3.63:8.11",
             "pli": "nisīdāmi …pe… ",
-            "de": "<span class=\"scv-matched\">Wenn ich so übe</span> und sitze, dann sitze ich wie Brahmā. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich so übe</span> und sitze, dann sitze ich wie Brahmā. ",
             "en": "I sit like Brahmā … ",
             "matched": true
           },
           "an3.63:8.12": {
             "scid": "an3.63:8.12",
             "pli": "seyyaṁ kappemi, brahmaṁ me etaṁ tasmiṁ samaye uccāsayanamahāsayanaṁ hoti. ",
-            "de": "<span class=\"scv-matched\">Wenn ich so übe</span> und liege, dann liege ich wie Brahmā. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich so übe</span> und liege, dann liege ich wie Brahmā. ",
             "en": "When I’m practicing like this, if I lie down, at that time I lie down like Brahmā. ",
             "matched": true
           },
           "an3.63:10.9": {
             "scid": "an3.63:10.9",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto caṅkamāmi, ariyo me eso tasmiṁ samaye caṅkamo hoti. ",
-            "de": "<span class=\"scv-matched\">Wenn ich so übe</span> und gehe, dann gehe ich wie die Edlen. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich so übe</span> und gehe, dann gehe ich wie die Edlen. ",
             "en": "When I’m practicing like this, if I walk, at that time I walk like the noble ones. ",
             "matched": true
           },
           "an3.63:10.10": {
             "scid": "an3.63:10.10",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto tiṭṭhāmi …pe… ",
-            "de": "<span class=\"scv-matched\">Wenn ich so übe</span> und stehe, dann stehe ich wie die Edlen. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich so übe</span> und stehe, dann stehe ich wie die Edlen. ",
             "en": "… I stand like the noble ones … ",
             "matched": true
           },
           "an3.63:10.11": {
             "scid": "an3.63:10.11",
             "pli": "nisīdāmi …pe… ",
-            "de": "<span class=\"scv-matched\">Wenn ich so übe</span> und sitze, dann sitze ich wie die Edlen. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich so übe</span> und sitze, dann sitze ich wie die Edlen. ",
             "en": "I sit like the noble ones … ",
             "matched": true
           },
           "an3.63:10.12": {
             "scid": "an3.63:10.12",
             "pli": "seyyaṁ kappemi, ariyaṁ me etaṁ tasmiṁ samaye uccāsayanamahāsayanaṁ hoti. ",
-            "de": "<span class=\"scv-matched\">Wenn ich so übe</span> und liege, dann liege ich wie die Edlen. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich so übe</span> und liege, dann liege ich wie die Edlen. ",
             "en": "When I’m practicing like this, if I lie down, at that time I lie down like the noble ones. ",
             "matched": true
           }

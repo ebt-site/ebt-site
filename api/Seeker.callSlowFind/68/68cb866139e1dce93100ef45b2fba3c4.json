@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,19 +66,19 @@
           "an10.29:4.1": {
             "scid": "an10.29:4.1",
             "pli": "Dasayimāni, bhikkhave, kasiṇāyatanāni. ",
-            "en": "There are these <span class=\"scv-matched\">ten universal dimensions</span> of meditation. ",
+            "en": "There are these <span class=\"ebt-matched\">ten universal dimensions</span> of meditation. ",
             "matched": true
           },
           "an10.29:4.13": {
             "scid": "an10.29:4.13",
             "pli": "Imāni kho, bhikkhave, dasa kasiṇāyatanāni. ",
-            "en": "These are the <span class=\"scv-matched\">ten universal dimensions</span> of meditation. ",
+            "en": "These are the <span class=\"ebt-matched\">ten universal dimensions</span> of meditation. ",
             "matched": true
           },
           "an10.29:5.1": {
             "scid": "an10.29:5.1",
             "pli": "Etadaggaṁ, bhikkhave, imesaṁ dasannaṁ kasiṇāyatanānaṁ yadidaṁ viññāṇakasiṇaṁ eko sañjānāti uddhaṁ adho tiriyaṁ advayaṁ appamāṇaṁ. ",
-            "en": "The best of these <span class=\"scv-matched\">ten universal dimensions</span> of meditation is when someone perceives the meditation on universal consciousness above, below, across, non-dual and limitless. ",
+            "en": "The best of these <span class=\"ebt-matched\">ten universal dimensions</span> of meditation is when someone perceives the meditation on universal consciousness above, below, across, non-dual and limitless. ",
             "matched": true
           }
         },
@@ -107,13 +107,13 @@
           "an10.25:1.1": {
             "scid": "an10.25:1.1",
             "pli": "“Dasayimāni, bhikkhave, kasiṇāyatanāni. ",
-            "en": "“Mendicants, there are these <span class=\"scv-matched\">ten universal dimensions</span> of meditation. ",
+            "en": "“Mendicants, there are these <span class=\"ebt-matched\">ten universal dimensions</span> of meditation. ",
             "matched": true
           },
           "an10.25:1.13": {
             "scid": "an10.25:1.13",
             "pli": "Imāni kho, bhikkhave, dasa kasiṇāyatanānī”ti. ",
-            "en": "These are the <span class=\"scv-matched\">ten universal dimensions</span> of meditation.” ",
+            "en": "These are the <span class=\"ebt-matched\">ten universal dimensions</span> of meditation.” ",
             "matched": true
           }
         },
@@ -142,7 +142,7 @@
           "mn77:24.1": {
             "scid": "mn77:24.1",
             "pli": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā dasa kasiṇāyatanāni bhāventi. ",
-            "en": "Furthermore, I have explained to my disciples a practice that they use to develop the <span class=\"scv-matched\">ten universal dimensions</span> of meditation. ",
+            "en": "Furthermore, I have explained to my disciples a practice that they use to develop the <span class=\"ebt-matched\">ten universal dimensions</span> of meditation. ",
             "matched": true
           }
         },
@@ -171,7 +171,7 @@
           "dn33:3.3.35": {
             "scid": "dn33:3.3.35",
             "pli": "Dasa kasiṇāyatanāni. ",
-            "en": "<span class=\"scv-matched\">Ten universal dimensions</span> of meditation. ",
+            "en": "<span class=\"ebt-matched\">Ten universal dimensions</span> of meditation. ",
             "matched": true
           }
         },
@@ -200,7 +200,7 @@
           "dn34:2.3.36": {
             "scid": "dn34:2.3.36",
             "pli": "Dasa kasiṇāyatanāni—",
-            "en": "<span class=\"scv-matched\">Ten universal dimensions</span> of meditation. ",
+            "en": "<span class=\"ebt-matched\">Ten universal dimensions</span> of meditation. ",
             "matched": true
           }
         },

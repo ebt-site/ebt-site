@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "sn6.1:5.2": {
             "scid": "sn6.1:5.2",
             "pli": "“nassati vata bho loko, vinassati vata bho loko, yatra hi nāma tathāgatassa arahato sammāsambuddhassa appossukkatāya cittaṁ namati, no dhammadesanāyā”ti. ",
-            "de": "„<span class=\"scv-matched\">Du lieber Himmel</span>! Die Welt ist verloren, die Welt geht unter! Denn der Geist des Klargewordenen, des Vollendeten, des vollkommen erwachten Buddha neigt dazu, untätig zu bleiben, nicht dazu, den Dhamma zu lehren.“ ",
+            "de": "„<span class=\"ebt-matched\">Du lieber Himmel</span>! Die Welt ist verloren, die Welt geht unter! Denn der Geist des Klargewordenen, des Vollendeten, des vollkommen erwachten Buddha neigt dazu, untätig zu bleiben, nicht dazu, den Dhamma zu lehren.“ ",
             "en": "“Oh my goodness! The world will be lost, the world will perish! For the mind of the Realized One, the perfected one, the fully awakened Buddha, inclines to remaining passive, not to teaching the Dhamma.” ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "dn14:3.2.12": {
             "scid": "dn14:3.2.12",
             "pli": "‘nassati vata bho loko, vinassati vata bho loko, yatra hi nāma vipassissa bhagavato arahato sammāsambuddhassa appossukkatāya cittaṁ namati, no dhammadesanāyā’ti. ",
-            "de": "‚<span class=\"scv-matched\">Du lieber Himmel</span>! Die Welt ist verloren, die Welt geht unter! Denn der Geist Vipassīs des Gesegneten, des Vollendeten, des vollkommen erwachten Buddha neigt dazu, untätig zu bleiben, nicht dazu, den Dhamma zu lehren.‘ ",
+            "de": "‚<span class=\"ebt-matched\">Du lieber Himmel</span>! Die Welt ist verloren, die Welt geht unter! Denn der Geist Vipassīs des Gesegneten, des Vollendeten, des vollkommen erwachten Buddha neigt dazu, untätig zu bleiben, nicht dazu, den Dhamma zu lehren.‘ ",
             "en": "‘Oh my goodness! The world will be lost, the world will perish! For the mind of the Blessed One Vipassī, the perfected one, the fully awakened Buddha, inclines to remaining passive, not to teaching the Dhamma.’ ",
             "matched": true
           }

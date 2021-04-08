@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "mn39:14.13": {
             "scid": "mn39:14.13",
             "pli": "Seyyathāpi, bhikkhave, puriso bandhanāgāre baddho assa. ",
-            "en": "Suppose a person was <span class=\"scv-matched\">imprisoned in a jail</span>. ",
+            "en": "Suppose a person was <span class=\"ebt-matched\">imprisoned in a jail</span>. ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "dn10:2.9.1": {
             "scid": "dn10:2.9.1",
             "pli": "Seyyathāpi, māṇava, puriso bandhanāgāre baddho assa. ",
-            "en": "Suppose a person was <span class=\"scv-matched\">imprisoned in a jail</span>. ",
+            "en": "Suppose a person was <span class=\"ebt-matched\">imprisoned in a jail</span>. ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "dn2:71.1": {
             "scid": "dn2:71.1",
             "pli": "Seyyathāpi, mahārāja, puriso bandhanāgāre baddho assa. ",
-            "en": "Suppose a person was <span class=\"scv-matched\">imprisoned in a jail</span>. ",
+            "en": "Suppose a person was <span class=\"ebt-matched\">imprisoned in a jail</span>. ",
             "matched": true
           }
         },

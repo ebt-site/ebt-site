@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -99,7 +99,7 @@
           "an5.133:1.1": {
             "scid": "an5.133:1.1",
             "pli": "“Yopi so, bhikkhave, rājā cakkavattī dhammiko dhammarājā, sopi na arājakaṁ cakkaṁ vattetī”ti. ",
-            "en": "“Mendicants, even a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>, does not wield power without having their own king.” ",
+            "en": "“Mendicants, even a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>, does not wield power without having their own king.” ",
             "matched": true
           },
           "an5.133:1.3": {
@@ -111,13 +111,13 @@
           "an5.133:4.1": {
             "scid": "an5.133:4.1",
             "pli": "Evamevaṁ kho, bhikkhu, tathāgato arahaṁ sammāsambuddho dhammiko dhammarājā dhammaññeva nissāya dhammaṁ sakkaronto dhammaṁ garuṁ karonto dhammaṁ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṁ rakkhāvaraṇaguttiṁ saṁvidahati bhikkhūsu: ",
-            "en": "In the same way, monk, a Realized One, a perfected one, a fully awakened Buddha, <span class=\"scv-matched\">a just and principled king</span>, provides just protection and security for the monks, relying only on principle—honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ",
+            "en": "In the same way, monk, a Realized One, a perfected one, a fully awakened Buddha, <span class=\"ebt-matched\">a just and principled king</span>, provides just protection and security for the monks, relying only on principle—honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ",
             "matched": true
           },
           "an5.133:5.1": {
             "scid": "an5.133:5.1",
             "pli": "Puna caparaṁ, bhikkhu, tathāgato arahaṁ sammāsambuddho dhammiko dhammarājā dhammaññeva nissāya dhammaṁ sakkaronto dhammaṁ garuṁ karonto dhammaṁ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṁ rakkhāvaraṇaguttiṁ saṁvidahati bhikkhunīsu …pe… upāsakesu …pe… upāsikāsu: ",
-            "en": "In the same way, monk, a Realized One, a perfected one, a fully awakened Buddha, <span class=\"scv-matched\">a just and principled king</span>, provides just protection and security for the nuns … laymen … laywomen, relying only on principle—honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ",
+            "en": "In the same way, monk, a Realized One, a perfected one, a fully awakened Buddha, <span class=\"ebt-matched\">a just and principled king</span>, provides just protection and security for the nuns … laymen … laywomen, relying only on principle—honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ",
             "matched": true
           }
         },
@@ -146,7 +146,7 @@
           "an3.14:1.1": {
             "scid": "an3.14:1.1",
             "pli": "“Yopi so, bhikkhave, rājā cakkavattī dhammiko dhammarājā sopi na arājakaṁ cakkaṁ vattetī”ti. ",
-            "en": "“Mendicants, even a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>, does not wield power without having their own king.” ",
+            "en": "“Mendicants, even a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>, does not wield power without having their own king.” ",
             "matched": true
           },
           "an3.14:1.3": {
@@ -158,7 +158,7 @@
           "an3.14:3.1": {
             "scid": "an3.14:3.1",
             "pli": "Evamevaṁ kho, bhikkhu, tathāgato arahaṁ sammāsambuddho dhammiko dhammarājā dhammaṁyeva nissāya dhammaṁ sakkaronto dhammaṁ garuṁ karonto dhammaṁ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṁ rakkhāvaraṇaguttiṁ saṁvidahati kāyakammasmiṁ: ",
-            "en": "In the same way, monk, a Realized One, a perfected one, a fully awakened Buddha, <span class=\"scv-matched\">a just and principled king</span>, provides just protection and security regarding bodily actions, relying only on principle—honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ",
+            "en": "In the same way, monk, a Realized One, a perfected one, a fully awakened Buddha, <span class=\"ebt-matched\">a just and principled king</span>, provides just protection and security regarding bodily actions, relying only on principle—honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ",
             "matched": true
           }
         },
@@ -187,19 +187,19 @@
           "mn83:3.1": {
             "scid": "mn83:3.1",
             "pli": "“Bhūtapubbaṁ, ānanda, imissāyeva mithilāyaṁ rājā ahosi maghadevo nāma dhammiko dhammarājā dhamme ṭhito mahārājā; ",
-            "en": "“Once upon a time, Ānanda, right here in Mithilā there was <span class=\"scv-matched\">a just and principled king</span> named Makhādeva, a great king who stood by his duty. ",
+            "en": "“Once upon a time, Ānanda, right here in Mithilā there was <span class=\"ebt-matched\">a just and principled king</span> named Makhādeva, a great king who stood by his duty. ",
             "matched": true
           },
           "mn83:12.1": {
             "scid": "mn83:12.1",
             "pli": "Nimi tesaṁ rājā pacchimako ahosi dhammiko dhammarājā dhamme ṭhito mahārājā; ",
-            "en": "Nimi was the last of those kings, <span class=\"scv-matched\">a just and principled king</span>, a great king who stood by his duty. ",
+            "en": "Nimi was the last of those kings, <span class=\"ebt-matched\">a just and principled king</span>, a great king who stood by his duty. ",
             "matched": true
           },
           "mn83:13.3": {
             "scid": "mn83:13.3",
             "pli": "yesaṁ nimi rājā dhammiko dhammarājā dhamme ṭhito mahārājā; ",
-            "en": "to have Nimi as their king. He is <span class=\"scv-matched\">a just and principled king</span>, a great king who stands by his duty. ",
+            "en": "to have Nimi as their king. He is <span class=\"ebt-matched\">a just and principled king</span>, a great king who stands by his duty. ",
             "matched": true
           }
         },
@@ -228,19 +228,19 @@
           "dn2:99.6": {
             "scid": "dn2:99.6",
             "pli": "Accayo maṁ, bhante, accagamā yathābālaṁ yathāmūḷhaṁ yathāakusalaṁ, yohaṁ pitaraṁ dhammikaṁ dhammarājānaṁ issariyakāraṇā jīvitā voropesiṁ. ",
-            "en": "I have made a mistake, sir. It was foolish, stupid, and unskillful of me to take the life of my father, <span class=\"scv-matched\">a just and principled king</span>, for the sake of authority. ",
+            "en": "I have made a mistake, sir. It was foolish, stupid, and unskillful of me to take the life of my father, <span class=\"ebt-matched\">a just and principled king</span>, for the sake of authority. ",
             "matched": true
           },
           "dn2:100.1": {
             "scid": "dn2:100.1",
             "pli": "“Taggha tvaṁ, mahārāja, accayo accagamā yathābālaṁ yathāmūḷhaṁ yathāakusalaṁ, yaṁ tvaṁ pitaraṁ dhammikaṁ dhammarājānaṁ jīvitā voropesi. ",
-            "en": "“Indeed, great king, you made a mistake. It was foolish, stupid, and unskillful of you to take the life of your father, <span class=\"scv-matched\">a just and principled king</span>, for the sake of sovereignty. ",
+            "en": "“Indeed, great king, you made a mistake. It was foolish, stupid, and unskillful of you to take the life of your father, <span class=\"ebt-matched\">a just and principled king</span>, for the sake of sovereignty. ",
             "matched": true
           },
           "dn2:102.4": {
             "scid": "dn2:102.4",
             "pli": "Sacāyaṁ, bhikkhave, rājā pitaraṁ dhammikaṁ dhammarājānaṁ jīvitā na voropessatha, imasmiññeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ uppajjissathā”ti. ",
-            "en": "If he had not taken the life of his father, <span class=\"scv-matched\">a just and principled king</span>, the stainless, immaculate vision of the Dhamma would have arisen in him in that very seat.” ",
+            "en": "If he had not taken the life of his father, <span class=\"ebt-matched\">a just and principled king</span>, the stainless, immaculate vision of the Dhamma would have arisen in him in that very seat.” ",
             "matched": true
           }
         },
@@ -269,7 +269,7 @@
           "dn18:4.7": {
             "scid": "dn18:4.7",
             "pli": "Ayaṁ kho panāpi ahosi rājā māgadho seniyo bimbisāro dhammiko dhammarājā hito brāhmaṇagahapatikānaṁ negamānañceva jānapadānañca. ",
-            "en": "That King Seniya Bimbisāra of Magadha was <span class=\"scv-matched\">a just and principled king</span> who benefited the brahmins and householders of town and country. ",
+            "en": "That King Seniya Bimbisāra of Magadha was <span class=\"ebt-matched\">a just and principled king</span> who benefited the brahmins and householders of town and country. ",
             "matched": true
           },
           "dn18:4.9": {
@@ -304,13 +304,13 @@
           "dn26:2.1": {
             "scid": "dn26:2.1",
             "pli": "Bhūtapubbaṁ, bhikkhave, rājā daḷhanemi nāma ahosi cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
-            "en": "Once upon a time, mendicants, there was a king named Daḷhanemi who was a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>. His dominion extended to all four sides, he achieved stability in the country, and he possessed the seven treasures. ",
+            "en": "Once upon a time, mendicants, there was a king named Daḷhanemi who was a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>. His dominion extended to all four sides, he achieved stability in the country, and he possessed the seven treasures. ",
             "matched": true
           },
           "dn26:24.1": {
             "scid": "dn26:24.1",
             "pli": "Asītivassasahassāyukesu, bhikkhave, manussesu ketumatiyā rājadhāniyā saṅkho nāma rājā uppajjissati cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
-            "en": "And in the royal capital of Ketumati a king named Saṅkha will arise, a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>. His dominion will extend to all four sides, he will achieve stability in the country, and possess the seven treasures. ",
+            "en": "And in the royal capital of Ketumati a king named Saṅkha will arise, a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>. His dominion will extend to all four sides, he will achieve stability in the country, and possess the seven treasures. ",
             "matched": true
           }
         },
@@ -339,13 +339,13 @@
           "dn30:1.1.8": {
             "scid": "dn30:1.1.8",
             "pli": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
-            "en": "If he stays at home he becomes a king, a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "en": "If he stays at home he becomes a king, a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
             "matched": true
           },
           "dn30:2.29.1": {
             "scid": "dn30:2.29.1",
             "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
-            "en": "Possessing these marks, if he stays at home he becomes a king, a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "en": "Possessing these marks, if he stays at home he becomes a king, a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
             "matched": true
           }
         },
@@ -380,7 +380,7 @@
           "dn16:5.18.1": {
             "scid": "dn16:5.18.1",
             "pli": "Bhūtapubbaṁ, ānanda, rājā mahāsudassano nāma ahosi cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
-            "en": "Once upon a time there was a king named Mahāsudassana who was a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>. His dominion extended to all four sides, he achieved stability in the country, and he possessed the seven treasures. ",
+            "en": "Once upon a time there was a king named Mahāsudassana who was a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>. His dominion extended to all four sides, he achieved stability in the country, and he possessed the seven treasures. ",
             "matched": true
           }
         },
@@ -409,7 +409,7 @@
           "iti22:3.3": {
             "scid": "iti22:3.3",
             "pli": "anekasatakkhattuṁ rājā ahosiṁ cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato.",
-            "en": "Many hundreds of times I was a king, a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>. My dominion extended to all four sides, I achieved stability in the country, and I possessed the seven treasures. ",
+            "en": "Many hundreds of times I was a king, a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>. My dominion extended to all four sides, I achieved stability in the country, and I possessed the seven treasures. ",
             "matched": true
           }
         },
@@ -438,7 +438,7 @@
           "an7.62:2.3": {
             "scid": "an7.62:2.3",
             "pli": "anekasatakkhattuṁ rājā ahosiṁ cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
-            "en": "Many hundreds of times I was a king, a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>. My dominion extended to all four sides, I achieved stability in the country, and I possessed the seven treasures. ",
+            "en": "Many hundreds of times I was a king, a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>. My dominion extended to all four sides, I achieved stability in the country, and I possessed the seven treasures. ",
             "matched": true
           }
         },
@@ -467,7 +467,7 @@
           "an7.66:13.7": {
             "scid": "an7.66:13.7",
             "pli": "Anekasatakkhattuṁ rājā ahosi cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
-            "en": "Many hundreds of times he was a king, a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>. His dominion extended to all four sides, he achieved stability in the country, and he possessed the seven treasures. ",
+            "en": "Many hundreds of times he was a king, a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>. His dominion extended to all four sides, he achieved stability in the country, and he possessed the seven treasures. ",
             "matched": true
           }
         },
@@ -496,7 +496,7 @@
           "mn92:10.4": {
             "scid": "mn92:10.4",
             "pli": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
-            "en": "If he stays at home he becomes a king, a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "en": "If he stays at home he becomes a king, a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
             "matched": true
           }
         },
@@ -525,7 +525,7 @@
           "mn91:5.4": {
             "scid": "mn91:5.4",
             "pli": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
-            "en": "If he stays at home he becomes a king, a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "en": "If he stays at home he becomes a king, a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
             "matched": true
           }
         },
@@ -554,7 +554,7 @@
           "dn3:1.5.3": {
             "scid": "dn3:1.5.3",
             "pli": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
-            "en": "If he stays at home he becomes a king, a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "en": "If he stays at home he becomes a king, a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
             "matched": true
           }
         },
@@ -583,7 +583,7 @@
           "dn17:2.17.1": {
             "scid": "dn17:2.17.1",
             "pli": "Chakkhattuṁ kho panāhaṁ, ānanda, abhijānāmi imasmiṁ padese sarīraṁ nikkhipitaṁ, tañca kho rājāva samāno cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato, ayaṁ sattamo sarīranikkhepo. ",
-            "en": "Six times, Ānanda, I recall having laid down my body at this place. And the seventh time was as a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>, at which time my dominion extended to all four sides, I achieved stability in the country, and I possessed the seven treasures. ",
+            "en": "Six times, Ānanda, I recall having laid down my body at this place. And the seventh time was as a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>, at which time my dominion extended to all four sides, I achieved stability in the country, and I possessed the seven treasures. ",
             "matched": true
           }
         },
@@ -612,7 +612,7 @@
           "dn14:1.31.8": {
             "scid": "dn14:1.31.8",
             "pli": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
-            "en": "If he stays at home he becomes a king, a wheel-turning monarch, <span class=\"scv-matched\">a just and principled king</span>. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "en": "If he stays at home he becomes a king, a wheel-turning monarch, <span class=\"ebt-matched\">a just and principled king</span>. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
             "matched": true
           }
         },

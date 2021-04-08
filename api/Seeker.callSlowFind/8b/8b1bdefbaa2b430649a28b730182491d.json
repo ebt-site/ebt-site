@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,13 +66,13 @@
           "an1.45:1.1": {
             "scid": "an1.45:1.1",
             "pli": "“Seyyathāpi, bhikkhave, udakarahado āvilo luḷito kalalībhūto tattha cakkhumā puriso tīre ṭhito na passeyya sippisambukampi sakkharakaṭhalampi macchagumbampi carantampi tiṭṭhantampi. ",
-            "en": "“Suppose, mendicants, there was a lake that was cloudy, murky, and muddy. A person with good eyesight standing on the bank would not <span class=\"scv-matched\">see the mussel shells</span>, gravel and pebbles, and schools of fish swimming about or staying still. ",
+            "en": "“Suppose, mendicants, there was a lake that was cloudy, murky, and muddy. A person with good eyesight standing on the bank would not <span class=\"ebt-matched\">see the mussel shells</span>, gravel and pebbles, and schools of fish swimming about or staying still. ",
             "matched": true
           },
           "an1.46:1.1": {
             "scid": "an1.46:1.1",
             "pli": "“Seyyathāpi, bhikkhave, udakarahado accho vippasanno anāvilo tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakaṭhalampi macchagumbampi carantampi tiṭṭhantampi. ",
-            "en": "“Suppose, mendicants, there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would <span class=\"scv-matched\">see the mussel shells</span>, gravel and pebbles, and schools of fish swimming about or staying still. ",
+            "en": "“Suppose, mendicants, there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would <span class=\"ebt-matched\">see the mussel shells</span>, gravel and pebbles, and schools of fish swimming about or staying still. ",
             "matched": true
           }
         },
@@ -101,7 +101,7 @@
           "mn39:21.7": {
             "scid": "mn39:21.7",
             "pli": "Seyyathāpi, bhikkhave, pabbatasaṅkhepe udakarahado accho vippasanno anāvilo. ",
-            "en": "Suppose that in a mountain glen there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would <span class=\"scv-matched\">see the mussel shells</span>, gravel and pebbles, and schools of fish swimming about or staying still. ",
+            "en": "Suppose that in a mountain glen there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would <span class=\"ebt-matched\">see the mussel shells</span>, gravel and pebbles, and schools of fish swimming about or staying still. ",
             "matched": true
           }
         },
@@ -130,7 +130,7 @@
           "dn10:2.36.1": {
             "scid": "dn10:2.36.1",
             "pli": "Seyyathāpi, māṇava, pabbatasaṅkhepe udakarahado accho vippasanno anāvilo. Tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakathalampi macchagumbampi carantampi tiṭṭhantampi. Tassa evamassa: ‘ayaṁ kho udakarahado accho vippasanno anāvilo. Tatrime sippisambukāpi sakkharakathalāpi macchagumbāpi carantipi tiṭṭhantipī’ti. ",
-            "en": "Suppose that in a mountain glen there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would <span class=\"scv-matched\">see the mussel shells</span>, gravel and pebbles, and schools of fish swimming about or staying still. They’d think: ‘This lake is transparent, clear, and unclouded. And here are the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still.’ ",
+            "en": "Suppose that in a mountain glen there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would <span class=\"ebt-matched\">see the mussel shells</span>, gravel and pebbles, and schools of fish swimming about or staying still. They’d think: ‘This lake is transparent, clear, and unclouded. And here are the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still.’ ",
             "matched": true
           }
         },
@@ -159,7 +159,7 @@
           "mn77:36.2": {
             "scid": "mn77:36.2",
             "pli": "Seyyathāpi, udāyi, pabbatasaṅkhepe udakarahado accho vippasanno anāvilo, tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakaṭhalampi macchagumbampi carantampi tiṭṭhantampi. Tassa evamassa: ‘ayaṁ kho udakarahado accho vippasanno anāvilo, tatrime sippisambukāpi sakkharakaṭhalāpi macchagumbāpi carantipi tiṭṭhantipī’ti. ",
-            "en": "Suppose there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would <span class=\"scv-matched\">see the mussel shells</span>, gravel and pebbles, and schools of fish swimming about or staying still. They’d think: ‘This lake is transparent, clear, and unclouded. And here are the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still.’ ",
+            "en": "Suppose there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would <span class=\"ebt-matched\">see the mussel shells</span>, gravel and pebbles, and schools of fish swimming about or staying still. They’d think: ‘This lake is transparent, clear, and unclouded. And here are the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still.’ ",
             "matched": true
           }
         },
@@ -188,7 +188,7 @@
           "dn2:98.1": {
             "scid": "dn2:98.1",
             "pli": "Seyyathāpi, mahārāja, pabbatasaṅkhepe udakarahado accho vippasanno anāvilo. Tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakathalampi macchagumbampi carantampi tiṭṭhantampi. Tassa evamassa: ‘ayaṁ kho udakarahado accho vippasanno anāvilo. Tatrime sippisambukāpi sakkharakathalāpi macchagumbāpi carantipi tiṭṭhantipī’ti. ",
-            "en": "Suppose that in a mountain glen there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would <span class=\"scv-matched\">see the mussel shells</span>, gravel and pebbles, and schools of fish swimming about or staying still. They’d think: ‘This lake is transparent, clear, and unclouded. And here are the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still.’ ",
+            "en": "Suppose that in a mountain glen there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would <span class=\"ebt-matched\">see the mussel shells</span>, gravel and pebbles, and schools of fish swimming about or staying still. They’d think: ‘This lake is transparent, clear, and unclouded. And here are the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still.’ ",
             "matched": true
           }
         },

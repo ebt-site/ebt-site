@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn42.11:2.6": {
             "scid": "sn42.11:2.6",
             "pli": "“Ko nu kho, gāmaṇi, hetu, ko paccayo yena te ekaccānaṁ uruvelakappiyānaṁ manussānaṁ vadhena vā bandhena vā jāniyā vā garahāya vā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? ",
-            "de": "„Was ist der Grund, was ist die Ursache dafür, dass es <span class=\"scv-matched\">dich bekümmern</span> kann, wenn diese Dinge manchen Menschen widerfahren, und wenn sie anderen widerfahren, nicht?“ ",
+            "de": "„Was ist der Grund, was ist die Ursache dafür, dass es <span class=\"ebt-matched\">dich bekümmern</span> kann, wenn diese Dinge manchen Menschen widerfahren, und wenn sie anderen widerfahren, nicht?“ ",
             "en": "“What’s the cause, chief, what’s the reason why, if this was to happen to some people it could cause you sorrow, while if it happens to others it does not?” ",
             "matched": true
           }

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -77,14 +77,14 @@
           "an10.60:9.3": {
             "scid": "an10.60:9.3",
             "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhippaṭinissaggo taṇhākkhayo virāgo nibbānan’ti. ",
-            "de": "‚Das ist friedvoll, das ist erhaben: nämlich das <span class=\"scv-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, das Erlöschen.‘ ",
+            "de": "‚Das ist friedvoll, das ist erhaben: nämlich das <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, das Erlöschen.‘ ",
             "en": "‘This is peaceful; this is sublime—that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, extinguishment.’ ",
             "matched": true
           },
           "an10.60:10.3": {
             "scid": "an10.60:10.3",
             "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhippaṭinissaggo taṇhākkhayo nirodho nibbānan’ti. ",
-            "de": "‚Das ist friedvoll, das ist erhaben: nämlich das <span class=\"scv-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Aufhören, das Erlöschen.‘ ",
+            "de": "‚Das ist friedvoll, das ist erhaben: nämlich das <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Aufhören, das Erlöschen.‘ ",
             "en": "‘This is peaceful; this is sublime—that is, the stilling of all activities, the letting go of all attachments, the ending of craving, cessation, extinguishment.’ ",
             "matched": true
           }
@@ -116,7 +116,7 @@
           "an3.32:4.2": {
             "scid": "an3.32:4.2",
             "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
-            "de": "‚Das ist friedvoll, das ist erhaben: nämlich das <span class=\"scv-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen.‘ ",
+            "de": "‚Das ist friedvoll, das ist erhaben: nämlich das <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen.‘ ",
             "en": "‘This is peaceful; this is sublime—that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
             "matched": true
           }
@@ -148,7 +148,7 @@
           "an4.114:10.2": {
             "scid": "an4.114:10.2",
             "pli": "Idha, bhikkhave, bhikkhu yāyaṁ disā agatapubbā iminā dīghena addhunā yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ, taṁ khippaññeva gantā hoti. ",
-            "de": "Es ist, wenn eine Nonne in die Richtung, in die sie in dieser ganzen langen Zeit nie zuvor gegangen ist, rasch vorwärtsgeht: nämlich zum <span class=\"scv-matched\">Stillen aller Vorgänge</span>, zum Loslassen aller Bindungen, zum Beenden des Verlangens, zum Schwinden, Aufhören, Erlöschen. ",
+            "de": "Es ist, wenn eine Nonne in die Richtung, in die sie in dieser ganzen langen Zeit nie zuvor gegangen ist, rasch vorwärtsgeht: nämlich zum <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, zum Loslassen aller Bindungen, zum Beenden des Verlangens, zum Schwinden, Aufhören, Erlöschen. ",
             "en": "It’s when a mendicant swiftly goes in the direction they’ve never gone before in all this long time; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
             "matched": true
           }
@@ -180,7 +180,7 @@
           "sn6.1:1.7": {
             "scid": "sn6.1:1.7",
             "pli": "Idampi kho ṭhānaṁ duddasaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. ",
-            "de": "Und es ist schwer für sie, dieses Ding zu sehen: nämlich das <span class=\"scv-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen. ",
+            "de": "Und es ist schwer für sie, dieses Ding zu sehen: nämlich das <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen. ",
             "en": "It’s also hard for them to see this thing; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
             "matched": true
           }
@@ -212,7 +212,7 @@
           "an5.140:13.2": {
             "scid": "an5.140:13.2",
             "pli": "Idha, bhikkhave, bhikkhu yā sā disā agatapubbā iminā dīghena addhunā, yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ, taṁ khippaññeva gantā hoti. ",
-            "de": "Es ist, wenn eine Nonne in die Richtung, in die sie in dieser ganzen langen Zeit nie zuvor gegangen ist, rasch vorwärtsgeht: nämlich zum <span class=\"scv-matched\">Stillen aller Vorgänge</span>, zum Loslassen aller Bindungen, zum Beenden des Verlangens, zum Schwinden, Aufhören, Erlöschen. ",
+            "de": "Es ist, wenn eine Nonne in die Richtung, in die sie in dieser ganzen langen Zeit nie zuvor gegangen ist, rasch vorwärtsgeht: nämlich zum <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, zum Loslassen aller Bindungen, zum Beenden des Verlangens, zum Schwinden, Aufhören, Erlöschen. ",
             "en": "It’s when a mendicant swiftly goes in the direction they’ve never gone before in all this long time; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
             "matched": true
           }
@@ -244,7 +244,7 @@
           "dn14:3.1.7": {
             "scid": "dn14:3.1.7",
             "pli": "Idampi kho ṭhānaṁ duddasaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. ",
-            "de": "Und es ist schwer für sie, dieses Ding zu sehen: nämlich das <span class=\"scv-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen. ",
+            "de": "Und es ist schwer für sie, dieses Ding zu sehen: nämlich das <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen. ",
             "en": "It’s also hard for them to see this thing; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
             "matched": true
           }

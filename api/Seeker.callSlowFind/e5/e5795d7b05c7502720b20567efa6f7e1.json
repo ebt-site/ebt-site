@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an10.95:11.2": {
             "scid": "an10.95:11.2",
             "pli": "Atha kho evamettha tathāgatassa hoti: ‘ye kho keci lokamhā nīyiṁsu vā nīyanti vā nīyissanti vā, sabbe te pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe, catūsu satipaṭṭhānesu suppatiṭṭhitacittā, satta bojjhaṅge yathābhūtaṁ bhāvetvā. ",
-            "en": "But the Realized One knows that whoever is saved from the world—whether in the past, the future, or the present—all have given up the five hindrances, corruptions of the heart that weaken wisdom. They have firmly established their mind in the four kinds of mindfulness meditation. And they have truly <span class=\"scv-matched\">developed the seven awakening factors</span>. ",
+            "en": "But the Realized One knows that whoever is saved from the world—whether in the past, the future, or the present—all have given up the five hindrances, corruptions of the heart that weaken wisdom. They have firmly established their mind in the four kinds of mindfulness meditation. And they have truly <span class=\"ebt-matched\">developed the seven awakening factors</span>. ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "dn34:1.8.69": {
             "scid": "dn34:1.8.69",
             "pli": "Puna caparaṁ, āvuso, khīṇāsavassa bhikkhuno satta bojjhaṅgā bhāvitā honti subhāvitā. ",
-            "en": "Furthermore, a mendicant with defilements ended has well <span class=\"scv-matched\">developed the seven awakening factors</span>. … ",
+            "en": "Furthermore, a mendicant with defilements ended has well <span class=\"ebt-matched\">developed the seven awakening factors</span>. … ",
             "matched": true
           }
         },

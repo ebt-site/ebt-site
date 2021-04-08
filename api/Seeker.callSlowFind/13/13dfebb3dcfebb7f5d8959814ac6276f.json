@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "mn32:17.6": {
             "scid": "mn32:17.6",
             "pli": "‘na tāvāhaṁ imaṁ pallaṅkaṁ bhindissāmi yāva me nānupādāya āsavehi cittaṁ vimuccissatī’ti. ",
-            "en": "‘I will not break this sitting posture <span class=\"scv-matched\">until my mind is freed</span> from the defilements by not grasping!’ ",
+            "en": "‘I will not break this sitting posture <span class=\"ebt-matched\">until my mind is freed</span> from the defilements by not grasping!’ ",
             "matched": true
           }
         },

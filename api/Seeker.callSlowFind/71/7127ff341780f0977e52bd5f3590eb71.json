@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -90,79 +90,79 @@
           "dn34:1.2.1": {
             "scid": "dn34:1.2.1",
             "pli": "Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo. ",
-            "en": "Reverends, one thing is helpful, one thing should be developed, one thing should <span class=\"scv-matched\">be completely understood</span>, one thing should be given up, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing should be produced, one thing should be directly known, one thing should be realized. ",
+            "en": "Reverends, one thing is helpful, one thing should be developed, one thing should <span class=\"ebt-matched\">be completely understood</span>, one thing should be given up, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing should be produced, one thing should be directly known, one thing should be realized. ",
             "matched": true
           },
           "dn34:1.2.8": {
             "scid": "dn34:1.2.8",
             "pli": "Katamo eko dhammo pariññeyyo? ",
-            "en": "What one thing should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "What one thing should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "dn34:1.3.1": {
             "scid": "dn34:1.3.1",
             "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
-            "en": "Two things are helpful, two things should be developed, two things should <span class=\"scv-matched\">be completely understood</span>, two things should be given up, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things should be realized. ",
+            "en": "Two things are helpful, two things should be developed, two things should <span class=\"ebt-matched\">be completely understood</span>, two things should be given up, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things should be realized. ",
             "matched": true
           },
           "dn34:1.3.8": {
             "scid": "dn34:1.3.8",
             "pli": "Katame dve dhammā pariññeyyā? ",
-            "en": "What two things should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "What two things should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "dn34:1.4.9": {
             "scid": "dn34:1.4.9",
             "pli": "Katame tayo dhammā pariññeyyā? ",
-            "en": "What three things should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "What three things should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "dn34:1.5.13": {
             "scid": "dn34:1.5.13",
             "pli": "Katame cattāro dhammā pariññeyyā? ",
-            "en": "What four things should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "What four things should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "dn34:1.6.15": {
             "scid": "dn34:1.6.15",
             "pli": "Katame pañca dhammā pariññeyyā? ",
-            "en": "What five things should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "What five things should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "dn34:1.7.17": {
             "scid": "dn34:1.7.17",
             "pli": "Katame cha dhammā pariññeyyā? ",
-            "en": "What six things should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "What six things should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "dn34:1.8.10": {
             "scid": "dn34:1.8.10",
             "pli": "Katame satta dhammā pariññeyyā? ",
-            "en": "What seven things should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "What seven things should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "dn34:2.1.34": {
             "scid": "dn34:2.1.34",
             "pli": "Katame aṭṭha dhammā pariññeyyā? ",
-            "en": "What eight things should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "What eight things should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "dn34:2.2.9": {
             "scid": "dn34:2.2.9",
             "pli": "Katame nava dhammā pariññeyyā? ",
-            "en": "What nine things should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "What nine things should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "dn34:2.3.1": {
             "scid": "dn34:2.3.1",
             "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
-            "en": "Ten things are helpful, ten things should be developed, ten things should <span class=\"scv-matched\">be completely understood</span>, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
+            "en": "Ten things are helpful, ten things should be developed, ten things should <span class=\"ebt-matched\">be completely understood</span>, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
             "matched": true
           },
           "dn34:2.3.48": {
             "scid": "dn34:2.3.48",
             "pli": "Katame dasa dhammā pariññeyyā? ",
-            "en": "What ten things should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "What ten things should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           }
         },
@@ -191,25 +191,25 @@
           "sn56.29:0.3": {
             "scid": "sn56.29:0.3",
             "pli": "29. Pariññeyyasutta ",
-            "en": "29. Should <span class=\"scv-matched\">Be Completely Understood</span> ",
+            "en": "29. Should <span class=\"ebt-matched\">Be Completely Understood</span> ",
             "matched": true
           },
           "sn56.29:1.5": {
             "scid": "sn56.29:1.5",
             "pli": "Imesaṁ kho, bhikkhave, catunnaṁ ariyasaccānaṁ atthi ariyasaccaṁ pariññeyyaṁ, atthi ariyasaccaṁ pahātabbaṁ, atthi ariyasaccaṁ sacchikātabbaṁ, atthi ariyasaccaṁ bhāvetabbaṁ. ",
-            "en": "Of these four noble truths, there is one to <span class=\"scv-matched\">be completely understood</span>, one to be given up, one to be realized, and one to be developed. ",
+            "en": "Of these four noble truths, there is one to <span class=\"ebt-matched\">be completely understood</span>, one to be given up, one to be realized, and one to be developed. ",
             "matched": true
           },
           "sn56.29:2.1": {
             "scid": "sn56.29:2.1",
             "pli": "Katamañca, bhikkhave, ariyasaccaṁ pariññeyyaṁ? ",
-            "en": "And which noble truth should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "And which noble truth should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "sn56.29:2.2": {
             "scid": "sn56.29:2.2",
             "pli": "Dukkhaṁ, bhikkhave, ariyasaccaṁ pariññeyyaṁ, dukkhasamudayaṁ ariyasaccaṁ pahātabbaṁ, dukkhanirodhaṁ ariyasaccaṁ sacchikātabbaṁ, dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabbaṁ. ",
-            "en": "The noble truth of suffering should <span class=\"scv-matched\">be completely understood</span>. The noble truth of the origin of suffering should be given up. The noble truth of the cessation of suffering should be realized. The noble truth of the practice that leads to the cessation of suffering should be developed. ",
+            "en": "The noble truth of suffering should <span class=\"ebt-matched\">be completely understood</span>. The noble truth of the origin of suffering should be given up. The noble truth of the cessation of suffering should be realized. The noble truth of the practice that leads to the cessation of suffering should be developed. ",
             "matched": true
           }
         },
@@ -238,25 +238,25 @@
           "sn23.4:0.3": {
             "scid": "sn23.4:0.3",
             "pli": "4. Pariññeyyasutta ",
-            "en": "4. Should <span class=\"scv-matched\">Be Completely Understood</span> ",
+            "en": "4. Should <span class=\"ebt-matched\">Be Completely Understood</span> ",
             "matched": true
           },
           "sn23.4:2.1": {
             "scid": "sn23.4:2.1",
             "pli": "“Pariññeyye ca, rādha, dhamme desessāmi pariññañca pariññātāviṁ puggalañca. ",
-            "en": "“Rādha, I will teach you the things that should <span class=\"scv-matched\">be completely understood</span>, complete understanding, and the person who has completely understood. ",
+            "en": "“Rādha, I will teach you the things that should <span class=\"ebt-matched\">be completely understood</span>, complete understanding, and the person who has completely understood. ",
             "matched": true
           },
           "sn23.4:2.5": {
             "scid": "sn23.4:2.5",
             "pli": "“katame ca, rādha, pariññeyyā dhammā? ",
-            "en": "“And what things should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "“And what things should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "sn23.4:2.7": {
             "scid": "sn23.4:2.7",
             "pli": "Ime vuccanti, rādha, pariññeyyā dhammā. ",
-            "en": "These are called the things that should <span class=\"scv-matched\">be completely understood</span>. ",
+            "en": "These are called the things that should <span class=\"ebt-matched\">be completely understood</span>. ",
             "matched": true
           }
         },
@@ -285,25 +285,25 @@
           "sn22.106:0.3": {
             "scid": "sn22.106:0.3",
             "pli": "106. Pariññeyyasutta ",
-            "en": "106. Should <span class=\"scv-matched\">Be Completely Understood</span> ",
+            "en": "106. Should <span class=\"ebt-matched\">Be Completely Understood</span> ",
             "matched": true
           },
           "sn22.106:1.2": {
             "scid": "sn22.106:1.2",
             "pli": "“Pariññeyye ca, bhikkhave, dhamme desessāmi pariññañca pariññātāviñca puggalaṁ. ",
-            "en": "“Mendicants, I will teach you the things that should <span class=\"scv-matched\">be completely understood</span>, complete understanding, and the person who has completely understood. ",
+            "en": "“Mendicants, I will teach you the things that should <span class=\"ebt-matched\">be completely understood</span>, complete understanding, and the person who has completely understood. ",
             "matched": true
           },
           "sn22.106:1.4": {
             "scid": "sn22.106:1.4",
             "pli": "Katame ca, bhikkhave, pariññeyyā dhammā? ",
-            "en": "And what things should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "And what things should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "sn22.106:1.10": {
             "scid": "sn22.106:1.10",
             "pli": "Ime vuccanti, bhikkhave, pariññeyyā dhammā. ",
-            "en": "These are called the things that should <span class=\"scv-matched\">be completely understood</span>. ",
+            "en": "These are called the things that should <span class=\"ebt-matched\">be completely understood</span>. ",
             "matched": true
           }
         },
@@ -332,19 +332,19 @@
           "sn22.23:1.2": {
             "scid": "sn22.23:1.2",
             "pli": "“Pariññeyye ca, bhikkhave, dhamme desessāmi pariññañca. ",
-            "en": "“Mendicants, I will teach you the things that should <span class=\"scv-matched\">be completely understood</span>, and complete understanding. ",
+            "en": "“Mendicants, I will teach you the things that should <span class=\"ebt-matched\">be completely understood</span>, and complete understanding. ",
             "matched": true
           },
           "sn22.23:1.4": {
             "scid": "sn22.23:1.4",
             "pli": "Katame ca, bhikkhave, pariññeyyā dhammā? ",
-            "en": "And what things should <span class=\"scv-matched\">be completely understood</span>? ",
+            "en": "And what things should <span class=\"ebt-matched\">be completely understood</span>? ",
             "matched": true
           },
           "sn22.23:1.6": {
             "scid": "sn22.23:1.6",
             "pli": "Ime vuccanti, bhikkhave, pariññeyyā dhammā. ",
-            "en": "These are called the things that should <span class=\"scv-matched\">be completely understood</span>. ",
+            "en": "These are called the things that should <span class=\"ebt-matched\">be completely understood</span>. ",
             "matched": true
           }
         },
@@ -373,19 +373,19 @@
           "an4.254:1.3": {
             "scid": "an4.254:1.3",
             "pli": "Atthi, bhikkhave, dhammā abhiññā pariññeyyā; ",
-            "en": "There are things that should <span class=\"scv-matched\">be completely understood</span> by direct knowledge. ",
+            "en": "There are things that should <span class=\"ebt-matched\">be completely understood</span> by direct knowledge. ",
             "matched": true
           },
           "an4.254:2.1": {
             "scid": "an4.254:2.1",
             "pli": "Katame ca, bhikkhave, dhammā abhiññā pariññeyyā? ",
-            "en": "And what are the things that should <span class=\"scv-matched\">be completely understood</span> by direct knowledge? ",
+            "en": "And what are the things that should <span class=\"ebt-matched\">be completely understood</span> by direct knowledge? ",
             "matched": true
           },
           "an4.254:2.3": {
             "scid": "an4.254:2.3",
             "pli": "ime vuccanti, bhikkhave, dhammā abhiññā pariññeyyā. ",
-            "en": "These are called the things that should <span class=\"scv-matched\">be completely understood</span> by direct knowledge. ",
+            "en": "These are called the things that should <span class=\"ebt-matched\">be completely understood</span> by direct knowledge. ",
             "matched": true
           }
         },
@@ -414,19 +414,19 @@
           "sn45.159:1.2": {
             "scid": "sn45.159:1.2",
             "pli": "evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto ye dhammā abhiññā pariññeyyā, te dhamme abhiññā parijānāti …pe… ",
-            "en": "In the same way, a mendicant who develops and cultivates the noble eightfold path completely understands by direct knowledge the things that should <span class=\"scv-matched\">be completely understood</span> by direct knowledge. ",
+            "en": "In the same way, a mendicant who develops and cultivates the noble eightfold path completely understands by direct knowledge the things that should <span class=\"ebt-matched\">be completely understood</span> by direct knowledge. ",
             "matched": true
           },
           "sn45.159:2.1": {
             "scid": "sn45.159:2.1",
             "pli": "Katame ca, bhikkhave, dhammā abhiññā pariññeyyā? ",
-            "en": "And what are the things that should <span class=\"scv-matched\">be completely understood</span> by direct knowledge? ",
+            "en": "And what are the things that should <span class=\"ebt-matched\">be completely understood</span> by direct knowledge? ",
             "matched": true
           },
           "sn45.159:2.5": {
             "scid": "sn45.159:2.5",
             "pli": "Ime, bhikkhave, dhammā abhiññā pariññeyyā. ",
-            "en": "These are the things that should <span class=\"scv-matched\">be completely understood</span> by direct knowledge. ",
+            "en": "These are the things that should <span class=\"ebt-matched\">be completely understood</span> by direct knowledge. ",
             "matched": true
           }
         },
@@ -455,19 +455,19 @@
           "an6.61:3.5": {
             "scid": "an6.61:3.5",
             "pli": "Ettāvatā kho, āvuso, bhikkhu abhiññeyyaṁ abhijānāti, pariññeyyaṁ parijānāti, abhiññeyyaṁ abhijānanto pariññeyyaṁ parijānanto diṭṭheva dhamme dukkhassantakaro hotī”ti. ",
-            "en": "That’s how a mendicant directly knows what should be directly known and completely understands what should <span class=\"scv-matched\">be completely understood</span>. Knowing and understanding thus they make an end of suffering in this very life.” ",
+            "en": "That’s how a mendicant directly knows what should be directly known and completely understands what should <span class=\"ebt-matched\">be completely understood</span>. Knowing and understanding thus they make an end of suffering in this very life.” ",
             "matched": true
           },
           "an6.61:8.4": {
             "scid": "an6.61:8.4",
             "pli": "Ettāvatā kho, āvuso, bhikkhu abhiññeyyaṁ abhijānāti, pariññeyyaṁ parijānāti, abhiññeyyaṁ abhijānanto pariññeyyaṁ parijānanto diṭṭheva dhamme dukkhassantakaro hotī”ti. ",
-            "en": "That’s how a mendicant directly knows what should be directly known and completely understands what should <span class=\"scv-matched\">be completely understood</span>. Knowing and understanding thus they make an end of suffering in this very life.” ",
+            "en": "That’s how a mendicant directly knows what should be directly known and completely understands what should <span class=\"ebt-matched\">be completely understood</span>. Knowing and understanding thus they make an end of suffering in this very life.” ",
             "matched": true
           },
           "an6.61:12.6": {
             "scid": "an6.61:12.6",
             "pli": "Ettāvatā kho, bhikkhave, bhikkhu abhiññeyyaṁ abhijānāti, pariññeyyaṁ parijānāti, abhiññeyyaṁ abhijānanto pariññeyyaṁ parijānanto diṭṭheva dhamme dukkhassantakaro hotī”ti. ",
-            "en": "That’s how a mendicant directly knows what should be directly known and completely understands what should <span class=\"scv-matched\">be completely understood</span>. Knowing and understanding thus they make an end of suffering in this very life.” ",
+            "en": "That’s how a mendicant directly knows what should be directly known and completely understands what should <span class=\"ebt-matched\">be completely understood</span>. Knowing and understanding thus they make an end of suffering in this very life.” ",
             "matched": true
           }
         },
@@ -496,19 +496,19 @@
           "mn149:10.11": {
             "scid": "mn149:10.11",
             "pli": "So ye dhammā abhiññā pariññeyyā te dhamme abhiññā parijānāti. ",
-            "en": "They completely understand by direct knowledge those things that should <span class=\"scv-matched\">be completely understood</span> by direct knowledge. ",
+            "en": "They completely understand by direct knowledge those things that should <span class=\"ebt-matched\">be completely understood</span> by direct knowledge. ",
             "matched": true
           },
           "mn149:11.1": {
             "scid": "mn149:11.1",
             "pli": "Katame ca, bhikkhave, dhammā abhiññā pariññeyyā? ",
-            "en": "And what are the things that should <span class=\"scv-matched\">be completely understood</span> by direct knowledge? ",
+            "en": "And what are the things that should <span class=\"ebt-matched\">be completely understood</span> by direct knowledge? ",
             "matched": true
           },
           "mn149:11.4": {
             "scid": "mn149:11.4",
             "pli": "Ime dhammā abhiññā pariññeyyā. ",
-            "en": "These are the things that should <span class=\"scv-matched\">be completely understood</span> by direct knowledge. ",
+            "en": "These are the things that should <span class=\"ebt-matched\">be completely understood</span> by direct knowledge. ",
             "matched": true
           }
         },
@@ -537,7 +537,7 @@
           "sn56.12:1.2": {
             "scid": "sn56.12:1.2",
             "pli": "‘Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti, bhikkhave, tathāgatānaṁ pubbe …pe… udapādi. ",
-            "en": "‘This noble truth of suffering should <span class=\"scv-matched\">be completely understood</span>.’ … ",
+            "en": "‘This noble truth of suffering should <span class=\"ebt-matched\">be completely understood</span>.’ … ",
             "matched": true
           },
           "sn56.12:1.3": {
@@ -572,7 +572,7 @@
           "sn35.47:1.1": {
             "scid": "sn35.47:1.1",
             "pli": "“Sabbaṁ, bhikkhave, pariññeyyaṁ …pe…. ",
-            "en": "“Mendicants, all is to <span class=\"scv-matched\">be completely understood</span>. …” ",
+            "en": "“Mendicants, all is to <span class=\"ebt-matched\">be completely understood</span>. …” ",
             "matched": true
           },
           "sn35.50:1.1": {
@@ -607,7 +607,7 @@
           "sn56.11:5.2": {
             "scid": "sn56.11:5.2",
             "pli": "‘Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti me, bhikkhave, pubbe …pe… udapādi. ",
-            "en": "‘This noble truth of suffering should <span class=\"scv-matched\">be completely understood</span>.’ Such was the vision that arose in me … ",
+            "en": "‘This noble truth of suffering should <span class=\"ebt-matched\">be completely understood</span>.’ Such was the vision that arose in me … ",
             "matched": true
           },
           "sn56.11:5.3": {
@@ -642,7 +642,7 @@
           "mn43:6.4": {
             "scid": "mn43:6.4",
             "pli": "imesaṁ dhammānaṁ saṁsaṭṭhānaṁ no visaṁsaṭṭhānaṁ paññā bhāvetabbā, viññāṇaṁ pariññeyyaṁ. ",
-            "en": "“The difference between these things is that wisdom should be developed, while consciousness should <span class=\"scv-matched\">be completely understood</span>.” ",
+            "en": "“The difference between these things is that wisdom should be developed, while consciousness should <span class=\"ebt-matched\">be completely understood</span>.” ",
             "matched": true
           }
         },

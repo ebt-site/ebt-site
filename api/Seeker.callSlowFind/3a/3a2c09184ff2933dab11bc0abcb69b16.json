@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,25 +60,25 @@
           "an9.17:1.1": {
             "scid": "an9.17:1.1",
             "pli": "“Navahi, bhikkhave, aṅgehi samannāgataṁ kulaṁ anupagantvā vā nālaṁ upagantuṁ, upagantvā vā nālaṁ nisīdituṁ. ",
-            "en": "“Mendicants, visiting a family with <span class=\"scv-matched\">nine factors</span> is not worthwhile, or if you’ve already arrived, sitting down is not worthwhile. ",
+            "en": "“Mendicants, visiting a family with <span class=\"ebt-matched\">nine factors</span> is not worthwhile, or if you’ve already arrived, sitting down is not worthwhile. ",
             "matched": true
           },
           "an9.17:1.4": {
             "scid": "an9.17:1.4",
             "pli": "Imehi kho, bhikkhave, navahaṅgehi samannāgataṁ kulaṁ anupagantvā vā nālaṁ upagantuṁ upagantvā vā nālaṁ nisīdituṁ. ",
-            "en": "Visiting a family with these <span class=\"scv-matched\">nine factors</span> is not worthwhile, or if you’ve already arrived, sitting down is not worthwhile. ",
+            "en": "Visiting a family with these <span class=\"ebt-matched\">nine factors</span> is not worthwhile, or if you’ve already arrived, sitting down is not worthwhile. ",
             "matched": true
           },
           "an9.17:2.1": {
             "scid": "an9.17:2.1",
             "pli": "Navahi, bhikkhave, aṅgehi samannāgataṁ kulaṁ anupagantvā vā alaṁ upagantuṁ, upagantvā vā alaṁ nisīdituṁ. ",
-            "en": "Visiting a family with <span class=\"scv-matched\">nine factors</span> is worthwhile, or if you’ve already arrived, sitting down is worthwhile. ",
+            "en": "Visiting a family with <span class=\"ebt-matched\">nine factors</span> is worthwhile, or if you’ve already arrived, sitting down is worthwhile. ",
             "matched": true
           },
           "an9.17:2.4": {
             "scid": "an9.17:2.4",
             "pli": "Imehi kho, bhikkhave, navahaṅgehi samannāgataṁ kulaṁ anupagantvā vā alaṁ upagantuṁ, upagantvā vā alaṁ nisīditun”ti. ",
-            "en": "Visiting a family with these <span class=\"scv-matched\">nine factors</span> is worthwhile, or if you’ve already arrived, sitting down is worthwhile.” ",
+            "en": "Visiting a family with these <span class=\"ebt-matched\">nine factors</span> is worthwhile, or if you’ve already arrived, sitting down is worthwhile.” ",
             "matched": true
           }
         },
@@ -107,19 +107,19 @@
           "an9.18:0.3": {
             "scid": "an9.18:0.3",
             "pli": "18. Navaṅguposathasutta ",
-            "en": "18. The Sabbath with <span class=\"scv-matched\">Nine Factors</span> ",
+            "en": "18. The Sabbath with <span class=\"ebt-matched\">Nine Factors</span> ",
             "matched": true
           },
           "an9.18:1.1": {
             "scid": "an9.18:1.1",
             "pli": "“Navahi, bhikkhave, aṅgehi samannāgato uposatho upavuttho mahapphalo hoti mahānisaṁso mahājutiko mahāvipphāro. ",
-            "en": "“Mendicants, the observance of the sabbath with its <span class=\"scv-matched\">nine factors</span> is very fruitful and beneficial and splendid and bountiful. ",
+            "en": "“Mendicants, the observance of the sabbath with its <span class=\"ebt-matched\">nine factors</span> is very fruitful and beneficial and splendid and bountiful. ",
             "matched": true
           },
           "an9.18:4.1": {
             "scid": "an9.18:4.1",
             "pli": "Evaṁ upavuttho kho, bhikkhave, navahaṅgehi samannāgato uposatho mahapphalo hoti mahānisaṁso mahājutiko mahāvipphāro”ti. ",
-            "en": "The observance of the sabbath with its <span class=\"scv-matched\">nine factors</span> in this way is very fruitful and beneficial and splendid and bountiful.” ",
+            "en": "The observance of the sabbath with its <span class=\"ebt-matched\">nine factors</span> in this way is very fruitful and beneficial and splendid and bountiful.” ",
             "matched": true
           }
         },
@@ -148,7 +148,7 @@
           "dn34:2.2.6": {
             "scid": "dn34:2.2.6",
             "pli": "Nava pārisuddhipadhāniyaṅgāni—",
-            "en": "<span class=\"scv-matched\">Nine factors</span> of trying to be pure. ",
+            "en": "<span class=\"ebt-matched\">Nine factors</span> of trying to be pure. ",
             "matched": true
           }
         },

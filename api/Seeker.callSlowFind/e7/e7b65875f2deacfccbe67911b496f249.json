@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,21 +57,21 @@
           "an10.61:2.2": {
             "scid": "an10.61:2.2",
             "pli": "Ko cāhāro avijjāya? ",
-            "de": "Und was ist die <span class=\"scv-matched\">Nahrung für Unwissenheit</span>? ",
+            "de": "Und was ist die <span class=\"ebt-matched\">Nahrung für Unwissenheit</span>? ",
             "en": "And what is the fuel for ignorance? ",
             "matched": true
           },
           "an10.61:3.2": {
             "scid": "an10.61:3.2",
             "pli": "evametissā avijjāya āhāro hoti, evañca pāripūri. ",
-            "de": "Das ist die <span class=\"scv-matched\">Nahrung für Unwissenheit</span>, und so wird sie aufgefüllt. ",
+            "de": "Das ist die <span class=\"ebt-matched\">Nahrung für Unwissenheit</span>, und so wird sie aufgefüllt. ",
             "en": "That’s the fuel for ignorance, and that’s how it’s fulfilled. ",
             "matched": true
           },
           "an10.61:5.2": {
             "scid": "an10.61:5.2",
             "pli": "evametissā avijjāya āhāro hoti, evañca pāripūri. ",
-            "de": "Das ist die <span class=\"scv-matched\">Nahrung für Unwissenheit</span>, und so wird sie aufgefüllt. ",
+            "de": "Das ist die <span class=\"ebt-matched\">Nahrung für Unwissenheit</span>, und so wird sie aufgefüllt. ",
             "en": "That’s the fuel for ignorance, and that’s how it’s fulfilled. ",
             "matched": true
           }

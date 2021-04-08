@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an5.36:2.1": {
             "scid": "an5.36:2.1",
             "pli": "Kāle dadanti sappaññā, ",
-            "de": "<span class=\"scv-matched\">Die Weisen geben</span> zur rechten Zeit, ",
+            "de": "<span class=\"ebt-matched\">Die Weisen geben</span> zur rechten Zeit, ",
             "en": "The wise give at the right time, ",
             "matched": true
           }

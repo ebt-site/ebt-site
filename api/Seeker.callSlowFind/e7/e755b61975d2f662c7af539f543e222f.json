@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,21 +57,21 @@
           "dn25:2.1": {
             "scid": "dn25:2.1",
             "pli": "Tena kho pana samayena nigrodho paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā. ",
-            "de": "Zu dieser Zeit saß Nigrodha mit einer großen Versammlung von Wanderern beisammen, und sie machten einen Tumult, einen Höllenlärm. Sie hielten sich <span class=\"scv-matched\">alberne Gespräche</span> aller Art, ",
+            "de": "Zu dieser Zeit saß Nigrodha mit einer großen Versammlung von Wanderern beisammen, und sie machten einen Tumult, einen Höllenlärm. Sie hielten sich <span class=\"ebt-matched\">alberne Gespräche</span> aller Art, ",
             "en": "Now at that time, Nigrodha was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all kinds of unworthy talk, such as ",
             "matched": true
           },
           "dn25:4.3": {
             "scid": "dn25:4.3",
             "pli": "“aññathā kho ime bhonto aññatitthiyā paribbājakā saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṁ tiracchānakathaṁ anuyuttā viharanti. ",
-            "de": "„Wie die Wanderer da einen Tumult machen, einen Höllenlärm, wenn sie zusammensitzen und sich <span class=\"scv-matched\">alberne Gespräche</span> aller Art halten, das ist eine Sache. ",
+            "de": "„Wie die Wanderer da einen Tumult machen, einen Höllenlärm, wenn sie zusammensitzen und sich <span class=\"ebt-matched\">alberne Gespräche</span> aller Art halten, das ist eine Sache. ",
             "en": "“The way the wanderers make an uproar as they sit together and talk about all kinds of unworthy topics is one thing. ",
             "matched": true
           },
           "dn25:21.6": {
             "scid": "dn25:21.6",
             "pli": "‘ye te ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, evaṁ su te bhagavanto saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṁ tiracchānakathaṁ anuyuttā viharanti. ",
-            "de": "wenn die Vollendeten, die vollkommen erwachten Buddhas der Vergangenheit zusammenkamen, dann hätten sie einen Tumult gemacht, einen Höllenlärm, wenn sie zusammensaßen und sich <span class=\"scv-matched\">alberne Gespräche</span> aller Art hielten, ",
+            "de": "wenn die Vollendeten, die vollkommen erwachten Buddhas der Vergangenheit zusammenkamen, dann hätten sie einen Tumult gemacht, einen Höllenlärm, wenn sie zusammensaßen und sich <span class=\"ebt-matched\">alberne Gespräche</span> aller Art hielten, ",
             "en": "when the perfected ones, the fully awakened Buddhas of the past came together, they made an uproar, a dreadful racket as they sat and talked about all kinds of unworthy topics, ",
             "matched": true
           }

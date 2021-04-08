@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn35.28:1.5": {
             "scid": "sn35.28:1.5",
             "pli": "Cakkhu, bhikkhave, ādittaṁ, rūpā ādittā, cakkhuviññāṇaṁ ādittaṁ, cakkhusamphasso āditto. Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ. ",
-            "de": "<span class=\"scv-matched\">Das Auge brennt</span>. Bilder brennen. Sehbewusstsein brennt. Berührung mit dem Auge brennt. Das angenehme, schmerzhafte oder neutrale Gefühl, das durch Berührung mit dem Auge bedingt entsteht, brennt ebenso. ",
+            "de": "<span class=\"ebt-matched\">Das Auge brennt</span>. Bilder brennen. Sehbewusstsein brennt. Berührung mit dem Auge brennt. Das angenehme, schmerzhafte oder neutrale Gefühl, das durch Berührung mit dem Auge bedingt entsteht, brennt ebenso. ",
             "en": "The eye is burning. Sights are burning. Eye consciousness is burning. Eye contact is burning. The painful, pleasant, or neutral feeling that arises conditioned by eye contact is also burning. ",
             "matched": true
           }

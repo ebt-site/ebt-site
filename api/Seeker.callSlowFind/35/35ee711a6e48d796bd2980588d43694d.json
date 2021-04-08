@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -84,7 +84,7 @@
           "mn105:18.3": {
             "scid": "mn105:18.3",
             "pli": "Taṁ me taṇhāsallaṁ pahīnaṁ, apanīto avijjāvisadoso, sammā nibbānādhimuttohamasmī’ti. ",
-            "en": "I have given up <span class=\"scv-matched\">the dart of craving</span> and expelled the poison of ignorance; I am rightly intent on extinguishment.’ ",
+            "en": "I have given up <span class=\"ebt-matched\">the dart of craving</span> and expelled the poison of ignorance; I am rightly intent on extinguishment.’ ",
             "matched": true
           },
           "mn105:21.2": {
@@ -96,7 +96,7 @@
           "mn105:21.3": {
             "scid": "mn105:21.3",
             "pli": "Taṁ me taṇhāsallaṁ pahīnaṁ, apanīto avijjāvisadoso, sammā nibbānādhimuttohamasmī’ti. ",
-            "en": "I have given up <span class=\"scv-matched\">the dart of craving</span> and expelled the poison of ignorance; I am rightly intent on extinguishment.’ ",
+            "en": "I have given up <span class=\"ebt-matched\">the dart of craving</span> and expelled the poison of ignorance; I am rightly intent on extinguishment.’ ",
             "matched": true
           },
           "mn105:23.2": {
@@ -108,7 +108,7 @@
           "mn105:23.3": {
             "scid": "mn105:23.3",
             "pli": "Taṁ me taṇhāsallaṁ pahīnaṁ, apanīto avijjāvisadoso, sammā nibbānādhimuttohamasmī’ti. ",
-            "en": "I have given up <span class=\"scv-matched\">the dart of craving</span> and expelled the poison of ignorance; I am rightly intent on extinguishment.’ ",
+            "en": "I have given up <span class=\"ebt-matched\">the dart of craving</span> and expelled the poison of ignorance; I am rightly intent on extinguishment.’ ",
             "matched": true
           },
           "mn105:26.2": {
@@ -120,7 +120,7 @@
           "mn105:26.3": {
             "scid": "mn105:26.3",
             "pli": "Taṁ me taṇhāsallaṁ pahīnaṁ, apanīto avijjāvisadoso, sammā nibbānādhimuttohamasmī’ti. ",
-            "en": "I have given up <span class=\"scv-matched\">the dart of craving</span> and expelled the poison of ignorance; I am rightly intent on extinguishment.’ ",
+            "en": "I have given up <span class=\"ebt-matched\">the dart of craving</span> and expelled the poison of ignorance; I am rightly intent on extinguishment.’ ",
             "matched": true
           }
         },
@@ -149,7 +149,7 @@
           "sn1.66:2.3": {
             "scid": "sn1.66:2.3",
             "pli": "Taṇhāsallena otiṇṇo, ",
-            "en": "<span class=\"scv-matched\">The dart of craving</span> has laid it low. ",
+            "en": "<span class=\"ebt-matched\">The dart of craving</span> has laid it low. ",
             "matched": true
           }
         },
@@ -178,7 +178,7 @@
           "thag3.2:2.4": {
             "scid": "thag3.2:2.4",
             "pli": "taṇhāsalle anūhate.",
-            "en": "not until <span class=\"scv-matched\">the dart of craving</span> is drawn out.",
+            "en": "not until <span class=\"ebt-matched\">the dart of craving</span> is drawn out.",
             "matched": true
           }
         },
@@ -207,7 +207,7 @@
           "thag6.13:2.3": {
             "scid": "thag6.13:2.3",
             "pli": "Taṇhāsallena otiṇṇo,",
-            "en": "<span class=\"scv-matched\">The dart of craving</span> has laid it low,",
+            "en": "<span class=\"ebt-matched\">The dart of craving</span> has laid it low,",
             "matched": true
           }
         },
@@ -236,7 +236,7 @@
           "thag4.12:3.4": {
             "scid": "thag4.12:3.4",
             "pli": "taṇhāsalle anūhate.",
-            "en": "until <span class=\"scv-matched\">the dart of craving</span> is pulled out.",
+            "en": "until <span class=\"ebt-matched\">the dart of craving</span> is pulled out.",
             "matched": true
           }
         },
@@ -265,7 +265,7 @@
           "sn8.7:9.4": {
             "scid": "sn8.7:9.4",
             "pli": "vande ādiccabandhunan”ti. ",
-            "en": "destroyer of <span class=\"scv-matched\">the dart of craving</span>.”",
+            "en": "destroyer of <span class=\"ebt-matched\">the dart of craving</span>.”",
             "matched": true
           }
         },
@@ -294,7 +294,7 @@
           "thag8.3:5.4": {
             "scid": "thag8.3:5.4",
             "pli": "taṇhāsalle anūhate.",
-            "en": "until <span class=\"scv-matched\">the dart of craving</span> was pulled out.",
+            "en": "until <span class=\"ebt-matched\">the dart of craving</span> was pulled out.",
             "matched": true
           }
         },
@@ -323,7 +323,7 @@
           "thag21.1:29.4": {
             "scid": "thag21.1:29.4",
             "pli": "vande ādiccabandhunaṁ.",
-            "en": "destroyer of <span class=\"scv-matched\">the dart of craving</span>.”",
+            "en": "destroyer of <span class=\"ebt-matched\">the dart of craving</span>.”",
             "matched": true
           }
         },
@@ -352,7 +352,7 @@
           "dn21:2.9.25": {
             "scid": "dn21:2.9.25",
             "pli": "Taṇhāsallassa hantāraṁ, ",
-            "en": "Destroyer of <span class=\"scv-matched\">the dart of craving</span>, ",
+            "en": "Destroyer of <span class=\"ebt-matched\">the dart of craving</span>, ",
             "matched": true
           }
         },

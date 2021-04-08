@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an5.122:2.2": {
             "scid": "an5.122:2.2",
             "pli": "Idha, bhikkhave, bhikkhuno ajjhattaññeva sati sūpaṭṭhitā hoti dhammānaṁ udayatthagāminiyā paññāya, asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratasaññī, sabbasaṅkhāresu aniccānupassī. ",
-            "en": "It’s when a mendicant has well established mindfulness inside themselves in order to understand the arising and <span class=\"scv-matched\">passing away of phenomena</span>, meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, and observes the impermanence of all conditions. ",
+            "en": "It’s when a mendicant has well established mindfulness inside themselves in order to understand the arising and <span class=\"ebt-matched\">passing away of phenomena</span>, meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, and observes the impermanence of all conditions. ",
             "matched": true
           }
         },

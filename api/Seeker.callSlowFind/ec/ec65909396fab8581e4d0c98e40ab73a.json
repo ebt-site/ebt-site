@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn47.3:1.4": {
             "scid": "sn47.3:1.4",
             "pli": "“Evameva panidhekacce moghapurisā mañceva ajjhesanti, dhamme ca bhāsite mameva anubandhitabbaṁ maññantī”ti. ",
-            "en": "“This is exactly how some foolish people ask me for something. But when the teaching has been explained they think only of <span class=\"scv-matched\">following me around</span>.” ",
+            "en": "“This is exactly how some foolish people ask me for something. But when the teaching has been explained they think only of <span class=\"ebt-matched\">following me around</span>.” ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "an8.63:1.4": {
             "scid": "an8.63:1.4",
             "pli": "Dhamme ca bhāsite mamaññeva anubandhitabbaṁ maññantī”ti. ",
-            "en": "But when the teaching has been explained they think only of <span class=\"scv-matched\">following me around</span>.” ",
+            "en": "But when the teaching has been explained they think only of <span class=\"ebt-matched\">following me around</span>.” ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an6.59:9.4": {
             "scid": "an6.59:9.4",
             "pli": "“Esāhaṁ, bhante, ajjatagge saṅghe dānaṁ dassāmī”ti. ",
-            "en": "“Sir, from this day forth <span class=\"scv-matched\">I will give gifts</span> to the Saṅgha.” ",
+            "en": "“Sir, from this day forth <span class=\"ebt-matched\">I will give gifts</span> to the Saṅgha.” ",
             "matched": true
           }
         },

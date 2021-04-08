@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -75,49 +75,49 @@
           "mn22:18.2": {
             "scid": "mn22:18.2",
             "pli": "“siyā nu kho, bhante, bahiddhā asati paritassanā”ti? ",
-            "en": "“Sir, can there be <span class=\"scv-matched\">anxiety</span> about what doesn’t exist externally?” ",
+            "en": "“Sir, can there be <span class=\"ebt-matched\">anxiety</span> about what doesn’t exist externally?” ",
             "matched": true
           },
           "mn22:18.8": {
             "scid": "mn22:18.8",
             "pli": "Evaṁ kho, bhikkhu, bahiddhā asati paritassanā hotī”ti. ",
-            "en": "That’s how there is <span class=\"scv-matched\">anxiety</span> about what doesn’t exist externally.” ",
+            "en": "That’s how there is <span class=\"ebt-matched\">anxiety</span> about what doesn’t exist externally.” ",
             "matched": true
           },
           "mn22:19.1": {
             "scid": "mn22:19.1",
             "pli": "“Siyā pana, bhante, bahiddhā asati aparitassanā”ti? ",
-            "en": "“But can there be no <span class=\"scv-matched\">anxiety</span> about what doesn’t exist externally?” ",
+            "en": "“But can there be no <span class=\"ebt-matched\">anxiety</span> about what doesn’t exist externally?” ",
             "matched": true
           },
           "mn22:19.7": {
             "scid": "mn22:19.7",
             "pli": "Evaṁ kho, bhikkhu, bahiddhā asati aparitassanā hotī”ti. ",
-            "en": "That’s how there is no <span class=\"scv-matched\">anxiety</span> about what doesn’t exist externally.” ",
+            "en": "That’s how there is no <span class=\"ebt-matched\">anxiety</span> about what doesn’t exist externally.” ",
             "matched": true
           },
           "mn22:20.1": {
             "scid": "mn22:20.1",
             "pli": "“Siyā nu kho, bhante, ajjhattaṁ asati paritassanā”ti? ",
-            "en": "“But can there be <span class=\"scv-matched\">anxiety</span> about what doesn’t exist internally?” ",
+            "en": "“But can there be <span class=\"ebt-matched\">anxiety</span> about what doesn’t exist internally?” ",
             "matched": true
           },
           "mn22:20.9": {
             "scid": "mn22:20.9",
             "pli": "Evaṁ kho, bhikkhu, ajjhattaṁ asati paritassanā hotī”ti. ",
-            "en": "That’s how there is <span class=\"scv-matched\">anxiety</span> about what doesn’t exist internally.” ",
+            "en": "That’s how there is <span class=\"ebt-matched\">anxiety</span> about what doesn’t exist internally.” ",
             "matched": true
           },
           "mn22:21.1": {
             "scid": "mn22:21.1",
             "pli": "“Siyā pana, bhante, ajjhattaṁ asati aparitassanā”ti? ",
-            "en": "“But can there be no <span class=\"scv-matched\">anxiety</span> about what doesn’t exist internally?” ",
+            "en": "“But can there be no <span class=\"ebt-matched\">anxiety</span> about what doesn’t exist internally?” ",
             "matched": true
           },
           "mn22:21.9": {
             "scid": "mn22:21.9",
             "pli": "Evaṁ kho, bhikkhu, ajjhattaṁ asati aparitassanā hoti. ",
-            "en": "That’s how there is no <span class=\"scv-matched\">anxiety</span> about what doesn’t exist internally. ",
+            "en": "That’s how there is no <span class=\"ebt-matched\">anxiety</span> about what doesn’t exist internally. ",
             "matched": true
           }
         },
@@ -146,37 +146,37 @@
           "sn22.8:0.3": {
             "scid": "sn22.8:0.3",
             "pli": "8. Dutiyaupādāparitassanāsutta ",
-            "en": "8. <span class=\"scv-matched\">Anxiety</span> Because of Grasping (2nd) ",
+            "en": "8. <span class=\"ebt-matched\">Anxiety</span> Because of Grasping (2nd) ",
             "matched": true
           },
           "sn22.8:1.2": {
             "scid": "sn22.8:1.2",
             "pli": "“Upādāparitassanañca vo, bhikkhave, desessāmi anupādāaparitassanañca. ",
-            "en": "“Mendicants, I will teach you how grasping leads to <span class=\"scv-matched\">anxiety</span>, and how not grasping leads to freedom from <span class=\"scv-matched\">anxiety</span>. ",
+            "en": "“Mendicants, I will teach you how grasping leads to <span class=\"ebt-matched\">anxiety</span>, and how not grasping leads to freedom from <span class=\"ebt-matched\">anxiety</span>. ",
             "matched": true
           },
           "sn22.8:1.4": {
             "scid": "sn22.8:1.4",
             "pli": "kathañca, bhikkhave, upādāparitassanā hoti? ",
-            "en": "And how does grasping lead to <span class=\"scv-matched\">anxiety</span>? ",
+            "en": "And how does grasping lead to <span class=\"ebt-matched\">anxiety</span>? ",
             "matched": true
           },
           "sn22.8:1.14": {
             "scid": "sn22.8:1.14",
             "pli": "Evaṁ kho, bhikkhave, upādāparitassanā hoti. ",
-            "en": "That’s how grasping leads to <span class=\"scv-matched\">anxiety</span>. ",
+            "en": "That’s how grasping leads to <span class=\"ebt-matched\">anxiety</span>. ",
             "matched": true
           },
           "sn22.8:2.1": {
             "scid": "sn22.8:2.1",
             "pli": "Kathañca, bhikkhave, anupādāaparitassanā hoti? ",
-            "en": "And how does not grasping lead to freedom from <span class=\"scv-matched\">anxiety</span>? ",
+            "en": "And how does not grasping lead to freedom from <span class=\"ebt-matched\">anxiety</span>? ",
             "matched": true
           },
           "sn22.8:2.11": {
             "scid": "sn22.8:2.11",
             "pli": "Evaṁ kho, bhikkhave, anupādāaparitassanā hotī”ti. ",
-            "en": "That’s how not grasping leads to freedom from <span class=\"scv-matched\">anxiety</span>.” ",
+            "en": "That’s how not grasping leads to freedom from <span class=\"ebt-matched\">anxiety</span>.” ",
             "matched": true
           }
         },
@@ -205,37 +205,37 @@
           "sn22.7:0.3": {
             "scid": "sn22.7:0.3",
             "pli": "7. Upādāparitassanāsutta ",
-            "en": "7. <span class=\"scv-matched\">Anxiety</span> Because of Grasping ",
+            "en": "7. <span class=\"ebt-matched\">Anxiety</span> Because of Grasping ",
             "matched": true
           },
           "sn22.7:1.2": {
             "scid": "sn22.7:1.2",
             "pli": "“Upādāparitassanañca vo, bhikkhave, desessāmi anupādāaparitassanañca. ",
-            "en": "“Mendicants, I will teach you how grasping leads to <span class=\"scv-matched\">anxiety</span>, and how not grasping leads to freedom from <span class=\"scv-matched\">anxiety</span>. ",
+            "en": "“Mendicants, I will teach you how grasping leads to <span class=\"ebt-matched\">anxiety</span>, and how not grasping leads to freedom from <span class=\"ebt-matched\">anxiety</span>. ",
             "matched": true
           },
           "sn22.7:2.1": {
             "scid": "sn22.7:2.1",
             "pli": "“Kathañca, bhikkhave, upādāparitassanā hoti? ",
-            "en": "“And how does grasping lead to <span class=\"scv-matched\">anxiety</span>? ",
+            "en": "“And how does grasping lead to <span class=\"ebt-matched\">anxiety</span>? ",
             "matched": true
           },
           "sn22.7:5.6": {
             "scid": "sn22.7:5.6",
             "pli": "Evaṁ kho, bhikkhave, upādāparitassanā hoti. ",
-            "en": "That’s how grasping leads to <span class=\"scv-matched\">anxiety</span>. ",
+            "en": "That’s how grasping leads to <span class=\"ebt-matched\">anxiety</span>. ",
             "matched": true
           },
           "sn22.7:6.1": {
             "scid": "sn22.7:6.1",
             "pli": "Kathañca, bhikkhave, anupādāaparitassanā hoti? ",
-            "en": "And how does not grasping lead to freedom from <span class=\"scv-matched\">anxiety</span>? ",
+            "en": "And how does not grasping lead to freedom from <span class=\"ebt-matched\">anxiety</span>? ",
             "matched": true
           },
           "sn22.7:9.6": {
             "scid": "sn22.7:9.6",
             "pli": "Evaṁ kho, bhikkhave, anupādā aparitassanaṁ hotī”ti. ",
-            "en": "That’s how not grasping leads to freedom from <span class=\"scv-matched\">anxiety</span>.” ",
+            "en": "That’s how not grasping leads to freedom from <span class=\"ebt-matched\">anxiety</span>.” ",
             "matched": true
           }
         },
@@ -264,13 +264,13 @@
           "sn22.43:3.2": {
             "scid": "sn22.43:3.2",
             "pli": "Tesaṁ pahānā na paritassati, aparitassaṁ sukhaṁ viharati, sukhavihārī bhikkhu ‘tadaṅganibbuto’ti vuccati. ",
-            "en": "When these things are given up there’s no <span class=\"scv-matched\">anxiety</span>. Without <span class=\"scv-matched\">anxiety</span> you live happily. A mendicant who lives happily is said to be extinguished in that respect. ",
+            "en": "When these things are given up there’s no <span class=\"ebt-matched\">anxiety</span>. Without <span class=\"ebt-matched\">anxiety</span> you live happily. A mendicant who lives happily is said to be extinguished in that respect. ",
             "matched": true
           },
           "sn22.43:3.9": {
             "scid": "sn22.43:3.9",
             "pli": "Tesaṁ pahānā na paritassati, aparitassaṁ sukhaṁ viharati, sukhavihārī bhikkhu ‘tadaṅganibbuto’ti vuccatī”ti. ",
-            "en": "When these things are given up there’s no <span class=\"scv-matched\">anxiety</span>. Without <span class=\"scv-matched\">anxiety</span> you live happily. A mendicant who lives happily is said to be extinguished in that respect.” ",
+            "en": "When these things are given up there’s no <span class=\"ebt-matched\">anxiety</span>. Without <span class=\"ebt-matched\">anxiety</span> you live happily. A mendicant who lives happily is said to be extinguished in that respect.” ",
             "matched": true
           }
         },
@@ -299,7 +299,7 @@
           "sn2.17:2.5": {
             "scid": "sn2.17:2.5",
             "pli": "Sace atthi anutrastaṁ, ",
-            "en": "If there is a state free of <span class=\"scv-matched\">anxiety</span>, ",
+            "en": "If there is a state free of <span class=\"ebt-matched\">anxiety</span>, ",
             "matched": true
           }
         },
@@ -328,7 +328,7 @@
           "sn22.90:3.13": {
             "scid": "sn22.90:3.13",
             "pli": "Paritassanā upādānaṁ uppajjati; ",
-            "en": "<span class=\"scv-matched\">Anxiety</span> and grasping arise. ",
+            "en": "<span class=\"ebt-matched\">Anxiety</span> and grasping arise. ",
             "matched": true
           }
         },
@@ -357,7 +357,7 @@
           "mn98:11.8": {
             "scid": "mn98:11.8",
             "pli": "yo ve na paritassati; ",
-            "en": "they have no <span class=\"scv-matched\">anxiety</span>. ",
+            "en": "they have no <span class=\"ebt-matched\">anxiety</span>. ",
             "matched": true
           }
         },
@@ -386,7 +386,7 @@
           "dn1:3.32.0.2": {
             "scid": "dn1:3.32.0.2",
             "pli": "4.1. Paritassitavipphanditavāra ",
-            "en": "4.1. <span class=\"scv-matched\">Anxiety</span> and Evasiveness ",
+            "en": "4.1. <span class=\"ebt-matched\">Anxiety</span> and Evasiveness ",
             "matched": true
           }
         },

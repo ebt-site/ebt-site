@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -63,13 +63,13 @@
           "mn62:18.1": {
             "scid": "mn62:18.1",
             "pli": "Mettaṁ, rāhula, bhāvanaṁ bhāvehi. ",
-            "en": "Meditate <span class=\"scv-matched\">on love</span>. ",
+            "en": "Meditate <span class=\"ebt-matched\">on love</span>. ",
             "matched": true
           },
           "mn62:18.2": {
             "scid": "mn62:18.2",
             "pli": "Mettañhi te, rāhula, bhāvanaṁ bhāvayato yo byāpādo so pahīyissati. ",
-            "en": "For when you meditate <span class=\"scv-matched\">on love</span> any ill will will be given up. ",
+            "en": "For when you meditate <span class=\"ebt-matched\">on love</span> any ill will will be given up. ",
             "matched": true
           }
         },
@@ -98,7 +98,7 @@
           "kp9:0.2": {
             "scid": "kp9:0.2",
             "pli": "9. Mettasutta",
-            "en": "The Discourse <span class=\"scv-matched\">on Love</span>",
+            "en": "The Discourse <span class=\"ebt-matched\">on Love</span>",
             "matched": true
           }
         },
@@ -127,7 +127,7 @@
           "iti27:0.4": {
             "scid": "iti27:0.4",
             "pli": "Mettābhāvanāsutta",
-            "en": "27. The Meditation <span class=\"scv-matched\">on Love</span>",
+            "en": "27. The Meditation <span class=\"ebt-matched\">on Love</span>",
             "matched": true
           }
         },
@@ -156,7 +156,7 @@
           "mn118:14.8": {
             "scid": "mn118:14.8",
             "pli": "Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe mettābhāvanānuyogamanuyuttā viharanti … ",
-            "en": "In this Saṅgha there are mendicants who are committed to developing the meditation <span class=\"scv-matched\">on love</span> … ",
+            "en": "In this Saṅgha there are mendicants who are committed to developing the meditation <span class=\"ebt-matched\">on love</span> … ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "dn12:78.2": {
             "scid": "dn12:78.2",
             "pli": "“seyyathāpi, bho gotama, puriso purisaṁ narakapapātaṁ patantaṁ kesesu gahetvā uddharitvā thale patiṭṭhapeyya; ",
-            "en": "“Suppose, Master Gotama, a person was on the verge of falling off a cliff, and another person were to <span class=\"scv-matched\">grab them by the hair</span>, pull them up, and place them on firm ground. ",
+            "en": "“Suppose, Master Gotama, a person was on the verge of falling off a cliff, and another person were to <span class=\"ebt-matched\">grab them by the hair</span>, pull them up, and place them on firm ground. ",
             "matched": true
           }
         },

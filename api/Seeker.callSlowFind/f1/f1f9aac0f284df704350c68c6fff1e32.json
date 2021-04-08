@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "sn45.12:1.2": {
             "scid": "sn45.12:1.2",
             "pli": "“Icchāmahaṁ, bhikkhave, temāsaṁ paṭisallīyituṁ. ",
-            "en": "“Mendicants, I wish to go on <span class=\"scv-matched\">retreat for three months</span>. ",
+            "en": "“Mendicants, I wish to go on <span class=\"ebt-matched\">retreat for three months</span>. ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "sn54.11:1.3": {
             "scid": "sn54.11:1.3",
             "pli": "“icchāmahaṁ, bhikkhave, temāsaṁ paṭisallīyituṁ. ",
-            "en": "“Mendicants, I wish to go on <span class=\"scv-matched\">retreat for three months</span>. ",
+            "en": "“Mendicants, I wish to go on <span class=\"ebt-matched\">retreat for three months</span>. ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "sn54.12:6.3": {
             "scid": "sn54.12:6.3",
             "pli": "‘icchāmahaṁ, bhikkhave, temāsaṁ paṭisallīyituṁ. ",
-            "en": "‘Mendicants, I wish to go on <span class=\"scv-matched\">retreat for three months</span>. ",
+            "en": "‘Mendicants, I wish to go on <span class=\"ebt-matched\">retreat for three months</span>. ",
             "matched": true
           }
         },

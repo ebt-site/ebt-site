@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -69,37 +69,37 @@
           "sn35.108:0.3": {
             "scid": "sn35.108:0.3",
             "pli": "108. Seyyohamasmisutta ",
-            "en": "108. <span class=\"scv-matched\">I’m Better</span> ",
+            "en": "108. <span class=\"ebt-matched\">I’m Better</span> ",
             "matched": true
           },
           "sn35.108:1.1": {
             "scid": "sn35.108:1.1",
             "pli": "“Kismiṁ nu kho, bhikkhave, sati kiṁ upādāya kiṁ abhinivissa seyyohamasmīti vā hoti, sadisohamasmīti vā hoti, hīnohamasmīti vā hotī”ti? ",
-            "en": "“Mendicants, when what exists, because of grasping what and insisting on what, do people think ‘<span class=\"scv-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’?” ",
+            "en": "“Mendicants, when what exists, because of grasping what and insisting on what, do people think ‘<span class=\"ebt-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’?” ",
             "matched": true
           },
           "sn35.108:3.1": {
             "scid": "sn35.108:3.1",
             "pli": "“Cakkhusmiṁ kho, bhikkhave, sati cakkhuṁ upādāya cakkhuṁ abhinivissa seyyohamasmīti vā hoti, sadisohamasmīti vā hoti, hīnohamasmīti vā hoti …pe… ",
-            "en": "“When there’s an eye, because of grasping the eye and insisting on the eye, people think ‘<span class=\"scv-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’. … ",
+            "en": "“When there’s an eye, because of grasping the eye and insisting on the eye, people think ‘<span class=\"ebt-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’. … ",
             "matched": true
           },
           "sn35.108:3.3": {
             "scid": "sn35.108:3.3",
             "pli": "manasmiṁ sati manaṁ upādāya manaṁ abhinivissa seyyohamasmīti vā hoti, sadisohamasmīti vā hoti, hīnohamasmīti vā hoti. ",
-            "en": "When there’s a mind, because of grasping the mind and insisting on the mind, people think ‘<span class=\"scv-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’. ",
+            "en": "When there’s a mind, because of grasping the mind and insisting on the mind, people think ‘<span class=\"ebt-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’. ",
             "matched": true
           },
           "sn35.108:7.1": {
             "scid": "sn35.108:7.1",
             "pli": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, api nu taṁ anupādāya seyyohamasmīti vā assa, sadisohamasmīti vā assa, hīnohamasmīti vā assā”ti? ",
-            "en": "“But by not grasping what’s impermanent, suffering, and perishable, would people think ‘<span class=\"scv-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’?” ",
+            "en": "“But by not grasping what’s impermanent, suffering, and perishable, would people think ‘<span class=\"ebt-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’?” ",
             "matched": true
           },
           "sn35.108:14.1": {
             "scid": "sn35.108:14.1",
             "pli": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, api nu taṁ anupādāya seyyohamasmīti vā assa, sadisohamasmīti vā assa, hīnohamasmīti vā assā”ti? ",
-            "en": "“But by not grasping what’s impermanent, suffering, and perishable, would people think ‘<span class=\"scv-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’?” ",
+            "en": "“But by not grasping what’s impermanent, suffering, and perishable, would people think ‘<span class=\"ebt-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’?” ",
             "matched": true
           }
         },
@@ -128,25 +128,25 @@
           "sn22.49:2.1": {
             "scid": "sn22.49:2.1",
             "pli": "“Ye hi keci, soṇa, samaṇā vā brāhmaṇā vā aniccena rūpena dukkhena vipariṇāmadhammena ‘seyyohamasmī’ti vā samanupassanti; ",
-            "en": "“Soṇa, there are ascetics and brahmins who—based on form, which is impermanent, suffering, and perishable—regard themselves thus: ‘<span class=\"scv-matched\">I’m better</span>’, ",
+            "en": "“Soṇa, there are ascetics and brahmins who—based on form, which is impermanent, suffering, and perishable—regard themselves thus: ‘<span class=\"ebt-matched\">I’m better</span>’, ",
             "matched": true
           },
           "sn22.49:2.14": {
             "scid": "sn22.49:2.14",
             "pli": "Aniccena viññāṇena dukkhena vipariṇāmadhammena ‘seyyohamasmī’ti vā samanupassanti; ",
-            "en": "consciousness, which is impermanent, suffering, and perishable, they regard themselves thus: ‘<span class=\"scv-matched\">I’m better</span>’, ",
+            "en": "consciousness, which is impermanent, suffering, and perishable, they regard themselves thus: ‘<span class=\"ebt-matched\">I’m better</span>’, ",
             "matched": true
           },
           "sn22.49:3.1": {
             "scid": "sn22.49:3.1",
             "pli": "Ye ca kho keci, soṇa, samaṇā vā brāhmaṇā vā aniccena rūpena dukkhena vipariṇāmadhammena ‘seyyohamasmī’tipi na samanupassanti; ",
-            "en": "There are ascetics and brahmins who—based on form, which is impermanent, suffering, and perishable—don’t regard themselves thus: ‘<span class=\"scv-matched\">I’m better</span>’, ",
+            "en": "There are ascetics and brahmins who—based on form, which is impermanent, suffering, and perishable—don’t regard themselves thus: ‘<span class=\"ebt-matched\">I’m better</span>’, ",
             "matched": true
           },
           "sn22.49:3.8": {
             "scid": "sn22.49:3.8",
             "pli": "aniccena viññāṇena dukkhena vipariṇāmadhammena ‘seyyohamasmī’tipi na samanupassanti; ",
-            "en": "consciousness, which is impermanent, suffering, and perishable, they don’t regard themselves thus: ‘<span class=\"scv-matched\">I’m better</span>’, ",
+            "en": "consciousness, which is impermanent, suffering, and perishable, they don’t regard themselves thus: ‘<span class=\"ebt-matched\">I’m better</span>’, ",
             "matched": true
           }
         },
@@ -175,19 +175,19 @@
           "an4.185:4.6": {
             "scid": "an4.185:4.6",
             "pli": "So tena na samaṇoti maññati, na brāhmaṇoti maññati, na seyyohamasmīti maññati, na sadisohamasmīti maññati, na hīnohamasmīti maññati. ",
-            "en": "But they don’t think of themselves as an ‘ascetic’ or ‘brahmin’ because of that. Nor do they think ‘<span class=\"scv-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’. ",
+            "en": "But they don’t think of themselves as an ‘ascetic’ or ‘brahmin’ because of that. Nor do they think ‘<span class=\"ebt-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’. ",
             "matched": true
           },
           "an4.185:5.4": {
             "scid": "an4.185:5.4",
             "pli": "So tena na samaṇoti maññati, na brāhmaṇoti maññati, na seyyohamasmīti maññati, na sadisohamasmīti maññati, na hīnohamasmīti maññati. ",
-            "en": "But they don’t think of themselves as an ‘ascetic’ or ‘brahmin’ because of that. Nor do they think ‘<span class=\"scv-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’. ",
+            "en": "But they don’t think of themselves as an ‘ascetic’ or ‘brahmin’ because of that. Nor do they think ‘<span class=\"ebt-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’. ",
             "matched": true
           },
           "an4.185:7.4": {
             "scid": "an4.185:7.4",
             "pli": "So tena na samaṇoti maññati, na brāhmaṇoti maññati, na seyyohamasmīti maññati, na sadisohamasmīti maññati, na hīnohamasmīti maññati. ",
-            "en": "But they don’t think of themselves as an ‘ascetic’ or ‘brahmin’ because of that. Nor do they think ‘<span class=\"scv-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’. ",
+            "en": "But they don’t think of themselves as an ‘ascetic’ or ‘brahmin’ because of that. Nor do they think ‘<span class=\"ebt-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’. ",
             "matched": true
           }
         },
@@ -216,7 +216,7 @@
           "thag18.1:24.4": {
             "scid": "thag18.1:24.4",
             "pli": "ahaṁ seyyoti maññati.",
-            "en": "and thinking, ‘<span class=\"scv-matched\">I’m better</span> than them.’",
+            "en": "and thinking, ‘<span class=\"ebt-matched\">I’m better</span> than them.’",
             "matched": true
           },
           "thag18.1:26.3": {
@@ -251,7 +251,7 @@
           "sn45.162:1.3": {
             "scid": "sn45.162:1.3",
             "pli": "‘Seyyohamasmī’ti vidhā, ‘sadisohamasmī’ti vidhā, ‘hīnohamasmī’ti vidhā—",
-            "en": "One discriminates, thinking that ‘<span class=\"scv-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’. ",
+            "en": "One discriminates, thinking that ‘<span class=\"ebt-matched\">I’m better</span>’ or ‘I’m equal’ or ‘I’m worse’. ",
             "matched": true
           }
         },
@@ -280,7 +280,7 @@
           "dn33:1.10.49": {
             "scid": "dn33:1.10.49",
             "pli": "seyyohamasmīti vidhā, sadisohamasmīti vidhā, hīnohamasmīti vidhā. ",
-            "en": "‘<span class=\"scv-matched\">I’m better</span>’, ‘I’m equal’, and ‘I’m worse’. ",
+            "en": "‘<span class=\"ebt-matched\">I’m better</span>’, ‘I’m equal’, and ‘I’m worse’. ",
             "matched": true
           }
         },

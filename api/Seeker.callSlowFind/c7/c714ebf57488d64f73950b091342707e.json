@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,7 +66,7 @@
           "dn10:2.27.3": {
             "scid": "dn10:2.27.3",
             "pli": "Seyyathāpi, māṇava, puriso addhānamaggappaṭipanno. So suṇeyya bherisaddampi mudiṅgasaddampi saṅkhapaṇavadindimasaddampi. Tassa evamassa—bherisaddo itipi mudiṅgasaddo itipi saṅkhapaṇavadindimasaddo itipi. ",
-            "en": "Suppose there was <span class=\"scv-matched\">a person traveling along the road</span>. They’d hear the sound of drums, clay drums, horns, kettledrums, and tom-toms. They’d think: ‘That’s the sound of drums,’ and ‘that’s the sound of clay-drums,’ and ‘that’s the sound of horns, kettledrums, and tom-toms.’ ",
+            "en": "Suppose there was <span class=\"ebt-matched\">a person traveling along the road</span>. They’d hear the sound of drums, clay drums, horns, kettledrums, and tom-toms. They’d think: ‘That’s the sound of drums,’ and ‘that’s the sound of clay-drums,’ and ‘that’s the sound of horns, kettledrums, and tom-toms.’ ",
             "matched": true
           }
         },
@@ -101,7 +101,7 @@
           "dn2:90.1": {
             "scid": "dn2:90.1",
             "pli": "Seyyathāpi, mahārāja, puriso addhānamaggappaṭipanno. So suṇeyya bherisaddampi mudiṅgasaddampi saṅkhapaṇavadindimasaddampi. Tassa evamassa: ‘bherisaddo’ itipi, ‘mudiṅgasaddo’ itipi, ‘saṅkhapaṇavadindimasaddo’ itipi. ",
-            "en": "Suppose there was <span class=\"scv-matched\">a person traveling along the road</span>. They’d hear the sound of drums, clay drums, horns, kettledrums, and tom-toms. They’d think: ‘That’s the sound of drums,’ and ‘that’s the sound of clay-drums,’ and ‘that’s the sound of horns, kettledrums, and tom-toms.’ ",
+            "en": "Suppose there was <span class=\"ebt-matched\">a person traveling along the road</span>. They’d hear the sound of drums, clay drums, horns, kettledrums, and tom-toms. They’d think: ‘That’s the sound of drums,’ and ‘that’s the sound of clay-drums,’ and ‘that’s the sound of horns, kettledrums, and tom-toms.’ ",
             "matched": true
           }
         },
@@ -130,7 +130,7 @@
           "mn22:13.5": {
             "scid": "mn22:13.5",
             "pli": "“Seyyathāpi, bhikkhave, puriso addhānamaggappaṭipanno. ",
-            "en": "“Suppose there was <span class=\"scv-matched\">a person traveling along the road</span>. ",
+            "en": "“Suppose there was <span class=\"ebt-matched\">a person traveling along the road</span>. ",
             "matched": true
           }
         },

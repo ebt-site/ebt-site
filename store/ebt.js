@@ -35,7 +35,7 @@ export const mutations = {
         if (cursor) {
             settings.cursor = cursor;
             cursor.scid = value;
-            console.log(`$store.state.scv.cursorScid:`, cursor);
+            console.log(`$store.state.ebt.cursorScid:`, cursor);
         }
     },
     sutta(state, sutta) {
@@ -48,7 +48,7 @@ export const mutations = {
             settings.cursor = sh;
         }
         Object.assign(state.sutta, DEFAULT.sutta, sutta);
-        console.log(`$store.state.scv.sutta:`, sutta, sh);
+        console.log(`$store.state.ebt.sutta:`, sutta, sh);
     },
     suttaRef(state, value) {
         let { settings } = state;
@@ -73,18 +73,18 @@ export const mutations = {
             }
             history.sort((a,b)=>a.date-b.date);
         }
-        console.log(`$store.state.scv.suttaRef:`, value, settings); 
+        console.log(`$store.state.ebt.suttaRef:`, value, settings); 
     },
     search(state, value) {
         if (value !== state.search) {
-            console.log(`$store.state.scv.search:`, value);
+            console.log(`$store.state.ebt.search:`, value);
             state.search = value;
         }
     },
     searchResults(state, value) {
         state.searchResults = value;
         value.mlDocs.forEach(mld=>(mld.showDetails = false));
-        console.log(`$store.state.scv.searchResults:`, value);
+        console.log(`$store.state.ebt.searchResults:`, value);
     },
     settings(state, value) {
         Object.assign(state.settings, value);
@@ -92,21 +92,21 @@ export const mutations = {
         value.showPali === false && (state.settings.showTrans = true);
         value.saveSettings && (state.settings.saveSettingsExamples = false);
         value.saveSettingsExamples && (state.settings.saveSettings = false);
-        console.log(`$store.state.scv.settings:`, value);
+        console.log(`$store.state.ebt.settings:`, value);
     },
     voices(state, value) {
         Object.assign(state.voices, value);
-        console.log(`$store.state.scv.voices:`, value);
+        console.log(`$store.state.ebt.voices:`, value);
     },
     examples(state, value) {
         Object.assign(state.examples, value);
-        console.log(`$store.state.scv.examples:`, value);
+        console.log(`$store.state.ebt.examples:`, value);
     },
 }
 
 export const actions = {
     async loadSutta (context, payload) {
-        $nuxt.$emit('scv-load-sutta', payload);
+        $nuxt.$emit('ebt-load-sutta', payload);
         let settings = context.state.settings;
         let { sutta_uid, lang=settings.lang, updateHistory } = payload;
         context.commit('suttaRef', {sutta_uid, lang, updateHistory});
@@ -129,7 +129,7 @@ export const actions = {
             });
             commit('searchResults', value);
             commit('search', pattern);
-            $nuxt.$emit('scv-load-example', payload);
+            $nuxt.$emit('ebt-load-example', payload);
         }
     },
     async loadVoices({state, commit}) {

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "sn33.4:0.3": {
             "scid": "sn33.4:0.3",
             "pli": "4. Saṅkhāraaññāṇasutta ",
-            "en": "4. Not <span class=\"scv-matched\">Knowing Choices</span> ",
+            "en": "4. Not <span class=\"ebt-matched\">Knowing Choices</span> ",
             "matched": true
           },
           "sn33.4:1.6": {
             "scid": "sn33.4:1.6",
             "pli": "“Saṅkhāresu kho, vaccha, aññāṇā, saṅkhārasamudaye aññāṇā, saṅkhāranirodhe aññāṇā, saṅkhāranirodhagāminiyā paṭipadāya aññāṇā; ",
-            "en": "“Vaccha, it is because of not <span class=\"scv-matched\">knowing choices</span>, their origin, their cessation, and the practice that leads to their cessation …” ",
+            "en": "“Vaccha, it is because of not <span class=\"ebt-matched\">knowing choices</span>, their origin, their cessation, and the practice that leads to their cessation …” ",
             "matched": true
           }
         },
@@ -92,7 +92,7 @@
           "an4.16:2.5": {
             "scid": "an4.16:2.5",
             "pli": "Saṅkhāre parato ñatvā, ",
-            "en": "and <span class=\"scv-matched\">knowing choices</span> as other, ",
+            "en": "and <span class=\"ebt-matched\">knowing choices</span> as other, ",
             "matched": true
           }
         },

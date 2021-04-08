@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -81,13 +81,13 @@
           "mn11:5.14": {
             "scid": "mn11:5.14",
             "pli": "‘Sā panāvuso, niṭṭhā sataṇhassa udāhu vītataṇhassā’ti? ",
-            "en": "‘Is it for those who crave or those <span class=\"scv-matched\">rid of craving</span>?’ ",
+            "en": "‘Is it for those who crave or those <span class=\"ebt-matched\">rid of craving</span>?’ ",
             "matched": true
           },
           "mn11:5.16": {
             "scid": "mn11:5.16",
             "pli": "‘vītataṇhassāvuso, sā niṭṭhā, na sā niṭṭhā sataṇhassā’ti. ",
-            "en": "‘It’s for those <span class=\"scv-matched\">rid of craving</span>.’ ",
+            "en": "‘It’s for those <span class=\"ebt-matched\">rid of craving</span>.’ ",
             "matched": true
           },
           "mn11:8.1": {
@@ -122,13 +122,13 @@
           "mn18:4.1": {
             "scid": "mn18:4.1",
             "pli": "“Yathāvādī kho, āvuso, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya na kenaci loke viggayha tiṭṭhati, yathā ca pana kāmehi visaṁyuttaṁ viharantaṁ taṁ brāhmaṇaṁ akathaṅkathiṁ chinnakukkuccaṁ bhavābhave vītataṇhaṁ saññā nānusenti—",
-            "en": "“Sir, my teaching is such that one does not conflict with anyone in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans. And it is such that perceptions do not underlie the brahmin who lives detached from sensual pleasures, without doubting, stripped of worry, and <span class=\"scv-matched\">rid of craving</span> for rebirth in this or that state. ",
+            "en": "“Sir, my teaching is such that one does not conflict with anyone in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans. And it is such that perceptions do not underlie the brahmin who lives detached from sensual pleasures, without doubting, stripped of worry, and <span class=\"ebt-matched\">rid of craving</span> for rebirth in this or that state. ",
             "matched": true
           },
           "mn18:7.2": {
             "scid": "mn18:7.2",
             "pli": "Kathañca pana, bhante, bhagavantaṁ kāmehi visaṁyuttaṁ viharantaṁ taṁ brāhmaṇaṁ akathaṅkathiṁ chinnakukkuccaṁ bhavābhave vītataṇhaṁ saññā nānusentī”ti? ",
-            "en": "And how is it that perceptions do not underlie the Buddha, the brahmin who lives detached from sensual pleasures, without indecision, stripped of worry, and <span class=\"scv-matched\">rid of craving</span> for rebirth in this or that state?” ",
+            "en": "And how is it that perceptions do not underlie the Buddha, the brahmin who lives detached from sensual pleasures, without indecision, stripped of worry, and <span class=\"ebt-matched\">rid of craving</span> for rebirth in this or that state?” ",
             "matched": true
           }
         },
@@ -157,7 +157,7 @@
           "an4.9:3.3": {
             "scid": "an4.9:3.3",
             "pli": "Vītataṇho anādāno, ",
-            "en": "<span class=\"scv-matched\">rid of craving</span>, free of grasping, ",
+            "en": "<span class=\"ebt-matched\">rid of craving</span>, free of grasping, ",
             "matched": true
           }
         },
@@ -186,7 +186,7 @@
           "iti15:4.3": {
             "scid": "iti15:4.3",
             "pli": "Vītataṇho anādāno,",
-            "en": "<span class=\"scv-matched\">rid of craving</span>, free of grasping,",
+            "en": "<span class=\"ebt-matched\">rid of craving</span>, free of grasping,",
             "matched": true
           }
         },
@@ -215,7 +215,7 @@
           "iti58:4.2": {
             "scid": "iti58:4.2",
             "pli": "vītataṇhā bhavābhave;",
-            "en": "<span class=\"scv-matched\">rid of craving</span> for rebirth in this or that state,",
+            "en": "<span class=\"ebt-matched\">rid of craving</span> for rebirth in this or that state,",
             "matched": true
           }
         },
@@ -244,7 +244,7 @@
           "iti105:4.3": {
             "scid": "iti105:4.3",
             "pli": "Vītataṇho anādāno,",
-            "en": "<span class=\"scv-matched\">rid of craving</span>, free of grasping,",
+            "en": "<span class=\"ebt-matched\">rid of craving</span>, free of grasping,",
             "matched": true
           }
         },
@@ -273,7 +273,7 @@
           "iti49:7.2": {
             "scid": "iti49:7.2",
             "pli": "vītataṇho bhavābhave;",
-            "en": "<span class=\"scv-matched\">rid of craving</span> for rebirth in this or that state,",
+            "en": "<span class=\"ebt-matched\">rid of craving</span> for rebirth in this or that state,",
             "matched": true
           }
         },
@@ -302,7 +302,7 @@
           "thag16.4:10.2": {
             "scid": "thag16.4:10.2",
             "pli": "Avītataṇhā maraṇaṁ upenti;",
-            "en": "reach death not <span class=\"scv-matched\">rid of craving</span>.",
+            "en": "reach death not <span class=\"ebt-matched\">rid of craving</span>.",
             "matched": true
           }
         },
@@ -331,7 +331,7 @@
           "thag16.8:25.1": {
             "scid": "thag16.8:25.1",
             "pli": "Vītataṇho anādāno,",
-            "en": "I am <span class=\"scv-matched\">rid of craving</span>, free of grasping,",
+            "en": "I am <span class=\"ebt-matched\">rid of craving</span>, free of grasping,",
             "matched": true
           }
         },
@@ -360,7 +360,7 @@
           "mn82:42.12": {
             "scid": "mn82:42.12",
             "pli": "Avītataṇhā maraṇaṁ upenti; ",
-            "en": "reach death not <span class=\"scv-matched\">rid of craving</span>. ",
+            "en": "reach death not <span class=\"ebt-matched\">rid of craving</span>. ",
             "matched": true
           }
         },

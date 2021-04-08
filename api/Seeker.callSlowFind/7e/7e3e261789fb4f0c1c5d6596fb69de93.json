@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an6.55:4.4": {
             "scid": "an6.55:4.4",
             "pli": "“Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā”ti? ",
-            "de": "„Wenn die Saiten deiner Harfe <span class=\"scv-matched\">zu straff gespannt</span> waren, hat sie da richtig geklungen und war zu gebrauchen?“ ",
+            "de": "„Wenn die Saiten deiner Harfe <span class=\"ebt-matched\">zu straff gespannt</span> waren, hat sie da richtig geklungen und war zu gebrauchen?“ ",
             "en": "“When your harp’s strings were tuned too tight, was it resonant and playable?” ",
             "matched": true
           },

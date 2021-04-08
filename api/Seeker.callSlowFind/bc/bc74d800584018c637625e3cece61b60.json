@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "dn34:1.2.1": {
             "scid": "dn34:1.2.1",
             "pli": "Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo. ",
-            "de": "Werte Freunde, ein Ding ist eine große Hilfe, <span class=\"scv-matched\">ein Ding muss entwickelt werden</span>, ein Ding muss vollständig verstanden werden, ein Ding muss aufgegeben werden, ein Ding führt zum Rückschritt, ein Ding führt zu Erhabenheit, ein Ding ist schwer zu erfassen, ein Ding muss erzeugt werden, ein Ding muss unmittelbar erkannt werden und ein Ding muss verwirklicht werden. ",
+            "de": "Werte Freunde, ein Ding ist eine große Hilfe, <span class=\"ebt-matched\">ein Ding muss entwickelt werden</span>, ein Ding muss vollständig verstanden werden, ein Ding muss aufgegeben werden, ein Ding führt zum Rückschritt, ein Ding führt zu Erhabenheit, ein Ding ist schwer zu erfassen, ein Ding muss erzeugt werden, ein Ding muss unmittelbar erkannt werden und ein Ding muss verwirklicht werden. ",
             "en": "Reverends, one thing is helpful, one thing should be developed, one thing should be completely understood, one thing should be given up, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing should be produced, one thing should be directly known, one thing should be realized. ",
             "matched": true
           },

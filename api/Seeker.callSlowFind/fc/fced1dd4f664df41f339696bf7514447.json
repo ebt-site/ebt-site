@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -75,19 +75,19 @@
           "iti61:2.3": {
             "scid": "iti61:2.3",
             "pli": "Maṁsacakkhu, dibbacakkhu, paññācakkhu—",
-            "en": "the eye of the flesh, the eye of clairvoyance, and the <span class=\"scv-matched\">eye of wisdom</span>. ",
+            "en": "the eye of the flesh, the eye of clairvoyance, and the <span class=\"ebt-matched\">eye of wisdom</span>. ",
             "matched": true
           },
           "iti61:3.2": {
             "scid": "iti61:3.2",
             "pli": "paññācakkhu anuttaraṁ;",
-            "en": "the supreme <span class=\"scv-matched\">eye of wisdom</span>:",
+            "en": "the supreme <span class=\"ebt-matched\">eye of wisdom</span>:",
             "matched": true
           },
           "iti61:4.4": {
             "scid": "iti61:4.4",
             "pli": "paññācakkhu anuttaraṁ;",
-            "en": "the supreme <span class=\"scv-matched\">eye of wisdom</span>—",
+            "en": "the supreme <span class=\"ebt-matched\">eye of wisdom</span>—",
             "matched": true
           }
         },
@@ -116,7 +116,7 @@
           "sn56.63:1.1": {
             "scid": "sn56.63:1.1",
             "pli": "… “Evameva kho, bhikkhave, appakā te sattā ye pana ariyena paññācakkhunā samannāgatā; atha kho eteva bahutarā sattā ye avijjāgatā sammuḷhā …pe…. ",
-            "en": "“… the sentient beings who have the noble <span class=\"scv-matched\">eye of wisdom</span> are few, while those who are ignorant and confused are many. …” ",
+            "en": "“… the sentient beings who have the noble <span class=\"ebt-matched\">eye of wisdom</span> are few, while those who are ignorant and confused are many. …” ",
             "matched": true
           }
         },
@@ -145,7 +145,7 @@
           "sn41.5:7.3": {
             "scid": "sn41.5:7.3",
             "pli": "Yassa te gambhīre buddhavacane paññācakkhu kamatī”ti. ",
-            "en": "to traverse the Buddha’s deep teachings with the <span class=\"scv-matched\">eye of wisdom</span>.” ",
+            "en": "to traverse the Buddha’s deep teachings with the <span class=\"ebt-matched\">eye of wisdom</span>.” ",
             "matched": true
           }
         },
@@ -174,7 +174,7 @@
           "sn41.7:6.16": {
             "scid": "sn41.7:6.16",
             "pli": "Yassa te gambhīre buddhavacane paññācakkhu kamatī”ti. ",
-            "en": "to traverse the Buddha’s deep teachings with the <span class=\"scv-matched\">eye of wisdom</span>.” ",
+            "en": "to traverse the Buddha’s deep teachings with the <span class=\"ebt-matched\">eye of wisdom</span>.” ",
             "matched": true
           }
         },
@@ -203,7 +203,7 @@
           "sn41.1:4.20": {
             "scid": "sn41.1:4.20",
             "pli": "yassa te gambhīre buddhavacane paññācakkhu kamatī”ti. ",
-            "en": "to traverse the Buddha’s deep teachings with the <span class=\"scv-matched\">eye of wisdom</span>.” ",
+            "en": "to traverse the Buddha’s deep teachings with the <span class=\"ebt-matched\">eye of wisdom</span>.” ",
             "matched": true
           }
         },
@@ -232,7 +232,7 @@
           "an1.337:1.1": {
             "scid": "an1.337:1.1",
             "pli": "… Evamevaṁ kho, bhikkhave, appakā te sattā ye ariyena paññācakkhunā samannāgatā; ",
-            "en": "… so too the sentient beings who have the noble <span class=\"scv-matched\">eye of wisdom</span> are few, ",
+            "en": "… so too the sentient beings who have the noble <span class=\"ebt-matched\">eye of wisdom</span> are few, ",
             "matched": true
           }
         },
@@ -261,7 +261,7 @@
           "mn43:11.2": {
             "scid": "mn43:11.2",
             "pli": "“Neyyaṁ kho, āvuso, dhammaṁ paññācakkhunā pajānātī”ti. ",
-            "en": "“You understand something that can be known with the <span class=\"scv-matched\">eye of wisdom</span>.” ",
+            "en": "“You understand something that can be known with the <span class=\"ebt-matched\">eye of wisdom</span>.” ",
             "matched": true
           }
         },
@@ -290,7 +290,7 @@
           "dn33:1.10.113": {
             "scid": "dn33:1.10.113",
             "pli": "maṁsacakkhu, dibbacakkhu, paññācakkhu. ",
-            "en": "the eye of the flesh, the eye of clairvoyance, and the <span class=\"scv-matched\">eye of wisdom</span>. ",
+            "en": "the eye of the flesh, the eye of clairvoyance, and the <span class=\"ebt-matched\">eye of wisdom</span>. ",
             "matched": true
           }
         },

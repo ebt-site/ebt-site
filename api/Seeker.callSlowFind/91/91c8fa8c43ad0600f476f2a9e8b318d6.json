@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "dn12:8.10": {
             "scid": "dn12:8.10",
             "pli": "“Appeva nāma siyā, rosike, appeva nāma siyā, rosike”ti. ",
-            "en": "“<span class=\"scv-matched\">Hopefully that’ll happen</span>, Rosika, <span class=\"scv-matched\">hopefully that’ll happen</span>.” ",
+            "en": "“<span class=\"ebt-matched\">Hopefully that’ll happen</span>, Rosika, <span class=\"ebt-matched\">hopefully that’ll happen</span>.” ",
             "matched": true
           }
         },

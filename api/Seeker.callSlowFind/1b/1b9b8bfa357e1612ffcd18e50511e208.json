@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -81,7 +81,7 @@
           "sn5.1:6.1": {
             "scid": "sn5.1:6.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ āḷavikā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "en": "Then Māra the Wicked, thinking, “<span class=\"scv-matched\">The nun Āḷavikā knows me</span>!” miserable and sad, vanished right there.",
+            "en": "Then Māra the Wicked, thinking, “<span class=\"ebt-matched\">The nun Āḷavikā knows me</span>!” miserable and sad, vanished right there.",
             "matched": true
           }
         },
@@ -110,7 +110,7 @@
           "sn5.2:6.1": {
             "scid": "sn5.2:6.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ somā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "en": "Then Māra the Wicked, thinking, “<span class=\"scv-matched\">The nun Somā knows me</span>!” miserable and sad, vanished right there.",
+            "en": "Then Māra the Wicked, thinking, “<span class=\"ebt-matched\">The nun Somā knows me</span>!” miserable and sad, vanished right there.",
             "matched": true
           }
         },
@@ -139,7 +139,7 @@
           "sn5.3:7.1": {
             "scid": "sn5.3:7.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ kisāgotamī bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "en": "Then Māra the Wicked, thinking, “<span class=\"scv-matched\">The nun Kisāgotamī knows me</span>!” miserable and sad, vanished right there.",
+            "en": "Then Māra the Wicked, thinking, “<span class=\"ebt-matched\">The nun Kisāgotamī knows me</span>!” miserable and sad, vanished right there.",
             "matched": true
           }
         },
@@ -168,7 +168,7 @@
           "sn5.6:6.1": {
             "scid": "sn5.6:6.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ cālā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "en": "Then Māra the Wicked, thinking, “<span class=\"scv-matched\">The nun Cālā knows me</span>!” miserable and sad, vanished right there.",
+            "en": "Then Māra the Wicked, thinking, “<span class=\"ebt-matched\">The nun Cālā knows me</span>!” miserable and sad, vanished right there.",
             "matched": true
           }
         },
@@ -197,7 +197,7 @@
           "sn5.8:6.1": {
             "scid": "sn5.8:6.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ sīsupacālā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "en": "Then Māra the Wicked, thinking, “<span class=\"scv-matched\">The nun Sīsupacālā knows me</span>!” miserable and sad, vanished right there.",
+            "en": "Then Māra the Wicked, thinking, “<span class=\"ebt-matched\">The nun Sīsupacālā knows me</span>!” miserable and sad, vanished right there.",
             "matched": true
           }
         },
@@ -226,7 +226,7 @@
           "sn5.4:7.1": {
             "scid": "sn5.4:7.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ vijayā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "en": "Then Māra the Wicked, thinking, “<span class=\"scv-matched\">The nun Vijayā knows me</span>!” miserable and sad, vanished right there.",
+            "en": "Then Māra the Wicked, thinking, “<span class=\"ebt-matched\">The nun Vijayā knows me</span>!” miserable and sad, vanished right there.",
             "matched": true
           }
         },
@@ -255,7 +255,7 @@
           "sn5.5:7.1": {
             "scid": "sn5.5:7.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ uppalavaṇṇā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "en": "Then Māra the Wicked, thinking, “<span class=\"scv-matched\">The nun Uppalavaṇṇā knows me</span>!” miserable and sad, vanished right there.",
+            "en": "Then Māra the Wicked, thinking, “<span class=\"ebt-matched\">The nun Uppalavaṇṇā knows me</span>!” miserable and sad, vanished right there.",
             "matched": true
           }
         },
@@ -284,7 +284,7 @@
           "sn5.7:6.1": {
             "scid": "sn5.7:6.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ upacālā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "en": "Then Māra the Wicked, thinking, “<span class=\"scv-matched\">The nun Upacālā knows me</span>!” miserable and sad, vanished right there.",
+            "en": "Then Māra the Wicked, thinking, “<span class=\"ebt-matched\">The nun Upacālā knows me</span>!” miserable and sad, vanished right there.",
             "matched": true
           }
         },
@@ -313,7 +313,7 @@
           "sn5.9:7.1": {
             "scid": "sn5.9:7.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ selā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "en": "Then Māra the Wicked, thinking, “<span class=\"scv-matched\">The nun Selā knows me</span>!” miserable and sad, vanished right there.",
+            "en": "Then Māra the Wicked, thinking, “<span class=\"ebt-matched\">The nun Selā knows me</span>!” miserable and sad, vanished right there.",
             "matched": true
           }
         },
@@ -342,7 +342,7 @@
           "sn5.10:7.1": {
             "scid": "sn5.10:7.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ vajirā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "en": "Then Māra the Wicked, thinking, “<span class=\"scv-matched\">The nun Vajirā knows me</span>!” miserable and sad, vanished right there. ",
+            "en": "Then Māra the Wicked, thinking, “<span class=\"ebt-matched\">The nun Vajirā knows me</span>!” miserable and sad, vanished right there. ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,13 +60,13 @@
           "dn16:3.39.4": {
             "scid": "dn16:3.39.4",
             "pli": "“Saddahasi tvaṁ, ānanda, tathāgatassa bodhin”ti? ",
-            "en": "“Ānanda, <span class=\"scv-matched\">do you have faith</span> in the Realized One’s awakening?” ",
+            "en": "“Ānanda, <span class=\"ebt-matched\">do you have faith</span> in the Realized One’s awakening?” ",
             "matched": true
           },
           "dn16:3.40.4": {
             "scid": "dn16:3.40.4",
             "pli": "“Saddahasi tvaṁ, ānandā”ti? ",
-            "en": "“<span class=\"scv-matched\">Do you have faith</span>, Ānanda?” ",
+            "en": "“<span class=\"ebt-matched\">Do you have faith</span>, Ānanda?” ",
             "matched": true
           }
         },
@@ -95,7 +95,7 @@
           "sn48.44:1.4": {
             "scid": "sn48.44:1.4",
             "pli": "“saddahasi tvaṁ, sāriputta—",
-            "en": "“Sāriputta, <span class=\"scv-matched\">do you have faith</span> that ",
+            "en": "“Sāriputta, <span class=\"ebt-matched\">do you have faith</span> that ",
             "matched": true
           }
         },
@@ -124,7 +124,7 @@
           "sn41.8:1.5": {
             "scid": "sn41.8:1.5",
             "pli": "“saddahasi tvaṁ, gahapati, samaṇassa gotamassa—",
-            "en": "“Householder, <span class=\"scv-matched\">do you have faith</span> in the ascetic Gotama’s claim that ",
+            "en": "“Householder, <span class=\"ebt-matched\">do you have faith</span> in the ascetic Gotama’s claim that ",
             "matched": true
           }
         },

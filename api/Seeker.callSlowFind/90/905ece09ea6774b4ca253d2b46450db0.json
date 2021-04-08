@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an6.54:8.1": {
             "scid": "an6.54:8.1",
             "pli": "Bhūtapubbaṁ, brāhmaṇa dhammika, sāmuddikā vāṇijā tīradassiṁ sakuṇaṁ gahetvā nāvāya samuddaṁ ajjhogāhanti. ",
-            "de": "Es waren einmal ein paar seefahrende Kaufleute, die setzten ihre Segel, um aufs offene Meer zu fahren, und nahmen einen <span class=\"scv-matched\">Küstenspäher-Vogel</span> mit. ",
+            "de": "Es waren einmal ein paar seefahrende Kaufleute, die setzten ihre Segel, um aufs offene Meer zu fahren, und nahmen einen <span class=\"ebt-matched\">Küstenspäher-Vogel</span> mit. ",
             "en": "Once upon a time, some sea-merchants set sail for the ocean deeps, taking with them a land-spotting bird. ",
             "matched": true
           }

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an4.198:11.9": {
             "scid": "an4.198:11.9",
             "pli": "So iminā ariyena indriyasaṁvarena samannāgato ajjhattaṁ abyāsekasukhaṁ paṭisaṁvedeti. ",
-            "de": "Wenn sie diese edle Zügelung der Sinne besitzt, erfährt sie im Innern <span class=\"scv-matched\">eine fleckenlose Wonne</span>. ",
+            "de": "Wenn sie diese edle Zügelung der Sinne besitzt, erfährt sie im Innern <span class=\"ebt-matched\">eine fleckenlose Wonne</span>. ",
             "en": "When they have this noble sense restraint, they experience an unsullied bliss inside themselves. ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "dn10:2.2.10": {
             "scid": "dn10:2.2.10",
             "pli": "So iminā ariyena indriyasaṁvarena samannāgato ajjhattaṁ abyāsekasukhaṁ paṭisaṁvedeti. ",
-            "de": "Wenn er diese edle Zügelung der Sinne besitzt, erfährt er im Innern <span class=\"scv-matched\">eine fleckenlose Wonne</span>. ",
+            "de": "Wenn er diese edle Zügelung der Sinne besitzt, erfährt er im Innern <span class=\"ebt-matched\">eine fleckenlose Wonne</span>. ",
             "en": "When they have this noble sense restraint, they experience an unsullied bliss inside themselves. ",
             "matched": true
           }

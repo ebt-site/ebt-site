@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "thig5.9:3.4": {
             "scid": "thig5.9:3.4",
             "pli": "sā me āsūpasampadā.",
-            "de": "<span class=\"scv-matched\">das war meine Ordination</span>. ",
+            "de": "<span class=\"ebt-matched\">das war meine Ordination</span>. ",
             "en": "that was my ordination.",
             "matched": true
           }

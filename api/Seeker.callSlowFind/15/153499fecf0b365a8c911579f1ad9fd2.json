@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an5.6:1.2": {
             "scid": "an5.6:1.2",
             "pli": "Yato ca kho, bhikkhave, saddhā antarahitā hoti, assaddhiyaṁ pariyuṭṭhāya tiṭṭhati; ",
-            "de": "Aber <span class=\"scv-matched\">wenn das Vertrauen verschwindet</span> und der Mangel daran überhandnimmt, ",
+            "de": "Aber <span class=\"ebt-matched\">wenn das Vertrauen verschwindet</span> und der Mangel daran überhandnimmt, ",
             "en": "But when faith vanishes and faithlessness takes over, ",
             "matched": true
           }

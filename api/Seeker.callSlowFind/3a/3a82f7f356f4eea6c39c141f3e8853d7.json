@@ -14,7 +14,7 @@
       "searchLang": "jpn",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "jpn",
       "types": [
         "root",
@@ -58,21 +58,21 @@
             "scid": "an3.25:1.3",
             "pli": "Arukūpamacitto puggalo, vijjūpamacitto puggalo, vajirūpamacitto puggalo. ",
             "en": "A person with a mind like an open sore, a person with a mind like lightning, and a person with a mind like diamond. ",
-            "jpn": "心が開いた傷口のような人、心が<span class=\"scv-matched\">稲妻のよう</span>な人、そして心がダイアモンドのような人です。",
+            "jpn": "心が開いた傷口のような人、心が<span class=\"ebt-matched\">稲妻のよう</span>な人、そして心がダイアモンドのような人です。",
             "matched": true
           },
           "an3.25:2.1": {
             "scid": "an3.25:2.1",
             "pli": "Katamo ca, bhikkhave, vijjūpamacitto puggalo? ",
             "en": "And who has a mind like lightning? ",
-            "jpn": "どんな人が<span class=\"scv-matched\">稲妻のよう</span>な心なのですか。",
+            "jpn": "どんな人が<span class=\"ebt-matched\">稲妻のよう</span>な心なのですか。",
             "matched": true
           },
           "an3.25:2.5": {
             "scid": "an3.25:2.5",
             "pli": "Ayaṁ vuccati, bhikkhave, vijjūpamacitto puggalo. ",
             "en": "This is called a person with a mind like lightning. ",
-            "jpn": "こんな人は心が<span class=\"scv-matched\">稲妻のよう</span>な人と言われます。",
+            "jpn": "こんな人は心が<span class=\"ebt-matched\">稲妻のよう</span>な人と言われます。",
             "matched": true
           }
         },

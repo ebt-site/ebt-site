@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "sn7.2:3.1": {
             "scid": "sn7.2:3.1",
             "pli": "Yo kho, brāhmaṇa, akkosantaṁ paccakkosati, rosentaṁ paṭiroseti, bhaṇḍantaṁ paṭibhaṇḍati, ayaṁ vuccati, brāhmaṇa, sambhuñjati vītiharatīti. ",
-            "en": "Someone who, when abused, harassed, and attacked, abuses, harasses, and attacks in return is said to eat the food and <span class=\"scv-matched\">have a reaction</span> to it. ",
+            "en": "Someone who, when abused, harassed, and attacked, abuses, harasses, and attacks in return is said to eat the food and <span class=\"ebt-matched\">have a reaction</span> to it. ",
             "matched": true
           },
           "sn7.2:3.2": {
             "scid": "sn7.2:3.2",
             "pli": "Te mayaṁ tayā neva sambhuñjāma na vītiharāma. ",
-            "en": "But we neither eat your food nor do we <span class=\"scv-matched\">have a reaction</span> to it. ",
+            "en": "But we neither eat your food nor do we <span class=\"ebt-matched\">have a reaction</span> to it. ",
             "matched": true
           }
         },

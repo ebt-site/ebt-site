@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,7 +72,7 @@
           "sn36.11:2.16": {
             "scid": "sn36.11:2.16",
             "pli": "Paṭhamaṁ jhānaṁ samāpannassa vācā niruddhā hoti. ",
-            "en": "For someone who has attained the first absorption, speech <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the first absorption, speech <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "sn36.11:2.17": {
@@ -84,37 +84,37 @@
           "sn36.11:2.18": {
             "scid": "sn36.11:2.18",
             "pli": "Tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti. ",
-            "en": "For someone who has attained the third absorption, rapture <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the third absorption, rapture <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "sn36.11:2.19": {
             "scid": "sn36.11:2.19",
             "pli": "Catutthaṁ jhānaṁ samāpannassa assāsapassāsā niruddhā honti. ",
-            "en": "For someone who has attained the fourth absorption, breathing <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the fourth absorption, breathing <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "sn36.11:2.20": {
             "scid": "sn36.11:2.20",
             "pli": "Ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti. ",
-            "en": "For someone who has attained the dimension of infinite space, the perception of form <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of infinite space, the perception of form <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "sn36.11:2.21": {
             "scid": "sn36.11:2.21",
             "pli": "Viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti. ",
-            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "sn36.11:2.22": {
             "scid": "sn36.11:2.22",
             "pli": "Ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti. ",
-            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "sn36.11:2.23": {
             "scid": "sn36.11:2.23",
             "pli": "Nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti. ",
-            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "sn36.11:2.24": {
@@ -167,37 +167,37 @@
           "an9.31:1.5": {
             "scid": "an9.31:1.5",
             "pli": "tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti; ",
-            "en": "For someone who has attained the third absorption, rapture <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the third absorption, rapture <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "an9.31:1.6": {
             "scid": "an9.31:1.6",
             "pli": "catutthaṁ jhānaṁ samāpannassa assāsapassāsā niruddhā honti; ",
-            "en": "For someone who has attained the fourth absorption, breathing <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the fourth absorption, breathing <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "an9.31:1.7": {
             "scid": "an9.31:1.7",
             "pli": "ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti; ",
-            "en": "For someone who has attained the dimension of infinite space, the perception of form <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of infinite space, the perception of form <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "an9.31:1.8": {
             "scid": "an9.31:1.8",
             "pli": "viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti; ",
-            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "an9.31:1.9": {
             "scid": "an9.31:1.9",
             "pli": "ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti; ",
-            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "an9.31:1.10": {
             "scid": "an9.31:1.10",
             "pli": "nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti; ",
-            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "an9.31:1.11": {
@@ -244,37 +244,37 @@
           "dn34:2.2.82": {
             "scid": "dn34:2.2.82",
             "pli": "tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti, ",
-            "en": "For someone who has attained the third absorption, rapture <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the third absorption, rapture <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "dn34:2.2.83": {
             "scid": "dn34:2.2.83",
             "pli": "catutthaṁ jhānaṁ samāpannassa assāsapassāssā niruddhā honti, ",
-            "en": "For someone who has attained the fourth absorption, breathing <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the fourth absorption, breathing <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "dn34:2.2.84": {
             "scid": "dn34:2.2.84",
             "pli": "ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti, ",
-            "en": "For someone who has attained the dimension of infinite space, the perception of form <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of infinite space, the perception of form <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "dn34:2.2.85": {
             "scid": "dn34:2.2.85",
             "pli": "viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti, ",
-            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "dn34:2.2.86": {
             "scid": "dn34:2.2.86",
             "pli": "ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti, ",
-            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "dn34:2.2.87": {
             "scid": "dn34:2.2.87",
             "pli": "nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti, ",
-            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "dn34:2.2.88": {
@@ -321,37 +321,37 @@
           "dn33:3.2.85": {
             "scid": "dn33:3.2.85",
             "pli": "Tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti. ",
-            "en": "For someone who has attained the third absorption, rapture <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the third absorption, rapture <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "dn33:3.2.86": {
             "scid": "dn33:3.2.86",
             "pli": "Catutthaṁ jhānaṁ samāpannassa assāsapassāssā niruddhā honti. ",
-            "en": "For someone who has attained the fourth absorption, breathing <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the fourth absorption, breathing <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "dn33:3.2.87": {
             "scid": "dn33:3.2.87",
             "pli": "Ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti. ",
-            "en": "For someone who has attained the dimension of infinite space, the perception of form <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of infinite space, the perception of form <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "dn33:3.2.88": {
             "scid": "dn33:3.2.88",
             "pli": "Viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti. ",
-            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "dn33:3.2.89": {
             "scid": "dn33:3.2.89",
             "pli": "Ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti. ",
-            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "dn33:3.2.90": {
             "scid": "dn33:3.2.90",
             "pli": "Nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti. ",
-            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness <span class=\"scv-matched\">has ceased</span>. ",
+            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness <span class=\"ebt-matched\">has ceased</span>. ",
             "matched": true
           },
           "dn33:3.2.91": {
@@ -386,7 +386,7 @@
           "sn36.15:1.15": {
             "scid": "sn36.15:1.15",
             "pli": "Paṭhamaṁ jhānaṁ samāpannassa vācā niruddhā hoti …pe… ",
-            "en": "For someone who has attained the first absorption, speech <span class=\"scv-matched\">has ceased</span>. … ",
+            "en": "For someone who has attained the first absorption, speech <span class=\"ebt-matched\">has ceased</span>. … ",
             "matched": true
           },
           "sn36.15:1.16": {
@@ -427,13 +427,13 @@
           "sn22.85:13.9": {
             "scid": "sn22.85:13.9",
             "pli": "yaṁ dukkhaṁ taṁ niruddhaṁ tadatthaṅgataṁ. ",
-            "en": "What’s suffering <span class=\"scv-matched\">has ceased</span> and ended. ",
+            "en": "What’s suffering <span class=\"ebt-matched\">has ceased</span> and ended. ",
             "matched": true
           },
           "sn22.85:13.15": {
             "scid": "sn22.85:13.15",
             "pli": "yaṁ dukkhaṁ taṁ niruddhaṁ tadatthaṅgatan’ti. ",
-            "en": "What’s suffering <span class=\"scv-matched\">has ceased</span> and ended.’ ",
+            "en": "What’s suffering <span class=\"ebt-matched\">has ceased</span> and ended.’ ",
             "matched": true
           }
         },
@@ -462,7 +462,7 @@
           "ud8.9:5.1": {
             "scid": "ud8.9:5.1",
             "pli": "“Abhedi kāyo nirodhi saññā,",
-            "en": "“The body is broken up, perception <span class=\"scv-matched\">has ceased</span>,",
+            "en": "“The body is broken up, perception <span class=\"ebt-matched\">has ceased</span>,",
             "matched": true
           }
         },

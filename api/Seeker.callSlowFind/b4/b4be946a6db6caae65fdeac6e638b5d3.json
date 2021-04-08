@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "dn33:3.3.35": {
             "scid": "dn33:3.3.35",
             "pli": "Dasa kasiṇāyatanāni. ",
-            "de": "<span class=\"scv-matched\">Zehn allumfassende Dimensionen</span> der Meditation: ",
+            "de": "<span class=\"ebt-matched\">Zehn allumfassende Dimensionen</span> der Meditation: ",
             "en": "Ten universal dimensions of meditation. ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "dn34:2.3.36": {
             "scid": "dn34:2.3.36",
             "pli": "Dasa kasiṇāyatanāni—",
-            "de": "<span class=\"scv-matched\">Zehn allumfassende Dimensionen</span> der Meditation: ",
+            "de": "<span class=\"ebt-matched\">Zehn allumfassende Dimensionen</span> der Meditation: ",
             "en": "Ten universal dimensions of meditation. ",
             "matched": true
           }

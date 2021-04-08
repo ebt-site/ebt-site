@@ -14,7 +14,7 @@
       "searchLang": "jpn",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "jpn",
       "types": [
         "root",
@@ -58,21 +58,21 @@
             "scid": "an1.53:1.1",
             "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ āsevati; ",
             "en": "“If, mendicants, a mendicant cultivates a mind of love even as long as a finger-snap, ",
-            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が指をパチンと鳴らすほどのほんの短い間でも<span class=\"scv-matched\">愛情の心</span>を育てると、 ",
+            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が指をパチンと鳴らすほどのほんの短い間でも<span class=\"ebt-matched\">愛情の心</span>を育てると、 ",
             "matched": true
           },
           "an1.54:1.1": {
             "scid": "an1.54:1.1",
             "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ bhāveti; ",
             "en": "“If, mendicants, a mendicant develops a mind of love even as long as a finger-snap, ",
-            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が指をパチンと鳴らすほどのほんの短い間でも<span class=\"scv-matched\">愛情の心</span>を発達させると、 ",
+            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が指をパチンと鳴らすほどのほんの短い間でも<span class=\"ebt-matched\">愛情の心</span>を発達させると、 ",
             "matched": true
           },
           "an1.55:1.1": {
             "scid": "an1.55:1.1",
             "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ manasi karoti; ",
             "en": "“If, mendicants, a mendicant focuses on a mind of love even as long as a finger-snap, ",
-            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が指をパチンと鳴らすほどのほんの短い間でも<span class=\"scv-matched\">愛情の心</span>に注意を払うと、 ",
+            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が指をパチンと鳴らすほどのほんの短い間でも<span class=\"ebt-matched\">愛情の心</span>に注意を払うと、 ",
             "matched": true
           }
         },

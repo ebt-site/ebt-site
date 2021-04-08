@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "an10.44:2.1": {
             "scid": "an10.44:2.1",
             "pli": "“Codakena, bhikkhave, bhikkhunā paraṁ codetukāmena pañca dhamme ajjhattaṁ paccavekkhitvā pañca dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo. ",
-            "en": "“Mendicants, a mendicant who wants to accuse another should first check five <span class=\"scv-matched\">things in themselves</span> and establish five <span class=\"scv-matched\">things in themselves</span>. ",
+            "en": "“Mendicants, a mendicant who wants to accuse another should first check five <span class=\"ebt-matched\">things in themselves</span> and establish five <span class=\"ebt-matched\">things in themselves</span>. ",
             "matched": true
           },
           "an10.44:2.2": {
@@ -90,7 +90,7 @@
           "an10.44:7.8": {
             "scid": "an10.44:7.8",
             "pli": "Codakena, bhikkhave, bhikkhunā paraṁ codetukāmena ime pañca dhamme ajjhattaṁ paccavekkhitvā ime pañca dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo”ti. ",
-            "en": "A mendicant who wants to accuse another should first check these five <span class=\"scv-matched\">things in themselves</span> and establish these five <span class=\"scv-matched\">things in themselves</span>.” ",
+            "en": "A mendicant who wants to accuse another should first check these five <span class=\"ebt-matched\">things in themselves</span> and establish these five <span class=\"ebt-matched\">things in themselves</span>.” ",
             "matched": true
           }
         },
@@ -119,13 +119,13 @@
           "an5.167:1.2": {
             "scid": "an5.167:1.2",
             "pli": "“codakena, āvuso, bhikkhunā paraṁ codetukāmena pañca dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo. ",
-            "en": "“Reverends, a mendicant who wants to accuse another should first establish five <span class=\"scv-matched\">things in themselves</span>. ",
+            "en": "“Reverends, a mendicant who wants to accuse another should first establish five <span class=\"ebt-matched\">things in themselves</span>. ",
             "matched": true
           },
           "an5.167:2.7": {
             "scid": "an5.167:2.7",
             "pli": "Codakena, āvuso, bhikkhunā paraṁ codetukāmena ime pañca dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo. ",
-            "en": "A mendicant who wants to accuse another should first establish these five <span class=\"scv-matched\">things in themselves</span>. ",
+            "en": "A mendicant who wants to accuse another should first establish these five <span class=\"ebt-matched\">things in themselves</span>. ",
             "matched": true
           },
           "an5.167:9.1": {
@@ -160,13 +160,13 @@
           "dn33:2.1.58": {
             "scid": "dn33:2.1.58",
             "pli": "Codakena, āvuso, bhikkhunā paraṁ codetukāmena pañca dhamme ajjhattaṁ upaṭṭhapetvā paro codetabbo. ",
-            "en": "A mendicant who wants to accuse another should first establish five <span class=\"scv-matched\">things in themselves</span>. ",
+            "en": "A mendicant who wants to accuse another should first establish five <span class=\"ebt-matched\">things in themselves</span>. ",
             "matched": true
           },
           "dn33:2.1.64": {
             "scid": "dn33:2.1.64",
             "pli": "Codakena, āvuso, bhikkhunā paraṁ codetukāmena ime pañca dhamme ajjhattaṁ upaṭṭhapetvā paro codetabbo. ",
-            "en": "A mendicant who wants to accuse another should first establish these five <span class=\"scv-matched\">things in themselves</span>. ",
+            "en": "A mendicant who wants to accuse another should first establish these five <span class=\"ebt-matched\">things in themselves</span>. ",
             "matched": true
           }
         },

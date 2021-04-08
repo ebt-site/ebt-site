@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "mn39:14.9": {
             "scid": "mn39:14.9",
             "pli": "So aparena samayena tamhā ābādhā mucceyya, bhattañcassa chādeyya, siyā cassa kāye balamattā. ",
-            "en": "But after some time they’d recover from that illness, and <span class=\"scv-matched\">regain their appetite</span> and their strength. ",
+            "en": "But after some time they’d recover from that illness, and <span class=\"ebt-matched\">regain their appetite</span> and their strength. ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "dn10:2.8.2": {
             "scid": "dn10:2.8.2",
             "pli": "So aparena samayena tamhā ābādhā mucceyya, bhattañcassa chādeyya, siyā cassa kāye balamattā. ",
-            "en": "But after some time they’d recover from that illness, and <span class=\"scv-matched\">regain their appetite</span> and their strength. ",
+            "en": "But after some time they’d recover from that illness, and <span class=\"ebt-matched\">regain their appetite</span> and their strength. ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "dn2:70.2": {
             "scid": "dn2:70.2",
             "pli": "So aparena samayena tamhā ābādhā mucceyya; bhattaṁ cassa chādeyya, siyā cassa kāye balamattā. ",
-            "en": "But after some time they’d recover from that illness, and <span class=\"scv-matched\">regain their appetite</span> and their strength. ",
+            "en": "But after some time they’d recover from that illness, and <span class=\"ebt-matched\">regain their appetite</span> and their strength. ",
             "matched": true
           }
         },

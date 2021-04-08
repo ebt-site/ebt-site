@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "sn47.3:1.4": {
             "scid": "sn47.3:1.4",
             "pli": "“Evameva panidhekacce moghapurisā mañceva ajjhesanti, dhamme ca bhāsite mameva anubandhitabbaṁ maññantī”ti. ",
-            "de": "„Genauso bitten mich manche törichten Menschen um etwas. Doch wenn dann die Lehre dargelegt wurde, haben sie nur im Sinn, <span class=\"scv-matched\">mir hinterherzulaufen</span>.“ ",
+            "de": "„Genauso bitten mich manche törichten Menschen um etwas. Doch wenn dann die Lehre dargelegt wurde, haben sie nur im Sinn, <span class=\"ebt-matched\">mir hinterherzulaufen</span>.“ ",
             "en": "“This is exactly how some foolish people ask me for something. But when the teaching has been explained they think only of following me around.” ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "an8.63:1.4": {
             "scid": "an8.63:1.4",
             "pli": "Dhamme ca bhāsite mamaññeva anubandhitabbaṁ maññantī”ti. ",
-            "de": "Doch wenn dann die Lehre dargelegt wurde, haben sie nur im Sinn, <span class=\"scv-matched\">mir hinterherzulaufen</span>.“ ",
+            "de": "Doch wenn dann die Lehre dargelegt wurde, haben sie nur im Sinn, <span class=\"ebt-matched\">mir hinterherzulaufen</span>.“ ",
             "en": "But when the teaching has been explained they think only of following me around.” ",
             "matched": true
           }

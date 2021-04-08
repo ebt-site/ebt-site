@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "mn3:9-15.6": {
             "scid": "mn3:9-15.6",
             "pli": "māno ca pāpako atimāno ca pāpako, ",
-            "en": "<span class=\"scv-matched\">conceit and arrogance</span> … ",
+            "en": "<span class=\"ebt-matched\">conceit and arrogance</span> … ",
             "matched": true
           }
         },

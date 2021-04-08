@@ -1,11 +1,11 @@
 <template>
-  <div class="nuxt-content scv-toc">
+  <div class="nuxt-content ebt-toc">
     <h1>Wiki Contents</h1>
-    <scv-article-items :article="article" :items="items"/>
+    <ebt-article-items :article="article" :items="items"/>
   </div>
 </template>
 <script>
-  import ScvArticleItems from '@/components/scv-article-items';
+  import EbtArticleItems from '@/components/ebt-article-items';
   export default {
     async asyncData({ $content, params }) {
       const items = await $content('wiki')
@@ -21,7 +21,7 @@
       }
     },
     components: {
-      ScvArticleItems,
+      EbtArticleItems,
     },
   }
 </script>

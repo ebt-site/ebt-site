@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -99,7 +99,7 @@
           "sn2.23:12.2": {
             "scid": "sn2.23:12.2",
             "pli": "‘na kho dāni devassa koci dānaṁ dīyatī’ti. ",
-            "en": "‘Now Your Majesty is not <span class=\"scv-matched\">giving gifts</span> at all!’ ",
+            "en": "‘Now Your Majesty is not <span class=\"ebt-matched\">giving gifts</span> at all!’ ",
             "matched": true
           }
         },
@@ -128,13 +128,13 @@
           "an5.31:7.2": {
             "scid": "an5.31:7.2",
             "pli": "Yāvañcidaṁ, bhante, alameva dānāni dātuṁ alaṁ puññāni kātuṁ; ",
-            "en": "Just this much is quite enough to justify <span class=\"scv-matched\">giving gifts</span> and making merit. ",
+            "en": "Just this much is quite enough to justify <span class=\"ebt-matched\">giving gifts</span> and making merit. ",
             "matched": true
           },
           "an5.31:7.5": {
             "scid": "an5.31:7.5",
             "pli": "Alañhi, sumane, dānāni dātuṁ alaṁ puññāni kātuṁ. ",
-            "en": "It’s quite enough to justify <span class=\"scv-matched\">giving gifts</span> and making merit. ",
+            "en": "It’s quite enough to justify <span class=\"ebt-matched\">giving gifts</span> and making merit. ",
             "matched": true
           }
         },
@@ -163,7 +163,7 @@
           "an4.34:7.1": {
             "scid": "an4.34:7.1",
             "pli": "Aggasmiṁ dānaṁ dadataṁ, ",
-            "en": "<span class=\"scv-matched\">giving gifts</span> to the best, ",
+            "en": "<span class=\"ebt-matched\">giving gifts</span> to the best, ",
             "matched": true
           }
         },
@@ -192,7 +192,7 @@
           "iti90:7.1": {
             "scid": "iti90:7.1",
             "pli": "Aggasmiṁ dānaṁ dadataṁ,",
-            "en": "<span class=\"scv-matched\">giving gifts</span> to the best, ",
+            "en": "<span class=\"ebt-matched\">giving gifts</span> to the best, ",
             "matched": true
           }
         },
@@ -221,7 +221,7 @@
           "an5.32:10.1": {
             "scid": "an5.32:10.1",
             "pli": "Aggasmiṁ dānaṁ dadataṁ, ",
-            "en": "<span class=\"scv-matched\">giving gifts</span> to the best, ",
+            "en": "<span class=\"ebt-matched\">giving gifts</span> to the best, ",
             "matched": true
           }
         },
@@ -250,7 +250,7 @@
           "iti83:17.2": {
             "scid": "iti83:17.2",
             "pli": "katvā dānena taṁ bahuṁ;",
-            "en": "by <span class=\"scv-matched\">giving gifts</span>,",
+            "en": "by <span class=\"ebt-matched\">giving gifts</span>,",
             "matched": true
           }
         },
@@ -279,7 +279,7 @@
           "an10.177:18.2": {
             "scid": "an10.177:18.2",
             "pli": "Yāvañcidaṁ, bho gotama, alameva dānāni dātuṁ, alaṁ saddhāni kātuṁ, yatra hi nāma dāyakopi anipphalo”ti. ",
-            "en": "Just this much is quite enough to justify <span class=\"scv-matched\">giving gifts</span> and performing memorial rites for the dead, since it’s never fruitless for the donor.” ",
+            "en": "Just this much is quite enough to justify <span class=\"ebt-matched\">giving gifts</span> and performing memorial rites for the dead, since it’s never fruitless for the donor.” ",
             "matched": true
           }
         },
@@ -308,7 +308,7 @@
           "dn30:1.7.2": {
             "scid": "dn30:1.7.2",
             "pli": "bahujanassa sukhāvaho ahosi, ubbegauttāsabhayaṁ apanuditā, dhammikañca rakkhāvaraṇaguttiṁ saṁvidhātā, saparivārañca dānaṁ adāsi. ",
-            "en": "He brought happiness to many people, eliminating threats, terror, and danger, providing just protection and security, and <span class=\"scv-matched\">giving gifts</span> with all the trimmings. ",
+            "en": "He brought happiness to many people, eliminating threats, terror, and danger, providing just protection and security, and <span class=\"ebt-matched\">giving gifts</span> with all the trimmings. ",
             "matched": true
           }
         },

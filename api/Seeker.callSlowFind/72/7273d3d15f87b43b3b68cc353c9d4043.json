@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -73,7 +73,7 @@
           "kp3:1.1": {
             "scid": "kp3:1.1",
             "pli": "Atthi imasmiṁ kāye—",
-            "de": "„In diesem Körper gibt es <span class=\"scv-matched\">Kopfhaare, Körperhaare</span>, Nägel, Zähne, Haut, Fleisch, Sehnen, Knochen, Knochenmark, Nieren, Herz, Leber, Zwerchfell, Milz, Lungen, Därme, Gekröse, Speisebrei, Kot, Hirn, Galle, Schleim, Eiter, Blut, Schweiß, Fett, Tränen, Talg, Speichel, Nasenschleim, Gelenkschmiere, Urin.“ ",
+            "de": "„In diesem Körper gibt es <span class=\"ebt-matched\">Kopfhaare, Körperhaare</span>, Nägel, Zähne, Haut, Fleisch, Sehnen, Knochen, Knochenmark, Nieren, Herz, Leber, Zwerchfell, Milz, Lungen, Därme, Gekröse, Speisebrei, Kot, Hirn, Galle, Schleim, Eiter, Blut, Schweiß, Fett, Tränen, Talg, Speichel, Nasenschleim, Gelenkschmiere, Urin.“ ",
             "en": "“In this body there is head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces, brain, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.”",
             "matched": true
           }
@@ -105,7 +105,7 @@
           "an6.29:6.2": {
             "scid": "an6.29:6.2",
             "pli": "‘atthi imasmiṁ kāye kesā lomā nakhā dantā taco, maṁsaṁ nhāru aṭṭhi aṭṭhimiñjaṁ vakkaṁ, hadayaṁ yakanaṁ kilomakaṁ pihakaṁ papphāsaṁ, antaṁ antaguṇaṁ udariyaṁ karīsaṁ, pittaṁ semhaṁ pubbo lohitaṁ sedo medo, assu vasā kheḷo siṅghāṇikā lasikā muttan’ti. ",
-            "de": "‚In diesem Körper gibt es <span class=\"scv-matched\">Kopfhaare, Körperhaare</span>, Nägel, Zähne, Haut, Fleisch, Sehnen, Knochen, Knochenmark, Nieren, Herz, Leber, Zwerchfell, Milz, Lungen, Därme, Gekröse, Speisebrei, Kot, Galle, Schleim, Eiter, Blut, Schweiß, Fett, Tränen, Talg, Speichel, Nasenschleim, Gelenkschmiere, Urin.‘ ",
+            "de": "‚In diesem Körper gibt es <span class=\"ebt-matched\">Kopfhaare, Körperhaare</span>, Nägel, Zähne, Haut, Fleisch, Sehnen, Knochen, Knochenmark, Nieren, Herz, Leber, Zwerchfell, Milz, Lungen, Därme, Gekröse, Speisebrei, Kot, Galle, Schleim, Eiter, Blut, Schweiß, Fett, Tränen, Talg, Speichel, Nasenschleim, Gelenkschmiere, Urin.‘ ",
             "en": "‘In this body there is head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’ ",
             "matched": true
           }
@@ -137,7 +137,7 @@
           "an10.60:6.3": {
             "scid": "an10.60:6.3",
             "pli": "‘atthi imasmiṁ kāye kesā lomā nakhā dantā taco, maṁsaṁ nhāru aṭṭhi aṭṭhimiñjaṁ vakkaṁ, hadayaṁ yakanaṁ kilomakaṁ pihakaṁ papphāsaṁ, antaṁ antaguṇaṁ udariyaṁ karīsaṁ, pittaṁ semhaṁ pubbo lohitaṁ sedo medo, assu vasā kheḷo siṅghāṇikā lasikā muttan’ti. ",
-            "de": "‚In diesem Körper gibt es <span class=\"scv-matched\">Kopfhaare, Körperhaare</span>, Nägel, Zähne, Haut, Fleisch, Sehnen, Knochen, Knochenmark, Nieren, Herz, Leber, Zwerchfell, Milz, Lungen, Därme, Gekröse, Speisebrei, Kot, Galle, Schleim, Eiter, Blut, Schweiß, Fett, Tränen, Talg, Speichel, Nasenschleim, Gelenkschmiere, Urin.‘ ",
+            "de": "‚In diesem Körper gibt es <span class=\"ebt-matched\">Kopfhaare, Körperhaare</span>, Nägel, Zähne, Haut, Fleisch, Sehnen, Knochen, Knochenmark, Nieren, Herz, Leber, Zwerchfell, Milz, Lungen, Därme, Gekröse, Speisebrei, Kot, Galle, Schleim, Eiter, Blut, Schweiß, Fett, Tränen, Talg, Speichel, Nasenschleim, Gelenkschmiere, Urin.‘ ",
             "en": "‘In this body there is head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’ ",
             "matched": true
           }
@@ -169,7 +169,7 @@
           "dn28:7.4": {
             "scid": "dn28:7.4",
             "pli": "‘atthi imasmiṁ kāye kesā lomā nakhā dantā taco maṁsaṁ nhāru aṭṭhi aṭṭhimiñjaṁ vakkaṁ hadayaṁ yakanaṁ kilomakaṁ pihakaṁ papphāsaṁ antaṁ antaguṇaṁ udariyaṁ karīsaṁ pittaṁ semhaṁ pubbo lohitaṁ sedo medo assu vasā kheḷo siṅghānikā lasikā muttan’ti. ",
-            "de": "‚In diesem Körper gibt es <span class=\"scv-matched\">Kopfhaare, Körperhaare</span>, Nägel, Zähne, Haut, Fleisch, Sehnen, Knochen, Knochenmark, Nieren, Herz, Leber, Zwerchfell, Milz, Lungen, Därme, Gekröse, Speisebrei, Kot, Galle, Schleim, Eiter, Blut, Schweiß, Fett, Tränen, Talg, Speichel, Nasenschleim, Gelenkschmiere, Urin.‘ ",
+            "de": "‚In diesem Körper gibt es <span class=\"ebt-matched\">Kopfhaare, Körperhaare</span>, Nägel, Zähne, Haut, Fleisch, Sehnen, Knochen, Knochenmark, Nieren, Herz, Leber, Zwerchfell, Milz, Lungen, Därme, Gekröse, Speisebrei, Kot, Galle, Schleim, Eiter, Blut, Schweiß, Fett, Tränen, Talg, Speichel, Nasenschleim, Gelenkschmiere, Urin.‘ ",
             "en": "‘In this body there is head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’ ",
             "matched": true
           }
@@ -201,7 +201,7 @@
           "mn10:10.2": {
             "scid": "mn10:10.2",
             "pli": "‘atthi imasmiṁ kāye kesā lomā nakhā dantā taco maṁsaṁ nhāru aṭṭhi aṭṭhimiñjaṁ vakkaṁ hadayaṁ yakanaṁ kilomakaṁ pihakaṁ papphāsaṁ antaṁ antaguṇaṁ udariyaṁ karīsaṁ pittaṁ semhaṁ pubbo lohitaṁ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttan’ti. ",
-            "de": "‚In diesem Körper gibt es <span class=\"scv-matched\">Kopfhaare, Körperhaare</span>, Nägel, Zähne, Haut, Fleisch, Sehnen, Knochen, Knochenmark, Nieren, Herz, Leber, Zwerchfell, Milz, Lungen, Därme, Gekröse, Speisebrei, Kot, Galle, Schleim, Eiter, Blut, Schweiß, Fett, Tränen, Talg, Speichel, Nasenschleim, Gelenkschmiere, Urin.‘ ",
+            "de": "‚In diesem Körper gibt es <span class=\"ebt-matched\">Kopfhaare, Körperhaare</span>, Nägel, Zähne, Haut, Fleisch, Sehnen, Knochen, Knochenmark, Nieren, Herz, Leber, Zwerchfell, Milz, Lungen, Därme, Gekröse, Speisebrei, Kot, Galle, Schleim, Eiter, Blut, Schweiß, Fett, Tränen, Talg, Speichel, Nasenschleim, Gelenkschmiere, Urin.‘ ",
             "en": "‘In this body there is head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’ ",
             "matched": true
           }

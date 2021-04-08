@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -69,13 +69,13 @@
           "an8.51:18.1": {
             "scid": "an8.51:18.1",
             "pli": "Ajjatagge ovaṭo bhikkhunīnaṁ bhikkhūsu vacanapatho, anovaṭo bhikkhūnaṁ bhikkhunīsu vacanapatho. ",
-            "en": "From this day forth it is forbidden for nuns <span class=\"scv-matched\">to criticize</span> monks, but it is not forbidden for monks <span class=\"scv-matched\">to criticize</span> nuns. ",
+            "en": "From this day forth it is forbidden for nuns <span class=\"ebt-matched\">to criticize</span> monks, but it is not forbidden for monks <span class=\"ebt-matched\">to criticize</span> nuns. ",
             "matched": true
           },
           "an8.51:23.1": {
             "scid": "an8.51:23.1",
             "pli": "Ajjatagge ovaṭo bhikkhunīnaṁ bhikkhūsu vacanapatho, anovaṭo bhikkhūnaṁ bhikkhunīsu vacanapatho. ",
-            "en": "From this day forth it is forbidden for nuns <span class=\"scv-matched\">to criticize</span> monks, but it is not forbidden for monks <span class=\"scv-matched\">to criticize</span> nuns. ",
+            "en": "From this day forth it is forbidden for nuns <span class=\"ebt-matched\">to criticize</span> monks, but it is not forbidden for monks <span class=\"ebt-matched\">to criticize</span> nuns. ",
             "matched": true
           }
         },
@@ -110,7 +110,7 @@
           "dn1:1.5.3": {
             "scid": "dn1:1.5.3",
             "pli": "Mamaṁ vā, bhikkhave, pare avaṇṇaṁ bhāseyyuṁ, dhammassa vā avaṇṇaṁ bhāseyyuṁ, saṅghassa vā avaṇṇaṁ bhāseyyuṁ, tatra ce tumhe assatha kupitā vā anattamanā vā, api nu tumhe paresaṁ subhāsitaṁ dubbhāsitaṁ ājāneyyāthā”ti? ",
-            "en": "If others were <span class=\"scv-matched\">to criticize</span> me, the teaching, or the Saṅgha, and you got angry and upset, would you be able to understand whether they spoke well or poorly?” ",
+            "en": "If others were <span class=\"ebt-matched\">to criticize</span> me, the teaching, or the Saṅgha, and you got angry and upset, would you be able to understand whether they spoke well or poorly?” ",
             "matched": true
           }
         },
@@ -139,7 +139,7 @@
           "ud7.6:4.4": {
             "scid": "ud7.6:4.4",
             "pli": "ko taṁ ninditumarahati;",
-            "en": "who is worthy <span class=\"scv-matched\">to criticize</span> them? ",
+            "en": "who is worthy <span class=\"ebt-matched\">to criticize</span> them? ",
             "matched": true
           }
         },
@@ -168,7 +168,7 @@
           "an5.42:4.4": {
             "scid": "an5.42:4.4",
             "pli": "ko taṁ ninditumarahati; ",
-            "en": "who is worthy <span class=\"scv-matched\">to criticize</span> them? ",
+            "en": "who is worthy <span class=\"ebt-matched\">to criticize</span> them? ",
             "matched": true
           }
         },
@@ -197,7 +197,7 @@
           "an4.28:7.4": {
             "scid": "an4.28:7.4",
             "pli": "ko taṁ ninditumarahati; ",
-            "en": "who is worthy <span class=\"scv-matched\">to criticize</span> them? ",
+            "en": "who is worthy <span class=\"ebt-matched\">to criticize</span> them? ",
             "matched": true
           }
         },
@@ -226,7 +226,7 @@
           "an4.6:9.4": {
             "scid": "an4.6:9.4",
             "pli": "ko taṁ ninditumarahati; ",
-            "en": "who is worthy <span class=\"scv-matched\">to criticize</span> them? ",
+            "en": "who is worthy <span class=\"ebt-matched\">to criticize</span> them? ",
             "matched": true
           }
         },

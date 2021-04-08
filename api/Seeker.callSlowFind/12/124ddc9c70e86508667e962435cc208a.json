@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,43 +66,43 @@
           "an7.66:3.2": {
             "scid": "an7.66:3.2",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni vassasatasahassāni devo na vassati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, the rain doesn’t fall. For many years, many hundreds, many thousands, many hundreds of thousands of years no rain falls. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, the rain doesn’t fall. For many years, many hundreds, many thousands, many hundreds of thousands of years no rain falls. ",
             "matched": true
           },
           "an7.66:4.1": {
             "scid": "an7.66:4.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena dutiyo sūriyo pātubhavati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, a second sun appears. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, a second sun appears. ",
             "matched": true
           },
           "an7.66:5.1": {
             "scid": "an7.66:5.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tatiyo sūriyo pātubhavati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, a third sun appears. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, a third sun appears. ",
             "matched": true
           },
           "an7.66:6.1": {
             "scid": "an7.66:6.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena catuttho sūriyo pātubhavati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, a fourth sun appears. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, a fourth sun appears. ",
             "matched": true
           },
           "an7.66:7.1": {
             "scid": "an7.66:7.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena pañcamo sūriyo pātubhavati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, a fifth sun appears. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, a fifth sun appears. ",
             "matched": true
           },
           "an7.66:8.1": {
             "scid": "an7.66:8.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena chaṭṭho sūriyo pātubhavati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, a sixth sun appears. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, a sixth sun appears. ",
             "matched": true
           },
           "an7.66:9.1": {
             "scid": "an7.66:9.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena sattamo sūriyo pātubhavati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, a seventh sun appears. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, a seventh sun appears. ",
             "matched": true
           }
         },
@@ -131,19 +131,19 @@
           "mn130:18.1": {
             "scid": "mn130:18.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tassa mahānirayassa puratthimaṁ dvāraṁ apāpurīyati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, the eastern gate of the Great Hell is opened. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, the eastern gate of the Great Hell is opened. ",
             "matched": true
           },
           "mn130:18.6": {
             "scid": "mn130:18.6",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tassa mahānirayassa pacchimaṁ dvāraṁ apāpurīyati …pe… ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, the western gate … ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, the western gate … ",
             "matched": true
           },
           "mn130:19.1": {
             "scid": "mn130:19.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tassa mahānirayassa puratthimaṁ dvāraṁ apāpurīyati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, the eastern gate of the Great Hell is opened. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, the eastern gate of the Great Hell is opened. ",
             "matched": true
           }
         },
@@ -172,13 +172,13 @@
           "dn27:10.1": {
             "scid": "dn27:10.1",
             "pli": "Hoti kho so, vāseṭṭha, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
-            "en": "There comes a time when, Vāseṭṭha, <span class=\"scv-matched\">after a very long period has passed</span>, this cosmos contracts. ",
+            "en": "There comes a time when, Vāseṭṭha, <span class=\"ebt-matched\">after a very long period has passed</span>, this cosmos contracts. ",
             "matched": true
           },
           "dn27:10.4": {
             "scid": "dn27:10.4",
             "pli": "Hoti kho so, vāseṭṭha, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, this cosmos expands. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, this cosmos expands. ",
             "matched": true
           }
         },
@@ -207,13 +207,13 @@
           "dn1:2.2.1": {
             "scid": "dn1:2.2.1",
             "pli": "Hoti kho so, bhikkhave, samayo, yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, this cosmos contracts. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, this cosmos contracts. ",
             "matched": true
           },
           "dn1:2.3.1": {
             "scid": "dn1:2.3.1",
             "pli": "Hoti kho so, bhikkhave, samayo, yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, this cosmos expands. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, this cosmos expands. ",
             "matched": true
           }
         },
@@ -242,13 +242,13 @@
           "dn24:2.14.11": {
             "scid": "dn24:2.14.11",
             "pli": "‘Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
-            "en": "‘There comes a time when, reverends, <span class=\"scv-matched\">after a very long period has passed</span>, this cosmos contracts. ",
+            "en": "‘There comes a time when, reverends, <span class=\"ebt-matched\">after a very long period has passed</span>, this cosmos contracts. ",
             "matched": true
           },
           "dn24:2.15.1": {
             "scid": "dn24:2.15.1",
             "pli": "Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
-            "en": "There comes a time when, <span class=\"scv-matched\">after a very long period has passed</span>, this cosmos expands. ",
+            "en": "There comes a time when, <span class=\"ebt-matched\">after a very long period has passed</span>, this cosmos expands. ",
             "matched": true
           }
         },

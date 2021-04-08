@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -69,7 +69,7 @@
           "sn6.1:9.3": {
             "scid": "sn6.1:9.3",
             "pli": "Seyyathāpi nāma uppaliniyaṁ vā paduminiyaṁ vā puṇḍarīkiniyaṁ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni anto nimuggaposīni, appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni samodakaṁ ṭhitāni, appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakā accuggamma ṭhitāni anupalittāni udakena; ",
-            "de": "Wie ein <span class=\"scv-matched\">Teich mit blauen Seerosen</span> oder rosa oder weißen Lotusblumen. Manche von ihnen sprießen und wachsen im Wasser, ohne sich darüber zu erheben, und gedeihen unter Wasser. Manche sprießen und wachsen im Wasser und erreichen die Wasseroberfläche. Und manche sprießen und wachsen im Wasser, doch sie erheben sich über das Wasser und stehen da, ohne dass Wasser an ihnen haftet. ",
+            "de": "Wie ein <span class=\"ebt-matched\">Teich mit blauen Seerosen</span> oder rosa oder weißen Lotusblumen. Manche von ihnen sprießen und wachsen im Wasser, ohne sich darüber zu erheben, und gedeihen unter Wasser. Manche sprießen und wachsen im Wasser und erreichen die Wasseroberfläche. Und manche sprießen und wachsen im Wasser, doch sie erheben sich über das Wasser und stehen da, ohne dass Wasser an ihnen haftet. ",
             "en": "It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. Some of them sprout and grow in the water reaching the water’s surface. And some of them sprout and grow in the water but rise up above the water and stand with no water clinging to them. ",
             "matched": true
           }
@@ -101,7 +101,7 @@
           "an5.28:4.4": {
             "scid": "an5.28:4.4",
             "pli": "Seyyathāpi, bhikkhave, uppaliniyaṁ vā paduminiyaṁ vā puṇḍarīkiniyaṁ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni anto nimuggaposīni. ",
-            "de": "Wie ein <span class=\"scv-matched\">Teich mit blauen Seerosen</span> oder rosa oder weißen Lotusblumen. Manche von ihnen sprießen und wachsen im Wasser, ohne sich darüber zu erheben, und gedeihen unter Wasser. ",
+            "de": "Wie ein <span class=\"ebt-matched\">Teich mit blauen Seerosen</span> oder rosa oder weißen Lotusblumen. Manche von ihnen sprießen und wachsen im Wasser, ohne sich darüber zu erheben, und gedeihen unter Wasser. ",
             "en": "It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. ",
             "matched": true
           }
@@ -133,7 +133,7 @@
           "dn10:2.17.3": {
             "scid": "dn10:2.17.3",
             "pli": "Seyyathāpi, māṇava, uppaliniyaṁ vā paduminiyaṁ vā puṇḍarīkiniyaṁ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni antonimuggaposīni, tāni yāva caggā yāva ca mūlā sītena vārinā abhisannāni parisannāni paripūrāni paripphuṭāni, nāssa kiñci sabbāvataṁ uppalānaṁ vā padumānaṁ vā puṇḍarīkānaṁ vā sītena vārinā apphuṭaṁ assa. ",
-            "de": "Wie ein <span class=\"scv-matched\">Teich mit blauen Seerosen</span> oder rosa oder weißen Lotusblumen. Manche von ihnen sprießen und wachsen im Wasser, ohne sich darüber zu erheben, und gedeihen unter Wasser. Von der Spitze bis zur Wurzel sind sie getränkt, durchdrungen, angefüllt und durchströmt von kühlem Wasser. Es gibt keinen Teil von ihnen, der nicht von kühlem Wasser durchströmt wäre. ",
+            "de": "Wie ein <span class=\"ebt-matched\">Teich mit blauen Seerosen</span> oder rosa oder weißen Lotusblumen. Manche von ihnen sprießen und wachsen im Wasser, ohne sich darüber zu erheben, und gedeihen unter Wasser. Von der Spitze bis zur Wurzel sind sie getränkt, durchdrungen, angefüllt und durchströmt von kühlem Wasser. Es gibt keinen Teil von ihnen, der nicht von kühlem Wasser durchströmt wäre. ",
             "en": "It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. From the tip to the root they’re drenched, steeped, filled, and soaked with cool water. There’s no part of them that’s not soaked with cool water. ",
             "matched": true
           }
@@ -165,7 +165,7 @@
           "dn14:3.6.3": {
             "scid": "dn14:3.6.3",
             "pli": "Seyyathāpi nāma uppaliniyaṁ vā paduminiyaṁ vā puṇḍarīkiniyaṁ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni anto nimuggaposīni. Appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni samodakaṁ ṭhitāni. Appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakā accuggamma ṭhitāni anupalittāni udakena. ",
-            "de": "Wie ein <span class=\"scv-matched\">Teich mit blauen Seerosen</span> oder rosa oder weißen Lotusblumen. Manche von ihnen sprießen und wachsen im Wasser, ohne sich darüber zu erheben, und gedeihen unter Wasser. Manche sprießen und wachsen im Wasser und erreichen die Wasseroberfläche. Und manche sprießen und wachsen im Wasser, doch sie erheben sich über das Wasser und stehen da, ohne dass Wasser an ihnen haftet. ",
+            "de": "Wie ein <span class=\"ebt-matched\">Teich mit blauen Seerosen</span> oder rosa oder weißen Lotusblumen. Manche von ihnen sprießen und wachsen im Wasser, ohne sich darüber zu erheben, und gedeihen unter Wasser. Manche sprießen und wachsen im Wasser und erreichen die Wasseroberfläche. Und manche sprießen und wachsen im Wasser, doch sie erheben sich über das Wasser und stehen da, ohne dass Wasser an ihnen haftet. ",
             "en": "It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. Some of them sprout and grow in the water reaching the water’s surface. And some of them sprout and grow in the water but rise up above the water and stand with no water clinging to them. ",
             "matched": true
           }

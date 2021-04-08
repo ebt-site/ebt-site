@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,14 +57,14 @@
           "an5.176:3.11": {
             "scid": "an5.176:3.11",
             "pli": "Yampissa kāmūpasaṁhitaṁ dukkhaṁ domanassaṁ, tampissa tasmiṁ samaye na hoti. ",
-            "de": "Schmerz und <span class=\"scv-matched\">Traurigkeit, die mit Sinnlichkeit</span> verbunden sind. ",
+            "de": "Schmerz und <span class=\"ebt-matched\">Traurigkeit, die mit Sinnlichkeit</span> verbunden sind. ",
             "en": "The pain and sadness connected with sensual pleasures. ",
             "matched": true
           },
           "an5.176:4.3": {
             "scid": "an5.176:4.3",
             "pli": "Yampissa kāmūpasaṁhitaṁ dukkhaṁ domanassaṁ, tampissa tasmiṁ samaye na hoti. ",
-            "de": "Schmerz und <span class=\"scv-matched\">Traurigkeit, die mit Sinnlichkeit</span> verbunden sind. ",
+            "de": "Schmerz und <span class=\"ebt-matched\">Traurigkeit, die mit Sinnlichkeit</span> verbunden sind. ",
             "en": "The pain and sadness connected with sensual pleasures. ",
             "matched": true
           }

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -69,13 +69,13 @@
           "an10.237:1.1": {
             "scid": "an10.237:1.1",
             "pli": "“Rāgassa, bhikkhave, abhiññāya dasa dhammā bhāvetabbā. ",
-            "en": "“For insight into greed, <span class=\"scv-matched\">ten things should be developed</span>. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">ten things should be developed</span>. ",
             "matched": true
           },
           "an10.237:1.4": {
             "scid": "an10.237:1.4",
             "pli": "rāgassa, bhikkhave, abhiññāya ime dasa dhammā bhāvetabbā”ti. ",
-            "en": "For insight into greed, these <span class=\"scv-matched\">ten things should be developed</span>.”",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">ten things should be developed</span>.”",
             "matched": true
           }
         },
@@ -104,13 +104,13 @@
           "an10.238:1.1": {
             "scid": "an10.238:1.1",
             "pli": "“Rāgassa, bhikkhave, abhiññāya dasa dhammā bhāvetabbā. ",
-            "en": "“For insight into greed, <span class=\"scv-matched\">ten things should be developed</span>. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">ten things should be developed</span>. ",
             "matched": true
           },
           "an10.238:1.4": {
             "scid": "an10.238:1.4",
             "pli": "rāgassa, bhikkhave, abhiññāya ime dasa dhammā bhāvetabbā”ti. ",
-            "en": "For insight into greed, these <span class=\"scv-matched\">ten things should be developed</span>.”",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">ten things should be developed</span>.”",
             "matched": true
           }
         },
@@ -139,13 +139,13 @@
           "an10.239:1.1": {
             "scid": "an10.239:1.1",
             "pli": "“Rāgassa, bhikkhave, abhiññāya dasa dhammā bhāvetabbā. ",
-            "en": "“For insight into greed, <span class=\"scv-matched\">ten things should be developed</span>. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">ten things should be developed</span>. ",
             "matched": true
           },
           "an10.239:1.4": {
             "scid": "an10.239:1.4",
             "pli": "rāgassa, bhikkhave, abhiññāya ime dasa dhammā bhāvetabbā”ti. ",
-            "en": "For insight into greed, these <span class=\"scv-matched\">ten things should be developed</span>.”",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">ten things should be developed</span>.”",
             "matched": true
           }
         },
@@ -174,13 +174,13 @@
           "dn34:2.3.1": {
             "scid": "dn34:2.3.1",
             "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
-            "en": "Ten things are helpful, <span class=\"scv-matched\">ten things should be developed</span>, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
+            "en": "Ten things are helpful, <span class=\"ebt-matched\">ten things should be developed</span>, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
             "matched": true
           },
           "dn34:2.3.35": {
             "scid": "dn34:2.3.35",
             "pli": "Katame dasa dhammā bhāvetabbā? ",
-            "en": "What <span class=\"scv-matched\">ten things should be developed</span>? ",
+            "en": "What <span class=\"ebt-matched\">ten things should be developed</span>? ",
             "matched": true
           }
         },
@@ -209,7 +209,7 @@
           "an10.240-266:1.10": {
             "scid": "an10.240-266:1.10",
             "pli": "ime dasa dhammā bhāvetabbā”. ",
-            "en": "these <span class=\"scv-matched\">ten things should be developed</span>.”",
+            "en": "these <span class=\"ebt-matched\">ten things should be developed</span>.”",
             "matched": true
           }
         },
@@ -238,7 +238,7 @@
           "an10.267-746:1.25": {
             "scid": "an10.267-746:1.25",
             "pli": "ime dasa dhammā bhāvetabbā”ti. ",
-            "en": "these <span class=\"scv-matched\">ten things should be developed</span>.” ",
+            "en": "these <span class=\"ebt-matched\">ten things should be developed</span>.” ",
             "matched": true
           }
         },

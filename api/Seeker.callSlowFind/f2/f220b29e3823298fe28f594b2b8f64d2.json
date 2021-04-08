@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -108,19 +108,19 @@
           "an5.59:1.1": {
             "scid": "an5.59:1.1",
             "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato dullabho vuḍḍhapabbajito. ",
-            "en": "“Mendicants, it’s <span class=\"scv-matched\">hard to find</span> someone gone forth when old who has five qualities. ",
+            "en": "“Mendicants, it’s <span class=\"ebt-matched\">hard to find</span> someone gone forth when old who has five qualities. ",
             "matched": true
           },
           "an5.59:1.3": {
             "scid": "an5.59:1.3",
             "pli": "Dullabho, bhikkhave, vuḍḍhapabbajito nipuṇo, dullabho ākappasampanno, dullabho bahussuto, dullabho dhammakathiko, dullabho vinayadharo. ",
-            "en": "It’s <span class=\"scv-matched\">hard to find</span> someone gone forth when old who is sophisticated, well-presented, and learned, who can teach Dhamma, and has memorized the texts on monastic training. ",
+            "en": "It’s <span class=\"ebt-matched\">hard to find</span> someone gone forth when old who is sophisticated, well-presented, and learned, who can teach Dhamma, and has memorized the texts on monastic training. ",
             "matched": true
           },
           "an5.59:1.4": {
             "scid": "an5.59:1.4",
             "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato dullabho vuḍḍhapabbajitoti. ",
-            "en": "It’s <span class=\"scv-matched\">hard to find</span> someone gone forth when old who has these five qualities.” ",
+            "en": "It’s <span class=\"ebt-matched\">hard to find</span> someone gone forth when old who has these five qualities.” ",
             "matched": true
           }
         },
@@ -149,19 +149,19 @@
           "an5.60:1.1": {
             "scid": "an5.60:1.1",
             "pli": "Pañcahi, bhikkhave, dhammehi samannāgato dullabho vuḍḍhapabbajito. ",
-            "en": "“Mendicants, it’s <span class=\"scv-matched\">hard to find</span> someone gone forth when old who has five qualities. ",
+            "en": "“Mendicants, it’s <span class=\"ebt-matched\">hard to find</span> someone gone forth when old who has five qualities. ",
             "matched": true
           },
           "an5.60:1.3": {
             "scid": "an5.60:1.3",
             "pli": "Dullabho, bhikkhave, vuḍḍhapabbajito suvaco, dullabho suggahitaggāhī, dullabho padakkhiṇaggāhī, dullabho dhammakathiko, dullabho vinayadharo. ",
-            "en": "It’s <span class=\"scv-matched\">hard to find</span> someone gone forth when old who is easy to admonish, retains what they learn, and learns respectfully, who can teach the Dhamma, and has memorized the texts on monastic training. ",
+            "en": "It’s <span class=\"ebt-matched\">hard to find</span> someone gone forth when old who is easy to admonish, retains what they learn, and learns respectfully, who can teach the Dhamma, and has memorized the texts on monastic training. ",
             "matched": true
           },
           "an5.60:1.4": {
             "scid": "an5.60:1.4",
             "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato dullabho vuḍḍhapabbajito”ti. ",
-            "en": "It’s <span class=\"scv-matched\">hard to find</span> someone gone forth when old who has these five qualities.” ",
+            "en": "It’s <span class=\"ebt-matched\">hard to find</span> someone gone forth when old who has these five qualities.” ",
             "matched": true
           }
         },
@@ -196,13 +196,13 @@
           "mn92:19.13": {
             "scid": "mn92:19.13",
             "pli": "sambuddhānaṁ abhiṇhaso. ",
-            "en": "is <span class=\"scv-matched\">hard to find</span> again. ",
+            "en": "is <span class=\"ebt-matched\">hard to find</span> again. ",
             "matched": true
           },
           "mn92:19.17": {
             "scid": "mn92:19.17",
             "pli": "sallakatto anuttaro. ",
-            "en": "is <span class=\"scv-matched\">hard to find</span> again. ",
+            "en": "is <span class=\"ebt-matched\">hard to find</span> again. ",
             "matched": true
           }
         },
@@ -231,13 +231,13 @@
           "sn3.21:2.2": {
             "scid": "sn3.21:2.2",
             "pli": "Idha, mahārāja, ekacco puggalo nīce kule paccājāto hoti, caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. ",
-            "en": "It’s when some person is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are <span class=\"scv-matched\">hard to find</span>. ",
+            "en": "It’s when some person is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are <span class=\"ebt-matched\">hard to find</span>. ",
             "matched": true
           },
           "sn3.21:4.2": {
             "scid": "sn3.21:4.2",
             "pli": "Idha, mahārāja, ekacco puggalo nīce kule paccājāto hoti, caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. ",
-            "en": "It’s when some person is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are <span class=\"scv-matched\">hard to find</span>. ",
+            "en": "It’s when some person is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are <span class=\"ebt-matched\">hard to find</span>. ",
             "matched": true
           }
         },
@@ -266,13 +266,13 @@
           "thag16.6:12.4": {
             "scid": "thag16.6:12.4",
             "pli": "sambuddhānaṁ abhiṇhaso.",
-            "en": "is <span class=\"scv-matched\">hard to find</span> again.",
+            "en": "is <span class=\"ebt-matched\">hard to find</span> again.",
             "matched": true
           },
           "thag16.6:13.4": {
             "scid": "thag16.6:13.4",
             "pli": "sallakatto anuttaro.",
-            "en": "is <span class=\"scv-matched\">hard to find</span> again.",
+            "en": "is <span class=\"ebt-matched\">hard to find</span> again.",
             "matched": true
           }
         },
@@ -301,13 +301,13 @@
           "mn4:2.8": {
             "scid": "mn4:2.8",
             "pli": "“Durabhisambhavāni hi kho, bho gotama, araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ",
-            "en": "“But Master Gotama, remote lodgings in the wilderness and the forest are challenging. It’s hard to maintain seclusion and <span class=\"scv-matched\">hard to find</span> joy in it. ",
+            "en": "“But Master Gotama, remote lodgings in the wilderness and the forest are challenging. It’s hard to maintain seclusion and <span class=\"ebt-matched\">hard to find</span> joy in it. ",
             "matched": true
           },
           "mn4:3.2": {
             "scid": "mn4:3.2",
             "pli": "‘durabhisambhavāni hi kho araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ",
-            "en": "‘Remote lodgings in the wilderness and the forest are challenging. It’s hard to maintain seclusion, and <span class=\"scv-matched\">hard to find</span> joy in it. ",
+            "en": "‘Remote lodgings in the wilderness and the forest are challenging. It’s hard to maintain seclusion, and <span class=\"ebt-matched\">hard to find</span> joy in it. ",
             "matched": true
           }
         },
@@ -336,7 +336,7 @@
           "thag2.9:1.3": {
             "scid": "thag2.9:1.3",
             "pli": "Sadā ve rakkhitabbāsu,",
-            "en": "For the truth is <span class=\"scv-matched\">hard to find</span> among them",
+            "en": "For the truth is <span class=\"ebt-matched\">hard to find</span> among them",
             "matched": true
           }
         },
@@ -365,7 +365,7 @@
           "thag2.47:2.3": {
             "scid": "thag2.47:2.3",
             "pli": "Satthā te dullabho laddho,",
-            "en": "You’ve found the teacher so <span class=\"scv-matched\">hard to find</span>—",
+            "en": "You’ve found the teacher so <span class=\"ebt-matched\">hard to find</span>—",
             "matched": true
           }
         },
@@ -394,7 +394,7 @@
           "an4.157:1.5": {
             "scid": "an4.157:1.5",
             "pli": "Te, bhikkhave, sattā sudullabhā lokasmiṁ ye cetasikena rogena muhuttampi ārogyaṁ paṭijānanti, aññatra khīṇāsavehi. ",
-            "en": "But it’s very <span class=\"scv-matched\">hard to find</span> any sentient beings in the world who can claim to be free of mental illness even for a moment, apart from those who have ended the defilements. ",
+            "en": "But it’s very <span class=\"ebt-matched\">hard to find</span> any sentient beings in the world who can claim to be free of mental illness even for a moment, apart from those who have ended the defilements. ",
             "matched": true
           }
         },
@@ -423,7 +423,7 @@
           "an3.33:1.5": {
             "scid": "an3.33:1.5",
             "pli": "aññātāro ca dullabhā”ti. ",
-            "en": "But it’s <span class=\"scv-matched\">hard to find</span> anyone who understands.” ",
+            "en": "But it’s <span class=\"ebt-matched\">hard to find</span> anyone who understands.” ",
             "matched": true
           }
         },
@@ -452,7 +452,7 @@
           "sn2.6:3.1": {
             "scid": "sn2.6:3.1",
             "pli": "“Dullabhā, bhagavā, yadidaṁ tuṭṭhī”ti. ",
-            "en": "“Such contentment, Blessed One, is <span class=\"scv-matched\">hard to find</span>.” ",
+            "en": "“Such contentment, Blessed One, is <span class=\"ebt-matched\">hard to find</span>.” ",
             "matched": true
           }
         },
@@ -481,7 +481,7 @@
           "an4.85:2.2": {
             "scid": "an4.85:2.2",
             "pli": "Idha, bhikkhave, ekacco puggalo nīce kule paccājāto hoti—caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. ",
-            "en": "It’s when someone is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are <span class=\"scv-matched\">hard to find</span>. ",
+            "en": "It’s when someone is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are <span class=\"ebt-matched\">hard to find</span>. ",
             "matched": true
           }
         },
@@ -510,7 +510,7 @@
           "sn1.49:5.2": {
             "scid": "sn1.49:5.2",
             "pli": "yattha kicchena labbhati; ",
-            "en": "are <span class=\"scv-matched\">hard to find</span>. ",
+            "en": "are <span class=\"ebt-matched\">hard to find</span>. ",
             "matched": true
           }
         },
@@ -539,7 +539,7 @@
           "an3.13:1.5": {
             "scid": "an3.13:1.5",
             "pli": "Idha, bhikkhave, ekacco puggalo nīce kule paccājāto hoti, caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. ",
-            "en": "It’s when some person is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are <span class=\"scv-matched\">hard to find</span>. ",
+            "en": "It’s when some person is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are <span class=\"ebt-matched\">hard to find</span>. ",
             "matched": true
           }
         },
@@ -568,7 +568,7 @@
           "an6.57:11.2": {
             "scid": "an6.57:11.2",
             "pli": "Idhānanda, ekacco nīce kule paccājāto hoti—caṇḍālakule vā nesādakule vā venakule vā rathakārakule vā pukkusakule vā, dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. ",
-            "en": "It’s when someone is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are <span class=\"scv-matched\">hard to find</span>. ",
+            "en": "It’s when someone is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are <span class=\"ebt-matched\">hard to find</span>. ",
             "matched": true
           }
         },
@@ -597,7 +597,7 @@
           "an8.29:13.2": {
             "scid": "an8.29:13.2",
             "pli": "yaṁ lokasmiṁ sudullabhaṁ; ",
-            "en": "so <span class=\"scv-matched\">hard to find</span> in the world, ",
+            "en": "so <span class=\"ebt-matched\">hard to find</span> in the world, ",
             "matched": true
           }
         },
@@ -626,7 +626,7 @@
           "an10.99:2.2": {
             "scid": "an10.99:2.2",
             "pli": "Dukkaraṁ pavivekaṁ durabhiramaṁ. ",
-            "en": "It’s hard to maintain seclusion and <span class=\"scv-matched\">hard to find</span> joy in it. ",
+            "en": "It’s hard to maintain seclusion and <span class=\"ebt-matched\">hard to find</span> joy in it. ",
             "matched": true
           }
         },
@@ -655,7 +655,7 @@
           "mn129:25.3": {
             "scid": "mn129:25.3",
             "pli": "Tathārūpe kule paccājāyati dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. ",
-            "en": "Such families are poor, with little to eat or drink, where life is tough, and food and shelter are <span class=\"scv-matched\">hard to find</span>. ",
+            "en": "Such families are poor, with little to eat or drink, where life is tough, and food and shelter are <span class=\"ebt-matched\">hard to find</span>. ",
             "matched": true
           }
         },
@@ -684,7 +684,7 @@
           "thig16.1:36.4": {
             "scid": "thig16.1:36.4",
             "pli": "Kāmasukhā dullabhā loke.",
-            "en": "Sensual pleasures are <span class=\"scv-matched\">hard to find</span> in the world!",
+            "en": "Sensual pleasures are <span class=\"ebt-matched\">hard to find</span> in the world!",
             "matched": true
           }
         },

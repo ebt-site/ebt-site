@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -105,37 +105,37 @@
           "sn35.132:5.1": {
             "scid": "sn35.132:5.1",
             "pli": "Aguttadvārassa bhavanti moghā, ",
-            "en": "All is vain for someone who doesn’t <span class=\"scv-matched\">guard the sense doors</span>, ",
+            "en": "All is vain for someone who doesn’t <span class=\"ebt-matched\">guard the sense doors</span>, ",
             "matched": true
           },
           "sn35.132:12.1": {
             "scid": "sn35.132:12.1",
             "pli": "“‘Aguttadvāro’ti bhavaṁ kaccāno āha. ",
-            "en": "“Master Kaccāna spoke of someone who doesn’t <span class=\"scv-matched\">guard the sense doors</span>. ",
+            "en": "“Master Kaccāna spoke of someone who doesn’t <span class=\"ebt-matched\">guard the sense doors</span>. ",
             "matched": true
           },
           "sn35.132:12.2": {
             "scid": "sn35.132:12.2",
             "pli": "Kittāvatā nu kho, bho kaccāna, aguttadvāro hotī”ti? ",
-            "en": "How do you define someone who doesn’t <span class=\"scv-matched\">guard the sense doors</span>?” ",
+            "en": "How do you define someone who doesn’t <span class=\"ebt-matched\">guard the sense doors</span>?” ",
             "matched": true
           },
           "sn35.132:12.11": {
             "scid": "sn35.132:12.11",
             "pli": "Evaṁ kho, brāhmaṇa, aguttadvāro hotī”ti. ",
-            "en": "That’s how someone doesn’t <span class=\"scv-matched\">guard the sense doors</span>.” ",
+            "en": "That’s how someone doesn’t <span class=\"ebt-matched\">guard the sense doors</span>.” ",
             "matched": true
           },
           "sn35.132:13.1": {
             "scid": "sn35.132:13.1",
             "pli": "‘Guttadvāro’ti bhavaṁ kaccāno āha. ",
-            "en": "You also spoke of someone who does <span class=\"scv-matched\">guard the sense doors</span>. ",
+            "en": "You also spoke of someone who does <span class=\"ebt-matched\">guard the sense doors</span>. ",
             "matched": true
           },
           "sn35.132:13.2": {
             "scid": "sn35.132:13.2",
             "pli": "Kittāvatā nu kho, bho kaccāna, guttadvāro hotī”ti? ",
-            "en": "How do you define someone who does <span class=\"scv-matched\">guard the sense doors</span>?” ",
+            "en": "How do you define someone who does <span class=\"ebt-matched\">guard the sense doors</span>?” ",
             "matched": true
           },
           "sn35.132:13.11": {
@@ -170,19 +170,19 @@
           "sn35.120:2.1": {
             "scid": "sn35.120:2.1",
             "pli": "“Evametaṁ, āvuso, hoti indriyesu aguttadvārassa, bhojane amattaññuno, jāgariyaṁ ananuyuttassa. ",
-            "en": "“That’s how it is, reverend, when someone doesn’t <span class=\"scv-matched\">guard the sense doors</span>, eats too much, and is not committed to wakefulness. ",
+            "en": "“That’s how it is, reverend, when someone doesn’t <span class=\"ebt-matched\">guard the sense doors</span>, eats too much, and is not committed to wakefulness. ",
             "matched": true
           },
           "sn35.120:2.3": {
             "scid": "sn35.120:2.3",
             "pli": "‘So vatāvuso, bhikkhu indriyesu guttadvāro, bhojane mattaññū, jāgariyaṁ anuyutto yāvajīvaṁ paripuṇṇaṁ parisuddhaṁ brahmacariyaṁ santānessatī’ti ṭhānametaṁ vijjati. ",
-            "en": "But it is possible for a mendicant to maintain the full and pure spiritual life for the rest of their life if they <span class=\"scv-matched\">guard the sense doors</span>, eat in moderation, and are committed to wakefulness. ",
+            "en": "But it is possible for a mendicant to maintain the full and pure spiritual life for the rest of their life if they <span class=\"ebt-matched\">guard the sense doors</span>, eat in moderation, and are committed to wakefulness. ",
             "matched": true
           },
           "sn35.120:3.1": {
             "scid": "sn35.120:3.1",
             "pli": "Kathañcāvuso, indriyesu guttadvāro hoti? ",
-            "en": "And how does someone <span class=\"scv-matched\">guard the sense doors</span>? ",
+            "en": "And how does someone <span class=\"ebt-matched\">guard the sense doors</span>? ",
             "matched": true
           },
           "sn35.120:3.10": {
@@ -194,7 +194,7 @@
           "sn35.120:5.8": {
             "scid": "sn35.120:5.8",
             "pli": "‘indriyesu guttadvārā bhavissāma, bhojane mattaññuno, jāgariyaṁ anuyuttā’ti. ",
-            "en": "‘We will <span class=\"scv-matched\">guard the sense doors</span>, eat in moderation, and be committed to wakefulness.’ ",
+            "en": "‘We will <span class=\"ebt-matched\">guard the sense doors</span>, eat in moderation, and be committed to wakefulness.’ ",
             "matched": true
           }
         },
@@ -229,7 +229,7 @@
           "mn53:8.1": {
             "scid": "mn53:8.1",
             "pli": "Kathañca, mahānāma, ariyasāvako indriyesu guttadvāro hoti? ",
-            "en": "And how does a noble disciple <span class=\"scv-matched\">guard the sense doors</span>? ",
+            "en": "And how does a noble disciple <span class=\"ebt-matched\">guard the sense doors</span>? ",
             "matched": true
           },
           "mn53:8.10": {
@@ -282,7 +282,7 @@
           "an3.16:2.1": {
             "scid": "an3.16:2.1",
             "pli": "Kathañca, bhikkhave, bhikkhu indriyesu guttadvāro hoti? ",
-            "en": "And how does a mendicant <span class=\"scv-matched\">guard the sense doors</span>? ",
+            "en": "And how does a mendicant <span class=\"ebt-matched\">guard the sense doors</span>? ",
             "matched": true
           },
           "an3.16:2.10": {
@@ -317,13 +317,13 @@
           "sn35.239:1.3": {
             "scid": "sn35.239:1.3",
             "pli": "Indriyesu guttadvāro hoti, bhojane mattaññū, jāgariyaṁ anuyutto. ",
-            "en": "They <span class=\"scv-matched\">guard the sense doors</span>, eat in moderation, and are committed to wakefulness. ",
+            "en": "They <span class=\"ebt-matched\">guard the sense doors</span>, eat in moderation, and are committed to wakefulness. ",
             "matched": true
           },
           "sn35.239:2.1": {
             "scid": "sn35.239:2.1",
             "pli": "Kathañca, bhikkhave, bhikkhu indriyesu guttadvāro hoti? ",
-            "en": "And how does a mendicant <span class=\"scv-matched\">guard the sense doors</span>? ",
+            "en": "And how does a mendicant <span class=\"ebt-matched\">guard the sense doors</span>? ",
             "matched": true
           },
           "sn35.239:2.12": {
@@ -364,7 +364,7 @@
           "an4.37:3.1": {
             "scid": "an4.37:3.1",
             "pli": "Kathañca, bhikkhave, bhikkhu indriyesu guttadvāro hoti? ",
-            "en": "And how does a mendicant <span class=\"scv-matched\">guard the sense doors</span>? ",
+            "en": "And how does a mendicant <span class=\"ebt-matched\">guard the sense doors</span>? ",
             "matched": true
           },
           "an4.37:3.10": {
@@ -399,19 +399,19 @@
           "mn69:10.1": {
             "scid": "mn69:10.1",
             "pli": "Āraññikenāvuso, bhikkhunā indriyesu guttadvārena bhavitabbaṁ. ",
-            "en": "A wilderness monk should <span class=\"scv-matched\">guard the sense doors</span>. ",
+            "en": "A wilderness monk should <span class=\"ebt-matched\">guard the sense doors</span>. ",
             "matched": true
           },
           "mn69:10.3": {
             "scid": "mn69:10.3",
             "pli": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā indriyesu aguttadvāro’ti—",
-            "en": "‘What’s the point of this wilderness venerable’s staying alone and autonomous in the wilderness, since he doesn’t <span class=\"scv-matched\">guard the sense doors</span>?’ ",
+            "en": "‘What’s the point of this wilderness venerable’s staying alone and autonomous in the wilderness, since he doesn’t <span class=\"ebt-matched\">guard the sense doors</span>?’ ",
             "matched": true
           },
           "mn69:10.5": {
             "scid": "mn69:10.5",
             "pli": "Tasmā āraññikena bhikkhunā indriyesu guttadvārena bhavitabbaṁ. ",
-            "en": "That’s why a wilderness monk should <span class=\"scv-matched\">guard the sense doors</span>. ",
+            "en": "That’s why a wilderness monk should <span class=\"ebt-matched\">guard the sense doors</span>. ",
             "matched": true
           }
         },
@@ -440,13 +440,13 @@
           "dn10:1.10.1": {
             "scid": "dn10:1.10.1",
             "pli": "So evaṁ pabbajito samāno pātimokkhasaṁvarasaṁvuto viharati, ācāragocarasampanno, anumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena, parisuddhājīvo, sīlasampanno, indriyesu guttadvāro, satisampajaññena samannāgato, santuṭṭho. ",
-            "en": "Once they’ve gone forth, they live restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They <span class=\"scv-matched\">guard the sense doors</span>, have mindfulness and situational awareness, and are content. ",
+            "en": "Once they’ve gone forth, they live restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They <span class=\"ebt-matched\">guard the sense doors</span>, have mindfulness and situational awareness, and are content. ",
             "matched": true
           },
           "dn10:2.2.1": {
             "scid": "dn10:2.2.1",
             "pli": "“Kathañca, māṇava, bhikkhu indriyesu guttadvāro hoti? ",
-            "en": "“And how, student, does a mendicant <span class=\"scv-matched\">guard the sense doors</span>? ",
+            "en": "“And how, student, does a mendicant <span class=\"ebt-matched\">guard the sense doors</span>? ",
             "matched": true
           },
           "dn10:2.2.11": {
@@ -481,13 +481,13 @@
           "dn2:42.1": {
             "scid": "dn2:42.1",
             "pli": "So evaṁ pabbajito samāno pātimokkhasaṁvarasaṁvuto viharati ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena, parisuddhājīvo sīlasampanno, indriyesu guttadvāro, satisampajaññena samannāgato, santuṭṭho. ",
-            "en": "Once they’ve gone forth, they live restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They <span class=\"scv-matched\">guard the sense doors</span>, have mindfulness and situational awareness, and are content. ",
+            "en": "Once they’ve gone forth, they live restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They <span class=\"ebt-matched\">guard the sense doors</span>, have mindfulness and situational awareness, and are content. ",
             "matched": true
           },
           "dn2:64.1": {
             "scid": "dn2:64.1",
             "pli": "Kathañca, mahārāja, bhikkhu indriyesu guttadvāro hoti? ",
-            "en": "And how does a mendicant <span class=\"scv-matched\">guard the sense doors</span>? ",
+            "en": "And how does a mendicant <span class=\"ebt-matched\">guard the sense doors</span>? ",
             "matched": true
           },
           "dn2:64.11": {
@@ -522,13 +522,13 @@
           "an6.31:1.3": {
             "scid": "an6.31:1.3",
             "pli": "Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā—",
-            "en": "They relish work, talk, sleep, and company. They don’t <span class=\"scv-matched\">guard the sense doors</span>, and they eat too much. ",
+            "en": "They relish work, talk, sleep, and company. They don’t <span class=\"ebt-matched\">guard the sense doors</span>, and they eat too much. ",
             "matched": true
           },
           "an6.31:2.3": {
             "scid": "an6.31:2.3",
             "pli": "Na kammārāmatā, na bhassārāmatā, na niddārāmatā, na saṅgaṇikārāmatā, indriyesu guttadvāratā, bhojane mattaññutā—",
-            "en": "They don’t relish work, talk, sleep, and company. They <span class=\"scv-matched\">guard the sense doors</span>, and they don’t eat too much. ",
+            "en": "They don’t relish work, talk, sleep, and company. They <span class=\"ebt-matched\">guard the sense doors</span>, and they don’t eat too much. ",
             "matched": true
           }
         },
@@ -557,13 +557,13 @@
           "an8.79:1.3": {
             "scid": "an8.79:1.3",
             "pli": "Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā, saṁsaggārāmatā, papañcārāmatā—",
-            "en": "They relish work, talk, sleep, and company. They don’t <span class=\"scv-matched\">guard the sense doors</span> and they eat too much. They relish closeness and proliferation. ",
+            "en": "They relish work, talk, sleep, and company. They don’t <span class=\"ebt-matched\">guard the sense doors</span> and they eat too much. They relish closeness and proliferation. ",
             "matched": true
           },
           "an8.79:2.3": {
             "scid": "an8.79:2.3",
             "pli": "Na kammārāmatā, na bhassārāmatā, na niddārāmatā, na saṅgaṇikārāmatā, indriyesu guttadvāratā, bhojane mattaññutā, asaṁsaggārāmatā, nippapañcārāmatā—",
-            "en": "They don’t relish work, talk, and sleep. They <span class=\"scv-matched\">guard the sense doors</span>, and they don’t eat too much. They don’t relish closeness and proliferation. ",
+            "en": "They don’t relish work, talk, and sleep. They <span class=\"ebt-matched\">guard the sense doors</span>, and they don’t eat too much. They don’t relish closeness and proliferation. ",
             "matched": true
           }
         },
@@ -592,13 +592,13 @@
           "an7.28:1.6": {
             "scid": "an7.28:1.6",
             "pli": "Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā, santi kho pana saṅghe saṅghakaraṇīyāni; tatra sekho bhikkhu iti paṭisañcikkhati: ",
-            "en": "They relish work, talk, sleep, and company. They don’t <span class=\"scv-matched\">guard the sense doors</span> and they eat too much. And when there is Saṅgha business to be carried out, they don’t reflect: ",
+            "en": "They relish work, talk, sleep, and company. They don’t <span class=\"ebt-matched\">guard the sense doors</span> and they eat too much. And when there is Saṅgha business to be carried out, they don’t reflect: ",
             "matched": true
           },
           "an7.28:2.3": {
             "scid": "an7.28:2.3",
             "pli": "Na kammārāmatā, na bhassārāmatā, na niddārāmatā, na saṅgaṇikārāmatā, indriyesu guttadvāratā, bhojane mattaññutā, santi kho pana saṅghe saṅghakaraṇīyāni; tatra sekho bhikkhu iti paṭisañcikkhati: ",
-            "en": "They don’t relish work, talk, sleep, and company. They <span class=\"scv-matched\">guard the sense doors</span> and don’t they eat too much. And when there is Saṅgha business to be carried out, they reflect: ",
+            "en": "They don’t relish work, talk, sleep, and company. They <span class=\"ebt-matched\">guard the sense doors</span> and don’t they eat too much. And when there is Saṅgha business to be carried out, they reflect: ",
             "matched": true
           }
         },
@@ -627,13 +627,13 @@
           "an5.150:1.3": {
             "scid": "an5.150:1.3",
             "pli": "Kammārāmatā, bhassārāmatā, niddārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā. ",
-            "en": "They relish work, talk, and sleep. They don’t <span class=\"scv-matched\">guard the sense doors</span> and they eat too much. ",
+            "en": "They relish work, talk, and sleep. They don’t <span class=\"ebt-matched\">guard the sense doors</span> and they eat too much. ",
             "matched": true
           },
           "an5.150:2.3": {
             "scid": "an5.150:2.3",
             "pli": "Na kammārāmatā, na bhassārāmatā, na niddārāmatā, indriyesu guttadvāratā, bhojane mattaññutā. ",
-            "en": "They don’t relish work, talk, sleep, and company. They <span class=\"scv-matched\">guard the sense doors</span> and they have moderation in eating. ",
+            "en": "They don’t relish work, talk, sleep, and company. They <span class=\"ebt-matched\">guard the sense doors</span> and they have moderation in eating. ",
             "matched": true
           }
         },
@@ -662,7 +662,7 @@
           "an1.230:1.1": {
             "scid": "an1.230:1.1",
             "pli": "… Indriyesu guttadvārānaṁ yadidaṁ nando. ",
-            "en": "… who <span class=\"scv-matched\">guard the sense doors</span> is Nanda. ",
+            "en": "… who <span class=\"ebt-matched\">guard the sense doors</span> is Nanda. ",
             "matched": true
           }
         },
@@ -691,7 +691,7 @@
           "dn8:18.4": {
             "scid": "dn8:18.4",
             "pli": "bhayadassāvī samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena parisuddhājīvo sīlasampanno indriyesu guttadvāro satisampajaññena samannāgato santuṭṭho. ",
-            "en": "Seeing danger in the slightest fault, a mendicant keeps the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They <span class=\"scv-matched\">guard the sense doors</span>, have mindfulness and situational awareness, and are content. ",
+            "en": "Seeing danger in the slightest fault, a mendicant keeps the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They <span class=\"ebt-matched\">guard the sense doors</span>, have mindfulness and situational awareness, and are content. ",
             "matched": true
           }
         },
@@ -720,7 +720,7 @@
           "dn28:12.2": {
             "scid": "dn28:12.2",
             "pli": "Idha, bhante, ekacco sacco cassa saddho ca, na ca kuhako, na ca lapako, na ca nemittiko, na ca nippesiko, na ca lābhena lābhaṁ nijigīsanako, indriyesu guttadvāro, bhojane mattaññū, samakārī, jāgariyānuyogamanuyutto, atandito, āraddhavīriyo, jhāyī, satimā, kalyāṇapaṭibhāno, gatimā, dhitimā, matimā, na ca kāmesu giddho, sato ca nipako ca. ",
-            "en": "It’s when someone is honest and faithful. They don’t use deceit, flattery, hinting, or belittling, and they don’t use material possessions to chase after other material possessions. They <span class=\"scv-matched\">guard the sense doors</span> and eat in moderation. They’re fair, dedicated to wakefulness, tireless, energetic, and meditative. They have good memory, eloquence, range, retention, and thoughtfulness. They’re not greedy for sensual pleasures. They are mindful and alert. ",
+            "en": "It’s when someone is honest and faithful. They don’t use deceit, flattery, hinting, or belittling, and they don’t use material possessions to chase after other material possessions. They <span class=\"ebt-matched\">guard the sense doors</span> and eat in moderation. They’re fair, dedicated to wakefulness, tireless, energetic, and meditative. They have good memory, eloquence, range, retention, and thoughtfulness. They’re not greedy for sensual pleasures. They are mindful and alert. ",
             "matched": true
           }
         },

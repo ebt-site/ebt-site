@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -78,37 +78,37 @@
           "sn55.24:4.5": {
             "scid": "sn55.24:4.5",
             "pli": "hāsapañño javanapañño vimuttiyā ca samannāgato. ",
-            "en": "They have <span class=\"scv-matched\">laughing wisdom</span> and swift wisdom, and are endowed with freedom. ",
+            "en": "They have <span class=\"ebt-matched\">laughing wisdom</span> and swift wisdom, and are endowed with freedom. ",
             "matched": true
           },
           "sn55.24:5.5": {
             "scid": "sn55.24:5.5",
             "pli": "hāsapañño javanapañño na ca vimuttiyā samannāgato. ",
-            "en": "They have <span class=\"scv-matched\">laughing wisdom</span> and swift wisdom, but are not endowed with freedom. ",
+            "en": "They have <span class=\"ebt-matched\">laughing wisdom</span> and swift wisdom, but are not endowed with freedom. ",
             "matched": true
           },
           "sn55.24:6.5": {
             "scid": "sn55.24:6.5",
             "pli": "na hāsapañño na javanapañño na ca vimuttiyā samannāgato. ",
-            "en": "But they don’t have <span class=\"scv-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
+            "en": "But they don’t have <span class=\"ebt-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
             "matched": true
           },
           "sn55.24:7.5": {
             "scid": "sn55.24:7.5",
             "pli": "na hāsapañño na javanapañño na ca vimuttiyā samannāgato. ",
-            "en": "But they don’t have <span class=\"scv-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
+            "en": "But they don’t have <span class=\"ebt-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
             "matched": true
           },
           "sn55.24:8.4": {
             "scid": "sn55.24:8.4",
             "pli": "na hāsapañño na javanapañño na ca vimuttiyā samannāgato. ",
-            "en": "They don’t have <span class=\"scv-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
+            "en": "They don’t have <span class=\"ebt-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
             "matched": true
           },
           "sn55.24:9.4": {
             "scid": "sn55.24:9.4",
             "pli": "na hāsapañño na javanapañño na ca vimuttiyā samannāgato, ",
-            "en": "They don’t have <span class=\"scv-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
+            "en": "They don’t have <span class=\"ebt-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
             "matched": true
           }
         },
@@ -137,37 +137,37 @@
           "sn55.25:4.5": {
             "scid": "sn55.25:4.5",
             "pli": "hāsapañño javanapañño vimuttiyā ca samannāgato. ",
-            "en": "They have <span class=\"scv-matched\">laughing wisdom</span> and swift wisdom, and are endowed with freedom. ",
+            "en": "They have <span class=\"ebt-matched\">laughing wisdom</span> and swift wisdom, and are endowed with freedom. ",
             "matched": true
           },
           "sn55.25:5.5": {
             "scid": "sn55.25:5.5",
             "pli": "hāsapañño javanapañño na ca vimuttiyā samannāgato. ",
-            "en": "They have <span class=\"scv-matched\">laughing wisdom</span> and swift wisdom, and are endowed with freedom. ",
+            "en": "They have <span class=\"ebt-matched\">laughing wisdom</span> and swift wisdom, and are endowed with freedom. ",
             "matched": true
           },
           "sn55.25:6.5": {
             "scid": "sn55.25:6.5",
             "pli": "na hāsapañño na javanapañño na ca vimuttiyā samannāgato. ",
-            "en": "But they don’t have <span class=\"scv-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
+            "en": "But they don’t have <span class=\"ebt-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
             "matched": true
           },
           "sn55.25:7.5": {
             "scid": "sn55.25:7.5",
             "pli": "na hāsapañño na javanapañño na ca vimuttiyā samannāgato. ",
-            "en": "But they don’t have <span class=\"scv-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
+            "en": "But they don’t have <span class=\"ebt-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
             "matched": true
           },
           "sn55.25:8.4": {
             "scid": "sn55.25:8.4",
             "pli": "na hāsapañño na javanapañño na ca vimuttiyā samannāgato; ",
-            "en": "They don’t have <span class=\"scv-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
+            "en": "They don’t have <span class=\"ebt-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
             "matched": true
           },
           "sn55.25:9.4": {
             "scid": "sn55.25:9.4",
             "pli": "na hāsapañño na javanapañño na ca vimuttiyā samannāgato; ",
-            "en": "They don’t have <span class=\"scv-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
+            "en": "They don’t have <span class=\"ebt-matched\">laughing wisdom</span> or swift wisdom, nor are they endowed with freedom. ",
             "matched": true
           }
         },
@@ -196,13 +196,13 @@
           "sn55.71:0.3": {
             "scid": "sn55.71:0.3",
             "pli": "71. Hāsapaññāsutta ",
-            "en": "71. <span class=\"scv-matched\">Laughing Wisdom</span> ",
+            "en": "71. <span class=\"ebt-matched\">Laughing Wisdom</span> ",
             "matched": true
           },
           "sn55.71:1.1": {
             "scid": "sn55.71:1.1",
             "pli": "“… Hāsapaññatāya saṁvattantī”ti. ",
-            "en": "“Mendicants, when four things are developed and cultivated they lead to <span class=\"scv-matched\">laughing wisdom</span> …” ",
+            "en": "“Mendicants, when four things are developed and cultivated they lead to <span class=\"ebt-matched\">laughing wisdom</span> …” ",
             "matched": true
           }
         },
@@ -231,13 +231,13 @@
           "an1.600-615:1.1": {
             "scid": "an1.600-615:1.1",
             "pli": "“Ekadhammo, bhikkhave, bhāvito bahulīkato paññāpaṭilābhāya saṁvattati … paññāvuddhiyā saṁvattati … paññāvepullāya saṁvattati … mahāpaññatāya saṁvattati … puthupaññatāya saṁvattati … vipulapaññatāya saṁvattati … gambhīrapaññatāya saṁvattati … asāmantapaññatāya saṁvattati … bhūripaññatāya saṁvattati … paññābāhullāya saṁvattati … sīghapaññatāya saṁvattati … lahupaññatāya saṁvattati … hāsapaññatāya saṁvattati … javanapaññatāya saṁvattati … tikkhapaññatāya saṁvattati … nibbedhikapaññatāya saṁvattati. ",
-            "en": "“One thing, mendicants, when developed and cultivated, leads to the getting of wisdom … the growth of wisdom … the increase of wisdom … to great wisdom … to widespread wisdom … to abundant wisdom … to deep wisdom … to extraordinary wisdom … to vast wisdom … to much wisdom … to fast wisdom … to light wisdom … to <span class=\"scv-matched\">laughing wisdom</span> … to swift wisdom … to sharp wisdom … to penetrating wisdom. ",
+            "en": "“One thing, mendicants, when developed and cultivated, leads to the getting of wisdom … the growth of wisdom … the increase of wisdom … to great wisdom … to widespread wisdom … to abundant wisdom … to deep wisdom … to extraordinary wisdom … to vast wisdom … to much wisdom … to fast wisdom … to light wisdom … to <span class=\"ebt-matched\">laughing wisdom</span> … to swift wisdom … to sharp wisdom … to penetrating wisdom. ",
             "matched": true
           },
           "an1.600-615:1.4": {
             "scid": "an1.600-615:1.4",
             "pli": "Ayaṁ kho, bhikkhave, ekadhammo bhāvito bahulīkato paññāpaṭilābhāya saṁvattati … paññāvuddhiyā saṁvattati … paññāvepullāya saṁvattati … mahāpaññatāya saṁvattati … puthupaññatāya saṁvattati … vipulapaññatāya saṁvattati … gambhīrapaññatāya saṁvattati … asāmantapaññatāya saṁvattati … bhūripaññatāya saṁvattati … paññābāhullāya saṁvattati … sīghapaññatāya saṁvattati … lahupaññatāya saṁvattati … hāsapaññatāya saṁvattati … javanapaññatāya saṁvattati … tikkhapaññatāya saṁvattati … nibbedhikapaññatāya saṁvattatī”ti. ",
-            "en": "This one thing, when developed and cultivated, leads to the getting of wisdom … the growth of wisdom … the increase of wisdom … to great wisdom … to widespread wisdom … to abundant wisdom … to deep wisdom … to extraordinary wisdom … to vast wisdom … to much wisdom … to fast wisdom … to light wisdom … to <span class=\"scv-matched\">laughing wisdom</span> … to swift wisdom … to sharp wisdom … to penetrating wisdom.” ",
+            "en": "This one thing, when developed and cultivated, leads to the getting of wisdom … the growth of wisdom … the increase of wisdom … to great wisdom … to widespread wisdom … to abundant wisdom … to deep wisdom … to extraordinary wisdom … to vast wisdom … to much wisdom … to fast wisdom … to light wisdom … to <span class=\"ebt-matched\">laughing wisdom</span> … to swift wisdom … to sharp wisdom … to penetrating wisdom.” ",
             "matched": true
           }
         },
@@ -266,7 +266,7 @@
           "iti41:5.3": {
             "scid": "iti41:5.3",
             "pli": "Pihayanti hāsapaññānaṁ,",
-            "en": "of <span class=\"scv-matched\">laughing wisdom</span>,",
+            "en": "of <span class=\"ebt-matched\">laughing wisdom</span>,",
             "matched": true
           }
         },
@@ -295,7 +295,7 @@
           "sn8.7:3.2": {
             "scid": "sn8.7:3.2",
             "pli": "Paṇḍito tvaṁ, sāriputta, mahāpañño tvaṁ, sāriputta, puthupañño tvaṁ, sāriputta, hāsapañño tvaṁ, sāriputta, javanapañño tvaṁ, sāriputta, tikkhapañño tvaṁ, sāriputta, nibbedhikapañño tvaṁ, sāriputta. ",
-            "en": "Sāriputta, you are astute. You have great wisdom, widespread wisdom, <span class=\"scv-matched\">laughing wisdom</span>, swift wisdom, sharp wisdom, penetrating wisdom. ",
+            "en": "Sāriputta, you are astute. You have great wisdom, widespread wisdom, <span class=\"ebt-matched\">laughing wisdom</span>, swift wisdom, sharp wisdom, penetrating wisdom. ",
             "matched": true
           }
         },
@@ -324,7 +324,7 @@
           "sn2.29:2.5": {
             "scid": "sn2.29:2.5",
             "pli": "Hāsapañño, bhante, āyasmā sāriputto. ",
-            "en": "<span class=\"scv-matched\">laughing wisdom</span>, ",
+            "en": "<span class=\"ebt-matched\">laughing wisdom</span>, ",
             "matched": true
           }
         },
@@ -353,7 +353,7 @@
           "mn111:2.4": {
             "scid": "mn111:2.4",
             "pli": "hāsapañño, bhikkhave, sāriputto; ",
-            "en": "<span class=\"scv-matched\">laughing wisdom</span>, ",
+            "en": "<span class=\"ebt-matched\">laughing wisdom</span>, ",
             "matched": true
           }
         },
@@ -382,7 +382,7 @@
           "dn30:1.26.6": {
             "scid": "dn30:1.26.6",
             "pli": "Mahāpañño hoti puthupañño hāsapañño javanapañño tikkhapañño nibbedhikapañño, nāssa hoti koci paññāya sadiso vā seṭṭho vā sabbasattānaṁ. ",
-            "en": "He has great wisdom, widespread wisdom, <span class=\"scv-matched\">laughing wisdom</span>, swift wisdom, sharp wisdom, and penetrating wisdom. No sentient being is his equal or better in wisdom. ",
+            "en": "He has great wisdom, widespread wisdom, <span class=\"ebt-matched\">laughing wisdom</span>, swift wisdom, sharp wisdom, and penetrating wisdom. No sentient being is his equal or better in wisdom. ",
             "matched": true
           }
         },

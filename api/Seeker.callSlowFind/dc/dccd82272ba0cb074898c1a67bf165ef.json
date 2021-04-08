@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,25 +60,25 @@
           "mn37:3.2": {
             "scid": "mn37:3.2",
             "pli": "‘sabbe dhammā nālaṁ abhinivesāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">Nothing is worth insisting on</span>.’ ",
+            "en": "‘<span class=\"ebt-matched\">Nothing is worth insisting on</span>.’ ",
             "matched": true
           },
           "mn37:3.4": {
             "scid": "mn37:3.4",
             "pli": "‘sabbe dhammā nālaṁ abhinivesāyā’ti. ",
-            "en": "<span class=\"scv-matched\">nothing is worth insisting on</span>, ",
+            "en": "<span class=\"ebt-matched\">nothing is worth insisting on</span>, ",
             "matched": true
           },
           "mn37:13.3": {
             "scid": "mn37:13.3",
             "pli": "“sabbe dhammā nālaṁ abhinivesāyā”ti. ",
-            "en": "“<span class=\"scv-matched\">Nothing is worth insisting on</span>” ",
+            "en": "“<span class=\"ebt-matched\">Nothing is worth insisting on</span>” ",
             "matched": true
           },
           "mn37:13.5": {
             "scid": "mn37:13.5",
             "pli": "“sabbe dhammā nālaṁ abhinivesāyā”ti. ",
-            "en": "<span class=\"scv-matched\">nothing is worth insisting on</span>, ",
+            "en": "<span class=\"ebt-matched\">nothing is worth insisting on</span>, ",
             "matched": true
           }
         },
@@ -107,13 +107,13 @@
           "sn35.80:6.2": {
             "scid": "sn35.80:6.2",
             "pli": "‘sabbe dhammā nālaṁ abhinivesāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">Nothing is worth insisting on</span>.’ ",
+            "en": "‘<span class=\"ebt-matched\">Nothing is worth insisting on</span>.’ ",
             "matched": true
           },
           "sn35.80:6.4": {
             "scid": "sn35.80:6.4",
             "pli": "‘sabbe dhammā nālaṁ abhinivesāyā’ti. ",
-            "en": "<span class=\"scv-matched\">nothing is worth insisting on</span>, ",
+            "en": "<span class=\"ebt-matched\">nothing is worth insisting on</span>, ",
             "matched": true
           }
         },
@@ -142,13 +142,13 @@
           "an7.61:13.2": {
             "scid": "an7.61:13.2",
             "pli": "‘sabbe dhammā nālaṁ abhinivesāyā’ti; ",
-            "en": "‘<span class=\"scv-matched\">Nothing is worth insisting on</span>.’ ",
+            "en": "‘<span class=\"ebt-matched\">Nothing is worth insisting on</span>.’ ",
             "matched": true
           },
           "an7.61:13.4": {
             "scid": "an7.61:13.4",
             "pli": "‘sabbe dhammā nālaṁ abhinivesāyā’ti. ",
-            "en": "<span class=\"scv-matched\">nothing is worth insisting on</span>. ",
+            "en": "<span class=\"ebt-matched\">nothing is worth insisting on</span>. ",
             "matched": true
           }
         },

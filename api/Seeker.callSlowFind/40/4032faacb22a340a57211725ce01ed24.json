@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an5.193:2.2": {
             "scid": "an5.193:2.2",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto saṁsaṭṭho lākhāya vā haliddiyā vā nīliyā vā mañjiṭṭhāya vā. ",
-            "en": "Suppose there was a bowl of <span class=\"scv-matched\">water that was mixed with dye</span> such as red lac, turmeric, indigo, or rose madder. ",
+            "en": "Suppose there was a bowl of <span class=\"ebt-matched\">water that was mixed with dye</span> such as red lac, turmeric, indigo, or rose madder. ",
             "matched": true
           },
           "an5.193:7.2": {
@@ -92,7 +92,7 @@
           "sn46.55:4.1": {
             "scid": "sn46.55:4.1",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto saṁsaṭṭho lākhāya vā haliddiyā vā nīliyā vā mañjiṭṭhāya vā. ",
-            "en": "Suppose there was a bowl of <span class=\"scv-matched\">water that was mixed with dye</span> such as red lac, turmeric, indigo, or rose madder. ",
+            "en": "Suppose there was a bowl of <span class=\"ebt-matched\">water that was mixed with dye</span> such as red lac, turmeric, indigo, or rose madder. ",
             "matched": true
           },
           "sn46.55:14.1": {

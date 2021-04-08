@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -108,91 +108,91 @@
           "dn1:2.31.1": {
             "scid": "dn1:2.31.1",
             "pli": "Santi, bhikkhave, asaññasattā nāma devā. ",
-            "en": "There are gods named ‘<span class=\"scv-matched\">non-percipient</span> beings’. ",
+            "en": "There are gods named ‘<span class=\"ebt-matched\">non-percipient</span> beings’. ",
             "matched": true
           },
           "dn1:3.1.0": {
             "scid": "dn1:3.1.0",
             "pli": "3.2.2. Asaññīvāda ",
-            "en": "3.2.2. <span class=\"scv-matched\">Non-Percipient</span> Life After Death ",
+            "en": "3.2.2. <span class=\"ebt-matched\">Non-Percipient</span> Life After Death ",
             "matched": true
           },
           "dn1:3.1.1": {
             "scid": "dn1:3.1.1",
             "pli": "Santi, bhikkhave, eke samaṇabrāhmaṇā uddhamāghātanikā asaññīvādā uddhamāghātanaṁ asaññiṁ attānaṁ paññapenti aṭṭhahi vatthūhi. ",
-            "en": "There are some ascetics and brahmins who say there is life after death, and assert that the self lives on after death in a <span class=\"scv-matched\">non-percipient</span> form on eight grounds. ",
+            "en": "There are some ascetics and brahmins who say there is life after death, and assert that the self lives on after death in a <span class=\"ebt-matched\">non-percipient</span> form on eight grounds. ",
             "matched": true
           },
           "dn1:3.2.1": {
             "scid": "dn1:3.2.1",
             "pli": "‘Rūpī attā hoti arogo paraṁ maraṇā asaññī’ti naṁ paññapenti. ",
-            "en": "They assert: ‘The self is sound and <span class=\"scv-matched\">non-percipient</span> after death, and it is physical … ",
+            "en": "They assert: ‘The self is sound and <span class=\"ebt-matched\">non-percipient</span> after death, and it is physical … ",
             "matched": true
           },
           "dn1:3.3.1": {
             "scid": "dn1:3.3.1",
             "pli": "Imehi kho te, bhikkhave, samaṇabrāhmaṇā uddhamāghātanikā asaññīvādā uddhamāghātanaṁ asaññiṁ attānaṁ paññapenti aṭṭhahi vatthūhi. ",
-            "en": "These are the eight grounds on which those ascetics and brahmins assert that the self lives on after death in a <span class=\"scv-matched\">non-percipient</span> form. ",
+            "en": "These are the eight grounds on which those ascetics and brahmins assert that the self lives on after death in a <span class=\"ebt-matched\">non-percipient</span> form. ",
             "matched": true
           },
           "dn1:3.3.2": {
             "scid": "dn1:3.3.2",
             "pli": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā uddhamāghātanikā asaññīvādā uddhamāghātanaṁ asaññiṁ attānaṁ paññapenti, sabbe te imeheva aṭṭhahi vatthūhi, etesaṁ vā aññatarena, natthi ito bahiddhā … ",
-            "en": "Any ascetics and brahmins who assert that the self lives on after death in a <span class=\"scv-matched\">non-percipient</span> form do so on one or other of these eight grounds. Outside of this there is none. ",
+            "en": "Any ascetics and brahmins who assert that the self lives on after death in a <span class=\"ebt-matched\">non-percipient</span> form do so on one or other of these eight grounds. Outside of this there is none. ",
             "matched": true
           },
           "dn1:3.5.0": {
             "scid": "dn1:3.5.0",
             "pli": "3.2.3. Nevasaññīnāsaññīvāda ",
-            "en": "3.2.3. Neither Percipient Nor <span class=\"scv-matched\">Non-Percipient</span> Life After Death ",
+            "en": "3.2.3. Neither Percipient Nor <span class=\"ebt-matched\">Non-Percipient</span> Life After Death ",
             "matched": true
           },
           "dn1:3.5.1": {
             "scid": "dn1:3.5.1",
             "pli": "Santi, bhikkhave, eke samaṇabrāhmaṇā uddhamāghātanikā nevasaññīnāsaññīvādā, uddhamāghātanaṁ nevasaññīnāsaññiṁ attānaṁ paññapenti aṭṭhahi vatthūhi. ",
-            "en": "There are some ascetics and brahmins who say there is life after death, and assert that the self lives on after death in a neither percipient nor <span class=\"scv-matched\">non-percipient</span> form on eight grounds. ",
+            "en": "There are some ascetics and brahmins who say there is life after death, and assert that the self lives on after death in a neither percipient nor <span class=\"ebt-matched\">non-percipient</span> form on eight grounds. ",
             "matched": true
           },
           "dn1:3.6.1": {
             "scid": "dn1:3.6.1",
             "pli": "‘Rūpī attā hoti arogo paraṁ maraṇā nevasaññīnāsaññī’ti naṁ paññapenti. ",
-            "en": "They assert: ‘The self is sound and neither percipient nor <span class=\"scv-matched\">non-percipient</span> after death, and it is physical … ",
+            "en": "They assert: ‘The self is sound and neither percipient nor <span class=\"ebt-matched\">non-percipient</span> after death, and it is physical … ",
             "matched": true
           },
           "dn1:3.7.1": {
             "scid": "dn1:3.7.1",
             "pli": "Imehi kho te, bhikkhave, samaṇabrāhmaṇā uddhamāghātanikā nevasaññīnāsaññīvādā uddhamāghātanaṁ nevasaññīnāsaññiṁ attānaṁ paññapenti aṭṭhahi vatthūhi. ",
-            "en": "These are the eight grounds on which those ascetics and brahmins assert that the self lives on after death in a neither percipient nor <span class=\"scv-matched\">non-percipient</span> form. ",
+            "en": "These are the eight grounds on which those ascetics and brahmins assert that the self lives on after death in a neither percipient nor <span class=\"ebt-matched\">non-percipient</span> form. ",
             "matched": true
           },
           "dn1:3.7.2": {
             "scid": "dn1:3.7.2",
             "pli": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā uddhamāghātanikā nevasaññīnāsaññīvādā uddhamāghātanaṁ nevasaññīnāsaññiṁ attānaṁ paññapenti, sabbe te imeheva aṭṭhahi vatthūhi … ",
-            "en": "Any ascetics and brahmins who assert that the self lives on after death in a neither percipient nor <span class=\"scv-matched\">non-percipient</span> form do so on one or other of these eight grounds. Outside of this there is none. ",
+            "en": "Any ascetics and brahmins who assert that the self lives on after death in a neither percipient nor <span class=\"ebt-matched\">non-percipient</span> form do so on one or other of these eight grounds. Outside of this there is none. ",
             "matched": true
           },
           "dn1:3.39.1": {
             "scid": "dn1:3.39.1",
             "pli": "Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā asaññīvādā uddhamāghātanaṁ asaññiṁ attānaṁ paññapenti aṭṭhahi vatthūhi, tadapi tesaṁ bhavataṁ samaṇabrāhmaṇānaṁ ajānataṁ apassataṁ vedayitaṁ taṇhāgatānaṁ paritassitavipphanditameva. ",
-            "en": "or that the self lives on after death in a <span class=\"scv-matched\">non-percipient</span> form on eight grounds … ",
+            "en": "or that the self lives on after death in a <span class=\"ebt-matched\">non-percipient</span> form on eight grounds … ",
             "matched": true
           },
           "dn1:3.40.1": {
             "scid": "dn1:3.40.1",
             "pli": "Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā nevasaññīnāsaññīvādā uddhamāghātanaṁ nevasaññīnāsaññiṁ attānaṁ paññapenti aṭṭhahi vatthūhi, tadapi tesaṁ bhavataṁ samaṇabrāhmaṇānaṁ ajānataṁ apassataṁ vedayitaṁ taṇhāgatānaṁ paritassitavipphanditameva. ",
-            "en": "or that the self lives on after death in a neither percipient nor <span class=\"scv-matched\">non-percipient</span> form on eight grounds … ",
+            "en": "or that the self lives on after death in a neither percipient nor <span class=\"ebt-matched\">non-percipient</span> form on eight grounds … ",
             "matched": true
           },
           "dn1:3.52.1": {
             "scid": "dn1:3.52.1",
             "pli": "Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā asaññīvādā uddhamāghātanaṁ asaññiṁ attānaṁ paññapenti aṭṭhahi vatthūhi, tadapi phassapaccayā. ",
-            "en": "or that the self lives on after death in a <span class=\"scv-matched\">non-percipient</span> form on eight grounds … ",
+            "en": "or that the self lives on after death in a <span class=\"ebt-matched\">non-percipient</span> form on eight grounds … ",
             "matched": true
           },
           "dn1:3.53.1": {
             "scid": "dn1:3.53.1",
             "pli": "Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā nevasaññīnāsaññīvādā uddhamāghātanaṁ nevasaññīnāsaññiṁ attānaṁ paññapenti aṭṭhahi vatthūhi, tadapi phassapaccayā. ",
-            "en": "or that the self lives on after death in a neither percipient nor <span class=\"scv-matched\">non-percipient</span> form on eight grounds … ",
+            "en": "or that the self lives on after death in a neither percipient nor <span class=\"ebt-matched\">non-percipient</span> form on eight grounds … ",
             "matched": true
           }
         },
@@ -221,49 +221,49 @@
           "mn102:2.4": {
             "scid": "mn102:2.4",
             "pli": "‘asaññī attā hoti arogo paraṁ maraṇā’ti—",
-            "en": "Some propose this: ‘The self is <span class=\"scv-matched\">non-percipient</span> and is sound after death.’ ",
+            "en": "Some propose this: ‘The self is <span class=\"ebt-matched\">non-percipient</span> and is sound after death.’ ",
             "matched": true
           },
           "mn102:2.6": {
             "scid": "mn102:2.6",
             "pli": "‘nevasaññīnāsaññī attā hoti arogo paraṁ maraṇā’ti—",
-            "en": "Some propose this: ‘The self is neither percipient nor <span class=\"scv-matched\">non-percipient</span> and is sound after death.’ ",
+            "en": "Some propose this: ‘The self is neither percipient nor <span class=\"ebt-matched\">non-percipient</span> and is sound after death.’ ",
             "matched": true
           },
           "mn102:5.1": {
             "scid": "mn102:5.1",
             "pli": "Tatra, bhikkhave, ye te samaṇabrāhmaṇā asaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, rūpiṁ vā te bhonto samaṇabrāhmaṇā asaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, arūpiṁ vā te bhonto samaṇabrāhmaṇā asaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, rūpiñca arūpiñca vā te bhonto samaṇabrāhmaṇā asaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, nevarūpiṁ nārūpiṁ vā te bhonto samaṇabrāhmaṇā asaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā. ",
-            "en": "Now, the ascetics and brahmins who assert a self that is <span class=\"scv-matched\">non-percipient</span> and sound after death describe it as having form, or being formless, or both having form and being formless, or neither having form nor being formless. ",
+            "en": "Now, the ascetics and brahmins who assert a self that is <span class=\"ebt-matched\">non-percipient</span> and sound after death describe it as having form, or being formless, or both having form and being formless, or neither having form nor being formless. ",
             "matched": true
           },
           "mn102:7.2": {
             "scid": "mn102:7.2",
             "pli": "ye kho te bhonto samaṇabrāhmaṇā asaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, rūpiṁ vā te bhonto samaṇabrāhmaṇā asaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, arūpiṁ vā te bhonto samaṇabrāhmaṇā asaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, rūpiñca arūpiñca vā te bhonto samaṇabrāhmaṇā asaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, nevarūpiṁ nārūpiṁ vā te bhonto samaṇabrāhmaṇā asaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā. ",
-            "en": "There are ascetics and brahmins who assert a self that is <span class=\"scv-matched\">non-percipient</span> and sound after death, describing it as having form, or being formless, or both having form and being formless, or neither having form nor being formless. ",
+            "en": "There are ascetics and brahmins who assert a self that is <span class=\"ebt-matched\">non-percipient</span> and sound after death, describing it as having form, or being formless, or both having form and being formless, or neither having form nor being formless. ",
             "matched": true
           },
           "mn102:8.1": {
             "scid": "mn102:8.1",
             "pli": "Tatra, bhikkhave, ye te samaṇabrāhmaṇā nevasaññīnāsaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, rūpiṁ vā te bhonto samaṇabrāhmaṇā nevasaññīnāsaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, arūpiṁ vā te bhonto samaṇabrāhmaṇā nevasaññīnāsaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, rūpiñca arūpiñca vā te bhonto samaṇabrāhmaṇā nevasaññīnāsaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, nevarūpiṁ nārūpiṁ vā te bhonto samaṇabrāhmaṇā nevasaññīnāsaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā. ",
-            "en": "Now, the ascetics and brahmins who assert a self that is neither percipient nor <span class=\"scv-matched\">non-percipient</span> and sound after death describe it as having form, or being formless, or both having form and being formless, or neither having form nor being formless. ",
+            "en": "Now, the ascetics and brahmins who assert a self that is neither percipient nor <span class=\"ebt-matched\">non-percipient</span> and sound after death describe it as having form, or being formless, or both having form and being formless, or neither having form nor being formless. ",
             "matched": true
           },
           "mn102:9.1": {
             "scid": "mn102:9.1",
             "pli": "Tatra, bhikkhave, ye te samaṇabrāhmaṇā saññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā tesamete paṭikkosanti, yepi te bhonto samaṇabrāhmaṇā asaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā tesamete paṭikkosanti. ",
-            "en": "So they reject those who assert a self that is percipient and sound after death, as well as those who assert a self that is <span class=\"scv-matched\">non-percipient</span> and sound after death. ",
+            "en": "So they reject those who assert a self that is percipient and sound after death, as well as those who assert a self that is <span class=\"ebt-matched\">non-percipient</span> and sound after death. ",
             "matched": true
           },
           "mn102:10.2": {
             "scid": "mn102:10.2",
             "pli": "Ye kho te bhonto samaṇabrāhmaṇā nevasaññīnāsaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, rūpiṁ vā te bhonto samaṇabrāhmaṇā nevasaññīnāsaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, arūpiṁ vā te bhonto samaṇabrāhmaṇā nevasaññīnāsaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, rūpiñca arūpiñca vā te bhonto samaṇabrāhmaṇā nevasaññīnāsaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā, nevarūpiṁ nārūpiṁ vā te bhonto samaṇabrāhmaṇā nevasaññīnāsaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā. ",
-            "en": "There are ascetics and brahmins who assert a self that is neither percipient nor <span class=\"scv-matched\">non-percipient</span> and sound after death, describing it as having form, or being formless, or both having form and being formless, or neither having form nor being formless. ",
+            "en": "There are ascetics and brahmins who assert a self that is neither percipient nor <span class=\"ebt-matched\">non-percipient</span> and sound after death, describing it as having form, or being formless, or both having form and being formless, or neither having form nor being formless. ",
             "matched": true
           },
           "mn102:11.1": {
             "scid": "mn102:11.1",
             "pli": "Tatra, bhikkhave, ye te samaṇabrāhmaṇā sato sattassa ucchedaṁ vināsaṁ vibhavaṁ paññapenti, tatra, bhikkhave, ye te samaṇabrāhmaṇā saññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā tesamete paṭikkosanti, yepi te bhonto samaṇabrāhmaṇā asaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā tesamete paṭikkosanti, yepi te bhonto samaṇabrāhmaṇā nevasaññīnāsaññiṁ attānaṁ paññapenti arogaṁ paraṁ maraṇā tesamete paṭikkosanti. ",
-            "en": "Now, the ascetics and brahmins who assert the annihilation, eradication, and obliteration of an existing being reject those who assert a self that is sound after death, whether percipient or <span class=\"scv-matched\">non-percipient</span> or neither percipient <span class=\"scv-matched\">non-percipient</span>. ",
+            "en": "Now, the ascetics and brahmins who assert the annihilation, eradication, and obliteration of an existing being reject those who assert a self that is sound after death, whether percipient or <span class=\"ebt-matched\">non-percipient</span> or neither percipient <span class=\"ebt-matched\">non-percipient</span>. ",
             "matched": true
           }
         },
@@ -292,31 +292,31 @@
           "sn35.248:3.1": {
             "scid": "sn35.248:3.1",
             "pli": "‘Asmī’ti, bhikkhave, maññitametaṁ, ‘ayamahamasmī’ti maññitametaṁ, ‘bhavissan’ti maññitametaṁ, ‘na bhavissan’ti maññitametaṁ, ‘rūpī bhavissan’ti maññitametaṁ, ‘arūpī bhavissan’ti maññitametaṁ, ‘saññī bhavissan’ti maññitametaṁ, ‘asaññī bhavissan’ti maññitametaṁ, ‘nevasaññīnāsaññī bhavissan’ti maññitametaṁ. ",
-            "en": "These are all forms of identifying: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be <span class=\"scv-matched\">non-percipient</span>’, ‘I will be neither percipient nor <span class=\"scv-matched\">non-percipient</span>.’ ",
+            "en": "These are all forms of identifying: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be <span class=\"ebt-matched\">non-percipient</span>’, ‘I will be neither percipient nor <span class=\"ebt-matched\">non-percipient</span>.’ ",
             "matched": true
           },
           "sn35.248:4.1": {
             "scid": "sn35.248:4.1",
             "pli": "‘Asmī’ti, bhikkhave, iñjitametaṁ, ‘ayamahamasmī’ti iñjitametaṁ, ‘bhavissan’ti iñjitametaṁ, ‘na bhavissan’ti iñjitametaṁ, ‘rūpī bhavissan’ti iñjitametaṁ, ‘arūpī bhavissan’ti iñjitametaṁ, ‘saññī bhavissan’ti iñjitametaṁ, ‘asaññī bhavissan’ti iñjitametaṁ, ‘nevasaññīnāsaññī bhavissan’ti iñjitametaṁ. ",
-            "en": "These are all disturbances: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be <span class=\"scv-matched\">non-percipient</span>’, ‘I will be neither percipient nor <span class=\"scv-matched\">non-percipient</span>.’ ",
+            "en": "These are all disturbances: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be <span class=\"ebt-matched\">non-percipient</span>’, ‘I will be neither percipient nor <span class=\"ebt-matched\">non-percipient</span>.’ ",
             "matched": true
           },
           "sn35.248:5.1": {
             "scid": "sn35.248:5.1",
             "pli": "‘Asmī’ti, bhikkhave, phanditametaṁ, ‘ayamahamasmī’ti phanditametaṁ, ‘bhavissan’ti …pe… ‘na bhavissan’ti … ‘rūpī bhavissan’ti … ‘arūpī bhavissan’ti … ‘saññī bhavissan’ti … ‘asaññī bhavissan’ti … ‘nevasaññīnāsaññī bhavissan’ti phanditametaṁ. ",
-            "en": "These are all tremblings: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be <span class=\"scv-matched\">non-percipient</span>’, ‘I will be neither percipient nor <span class=\"scv-matched\">non-percipient</span>.’ ",
+            "en": "These are all tremblings: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be <span class=\"ebt-matched\">non-percipient</span>’, ‘I will be neither percipient nor <span class=\"ebt-matched\">non-percipient</span>.’ ",
             "matched": true
           },
           "sn35.248:6.1": {
             "scid": "sn35.248:6.1",
             "pli": "‘Asmī’ti, bhikkhave, papañcitametaṁ, ‘ayamahamasmī’ti papañcitametaṁ, ‘bhavissan’ti …pe… ‘na bhavissan’ti … ‘rūpī bhavissan’ti … ‘arūpī bhavissan’ti … ‘saññī bhavissan’ti … ‘asaññī bhavissan’ti … ‘nevasaññīnāsaññī bhavissan’ti papañcitametaṁ. ",
-            "en": "These are all proliferations: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be <span class=\"scv-matched\">non-percipient</span>’, ‘I will be neither percipient nor <span class=\"scv-matched\">non-percipient</span>.’ ",
+            "en": "These are all proliferations: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be <span class=\"ebt-matched\">non-percipient</span>’, ‘I will be neither percipient nor <span class=\"ebt-matched\">non-percipient</span>.’ ",
             "matched": true
           },
           "sn35.248:7.1": {
             "scid": "sn35.248:7.1",
             "pli": "‘Asmī’ti, bhikkhave, mānagatametaṁ, ‘ayamahamasmī’ti mānagatametaṁ, ‘bhavissan’ti mānagatametaṁ, ‘na bhavissan’ti mānagatametaṁ, ‘rūpī bhavissan’ti mānagatametaṁ, ‘arūpī bhavissan’ti mānagatametaṁ, ‘saññī bhavissan’ti mānagatametaṁ, ‘asaññī bhavissan’ti mānagatametaṁ, ‘nevasaññīnāsaññī bhavissan’ti mānagatametaṁ. ",
-            "en": "These are all conceits: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be <span class=\"scv-matched\">non-percipient</span>’, ‘I will be neither percipient nor <span class=\"scv-matched\">non-percipient</span>.’ ",
+            "en": "These are all conceits: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be <span class=\"ebt-matched\">non-percipient</span>’, ‘I will be neither percipient nor <span class=\"ebt-matched\">non-percipient</span>.’ ",
             "matched": true
           }
         },
@@ -345,25 +345,25 @@
           "dn9:6.9": {
             "scid": "dn9:6.9",
             "pli": "Yasmiṁ samaye nirujjhanti, asaññī tasmiṁ samaye hotī’ti. ",
-            "en": "When they cease, you become <span class=\"scv-matched\">non-percipient</span>.’ ",
+            "en": "When they cease, you become <span class=\"ebt-matched\">non-percipient</span>.’ ",
             "matched": true
           },
           "dn9:6.16": {
             "scid": "dn9:6.16",
             "pli": "Yasmiṁ samaye apeti, asaññī tasmiṁ samaye hotī’ti. ",
-            "en": "When it departs, you become <span class=\"scv-matched\">non-percipient</span>.’ ",
+            "en": "When it departs, you become <span class=\"ebt-matched\">non-percipient</span>.’ ",
             "matched": true
           },
           "dn9:6.23": {
             "scid": "dn9:6.23",
             "pli": "Yasmiṁ samaye apakaḍḍhanti, asaññī tasmiṁ samaye hotī’ti. ",
-            "en": "When they extract it, you become <span class=\"scv-matched\">non-percipient</span>.’ ",
+            "en": "When they extract it, you become <span class=\"ebt-matched\">non-percipient</span>.’ ",
             "matched": true
           },
           "dn9:6.30": {
             "scid": "dn9:6.30",
             "pli": "Yasmiṁ samaye apakaḍḍhanti, asaññī tasmiṁ samaye hotī’ti. ",
-            "en": "When they extract it, you become <span class=\"scv-matched\">non-percipient</span>.’ ",
+            "en": "When they extract it, you become <span class=\"ebt-matched\">non-percipient</span>.’ ",
             "matched": true
           }
         },
@@ -392,19 +392,19 @@
           "sn22.47:2.13": {
             "scid": "sn22.47:2.13",
             "pli": "‘nevasaññīnāsaññī bhavissan’tipissa hoti. ",
-            "en": "‘I will be neither percipient nor <span class=\"scv-matched\">non-percipient</span>’. ",
+            "en": "‘I will be neither percipient nor <span class=\"ebt-matched\">non-percipient</span>’. ",
             "matched": true
           },
           "sn22.47:3.10": {
             "scid": "sn22.47:3.10",
             "pli": "asaññī … ",
-            "en": "‘I will be <span class=\"scv-matched\">non-percipient</span>’, ",
+            "en": "‘I will be <span class=\"ebt-matched\">non-percipient</span>’, ",
             "matched": true
           },
           "sn22.47:3.11": {
             "scid": "sn22.47:3.11",
             "pli": "‘nevasaññīnāsaññī bhavissan’tipissa na hotī”ti. ",
-            "en": "‘I will be neither percipient nor <span class=\"scv-matched\">non-percipient</span>’.” ",
+            "en": "‘I will be neither percipient nor <span class=\"ebt-matched\">non-percipient</span>’.” ",
             "matched": true
           }
         },
@@ -433,13 +433,13 @@
           "dn29:37.10": {
             "scid": "dn29:37.10",
             "pli": "asaññī attā hoti … ",
-            "en": "or <span class=\"scv-matched\">non-percipient</span>, ",
+            "en": "or <span class=\"ebt-matched\">non-percipient</span>, ",
             "matched": true
           },
           "dn29:37.11": {
             "scid": "dn29:37.11",
             "pli": "nevasaññīnāsaññī attā hoti … ",
-            "en": "or neither percipient nor <span class=\"scv-matched\">non-percipient</span>, ",
+            "en": "or neither percipient nor <span class=\"ebt-matched\">non-percipient</span>, ",
             "matched": true
           }
         },
@@ -468,7 +468,7 @@
           "thag3.14:2.4": {
             "scid": "thag3.14:2.4",
             "pli": "Nevasaññisu asaññisuṭṭhitaṁ.",
-            "en": "among the neither-percipient-nor-non-percipient, and the <span class=\"scv-matched\">non-percipient</span>.",
+            "en": "among the neither-percipient-nor-non-percipient, and the <span class=\"ebt-matched\">non-percipient</span>.",
             "matched": true
           }
         },
@@ -497,7 +497,7 @@
           "an9.24:5.1": {
             "scid": "an9.24:5.1",
             "pli": "Santi, bhikkhave, sattā asaññino appaṭisaṁvedino, seyyathāpi devā asaññasattā. ",
-            "en": "There are sentient beings that are <span class=\"scv-matched\">non-percipient</span> and do not experience anything, such as the gods who are <span class=\"scv-matched\">non-percipient</span> beings. ",
+            "en": "There are sentient beings that are <span class=\"ebt-matched\">non-percipient</span> and do not experience anything, such as the gods who are <span class=\"ebt-matched\">non-percipient</span> beings. ",
             "matched": true
           }
         },
@@ -526,7 +526,7 @@
           "an9.37:3.3": {
             "scid": "an9.37:3.3",
             "pli": "“Saññīmeva kho, āvuso, tadāyatanaṁ no paṭisaṁvedeti, no asaññī”ti. ",
-            "en": "“Reverend, one who doesn’t experience that sense-field is actually percipient, not <span class=\"scv-matched\">non-percipient</span>.” ",
+            "en": "“Reverend, one who doesn’t experience that sense-field is actually percipient, not <span class=\"ebt-matched\">non-percipient</span>.” ",
             "matched": true
           }
         },
@@ -555,7 +555,7 @@
           "sn24.8:1.11": {
             "scid": "sn24.8:1.11",
             "pli": "Cuddasa kho panimāni yonipamukhasatasahassāni saṭṭhi ca satāni cha ca satāni pañca ca kammuno satāni pañca ca kammāni, tīṇi ca kammāni, kamme ca aḍḍhakamme ca dvaṭṭhipaṭipadā, dvaṭṭhantarakappā, chaḷābhijātiyo, aṭṭha purisabhūmiyo, ekūnapaññāsa ājīvakasate, ekūnapaññāsa paribbājakasate, ekūnapaññāsa nāgavāsasate, vīse indriyasate, tiṁse nirayasate, chattiṁsarajodhātuyo, satta saññīgabbhā, satta asaññīgabbhā, satta nigaṇṭhigabbhā, satta devā, satta mānusā, satta pesācā, satta sarā, satta pavuṭā, satta papātā, satta ca papātasatāni, satta supinā, satta supinasatāni, cullāsīti mahākappino satasahassāni, yāni bāle ca paṇḍite ca sandhāvitvā saṁsaritvā dukkhassantaṁ karissanti. ",
-            "en": "There are 1.4 million main wombs, and 6,000, and 600. There are 500 deeds, and five, and three. There are deeds and half-deeds. There are 62 paths, 62 sub-eons, six classes of rebirth, and eight stages in a person’s life. There are 4,900 Ājīvaka ascetics, 4,900 wanderers, and 4,900 naked ascetics. There are 2,000 faculties, 3,000 hells, and 36 realms of dust. There are seven percipient embryos, seven <span class=\"scv-matched\">non-percipient</span> embryos, and seven embryos without attachments. There are seven gods, seven humans, and seven goblins. There are seven lakes, seven winds, seven cliffs, and 700 cliffs. There are seven dreams and 700 dreams. There are 8.4 million great eons through which the foolish and the astute transmigrate before making an end of suffering. ",
+            "en": "There are 1.4 million main wombs, and 6,000, and 600. There are 500 deeds, and five, and three. There are deeds and half-deeds. There are 62 paths, 62 sub-eons, six classes of rebirth, and eight stages in a person’s life. There are 4,900 Ājīvaka ascetics, 4,900 wanderers, and 4,900 naked ascetics. There are 2,000 faculties, 3,000 hells, and 36 realms of dust. There are seven percipient embryos, seven <span class=\"ebt-matched\">non-percipient</span> embryos, and seven embryos without attachments. There are seven gods, seven humans, and seven goblins. There are seven lakes, seven winds, seven cliffs, and 700 cliffs. There are seven dreams and 700 dreams. There are 8.4 million great eons through which the foolish and the astute transmigrate before making an end of suffering. ",
             "matched": true
           }
         },
@@ -584,7 +584,7 @@
           "sn44.11:3.14": {
             "scid": "sn44.11:3.14",
             "pli": "“Yo ca, vaccha, hetu, yo ca paccayo paññāpanāya rūpīti vā arūpīti vā saññīti vā asaññīti vā nevasaññīnāsaññīti vā, so ca hetu, so ca paccayo sabbena sabbaṁ sabbathā sabbaṁ aparisesaṁ nirujjheyya. ",
-            "en": "“In order to describe him as ‘possessing form’ or ‘formless’ or ‘percipient’ or ‘<span class=\"scv-matched\">non-percipient</span>’ or ‘neither percipient nor <span class=\"scv-matched\">non-percipient</span>’, there must be some cause or reason for doing so. But if that cause and reason were to totally and utterly cease without anything left over, ",
+            "en": "“In order to describe him as ‘possessing form’ or ‘formless’ or ‘percipient’ or ‘<span class=\"ebt-matched\">non-percipient</span>’ or ‘neither percipient nor <span class=\"ebt-matched\">non-percipient</span>’, there must be some cause or reason for doing so. But if that cause and reason were to totally and utterly cease without anything left over, ",
             "matched": true
           }
         },
@@ -613,7 +613,7 @@
           "dn15:33.17": {
             "scid": "dn15:33.17",
             "pli": "Asaññasattāyatanaṁ nevasaññānāsaññāyatanameva dutiyaṁ. ",
-            "en": "Then there’s the dimension of <span class=\"scv-matched\">non-percipient</span> beings, and secondly, the dimension of neither perception nor non-perception. ",
+            "en": "Then there’s the dimension of <span class=\"ebt-matched\">non-percipient</span> beings, and secondly, the dimension of neither perception nor non-perception. ",
             "matched": true
           }
         },
@@ -642,7 +642,7 @@
           "dn28:16.6": {
             "scid": "dn28:16.6",
             "pli": "Api ca yasmiṁ yasmiṁ attabhāve abhinivuṭṭhapubbo hoti yadi vā rūpīsu yadi vā arūpīsu yadi vā saññīsu yadi vā asaññīsu yadi vā nevasaññīnāsaññīsu. ",
-            "en": "Still, no matter what incarnation they have previously been reborn in—whether physical or formless or percipient or <span class=\"scv-matched\">non-percipient</span> or neither percipient nor <span class=\"scv-matched\">non-percipient</span>—",
+            "en": "Still, no matter what incarnation they have previously been reborn in—whether physical or formless or percipient or <span class=\"ebt-matched\">non-percipient</span> or neither percipient nor <span class=\"ebt-matched\">non-percipient</span>—",
             "matched": true
           }
         },
@@ -671,7 +671,7 @@
           "mn76:16.11": {
             "scid": "mn76:16.11",
             "pli": "Cuddasa kho panimāni yonipamukhasatasahassāni saṭṭhi ca satāni cha ca satāni pañca ca kammuno satāni pañca ca kammāni tīṇi ca kammāni, kamme ca aḍḍhakamme ca, dvaṭṭhipaṭipadā, dvaṭṭhantarakappā, chaḷābhijātiyo, aṭṭha purisabhūmiyo, ekūnapaññāsa ājīvakasate, ekūnapaññāsa paribbājakasate, ekūnapaññāsa nāgāvāsasate, vīse indriyasate, tiṁse nirayasate, chattiṁsa rajodhātuyo, satta saññīgabbhā, satta asaññīgabbhā, satta nigaṇṭhigabbhā, satta devā, satta mānusā, satta pesācā, satta sarā, satta pavuṭā, satta papātā, satta papātasatāni, satta supinā, satta supinasatāni, cullāsīti mahākappino satasahassāni, yāni bāle ca paṇḍite ca sandhāvitvā saṁsaritvā dukkhassantaṁ karissanti. ",
-            "en": "There are 1.4 million main wombs, and 6,000, and 600. There are 500 deeds, and five, and three. There are deeds and half-deeds. There are 62 paths, 62 sub-eons, six classes of rebirth, and eight stages in a person’s life. There are 4,900 Ājīvaka ascetics, 4,900 wanderers, and 4,900 naked ascetics. There are 2,000 faculties, 3,000 hells, and 36 realms of dust. There are seven percipient embryos, seven <span class=\"scv-matched\">non-percipient</span> embryos, and seven embryos without attachments. There are seven gods, seven humans, and seven goblins. There are seven lakes, seven winds, seven cliffs, and 700 cliffs. There are seven dreams and 700 dreams. There are 8.4 million great eons through which the foolish and the astute transmigrate before making an end of suffering. ",
+            "en": "There are 1.4 million main wombs, and 6,000, and 600. There are 500 deeds, and five, and three. There are deeds and half-deeds. There are 62 paths, 62 sub-eons, six classes of rebirth, and eight stages in a person’s life. There are 4,900 Ājīvaka ascetics, 4,900 wanderers, and 4,900 naked ascetics. There are 2,000 faculties, 3,000 hells, and 36 realms of dust. There are seven percipient embryos, seven <span class=\"ebt-matched\">non-percipient</span> embryos, and seven embryos without attachments. There are seven gods, seven humans, and seven goblins. There are seven lakes, seven winds, seven cliffs, and 700 cliffs. There are seven dreams and 700 dreams. There are 8.4 million great eons through which the foolish and the astute transmigrate before making an end of suffering. ",
             "matched": true
           }
         },
@@ -700,7 +700,7 @@
           "mn140:31.1": {
             "scid": "mn140:31.1",
             "pli": "‘Asmī’ti, bhikkhu, maññitametaṁ, ‘ayamahamasmī’ti maññitametaṁ, ‘bhavissan’ti maññitametaṁ, ‘na bhavissan’ti maññitametaṁ, ‘rūpī bhavissan’ti maññitametaṁ, ‘arūpī bhavissan’ti maññitametaṁ, ‘saññī bhavissan’ti maññitametaṁ, ‘asaññī bhavissan’ti maññitametaṁ, ‘nevasaññīnāsaññī bhavissan’ti maññitametaṁ. ",
-            "en": "These are all forms of identifying: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be <span class=\"scv-matched\">non-percipient</span>’, ‘I will be neither percipient nor <span class=\"scv-matched\">non-percipient</span>.’ ",
+            "en": "These are all forms of identifying: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be <span class=\"ebt-matched\">non-percipient</span>’, ‘I will be neither percipient nor <span class=\"ebt-matched\">non-percipient</span>.’ ",
             "matched": true
           }
         },
@@ -729,7 +729,7 @@
           "dn2:20.7": {
             "scid": "dn2:20.7",
             "pli": "Cuddasa kho panimāni yonipamukhasatasahassāni saṭṭhi ca satāni cha ca satāni pañca ca kammuno satāni pañca ca kammāni tīṇi ca kammāni kamme ca aḍḍhakamme ca dvaṭṭhipaṭipadā dvaṭṭhantarakappā chaḷābhijātiyo aṭṭha purisabhūmiyo ekūnapaññāsa ājīvakasate ekūnapaññāsa paribbājakasate ekūnapaññāsa nāgāvāsasate vīse indriyasate tiṁse nirayasate chattiṁsa rajodhātuyo satta saññīgabbhā satta asaññīgabbhā satta nigaṇṭhigabbhā satta devā satta mānusā satta pisācā satta sarā satta pavuṭā satta pavuṭasatāni satta papātā satta papātasatāni satta supinā satta supinasatāni cullāsīti mahākappino satasahassāni, yāni bāle ca paṇḍite ca sandhāvitvā saṁsaritvā dukkhassantaṁ karissanti. ",
-            "en": "There are 1.4 million main wombs, and 6,000, and 600. There are 500 deeds, and five, and three. There are deeds and half-deeds. There are 62 paths, 62 sub-eons, six classes of rebirth, and eight stages in a person’s life. There are 4,900 Ājīvaka ascetics, 4,900 wanderers, and 4,900 naked ascetics. There are 2,000 faculties, 3,000 hells, and 36 realms of dust. There are seven percipient embryos, seven <span class=\"scv-matched\">non-percipient</span> embryos, and seven embryos without attachments. There are seven gods, seven humans, and seven goblins. There are seven lakes, seven winds, 700 winds, seven cliffs, and 700 cliffs. There are seven dreams and 700 dreams. There are 8.4 million great eons through which the foolish and the astute transmigrate before making an end of suffering. ",
+            "en": "There are 1.4 million main wombs, and 6,000, and 600. There are 500 deeds, and five, and three. There are deeds and half-deeds. There are 62 paths, 62 sub-eons, six classes of rebirth, and eight stages in a person’s life. There are 4,900 Ājīvaka ascetics, 4,900 wanderers, and 4,900 naked ascetics. There are 2,000 faculties, 3,000 hells, and 36 realms of dust. There are seven percipient embryos, seven <span class=\"ebt-matched\">non-percipient</span> embryos, and seven embryos without attachments. There are seven gods, seven humans, and seven goblins. There are seven lakes, seven winds, 700 winds, seven cliffs, and 700 cliffs. There are seven dreams and 700 dreams. There are 8.4 million great eons through which the foolish and the astute transmigrate before making an end of suffering. ",
             "matched": true
           }
         },
@@ -758,7 +758,7 @@
           "dn24:2.20.9": {
             "scid": "dn24:2.20.9",
             "pli": "‘Santāvuso, asaññasattā nāma devā. ",
-            "en": "‘Reverends, there are gods named “<span class=\"scv-matched\">non-percipient</span> beings”. ",
+            "en": "‘Reverends, there are gods named “<span class=\"ebt-matched\">non-percipient</span> beings”. ",
             "matched": true
           }
         },
@@ -787,7 +787,7 @@
           "dn33:3.2.33": {
             "scid": "dn33:3.2.33",
             "pli": "Santāvuso, sattā asaññino appaṭisaṁvedino, seyyathāpi devā asaññasattā. ",
-            "en": "There are sentient beings that are <span class=\"scv-matched\">non-percipient</span> and do not experience anything, such as the gods who are <span class=\"scv-matched\">non-percipient</span> beings. ",
+            "en": "There are sentient beings that are <span class=\"ebt-matched\">non-percipient</span> and do not experience anything, such as the gods who are <span class=\"ebt-matched\">non-percipient</span> beings. ",
             "matched": true
           }
         },
@@ -816,7 +816,7 @@
           "dn34:2.2.19": {
             "scid": "dn34:2.2.19",
             "pli": "Santāvuso, sattā asaññino appaṭisaṁvedino, seyyathāpi devā asaññasattā. ",
-            "en": "There are sentient beings that are <span class=\"scv-matched\">non-percipient</span> and do not experience anything, such as the gods who are <span class=\"scv-matched\">non-percipient</span> beings. ",
+            "en": "There are sentient beings that are <span class=\"ebt-matched\">non-percipient</span> and do not experience anything, such as the gods who are <span class=\"ebt-matched\">non-percipient</span> beings. ",
             "matched": true
           }
         },

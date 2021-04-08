@@ -14,7 +14,7 @@
       "searchLang": "jpn",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "jpn",
       "types": [
         "root",
@@ -58,28 +58,28 @@
             "scid": "an1.51:0.2",
             "pli": "6. Accharāsaṅghātavagga ",
             "en": "6. Finger-Snap ",
-            "jpn": "第六　<span class=\"scv-matched\">指をパチンと鳴らす</span>（弾指品） ",
+            "jpn": "第六　<span class=\"ebt-matched\">指をパチンと鳴らす</span>（弾指品） ",
             "matched": true
           },
           "an1.53:1.1": {
             "scid": "an1.53:1.1",
             "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ āsevati; ",
             "en": "“If, mendicants, a mendicant cultivates a mind of love even as long as a finger-snap, ",
-            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が<span class=\"scv-matched\">指をパチンと鳴らす</span>ほどのほんの短い間でも愛情の心を育てると、 ",
+            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が<span class=\"ebt-matched\">指をパチンと鳴らす</span>ほどのほんの短い間でも愛情の心を育てると、 ",
             "matched": true
           },
           "an1.54:1.1": {
             "scid": "an1.54:1.1",
             "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ bhāveti; ",
             "en": "“If, mendicants, a mendicant develops a mind of love even as long as a finger-snap, ",
-            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が<span class=\"scv-matched\">指をパチンと鳴らす</span>ほどのほんの短い間でも愛情の心を発達させると、 ",
+            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が<span class=\"ebt-matched\">指をパチンと鳴らす</span>ほどのほんの短い間でも愛情の心を発達させると、 ",
             "matched": true
           },
           "an1.55:1.1": {
             "scid": "an1.55:1.1",
             "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ manasi karoti; ",
             "en": "“If, mendicants, a mendicant focuses on a mind of love even as long as a finger-snap, ",
-            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が<span class=\"scv-matched\">指をパチンと鳴らす</span>ほどのほんの短い間でも愛情の心に注意を払うと、 ",
+            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が<span class=\"ebt-matched\">指をパチンと鳴らす</span>ほどのほんの短い間でも愛情の心に注意を払うと、 ",
             "matched": true
           }
         },

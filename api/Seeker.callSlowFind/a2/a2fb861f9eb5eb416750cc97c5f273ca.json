@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,14 +65,14 @@
           "sn56.1:1.4": {
             "scid": "sn56.1:1.4",
             "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
-            "de": "Eine Nonne, die <span class=\"scv-matched\">Versenkung besitzt</span>, versteht wirklich. ",
+            "de": "Eine Nonne, die <span class=\"ebt-matched\">Versenkung besitzt</span>, versteht wirklich. ",
             "en": "A mendicant who has immersion truly understands. ",
             "matched": true
           },
           "sn56.1:1.8": {
             "scid": "sn56.1:1.8",
             "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
-            "de": "Eine Nonne, die <span class=\"scv-matched\">Versenkung besitzt</span>, versteht wirklich. ",
+            "de": "Eine Nonne, die <span class=\"ebt-matched\">Versenkung besitzt</span>, versteht wirklich. ",
             "en": "A mendicant who has immersion truly understands. ",
             "matched": true
           }
@@ -111,7 +111,7 @@
           "an4.196:11.3": {
             "scid": "an4.196:11.3",
             "pli": "Sammāsamādhi, sāḷha, ariyasāvako yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
-            "de": "Ein edler Schüler, der rechte <span class=\"scv-matched\">Versenkung besitzt</span>, sieht jegliche Art von Form – vergangen, zukünftig oder gegenwärtig, innen oder außen, grob oder fein, gering oder hochstehend, fern oder nah: *jegliche* Form – er sieht sie wahrhaftig und versteht sie richtig: ‚Das ist nicht mein, das bin nicht ich, das ist nicht mein Selbst.‘ ",
+            "de": "Ein edler Schüler, der rechte <span class=\"ebt-matched\">Versenkung besitzt</span>, sieht jegliche Art von Form – vergangen, zukünftig oder gegenwärtig, innen oder außen, grob oder fein, gering oder hochstehend, fern oder nah: *jegliche* Form – er sieht sie wahrhaftig und versteht sie richtig: ‚Das ist nicht mein, das bin nicht ich, das ist nicht mein Selbst.‘ ",
             "en": "A noble disciple with right immersion truly sees any kind of form at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
             "matched": true
           }
@@ -143,7 +143,7 @@
           "an3.21:5.7": {
             "scid": "an3.21:5.7",
             "pli": "Imassa, āvuso, puggalassa samādhindriyaṁ adhimattan”ti. ",
-            "de": "Weil dieser Mensch eine herausragende Fähigkeit zur <span class=\"scv-matched\">Versenkung besitzt</span>.“ ",
+            "de": "Weil dieser Mensch eine herausragende Fähigkeit zur <span class=\"ebt-matched\">Versenkung besitzt</span>.“ ",
             "en": "Because this person’s faculty of immersion is outstanding.” ",
             "matched": true
           }

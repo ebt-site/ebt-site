@@ -79,7 +79,7 @@ if (!argv.format || argv.format === 'es') {
     input: 'components/entry.esm.js',
     external,
     output: {
-      file: 'dist/scv-vue.esm.js',
+      file: 'dist/ebt-vue.esm.js',
       format: 'esm',
       exports: 'named',
     },
@@ -111,9 +111,9 @@ if (!argv.format || argv.format === 'cjs') {
     external,
     output: {
       compact: true,
-      file: 'dist/scv-vue.ssr.js',
+      file: 'dist/ebt-vue.ssr.js',
       format: 'cjs',
-      name: 'ScvVue',
+      name: 'EbtVue',
       exports: 'auto',
       globals,
     },
@@ -141,9 +141,9 @@ if (!argv.format || argv.format === 'iife') {
     external,
     output: {
       compact: true,
-      file: 'dist/scv-vue.min.js',
+      file: 'dist/ebt-vue.min.js',
       format: 'iife',
-      name: 'ScvVue',
+      name: 'EbtVue',
       exports: 'auto',
       globals,
     },

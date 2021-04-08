@@ -154,7 +154,7 @@ export default {
     yesDeleteUser: 'Ja. Benutzerkonto löschen: ',
 
   },
-  scv: {
+  ebt: {
     audio: "Audio",
     aboutTitle: "Über Voice",
     and: "und",

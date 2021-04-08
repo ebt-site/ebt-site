@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,31 +54,31 @@
           "an11.14:2.1": {
             "scid": "an11.14:2.1",
             "pli": "“Kacci panāyaṁ, subhūti, saddho bhikkhu sudattassa upāsakassa putto saddhā agārasmā anagāriyaṁ pabbajito sandissati saddhāpadānesū”ti? ",
-            "en": "“Well, I hope this mendicant Saddha exhibits <span class=\"scv-matched\">the outcomes of faith</span>.” ",
+            "en": "“Well, I hope this mendicant Saddha exhibits <span class=\"ebt-matched\">the outcomes of faith</span>.” ",
             "matched": true
           },
           "an11.14:2.3": {
             "scid": "an11.14:2.3",
             "pli": "yaṁ bhagavā saddhassa saddhāpadānāni bhāseyya. ",
-            "en": "Let the Buddha to speak on <span class=\"scv-matched\">the outcomes of faith</span>. ",
+            "en": "Let the Buddha to speak on <span class=\"ebt-matched\">the outcomes of faith</span>. ",
             "matched": true
           },
           "an11.14:2.4": {
             "scid": "an11.14:2.4",
             "pli": "Idānāhaṁ jānissāmi yadi vā ayaṁ bhikkhu sandissati saddhāpadānesu yadi vā no”ti. ",
-            "en": "Now I will find out whether or not this mendicant Saddha exhibits <span class=\"scv-matched\">the outcomes of faith</span>.” ",
+            "en": "Now I will find out whether or not this mendicant Saddha exhibits <span class=\"ebt-matched\">the outcomes of faith</span>.” ",
             "matched": true
           },
           "an11.14:15.2": {
             "scid": "an11.14:15.2",
             "pli": "“yānimāni, bhante, bhagavatā saddhassa saddhāpadānāni bhāsitāni, saṁvijjanti tāni imassa bhikkhuno, ayañca bhikkhu etesu sandissati. ",
-            "en": "“Sir, <span class=\"scv-matched\">the outcomes of faith</span> for a faithful person that the Buddha speaks of are found in this mendicant; he does exhibit them. ",
+            "en": "“Sir, <span class=\"ebt-matched\">the outcomes of faith</span> for a faithful person that the Buddha speaks of are found in this mendicant; he does exhibit them. ",
             "matched": true
           },
           "an11.14:26.2": {
             "scid": "an11.14:26.2",
             "pli": "Yānimāni, bhante, bhagavatā saddhassa saddhāpadānāni bhāsitāni, saṁvijjanti tāni imassa bhikkhuno, ayañca bhikkhu etesu sandissatī”ti. ",
-            "en": "<span class=\"scv-matched\">The outcomes of faith</span> for a faithful person that the Buddha speaks of are found in this mendicant; he does exhibit them.” ",
+            "en": "<span class=\"ebt-matched\">The outcomes of faith</span> for a faithful person that the Buddha speaks of are found in this mendicant; he does exhibit them.” ",
             "matched": true
           }
         },

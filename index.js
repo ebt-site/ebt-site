@@ -1,10 +1,10 @@
 
 module.exports = {
 
-    ScvVue: require('./components/entry.esm'),
-    ScvSrc: require('./src/index'),
-    ScvStore: require('./store/scv'),
-    ScvClient: require('./plugins/scv-client'),
+    EbtVue: require('./components/entry.esm'),
+    EbtSrc: require('./src/index'),
+    EbtStore: require('./store/ebt'),
+    EbtClient: require('./plugins/ebt-client'),
 
 '' : ''};
 

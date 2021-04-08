@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an4.34:7.1": {
             "scid": "an4.34:7.1",
             "pli": "Aggasmiṁ dānaṁ dadataṁ, ",
-            "de": "wer so den Besten <span class=\"scv-matched\">Gaben spendet</span>, ",
+            "de": "wer so den Besten <span class=\"ebt-matched\">Gaben spendet</span>, ",
             "en": "giving gifts to the best, ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "an5.32:10.1": {
             "scid": "an5.32:10.1",
             "pli": "Aggasmiṁ dānaṁ dadataṁ, ",
-            "de": "wer so den Besten <span class=\"scv-matched\">Gaben spendet</span>, ",
+            "de": "wer so den Besten <span class=\"ebt-matched\">Gaben spendet</span>, ",
             "en": "giving gifts to the best, ",
             "matched": true
           }

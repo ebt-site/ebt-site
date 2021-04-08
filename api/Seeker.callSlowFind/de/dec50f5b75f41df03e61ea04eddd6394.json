@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,43 +66,43 @@
           "mn17:5.2": {
             "scid": "mn17:5.2",
             "pli": "Tassa taṁ vanapatthaṁ upanissāya viharato anupaṭṭhitā ceva sati upaṭṭhāti, asamāhitañca cittaṁ samādhiyati, aparikkhīṇā ca āsavā parikkhayaṁ gacchanti, ananuppattañca anuttaraṁ yogakkhemaṁ anupāpuṇāti. ",
-            "en": "As they do so, their mindfulness <span class=\"scv-matched\">becomes established</span>, their mind becomes immersed in samādhi, their defilements come to an end, and they arrive at the supreme sanctuary. ",
+            "en": "As they do so, their mindfulness <span class=\"ebt-matched\">becomes established</span>, their mind becomes immersed in samādhi, their defilements come to an end, and they arrive at the supreme sanctuary. ",
             "matched": true
           },
           "mn17:5.5": {
             "scid": "mn17:5.5",
             "pli": "Tassa me imaṁ vanapatthaṁ upanissāya viharato anupaṭṭhitā ceva sati upaṭṭhāti asamāhitañca cittaṁ samādhiyati, aparikkhīṇā ca āsavā parikkhayaṁ gacchanti, ananuppattañca anuttaraṁ yogakkhemaṁ anupāpuṇāmi. ",
-            "en": "‘While living close by this jungle thicket, my mindfulness <span class=\"scv-matched\">becomes established</span> … ",
+            "en": "‘While living close by this jungle thicket, my mindfulness <span class=\"ebt-matched\">becomes established</span> … ",
             "matched": true
           },
           "mn17:5.8": {
             "scid": "mn17:5.8",
             "pli": "Atha ca pana me imaṁ vanapatthaṁ upanissāya viharato anupaṭṭhitā ceva sati upaṭṭhāti, asamāhitañca cittaṁ samādhiyati, aparikkhīṇā ca āsavā parikkhayaṁ gacchanti, ananuppattañca anuttaraṁ yogakkhemaṁ anupāpuṇāmī’ti. ",
-            "en": "Moreover, while living close by this jungle thicket, my mindfulness <span class=\"scv-matched\">becomes established</span> …’ ",
+            "en": "Moreover, while living close by this jungle thicket, my mindfulness <span class=\"ebt-matched\">becomes established</span> …’ ",
             "matched": true
           },
           "mn17:6.2": {
             "scid": "mn17:6.2",
             "pli": "Tassa taṁ vanapatthaṁ upanissāya viharato anupaṭṭhitā ceva sati upaṭṭhāti, asamāhitañca cittaṁ samādhiyati, aparikkhīṇā ca āsavā parikkhayaṁ gacchanti, ananuppattañca anuttaraṁ yogakkhemaṁ anupāpuṇāti. ",
-            "en": "Their mindfulness <span class=\"scv-matched\">becomes established</span> … ",
+            "en": "Their mindfulness <span class=\"ebt-matched\">becomes established</span> … ",
             "matched": true
           },
           "mn17:6.5": {
             "scid": "mn17:6.5",
             "pli": "‘ahaṁ kho imaṁ vanapatthaṁ upanissāya viharāmi. Tassa me imaṁ vanapatthaṁ upanissāya viharato anupaṭṭhitā ceva sati upaṭṭhāti asamāhitañca cittaṁ samādhiyati, aparikkhīṇā ca āsavā parikkhayaṁ gacchanti, ananuppattañca anuttaraṁ yogakkhemaṁ anupāpuṇāmi. ",
-            "en": "‘While living close by this jungle thicket, my mindfulness <span class=\"scv-matched\">becomes established</span> … ",
+            "en": "‘While living close by this jungle thicket, my mindfulness <span class=\"ebt-matched\">becomes established</span> … ",
             "matched": true
           },
           "mn17:26.2": {
             "scid": "mn17:26.2",
             "pli": "Tassa taṁ puggalaṁ upanissāya viharato anupaṭṭhitā ceva sati upaṭṭhāti, asamāhitañca cittaṁ samādhiyati, aparikkhīṇā ca āsavā parikkhayaṁ gacchanti, ananuppattañca anuttaraṁ yogakkhemaṁ anupāpuṇāti. ",
-            "en": "As they do so, their mindfulness <span class=\"scv-matched\">becomes established</span>, their mind becomes immersed in samādhi, their defilements come to an end, and they arrive at the supreme sanctuary. ",
+            "en": "As they do so, their mindfulness <span class=\"ebt-matched\">becomes established</span>, their mind becomes immersed in samādhi, their defilements come to an end, and they arrive at the supreme sanctuary. ",
             "matched": true
           },
           "mn17:26.5": {
             "scid": "mn17:26.5",
             "pli": "‘ahaṁ kho imaṁ puggalaṁ upanissāya viharāmi. Tassa me imaṁ puggalaṁ upanissāya viharato anupaṭṭhitā ceva sati upaṭṭhāti, asamāhitañca cittaṁ samādhiyati, aparikkhīṇā ca āsavā parikkhayaṁ gacchanti, ananuppattañca anuttaraṁ yogakkhemaṁ anupāpuṇāmi. ",
-            "en": "‘While living supported by this person, my mindfulness <span class=\"scv-matched\">becomes established</span> … ",
+            "en": "‘While living supported by this person, my mindfulness <span class=\"ebt-matched\">becomes established</span> … ",
             "matched": true
           }
         },
@@ -131,25 +131,25 @@
           "sn12.64:2.1": {
             "scid": "sn12.64:2.1",
             "pli": "Kabaḷīkāre ce, bhikkhave, āhāre atthi rāgo atthi nandī atthi taṇhā, patiṭṭhitaṁ tattha viññāṇaṁ virūḷhaṁ. ",
-            "en": "If there is desire, relishing, and craving for solid food, consciousness <span class=\"scv-matched\">becomes established</span> there and grows. ",
+            "en": "If there is desire, relishing, and craving for solid food, consciousness <span class=\"ebt-matched\">becomes established</span> there and grows. ",
             "matched": true
           },
           "sn12.64:3.3": {
             "scid": "sn12.64:3.3",
             "pli": "viññāṇe ce, bhikkhave, āhāre atthi rāgo atthi nandī atthi taṇhā, patiṭṭhitaṁ tattha viññāṇaṁ virūḷhaṁ. ",
-            "en": "If there is desire, relishing, and craving for consciousness as fuel, consciousness <span class=\"scv-matched\">becomes established</span> there and grows. ",
+            "en": "If there is desire, relishing, and craving for consciousness as fuel, consciousness <span class=\"ebt-matched\">becomes established</span> there and grows. ",
             "matched": true
           },
           "sn12.64:4.2": {
             "scid": "sn12.64:4.2",
             "pli": "evameva kho, bhikkhave, kabaḷīkāre ce āhāre atthi rāgo atthi nandī atthi taṇhā, patiṭṭhitaṁ tattha viññāṇaṁ virūḷhaṁ. ",
-            "en": "In the same way, if there is desire, relishing, and craving for solid food, consciousness <span class=\"scv-matched\">becomes established</span> there and grows. ",
+            "en": "In the same way, if there is desire, relishing, and craving for solid food, consciousness <span class=\"ebt-matched\">becomes established</span> there and grows. ",
             "matched": true
           },
           "sn12.64:5.3": {
             "scid": "sn12.64:5.3",
             "pli": "viññāṇe ce, bhikkhave, āhāre atthi rāgo atthi nandī atthi taṇhā, patiṭṭhitaṁ tattha viññāṇaṁ virūḷhaṁ. ",
-            "en": "If there is desire, relishing, and craving for consciousness as fuel, consciousness <span class=\"scv-matched\">becomes established</span> there and grows. ",
+            "en": "If there is desire, relishing, and craving for consciousness as fuel, consciousness <span class=\"ebt-matched\">becomes established</span> there and grows. ",
             "matched": true
           }
         },
@@ -178,13 +178,13 @@
           "sn12.38:1.3": {
             "scid": "sn12.38:1.3",
             "pli": "Ārammaṇe sati patiṭṭhā viññāṇassa hoti. ",
-            "en": "When this support exists, consciousness <span class=\"scv-matched\">becomes established</span>. ",
+            "en": "When this support exists, consciousness <span class=\"ebt-matched\">becomes established</span>. ",
             "matched": true
           },
           "sn12.38:2.2": {
             "scid": "sn12.38:2.2",
             "pli": "Ārammaṇe sati patiṭṭhā viññāṇassa hoti. ",
-            "en": "When this support exists, consciousness <span class=\"scv-matched\">becomes established</span>. ",
+            "en": "When this support exists, consciousness <span class=\"ebt-matched\">becomes established</span>. ",
             "matched": true
           }
         },
@@ -213,13 +213,13 @@
           "sn12.39:1.3": {
             "scid": "sn12.39:1.3",
             "pli": "Ārammaṇe sati patiṭṭhā viññāṇassa hoti. ",
-            "en": "When this support exists, consciousness <span class=\"scv-matched\">becomes established</span>. ",
+            "en": "When this support exists, consciousness <span class=\"ebt-matched\">becomes established</span>. ",
             "matched": true
           },
           "sn12.39:2.2": {
             "scid": "sn12.39:2.2",
             "pli": "Ārammaṇe sati patiṭṭhā viññāṇassa hoti. ",
-            "en": "When this support exists, consciousness <span class=\"scv-matched\">becomes established</span>. ",
+            "en": "When this support exists, consciousness <span class=\"ebt-matched\">becomes established</span>. ",
             "matched": true
           }
         },
@@ -248,13 +248,13 @@
           "sn12.40:1.3": {
             "scid": "sn12.40:1.3",
             "pli": "Ārammaṇe sati patiṭṭhā viññāṇassa hoti. ",
-            "en": "When this support exists, consciousness <span class=\"scv-matched\">becomes established</span>. ",
+            "en": "When this support exists, consciousness <span class=\"ebt-matched\">becomes established</span>. ",
             "matched": true
           },
           "sn12.40:2.2": {
             "scid": "sn12.40:2.2",
             "pli": "Ārammaṇe sati patiṭṭhā viññāṇassa hoti. ",
-            "en": "When this support exists, consciousness <span class=\"scv-matched\">becomes established</span>. ",
+            "en": "When this support exists, consciousness <span class=\"ebt-matched\">becomes established</span>. ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,49 +60,49 @@
           "an3.63:6.9": {
             "scid": "an3.63:6.9",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto caṅkamāmi, dibbo me eso tasmiṁ samaye caṅkamo hoti. ",
-            "en": "When I’m <span class=\"scv-matched\">practicing like this</span>, if I walk, at that time I walk like the gods. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I walk, at that time I walk like the gods. ",
             "matched": true
           },
           "an3.63:6.10": {
             "scid": "an3.63:6.10",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto tiṭṭhāmi, dibbaṁ me etaṁ tasmiṁ samaye ṭhānaṁ hoti. ",
-            "en": "When I’m <span class=\"scv-matched\">practicing like this</span>, if I stand, at that time I stand like the gods. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I stand, at that time I stand like the gods. ",
             "matched": true
           },
           "an3.63:6.11": {
             "scid": "an3.63:6.11",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto nisīdāmi, dibbaṁ me etaṁ tasmiṁ samaye āsanaṁ hoti. ",
-            "en": "When I’m <span class=\"scv-matched\">practicing like this</span>, if I sit, at that time I sit like the gods. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I sit, at that time I sit like the gods. ",
             "matched": true
           },
           "an3.63:6.12": {
             "scid": "an3.63:6.12",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto seyyaṁ kappemi, dibbaṁ me etaṁ tasmiṁ samaye uccāsayanamahāsayanaṁ hoti. ",
-            "en": "When I’m <span class=\"scv-matched\">practicing like this</span>, if I lie down, at that time I lie down like the gods. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I lie down, at that time I lie down like the gods. ",
             "matched": true
           },
           "an3.63:8.9": {
             "scid": "an3.63:8.9",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto caṅkamāmi, brahmā me eso tasmiṁ samaye caṅkamo hoti. ",
-            "en": "When I’m <span class=\"scv-matched\">practicing like this</span>, if I walk, at that time I walk like Brahmā. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I walk, at that time I walk like Brahmā. ",
             "matched": true
           },
           "an3.63:8.12": {
             "scid": "an3.63:8.12",
             "pli": "seyyaṁ kappemi, brahmaṁ me etaṁ tasmiṁ samaye uccāsayanamahāsayanaṁ hoti. ",
-            "en": "When I’m <span class=\"scv-matched\">practicing like this</span>, if I lie down, at that time I lie down like Brahmā. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I lie down, at that time I lie down like Brahmā. ",
             "matched": true
           },
           "an3.63:10.9": {
             "scid": "an3.63:10.9",
             "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto caṅkamāmi, ariyo me eso tasmiṁ samaye caṅkamo hoti. ",
-            "en": "When I’m <span class=\"scv-matched\">practicing like this</span>, if I walk, at that time I walk like the noble ones. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I walk, at that time I walk like the noble ones. ",
             "matched": true
           },
           "an3.63:10.12": {
             "scid": "an3.63:10.12",
             "pli": "seyyaṁ kappemi, ariyaṁ me etaṁ tasmiṁ samaye uccāsayanamahāsayanaṁ hoti. ",
-            "en": "When I’m <span class=\"scv-matched\">practicing like this</span>, if I lie down, at that time I lie down like the noble ones. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I lie down, at that time I lie down like the noble ones. ",
             "matched": true
           }
         },
@@ -131,49 +131,49 @@
           "mn78:9.8": {
             "scid": "mn78:9.8",
             "pli": "Evaṁ paṭipanno akusalānaṁ sīlānaṁ nirodhāya paṭipanno hoti; ",
-            "en": "‘Someone <span class=\"scv-matched\">practicing like this</span> is practicing for the cessation of unskillful behaviors.’ ",
+            "en": "‘Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of unskillful behaviors.’ ",
             "matched": true
           },
           "mn78:9.16": {
             "scid": "mn78:9.16",
             "pli": "Evaṁ paṭipanno kusalānaṁ sīlānaṁ nirodhāya paṭipanno hoti; ",
-            "en": "‘Someone <span class=\"scv-matched\">practicing like this</span> is practicing for the cessation of skillful behaviors.’ ",
+            "en": "‘Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of skillful behaviors.’ ",
             "matched": true
           },
           "mn78:9.24": {
             "scid": "mn78:9.24",
             "pli": "Evaṁ paṭipanno akusalānaṁ saṅkappānaṁ nirodhāya paṭipanno hoti; ",
-            "en": "‘Someone <span class=\"scv-matched\">practicing like this</span> is practicing for the cessation of unskillful thoughts.’ ",
+            "en": "‘Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of unskillful thoughts.’ ",
             "matched": true
           },
           "mn78:9.32": {
             "scid": "mn78:9.32",
             "pli": "Evaṁ paṭipanno kusalānaṁ saṅkappānaṁ nirodhāya paṭipanno hoti; ",
-            "en": "‘Someone <span class=\"scv-matched\">practicing like this</span> is practicing for the cessation of skillful thoughts.’ ",
+            "en": "‘Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of skillful thoughts.’ ",
             "matched": true
           },
           "mn78:10.19": {
             "scid": "mn78:10.19",
             "pli": "Evaṁ paṭipanno kho, thapati, akusalānaṁ sīlānaṁ nirodhāya paṭipanno hoti. ",
-            "en": "Someone <span class=\"scv-matched\">practicing like this</span> is practicing for the cessation of unskillful behaviors. ",
+            "en": "Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of unskillful behaviors. ",
             "matched": true
           },
           "mn78:11.19": {
             "scid": "mn78:11.19",
             "pli": "Evaṁ paṭipanno kho, thapati, kusalānaṁ sīlānaṁ nirodhāya paṭipanno hoti. ",
-            "en": "Someone <span class=\"scv-matched\">practicing like this</span> is practicing for the cessation of skillful behaviors. ",
+            "en": "Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of skillful behaviors. ",
             "matched": true
           },
           "mn78:12.20": {
             "scid": "mn78:12.20",
             "pli": "Evaṁ paṭipanno kho, thapati, akusalānaṁ saṅkappānaṁ nirodhāya paṭipanno hoti. ",
-            "en": "Someone <span class=\"scv-matched\">practicing like this</span> is practicing for the cessation of unskillful thoughts. ",
+            "en": "Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of unskillful thoughts. ",
             "matched": true
           },
           "mn78:13.20": {
             "scid": "mn78:13.20",
             "pli": "Evaṁ paṭipanno kho, thapati, kusalānaṁ saṅkappānaṁ nirodhāya paṭipanno hoti. ",
-            "en": "Someone <span class=\"scv-matched\">practicing like this</span> is practicing for the cessation of skillful thoughts. ",
+            "en": "Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of skillful thoughts. ",
             "matched": true
           }
         },
@@ -202,7 +202,7 @@
           "an3.60:2.5": {
             "scid": "an3.60:2.5",
             "pli": "‘ethāyaṁ maggo ayaṁ paṭipadā yathāpaṭipanno ahaṁ anuttaraṁ brahmacariyogadhaṁ sayaṁ abhiññā sacchikatvā pavedemi; ",
-            "en": "‘Come, this is the path, this is the practice. <span class=\"scv-matched\">Practicing like this</span>, I realized the supreme culmination of the spiritual life with my own insight, and I make it known. ",
+            "en": "‘Come, this is the path, this is the practice. <span class=\"ebt-matched\">Practicing like this</span>, I realized the supreme culmination of the spiritual life with my own insight, and I make it known. ",
             "matched": true
           }
         },

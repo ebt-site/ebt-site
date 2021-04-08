@@ -152,7 +152,7 @@ export default {
     yesDeleteUser: 'ඔව්. පරිශීලකයා මකන්න:',
 
   },
-  scv: {
+  ebt: {
     audio: "Audio",
     aboutTitle: "Voice පිළිබඳව",
     and: "සහ",

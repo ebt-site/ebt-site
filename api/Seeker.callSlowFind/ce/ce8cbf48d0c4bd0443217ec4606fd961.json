@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,42 +57,42 @@
           "dn21:2.3.4": {
             "scid": "dn21:2.3.4",
             "pli": "sevitabbampi, asevitabbampi. ",
-            "de": "das, das <span class=\"scv-matched\">gepflegt werden sollte, und</span> das, das nicht gepflegt werden sollte. ",
+            "de": "das, das <span class=\"ebt-matched\">gepflegt werden sollte, und</span> das, das nicht gepflegt werden sollte. ",
             "en": "that which you should cultivate, and that which you should not cultivate. ",
             "matched": true
           },
           "dn21:2.3.6": {
             "scid": "dn21:2.3.6",
             "pli": "sevitabbampi, asevitabbampi. ",
-            "de": "die, die <span class=\"scv-matched\">gepflegt werden sollte, und</span> die, die nicht gepflegt werden sollte. ",
+            "de": "die, die <span class=\"ebt-matched\">gepflegt werden sollte, und</span> die, die nicht gepflegt werden sollte. ",
             "en": "that which you should cultivate, and that which you should not cultivate. ",
             "matched": true
           },
           "dn21:2.3.8": {
             "scid": "dn21:2.3.8",
             "pli": "sevitabbampi, asevitabbampi. ",
-            "de": "der, der <span class=\"scv-matched\">gepflegt werden sollte, und</span> der, der nicht gepflegt werden sollte. ",
+            "de": "der, der <span class=\"ebt-matched\">gepflegt werden sollte, und</span> der, der nicht gepflegt werden sollte. ",
             "en": "that which you should cultivate, and that which you should not cultivate. ",
             "matched": true
           },
           "dn21:2.4.4": {
             "scid": "dn21:2.4.4",
             "pli": "sevitabbampi, asevitabbampi. ",
-            "de": "das, das <span class=\"scv-matched\">gepflegt werden sollte, und</span> das, das nicht gepflegt werden sollte. ",
+            "de": "das, das <span class=\"ebt-matched\">gepflegt werden sollte, und</span> das, das nicht gepflegt werden sollte. ",
             "en": "that which you should cultivate, and that which you should not cultivate. ",
             "matched": true
           },
           "dn21:2.4.6": {
             "scid": "dn21:2.4.6",
             "pli": "sevitabbampi, asevitabbampi. ",
-            "de": "das, das <span class=\"scv-matched\">gepflegt werden sollte, und</span> das, das nicht gepflegt werden sollte. ",
+            "de": "das, das <span class=\"ebt-matched\">gepflegt werden sollte, und</span> das, das nicht gepflegt werden sollte. ",
             "en": "that which you should cultivate, and that which you should not cultivate. ",
             "matched": true
           },
           "dn21:2.4.8": {
             "scid": "dn21:2.4.8",
             "pli": "sevitabbampi, asevitabbampi. ",
-            "de": "die, die <span class=\"scv-matched\">gepflegt werden sollte, und</span> die, die nicht gepflegt werden sollte. ",
+            "de": "die, die <span class=\"ebt-matched\">gepflegt werden sollte, und</span> die, die nicht gepflegt werden sollte. ",
             "en": "that which you should cultivate, and that which you should not cultivate. ",
             "matched": true
           }

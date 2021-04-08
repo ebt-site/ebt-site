@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an5.6:5.2": {
             "scid": "an5.6:5.2",
             "pli": "Yato ca kho, bhikkhave, paññā antarahitā hoti, duppaññā pariyuṭṭhāya tiṭṭhati; ",
-            "en": "But <span class=\"scv-matched\">when wisdom vanishes</span> and witlessness takes over, ",
+            "en": "But <span class=\"ebt-matched\">when wisdom vanishes</span> and witlessness takes over, ",
             "matched": true
           }
         },

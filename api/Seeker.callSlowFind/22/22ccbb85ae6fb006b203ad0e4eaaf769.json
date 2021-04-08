@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an4.95:2.1": {
             "scid": "an4.95:2.1",
             "pli": "Seyyathāpi, bhikkhave, chavālātaṁ ubhato padittaṁ, majjhe gūthagataṁ, neva gāme kaṭṭhatthaṁ pharati na araññe (…); ",
-            "de": "Wie eine Fackel zum Anzünden eines Scheiterhaufens für eine Bestattung, die <span class=\"scv-matched\">an beiden Enden</span> brennt und in der Mitte mit Mist bestrichen ist: Weder im Dorf noch in der Wildnis könnte sie als Holz verwendet werden. ",
+            "de": "Wie eine Fackel zum Anzünden eines Scheiterhaufens für eine Bestattung, die <span class=\"ebt-matched\">an beiden Enden</span> brennt und in der Mitte mit Mist bestrichen ist: Weder im Dorf noch in der Wildnis könnte sie als Holz verwendet werden. ",
             "en": "Suppose there was a firebrand for lighting a funeral pyre, burning at both ends, and smeared with dung in the middle. It couldn’t be used as timber either in the village or the wilderness. ",
             "matched": true
           }

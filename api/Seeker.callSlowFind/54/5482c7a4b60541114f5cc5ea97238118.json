@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,61 +60,61 @@
           "an2.98:1.1": {
             "scid": "an2.98:1.1",
             "pli": "“Dveme, bhikkhave, bālā. ",
-            "en": "“Mendicants, there are <span class=\"scv-matched\">two fools</span>. ",
+            "en": "“Mendicants, there are <span class=\"ebt-matched\">two fools</span>. ",
             "matched": true
           },
           "an2.98:1.4": {
             "scid": "an2.98:1.4",
             "pli": "Ime kho, bhikkhave, dve bālā”ti. ",
-            "en": "These are the <span class=\"scv-matched\">two fools</span>.” ",
+            "en": "These are the <span class=\"ebt-matched\">two fools</span>.” ",
             "matched": true
           },
           "an2.100:1.1": {
             "scid": "an2.100:1.1",
             "pli": "“Dveme, bhikkhave, bālā. ",
-            "en": "“Mendicants, there are <span class=\"scv-matched\">two fools</span>. ",
+            "en": "“Mendicants, there are <span class=\"ebt-matched\">two fools</span>. ",
             "matched": true
           },
           "an2.100:1.4": {
             "scid": "an2.100:1.4",
             "pli": "Ime kho, bhikkhave, dve bālā”ti. ",
-            "en": "These are the <span class=\"scv-matched\">two fools</span>.” ",
+            "en": "These are the <span class=\"ebt-matched\">two fools</span>.” ",
             "matched": true
           },
           "an2.102:1.1": {
             "scid": "an2.102:1.1",
             "pli": "“Dveme, bhikkhave, bālā. ",
-            "en": "“Mendicants, there are <span class=\"scv-matched\">two fools</span>. ",
+            "en": "“Mendicants, there are <span class=\"ebt-matched\">two fools</span>. ",
             "matched": true
           },
           "an2.102:1.4": {
             "scid": "an2.102:1.4",
             "pli": "Ime kho, bhikkhave, dve bālā”ti. ",
-            "en": "These are the <span class=\"scv-matched\">two fools</span>.” ",
+            "en": "These are the <span class=\"ebt-matched\">two fools</span>.” ",
             "matched": true
           },
           "an2.104:1.1": {
             "scid": "an2.104:1.1",
             "pli": "“Dveme, bhikkhave, bālā. ",
-            "en": "“Mendicants, there are <span class=\"scv-matched\">two fools</span>. ",
+            "en": "“Mendicants, there are <span class=\"ebt-matched\">two fools</span>. ",
             "matched": true
           },
           "an2.104:1.4": {
             "scid": "an2.104:1.4",
             "pli": "Ime kho, bhikkhave, dve bālā”ti. ",
-            "en": "These are the <span class=\"scv-matched\">two fools</span>.” ",
+            "en": "These are the <span class=\"ebt-matched\">two fools</span>.” ",
             "matched": true
           },
           "an2.106:1.1": {
             "scid": "an2.106:1.1",
             "pli": "“Dveme, bhikkhave, bālā. ",
-            "en": "“Mendicants, there are <span class=\"scv-matched\">two fools</span>. ",
+            "en": "“Mendicants, there are <span class=\"ebt-matched\">two fools</span>. ",
             "matched": true
           },
           "an2.106:1.4": {
             "scid": "an2.106:1.4",
             "pli": "Ime kho, bhikkhave, dve bālā”ti. ",
-            "en": "These are the <span class=\"scv-matched\">two fools</span>.” ",
+            "en": "These are the <span class=\"ebt-matched\">two fools</span>.” ",
             "matched": true
           }
         },
@@ -143,13 +143,13 @@
           "sn11.24:2.1": {
             "scid": "sn11.24:2.1",
             "pli": "“Dveme, bhikkhave, bālā. ",
-            "en": "“Mendicants, there are <span class=\"scv-matched\">two fools</span>. ",
+            "en": "“Mendicants, there are <span class=\"ebt-matched\">two fools</span>. ",
             "matched": true
           },
           "sn11.24:2.3": {
             "scid": "sn11.24:2.3",
             "pli": "ime kho, bhikkhave, dve bālā. ",
-            "en": "These are the <span class=\"scv-matched\">two fools</span>. ",
+            "en": "These are the <span class=\"ebt-matched\">two fools</span>. ",
             "matched": true
           }
         },
@@ -178,13 +178,13 @@
           "an2.21:1.1": {
             "scid": "an2.21:1.1",
             "pli": "“Dveme, bhikkhave, bālā. ",
-            "en": "“Mendicants, there are <span class=\"scv-matched\">two fools</span>. ",
+            "en": "“Mendicants, there are <span class=\"ebt-matched\">two fools</span>. ",
             "matched": true
           },
           "an2.21:1.4": {
             "scid": "an2.21:1.4",
             "pli": "Ime kho, bhikkhave, dve bālāti. ",
-            "en": "These are the <span class=\"scv-matched\">two fools</span>. ",
+            "en": "These are the <span class=\"ebt-matched\">two fools</span>. ",
             "matched": true
           }
         },

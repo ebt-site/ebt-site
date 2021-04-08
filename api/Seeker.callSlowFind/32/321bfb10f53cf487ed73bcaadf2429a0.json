@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -105,7 +105,7 @@
           "dn21:1.5.50": {
             "scid": "dn21:1.5.50",
             "pli": "tāvatiṁsānamissaro; ",
-            "en": "as <span class=\"scv-matched\">Lord of the</span> holy Thirty-Three, ",
+            "en": "as <span class=\"ebt-matched\">Lord of the</span> holy Thirty-Three, ",
             "matched": true
           },
           "dn21:1.8.1": {
@@ -236,7 +236,7 @@
           "dn19:47.7": {
             "scid": "dn19:47.7",
             "pli": "reṇuṁ bhūmipatiṁ ahaṁ; ",
-            "en": "the <span class=\"scv-matched\">lord of the</span> land: ",
+            "en": "the <span class=\"ebt-matched\">lord of the</span> land: ",
             "matched": true
           }
         },
@@ -265,25 +265,25 @@
           "sn35.245:8.4": {
             "scid": "sn35.245:8.4",
             "pli": "‘kahaṁ, bho purisa, imassa nagarassa nagarassāmī’ti? ",
-            "en": "‘Mister, where is the <span class=\"scv-matched\">lord of the</span> city?’ ",
+            "en": "‘Mister, where is the <span class=\"ebt-matched\">lord of the</span> city?’ ",
             "matched": true
           },
           "sn35.245:8.7": {
             "scid": "sn35.245:8.7",
             "pli": "Atha kho taṁ sīghaṁ dūtayugaṁ nagarassāmikassa yathābhūtaṁ vacanaṁ niyyātetvā yathāgatamaggaṁ paṭipajjeyya. ",
-            "en": "Then that swift pair of messengers would deliver a message of truth to the <span class=\"scv-matched\">lord of the</span> city and depart the way they came. ",
+            "en": "Then that swift pair of messengers would deliver a message of truth to the <span class=\"ebt-matched\">lord of the</span> city and depart the way they came. ",
             "matched": true
           },
           "sn35.245:8.14": {
             "scid": "sn35.245:8.14",
             "pli": "Atha kho taṁ sīghaṁ dūtayugaṁ nagarassāmikassa yathābhūtaṁ vacanaṁ niyyātetvā yathāgatamaggaṁ paṭipajjeyya. ",
-            "en": "deliver a message of truth to the <span class=\"scv-matched\">lord of the</span> city and depart the way they came. ",
+            "en": "deliver a message of truth to the <span class=\"ebt-matched\">lord of the</span> city and depart the way they came. ",
             "matched": true
           },
           "sn35.245:9.7": {
             "scid": "sn35.245:9.7",
             "pli": "‘Nagarassāmī’ti kho, bhikkhu, viññāṇassetaṁ adhivacanaṁ. ",
-            "en": "‘The <span class=\"scv-matched\">lord of the</span> city’ is a term for consciousness. ",
+            "en": "‘The <span class=\"ebt-matched\">lord of the</span> city’ is a term for consciousness. ",
             "matched": true
           }
         },
@@ -312,19 +312,19 @@
           "dn20:9.3": {
             "scid": "dn20:9.3",
             "pli": "Gandhabbānaṁ adhipati, ",
-            "en": "<span class=\"scv-matched\">Lord of the</span> fairies, ",
+            "en": "<span class=\"ebt-matched\">Lord of the</span> fairies, ",
             "matched": true
           },
           "dn20:9.13": {
             "scid": "dn20:9.13",
             "pli": "Kumbhaṇḍānaṁ adhipati, ",
-            "en": "<span class=\"scv-matched\">Lord of the</span> goblins, ",
+            "en": "<span class=\"ebt-matched\">Lord of the</span> goblins, ",
             "matched": true
           },
           "dn20:9.23": {
             "scid": "dn20:9.23",
             "pli": "Nāgānañca adhipati, ",
-            "en": "<span class=\"scv-matched\">Lord of the</span> dragons, ",
+            "en": "<span class=\"ebt-matched\">Lord of the</span> dragons, ",
             "matched": true
           },
           "dn20:21.4": {
@@ -359,19 +359,19 @@
           "dn32:4.15": {
             "scid": "dn32:4.15",
             "pli": "Gandhabbānaṁ adhipati, ",
-            "en": "the <span class=\"scv-matched\">lord of the</span> fairies; ",
+            "en": "the <span class=\"ebt-matched\">lord of the</span> fairies; ",
             "matched": true
           },
           "dn32:5.9": {
             "scid": "dn32:5.9",
             "pli": "Kumbhaṇḍānaṁ adhipati, ",
-            "en": "the <span class=\"scv-matched\">lord of the</span> goblins; ",
+            "en": "the <span class=\"ebt-matched\">lord of the</span> goblins; ",
             "matched": true
           },
           "dn32:6.15": {
             "scid": "dn32:6.15",
             "pli": "Nāgānañca adhipati, ",
-            "en": "the <span class=\"scv-matched\">lord of the</span> dragons; ",
+            "en": "the <span class=\"ebt-matched\">lord of the</span> dragons; ",
             "matched": true
           },
           "dn32:7.69": {
@@ -406,13 +406,13 @@
           "mn128:4.5": {
             "scid": "mn128:4.5",
             "pli": "Bhagavā dhammassāmī; ",
-            "en": "Let the Buddha, the <span class=\"scv-matched\">Lord of the</span> Dhamma, ",
+            "en": "Let the Buddha, the <span class=\"ebt-matched\">Lord of the</span> Dhamma, ",
             "matched": true
           },
           "mn128:4.19": {
             "scid": "mn128:4.19",
             "pli": "Bhagavā dhammassāmī; ",
-            "en": "Let the Buddha, the <span class=\"scv-matched\">Lord of the</span> Dhamma, ",
+            "en": "Let the Buddha, the <span class=\"ebt-matched\">Lord of the</span> Dhamma, ",
             "matched": true
           }
         },
@@ -441,7 +441,7 @@
           "sn3.16:4.2": {
             "scid": "sn3.16:4.2",
             "pli": "sūro hoti disampati; ",
-            "en": "he becomes a hero, O <span class=\"scv-matched\">lord of the</span> land. ",
+            "en": "he becomes a hero, O <span class=\"ebt-matched\">lord of the</span> land. ",
             "matched": true
           }
         },
@@ -470,7 +470,7 @@
           "an3.48:3.4": {
             "scid": "an3.48:3.4",
             "pli": "vaḍḍhante te vanappatī. ",
-            "en": "to become <span class=\"scv-matched\">lord of the</span> forest. ",
+            "en": "to become <span class=\"ebt-matched\">lord of the</span> forest. ",
             "matched": true
           }
         },
@@ -499,7 +499,7 @@
           "an5.40:2.4": {
             "scid": "an5.40:2.4",
             "pli": "vaḍḍhante te vanappatī. ",
-            "en": "to become <span class=\"scv-matched\">lord of the</span> forest. ",
+            "en": "to become <span class=\"ebt-matched\">lord of the</span> forest. ",
             "matched": true
           }
         },
@@ -528,7 +528,7 @@
           "an7.62:10.2": {
             "scid": "an7.62:10.2",
             "pli": "pathabyo me na vipajjati; ",
-            "en": "by which one is called a <span class=\"scv-matched\">lord of the</span> land. ",
+            "en": "by which one is called a <span class=\"ebt-matched\">lord of the</span> land. ",
             "matched": true
           }
         },
@@ -557,7 +557,7 @@
           "thag16.3:12.1": {
             "scid": "thag16.3:12.1",
             "pli": "Dhammappati hi so seṭṭho,",
-            "en": "He really would be the <span class=\"scv-matched\">Lord of the</span> Dhamma,",
+            "en": "He really would be the <span class=\"ebt-matched\">Lord of the</span> Dhamma,",
             "matched": true
           }
         },
@@ -586,7 +586,7 @@
           "dn27:21.2": {
             "scid": "dn27:21.2",
             "pli": "Khettānaṁ adhipatīti kho, vāseṭṭha, ‘khattiyo, khattiyo’ tveva dutiyaṁ akkharaṁ upanibbattaṁ. ",
-            "en": "‘<span class=\"scv-matched\">Lord of the</span> fields’ is the meaning of ‘aristocrat’, the second term to be specifically invented. ",
+            "en": "‘<span class=\"ebt-matched\">Lord of the</span> fields’ is the meaning of ‘aristocrat’, the second term to be specifically invented. ",
             "matched": true
           }
         },

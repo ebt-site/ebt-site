@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,25 +66,25 @@
           "sn47.21:1.5": {
             "scid": "sn47.21:1.5",
             "pli": "“yānimāni, āvuso ānanda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni kimatthiyāni vuttāni bhagavatā”ti? ",
-            "en": "“Reverend Ānanda, the Buddha has spoken of <span class=\"scv-matched\">skillful ethics</span>. What’s their purpose?” ",
+            "en": "“Reverend Ānanda, the Buddha has spoken of <span class=\"ebt-matched\">skillful ethics</span>. What’s their purpose?” ",
             "matched": true
           },
           "sn47.21:2.4": {
             "scid": "sn47.21:2.4",
             "pli": "‘yānimāni, āvuso ānanda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni kimatthiyāni vuttāni bhagavatā’”ti? ",
-            "en": "‘The Buddha has spoken of <span class=\"scv-matched\">skillful ethics</span>. What’s their purpose?’” ",
+            "en": "‘The Buddha has spoken of <span class=\"ebt-matched\">skillful ethics</span>. What’s their purpose?’” ",
             "matched": true
           },
           "sn47.21:2.6": {
             "scid": "sn47.21:2.6",
             "pli": "“Yānimāni, āvuso bhadda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni yāvadeva catunnaṁ satipaṭṭhānānaṁ bhāvanāya vuttāni bhagavatā. ",
-            "en": "“The Buddha has spoken of <span class=\"scv-matched\">skillful ethics</span> to the extent necessary for developing the four kinds of mindfulness meditation. ",
+            "en": "“The Buddha has spoken of <span class=\"ebt-matched\">skillful ethics</span> to the extent necessary for developing the four kinds of mindfulness meditation. ",
             "matched": true
           },
           "sn47.21:3.6": {
             "scid": "sn47.21:3.6",
             "pli": "Yānimāni, āvuso bhadda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni yāvadeva imesaṁ catunnaṁ satipaṭṭhānānaṁ bhāvanāya vuttāni bhagavatā”ti. ",
-            "en": "The Buddha has spoken of <span class=\"scv-matched\">skillful ethics</span> to the extent necessary for developing the four kinds of mindfulness meditation.” ",
+            "en": "The Buddha has spoken of <span class=\"ebt-matched\">skillful ethics</span> to the extent necessary for developing the four kinds of mindfulness meditation.” ",
             "matched": true
           }
         },
@@ -113,25 +113,25 @@
           "an10.1:2.1": {
             "scid": "an10.1:2.1",
             "pli": "“Kimatthiyāni, bhante, kusalāni sīlāni kimānisaṁsānī”ti? ",
-            "en": "“Sir, what is the purpose and benefit of <span class=\"scv-matched\">skillful ethics</span>?” ",
+            "en": "“Sir, what is the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span>?” ",
             "matched": true
           },
           "an10.1:2.2": {
             "scid": "an10.1:2.2",
             "pli": "“Avippaṭisāratthāni kho, ānanda, kusalāni sīlāni avippaṭisārānisaṁsānī”ti. ",
-            "en": "“Ānanda, having no regrets is the purpose and benefit of <span class=\"scv-matched\">skillful ethics</span>.” ",
+            "en": "“Ānanda, having no regrets is the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span>.” ",
             "matched": true
           },
           "an10.1:11.1": {
             "scid": "an10.1:11.1",
             "pli": "Iti kho, ānanda, kusalāni sīlāni avippaṭisāratthāni avippaṭisārānisaṁsāni; ",
-            "en": "So, Ānanda, the purpose and benefit of <span class=\"scv-matched\">skillful ethics</span> is not having regrets. ",
+            "en": "So, Ānanda, the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span> is not having regrets. ",
             "matched": true
           },
           "an10.1:11.10": {
             "scid": "an10.1:11.10",
             "pli": "Iti kho, ānanda, kusalāni sīlāni anupubbena aggāya parentī”ti. ",
-            "en": "So, Ānanda, <span class=\"scv-matched\">skillful ethics</span> progressively lead up to the highest.” ",
+            "en": "So, Ānanda, <span class=\"ebt-matched\">skillful ethics</span> progressively lead up to the highest.” ",
             "matched": true
           }
         },
@@ -160,25 +160,25 @@
           "an11.1:1.4": {
             "scid": "an11.1:1.4",
             "pli": "“kimatthiyāni, bhante, kusalāni sīlāni kimānisaṁsānī”ti? ",
-            "en": "“Sir, what’s the purpose and benefit of <span class=\"scv-matched\">skillful ethics</span>?” ",
+            "en": "“Sir, what’s the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span>?” ",
             "matched": true
           },
           "an11.1:1.5": {
             "scid": "an11.1:1.5",
             "pli": "“Avippaṭisāratthāni kho, ānanda, kusalāni sīlāni avippaṭisārānisaṁsānī”ti. ",
-            "en": "“Ānanda, having no regrets is the purpose and benefit of <span class=\"scv-matched\">skillful ethics</span>.” ",
+            "en": "“Ānanda, having no regrets is the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span>.” ",
             "matched": true
           },
           "an11.1:11.1": {
             "scid": "an11.1:11.1",
             "pli": "Iti kho, ānanda, kusalāni sīlāni avippaṭisāratthāni avippaṭisārānisaṁsāni, ",
-            "en": "So, Ānanda, the purpose and benefit of <span class=\"scv-matched\">skillful ethics</span> is not having regrets. ",
+            "en": "So, Ānanda, the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span> is not having regrets. ",
             "matched": true
           },
           "an11.1:11.11": {
             "scid": "an11.1:11.11",
             "pli": "Iti kho, ānanda, kusalāni sīlāni anupubbena aggāya parentī”ti. ",
-            "en": "So, Ānanda, <span class=\"scv-matched\">skillful ethics</span> progressively lead up to the highest.” ",
+            "en": "So, Ānanda, <span class=\"ebt-matched\">skillful ethics</span> progressively lead up to the highest.” ",
             "matched": true
           }
         },
@@ -207,7 +207,7 @@
           "an11.2:11.1": {
             "scid": "an11.2:11.1",
             "pli": "Iti kho, bhikkhave, virāgo vimuttiñāṇadassanattho vimuttiñāṇadassanānisaṁso, nibbidā virāgatthā virāgānisaṁsā, yathābhūtañāṇadassanaṁ nibbidatthaṁ nibbidānisaṁsaṁ, samādhi yathābhūtañāṇadassanattho yathābhūtañāṇadassanānisaṁso, sukhaṁ samādhatthaṁ samādhānisaṁsaṁ, passaddhi sukhatthā sukhānisaṁsā, pīti passaddhatthā passaddhānisaṁsā, pāmojjaṁ pītatthaṁ pītānisaṁsaṁ, avippaṭisāro pāmojjattho pāmojjānisaṁso, kusalāni sīlāni avippaṭisāratthāni avippaṭisārānisaṁsāni. ",
-            "en": "And so, mendicants, the knowledge and vision of freedom is the purpose and benefit of dispassion. Dispassion is the purpose and benefit of disillusionment. Disillusionment is the purpose and benefit of truly knowing and seeing. Truly knowing and seeing is the purpose and benefit of immersion. Immersion is the purpose and benefit of bliss. Bliss is the purpose and benefit of tranquility. Tranquility is the purpose and benefit of rapture. Rapture is the purpose and benefit of joy. Joy is the purpose and benefit of not having regrets. Not having regrets is the purpose and benefit of <span class=\"scv-matched\">skillful ethics</span>. ",
+            "en": "And so, mendicants, the knowledge and vision of freedom is the purpose and benefit of dispassion. Dispassion is the purpose and benefit of disillusionment. Disillusionment is the purpose and benefit of truly knowing and seeing. Truly knowing and seeing is the purpose and benefit of immersion. Immersion is the purpose and benefit of bliss. Bliss is the purpose and benefit of tranquility. Tranquility is the purpose and benefit of rapture. Rapture is the purpose and benefit of joy. Joy is the purpose and benefit of not having regrets. Not having regrets is the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span>. ",
             "matched": true
           }
         },
@@ -236,7 +236,7 @@
           "an10.2:2.9": {
             "scid": "an10.2:2.9",
             "pli": "kusalāni sīlāni avippaṭisāratthāni avippaṭisārānisaṁsāni. ",
-            "en": "Not having regrets is the purpose and benefit of <span class=\"scv-matched\">skillful ethics</span>. ",
+            "en": "Not having regrets is the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span>. ",
             "matched": true
           }
         },

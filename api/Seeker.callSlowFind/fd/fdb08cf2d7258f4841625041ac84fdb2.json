@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an5.193:5.2": {
             "scid": "an5.193:5.2",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto vāterito calito bhanto ūmijāto. ",
-            "en": "Suppose there was a bowl of <span class=\"scv-matched\">water stirred by the wind</span>, churning, swirling, and rippling. ",
+            "en": "Suppose there was a bowl of <span class=\"ebt-matched\">water stirred by the wind</span>, churning, swirling, and rippling. ",
             "matched": true
           },
           "an5.193:10.2": {
@@ -92,7 +92,7 @@
           "sn46.55:10.1": {
             "scid": "sn46.55:10.1",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto vāterito calito bhanto ūmijāto. ",
-            "en": "Suppose there was a bowl of <span class=\"scv-matched\">water stirred by the wind</span>, churning, swirling, and rippling. ",
+            "en": "Suppose there was a bowl of <span class=\"ebt-matched\">water stirred by the wind</span>, churning, swirling, and rippling. ",
             "matched": true
           },
           "sn46.55:20.1": {

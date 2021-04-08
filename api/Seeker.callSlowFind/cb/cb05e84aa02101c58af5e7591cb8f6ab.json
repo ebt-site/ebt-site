@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -63,49 +63,49 @@
           "an4.180:2.5": {
             "scid": "an4.180:2.5",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           },
           "an4.180:3.4": {
             "scid": "an4.180:3.4",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           },
           "an4.180:4.5": {
             "scid": "an4.180:4.5",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           },
           "an4.180:5.5": {
             "scid": "an4.180:5.5",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           },
           "an4.180:6.5": {
             "scid": "an4.180:6.5",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           },
           "an4.180:7.5": {
             "scid": "an4.180:7.5",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           },
           "an4.180:8.5": {
             "scid": "an4.180:8.5",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           },
           "an4.180:9.5": {
             "scid": "an4.180:9.5",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           }
         },
@@ -134,25 +134,25 @@
           "dn16:4.8.4": {
             "scid": "dn16:4.8.4",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           },
           "dn16:4.9.5": {
             "scid": "dn16:4.9.5",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           },
           "dn16:4.10.5": {
             "scid": "dn16:4.10.5",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ … ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           },
           "dn16:4.11.5": {
             "scid": "dn16:4.11.5",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           }
         },
@@ -181,19 +181,19 @@
           "dn29:18.4": {
             "scid": "dn29:18.4",
             "pli": "Tassa neva abhinanditabbaṁ na paṭikkositabbaṁ, anabhinanditvā appaṭikkositvā so evamassa vacanīyo: ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> them, but say, ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> them, but say, ",
             "matched": true
           },
           "dn29:19.4": {
             "scid": "dn29:19.4",
             "pli": "Tassa neva abhinanditabbaṁ na paṭikkositabbaṁ, anabhinanditvā appaṭikkositvā so evamassa vacanīyo: ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> them, but say, ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> them, but say, ",
             "matched": true
           },
           "dn29:20.4": {
             "scid": "dn29:20.4",
             "pli": "Tassa neva abhinanditabbaṁ na paṭikkositabbaṁ; anabhinanditvā appaṭikkositvā so evamassa vacanīyo: ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> them, but say, ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> them, but say, ",
             "matched": true
           }
         },
@@ -222,7 +222,7 @@
           "mn112:3.1": {
             "scid": "mn112:3.1",
             "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
-            "en": "You should <span class=\"scv-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
+            "en": "You should <span class=\"ebt-matched\">neither approve nor dismiss</span> that mendicant’s statement. ",
             "matched": true
           }
         },

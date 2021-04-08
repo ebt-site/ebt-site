@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn35.159:1.10": {
             "scid": "sn35.159:1.10",
             "pli": "dhamme, bhikkhave, yoniso manasi karotha, dhammāniccatañca yathābhūtaṁ samanupassatha. ",
-            "en": "thoughts. Truly see <span class=\"scv-matched\">the impermanence of thoughts</span>. ",
+            "en": "thoughts. Truly see <span class=\"ebt-matched\">the impermanence of thoughts</span>. ",
             "matched": true
           }
         },

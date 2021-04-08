@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -69,7 +69,7 @@
           "an1.449:1.1": {
             "scid": "an1.449:1.1",
             "pli": "subhanteva adhimutto hoti … ",
-            "de": "er ist <span class=\"scv-matched\">einzig der Schönheit zugewandt</span> … ",
+            "de": "er ist <span class=\"ebt-matched\">einzig der Schönheit zugewandt</span> … ",
             "en": "they’re focused only on beauty … ",
             "matched": true
           }
@@ -101,7 +101,7 @@
           "dn15:35.7": {
             "scid": "dn15:35.7",
             "pli": "Subhanteva adhimutto hoti, ",
-            "de": "Man ist <span class=\"scv-matched\">einzig der Schönheit zugewandt</span>. ",
+            "de": "Man ist <span class=\"ebt-matched\">einzig der Schönheit zugewandt</span>. ",
             "en": "They’re focused only on beauty. ",
             "matched": true
           }
@@ -133,7 +133,7 @@
           "dn33:3.1.173": {
             "scid": "dn33:3.1.173",
             "pli": "Subhanteva adhimutto hoti. ",
-            "de": "Man ist <span class=\"scv-matched\">einzig der Schönheit zugewandt</span>. ",
+            "de": "Man ist <span class=\"ebt-matched\">einzig der Schönheit zugewandt</span>. ",
             "en": "They’re focused only on beauty. ",
             "matched": true
           }
@@ -165,7 +165,7 @@
           "dn34:2.1.196": {
             "scid": "dn34:2.1.196",
             "pli": "Subhanteva adhimutto hoti. ",
-            "de": "Man ist <span class=\"scv-matched\">einzig der Schönheit zugewandt</span>. ",
+            "de": "Man ist <span class=\"ebt-matched\">einzig der Schönheit zugewandt</span>. ",
             "en": "They’re focused only on beauty. ",
             "matched": true
           }

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,21 +65,21 @@
           "dn14:3.11.7": {
             "scid": "dn14:3.11.7",
             "pli": "‘yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman’ti. ",
-            "de": "‚Alles, was einen <span class=\"scv-matched\">Anfang hat, hat auch ein Ende</span>.‘ ",
+            "de": "‚Alles, was einen <span class=\"ebt-matched\">Anfang hat, hat auch ein Ende</span>.‘ ",
             "en": "‘Everything that has a beginning has an end.’ ",
             "matched": true
           },
           "dn14:3.15.7": {
             "scid": "dn14:3.15.7",
             "pli": "‘yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman’ti. ",
-            "de": "‚Alles, was einen <span class=\"scv-matched\">Anfang hat, hat auch ein Ende</span>.‘ ",
+            "de": "‚Alles, was einen <span class=\"ebt-matched\">Anfang hat, hat auch ein Ende</span>.‘ ",
             "en": "‘Everything that has a beginning has an end.’ ",
             "matched": true
           },
           "dn14:3.19.7": {
             "scid": "dn14:3.19.7",
             "pli": "‘yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman’ti. ",
-            "de": "‚Alles, was einen <span class=\"scv-matched\">Anfang hat, hat auch ein Ende</span>.‘ ",
+            "de": "‚Alles, was einen <span class=\"ebt-matched\">Anfang hat, hat auch ein Ende</span>.‘ ",
             "en": " ",
             "matched": true
           }
@@ -111,7 +111,7 @@
           "sn56.11:11.2": {
             "scid": "sn56.11:11.2",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "de": "„Alles, was einen <span class=\"scv-matched\">Anfang hat, hat auch ein Ende</span>.“ ",
+            "de": "„Alles, was einen <span class=\"ebt-matched\">Anfang hat, hat auch ein Ende</span>.“ ",
             "en": "“Everything that has a beginning has an end.” ",
             "matched": true
           }
@@ -143,7 +143,7 @@
           "dn21:2.10.10": {
             "scid": "dn21:2.10.10",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "de": "„Alles, was einen <span class=\"scv-matched\">Anfang hat, hat auch ein Ende</span>.“ ",
+            "de": "„Alles, was einen <span class=\"ebt-matched\">Anfang hat, hat auch ein Ende</span>.“ ",
             "en": "“Everything that has a beginning has an end.” ",
             "matched": true
           }

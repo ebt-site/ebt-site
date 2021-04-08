@@ -13,7 +13,7 @@
       "searchLang": "pli",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -56,20 +56,20 @@
         "segMap": {
           "dn26:25.0": {
             "scid": "dn26:25.0",
-            "pli": "8. <span class=\"scv-matched\">Metteyya</span>buddhuppāda ",
-            "en": "8. The Arising of the Buddha <span class=\"scv-matched\">Metteyya</span> ",
+            "pli": "8. <span class=\"ebt-matched\">Metteyya</span>buddhuppāda ",
+            "en": "8. The Arising of the Buddha <span class=\"ebt-matched\">Metteyya</span> ",
             "matched": true
           },
           "dn26:25.1": {
             "scid": "dn26:25.1",
             "pli": "Asītivassasahassāyukesu, bhikkhave, manussesu metteyyo nāma bhagavā loke uppajjissati arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā. ",
-            "en": "And the Blessed One named <span class=\"scv-matched\">Metteyya</span> will arise in the world—perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed—",
+            "en": "And the Blessed One named <span class=\"ebt-matched\">Metteyya</span> will arise in the world—perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed—",
             "matched": true
           },
           "dn26:26.2": {
             "scid": "dn26:26.2",
-            "pli": "Taṁ yūpaṁ ussāpetvā ajjhāvasitvā taṁ datvā vissajjitvā samaṇabrāhmaṇakapaṇaddhikavaṇibbakayācakānaṁ dānaṁ datvā <span class=\"scv-matched\">metteyya</span>ssa bhagavato arahato sammāsambuddhassa santike kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajissati. ",
-            "en": "After staying there, he will give it away to ascetics and brahmins, paupers, vagrants, travelers, and beggars. Then, having shaved off his hair and beard and dressed in ocher robes, he will go forth from the lay life to homelessness in the Buddha <span class=\"scv-matched\">Metteyya</span>’s presence. ",
+            "pli": "Taṁ yūpaṁ ussāpetvā ajjhāvasitvā taṁ datvā vissajjitvā samaṇabrāhmaṇakapaṇaddhikavaṇibbakayācakānaṁ dānaṁ datvā <span class=\"ebt-matched\">metteyya</span>ssa bhagavato arahato sammāsambuddhassa santike kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajissati. ",
+            "en": "After staying there, he will give it away to ascetics and brahmins, paupers, vagrants, travelers, and beggars. Then, having shaved off his hair and beard and dressed in ocher robes, he will go forth from the lay life to homelessness in the Buddha <span class=\"ebt-matched\">Metteyya</span>’s presence. ",
             "matched": true
           }
         },
@@ -97,14 +97,14 @@
         "segMap": {
           "an6.61:1.4": {
             "scid": "an6.61:1.4",
-            "pli": "“vuttamidaṁ, āvuso, bhagavatā pārāyane <span class=\"scv-matched\">metteyya</span>pañhe: ",
-            "en": "“Reverends, this was said by the Buddha in ‘The Way to the Beyond’, in ‘The Questions of <span class=\"scv-matched\">Metteyya</span>’: ",
+            "pli": "“vuttamidaṁ, āvuso, bhagavatā pārāyane <span class=\"ebt-matched\">metteyya</span>pañhe: ",
+            "en": "“Reverends, this was said by the Buddha in ‘The Way to the Beyond’, in ‘The Questions of <span class=\"ebt-matched\">Metteyya</span>’: ",
             "matched": true
           },
           "an6.61:10.5": {
             "scid": "an6.61:10.5",
-            "pli": "“Sabbesaṁ vo, bhikkhave, subhāsitaṁ pariyāyena, api ca yaṁ mayā sandhāya bhāsitaṁ pārāyane <span class=\"scv-matched\">metteyya</span>pañhe: ",
-            "en": "“Mendicants, you’ve all spoken well in a way. However, this is what I was referring to in ‘The Way to the Beyond’, in ‘The Questions of <span class=\"scv-matched\">Metteyya</span>’ when I said: ",
+            "pli": "“Sabbesaṁ vo, bhikkhave, subhāsitaṁ pariyāyena, api ca yaṁ mayā sandhāya bhāsitaṁ pārāyane <span class=\"ebt-matched\">metteyya</span>pañhe: ",
+            "en": "“Mendicants, you’ve all spoken well in a way. However, this is what I was referring to in ‘The Way to the Beyond’, in ‘The Questions of <span class=\"ebt-matched\">Metteyya</span>’ when I said: ",
             "matched": true
           }
         },

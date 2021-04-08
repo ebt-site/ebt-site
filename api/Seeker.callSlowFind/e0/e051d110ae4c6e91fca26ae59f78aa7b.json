@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,28 +61,28 @@
           "an6.45:3.1": {
             "scid": "an6.45:3.1",
             "pli": "“Yampi, bhikkhave, daliddo assako anāḷhiko iṇaṁ ādiyitvā vaḍḍhiṁ paṭissuṇāti, vaḍḍhipi, bhikkhave, dukkhā lokasmiṁ kāmabhogino”ti? ",
-            "de": "„Wenn ein armer Mensch, der <span class=\"scv-matched\">in Schulden geraten</span> ist, der Zahlung von Zinsen zustimmt, sind dann Zinsen nicht auch Leiden in der Welt für einen Menschen, der Sinnenfreuden genießt?“ ",
+            "de": "„Wenn ein armer Mensch, der <span class=\"ebt-matched\">in Schulden geraten</span> ist, der Zahlung von Zinsen zustimmt, sind dann Zinsen nicht auch Leiden in der Welt für einen Menschen, der Sinnenfreuden genießt?“ ",
             "en": "“When a poor person who has fallen into debt agrees to pay interest, isn’t the interest also suffering in the world for a person who enjoys sensual pleasures?” ",
             "matched": true
           },
           "an6.45:4.1": {
             "scid": "an6.45:4.1",
             "pli": "“Yampi, bhikkhave, daliddo assako anāḷhiko vaḍḍhiṁ paṭissuṇitvā kālābhataṁ vaḍḍhiṁ na deti, codentipi naṁ; ",
-            "de": "„Wenn ein armer Mensch, der <span class=\"scv-matched\">in Schulden geraten</span> ist und der Zahlung von Zinsen zugestimmt hat, diese nicht zahlen kann, wenn sie fällig sind, bekommt er eine Mahnung. ",
+            "de": "„Wenn ein armer Mensch, der <span class=\"ebt-matched\">in Schulden geraten</span> ist und der Zahlung von Zinsen zugestimmt hat, diese nicht zahlen kann, wenn sie fällig sind, bekommt er eine Mahnung. ",
             "en": "“When a poor person who has fallen into debt and agreed to pay interest fails to pay it when it falls due, they get a warning. ",
             "matched": true
           },
           "an6.45:13.3": {
             "scid": "an6.45:13.3",
             "pli": "Daliddo iṇamādāya, ",
-            "de": "Ein armer Mensch, der <span class=\"scv-matched\">in Schulden geraten</span> ist, ",
+            "de": "Ein armer Mensch, der <span class=\"ebt-matched\">in Schulden geraten</span> ist, ",
             "en": "A poor person who has fallen into debt ",
             "matched": true
           },
           "an6.45:18.3": {
             "scid": "an6.45:18.3",
             "pli": "Daliddo iṇamādāya, ",
-            "de": "ist ein armer Mensch, der <span class=\"scv-matched\">in Schulden geraten</span> ist, ",
+            "de": "ist ein armer Mensch, der <span class=\"ebt-matched\">in Schulden geraten</span> ist, ",
             "en": "is a poor person who has fallen into debt, ",
             "matched": true
           }
@@ -114,7 +114,7 @@
           "dn10:2.7.1": {
             "scid": "dn10:2.7.1",
             "pli": "Seyyathāpi, māṇava, puriso iṇaṁ ādāya kammante payojeyya. ",
-            "de": "Wie ein Mann, der <span class=\"scv-matched\">in Schulden geraten</span> wäre und sich der Arbeit widmete ",
+            "de": "Wie ein Mann, der <span class=\"ebt-matched\">in Schulden geraten</span> wäre und sich der Arbeit widmete ",
             "en": "Suppose a man who has gotten into debt were to apply himself to work, ",
             "matched": true
           }

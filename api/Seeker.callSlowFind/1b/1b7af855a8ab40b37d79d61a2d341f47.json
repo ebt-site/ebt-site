@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "mn10:42.3": {
             "scid": "mn10:42.3",
             "pli": "Idha, bhikkhave, bhikkhu santaṁ vā ajjhattaṁ satisambojjhaṅgaṁ ‘atthi me ajjhattaṁ satisambojjhaṅgo’ti pajānāti, asantaṁ vā ajjhattaṁ satisambojjhaṅgaṁ ‘natthi me ajjhattaṁ satisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa satisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. ",
-            "en": "It’s when a mendicant who has the <span class=\"scv-matched\">awakening factor of mindfulness in them</span> understands: ‘I have the awakening factor of mindfulness in me.’ When they don’t have the <span class=\"scv-matched\">awakening factor of mindfulness in them</span>, they understand: ‘I don’t have the awakening factor of mindfulness in me.’ They understand how the awakening factor of mindfulness that has not arisen comes to arise; and how the awakening factor of mindfulness that has arisen becomes fulfilled by development. ",
+            "en": "It’s when a mendicant who has the <span class=\"ebt-matched\">awakening factor of mindfulness in them</span> understands: ‘I have the awakening factor of mindfulness in me.’ When they don’t have the <span class=\"ebt-matched\">awakening factor of mindfulness in them</span>, they understand: ‘I don’t have the awakening factor of mindfulness in me.’ They understand how the awakening factor of mindfulness that has not arisen comes to arise; and how the awakening factor of mindfulness that has arisen becomes fulfilled by development. ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "dn22:16.3": {
             "scid": "dn22:16.3",
             "pli": "Idha, bhikkhave, bhikkhu santaṁ vā ajjhattaṁ satisambojjhaṅgaṁ ‘atthi me ajjhattaṁ satisambojjhaṅgo’ti pajānāti, asantaṁ vā ajjhattaṁ satisambojjhaṅgaṁ ‘natthi me ajjhattaṁ satisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa satisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. ",
-            "en": "It’s when a mendicant who has the <span class=\"scv-matched\">awakening factor of mindfulness in them</span> understands: ‘I have the awakening factor of mindfulness in me.’ When they don’t have the <span class=\"scv-matched\">awakening factor of mindfulness in them</span>, they understand: ‘I don’t have the awakening factor of mindfulness in me.’ They understand how the awakening factor of mindfulness that has not arisen comes to arise; and how the awakening factor of mindfulness that has arisen becomes fulfilled by development. ",
+            "en": "It’s when a mendicant who has the <span class=\"ebt-matched\">awakening factor of mindfulness in them</span> understands: ‘I have the awakening factor of mindfulness in me.’ When they don’t have the <span class=\"ebt-matched\">awakening factor of mindfulness in them</span>, they understand: ‘I don’t have the awakening factor of mindfulness in me.’ They understand how the awakening factor of mindfulness that has not arisen comes to arise; and how the awakening factor of mindfulness that has arisen becomes fulfilled by development. ",
             "matched": true
           }
         },

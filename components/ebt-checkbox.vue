@@ -1,6 +1,6 @@
 <template>
   <div
-      class="scv-checkbox"
+      class="ebt-checkbox"
       @click="stopPropagation($event)"
   >
     <input type="checkbox" 
@@ -12,7 +12,7 @@
       :aria-checked="localValue"
       :label="label"
       />
-    <label :for="_uid" class="scv-label">{{label}}</label>
+    <label :for="_uid" class="ebt-label">{{label}}</label>
   </div>
 </template>
 
@@ -25,7 +25,7 @@ export default {
   props: {
     xref: {
       type: String,
-      default: 'scv-checkbox',
+      default: 'ebt-checkbox',
     },
     value: {
       type: Boolean,

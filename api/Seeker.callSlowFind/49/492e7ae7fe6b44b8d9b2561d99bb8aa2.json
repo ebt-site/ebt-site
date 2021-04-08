@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,7 +66,7 @@
           "sn35.30:1.4": {
             "scid": "sn35.30:1.4",
             "pli": "Idha, bhikkhave, bhikkhu cakkhuṁ na maññati, cakkhusmiṁ na maññati, cakkhuto na maññati, cakkhuṁ meti na maññati. ",
-            "en": "It’s when a mendicant does not identify with the eye, does not identify regarding the eye, does not identify as the eye, and does not identify ‘<span class=\"scv-matched\">the eye is mine</span>.’ ",
+            "en": "It’s when a mendicant does not identify with the eye, does not identify regarding the eye, does not identify as the eye, and does not identify ‘<span class=\"ebt-matched\">the eye is mine</span>.’ ",
             "matched": true
           },
           "sn35.30:1.8": {
@@ -101,7 +101,7 @@
           "sn35.31:1.4": {
             "scid": "sn35.31:1.4",
             "pli": "Idha, bhikkhave, bhikkhu cakkhuṁ na maññati, cakkhusmiṁ na maññati, cakkhuto na maññati, cakkhuṁ meti na maññati. ",
-            "en": "It’s when a mendicant does not identify with the eye, does not identify in the eye, does not identify from the eye, and does not identify: ‘<span class=\"scv-matched\">The eye is mine</span>.’ ",
+            "en": "It’s when a mendicant does not identify with the eye, does not identify in the eye, does not identify from the eye, and does not identify: ‘<span class=\"ebt-matched\">The eye is mine</span>.’ ",
             "matched": true
           },
           "sn35.31:1.6": {
@@ -136,7 +136,7 @@
           "sn35.90:1.4": {
             "scid": "sn35.90:1.4",
             "pli": "cakkhuṁ na maññeyya, cakkhusmiṁ na maññeyya, cakkhuto na maññeyya, cakkhu meti na maññeyya; ",
-            "en": "So let them not identify with the eye, let them not identify regarding the eye, let them not identify as the eye, let them not identify ‘<span class=\"scv-matched\">the eye is mine</span>.’ ",
+            "en": "So let them not identify with the eye, let them not identify regarding the eye, let them not identify as the eye, let them not identify ‘<span class=\"ebt-matched\">the eye is mine</span>.’ ",
             "matched": true
           },
           "sn35.90:1.8": {
@@ -171,7 +171,7 @@
           "sn35.91:1.4": {
             "scid": "sn35.91:1.4",
             "pli": "cakkhuṁ na maññeyya, cakkhusmiṁ na maññeyya, cakkhuto na maññeyya, cakkhu meti na maññeyya; ",
-            "en": "So let them not identify with the eye, let them not identify in the eye, let them not identify from the eye, let them not identify: ‘<span class=\"scv-matched\">The eye is mine</span>.’ ",
+            "en": "So let them not identify with the eye, let them not identify in the eye, let them not identify from the eye, let them not identify: ‘<span class=\"ebt-matched\">The eye is mine</span>.’ ",
             "matched": true
           },
           "sn35.91:1.8": {
@@ -206,13 +206,13 @@
           "sn35.69:2.8": {
             "scid": "sn35.69:2.8",
             "pli": "‘ahaṁ cakkhūti vā mama cakkhūti vā …pe… ",
-            "en": "‘I am the eye’ or ‘<span class=\"scv-matched\">the eye is mine</span>.’ ",
+            "en": "‘I am the eye’ or ‘<span class=\"ebt-matched\">the eye is mine</span>.’ ",
             "matched": true
           },
           "sn35.69:3.3": {
             "scid": "sn35.69:3.3",
             "pli": "“‘ahaṁ cakkhūti vā mama cakkhūti vā …pe… ",
-            "en": "‘I am the eye’ or ‘<span class=\"scv-matched\">the eye is mine</span>.’ Or ‘I am the ear … ",
+            "en": "‘I am the eye’ or ‘<span class=\"ebt-matched\">the eye is mine</span>.’ Or ‘I am the ear … ",
             "matched": true
           }
         },

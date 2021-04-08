@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,7 +65,7 @@
           "an2.177:1.3": {
             "scid": "an2.177:1.3",
             "pli": "Asantuṭṭhitā ca kusalesu dhammesu, appaṭivānitā ca padhānasmiṁ. ",
-            "de": "Sich <span class=\"scv-matched\">niemals mit den tauglichen Eigenschaften zufriedengeben</span> und niemals aufgeben. ",
+            "de": "Sich <span class=\"ebt-matched\">niemals mit den tauglichen Eigenschaften zufriedengeben</span> und niemals aufgeben. ",
             "en": "To never be content with skillful qualities, and to never stop trying. ",
             "matched": true
           }
@@ -97,7 +97,7 @@
           "an2.5:1.2": {
             "scid": "an2.5:1.2",
             "pli": "yā ca asantuṭṭhitā kusalesu dhammesu, yā ca appaṭivānitā padhānasmiṁ. ",
-            "de": "mich <span class=\"scv-matched\">niemals mit den tauglichen Eigenschaften zufriedengeben</span> und niemals aufgeben. ",
+            "de": "mich <span class=\"ebt-matched\">niemals mit den tauglichen Eigenschaften zufriedengeben</span> und niemals aufgeben. ",
             "en": "to never be content with skillful qualities, and to never stop trying. ",
             "matched": true
           }
@@ -129,7 +129,7 @@
           "dn33:1.9.34": {
             "scid": "dn33:1.9.34",
             "pli": "Asantuṭṭhitā ca kusalesu dhammesu appaṭivānitā ca padhānasmiṁ. ",
-            "de": "Sich <span class=\"scv-matched\">niemals mit den tauglichen Eigenschaften zufriedengeben</span> und niemals aufgeben. ",
+            "de": "Sich <span class=\"ebt-matched\">niemals mit den tauglichen Eigenschaften zufriedengeben</span> und niemals aufgeben. ",
             "en": "To never be content with skillful qualities, and to never stop trying. ",
             "matched": true
           }

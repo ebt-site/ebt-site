@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "thag15.2:10.1": {
             "scid": "thag15.2:10.1",
             "pli": "Bhuñjati anavajjāni,",
-            "de": "Er <span class=\"scv-matched\">isst, was nicht zu tadeln ist</span>, ",
+            "de": "Er <span class=\"ebt-matched\">isst, was nicht zu tadeln ist</span>, ",
             "en": "He eats blameless things,",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "an6.43:14.1": {
             "scid": "an6.43:14.1",
             "pli": "Bhuñjati anavajjāni, ",
-            "de": "Er <span class=\"scv-matched\">isst, was nicht zu tadeln ist</span>, ",
+            "de": "Er <span class=\"ebt-matched\">isst, was nicht zu tadeln ist</span>, ",
             "en": "He eats blameless things, ",
             "matched": true
           }

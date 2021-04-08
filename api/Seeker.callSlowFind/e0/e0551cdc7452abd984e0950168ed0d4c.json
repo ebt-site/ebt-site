@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "an2.177:1.3": {
             "scid": "an2.177:1.3",
             "pli": "Asantuṭṭhitā ca kusalesu dhammesu, appaṭivānitā ca padhānasmiṁ. ",
-            "en": "To <span class=\"scv-matched\">never be content</span> with skillful qualities, and to never stop trying. ",
+            "en": "To <span class=\"ebt-matched\">never be content</span> with skillful qualities, and to never stop trying. ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "an2.5:1.2": {
             "scid": "an2.5:1.2",
             "pli": "yā ca asantuṭṭhitā kusalesu dhammesu, yā ca appaṭivānitā padhānasmiṁ. ",
-            "en": "to <span class=\"scv-matched\">never be content</span> with skillful qualities, and to never stop trying. ",
+            "en": "to <span class=\"ebt-matched\">never be content</span> with skillful qualities, and to never stop trying. ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "dn33:1.9.34": {
             "scid": "dn33:1.9.34",
             "pli": "Asantuṭṭhitā ca kusalesu dhammesu appaṭivānitā ca padhānasmiṁ. ",
-            "en": "To <span class=\"scv-matched\">never be content</span> with skillful qualities, and to never stop trying. ",
+            "en": "To <span class=\"ebt-matched\">never be content</span> with skillful qualities, and to never stop trying. ",
             "matched": true
           }
         },

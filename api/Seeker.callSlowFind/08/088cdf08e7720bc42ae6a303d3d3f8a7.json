@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -75,19 +75,19 @@
           "mn65:7.3": {
             "scid": "mn65:7.3",
             "pli": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu āyatiṁ saṁvarāyā”ti. ",
-            "en": "Please, sir, <span class=\"scv-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
+            "en": "Please, sir, <span class=\"ebt-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
             "matched": true
           },
           "mn65:10.2": {
             "scid": "mn65:10.2",
             "pli": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu āyatiṁ saṁvarāyā”ti. ",
-            "en": "Please, sir, <span class=\"scv-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
+            "en": "Please, sir, <span class=\"ebt-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
             "matched": true
           },
           "mn65:13.3": {
             "scid": "mn65:13.3",
             "pli": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu āyatiṁ saṁvarāyā”ti. ",
-            "en": "Please, sir, <span class=\"scv-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
+            "en": "Please, sir, <span class=\"ebt-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
             "matched": true
           }
         },
@@ -116,7 +116,7 @@
           "an3.91:3.13": {
             "scid": "an3.91:3.13",
             "pli": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu, āyatiṁ saṁvarāyā”ti. ",
-            "en": "Please, sir, <span class=\"scv-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
+            "en": "Please, sir, <span class=\"ebt-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
             "matched": true
           }
         },
@@ -145,7 +145,7 @@
           "an9.11:13.3": {
             "scid": "an9.11:13.3",
             "pli": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhatu āyatiṁ saṁvarāyā”ti. ",
-            "en": "Please, sir, <span class=\"scv-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
+            "en": "Please, sir, <span class=\"ebt-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
             "matched": true
           }
         },
@@ -174,7 +174,7 @@
           "an4.159:9.3": {
             "scid": "an4.159:9.3",
             "pli": "Tassā me, bhante, ayyo ānando accayaṁ accayato paṭiggaṇhātu, āyatiṁ saṁvarāyā”ti. ",
-            "en": "Please, sir, <span class=\"scv-matched\">accept my mistake</span> for what it is, so I can restrain myself in future.” ",
+            "en": "Please, sir, <span class=\"ebt-matched\">accept my mistake</span> for what it is, so I can restrain myself in future.” ",
             "matched": true
           }
         },
@@ -203,7 +203,7 @@
           "sn12.70:27.3": {
             "scid": "sn12.70:27.3",
             "pli": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu āyatiṁ saṁvarāyā”ti. ",
-            "en": "Please, sir, <span class=\"scv-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
+            "en": "Please, sir, <span class=\"ebt-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
             "matched": true
           }
         },
@@ -232,7 +232,7 @@
           "mn140:33.4": {
             "scid": "mn140:33.4",
             "pli": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu āyatiṁ saṁvarāyā”ti. ",
-            "en": "Please, sir, <span class=\"scv-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
+            "en": "Please, sir, <span class=\"ebt-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
             "matched": true
           }
         },
@@ -261,7 +261,7 @@
           "dn25:22.3": {
             "scid": "dn25:22.3",
             "pli": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu āyatiṁ saṁvarāyā”ti. ",
-            "en": "Please, sir, <span class=\"scv-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
+            "en": "Please, sir, <span class=\"ebt-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
             "matched": true
           }
         },
@@ -290,7 +290,7 @@
           "dn2:99.7": {
             "scid": "dn2:99.7",
             "pli": "Tassa me, bhante bhagavā, accayaṁ accayato paṭiggaṇhātu āyatiṁ saṁvarāyā”ti. ",
-            "en": "Please, sir, <span class=\"scv-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
+            "en": "Please, sir, <span class=\"ebt-matched\">accept my mistake</span> for what it is, so I will restrain myself in future.” ",
             "matched": true
           }
         },

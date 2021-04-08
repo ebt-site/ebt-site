@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,7 +65,7 @@
           "an3.156:2.4": {
             "scid": "an3.156:2.4",
             "pli": "So ekāgāriko vā hoti ekālopiko, dvāgāriko vā hoti dvālopiko … sattāgāriko vā hoti sattālopiko; ",
-            "de": "Er geht um Almosen nur zu einem Haus und nimmt <span class=\"scv-matched\">nur einen Bissen</span>, oder zu zwei Häusern und zwei Bissen, bis zu sieben Häusern und sieben Bissen. ",
+            "de": "Er geht um Almosen nur zu einem Haus und nimmt <span class=\"ebt-matched\">nur einen Bissen</span>, oder zu zwei Häusern und zwei Bissen, bis zu sieben Häusern und sieben Bissen. ",
             "en": "They go to just one house for alms, taking just one mouthful, or two houses and two mouthfuls, up to seven houses and seven mouthfuls. ",
             "matched": true
           }
@@ -97,7 +97,7 @@
           "an4.198:2.4": {
             "scid": "an4.198:2.4",
             "pli": "So ekāgāriko vā hoti ekālopiko dvāgāriko vā hoti dvālopiko …pe… sattāgāriko vā hoti sattālopiko; ",
-            "de": "Er geht um Almosen nur zu einem Haus und nimmt <span class=\"scv-matched\">nur einen Bissen</span>, oder zu zwei Häusern und zwei Bissen, bis zu sieben Häusern und sieben Bissen. ",
+            "de": "Er geht um Almosen nur zu einem Haus und nimmt <span class=\"ebt-matched\">nur einen Bissen</span>, oder zu zwei Häusern und zwei Bissen, bis zu sieben Häusern und sieben Bissen. ",
             "en": "They go to just one house for alms, taking just one mouthful, or two houses and two mouthfuls, up to seven houses and seven mouthfuls. ",
             "matched": true
           }
@@ -129,7 +129,7 @@
           "dn25:8.6": {
             "scid": "dn25:8.6",
             "pli": "so ekāgāriko vā hoti ekālopiko, dvāgāriko vā hoti dvālopiko, sattāgāriko vā hoti sattālopiko, ekissāpi dattiyā yāpeti, dvīhipi dattīhi yāpeti, sattahipi dattīhi yāpeti; ",
-            "de": "Er geht um Almosen nur zu einem Haus und nimmt <span class=\"scv-matched\">nur einen Bissen</span>, oder zu zwei Häusern und zwei Bissen, bis zu sieben Häusern und sieben Bissen. Er lebt von einem Schüsselchen voll am Tag, zwei Schüsselchen voll, bis zu sieben Schüsselchen voll am Tag. ",
+            "de": "Er geht um Almosen nur zu einem Haus und nimmt <span class=\"ebt-matched\">nur einen Bissen</span>, oder zu zwei Häusern und zwei Bissen, bis zu sieben Häusern und sieben Bissen. Er lebt von einem Schüsselchen voll am Tag, zwei Schüsselchen voll, bis zu sieben Schüsselchen voll am Tag. ",
             "en": "They go to just one house for alms, taking just one mouthful, or two houses and two mouthfuls, up to seven houses and seven mouthfuls. They feed on one saucer a day, two saucers a day, up to seven saucers a day. ",
             "matched": true
           }

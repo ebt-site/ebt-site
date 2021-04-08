@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn1.42:2.1": {
             "scid": "sn1.42:2.1",
             "pli": "“Annado balado hoti, ",
-            "en": "“<span class=\"scv-matched\">Giving food</span> you give strength. ",
+            "en": "“<span class=\"ebt-matched\">Giving food</span> you give strength. ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "an4.58:3.1": {
             "scid": "an4.58:3.1",
             "pli": "Yo saññatānaṁ paradattabhojinaṁ, ",
-            "en": "Carefully <span class=\"scv-matched\">giving food</span> at the right time, ",
+            "en": "Carefully <span class=\"ebt-matched\">giving food</span> at the right time, ",
             "matched": true
           }
         },

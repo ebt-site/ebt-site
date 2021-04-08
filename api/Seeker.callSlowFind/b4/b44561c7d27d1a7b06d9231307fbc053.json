@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -63,7 +63,7 @@
           "sn12.55:4.4": {
             "scid": "sn12.55:4.4",
             "pli": "So taṁ rukkhaṁ khaṇḍākhaṇḍikaṁ chindeyya, khaṇḍākhaṇḍikaṁ chinditvā phāleyya, phāletvā sakalikaṁ sakalikaṁ kareyya, sakalikaṁ sakalikaṁ karitvā vātātape visoseyya; ",
-            "en": "They’d cut the tree apart, cut up the parts, and <span class=\"scv-matched\">chop</span> it <span class=\"scv-matched\">into</span> <span class=\"scv-matched\">splinters</span>. They’d dry the <span class=\"scv-matched\">splinters</span> in the wind and sun, burn them with fire, and reduce them to ashes. Then they’d winnow the ashes in a strong wind, or float them away down a swift stream. ",
+            "en": "They’d cut the tree apart, cut up the parts, and <span class=\"ebt-matched\">chop</span> it <span class=\"ebt-matched\">into</span> <span class=\"ebt-matched\">splinters</span>. They’d dry the <span class=\"ebt-matched\">splinters</span> in the wind and sun, burn them with fire, and reduce them to ashes. Then they’d winnow the ashes in a strong wind, or float them away down a swift stream. ",
             "matched": true
           }
         },
@@ -92,7 +92,7 @@
           "an3.69:15.8": {
             "scid": "an3.69:15.8",
             "pli": "So taṁ māluvālataṁ khaṇḍākhaṇḍikaṁ chindeyya, khaṇḍākhaṇḍikaṁ chetvā phāleyya, phāletvā sakalikaṁ sakalikaṁ kareyya, sakalikaṁ sakalikaṁ karitvā vātātape visoseyya, vātātape visosetvā agginā ḍaheyya, agginā ḍahitvā masiṁ kareyya, masiṁ karitvā mahāvāte vā ophuṇeyya nadiyā vā sīghasotāya pavāheyya. ",
-            "en": "Then they’d split the creeper apart, cut up the parts, and <span class=\"scv-matched\">chop</span> it <span class=\"scv-matched\">into</span> <span class=\"scv-matched\">splinters</span>. They’d dry the <span class=\"scv-matched\">splinters</span> in the wind and sun, burn them with fire, and reduce them to ashes. Then they’d sweep away the ashes in a strong wind, or float them away down a swift stream. ",
+            "en": "Then they’d split the creeper apart, cut up the parts, and <span class=\"ebt-matched\">chop</span> it <span class=\"ebt-matched\">into</span> <span class=\"ebt-matched\">splinters</span>. They’d dry the <span class=\"ebt-matched\">splinters</span> in the wind and sun, burn them with fire, and reduce them to ashes. Then they’d sweep away the ashes in a strong wind, or float them away down a swift stream. ",
             "matched": true
           }
         },
@@ -121,7 +121,7 @@
           "an4.195:11.8": {
             "scid": "an4.195:11.8",
             "pli": "Phāletvā sakalikaṁ sakalikaṁ kareyya. ",
-            "en": "and <span class=\"scv-matched\">chop</span> them <span class=\"scv-matched\">into</span> <span class=\"scv-matched\">splinters</span>. ",
+            "en": "and <span class=\"ebt-matched\">chop</span> them <span class=\"ebt-matched\">into</span> <span class=\"ebt-matched\">splinters</span>. ",
             "matched": true
           }
         },
@@ -150,7 +150,7 @@
           "dn23:21.30": {
             "scid": "dn23:21.30",
             "pli": "Araṇisahitaṁ dvidhā phālesi, tidhā phālesi, catudhā phālesi, pañcadhā phālesi, dasadhā phālesi, satadhā phālesi, sakalikaṁ sakalikaṁ akāsi, sakalikaṁ sakalikaṁ karitvā udukkhale koṭṭesi, udukkhale koṭṭetvā mahāvāte opuni: ",
-            "en": "He split the bundle of drill-sticks <span class=\"scv-matched\">into</span> two, three, four, five, ten, or a hundred parts. He <span class=\"scv-matched\">chop</span>ped them <span class=\"scv-matched\">into</span> <span class=\"scv-matched\">splinters</span>, pounded them in a mortar, and swept them away in a strong wind, thinking, ",
+            "en": "He split the bundle of drill-sticks <span class=\"ebt-matched\">into</span> two, three, four, five, ten, or a hundred parts. He <span class=\"ebt-matched\">chop</span>ped them <span class=\"ebt-matched\">into</span> <span class=\"ebt-matched\">splinters</span>, pounded them in a mortar, and swept them away in a strong wind, thinking, ",
             "matched": true
           }
         },

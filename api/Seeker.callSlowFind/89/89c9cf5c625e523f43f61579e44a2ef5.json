@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "mn147:3.18": {
             "scid": "mn147:3.18",
             "pli": "cakkhusamphasso nicco vā anicco vā”ti? ",
-            "en": "<span class=\"scv-matched\">Is eye contact permanent</span> or impermanent?” ",
+            "en": "<span class=\"ebt-matched\">Is eye contact permanent</span> or impermanent?” ",
             "matched": true
           },
           "mn147:3.26": {
@@ -92,7 +92,7 @@
           "sn18.4:1.3": {
             "scid": "sn18.4:1.3",
             "pli": "cakkhusamphasso nicco vā anicco vā”ti? ",
-            "en": "<span class=\"scv-matched\">Is eye contact permanent</span> or impermanent?” ",
+            "en": "<span class=\"ebt-matched\">Is eye contact permanent</span> or impermanent?” ",
             "matched": true
           }
         },

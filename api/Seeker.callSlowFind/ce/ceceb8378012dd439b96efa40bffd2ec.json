@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn45.4:9.3": {
             "scid": "sn45.4:9.3",
             "pli": "Upekkhā dhurasamādhi, ",
-            "en": "<span class=\"scv-matched\">Equanimity and immersion</span> are the carriage-shaft, ",
+            "en": "<span class=\"ebt-matched\">Equanimity and immersion</span> are the carriage-shaft, ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn12.33:2.9": {
             "scid": "sn12.33:2.9",
             "pli": "saḷāyatane ñāṇaṁ … ",
-            "en": "<span class=\"scv-matched\">Knowledge of the six sense fields</span> … ",
+            "en": "<span class=\"ebt-matched\">Knowledge of the six sense fields</span> … ",
             "matched": true
           }
         },

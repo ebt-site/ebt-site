@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "mn119:5.1": {
             "scid": "mn119:5.1",
             "pli": "Puna caparaṁ, bhikkhave, bhikkhu gacchanto vā ‘gacchāmī’ti pajānāti, ṭhito vā ‘ṭhitomhī’ti pajānāti, nisinno vā ‘nisinnomhī’ti pajānāti, sayāno vā ‘sayānomhī’ti pajānāti. ",
-            "en": "Furthermore, when a mendicant is <span class=\"scv-matched\">walking they know</span> ‘I am walking’. When standing they know ‘I am standing’. When sitting they know ‘I am sitting’. And when lying down they know ‘I am lying down’. ",
+            "en": "Furthermore, when a mendicant is <span class=\"ebt-matched\">walking they know</span> ‘I am walking’. When standing they know ‘I am standing’. When sitting they know ‘I am sitting’. And when lying down they know ‘I am lying down’. ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "mn10:6.1": {
             "scid": "mn10:6.1",
             "pli": "Puna caparaṁ, bhikkhave, bhikkhu gacchanto vā ‘gacchāmī’ti pajānāti, ṭhito vā ‘ṭhitomhī’ti pajānāti, nisinno vā ‘nisinnomhī’ti pajānāti, sayāno vā ‘sayānomhī’ti pajānāti. ",
-            "en": "Furthermore, when a mendicant is <span class=\"scv-matched\">walking they know</span>: ‘I am walking.’ When standing they know: ‘I am standing.’ When sitting they know: ‘I am sitting.’ And when lying down they know: ‘I am lying down.’ ",
+            "en": "Furthermore, when a mendicant is <span class=\"ebt-matched\">walking they know</span>: ‘I am walking.’ When standing they know: ‘I am standing.’ When sitting they know: ‘I am sitting.’ And when lying down they know: ‘I am lying down.’ ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "dn22:3.1": {
             "scid": "dn22:3.1",
             "pli": "Puna caparaṁ, bhikkhave, bhikkhu gacchanto vā ‘gacchāmī’ti pajānāti, ṭhito vā ‘ṭhitomhī’ti pajānāti, nisinno vā ‘nisinnomhī’ti pajānāti, sayāno vā ‘sayānomhī’ti pajānāti, ",
-            "en": "Furthermore, when a mendicant is <span class=\"scv-matched\">walking they know</span>: ‘I am walking.’ When standing they know: ‘I am standing.’ When sitting they know: ‘I am sitting.’ And when lying down they know: ‘I am lying down.’ ",
+            "en": "Furthermore, when a mendicant is <span class=\"ebt-matched\">walking they know</span>: ‘I am walking.’ When standing they know: ‘I am standing.’ When sitting they know: ‘I am sitting.’ And when lying down they know: ‘I am lying down.’ ",
             "matched": true
           }
         },

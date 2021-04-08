@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "mn10:46.3": {
             "scid": "mn10:46.3",
             "pli": "Tiṭṭhantu, bhikkhave, satta vassāni. ",
-            "de": "<span class=\"scv-matched\">Lasst es gut sein mit den sieben Jahren</span>; ",
+            "de": "<span class=\"ebt-matched\">Lasst es gut sein mit den sieben Jahren</span>; ",
             "en": "Let alone seven years, ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "dn25:22.10": {
             "scid": "dn25:22.10",
             "pli": "Tiṭṭhantu, nigrodha, satta vassāni. ",
-            "de": "<span class=\"scv-matched\">Lass es gut sein mit den sieben Jahren</span>. ",
+            "de": "<span class=\"ebt-matched\">Lass es gut sein mit den sieben Jahren</span>. ",
             "en": "Let alone seven years. ",
             "matched": true
           }

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "mn108:26.2": {
             "scid": "mn108:26.2",
             "pli": "Kathaṁ rūpañca, brāhmaṇa, so bhagavā jhānaṁ na vaṇṇesi? ",
-            "en": "And what kind of <span class=\"scv-matched\">meditation did he not praise</span>? ",
+            "en": "And what kind of <span class=\"ebt-matched\">meditation did he not praise</span>? ",
             "matched": true
           }
         },

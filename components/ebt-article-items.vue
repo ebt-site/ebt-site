@@ -2,21 +2,21 @@
   <div v-if="article && article.slugDir">
     <div v-for="item of items" :key="item.slug" 
       v-if="item.title"
-      class="scv-toc-item">
+      class="ebt-toc-item">
       <NuxtLink :to="itemLink(item)">
-        <div class="scv-thumbnail">
+        <div class="ebt-thumbnail">
           <img :src="item.img" />
         </div>
-        <div class="scv-toc-item-text">
-          <div class="scv-toc-item-title">
+        <div class="ebt-toc-item-text">
+          <div class="ebt-toc-item-title">
             {{ item.title }}
           </div>
-          <div class="scv-toc-item-subtitle">
+          <div class="ebt-toc-item-subtitle">
             {{ item.description }}
           </div>
         </div>
       </NuxtLink>
-    </div><!-- scv-toc-item -->
+    </div><!-- ebt-toc-item -->
   </div> <!-- article.slugDir -->
 </template>
 <script>

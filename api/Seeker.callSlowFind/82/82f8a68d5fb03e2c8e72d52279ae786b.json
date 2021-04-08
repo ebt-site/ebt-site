@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -96,31 +96,31 @@
           "an3.24:1.1": {
             "scid": "an3.24:1.1",
             "pli": "“Tayome, bhikkhave, puggalā puggalassa bahukārā. ",
-            "en": "“Mendicants, these three people are <span class=\"scv-matched\">very helpful to</span> another. ",
+            "en": "“Mendicants, these three people are <span class=\"ebt-matched\">very helpful to</span> another. ",
             "matched": true
           },
           "an3.24:1.4": {
             "scid": "an3.24:1.4",
             "pli": "ayaṁ, bhikkhave, puggalo imassa puggalassa bahukāro. ",
-            "en": "This person is <span class=\"scv-matched\">very helpful to</span> another. ",
+            "en": "This person is <span class=\"ebt-matched\">very helpful to</span> another. ",
             "matched": true
           },
           "an3.24:2.2": {
             "scid": "an3.24:2.2",
             "pli": "ayaṁ, bhikkhave, puggalo imassa puggalassa bahukāro. ",
-            "en": "This person is <span class=\"scv-matched\">very helpful to</span> another. ",
+            "en": "This person is <span class=\"ebt-matched\">very helpful to</span> another. ",
             "matched": true
           },
           "an3.24:3.2": {
             "scid": "an3.24:3.2",
             "pli": "ayaṁ, bhikkhave, puggalo imassa puggalassa bahukāro. ",
-            "en": "This person is <span class=\"scv-matched\">very helpful to</span> another. ",
+            "en": "This person is <span class=\"ebt-matched\">very helpful to</span> another. ",
             "matched": true
           },
           "an3.24:3.3": {
             "scid": "an3.24:3.3",
             "pli": "Ime kho, bhikkhave, tayo puggalā puggalassa bahukārā. ",
-            "en": "These are the three people who are <span class=\"scv-matched\">very helpful to</span> another person. ",
+            "en": "These are the three people who are <span class=\"ebt-matched\">very helpful to</span> another person. ",
             "matched": true
           }
         },
@@ -149,19 +149,19 @@
           "mn142:3.3": {
             "scid": "mn142:3.3",
             "pli": "Bahūpakārā, bhante, mahāpajāpati gotamī bhagavato mātucchā āpādikā posikā khīrassa dāyikā; ",
-            "en": "Sir, Mahāpajāpatī was <span class=\"scv-matched\">very helpful to</span> the Buddha. As his aunt, she raised him, nurtured him, and gave him her milk. ",
+            "en": "Sir, Mahāpajāpatī was <span class=\"ebt-matched\">very helpful to</span> the Buddha. As his aunt, she raised him, nurtured him, and gave him her milk. ",
             "matched": true
           },
           "mn142:3.5": {
             "scid": "mn142:3.5",
             "pli": "Bhagavāpi, bhante, bahūpakāro mahāpajāpatiyā gotamiyā. ",
-            "en": "And the Buddha has been <span class=\"scv-matched\">very helpful to</span> Mahāpajāpatī. ",
+            "en": "And the Buddha has been <span class=\"ebt-matched\">very helpful to</span> Mahāpajāpatī. ",
             "matched": true
           },
           "mn142:3.10": {
             "scid": "mn142:3.10",
             "pli": "Bhagavāpi, bhante, bahūpakāro mahāpajāpatiyā gotamiyā”ti. ",
-            "en": "The Buddha has been <span class=\"scv-matched\">very helpful to</span> Mahāpajāpatī.” ",
+            "en": "The Buddha has been <span class=\"ebt-matched\">very helpful to</span> Mahāpajāpatī.” ",
             "matched": true
           }
         },
@@ -190,13 +190,13 @@
           "an4.249:1.1": {
             "scid": "an4.249:1.1",
             "pli": "“Cattārome, bhikkhave, dhammā manussabhūtassa bahukārā honti. ",
-            "en": "“Mendicants, these four things are <span class=\"scv-matched\">very helpful to</span> a human being. ",
+            "en": "“Mendicants, these four things are <span class=\"ebt-matched\">very helpful to</span> a human being. ",
             "matched": true
           },
           "an4.249:1.4": {
             "scid": "an4.249:1.4",
             "pli": "Ime kho, bhikkhave, cattāro dhammā manussabhūtassa bahukārā hontī”ti. ",
-            "en": "These four things are <span class=\"scv-matched\">very helpful to</span> a human being.” ",
+            "en": "These four things are <span class=\"ebt-matched\">very helpful to</span> a human being.” ",
             "matched": true
           }
         },
@@ -225,13 +225,13 @@
           "an5.234:1.1": {
             "scid": "an5.234:1.1",
             "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato āvāsiko bhikkhu āvāsassa bahūpakāro hoti. ",
-            "en": "“Mendicants, a resident mendicant with five qualities is <span class=\"scv-matched\">very helpful to</span> the monastery. ",
+            "en": "“Mendicants, a resident mendicant with five qualities is <span class=\"ebt-matched\">very helpful to</span> the monastery. ",
             "matched": true
           },
           "an5.234:1.9": {
             "scid": "an5.234:1.9",
             "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato āvāsiko bhikkhu āvāsassa bahūpakāro hotī”ti. ",
-            "en": "A resident mendicant with these five qualities is <span class=\"scv-matched\">very helpful to</span> the monastery.” ",
+            "en": "A resident mendicant with these five qualities is <span class=\"ebt-matched\">very helpful to</span> the monastery.” ",
             "matched": true
           }
         },
@@ -260,13 +260,13 @@
           "iti107:2.1": {
             "scid": "iti107:2.1",
             "pli": "“Bahukārā, bhikkhave, brāhmaṇagahapatikā tumhākaṁ ye vo paccupaṭṭhitā cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārehi.",
-            "en": "“Mendicants, brahmins and houselholders are <span class=\"scv-matched\">very helpful to</span> you, as they provide you with robes, alms-food, lodgings, and medicines and supplies for the sick.",
+            "en": "“Mendicants, brahmins and houselholders are <span class=\"ebt-matched\">very helpful to</span> you, as they provide you with robes, alms-food, lodgings, and medicines and supplies for the sick.",
             "matched": true
           },
           "iti107:2.2": {
             "scid": "iti107:2.2",
             "pli": "Tumhepi, bhikkhave, bahukārā brāhmaṇagahapatikānaṁ yaṁ nesaṁ dhammaṁ desetha ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāsetha.",
-            "en": "And you are <span class=\"scv-matched\">very helpful to</span> brahmins and householders, as you teach them the Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And you reveal a spiritual practice that’s entirely full and pure. ",
+            "en": "And you are <span class=\"ebt-matched\">very helpful to</span> brahmins and householders, as you teach them the Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And you reveal a spiritual practice that’s entirely full and pure. ",
             "matched": true
           }
         },
@@ -295,13 +295,13 @@
           "sn22.83:2.1": {
             "scid": "sn22.83:2.1",
             "pli": "“Puṇṇo nāma, āvuso, āyasmā mantāṇiputto amhākaṁ navakānaṁ sataṁ bahūpakāro hoti. ",
-            "en": "“Reverends, the venerable named Puṇṇa Mantāniputta was <span class=\"scv-matched\">very helpful to</span> me when I was just ordained. ",
+            "en": "“Reverends, the venerable named Puṇṇa Mantāniputta was <span class=\"ebt-matched\">very helpful to</span> me when I was just ordained. ",
             "matched": true
           },
           "sn22.83:4.12": {
             "scid": "sn22.83:4.12",
             "pli": "Puṇṇo nāma, āvuso, āyasmā mantāṇiputto amhākaṁ navakānaṁ sataṁ bahūpakāro hoti. ",
-            "en": "Reverends, the venerable named Puṇṇa Mantāniputta was <span class=\"scv-matched\">very helpful to</span> me when I was just ordained. ",
+            "en": "Reverends, the venerable named Puṇṇa Mantāniputta was <span class=\"ebt-matched\">very helpful to</span> me when I was just ordained. ",
             "matched": true
           }
         },
@@ -330,13 +330,13 @@
           "mn22:13.14": {
             "scid": "mn22:13.14",
             "pli": "‘bahukāro kho me ayaṁ kullo; ",
-            "en": "‘This raft has been <span class=\"scv-matched\">very helpful to</span> me. ",
+            "en": "‘This raft has been <span class=\"ebt-matched\">very helpful to</span> me. ",
             "matched": true
           },
           "mn22:13.22": {
             "scid": "mn22:13.22",
             "pli": "‘bahukāro kho me ayaṁ kullo; ",
-            "en": "‘This raft has been <span class=\"scv-matched\">very helpful to</span> me. … ",
+            "en": "‘This raft has been <span class=\"ebt-matched\">very helpful to</span> me. … ",
             "matched": true
           }
         },
@@ -365,7 +365,7 @@
           "an3.31:1.8": {
             "scid": "an3.31:1.8",
             "pli": "Bahukārā, bhikkhave, mātāpitaro puttānaṁ, āpādakā posakā, imassa lokassa dassetāroti. ",
-            "en": "Parents are <span class=\"scv-matched\">very helpful to</span> their children, they raise them, nurture them, and show them the world. ",
+            "en": "Parents are <span class=\"ebt-matched\">very helpful to</span> their children, they raise them, nurture them, and show them the world. ",
             "matched": true
           }
         },
@@ -394,7 +394,7 @@
           "an4.63:2.6": {
             "scid": "an4.63:2.6",
             "pli": "Bahukārā, bhikkhave, mātāpitaro, puttānaṁ āpādakā posakā imassa lokassa dassetāroti. ",
-            "en": "Parents are <span class=\"scv-matched\">very helpful to</span> their children, they raise them, nurture them, and show them the world. ",
+            "en": "Parents are <span class=\"ebt-matched\">very helpful to</span> their children, they raise them, nurture them, and show them the world. ",
             "matched": true
           }
         },
@@ -423,7 +423,7 @@
           "iti106:3.6": {
             "scid": "iti106:3.6",
             "pli": "Bahukārā, bhikkhave, mātāpitaro puttānaṁ āpādakā posakā imassa lokassa dassetāro”ti.",
-            "en": "Parents are <span class=\"scv-matched\">very helpful to</span> their children, they raise them, nurture them, and show them the world.” ",
+            "en": "Parents are <span class=\"ebt-matched\">very helpful to</span> their children, they raise them, nurture them, and show them the world.” ",
             "matched": true
           }
         },
@@ -452,7 +452,7 @@
           "an8.51:9.8": {
             "scid": "an8.51:9.8",
             "pli": "bahukārā, bhante, mahāpajāpatī gotamī bhagavato mātucchā āpādikā posikā khīrassa dāyikā; ",
-            "en": "Sir, Mahāpajāpatī has been <span class=\"scv-matched\">very helpful to</span> the Buddha. She is his aunt who raised him, nurtured him, and gave him her milk. ",
+            "en": "Sir, Mahāpajāpatī has been <span class=\"ebt-matched\">very helpful to</span> the Buddha. She is his aunt who raised him, nurtured him, and gave him her milk. ",
             "matched": true
           }
         },
@@ -481,7 +481,7 @@
           "an2.33:1.8": {
             "scid": "an2.33:1.8",
             "pli": "Bahukārā, bhikkhave, mātāpitaro puttānaṁ āpādakā posakā imassa lokassa dassetāro. ",
-            "en": "Parents are <span class=\"scv-matched\">very helpful to</span> their children, they raise them, nurture them, and show them the world. ",
+            "en": "Parents are <span class=\"ebt-matched\">very helpful to</span> their children, they raise them, nurture them, and show them the world. ",
             "matched": true
           }
         },
@@ -510,7 +510,7 @@
           "mn26:24.5": {
             "scid": "mn26:24.5",
             "pli": "‘bahukārā kho me pañcavaggiyā bhikkhū, ye maṁ padhānapahitattaṁ upaṭṭhahiṁsu. ",
-            "en": "‘The group of five mendicants were <span class=\"scv-matched\">very helpful to</span> me. They looked after me during my time of resolute striving. ",
+            "en": "‘The group of five mendicants were <span class=\"ebt-matched\">very helpful to</span> me. They looked after me during my time of resolute striving. ",
             "matched": true
           }
         },
@@ -539,7 +539,7 @@
           "dn21:2.10.2": {
             "scid": "dn21:2.10.2",
             "pli": "“bahūpakāro kho mesi tvaṁ, tāta pañcasikha, yaṁ tvaṁ bhagavantaṁ paṭhamaṁ pasādesi. ",
-            "en": "“Dear Pañcasikha, you were <span class=\"scv-matched\">very helpful to</span> me, since you first charmed the Buddha, ",
+            "en": "“Dear Pañcasikha, you were <span class=\"ebt-matched\">very helpful to</span> me, since you first charmed the Buddha, ",
             "matched": true
           }
         },
@@ -568,7 +568,7 @@
           "mn85:48.5": {
             "scid": "mn85:48.5",
             "pli": "‘bahukārā kho me pañcavaggiyā bhikkhū ye maṁ padhānapahitattaṁ upaṭṭhahiṁsu. ",
-            "en": "‘The group of five mendicants were <span class=\"scv-matched\">very helpful to</span> me. They looked after me during my time of resolute striving. ",
+            "en": "‘The group of five mendicants were <span class=\"ebt-matched\">very helpful to</span> me. They looked after me during my time of resolute striving. ",
             "matched": true
           }
         },

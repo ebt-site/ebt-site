@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -76,7 +76,7 @@
           "an5.37:1.5": {
             "scid": "an5.37:1.5",
             "pli": "vaṇṇaṁ datvā vaṇṇassa bhāgī hoti dibbassa vā mānusassa vā; ",
-            "de": "Da sie Schönheit schenkt, hat sie <span class=\"scv-matched\">selbst göttliche oder menschliche</span> Schönheit. ",
+            "de": "Da sie Schönheit schenkt, hat sie <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Schönheit. ",
             "en": "Giving beauty, they have beauty as a god or human. ",
             "matched": true
           },
@@ -90,14 +90,14 @@
           "an5.37:1.7": {
             "scid": "an5.37:1.7",
             "pli": "balaṁ datvā balassa bhāgī hoti dibbassa vā mānusassa vā; ",
-            "de": "Da sie Kraft schenkt, hat sie <span class=\"scv-matched\">selbst göttliche oder menschliche</span> Kraft. ",
+            "de": "Da sie Kraft schenkt, hat sie <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Kraft. ",
             "en": "Giving strength, they have strength as a god or human. ",
             "matched": true
           },
           "an5.37:1.8": {
             "scid": "an5.37:1.8",
             "pli": "paṭibhānaṁ datvā paṭibhānassa bhāgī hoti dibbassa vā mānusassa vā. ",
-            "de": "Da sie Wortgewandtheit schenkt, hat sie <span class=\"scv-matched\">selbst göttliche oder menschliche</span> Wortgewandtheit. ",
+            "de": "Da sie Wortgewandtheit schenkt, hat sie <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Wortgewandtheit. ",
             "en": "Giving eloquence, they are eloquent as a god or human. ",
             "matched": true
           }
@@ -136,7 +136,7 @@
           "an4.57:2.5": {
             "scid": "an4.57:2.5",
             "pli": "Vaṇṇaṁ datvā vaṇṇassa bhāginī hoti dibbassa vā mānusassa vā. ",
-            "de": "Da sie Schönheit schenkt, hat sie <span class=\"scv-matched\">selbst göttliche oder menschliche</span> Schönheit. ",
+            "de": "Da sie Schönheit schenkt, hat sie <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Schönheit. ",
             "en": "Giving beauty, she has beauty as a god or human. ",
             "matched": true
           },
@@ -150,7 +150,7 @@
           "an4.57:2.7": {
             "scid": "an4.57:2.7",
             "pli": "Balaṁ datvā balassa bhāginī hoti dibbassa vā mānusassa vā. ",
-            "de": "Da sie Kraft schenkt, hat sie <span class=\"scv-matched\">selbst göttliche oder menschliche</span> Kraft. ",
+            "de": "Da sie Kraft schenkt, hat sie <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Kraft. ",
             "en": "Giving strength, she has strength as a god or human. ",
             "matched": true
           }
@@ -189,7 +189,7 @@
           "an4.59:1.5": {
             "scid": "an4.59:1.5",
             "pli": "Vaṇṇaṁ datvā … sukhaṁ datvā … balaṁ datvā balassa bhāgī hoti dibbassa vā mānusassa vā. ",
-            "de": "Da sie Schönheit … Glück … Kraft schenkt, hat sie <span class=\"scv-matched\">selbst göttliche oder menschliche</span> Kraft. ",
+            "de": "Da sie Schönheit … Glück … Kraft schenkt, hat sie <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Kraft. ",
             "en": " ",
             "matched": true
           }
@@ -228,7 +228,7 @@
           "an4.58:2.5": {
             "scid": "an4.58:2.5",
             "pli": "Vaṇṇaṁ datvā … sukhaṁ datvā … balaṁ datvā balassa bhāgī hoti dibbassa vā mānusassa vā. ",
-            "de": "Da er Schönheit … Glück … Kraft schenkt, hat er <span class=\"scv-matched\">selbst göttliche oder menschliche</span> Kraft. ",
+            "de": "Da er Schönheit … Glück … Kraft schenkt, hat er <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Kraft. ",
             "en": "Giving beauty … happiness … strength … ",
             "matched": true
           }

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,25 +66,25 @@
           "dn18:26.8": {
             "scid": "dn18:26.8",
             "pli": "So tattha sammā samāhito sammā vippasanno bahiddhā parakāye ñāṇadassanaṁ abhinibbatteti. ",
-            "en": "Then they give rise to <span class=\"scv-matched\">knowledge</span> <span class=\"scv-matched\">and</span> <span class=\"scv-matched\">vision</span> of other people’s bodies <span class=\"scv-matched\">externally</span>. ",
+            "en": "Then they give rise to <span class=\"ebt-matched\">knowledge</span> <span class=\"ebt-matched\">and</span> <span class=\"ebt-matched\">vision</span> of other people’s bodies <span class=\"ebt-matched\">externally</span>. ",
             "matched": true
           },
           "dn18:26.10": {
             "scid": "dn18:26.10",
             "pli": "bahiddhā paravedanāsu ñāṇadassanaṁ abhinibbatteti. ",
-            "en": "Then they give rise to <span class=\"scv-matched\">knowledge</span> <span class=\"scv-matched\">and</span> <span class=\"scv-matched\">vision</span> of other people’s feelings <span class=\"scv-matched\">externally</span>. ",
+            "en": "Then they give rise to <span class=\"ebt-matched\">knowledge</span> <span class=\"ebt-matched\">and</span> <span class=\"ebt-matched\">vision</span> of other people’s feelings <span class=\"ebt-matched\">externally</span>. ",
             "matched": true
           },
           "dn18:26.12": {
             "scid": "dn18:26.12",
             "pli": "bahiddhā paracitte ñāṇadassanaṁ abhinibbatteti. ",
-            "en": "Then they give rise to <span class=\"scv-matched\">knowledge</span> <span class=\"scv-matched\">and</span> <span class=\"scv-matched\">vision</span> of other people’s minds <span class=\"scv-matched\">externally</span>. ",
+            "en": "Then they give rise to <span class=\"ebt-matched\">knowledge</span> <span class=\"ebt-matched\">and</span> <span class=\"ebt-matched\">vision</span> of other people’s minds <span class=\"ebt-matched\">externally</span>. ",
             "matched": true
           },
           "dn18:26.15": {
             "scid": "dn18:26.15",
             "pli": "So tattha sammā samāhito sammā vippasanno bahiddhā paradhammesu ñāṇadassanaṁ abhinibbatteti. ",
-            "en": "Then they give rise to <span class=\"scv-matched\">knowledge</span> <span class=\"scv-matched\">and</span> <span class=\"scv-matched\">vision</span> of other people’s principles <span class=\"scv-matched\">externally</span>. ",
+            "en": "Then they give rise to <span class=\"ebt-matched\">knowledge</span> <span class=\"ebt-matched\">and</span> <span class=\"ebt-matched\">vision</span> of other people’s principles <span class=\"ebt-matched\">externally</span>. ",
             "matched": true
           }
         },

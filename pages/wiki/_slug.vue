@@ -1,7 +1,7 @@
 <template>
-  <scv-article :article="article">
+  <ebt-article :article="article">
     <nuxt-content :document="article" />
-  </scv-article>
+  </ebt-article>
 </template>
 <script>
   export default {

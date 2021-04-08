@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "dn15:9.1": {
             "scid": "dn15:9.1",
             "pli": "Iti kho panetaṁ, ānanda, vedanaṁ paṭicca taṇhā, taṇhaṁ paṭicca pariyesanā, pariyesanaṁ paṭicca lābho, lābhaṁ paṭicca vinicchayo, vinicchayaṁ paṭicca chandarāgo, chandarāgaṁ paṭicca ajjhosānaṁ, ajjhosānaṁ paṭicca pariggaho, pariggahaṁ paṭicca macchariyaṁ, macchariyaṁ paṭicca ārakkho. ",
-            "de": "So kommt es also, Ānanda, dass Gefühl eine Ursache für Verlangen ist. Verlangen ist eine Ursache für Trachten. Trachten ist eine Ursache für das Gewinnen von materiellem Besitz. Das Gewinnen von materiellem Besitz ist eine Ursache für Bewerten. Bewerten ist eine Ursache für Sehnsucht und Begierde. Sehnsucht und Begierde sind eine Ursache für Anhänglichkeit. Anhänglichkeit ist eine Ursache für Besitzgier. Besitzgier ist eine <span class=\"scv-matched\">Ursache für Geiz</span>. Geiz ist eine Ursache für Absicherung. ",
+            "de": "So kommt es also, Ānanda, dass Gefühl eine Ursache für Verlangen ist. Verlangen ist eine Ursache für Trachten. Trachten ist eine Ursache für das Gewinnen von materiellem Besitz. Das Gewinnen von materiellem Besitz ist eine Ursache für Bewerten. Bewerten ist eine Ursache für Sehnsucht und Begierde. Sehnsucht und Begierde sind eine Ursache für Anhänglichkeit. Anhänglichkeit ist eine Ursache für Besitzgier. Besitzgier ist eine <span class=\"ebt-matched\">Ursache für Geiz</span>. Geiz ist eine Ursache für Absicherung. ",
             "en": "So it is, Ānanda, that feeling is a cause of craving. Craving is a cause of seeking. Seeking is a cause of gaining material possessions. Gaining material possessions is a cause of assessing. Assessing is a cause of desire and lust. Desire and lust is a cause of attachment. Attachment is a cause of possessiveness. Possessiveness is a cause of stinginess. Stinginess is a cause of safeguarding. ",
             "matched": true
           },
@@ -82,7 +82,7 @@
           "dn15:12.1": {
             "scid": "dn15:12.1",
             "pli": "‘Pariggahaṁ paṭicca macchariyan’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā pariggahaṁ paṭicca macchariyaṁ. ",
-            "de": "‚Besitzgier ist eine <span class=\"scv-matched\">Ursache für Geiz</span>‘ – das habe ich gesagt. Eine Art, zu verstehen, wie das gemeint ist, ist diese: ",
+            "de": "‚Besitzgier ist eine <span class=\"ebt-matched\">Ursache für Geiz</span>‘ – das habe ich gesagt. Eine Art, zu verstehen, wie das gemeint ist, ist diese: ",
             "en": "‘Possessiveness is a cause of stinginess’—that’s what I said. And this is a way to understand how this is so. ",
             "matched": true
           },
@@ -121,7 +121,7 @@
           "dn34:2.2.32": {
             "scid": "dn34:2.2.32",
             "pli": "taṇhaṁ paṭicca pariyesanā, pariyesanaṁ paṭicca lābho, lābhaṁ paṭicca vinicchayo, vinicchayaṁ paṭicca chandarāgo, chandarāgaṁ paṭicca ajjhosānaṁ, ajjhosānaṁ paṭicca pariggaho, pariggahaṁ paṭicca macchariyaṁ, macchariyaṁ paṭicca ārakkho, ārakkhādhikaraṇaṁ daṇḍādānasatthādānakalahaviggahavivādatuvaṁtuvaṁpesuññamusāvādā aneke pāpakā akusalā dhammā sambhavanti. ",
-            "de": "Verlangen ist eine Ursache für Trachten. Trachten ist eine Ursache für das Gewinnen von materiellem Besitz. Das Gewinnen von materiellem Besitz ist eine Ursache für Bewerten. Bewerten ist eine Ursache für Sehnsucht und Begierde. Sehnsucht und Begierde sind eine Ursache für Anhänglichkeit. Anhänglichkeit ist eine Ursache für Besitzgier. Besitzgier ist eine <span class=\"scv-matched\">Ursache für Geiz</span>. Geiz ist eine Ursache für Absicherung. Aufgrund von Absicherung kommen zahlreiche schlechte, untaugliche Dinge zustande: das Greifen zu Stock und Schwert, Streit, Zank, Kämpfe, Anschuldigungen, entzweiende Rede und Lügen. ",
+            "de": "Verlangen ist eine Ursache für Trachten. Trachten ist eine Ursache für das Gewinnen von materiellem Besitz. Das Gewinnen von materiellem Besitz ist eine Ursache für Bewerten. Bewerten ist eine Ursache für Sehnsucht und Begierde. Sehnsucht und Begierde sind eine Ursache für Anhänglichkeit. Anhänglichkeit ist eine Ursache für Besitzgier. Besitzgier ist eine <span class=\"ebt-matched\">Ursache für Geiz</span>. Geiz ist eine Ursache für Absicherung. Aufgrund von Absicherung kommen zahlreiche schlechte, untaugliche Dinge zustande: das Greifen zu Stock und Schwert, Streit, Zank, Kämpfe, Anschuldigungen, entzweiende Rede und Lügen. ",
             "en": "Craving is a cause of seeking. Seeking is a cause of gaining material possessions. Gaining material possessions is a cause of assessing. Assessing is a cause of desire and lust. Desire and lust is a cause of attachment. Attachment is a cause of possessiveness. Possessiveness is a cause of stinginess. Stinginess is a cause of safeguarding. Owing to safeguarding, many bad, unskillful things come to be: taking up the rod and the sword, quarrels, arguments, fights, accusations, divisive speech, and lies. ",
             "matched": true
           }

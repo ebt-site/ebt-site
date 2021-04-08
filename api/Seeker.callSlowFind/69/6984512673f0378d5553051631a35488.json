@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "sn3.21:1.6": {
             "scid": "sn3.21:1.6",
             "pli": "tamojotiparāyano,",
-            "en": "the <span class=\"scv-matched\">dark bound for light</span>,",
+            "en": "the <span class=\"ebt-matched\">dark bound for light</span>,",
             "matched": true
           },
           "sn3.21:1.7": {
@@ -131,7 +131,7 @@
           "an4.85:1.4": {
             "scid": "an4.85:1.4",
             "pli": "tamo jotiparāyaṇo,",
-            "en": "the <span class=\"scv-matched\">dark bound for light</span>, ",
+            "en": "the <span class=\"ebt-matched\">dark bound for light</span>, ",
             "matched": true
           },
           "an4.85:1.5": {
@@ -190,7 +190,7 @@
           "dn33:1.11.216": {
             "scid": "dn33:1.11.216",
             "pli": "tamo tamaparāyano, tamo jotiparāyano, joti tamaparāyano, joti jotiparāyano. ",
-            "en": "the dark bound for darkness, the <span class=\"scv-matched\">dark bound for light</span>, the light bound for darkness, and the light bound for light. ",
+            "en": "the dark bound for darkness, the <span class=\"ebt-matched\">dark bound for light</span>, the light bound for darkness, and the light bound for light. ",
             "matched": true
           }
         },

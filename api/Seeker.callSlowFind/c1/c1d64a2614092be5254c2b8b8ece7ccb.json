@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,35 +57,35 @@
           "sn42.11:2.11": {
             "scid": "sn42.11:2.11",
             "pli": "Chando hi mūlaṁ dukkhassa. ",
-            "de": "Denn Sehnen ist die <span class=\"scv-matched\">Wurzel des Leidens</span>. ",
+            "de": "Denn Sehnen ist die <span class=\"ebt-matched\">Wurzel des Leidens</span>. ",
             "en": "For desire is the root of suffering. ",
             "matched": true
           },
           "sn42.11:2.13": {
             "scid": "sn42.11:2.13",
             "pli": "Chando hi mūlaṁ dukkhassā’”ti. ",
-            "de": "Denn Sehnen ist die <span class=\"scv-matched\">Wurzel des Leidens</span>.‘“ ",
+            "de": "Denn Sehnen ist die <span class=\"ebt-matched\">Wurzel des Leidens</span>.‘“ ",
             "en": "For desire is the root of suffering.’” ",
             "matched": true
           },
           "sn42.11:2.17": {
             "scid": "sn42.11:2.17",
             "pli": "Chando hi mūlaṁ dukkhassā’ti. ",
-            "de": "Denn Sehnen ist die <span class=\"scv-matched\">Wurzel des Leidens</span>.‘ ",
+            "de": "Denn Sehnen ist die <span class=\"ebt-matched\">Wurzel des Leidens</span>.‘ ",
             "en": "For desire is the root of suffering.’ ",
             "matched": true
           },
           "sn42.11:3.6": {
             "scid": "sn42.11:3.6",
             "pli": "Chando hi mūlaṁ dukkhassā’ti. ",
-            "de": "Denn Sehnen ist die <span class=\"scv-matched\">Wurzel des Leidens</span>.‘ ",
+            "de": "Denn Sehnen ist die <span class=\"ebt-matched\">Wurzel des Leidens</span>.‘ ",
             "en": "For desire is the root of suffering.’ ",
             "matched": true
           },
           "sn42.11:5.6": {
             "scid": "sn42.11:5.6",
             "pli": "Chando hi mūlaṁ dukkhassā’”ti. ",
-            "de": "Denn Sehnen ist die <span class=\"scv-matched\">Wurzel des Leidens</span>.‘“ ",
+            "de": "Denn Sehnen ist die <span class=\"ebt-matched\">Wurzel des Leidens</span>.‘“ ",
             "en": "For desire is the root of suffering.’” ",
             "matched": true
           }

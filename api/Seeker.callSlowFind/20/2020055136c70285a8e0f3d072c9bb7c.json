@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -75,13 +75,13 @@
           "sn3.13:3.2": {
             "scid": "sn3.13:3.2",
             "pli": "Mattaṁ jānato laddhabhojane; ",
-            "en": "knowing <span class=\"scv-matched\">moderation in eating</span>, ",
+            "en": "knowing <span class=\"ebt-matched\">moderation in eating</span>, ",
             "matched": true
           },
           "sn3.13:5.2": {
             "scid": "sn3.13:5.2",
             "pli": "Mattaṁ jānato laddhabhojane; ",
-            "en": "knowing <span class=\"scv-matched\">moderation in eating</span>, ",
+            "en": "knowing <span class=\"ebt-matched\">moderation in eating</span>, ",
             "matched": true
           }
         },
@@ -110,7 +110,7 @@
           "iti29:2.4": {
             "scid": "iti29:2.4",
             "pli": "Indriyesu guttadvāratāya ca, bhojane mattaññutāya ca.",
-            "en": "Guarding the sense doors and <span class=\"scv-matched\">moderation in eating</span>. ",
+            "en": "Guarding the sense doors and <span class=\"ebt-matched\">moderation in eating</span>. ",
             "matched": true
           },
           "iti29:4.1": {
@@ -145,7 +145,7 @@
           "ud4.6:4.3": {
             "scid": "ud4.6:4.3",
             "pli": "Mattaññutā ca bhattasmiṁ,",
-            "en": "<span class=\"scv-matched\">moderation in eating</span>; ",
+            "en": "<span class=\"ebt-matched\">moderation in eating</span>; ",
             "matched": true
           }
         },
@@ -174,7 +174,7 @@
           "an5.150:2.3": {
             "scid": "an5.150:2.3",
             "pli": "Na kammārāmatā, na bhassārāmatā, na niddārāmatā, indriyesu guttadvāratā, bhojane mattaññutā. ",
-            "en": "They don’t relish work, talk, sleep, and company. They guard the sense doors and they have <span class=\"scv-matched\">moderation in eating</span>. ",
+            "en": "They don’t relish work, talk, sleep, and company. They guard the sense doors and they have <span class=\"ebt-matched\">moderation in eating</span>. ",
             "matched": true
           }
         },
@@ -203,7 +203,7 @@
           "an2.169:1.3": {
             "scid": "an2.169:1.3",
             "pli": "Indriyesu guttadvāratā ca bhojane mattaññutā ca. ",
-            "en": "Guarding the sense doors and <span class=\"scv-matched\">moderation in eating</span>. ",
+            "en": "Guarding the sense doors and <span class=\"ebt-matched\">moderation in eating</span>. ",
             "matched": true
           }
         },
@@ -232,7 +232,7 @@
           "mn53:23.3": {
             "scid": "mn53:23.3",
             "pli": "yampi, mahānāma, ariyasāvako bhojane mattaññū hoti, idampissa hoti caraṇasmiṁ; ",
-            "en": "<span class=\"scv-matched\">moderation in eating</span>, ",
+            "en": "<span class=\"ebt-matched\">moderation in eating</span>, ",
             "matched": true
           }
         },
@@ -261,7 +261,7 @@
           "dn14:3.28.12": {
             "scid": "dn14:3.28.12",
             "pli": "Mattaññutā ca bhattasmiṁ, ",
-            "en": "<span class=\"scv-matched\">moderation in eating</span>; ",
+            "en": "<span class=\"ebt-matched\">moderation in eating</span>; ",
             "matched": true
           }
         },
@@ -290,7 +290,7 @@
           "dn33:1.9.23": {
             "scid": "dn33:1.9.23",
             "pli": "Indriyesu guttadvāratā ca bhojane mattaññutā ca. ",
-            "en": "Guarding the sense doors and <span class=\"scv-matched\">moderation in eating</span>. ",
+            "en": "Guarding the sense doors and <span class=\"ebt-matched\">moderation in eating</span>. ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "an4.122:3.13": {
             "scid": "an4.122:3.13",
             "pli": "yampi no saddhā gahapatikā divā vikāle paṇītaṁ khādanīyaṁ vā bhojanīyaṁ vā denti, tatrapime mukhāvaraṇaṁ maññe karontī’ti. ",
-            "en": "And these <span class=\"scv-matched\">faithful householders</span> give us a variety of delicious foods at the wrong time of day. But these mendicants imagine they can gag our mouths!’ ",
+            "en": "And these <span class=\"ebt-matched\">faithful householders</span> give us a variety of delicious foods at the wrong time of day. But these mendicants imagine they can gag our mouths!’ ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "mn67:17.9": {
             "scid": "mn67:17.9",
             "pli": "Yampi no saddhā gahapatikā divā vikāle paṇītaṁ khādanīyaṁ bhojanīyaṁ denti tatthapime mukhāvaraṇaṁ maññe karontī’ti. ",
-            "en": "And these <span class=\"scv-matched\">faithful householders</span> give us a variety of delicious foods at the wrong time of day. But these mendicants imagine they can gag our mouths!’ ",
+            "en": "And these <span class=\"ebt-matched\">faithful householders</span> give us a variety of delicious foods at the wrong time of day. But these mendicants imagine they can gag our mouths!’ ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "mn66:6.8": {
             "scid": "mn66:6.8",
             "pli": "‘yampi no saddhā gahapatikā divā vikāle paṇītaṁ khādanīyaṁ bhojanīyaṁ denti tassapi no bhagavā pahānamāha, tassapi no sugato paṭinissaggamāhā’ti. ",
-            "en": "‘But these <span class=\"scv-matched\">faithful householders</span> give us a variety of delicious foods at the wrong time of day. And the Blessed One tells us to give it up! The Holy One tells us to let it go!’ ",
+            "en": "‘But these <span class=\"ebt-matched\">faithful householders</span> give us a variety of delicious foods at the wrong time of day. And the Blessed One tells us to give it up! The Holy One tells us to let it go!’ ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "an6.61:2.2": {
             "scid": "an6.61:2.2",
             "pli": "majjhe mantā na lippati; ",
-            "en": "and is not <span class=\"scv-matched\">stuck in the middle</span>. ",
+            "en": "and is not <span class=\"ebt-matched\">stuck in the middle</span>. ",
             "matched": true
           },
           "an6.61:11.2": {
             "scid": "an6.61:11.2",
             "pli": "majjhe mantā na lippati; ",
-            "en": "and is not <span class=\"scv-matched\">stuck in the middle</span>. ",
+            "en": "and is not <span class=\"ebt-matched\">stuck in the middle</span>. ",
             "matched": true
           }
         },

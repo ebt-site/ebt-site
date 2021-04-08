@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,7 +72,7 @@
           "sn35.140:1.1": {
             "scid": "sn35.140:1.1",
             "pli": "“Cakkhuṁ, bhikkhave, aniccaṁ. ",
-            "en": "“Mendicants, <span class=\"scv-matched\">the eye is impermanent</span>. ",
+            "en": "“Mendicants, <span class=\"ebt-matched\">the eye is impermanent</span>. ",
             "matched": true
           },
           "sn35.140:1.2": {
@@ -113,7 +113,7 @@
           "sn35.99:1.4": {
             "scid": "sn35.99:1.4",
             "pli": "‘Cakkhu aniccan’ti yathābhūtaṁ pajānāti; ",
-            "en": "They truly understand that <span class=\"scv-matched\">the eye is impermanent</span>. ",
+            "en": "They truly understand that <span class=\"ebt-matched\">the eye is impermanent</span>. ",
             "matched": true
           },
           "sn35.99:1.8": {
@@ -148,7 +148,7 @@
           "sn35.100:1.4": {
             "scid": "sn35.100:1.4",
             "pli": "‘Cakkhu aniccan’ti yathābhūtaṁ pajānāti; ",
-            "en": "They truly understand that <span class=\"scv-matched\">the eye is impermanent</span>. ",
+            "en": "They truly understand that <span class=\"ebt-matched\">the eye is impermanent</span>. ",
             "matched": true
           }
         },
@@ -177,7 +177,7 @@
           "sn25.1:1.2": {
             "scid": "sn25.1:1.2",
             "pli": "“Cakkhuṁ, bhikkhave, aniccaṁ vipariṇāmi aññathābhāvi; ",
-            "en": "“Mendicants, <span class=\"scv-matched\">the eye is impermanent</span>, perishing, and changing. ",
+            "en": "“Mendicants, <span class=\"ebt-matched\">the eye is impermanent</span>, perishing, and changing. ",
             "matched": true
           }
         },
@@ -206,7 +206,7 @@
           "sn35.13:1.11": {
             "scid": "sn35.13:1.11",
             "pli": "Yaṁ cakkhuṁ aniccaṁ dukkhaṁ vipariṇāmadhammaṁ, ayaṁ cakkhussa ādīnavo. ",
-            "en": "That <span class=\"scv-matched\">the eye is impermanent</span>, suffering, and perishable: this is its drawback. ",
+            "en": "That <span class=\"ebt-matched\">the eye is impermanent</span>, suffering, and perishable: this is its drawback. ",
             "matched": true
           }
         },
@@ -235,7 +235,7 @@
           "sn35.1:2.1": {
             "scid": "sn35.1:2.1",
             "pli": "“Cakkhuṁ, bhikkhave, aniccaṁ. ",
-            "en": "“Mendicants, <span class=\"scv-matched\">the eye is impermanent</span>. ",
+            "en": "“Mendicants, <span class=\"ebt-matched\">the eye is impermanent</span>. ",
             "matched": true
           }
         },
@@ -264,7 +264,7 @@
           "sn35.93:1.4": {
             "scid": "sn35.93:1.4",
             "pli": "Cakkhu aniccaṁ vipariṇāmi aññathābhāvi. ",
-            "en": "<span class=\"scv-matched\">The eye is impermanent</span>, perishing, and changing. ",
+            "en": "<span class=\"ebt-matched\">The eye is impermanent</span>, perishing, and changing. ",
             "matched": true
           }
         },

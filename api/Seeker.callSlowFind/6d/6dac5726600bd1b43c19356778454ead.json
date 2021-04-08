@@ -14,7 +14,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,85 +61,85 @@
           "an4.53:2.3": {
             "scid": "an4.53:2.3",
             "pli": "Chavo chavāya saddhiṁ saṁvasati, ",
-            "de": "Ein <span class=\"scv-matched\">Zombie</span>mann lebt mit einer <span class=\"scv-matched\">Zombie</span>frau; ",
-            "en": "A male <span class=\"scv-matched\">zombie</span> living with a female <span class=\"scv-matched\">zombie</span>; ",
+            "de": "Ein <span class=\"ebt-matched\">Zombie</span>mann lebt mit einer <span class=\"ebt-matched\">Zombie</span>frau; ",
+            "en": "A male <span class=\"ebt-matched\">zombie</span> living with a female <span class=\"ebt-matched\">zombie</span>; ",
             "matched": true
           },
           "an4.53:2.4": {
             "scid": "an4.53:2.4",
             "pli": "chavo deviyā saddhiṁ saṁvasati, ",
-            "de": "ein <span class=\"scv-matched\">Zombie</span>mann lebt mit einer Göttin; ",
-            "en": "a male <span class=\"scv-matched\">zombie</span> living with a goddess; ",
+            "de": "ein <span class=\"ebt-matched\">Zombie</span>mann lebt mit einer Göttin; ",
+            "en": "a male <span class=\"ebt-matched\">zombie</span> living with a goddess; ",
             "matched": true
           },
           "an4.53:2.5": {
             "scid": "an4.53:2.5",
             "pli": "devo chavāya saddhiṁ saṁvasati, ",
-            "de": "ein Gott lebt mit einer <span class=\"scv-matched\">Zombie</span>frau; ",
-            "en": "a god living with a female <span class=\"scv-matched\">zombie</span>; ",
+            "de": "ein Gott lebt mit einer <span class=\"ebt-matched\">Zombie</span>frau; ",
+            "en": "a god living with a female <span class=\"ebt-matched\">zombie</span>; ",
             "matched": true
           },
           "an4.53:3.1": {
             "scid": "an4.53:3.1",
             "pli": "Kathañca, gahapatayo, chavo chavāya saddhiṁ saṁvasati? ",
-            "de": "Und wie lebt ein <span class=\"scv-matched\">Zombie</span>mann mit einer <span class=\"scv-matched\">Zombie</span>frau? ",
-            "en": "And how does a male <span class=\"scv-matched\">zombie</span> live with a female <span class=\"scv-matched\">zombie</span>? ",
+            "de": "Und wie lebt ein <span class=\"ebt-matched\">Zombie</span>mann mit einer <span class=\"ebt-matched\">Zombie</span>frau? ",
+            "en": "And how does a male <span class=\"ebt-matched\">zombie</span> live with a female <span class=\"ebt-matched\">zombie</span>? ",
             "matched": true
           },
           "an4.53:3.4": {
             "scid": "an4.53:3.4",
             "pli": "Evaṁ kho, gahapatayo, chavo chavāya saddhiṁ saṁvasati. ",
-            "de": "So lebt ein <span class=\"scv-matched\">Zombie</span>mann mit einer <span class=\"scv-matched\">Zombie</span>frau. ",
-            "en": "That’s how a male <span class=\"scv-matched\">zombie</span> lives with a female <span class=\"scv-matched\">zombie</span>. ",
+            "de": "So lebt ein <span class=\"ebt-matched\">Zombie</span>mann mit einer <span class=\"ebt-matched\">Zombie</span>frau. ",
+            "en": "That’s how a male <span class=\"ebt-matched\">zombie</span> lives with a female <span class=\"ebt-matched\">zombie</span>. ",
             "matched": true
           },
           "an4.53:4.1": {
             "scid": "an4.53:4.1",
             "pli": "Kathañca, gahapatayo, chavo deviyā saddhiṁ saṁvasati? ",
-            "de": "Und wie lebt ein <span class=\"scv-matched\">Zombie</span>mann mit einer Göttin? ",
-            "en": "And how does a male <span class=\"scv-matched\">zombie</span> live with a goddess? ",
+            "de": "Und wie lebt ein <span class=\"ebt-matched\">Zombie</span>mann mit einer Göttin? ",
+            "en": "And how does a male <span class=\"ebt-matched\">zombie</span> live with a goddess? ",
             "matched": true
           },
           "an4.53:4.4": {
             "scid": "an4.53:4.4",
             "pli": "Evaṁ kho, gahapatayo, chavo deviyā saddhiṁ saṁvasati. ",
-            "de": "So lebt ein <span class=\"scv-matched\">Zombie</span>mann mit einer Göttin. ",
-            "en": "That’s how a male <span class=\"scv-matched\">zombie</span> lives with a goddess. ",
+            "de": "So lebt ein <span class=\"ebt-matched\">Zombie</span>mann mit einer Göttin. ",
+            "en": "That’s how a male <span class=\"ebt-matched\">zombie</span> lives with a goddess. ",
             "matched": true
           },
           "an4.53:5.1": {
             "scid": "an4.53:5.1",
             "pli": "Kathañca, gahapatayo, devo chavāya saddhiṁ saṁvasati? ",
-            "de": "Und wie lebt ein Gott mit einer <span class=\"scv-matched\">Zombie</span>frau? ",
-            "en": "And how does a god live with a female <span class=\"scv-matched\">zombie</span>? ",
+            "de": "Und wie lebt ein Gott mit einer <span class=\"ebt-matched\">Zombie</span>frau? ",
+            "en": "And how does a god live with a female <span class=\"ebt-matched\">zombie</span>? ",
             "matched": true
           },
           "an4.53:5.4": {
             "scid": "an4.53:5.4",
             "pli": "Evaṁ kho, gahapatayo, devo chavāya saddhiṁ saṁvasati. ",
-            "de": "So lebt ein Gott mit einer <span class=\"scv-matched\">Zombie</span>frau. ",
-            "en": "That’s how a god lives with a female <span class=\"scv-matched\">zombie</span>. ",
+            "de": "So lebt ein Gott mit einer <span class=\"ebt-matched\">Zombie</span>frau. ",
+            "en": "That’s how a god lives with a female <span class=\"ebt-matched\">zombie</span>. ",
             "matched": true
           },
           "an4.53:7.4": {
             "scid": "an4.53:7.4",
             "pli": "chavā saṁvāsamāgatā. ",
-            "de": "als <span class=\"scv-matched\">Zombie</span>s zusammen. ",
-            "en": "live together as <span class=\"scv-matched\">zombie</span>s. ",
+            "de": "als <span class=\"ebt-matched\">Zombie</span>s zusammen. ",
+            "en": "live together as <span class=\"ebt-matched\">zombie</span>s. ",
             "matched": true
           },
           "an4.53:8.6": {
             "scid": "an4.53:8.6",
             "pli": "chavena patinā saha. ",
-            "de": "die mit einem <span class=\"scv-matched\">Zombie</span> als Mann lebt. ",
-            "en": "with a <span class=\"scv-matched\">zombie</span> for a husband. ",
+            "de": "die mit einem <span class=\"ebt-matched\">Zombie</span> als Mann lebt. ",
+            "en": "with a <span class=\"ebt-matched\">zombie</span> for a husband. ",
             "matched": true
           },
           "an4.53:9.5": {
             "scid": "an4.53:9.5",
             "pli": "Sāpi chavā saṁvasati, ",
-            "de": "dann ist sie eine <span class=\"scv-matched\">Zombie</span>frau ",
-            "en": "she’s a <span class=\"scv-matched\">zombie</span> living ",
+            "de": "dann ist sie eine <span class=\"ebt-matched\">Zombie</span>frau ",
+            "en": "she’s a <span class=\"ebt-matched\">zombie</span> living ",
             "matched": true
           }
         },
@@ -170,64 +170,64 @@
           "an4.54:1.3": {
             "scid": "an4.54:1.3",
             "pli": "Chavo chavāya saddhiṁ saṁvasati, ",
-            "de": "Ein <span class=\"scv-matched\">Zombie</span>mann lebt mit einer <span class=\"scv-matched\">Zombie</span>frau; ",
-            "en": "A male <span class=\"scv-matched\">zombie</span> living with a female <span class=\"scv-matched\">zombie</span>; ",
+            "de": "Ein <span class=\"ebt-matched\">Zombie</span>mann lebt mit einer <span class=\"ebt-matched\">Zombie</span>frau; ",
+            "en": "A male <span class=\"ebt-matched\">zombie</span> living with a female <span class=\"ebt-matched\">zombie</span>; ",
             "matched": true
           },
           "an4.54:1.4": {
             "scid": "an4.54:1.4",
             "pli": "chavo deviyā saddhiṁ saṁvasati,",
-            "de": "ein <span class=\"scv-matched\">Zombie</span>mann lebt mit einer Göttin; ",
-            "en": "a male <span class=\"scv-matched\">zombie</span> living with a goddess; ",
+            "de": "ein <span class=\"ebt-matched\">Zombie</span>mann lebt mit einer Göttin; ",
+            "en": "a male <span class=\"ebt-matched\">zombie</span> living with a goddess; ",
             "matched": true
           },
           "an4.54:1.5": {
             "scid": "an4.54:1.5",
             "pli": "devo chavāya saddhiṁ saṁvasati, ",
-            "de": "ein Gott lebt mit einer <span class=\"scv-matched\">Zombie</span>frau; ",
-            "en": "a god living with a female <span class=\"scv-matched\">zombie</span>; ",
+            "de": "ein Gott lebt mit einer <span class=\"ebt-matched\">Zombie</span>frau; ",
+            "en": "a god living with a female <span class=\"ebt-matched\">zombie</span>; ",
             "matched": true
           },
           "an4.54:2.1": {
             "scid": "an4.54:2.1",
             "pli": "Kathañca, bhikkhave, chavo chavāya saddhiṁ saṁvasati. ",
-            "de": "Und wie lebt ein <span class=\"scv-matched\">Zombie</span>mann mit einer <span class=\"scv-matched\">Zombie</span>frau? ",
-            "en": "And how does a male <span class=\"scv-matched\">zombie</span> live with a female <span class=\"scv-matched\">zombie</span>? ",
+            "de": "Und wie lebt ein <span class=\"ebt-matched\">Zombie</span>mann mit einer <span class=\"ebt-matched\">Zombie</span>frau? ",
+            "en": "And how does a male <span class=\"ebt-matched\">zombie</span> live with a female <span class=\"ebt-matched\">zombie</span>? ",
             "matched": true
           },
           "an4.54:2.4": {
             "scid": "an4.54:2.4",
             "pli": "Evaṁ kho, bhikkhave, chavo chavāya saddhiṁ saṁvasati. ",
-            "de": "So lebt ein <span class=\"scv-matched\">Zombie</span>mann mit einer <span class=\"scv-matched\">Zombie</span>frau. ",
-            "en": "That’s how a male <span class=\"scv-matched\">zombie</span> lives with a female <span class=\"scv-matched\">zombie</span>. ",
+            "de": "So lebt ein <span class=\"ebt-matched\">Zombie</span>mann mit einer <span class=\"ebt-matched\">Zombie</span>frau. ",
+            "en": "That’s how a male <span class=\"ebt-matched\">zombie</span> lives with a female <span class=\"ebt-matched\">zombie</span>. ",
             "matched": true
           },
           "an4.54:3.1": {
             "scid": "an4.54:3.1",
             "pli": "Kathañca, bhikkhave, chavo deviyā saddhiṁ saṁvasati? ",
-            "de": "Und wie lebt ein <span class=\"scv-matched\">Zombie</span>mann mit einer Göttin? ",
-            "en": "And how does a male <span class=\"scv-matched\">zombie</span> live with a goddess? ",
+            "de": "Und wie lebt ein <span class=\"ebt-matched\">Zombie</span>mann mit einer Göttin? ",
+            "en": "And how does a male <span class=\"ebt-matched\">zombie</span> live with a goddess? ",
             "matched": true
           },
           "an4.54:3.4": {
             "scid": "an4.54:3.4",
             "pli": "Evaṁ kho, bhikkhave, chavo deviyā saddhiṁ saṁvasati. ",
-            "de": "So lebt ein <span class=\"scv-matched\">Zombie</span>mann mit einer Göttin. ",
-            "en": "That’s how a male <span class=\"scv-matched\">zombie</span> lives with a goddess. ",
+            "de": "So lebt ein <span class=\"ebt-matched\">Zombie</span>mann mit einer Göttin. ",
+            "en": "That’s how a male <span class=\"ebt-matched\">zombie</span> lives with a goddess. ",
             "matched": true
           },
           "an4.54:4.1": {
             "scid": "an4.54:4.1",
             "pli": "Kathañca, bhikkhave, devo chavāya saddhiṁ saṁvasati? ",
-            "de": "Und wie lebt ein Gott mit einer <span class=\"scv-matched\">Zombie</span>frau? ",
-            "en": "And how does a god live with a female <span class=\"scv-matched\">zombie</span>? ",
+            "de": "Und wie lebt ein Gott mit einer <span class=\"ebt-matched\">Zombie</span>frau? ",
+            "en": "And how does a god live with a female <span class=\"ebt-matched\">zombie</span>? ",
             "matched": true
           },
           "an4.54:4.4": {
             "scid": "an4.54:4.4",
             "pli": "Evaṁ kho, bhikkhave, devo chavāya saddhiṁ saṁvasati. ",
-            "de": "So lebt ein Gott mit einer <span class=\"scv-matched\">Zombie</span>frau. ",
-            "en": "That’s how a god lives with a female <span class=\"scv-matched\">zombie</span>. ",
+            "de": "So lebt ein Gott mit einer <span class=\"ebt-matched\">Zombie</span>frau. ",
+            "en": "That’s how a god lives with a female <span class=\"ebt-matched\">zombie</span>. ",
             "matched": true
           }
         },

@@ -1,17 +1,17 @@
 <template>
-  <scv-page-suttas>
-  </scv-page-suttas>
+  <ebt-page-suttas>
+  </ebt-page-suttas>
 </template>
 
 <script>
-import { ScvVue } from '../index';
+import { EbtVue } from '../index';
 let {
-  ScvPageSuttas,
-} = ScvVue;
+  EbtPageSuttas,
+} = EbtVue;
 
 export default {
   components: {
-    ScvPageSuttas,
+    EbtPageSuttas,
   },
 }
 </script>

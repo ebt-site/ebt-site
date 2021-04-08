@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,19 +60,19 @@
           "mn21:0.2": {
             "scid": "mn21:0.2",
             "pli": "Kakacūpamasutta ",
-            "en": "The <span class=\"scv-matched\">Simile of the Saw</span> ",
+            "en": "The <span class=\"ebt-matched\">Simile of the Saw</span> ",
             "matched": true
           },
           "mn21:21.1": {
             "scid": "mn21:21.1",
             "pli": "Imañca tumhe, bhikkhave, kakacūpamaṁ ovādaṁ abhikkhaṇaṁ manasi kareyyātha. ",
-            "en": "If you frequently reflect on this advice—the <span class=\"scv-matched\">simile of the saw</span>—",
+            "en": "If you frequently reflect on this advice—the <span class=\"ebt-matched\">simile of the saw</span>—",
             "matched": true
           },
           "mn21:21.4": {
             "scid": "mn21:21.4",
             "pli": "“Tasmātiha, bhikkhave, imaṁ kakacūpamaṁ ovādaṁ abhikkhaṇaṁ manasikarotha. ",
-            "en": "“So, mendicants, you should frequently reflect on this advice, the <span class=\"scv-matched\">simile of the saw</span>. ",
+            "en": "“So, mendicants, you should frequently reflect on this advice, the <span class=\"ebt-matched\">simile of the saw</span>. ",
             "matched": true
           }
         },
@@ -101,13 +101,13 @@
           "mn28:9.5": {
             "scid": "mn28:9.5",
             "pli": "Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde: ",
-            "en": "But the Buddha has said in the <span class=\"scv-matched\">Simile of the Saw</span>: ",
+            "en": "But the Buddha has said in the <span class=\"ebt-matched\">Simile of the Saw</span>: ",
             "matched": true
           },
           "mn28:24.3": {
             "scid": "mn28:24.3",
             "pli": "Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde “ubhatodaṇḍakena cepi, bhikkhave, kakacena corā ocarakā aṅgamaṅgāni okanteyyuṁ. Tatrāpi yo mano padūseyya, na me so tena sāsanakaro”ti. ",
-            "en": "But the Buddha has said in the <span class=\"scv-matched\">Simile of the Saw</span>: “Even if low-down bandits were to sever you limb from limb, anyone who had a thought of hate on that account would not be following my instructions.” ",
+            "en": "But the Buddha has said in the <span class=\"ebt-matched\">Simile of the Saw</span>: “Even if low-down bandits were to sever you limb from limb, anyone who had a thought of hate on that account would not be following my instructions.” ",
             "matched": true
           }
         },
@@ -136,7 +136,7 @@
           "thag6.12:5.2": {
             "scid": "thag6.12:5.2",
             "pli": "āvajja kakacūpamaṁ;",
-            "en": "reflect on the <span class=\"scv-matched\">simile of the saw</span>;",
+            "en": "reflect on the <span class=\"ebt-matched\">simile of the saw</span>;",
             "matched": true
           }
         },

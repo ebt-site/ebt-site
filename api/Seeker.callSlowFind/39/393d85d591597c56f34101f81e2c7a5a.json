@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -73,14 +73,14 @@
           "mn33:9.3": {
             "scid": "mn33:9.3",
             "pli": "‘idaṁ, bhante, kathaṁ? ",
-            "de": "‚Warum, Herr, <span class=\"scv-matched\">heißt es so</span>? ",
+            "de": "‚Warum, Herr, <span class=\"ebt-matched\">heißt es so</span>? ",
             "en": "‘Why, sir, does it say this? ",
             "matched": true
           },
           "mn33:22.3": {
             "scid": "mn33:22.3",
             "pli": "‘idaṁ, bhante, kathaṁ? ",
-            "de": "‚Warum, Herr, <span class=\"scv-matched\">heißt es so</span>? ",
+            "de": "‚Warum, Herr, <span class=\"ebt-matched\">heißt es so</span>? ",
             "en": "‘Why, sir, does it say this? ",
             "matched": true
           }
@@ -112,14 +112,14 @@
           "an2.47:1.7": {
             "scid": "an2.47:1.7",
             "pli": "‘idaṁ kathaṁ, imassa ko attho’ti? ",
-            "de": "‚Warum <span class=\"scv-matched\">heißt es so</span>? Was bedeutet das?‘ ",
+            "de": "‚Warum <span class=\"ebt-matched\">heißt es so</span>? Was bedeutet das?‘ ",
             "en": "‘Why does it say this? What does that mean?’ ",
             "matched": true
           },
           "an2.47:2.5": {
             "scid": "an2.47:2.5",
             "pli": "‘idaṁ kathaṁ, imassa ko attho’ti? ",
-            "de": "‚Warum <span class=\"scv-matched\">heißt es so</span>? Was bedeutet das?‘ ",
+            "de": "‚Warum <span class=\"ebt-matched\">heißt es so</span>? Was bedeutet das?‘ ",
             "en": "‘Why does it say this? What does that mean?’ ",
             "matched": true
           }
@@ -151,7 +151,7 @@
           "an6.51:3.6": {
             "scid": "an6.51:3.6",
             "pli": "‘idaṁ, bhante, kathaṁ; imassa kvattho’ti? ",
-            "de": "‚Warum, Herr, <span class=\"scv-matched\">heißt es so</span>? Was bedeutet das?‘ ",
+            "de": "‚Warum, Herr, <span class=\"ebt-matched\">heißt es so</span>? Was bedeutet das?‘ ",
             "en": "‘Why, sir, does it say this? What does that mean?’ ",
             "matched": true
           }
@@ -183,7 +183,7 @@
           "an3.20:6.3": {
             "scid": "an3.20:6.3",
             "pli": "‘idaṁ, bhante, kathaṁ, imassa ko attho’ti? ",
-            "de": "‚Warum, Herr, <span class=\"scv-matched\">heißt es so</span>? Was bedeutet das?‘ ",
+            "de": "‚Warum, Herr, <span class=\"ebt-matched\">heißt es so</span>? Was bedeutet das?‘ ",
             "en": "‘Why, sir, does it say this? What does that mean?’ ",
             "matched": true
           }
@@ -215,7 +215,7 @@
           "dn34:2.1.8": {
             "scid": "dn34:2.1.8",
             "pli": "‘idaṁ, bhante, kathaṁ? ",
-            "de": "‚Warum, Herr, <span class=\"scv-matched\">heißt es so</span>? ",
+            "de": "‚Warum, Herr, <span class=\"ebt-matched\">heißt es so</span>? ",
             "en": "‘Why, sir, does it say this? ",
             "matched": true
           }

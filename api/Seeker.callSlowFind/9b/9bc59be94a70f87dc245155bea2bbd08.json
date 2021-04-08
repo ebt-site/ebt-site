@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an5.193:3.2": {
             "scid": "an5.193:3.2",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto agginā santatto ukkudhito ussadakajāto. ",
-            "de": "Wie eine Schale mit <span class=\"scv-matched\">Wasser, das auf dem Feuer erhitzt wurde</span>, das kocht und brodelt: ",
+            "de": "Wie eine Schale mit <span class=\"ebt-matched\">Wasser, das auf dem Feuer erhitzt wurde</span>, das kocht und brodelt: ",
             "en": "Suppose there was a bowl of water that was heated by fire, boiling and bubbling. ",
             "matched": true
           },
@@ -100,7 +100,7 @@
           "sn46.55:6.1": {
             "scid": "sn46.55:6.1",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto agginā santatto pakkuthito usmudakajāto. ",
-            "de": "Wie eine Schale mit <span class=\"scv-matched\">Wasser, das auf dem Feuer erhitzt wurde</span>, das kocht und brodelt: ",
+            "de": "Wie eine Schale mit <span class=\"ebt-matched\">Wasser, das auf dem Feuer erhitzt wurde</span>, das kocht und brodelt: ",
             "en": "Suppose there was a bowl of water that was heated by fire, boiling and bubbling. ",
             "matched": true
           },

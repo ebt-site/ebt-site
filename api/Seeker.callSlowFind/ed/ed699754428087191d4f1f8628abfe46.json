@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -69,7 +69,7 @@
           "sn12.10:2.2": {
             "scid": "sn12.10:2.2",
             "pli": "‘kimhi nu kho sati jarāmaraṇaṁ hoti, kiṁpaccayā jarāmaraṇan’ti? ",
-            "de": "‚Wenn was besteht, gibt es Alter und Tod? <span class=\"scv-matched\">Was ist eine Bedingung für Alter und Tod</span>?‘ ",
+            "de": "‚Wenn was besteht, gibt es Alter und Tod? <span class=\"ebt-matched\">Was ist eine Bedingung für Alter und Tod</span>?‘ ",
             "en": "‘When what exists is there old age and death? What is a condition for old age and death?’ ",
             "matched": true
           }
@@ -101,7 +101,7 @@
           "sn12.4:2.2": {
             "scid": "sn12.4:2.2",
             "pli": "‘kimhi nu kho sati jarāmaraṇaṁ hoti, kiṁpaccayā jarāmaraṇan’ti? ",
-            "de": "‚Wenn was besteht, gibt es Alter und Tod? <span class=\"scv-matched\">Was ist eine Bedingung für Alter und Tod</span>?‘ ",
+            "de": "‚Wenn was besteht, gibt es Alter und Tod? <span class=\"ebt-matched\">Was ist eine Bedingung für Alter und Tod</span>?‘ ",
             "en": "‘When what exists is there old age and death? What is a condition for old age and death?’ ",
             "matched": true
           }
@@ -133,7 +133,7 @@
           "dn15:2.2": {
             "scid": "dn15:2.2",
             "pli": "‘Kiṁpaccayā jarāmaraṇan’ti iti ce vadeyya, ‘jātipaccayā jarāmaraṇan’ti iccassa vacanīyaṁ. ",
-            "de": "Wenn gesagt wird: ‚<span class=\"scv-matched\">Was ist eine Bedingung für Alter und Tod</span>?‘, solltest du antworten: ‚Wiedergeburt ist eine Bedingung für Alter und Tod‘. ",
+            "de": "Wenn gesagt wird: ‚<span class=\"ebt-matched\">Was ist eine Bedingung für Alter und Tod</span>?‘, solltest du antworten: ‚Wiedergeburt ist eine Bedingung für Alter und Tod‘. ",
             "en": "If they say, ‘What is a condition for old age and death?’ you should answer, ‘Rebirth is a condition for old age and death.’ ",
             "matched": true
           }
@@ -165,7 +165,7 @@
           "dn14:2.18.5": {
             "scid": "dn14:2.18.5",
             "pli": "‘kimhi nu kho sati jarāmaraṇaṁ hoti, kiṁpaccayā jarāmaraṇan’ti? ",
-            "de": "‚Wenn was besteht, gibt es Alter und Tod? <span class=\"scv-matched\">Was ist eine Bedingung für Alter und Tod</span>?‘ ",
+            "de": "‚Wenn was besteht, gibt es Alter und Tod? <span class=\"ebt-matched\">Was ist eine Bedingung für Alter und Tod</span>?‘ ",
             "en": "‘When what exists is there old age and death? What is a condition for old age and death?’ ",
             "matched": true
           }

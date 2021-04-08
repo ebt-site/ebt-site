@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an6.30:4.2": {
             "scid": "an6.30:4.2",
             "pli": "Idha, bhikkhave, ekacco puttalābhampi labhati, dāralābhampi labhati, dhanalābhampi labhati, uccāvacaṁ vā pana lābhaṁ labhati, samaṇe vā brāhmaṇe vā micchādiṭṭhike micchāpaṭipanne saddhaṁ paṭilabhati. ",
-            "en": "Some people acquire a child, a wife, wealth, or a diverse spectrum of things; or they <span class=\"scv-matched\">acquire faith</span> in an ascetic or brahmin of wrong view and wrong practice. ",
+            "en": "Some people acquire a child, a wife, wealth, or a diverse spectrum of things; or they <span class=\"ebt-matched\">acquire faith</span> in an ascetic or brahmin of wrong view and wrong practice. ",
             "matched": true
           },
           "an6.30:4.5": {

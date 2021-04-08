@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,14 +61,14 @@
           "an3.86:2.1": {
             "scid": "an3.86:2.1",
             "pli": "Idha, bhikkhave, bhikkhu sīlesu paripūrakārī hoti samādhismiṁ mattaso kārī paññāya mattaso kārī. ",
-            "de": "Nehmen wir an, ein Mönch hat seine Ethik erfüllt und besitzt <span class=\"scv-matched\">begrenzte Versenkung und Weisheit</span>. ",
+            "de": "Nehmen wir an, ein Mönch hat seine Ethik erfüllt und besitzt <span class=\"ebt-matched\">begrenzte Versenkung und Weisheit</span>. ",
             "en": "Take the case of a mendicant who has fulfilled their ethics, but has limited immersion and wisdom. ",
             "matched": true
           },
           "an3.86:3.1": {
             "scid": "an3.86:3.1",
             "pli": "Idha pana, bhikkhave, bhikkhu sīlesu paripūrakārī hoti samādhismiṁ mattaso kārī paññāya mattaso kārī. ",
-            "de": "Nehmen wir weiter an, eine Nonne hat ihre Ethik erfüllt und besitzt <span class=\"scv-matched\">begrenzte Versenkung und Weisheit</span>. ",
+            "de": "Nehmen wir weiter an, eine Nonne hat ihre Ethik erfüllt und besitzt <span class=\"ebt-matched\">begrenzte Versenkung und Weisheit</span>. ",
             "en": "Take another case of a mendicant who has fulfilled their ethics, but has limited immersion and wisdom. ",
             "matched": true
           },
@@ -107,7 +107,7 @@
           "an3.87:2.1": {
             "scid": "an3.87:2.1",
             "pli": "Idha, bhikkhave, bhikkhu sīlesu paripūrakārī hoti samādhismiṁ mattaso kārī paññāya mattaso kārī. ",
-            "de": "Nehmen wir an, ein Mönch hat seine Ethik erfüllt und besitzt <span class=\"scv-matched\">begrenzte Versenkung und Weisheit</span>. ",
+            "de": "Nehmen wir an, ein Mönch hat seine Ethik erfüllt und besitzt <span class=\"ebt-matched\">begrenzte Versenkung und Weisheit</span>. ",
             "en": "Take the case of a mendicant who has fulfilled their ethics, but has limited immersion and wisdom. ",
             "matched": true
           },

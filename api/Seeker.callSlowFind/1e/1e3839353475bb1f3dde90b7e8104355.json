@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -75,49 +75,49 @@
           "an1.485:1.1": {
             "scid": "an1.485:1.1",
             "pli": "Buddhānussatiṁ bhāveti … ",
-            "en": "They develop <span class=\"scv-matched\">the recollection of</span> the Buddha … ",
+            "en": "They develop <span class=\"ebt-matched\">the recollection of</span> the Buddha … ",
             "matched": true
           },
           "an1.486:1.1": {
             "scid": "an1.486:1.1",
             "pli": "dhammānussatiṁ bhāveti … ",
-            "en": "<span class=\"scv-matched\">the recollection of</span> the teaching … ",
+            "en": "<span class=\"ebt-matched\">the recollection of</span> the teaching … ",
             "matched": true
           },
           "an1.487:1.1": {
             "scid": "an1.487:1.1",
             "pli": "saṅghānussatiṁ bhāveti … ",
-            "en": "<span class=\"scv-matched\">the recollection of</span> the Saṅgha … ",
+            "en": "<span class=\"ebt-matched\">the recollection of</span> the Saṅgha … ",
             "matched": true
           },
           "an1.488:1.1": {
             "scid": "an1.488:1.1",
             "pli": "sīlānussatiṁ bhāveti … ",
-            "en": "<span class=\"scv-matched\">the recollection of</span> ethical conduct … ",
+            "en": "<span class=\"ebt-matched\">the recollection of</span> ethical conduct … ",
             "matched": true
           },
           "an1.489:1.1": {
             "scid": "an1.489:1.1",
             "pli": "cāgānussatiṁ bhāveti … ",
-            "en": "<span class=\"scv-matched\">the recollection of</span> generosity … ",
+            "en": "<span class=\"ebt-matched\">the recollection of</span> generosity … ",
             "matched": true
           },
           "an1.490:1.1": {
             "scid": "an1.490:1.1",
             "pli": "devatānussatiṁ bhāveti … ",
-            "en": "<span class=\"scv-matched\">the recollection of</span> the deities … ",
+            "en": "<span class=\"ebt-matched\">the recollection of</span> the deities … ",
             "matched": true
           },
           "an1.492:1.1": {
             "scid": "an1.492:1.1",
             "pli": "maraṇassatiṁ bhāveti … ",
-            "en": "<span class=\"scv-matched\">the recollection of</span> death … ",
+            "en": "<span class=\"ebt-matched\">the recollection of</span> death … ",
             "matched": true
           },
           "an1.494:1.1": {
             "scid": "an1.494:1.1",
             "pli": "upasamānussatiṁ bhāveti …. ",
-            "en": "<span class=\"scv-matched\">the recollection of</span> peace … ",
+            "en": "<span class=\"ebt-matched\">the recollection of</span> peace … ",
             "matched": true
           }
         },
@@ -146,37 +146,37 @@
           "an6.10:2.9": {
             "scid": "an6.10:2.9",
             "pli": "‘ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotaṁ samāpanno buddhānussatiṁ bhāveti’. ",
-            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop <span class=\"scv-matched\">the recollection of</span> the Buddha. ",
+            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop <span class=\"ebt-matched\">the recollection of</span> the Buddha. ",
             "matched": true
           },
           "an6.10:3.8": {
             "scid": "an6.10:3.8",
             "pli": "‘ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotaṁ samāpanno dhammānussatiṁ bhāveti’. ",
-            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop <span class=\"scv-matched\">the recollection of</span> the teaching. ",
+            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop <span class=\"ebt-matched\">the recollection of</span> the teaching. ",
             "matched": true
           },
           "an6.10:4.8": {
             "scid": "an6.10:4.8",
             "pli": "‘ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotaṁ samāpanno saṅghānussatiṁ bhāveti’. ",
-            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop <span class=\"scv-matched\">the recollection of</span> the Saṅgha. ",
+            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop <span class=\"ebt-matched\">the recollection of</span> the Saṅgha. ",
             "matched": true
           },
           "an6.10:5.7": {
             "scid": "an6.10:5.7",
             "pli": "‘ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotaṁ samāpanno sīlānussatiṁ bhāveti’. ",
-            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop <span class=\"scv-matched\">the recollection of</span> ethics. ",
+            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop <span class=\"ebt-matched\">the recollection of</span> ethics. ",
             "matched": true
           },
           "an6.10:6.9": {
             "scid": "an6.10:6.9",
             "pli": "‘ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotaṁ samāpanno cāgānussatiṁ bhāveti’. ",
-            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop <span class=\"scv-matched\">the recollection of</span> generosity. ",
+            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop <span class=\"ebt-matched\">the recollection of</span> generosity. ",
             "matched": true
           },
           "an6.10:7.13": {
             "scid": "an6.10:7.13",
             "pli": "‘ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotaṁ samāpanno devatānussatiṁ bhāveti’. ",
-            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop <span class=\"scv-matched\">the recollection of</span> the deities. ",
+            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop <span class=\"ebt-matched\">the recollection of</span> the deities. ",
             "matched": true
           }
         },
@@ -205,37 +205,37 @@
           "an11.11:3.16": {
             "scid": "an11.11:3.16",
             "pli": "Ayaṁ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno buddhānussatiṁ bhāveti. ",
-            "en": "This is called a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and developed <span class=\"scv-matched\">the recollection of</span> the Buddha. ",
+            "en": "This is called a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and developed <span class=\"ebt-matched\">the recollection of</span> the Buddha. ",
             "matched": true
           },
           "an11.11:4.7": {
             "scid": "an11.11:4.7",
             "pli": "Ayaṁ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno dhammānussatiṁ bhāveti. ",
-            "en": "This is called a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and developed <span class=\"scv-matched\">the recollection of</span> the teaching. ",
+            "en": "This is called a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and developed <span class=\"ebt-matched\">the recollection of</span> the teaching. ",
             "matched": true
           },
           "an11.11:5.7": {
             "scid": "an11.11:5.7",
             "pli": "Ayaṁ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno saṅghānussatiṁ bhāveti. ",
-            "en": "This is called a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and developed <span class=\"scv-matched\">the recollection of</span> the Saṅgha. ",
+            "en": "This is called a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and developed <span class=\"ebt-matched\">the recollection of</span> the Saṅgha. ",
             "matched": true
           },
           "an11.11:6.6": {
             "scid": "an11.11:6.6",
             "pli": "Ayaṁ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno sīlānussatiṁ bhāveti. ",
-            "en": "This is called a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and developed <span class=\"scv-matched\">the recollection of</span> their ethical conduct. ",
+            "en": "This is called a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and developed <span class=\"ebt-matched\">the recollection of</span> their ethical conduct. ",
             "matched": true
           },
           "an11.11:7.8": {
             "scid": "an11.11:7.8",
             "pli": "Ayaṁ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno cāgānussatiṁ bhāveti. ",
-            "en": "This is called a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and developed <span class=\"scv-matched\">the recollection of</span> generosity. ",
+            "en": "This is called a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and developed <span class=\"ebt-matched\">the recollection of</span> generosity. ",
             "matched": true
           },
           "an11.11:8.12": {
             "scid": "an11.11:8.12",
             "pli": "Ayaṁ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno devatānussatiṁ bhāvetī”ti. ",
-            "en": "This is called a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and developed <span class=\"scv-matched\">the recollection of</span> the deities.” ",
+            "en": "This is called a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and developed <span class=\"ebt-matched\">the recollection of</span> the deities.” ",
             "matched": true
           }
         },
@@ -270,7 +270,7 @@
           "dn33:2.2.115": {
             "scid": "dn33:2.2.115",
             "pli": "buddhānussati, dhammānussati, saṅghānussati, sīlānussati, cāgānussati, devatānussati. ",
-            "en": "<span class=\"scv-matched\">the recollection of</span> the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. ",
+            "en": "<span class=\"ebt-matched\">the recollection of</span> the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. ",
             "matched": true
           },
           "dn33:2.3.50": {
@@ -311,7 +311,7 @@
           "an6.64:13.4": {
             "scid": "an6.64:13.4",
             "pli": "Yampidaṁ pubbenivāsānussatiṁ yathābhūtaṁ ñāṇaṁ tampi samāhitassa vadāmi no asamāhitassa. ",
-            "en": "And true knowledge of <span class=\"scv-matched\">the recollection of</span> past lives is for those with immersion, not for those without immersion. ",
+            "en": "And true knowledge of <span class=\"ebt-matched\">the recollection of</span> past lives is for those with immersion, not for those without immersion. ",
             "matched": true
           }
         },
@@ -346,7 +346,7 @@
           "dn34:1.7.15": {
             "scid": "dn34:1.7.15",
             "pli": "buddhānussati, dhammānussati, saṅghānussati, sīlānussati, cāgānussati, devatānussati. ",
-            "en": "<span class=\"scv-matched\">the recollection of</span> the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. ",
+            "en": "<span class=\"ebt-matched\">the recollection of</span> the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. ",
             "matched": true
           }
         },
@@ -375,7 +375,7 @@
           "an6.141:1.3": {
             "scid": "an6.141:1.3",
             "pli": "Buddhānussati, dhammānussati, saṅghānussati, sīlānussati, cāgānussati, devatānussati. ",
-            "en": "<span class=\"scv-matched\">The recollection of</span> the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. ",
+            "en": "<span class=\"ebt-matched\">The recollection of</span> the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. ",
             "matched": true
           }
         },
@@ -404,7 +404,7 @@
           "an6.9:1.3": {
             "scid": "an6.9:1.3",
             "pli": "Buddhānussati, dhammānussati, saṅghānussati, sīlānussati, cāgānussati, devatānussati. ",
-            "en": "<span class=\"scv-matched\">The recollection of</span> the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. ",
+            "en": "<span class=\"ebt-matched\">The recollection of</span> the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. ",
             "matched": true
           }
         },

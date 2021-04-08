@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,19 +54,19 @@
           "sn42.11:2.16": {
             "scid": "sn42.11:2.16",
             "pli": "‘yaṁ kiñci dukkhaṁ uppajjamānaṁ uppajjati, sabbaṁ taṁ chandamūlakaṁ chandanidānaṁ. ",
-            "en": "‘<span class=\"scv-matched\">All the suffering that arises</span> is rooted and sourced in desire. ",
+            "en": "‘<span class=\"ebt-matched\">All the suffering that arises</span> is rooted and sourced in desire. ",
             "matched": true
           },
           "sn42.11:3.5": {
             "scid": "sn42.11:3.5",
             "pli": "‘yaṁ kiñci dukkhaṁ uppajjamānaṁ uppajjati, sabbaṁ taṁ chandamūlakaṁ chandanidānaṁ. ",
-            "en": "‘<span class=\"scv-matched\">All the suffering that arises</span> is rooted and sourced in desire. ",
+            "en": "‘<span class=\"ebt-matched\">All the suffering that arises</span> is rooted and sourced in desire. ",
             "matched": true
           },
           "sn42.11:5.5": {
             "scid": "sn42.11:5.5",
             "pli": "‘yaṁ kiñci dukkhaṁ uppajjamānaṁ uppajjati, sabbaṁ taṁ chandamūlakaṁ chandanidānaṁ. ",
-            "en": "‘<span class=\"scv-matched\">All the suffering that arises</span> is rooted and sourced in desire. ",
+            "en": "‘<span class=\"ebt-matched\">All the suffering that arises</span> is rooted and sourced in desire. ",
             "matched": true
           }
         },

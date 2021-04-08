@@ -11,19 +11,19 @@ mkdir -p pages/$CHANNEL
 SLUGFILE=pages/$CHANNEL/_slug.vue 
 cat > $SLUGFILE << SLUG
 <template>
-  <scv-article :article="article">
+  <ebt-article :article="article">
     <nuxt-content :document="article" />
-  </scv-article>
+  </ebt-article>
 </template>
 <script>
-  import { ScvVue } from 'ebt-vue';
-  const { ScvArticle } = ScvVue;
+  import { EbtVue } from 'ebt-vue';
+  const { EbtArticle } = EbtVue;
   export default {
     async asyncData({ \$content, params }) {
       const article = await \$content('$CHANNEL', params.slug).fetch()
       return { article }
     },
-    components: { ScvArticle, },
+    components: { EbtArticle, },
   }
 </script>
 SLUG

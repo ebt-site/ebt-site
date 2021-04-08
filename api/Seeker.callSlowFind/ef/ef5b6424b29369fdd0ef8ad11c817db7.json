@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "thag3.3:1.3": {
             "scid": "thag3.3:1.3",
             "pli": "Sukhā so dhaṁsate ṭhānā,",
-            "en": "has lost the <span class=\"scv-matched\">causes for happiness</span>,",
+            "en": "has lost the <span class=\"ebt-matched\">causes for happiness</span>,",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "thag3.15:1.3": {
             "scid": "thag3.15:1.3",
             "pli": "Sukhā so dhaṁsate ṭhānā,",
-            "en": "has lost the <span class=\"scv-matched\">causes for happiness</span>,",
+            "en": "has lost the <span class=\"ebt-matched\">causes for happiness</span>,",
             "matched": true
           }
         },

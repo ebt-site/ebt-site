@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -63,7 +63,7 @@
           "an2.19:2.2": {
             "scid": "an2.19:2.2",
             "pli": "Sakkā, bhikkhave, kusalaṁ bhāvetuṁ. ",
-            "de": "Es ist <span class=\"scv-matched\">möglich</span>, das Taugliche <span class=\"scv-matched\">zu</span> <span class=\"scv-matched\">entwickeln</span>. ",
+            "de": "Es ist <span class=\"ebt-matched\">möglich</span>, das Taugliche <span class=\"ebt-matched\">zu</span> <span class=\"ebt-matched\">entwickeln</span>. ",
             "en": "It is possible to develop the skillful. ",
             "matched": true
           }

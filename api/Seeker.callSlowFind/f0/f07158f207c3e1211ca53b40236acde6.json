@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,19 +54,19 @@
           "mn150:2.1": {
             "scid": "mn150:2.1",
             "pli": "Assosuṁ kho nagaravindeyyakā brāhmaṇagahapatikā: ",
-            "en": "The brahmins and <span class=\"scv-matched\">householders of Nagaravinda</span> heard, ",
+            "en": "The brahmins and <span class=\"ebt-matched\">householders of Nagaravinda</span> heard, ",
             "matched": true
           },
           "mn150:3.1": {
             "scid": "mn150:3.1",
             "pli": "Atha kho nagaravindeyyakā brāhmaṇagahapatikā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā appekacce bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Appekacce bhagavatā saddhiṁ sammodiṁsu; sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Appekacce yena bhagavā tenañjaliṁ paṇāmetvā ekamantaṁ nisīdiṁsu. Appekacce bhagavato santike nāmagottaṁ sāvetvā ekamantaṁ nisīdiṁsu. Appekacce tuṇhībhūtā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinne kho nagaravindeyyake brāhmaṇagahapatike bhagavā etadavoca: ",
-            "en": "Then the brahmins and <span class=\"scv-matched\">householders of Nagaravinda</span> went up to the Buddha. Before sitting down to one side, some bowed, some exchanged greetings and polite conversation, some held up their joined palms toward the Buddha, some announced their name and clan, while some kept silent. The Buddha said to them: ",
+            "en": "Then the brahmins and <span class=\"ebt-matched\">householders of Nagaravinda</span> went up to the Buddha. Before sitting down to one side, some bowed, some exchanged greetings and polite conversation, some held up their joined palms toward the Buddha, some announced their name and clan, while some kept silent. The Buddha said to them: ",
             "matched": true
           },
           "mn150:7.1": {
             "scid": "mn150:7.1",
             "pli": "Evaṁ vutte, nagaravindeyyakā brāhmaṇagahapatikā bhagavantaṁ etadavocuṁ: ",
-            "en": "When he had spoken, the brahmins and <span class=\"scv-matched\">householders of Nagaravinda</span> said to the Buddha, ",
+            "en": "When he had spoken, the brahmins and <span class=\"ebt-matched\">householders of Nagaravinda</span> said to the Buddha, ",
             "matched": true
           }
         },

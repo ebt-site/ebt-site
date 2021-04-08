@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an10.110:2.7": {
             "scid": "an10.110:2.7",
             "pli": "sammāsamādhissa, bhikkhave, micchāsamādhi niddhanto hoti … ",
-            "en": "For one of right immersion, <span class=\"scv-matched\">wrong immersion is blown away</span>. … ",
+            "en": "For one of right immersion, <span class=\"ebt-matched\">wrong immersion is blown away</span>. … ",
             "matched": true
           }
         },

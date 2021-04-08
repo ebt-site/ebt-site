@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -69,14 +69,14 @@
           "an10.61:4.1": {
             "scid": "an10.61:4.1",
             "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante (…) taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti. Kusobbhā paripūrā mahāsobbhe paripūrenti, mahāsobbhā paripūrā kunnadiyo paripūrenti, kunnadiyo paripūrā mahānadiyo paripūrenti, mahānadiyo paripūrā mahāsamuddaṁ sāgaraṁ paripūrenti; ",
-            "de": "Es ist, <span class=\"scv-matched\">wie wenn es auf einem Berggipfel stark regnet</span>, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer. ",
+            "de": "Es ist, <span class=\"ebt-matched\">wie wenn es auf einem Berggipfel stark regnet</span>, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer. ",
             "en": "It’s like when the rain pours down on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The pools fill up the lakes, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
             "matched": true
           },
           "an10.61:8.1": {
             "scid": "an10.61:8.1",
             "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti, kusobbhā paripūrā mahāsobbhe paripūrenti, mahāsobbhā paripūrā kunnadiyo paripūrenti, kunnadiyo paripūrā mahānadiyo paripūrenti, mahānadiyo paripūrā mahāsamuddaṁ sāgaraṁ paripūrenti; ",
-            "de": "Es ist, <span class=\"scv-matched\">wie wenn es auf einem Berggipfel stark regnet</span>, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer. ",
+            "de": "Es ist, <span class=\"ebt-matched\">wie wenn es auf einem Berggipfel stark regnet</span>, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer. ",
             "en": "It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The pools fill up the lakes, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
             "matched": true
           }
@@ -108,7 +108,7 @@
           "an4.147:2.1": {
             "scid": "an4.147:2.1",
             "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti; pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti; kusobbhā paripūrā mahāsobbhe paripūrenti; mahāsobbhā paripūrā kunnadiyo paripūrenti; kunnadiyo paripūrā mahānadiyo paripūrenti; mahānadiyo paripūrā samuddaṁ paripūrenti. ",
-            "de": "Es ist, <span class=\"scv-matched\">wie wenn es auf einem Berggipfel stark regnet</span>, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer. ",
+            "de": "Es ist, <span class=\"ebt-matched\">wie wenn es auf einem Berggipfel stark regnet</span>, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer. ",
             "en": "It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The pools fill up the lakes, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
             "matched": true
           }
@@ -140,7 +140,7 @@
           "an3.95:6.1": {
             "scid": "an3.95:6.1",
             "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti, kusobbhā paripūrā mahāsobbhe paripūrenti, mahāsobbhā paripūrā kunnadiyo paripūrenti, kunnadiyo paripūrā mahānadiyo paripūrenti, mahānadiyo paripūrā samuddaṁ paripūrenti. ",
-            "de": "Es ist, <span class=\"scv-matched\">wie wenn es auf einem Berggipfel stark regnet</span>, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer. ",
+            "de": "Es ist, <span class=\"ebt-matched\">wie wenn es auf einem Berggipfel stark regnet</span>, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer. ",
             "en": "It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The pools fill up the lakes, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
             "matched": true
           }
@@ -172,7 +172,7 @@
           "sn12.23:7.1": {
             "scid": "sn12.23:7.1",
             "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti. Pabbatakandarapadarasākhāparipūrā kusobbhe paripūrenti. Kusobbhā paripūrā mahāsobbhe paripūrenti. Mahāsobbhā paripūrā kunnadiyo paripūrenti. Kunnadiyo paripūrā mahānadiyo paripūrenti. Mahānadiyo paripūrā mahāsamuddaṁ paripūrenti. ",
-            "de": "Es ist, <span class=\"scv-matched\">wie wenn es auf einem Berggipfel stark regnet</span>, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer. ",
+            "de": "Es ist, <span class=\"ebt-matched\">wie wenn es auf einem Berggipfel stark regnet</span>, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer. ",
             "en": "It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The pools fill up the lakes, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
             "matched": true
           }

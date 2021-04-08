@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -63,7 +63,7 @@
           "sn6.1:5.2": {
             "scid": "sn6.1:5.2",
             "pli": "“nassati vata bho loko, vinassati vata bho loko, yatra hi nāma tathāgatassa arahato sammāsambuddhassa appossukkatāya cittaṁ namati, no dhammadesanāyā”ti. ",
-            "en": "“<span class=\"scv-matched\">Oh my goodness</span>! The world will be lost, the world will perish! For the mind of the Realized One, the perfected one, the fully awakened Buddha, inclines to remaining passive, not to teaching the Dhamma.” ",
+            "en": "“<span class=\"ebt-matched\">Oh my goodness</span>! The world will be lost, the world will perish! For the mind of the Realized One, the perfected one, the fully awakened Buddha, inclines to remaining passive, not to teaching the Dhamma.” ",
             "matched": true
           }
         },
@@ -92,7 +92,7 @@
           "mn26:20.2": {
             "scid": "mn26:20.2",
             "pli": "‘nassati vata bho loko, vinassati vata bho loko, yatra hi nāma tathāgatassa arahato sammāsambuddhassa appossukkatāya cittaṁ namati, no dhammadesanāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">Oh my goodness</span>! The world will be lost, the world will perish! For the mind of the Realized One, the perfected one, the fully awakened Buddha, inclines to remaining passive, not to teaching the Dhamma.’ ",
+            "en": "‘<span class=\"ebt-matched\">Oh my goodness</span>! The world will be lost, the world will perish! For the mind of the Realized One, the perfected one, the fully awakened Buddha, inclines to remaining passive, not to teaching the Dhamma.’ ",
             "matched": true
           }
         },
@@ -121,7 +121,7 @@
           "mn85:44.2": {
             "scid": "mn85:44.2",
             "pli": "‘nassati vata bho loko; vinassati vata bho loko. Yatra hi nāma tathāgatassa arahato sammāsambuddhassa appossukkatāya cittaṁ namati no dhammadesanāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">Oh my goodness</span>! The world will be lost, the world will perish! For the mind of the Realized One, the perfected one, the fully awakened Buddha, inclines to remaining passive, not to teaching the Dhamma.’ ",
+            "en": "‘<span class=\"ebt-matched\">Oh my goodness</span>! The world will be lost, the world will perish! For the mind of the Realized One, the perfected one, the fully awakened Buddha, inclines to remaining passive, not to teaching the Dhamma.’ ",
             "matched": true
           }
         },
@@ -150,7 +150,7 @@
           "dn14:3.2.12": {
             "scid": "dn14:3.2.12",
             "pli": "‘nassati vata bho loko, vinassati vata bho loko, yatra hi nāma vipassissa bhagavato arahato sammāsambuddhassa appossukkatāya cittaṁ namati, no dhammadesanāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">Oh my goodness</span>! The world will be lost, the world will perish! For the mind of the Blessed One Vipassī, the perfected one, the fully awakened Buddha, inclines to remaining passive, not to teaching the Dhamma.’ ",
+            "en": "‘<span class=\"ebt-matched\">Oh my goodness</span>! The world will be lost, the world will perish! For the mind of the Blessed One Vipassī, the perfected one, the fully awakened Buddha, inclines to remaining passive, not to teaching the Dhamma.’ ",
             "matched": true
           }
         },

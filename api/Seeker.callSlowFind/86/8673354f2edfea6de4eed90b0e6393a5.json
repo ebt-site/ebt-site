@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -81,28 +81,28 @@
           "dn24:2.14.5": {
             "scid": "dn24:2.14.5",
             "pli": "‘saccaṁ kira tumhe āyasmanto issarakuttaṁ brahmakuttaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? ",
-            "de": "‚<span class=\"scv-matched\">Ist es wirklich wahr</span>, ist das die Ansicht der Ehrwürdigen?‘ ",
+            "de": "‚<span class=\"ebt-matched\">Ist es wirklich wahr</span>, ist das die Ansicht der Ehrwürdigen?‘ ",
             "en": "‘Is it really true that this is the venerables’ view?’ ",
             "matched": true
           },
           "dn24:2.18.3": {
             "scid": "dn24:2.18.3",
             "pli": "‘saccaṁ kira tumhe āyasmanto khiḍḍāpadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? ",
-            "de": "‚<span class=\"scv-matched\">Ist es wirklich wahr</span>, ist das die Ansicht der Ehrwürdigen?‘ ",
+            "de": "‚<span class=\"ebt-matched\">Ist es wirklich wahr</span>, ist das die Ansicht der Ehrwürdigen?‘ ",
             "en": "‘Is it really true that this is the venerables’ view?’ ",
             "matched": true
           },
           "dn24:2.19.3": {
             "scid": "dn24:2.19.3",
             "pli": "‘saccaṁ kira tumhe āyasmanto manopadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? ",
-            "de": "‚<span class=\"scv-matched\">Ist es wirklich wahr</span>, ist das die Ansicht der Ehrwürdigen?‘ ",
+            "de": "‚<span class=\"ebt-matched\">Ist es wirklich wahr</span>, ist das die Ansicht der Ehrwürdigen?‘ ",
             "en": "‘Is it really true that this is the venerables’ view?’ ",
             "matched": true
           },
           "dn24:2.20.3": {
             "scid": "dn24:2.20.3",
             "pli": "‘saccaṁ kira tumhe āyasmanto adhiccasamuppannaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? ",
-            "de": "‚<span class=\"scv-matched\">Ist es wirklich wahr</span>, ist das die Ansicht der Ehrwürdigen?‘ ",
+            "de": "‚<span class=\"ebt-matched\">Ist es wirklich wahr</span>, ist das die Ansicht der Ehrwürdigen?‘ ",
             "en": "‘Is it really true that this is the venerables’ view?’ ",
             "matched": true
           }
@@ -134,21 +134,21 @@
           "an3.61:2.3": {
             "scid": "an3.61:2.3",
             "pli": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino: ",
-            "de": "‚<span class=\"scv-matched\">Ist es wirklich wahr</span>, ist das die Lehre und Ansicht der Ehrwürdigen?‘ ",
+            "de": "‚<span class=\"ebt-matched\">Ist es wirklich wahr</span>, ist das die Lehre und Ansicht der Ehrwürdigen?‘ ",
             "en": "‘Is it really true that this is the venerables’ view?’ ",
             "matched": true
           },
           "an3.61:4.3": {
             "scid": "an3.61:4.3",
             "pli": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino—",
-            "de": "‚<span class=\"scv-matched\">Ist es wirklich wahr</span>, ist das die Lehre und Ansicht der Ehrwürdigen?‘ ",
+            "de": "‚<span class=\"ebt-matched\">Ist es wirklich wahr</span>, ist das die Lehre und Ansicht der Ehrwürdigen?‘ ",
             "en": "‘Is it really true that this is the venerables’ view?’ ",
             "matched": true
           },
           "an3.61:6.3": {
             "scid": "an3.61:6.3",
             "pli": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino—",
-            "de": "‚<span class=\"scv-matched\">Ist es wirklich wahr</span>, ist das die Lehre und Ansicht der Ehrwürdigen?‘ ",
+            "de": "‚<span class=\"ebt-matched\">Ist es wirklich wahr</span>, ist das die Lehre und Ansicht der Ehrwürdigen?‘ ",
             "en": "‘Is it really true that this is the venerables’ view?’ ",
             "matched": true
           }
@@ -180,7 +180,7 @@
           "an3.64:3.2": {
             "scid": "an3.64:3.2",
             "pli": "“saccaṁ kira tvaṁ, sarabha, evaṁ vadesi: ",
-            "de": "„<span class=\"scv-matched\">Ist es wirklich wahr</span>, Sarabha, dass du gesagt hast: ",
+            "de": "„<span class=\"ebt-matched\">Ist es wirklich wahr</span>, Sarabha, dass du gesagt hast: ",
             "en": "“Is it really true, Sarabha, that you’ve been saying: ",
             "matched": true
           }
@@ -212,7 +212,7 @@
           "sn12.32:6.7": {
             "scid": "sn12.32:6.7",
             "pli": "“saccaṁ kira tayā, sāriputta, aññā byākatā: ",
-            "de": "„Sāriputta, <span class=\"scv-matched\">ist es wirklich wahr</span>, dass du dich für erleuchtet erklärt hast: ",
+            "de": "„Sāriputta, <span class=\"ebt-matched\">ist es wirklich wahr</span>, dass du dich für erleuchtet erklärt hast: ",
             "en": "“Sāriputta, is it really true that you have declared enlightenment: ",
             "matched": true
           }
@@ -244,7 +244,7 @@
           "dn12:9.6": {
             "scid": "dn12:9.6",
             "pli": "“saccaṁ kira te, lohicca, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
-            "de": "„<span class=\"scv-matched\">Ist es wirklich wahr</span>, Lohicca, dass du solch einen schädlichen Irrglauben hast: ",
+            "de": "„<span class=\"ebt-matched\">Ist es wirklich wahr</span>, Lohicca, dass du solch einen schädlichen Irrglauben hast: ",
             "en": "“Is it really true, Lohicca, that you have such a harmful misconception: ",
             "matched": true
           }
@@ -276,7 +276,7 @@
           "dn25:21.2": {
             "scid": "dn25:21.2",
             "pli": "“saccaṁ kira, nigrodha, bhāsitā te esā vācā”ti? ",
-            "de": "„<span class=\"scv-matched\">Ist es wirklich wahr</span>, Nigrodha – sind das deine Worte?“ ",
+            "de": "„<span class=\"ebt-matched\">Ist es wirklich wahr</span>, Nigrodha – sind das deine Worte?“ ",
             "en": "“Is it really true, Nigrodha—are those your words?” ",
             "matched": true
           }
@@ -308,7 +308,7 @@
           "dn23:32.10": {
             "scid": "dn23:32.10",
             "pli": "“saccaṁ kira tvaṁ, tāta uttara, dānaṁ datvā evaṁ anuddisasi: ",
-            "de": "„<span class=\"scv-matched\">Ist es wirklich wahr</span>, Uttara, dass du dich in dieser Weise über das Opfer geäußert hast?“ ",
+            "de": "„<span class=\"ebt-matched\">Ist es wirklich wahr</span>, Uttara, dass du dich in dieser Weise über das Opfer geäußert hast?“ ",
             "en": "“Is it really true, dear Uttara, that you referred to the offering in this way?” ",
             "matched": true
           }

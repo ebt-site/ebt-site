@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "thag18.1:26.2": {
             "scid": "thag18.1:26.2",
             "pli": "nāhaṁ seyyoti vā pana;",
-            "en": "by the <span class=\"scv-matched\">modes of conceit</span>—",
+            "en": "by the <span class=\"ebt-matched\">modes of conceit</span>—",
             "matched": true
           }
         },

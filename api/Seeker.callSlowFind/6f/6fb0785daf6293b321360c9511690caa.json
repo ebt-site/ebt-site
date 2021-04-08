@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -77,28 +77,28 @@
           "an4.16:1.4": {
             "scid": "an4.16:1.4",
             "pli": "tena ca rūpasokhummena aññaṁ rūpasokhummaṁ uttaritaraṁ vā paṇītataraṁ vā na samanupassati; ",
-            "de": "Er sieht keine Feinheit der Form, die <span class=\"scv-matched\">besser oder erlesener</span> wäre als diese, ",
+            "de": "Er sieht keine Feinheit der Form, die <span class=\"ebt-matched\">besser oder erlesener</span> wäre als diese, ",
             "en": "They don’t see any other subtlety of form that’s better or finer than that, ",
             "matched": true
           },
           "an4.16:1.7": {
             "scid": "an4.16:1.7",
             "pli": "tena ca vedanāsokhummena aññaṁ vedanāsokhummaṁ uttaritaraṁ vā paṇītataraṁ vā na samanupassati; ",
-            "de": "Sie sieht keine Feinheit des Gefühls, die <span class=\"scv-matched\">besser oder erlesener</span> wäre als diese, ",
+            "de": "Sie sieht keine Feinheit des Gefühls, die <span class=\"ebt-matched\">besser oder erlesener</span> wäre als diese, ",
             "en": "They don’t see any other subtlety of feeling that’s better or finer than that, ",
             "matched": true
           },
           "an4.16:1.10": {
             "scid": "an4.16:1.10",
             "pli": "tena ca saññāsokhummena aññaṁ saññāsokhummaṁ uttaritaraṁ vā paṇītataraṁ vā na samanupassati; ",
-            "de": "Er sieht keine Feinheit der Wahrnehmung, die <span class=\"scv-matched\">besser oder erlesener</span> wäre als diese, ",
+            "de": "Er sieht keine Feinheit der Wahrnehmung, die <span class=\"ebt-matched\">besser oder erlesener</span> wäre als diese, ",
             "en": "They don’t see any other subtlety of perception that’s better or finer than that, ",
             "matched": true
           },
           "an4.16:1.13": {
             "scid": "an4.16:1.13",
             "pli": "tena ca saṅkhārasokhummena aññaṁ saṅkhārasokhummaṁ uttaritaraṁ vā paṇītataraṁ vā na samanupassati; ",
-            "de": "Sie sieht keine Feinheit der Entscheidungen, die <span class=\"scv-matched\">besser oder erlesener</span> wäre als diese, ",
+            "de": "Sie sieht keine Feinheit der Entscheidungen, die <span class=\"ebt-matched\">besser oder erlesener</span> wäre als diese, ",
             "en": "They don’t see any other subtlety of choices that’s better or finer than that, ",
             "matched": true
           }
@@ -130,14 +130,14 @@
           "an6.44:9.2": {
             "scid": "an6.44:9.2",
             "pli": "Ayaṁ, ānanda, puggalo amunā purimena puggalena abhikkantataro ca paṇītataro ca. ",
-            "de": "<span class=\"scv-matched\">besser und erlesener</span> als die andere. ",
+            "de": "<span class=\"ebt-matched\">besser und erlesener</span> als die andere. ",
             "en": "is better and finer than the other person. ",
             "matched": true
           },
           "an6.44:16.2": {
             "scid": "an6.44:16.2",
             "pli": "Ayaṁ, ānanda, puggalo amunā purimena puggalena abhikkantataro ca paṇītataro ca. ",
-            "de": "<span class=\"scv-matched\">besser und erlesener</span> als die andere. ",
+            "de": "<span class=\"ebt-matched\">besser und erlesener</span> als die andere. ",
             "en": "is better and finer than the other person. ",
             "matched": true
           }
@@ -169,14 +169,14 @@
           "dn25:19.19": {
             "scid": "dn25:19.19",
             "pli": "Iti kho taṁ, nigrodha, ṭhānaṁ uttaritarañca paṇītatarañca, yenāhaṁ sāvake vinemi, yena mayā sāvakā vinītā assāsappattā paṭijānanti ajjhāsayaṁ ādibrahmacariyan”ti. ",
-            "de": "Es gibt da etwas, das <span class=\"scv-matched\">besser und erlesener</span> ist als das Genannte. Damit leite ich meine Schülerinnen an, sodass sie behaupten, Trost im grundlegenden Zweck des geistlichen Lebens zu finden.“ ",
+            "de": "Es gibt da etwas, das <span class=\"ebt-matched\">besser und erlesener</span> ist als das Genannte. Damit leite ich meine Schülerinnen an, sodass sie behaupten, Trost im grundlegenden Zweck des geistlichen Lebens zu finden.“ ",
             "en": "Well, there is something better and finer than this. That’s what I use to guide my disciples, through which they claim solace in the fundamental purpose of the spiritual life.” ",
             "matched": true
           },
           "dn25:19.21": {
             "scid": "dn25:19.21",
             "pli": "“ettha mayaṁ anassāma sācariyakā, na mayaṁ ito bhiyyo uttaritaraṁ pajānāmā”ti. ",
-            "de": "„In diesem Fall sind wir verloren, und unsere Tradition ebenfalls! Wir kennen nichts, das <span class=\"scv-matched\">besser oder erlesener</span> wäre als das!“ ",
+            "de": "„In diesem Fall sind wir verloren, und unsere Tradition ebenfalls! Wir kennen nichts, das <span class=\"ebt-matched\">besser oder erlesener</span> wäre als das!“ ",
             "en": "“In that case, we’re lost, and so is our tradition! We don’t know anything better or finer than that!” ",
             "matched": true
           }
@@ -208,7 +208,7 @@
           "an4.24:7.6": {
             "scid": "an4.24:7.6",
             "pli": "‘Tamhā ca pana tādimhā añño tādī uttaritaro vā paṇītataro vā natthī’ti vadāmīti. ",
-            "de": "Und ich sage, es gibt keine <span class=\"scv-matched\">bessere oder erlesener</span>e Fassung als diese. ",
+            "de": "Und ich sage, es gibt keine <span class=\"ebt-matched\">bessere oder erlesener</span>e Fassung als diese. ",
             "en": "And I say that there is no better or finer poise than this. ",
             "matched": true
           }
@@ -240,7 +240,7 @@
           "an5.106:7.1": {
             "scid": "an5.106:7.1",
             "pli": "Imamhā cāhaṁ, ānanda, phāsuvihārā añño phāsuvihāro uttaritaro vā paṇītataro vā natthīti vadāmī”ti. ",
-            "de": "Und ich sage, es gibt keine <span class=\"scv-matched\">bessere oder erlesener</span>e Art, in einer klösterlichen Gemeinschaft zu leben und dabei unbeschwert zu sein als diese.“ ",
+            "de": "Und ich sage, es gibt keine <span class=\"ebt-matched\">bessere oder erlesener</span>e Art, in einer klösterlichen Gemeinschaft zu leben und dabei unbeschwert zu sein als diese.“ ",
             "en": "And I say that there is no better or finer way of living comfortably than this.” ",
             "matched": true
           }
@@ -272,7 +272,7 @@
           "dn15:36.3": {
             "scid": "dn15:36.3",
             "pli": "Imāya ca, ānanda, ubhatobhāgavimuttiyā aññā ubhatobhāgavimutti uttaritarā vā paṇītatarā vā natthī”ti. ",
-            "de": "Und, Ānanda, es gibt keine andere Befreiung auf beide Arten, die <span class=\"scv-matched\">besser oder erlesener</span> wäre als diese.“ ",
+            "de": "Und, Ānanda, es gibt keine andere Befreiung auf beide Arten, die <span class=\"ebt-matched\">besser oder erlesener</span> wäre als diese.“ ",
             "en": "And, Ānanda, there is no other freedom both ways that is better or finer than this.” ",
             "matched": true
           }

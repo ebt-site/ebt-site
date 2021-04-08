@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -72,7 +72,7 @@
           "an3.101:2.7": {
             "scid": "an3.101:2.7",
             "pli": "So hoti samādhi santo paṇīto paṭippassaddhiladdho ekodibhāvādhigato na sasaṅkhāraniggayhavāritagato. ",
-            "de": "Diese <span class=\"scv-matched\">Versenkung ist friedvoll</span>, erhaben, still und einheitlich und wird nicht mit Gewalt aufrechterhalten. ",
+            "de": "Diese <span class=\"ebt-matched\">Versenkung ist friedvoll</span>, erhaben, still und einheitlich und wird nicht mit Gewalt aufrechterhalten. ",
             "en": "That immersion is peaceful and sublime and tranquil and unified, not held in place by forceful suppression. ",
             "matched": true
           }
@@ -104,7 +104,7 @@
           "an5.27:1.7": {
             "scid": "an5.27:1.7",
             "pli": "‘ayaṁ samādhi santo paṇīto paṭippassaddhaladdho ekodibhāvādhigato, na sasaṅkhāraniggayhavāritagato’ti paccattaññeva ñāṇaṁ uppajjati, ",
-            "de": "‚Diese <span class=\"scv-matched\">Versenkung ist friedvoll</span>, erhaben, still und einheitlich und wird nicht mit Gewalt aufrechterhalten.‘ … ",
+            "de": "‚Diese <span class=\"ebt-matched\">Versenkung ist friedvoll</span>, erhaben, still und einheitlich und wird nicht mit Gewalt aufrechterhalten.‘ … ",
             "en": "‘This immersion is peaceful and sublime and tranquil and unified, not held in place by forceful suppression.’ … ",
             "matched": true
           }
@@ -136,7 +136,7 @@
           "dn34:1.6.73": {
             "scid": "dn34:1.6.73",
             "pli": "‘Ayaṁ samādhi santo paṇīto paṭippassaddhaladdho ekodibhāvādhigato, na sasaṅkhāraniggayhavāritagato’ti paccattaṁyeva ñāṇaṁ uppajjati. ",
-            "de": "‚Diese <span class=\"scv-matched\">Versenkung ist friedvoll</span>, erhaben, still und einheitlich und wird nicht mit Gewalt aufrechterhalten.‘ ",
+            "de": "‚Diese <span class=\"ebt-matched\">Versenkung ist friedvoll</span>, erhaben, still und einheitlich und wird nicht mit Gewalt aufrechterhalten.‘ ",
             "en": "‘This immersion is peaceful and sublime and tranquil and unified, not held in place by forceful suppression.’ ",
             "matched": true
           }

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an1.319:1.1": {
             "scid": "an1.319:1.1",
             "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekapuggalampi samanupassāmi yo evaṁ bahujanaahitāya paṭipanno bahujanaasukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ yathayidaṁ, bhikkhave, makkhali moghapuriso. ",
-            "en": "“Mendicants, I do not see a single other person who acts for the hurt and unhappiness of the people, for the harm, hurt, and <span class=\"scv-matched\">suffering of many</span> people, of gods and humans like that silly man, Makkhali. ",
+            "en": "“Mendicants, I do not see a single other person who acts for the hurt and unhappiness of the people, for the harm, hurt, and <span class=\"ebt-matched\">suffering of many</span> people, of gods and humans like that silly man, Makkhali. ",
             "matched": true
           },
           "an1.319:1.2": {
@@ -98,13 +98,13 @@
           "an2.39:1.6": {
             "scid": "an2.39:1.6",
             "pli": "Tayidaṁ, bhikkhave, hoti bahujanāhitāya bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
-            "en": "This is for the hurt and unhappiness of the people, for the harm, hurt, and <span class=\"scv-matched\">suffering of many</span> people, of gods and humans. ",
+            "en": "This is for the hurt and unhappiness of the people, for the harm, hurt, and <span class=\"ebt-matched\">suffering of many</span> people, of gods and humans. ",
             "matched": true
           },
           "an2.41:1.1": {
             "scid": "an2.41:1.1",
             "pli": "“Ye te, bhikkhave, bhikkhū duggahitehi suttantehi byañjanappatirūpakehi atthañca dhammañca paṭibāhanti te, bhikkhave, bhikkhū bahujanāhitāya paṭipannā bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
-            "en": "“Mendicants, by memorizing the discourses incorrectly, taking only a semblance of the phrasing, some mendicants shut out the meaning and the teaching. They act for the hurt and unhappiness of the people, for the harm, hurt, and <span class=\"scv-matched\">suffering of many</span> people, of gods and humans. ",
+            "en": "“Mendicants, by memorizing the discourses incorrectly, taking only a semblance of the phrasing, some mendicants shut out the meaning and the teaching. They act for the hurt and unhappiness of the people, for the harm, hurt, and <span class=\"ebt-matched\">suffering of many</span> people, of gods and humans. ",
             "matched": true
           }
         },

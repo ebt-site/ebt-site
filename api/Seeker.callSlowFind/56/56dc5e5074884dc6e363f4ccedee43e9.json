@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "dn11:85.0": {
             "scid": "dn11:85.0",
             "pli": "4.1. Tīradassisakuṇupamā ",
-            "en": "4.1. The Simile of the <span class=\"scv-matched\">Land-Spotting Bird</span> ",
+            "en": "4.1. The Simile of the <span class=\"ebt-matched\">Land-Spotting Bird</span> ",
             "matched": true
           },
           "dn11:85.2": {
             "scid": "dn11:85.2",
             "pli": "bhūtapubbaṁ, bhikkhu, sāmuddikā vāṇijā tīradassiṁ sakuṇaṁ gahetvā nāvāya samuddaṁ ajjhogāhanti. ",
-            "en": "‘Once upon a time, mendicant, some sea-merchants set sail for the ocean deeps, taking with them a <span class=\"scv-matched\">land-spotting bird</span>. ",
+            "en": "‘Once upon a time, mendicant, some sea-merchants set sail for the ocean deeps, taking with them a <span class=\"ebt-matched\">land-spotting bird</span>. ",
             "matched": true
           }
         },
@@ -92,7 +92,7 @@
           "an6.54:8.1": {
             "scid": "an6.54:8.1",
             "pli": "Bhūtapubbaṁ, brāhmaṇa dhammika, sāmuddikā vāṇijā tīradassiṁ sakuṇaṁ gahetvā nāvāya samuddaṁ ajjhogāhanti. ",
-            "en": "Once upon a time, some sea-merchants set sail for the ocean deeps, taking with them a <span class=\"scv-matched\">land-spotting bird</span>. ",
+            "en": "Once upon a time, some sea-merchants set sail for the ocean deeps, taking with them a <span class=\"ebt-matched\">land-spotting bird</span>. ",
             "matched": true
           }
         },

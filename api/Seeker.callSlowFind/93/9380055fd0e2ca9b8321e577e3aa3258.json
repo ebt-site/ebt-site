@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "an7.5:2.4": {
             "scid": "an7.5:2.4",
             "pli": "paññā ve sattamaṁ dhanaṁ. ",
-            "en": "and wisdom is <span class=\"scv-matched\">the seventh kind of wealth</span>. ",
+            "en": "and wisdom is <span class=\"ebt-matched\">the seventh kind of wealth</span>. ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "an7.7:3.4": {
             "scid": "an7.7:3.4",
             "pli": "paññā ve sattamaṁ dhanaṁ. ",
-            "en": "and wisdom is <span class=\"scv-matched\">the seventh kind of wealth</span>. ",
+            "en": "and wisdom is <span class=\"ebt-matched\">the seventh kind of wealth</span>. ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "an7.6:10.4": {
             "scid": "an7.6:10.4",
             "pli": "paññā ve sattamaṁ dhanaṁ. ",
-            "en": "and wisdom is <span class=\"scv-matched\">the seventh kind of wealth</span>. ",
+            "en": "and wisdom is <span class=\"ebt-matched\">the seventh kind of wealth</span>. ",
             "matched": true
           }
         },

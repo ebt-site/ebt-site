@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,21 +57,21 @@
           "sn5.9:2.1": {
             "scid": "sn5.9:2.1",
             "pli": "“Kenidaṁ pakataṁ bimbaṁ, ",
-            "de": "„Wer schuf diese <span class=\"scv-matched\">Marionette</span>? ",
+            "de": "„Wer schuf diese <span class=\"ebt-matched\">Marionette</span>? ",
             "en": "“Who created this puppet? ",
             "matched": true
           },
           "sn5.9:2.3": {
             "scid": "sn5.9:2.3",
             "pli": "Kvanu bimbaṁ samuppannaṁ, ",
-            "de": "Wo ist die <span class=\"scv-matched\">Marionette</span> entstanden? ",
+            "de": "Wo ist die <span class=\"ebt-matched\">Marionette</span> entstanden? ",
             "en": "Where has the puppet arisen? ",
             "matched": true
           },
           "sn5.9:4.1": {
             "scid": "sn5.9:4.1",
             "pli": "“Nayidaṁ attakataṁ bimbaṁ, ",
-            "de": "„Diese <span class=\"scv-matched\">Marionette</span> ist nicht selbst gemacht, ",
+            "de": "„Diese <span class=\"ebt-matched\">Marionette</span> ist nicht selbst gemacht, ",
             "en": "“This puppet isn’t self-made, ",
             "matched": true
           }

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -108,13 +108,13 @@
           "an8.41:3.1": {
             "scid": "an8.41:3.1",
             "pli": "‘Yāvajīvaṁ arahanto adinnādānaṁ pahāya adinnādānā paṭiviratā dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharanti. ",
-            "en": "‘As long as they live, the perfected ones <span class=\"scv-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "en": "‘As long as they live, the perfected ones <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
             "matched": true
           },
           "an8.41:3.2": {
             "scid": "an8.41:3.2",
             "pli": "Ahampajja imañca rattiṁ imañca divasaṁ adinnādānaṁ pahāya adinnādānā paṭivirato dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharāmi. ",
-            "en": "I, too, for this day and night will <span class=\"scv-matched\">give up stealing</span>. I’ll take only what’s given, and expect only what’s given. I’ll keep myself clean by not thieving. ",
+            "en": "I, too, for this day and night will <span class=\"ebt-matched\">give up stealing</span>. I’ll take only what’s given, and expect only what’s given. I’ll keep myself clean by not thieving. ",
             "matched": true
           }
         },
@@ -143,13 +143,13 @@
           "an3.70:20.1": {
             "scid": "an3.70:20.1",
             "pli": "Yāvajīvaṁ arahanto adinnādānaṁ pahāya adinnādānā paṭiviratā dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharanti; ",
-            "en": "As long as they live, the perfected ones <span class=\"scv-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "en": "As long as they live, the perfected ones <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
             "matched": true
           },
           "an3.70:20.2": {
             "scid": "an3.70:20.2",
             "pli": "ahampajja imañca rattiṁ imañca divasaṁ adinnādānaṁ pahāya adinnādānā paṭivirato dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharāmi. ",
-            "en": "I, too, for this day and night will <span class=\"scv-matched\">give up stealing</span>. I’ll take only what’s given, and expect only what’s given. I’ll keep myself clean by not thieving. ",
+            "en": "I, too, for this day and night will <span class=\"ebt-matched\">give up stealing</span>. I’ll take only what’s given, and expect only what’s given. I’ll keep myself clean by not thieving. ",
             "matched": true
           }
         },
@@ -178,7 +178,7 @@
           "an10.211:13.1": {
             "scid": "an10.211:13.1",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti. Yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā, na taṁ adinnaṁ theyyasaṅkhātaṁ ādātā hoti. ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. They don’t, with the intention to commit theft, take the wealth or belongings of others from village or wilderness. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They don’t, with the intention to commit theft, take the wealth or belongings of others from village or wilderness. ",
             "matched": true
           }
         },
@@ -207,7 +207,7 @@
           "an10.212:4.1": {
             "scid": "an10.212:4.1",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti … ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. … ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. … ",
             "matched": true
           }
         },
@@ -236,7 +236,7 @@
           "an10.168:3.3": {
             "scid": "an10.168:3.3",
             "pli": "So iti paṭisaṅkhāya adinnādānaṁ pajahati; ",
-            "en": "Reflecting like this, they <span class=\"scv-matched\">give up stealing</span>, ",
+            "en": "Reflecting like this, they <span class=\"ebt-matched\">give up stealing</span>, ",
             "matched": true
           }
         },
@@ -265,7 +265,7 @@
           "an10.167:7.3": {
             "scid": "an10.167:7.3",
             "pli": "So iti paṭisaṅkhāya adinnādānaṁ pajahati; ",
-            "en": "Reflecting like this, they <span class=\"scv-matched\">give up stealing</span>, ",
+            "en": "Reflecting like this, they <span class=\"ebt-matched\">give up stealing</span>, ",
             "matched": true
           }
         },
@@ -294,7 +294,7 @@
           "sn55.7:5.6": {
             "scid": "sn55.7:5.6",
             "pli": "So iti paṭisaṅkhāya attanā ca adinnādānā paṭivirato hoti, parañca adinnādānā veramaṇiyā samādapeti, adinnādānā veramaṇiyā ca vaṇṇaṁ bhāsati. ",
-            "en": "Reflecting in this way, they <span class=\"scv-matched\">give up stealing</span> themselves. And they encourage others to <span class=\"scv-matched\">give up stealing</span>, praising the giving up of stealing. ",
+            "en": "Reflecting in this way, they <span class=\"ebt-matched\">give up stealing</span> themselves. And they encourage others to <span class=\"ebt-matched\">give up stealing</span>, praising the giving up of stealing. ",
             "matched": true
           }
         },
@@ -323,7 +323,7 @@
           "an10.176:26.1": {
             "scid": "an10.176:26.1",
             "pli": "Adinnādānaṁ pahāya, adinnādānā paṭivirato hoti. Yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā, na taṁ adinnaṁ theyyasaṅkhātaṁ ādātā hoti. ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. They don’t, with the intention to commit theft, take the wealth or belongings of others from village or wilderness. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They don’t, with the intention to commit theft, take the wealth or belongings of others from village or wilderness. ",
             "matched": true
           }
         },
@@ -352,7 +352,7 @@
           "sn42.8:11.2": {
             "scid": "sn42.8:11.2",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti. ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. ",
             "matched": true
           }
         },
@@ -381,7 +381,7 @@
           "an4.198:8.2": {
             "scid": "an4.198:8.2",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati. ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
             "matched": true
           }
         },
@@ -410,7 +410,7 @@
           "mn41:12.3": {
             "scid": "mn41:12.3",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti. Yaṁ taṁ parassa paravittūpakaraṇaṁ, gāmagataṁ vā araññagataṁ vā, taṁ nādinnaṁ theyyasaṅkhātaṁ ādātā hoti. ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. They don’t, with the intention to commit theft, take the wealth or belongings of others from village or wilderness. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They don’t, with the intention to commit theft, take the wealth or belongings of others from village or wilderness. ",
             "matched": true
           }
         },
@@ -439,7 +439,7 @@
           "an10.99:12.1": {
             "scid": "an10.99:12.1",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī; athenena sucibhūtena attanā viharati. ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
             "matched": true
           }
         },
@@ -468,7 +468,7 @@
           "mn27:13.2": {
             "scid": "mn27:13.2",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī. Athenena sucibhūtena attanā viharati. ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
             "matched": true
           }
         },
@@ -497,7 +497,7 @@
           "mn51:14.2": {
             "scid": "mn51:14.2",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati. ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
             "matched": true
           }
         },
@@ -526,7 +526,7 @@
           "mn94:16.1": {
             "scid": "mn94:16.1",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī. Athenena sucibhūtena attanā viharati. ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
             "matched": true
           }
         },
@@ -555,7 +555,7 @@
           "mn101:32.2": {
             "scid": "mn101:32.2",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati. ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
             "matched": true
           }
         },
@@ -584,7 +584,7 @@
           "mn114:5.15": {
             "scid": "mn114:5.15",
             "pli": "adinnādānaṁ pahāya adinnādānā paṭivirato hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā taṁ nādinnaṁ theyyasaṅkhātaṁ ādātā hoti; ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. They don’t, with the intention to commit theft, take the wealth or belongings of others from village or wilderness. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They don’t, with the intention to commit theft, take the wealth or belongings of others from village or wilderness. ",
             "matched": true
           }
         },
@@ -613,7 +613,7 @@
           "dn2:43.4": {
             "scid": "dn2:43.4",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati. ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
             "matched": true
           }
         },
@@ -642,7 +642,7 @@
           "mn38:33.2": {
             "scid": "mn38:33.2",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti, dinnādāyī dinnapāṭikaṅkhī athenena sucibhūtena attanā viharati. ",
-            "en": "They <span class=\"scv-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn36.11:2.7": {
             "scid": "sn36.11:2.7",
             "pli": "Taṁ kho panetaṁ, bhikkhu, mayā saṅkhārānaṁyeva aniccataṁ sandhāya bhāsitaṁ: ",
-            "en": "When I said this I was referring to <span class=\"scv-matched\">the impermanence of conditions</span>, to the fact that conditions are ",
+            "en": "When I said this I was referring to <span class=\"ebt-matched\">the impermanence of conditions</span>, to the fact that conditions are ",
             "matched": true
           }
         },

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -68,7 +68,7 @@
           "an10.61:6.23": {
             "scid": "an10.61:6.23",
             "pli": "Ko cāhāro saddhāya? ",
-            "de": "Und was ist die Nahrung <span class=\"scv-matched\">für Vertrauen</span>? ",
+            "de": "Und was ist die Nahrung <span class=\"ebt-matched\">für Vertrauen</span>? ",
             "en": "And what is the fuel for faith? ",
             "matched": true
           }
@@ -100,7 +100,7 @@
           "sn12.23:6.12": {
             "scid": "sn12.23:6.12",
             "pli": "dukkhūpanisā saddhā, ",
-            "de": "Leiden ist eine wesentliche Bedingung <span class=\"scv-matched\">für Vertrauen</span>. ",
+            "de": "Leiden ist eine wesentliche Bedingung <span class=\"ebt-matched\">für Vertrauen</span>. ",
             "en": "Suffering is a vital condition for faith. ",
             "matched": true
           },

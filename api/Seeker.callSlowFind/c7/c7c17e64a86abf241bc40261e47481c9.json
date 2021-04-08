@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "thig3.8:2.1": {
             "scid": "thig3.8:2.1",
             "pli": "“Itthibhāvo no kiṁ kayirā,",
-            "de": "„Welchen Unterschied macht das <span class=\"scv-matched\">Frausein</span>, ",
+            "de": "„Welchen Unterschied macht das <span class=\"ebt-matched\">Frausein</span>, ",
             "en": "“What difference does womanhood make",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "sn5.2:4.1": {
             "scid": "sn5.2:4.1",
             "pli": "“Itthibhāvo kiṁ kayirā, ",
-            "de": "„Welchen Unterschied macht das <span class=\"scv-matched\">Frausein</span>, ",
+            "de": "„Welchen Unterschied macht das <span class=\"ebt-matched\">Frausein</span>, ",
             "en": "“What difference does womanhood make ",
             "matched": true
           }

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -92,14 +92,14 @@
           "an5.16:1.5": {
             "scid": "an5.16:1.5",
             "pli": "Imesaṁ kho, bhikkhave, pañcannaṁ balānaṁ etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghātaniyaṁ, yadidaṁ paññābalaṁ. ",
-            "de": "Von diesen fünf Kräften ist die <span class=\"scv-matched\">Kraft der Weisheit</span> die Oberste. Sie hält und bindet alles zusammen. ",
+            "de": "Von diesen fünf Kräften ist die <span class=\"ebt-matched\">Kraft der Weisheit</span> die Oberste. Sie hält und bindet alles zusammen. ",
             "en": "Of these five powers, the power of wisdom is the chief. It holds and binds everything together. ",
             "matched": true
           },
           "an5.16:1.7": {
             "scid": "an5.16:1.7",
             "pli": "Evamevaṁ kho, bhikkhave, imesaṁ pañcannaṁ balānaṁ etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghātaniyaṁ, yadidaṁ paññābalan”ti. ",
-            "de": "Ebenso ist von diesen fünf Kräften die <span class=\"scv-matched\">Kraft der Weisheit</span> die Oberste. Sie hält und bindet alles zusammen.“ ",
+            "de": "Ebenso ist von diesen fünf Kräften die <span class=\"ebt-matched\">Kraft der Weisheit</span> die Oberste. Sie hält und bindet alles zusammen.“ ",
             "en": "In the same way, of these five powers, the power of wisdom is the chief. It holds and binds everything together.” ",
             "matched": true
           }
@@ -138,14 +138,14 @@
           "an5.12:1.5": {
             "scid": "an5.12:1.5",
             "pli": "Imesaṁ kho, bhikkhave, pañcannaṁ sekhabalānaṁ etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghātaniyaṁ, yadidaṁ paññābalaṁ. ",
-            "de": "Von diesen fünf Kräften einer Übenden ist die <span class=\"scv-matched\">Kraft der Weisheit</span> die Oberste. Sie hält und bindet alles zusammen. ",
+            "de": "Von diesen fünf Kräften einer Übenden ist die <span class=\"ebt-matched\">Kraft der Weisheit</span> die Oberste. Sie hält und bindet alles zusammen. ",
             "en": "Of these five powers of a trainee, the power of wisdom is the chief. It holds and binds everything together. ",
             "matched": true
           },
           "an5.12:2.2": {
             "scid": "an5.12:2.2",
             "pli": "Evamevaṁ kho, bhikkhave, imesaṁ pañcannaṁ sekhabalānaṁ etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghātaniyaṁ, yadidaṁ paññābalaṁ. ",
-            "de": "Ebenso ist von diesen fünf Kräften einer Übenden die <span class=\"scv-matched\">Kraft der Weisheit</span> die Oberste. Sie hält und bindet alles zusammen. ",
+            "de": "Ebenso ist von diesen fünf Kräften einer Übenden die <span class=\"ebt-matched\">Kraft der Weisheit</span> die Oberste. Sie hält und bindet alles zusammen. ",
             "en": "In the same way, of these five powers of a trainee, the power of wisdom is the chief. It holds and binds everything together. ",
             "matched": true
           }
@@ -184,14 +184,14 @@
           "an5.2:6.1": {
             "scid": "an5.2:6.1",
             "pli": "Katamañca, bhikkhave, paññābalaṁ? ",
-            "de": "Und was ist die <span class=\"scv-matched\">Kraft der Weisheit</span>? ",
+            "de": "Und was ist die <span class=\"ebt-matched\">Kraft der Weisheit</span>? ",
             "en": "And what is the power of wisdom? ",
             "matched": true
           },
           "an5.2:6.3": {
             "scid": "an5.2:6.3",
             "pli": "Idaṁ vuccati, bhikkhave, paññābalaṁ. ",
-            "de": "Das nennt man die <span class=\"scv-matched\">Kraft der Weisheit</span>. ",
+            "de": "Das nennt man die <span class=\"ebt-matched\">Kraft der Weisheit</span>. ",
             "en": "This is called the power of wisdom. ",
             "matched": true
           }
@@ -230,14 +230,14 @@
           "an5.14:6.1": {
             "scid": "an5.14:6.1",
             "pli": "Katamañca, bhikkhave, paññābalaṁ? ",
-            "de": "Und was ist die <span class=\"scv-matched\">Kraft der Weisheit</span>? ",
+            "de": "Und was ist die <span class=\"ebt-matched\">Kraft der Weisheit</span>? ",
             "en": "And what is the power of wisdom? ",
             "matched": true
           },
           "an5.14:6.3": {
             "scid": "an5.14:6.3",
             "pli": "Idaṁ vuccati, bhikkhave, paññābalaṁ. ",
-            "de": "Das nennt man die <span class=\"scv-matched\">Kraft der Weisheit</span>. ",
+            "de": "Das nennt man die <span class=\"ebt-matched\">Kraft der Weisheit</span>. ",
             "en": "This is called the power of wisdom. ",
             "matched": true
           }
@@ -269,21 +269,21 @@
           "an1.423:1.1": {
             "scid": "an1.423:1.1",
             "pli": "paññābalaṁ bhāveti …. ",
-            "de": "wenn sie die <span class=\"scv-matched\">Kraft der Weisheit</span> entwickelt, und sei es nur für die Dauer eines Fingerschnippens … ",
+            "de": "wenn sie die <span class=\"ebt-matched\">Kraft der Weisheit</span> entwickelt, und sei es nur für die Dauer eines Fingerschnippens … ",
             "en": "the power of wisdom, even for the time of a finger-snap … ",
             "matched": true
           },
           "an1.504:1.1": {
             "scid": "an1.504:1.1",
             "pli": "paññābalaṁ bhāveti …. ",
-            "de": "die <span class=\"scv-matched\">Kraft der Weisheit</span> zusammen mit der ersten Vertiefung … ",
+            "de": "die <span class=\"ebt-matched\">Kraft der Weisheit</span> zusammen mit der ersten Vertiefung … ",
             "en": "the power of wisdom together with the first absorption … ",
             "matched": true
           },
           "an1.574:1.1": {
             "scid": "an1.574:1.1",
             "pli": "paññābalaṁ bhāveti. ",
-            "de": "sie entwickelt die <span class=\"scv-matched\">Kraft der Weisheit</span> zusammen mit Gleichmut. ",
+            "de": "sie entwickelt die <span class=\"ebt-matched\">Kraft der Weisheit</span> zusammen mit Gleichmut. ",
             "en": "the power of wisdom. ",
             "matched": true
           }
@@ -315,14 +315,14 @@
           "an4.153:0.3": {
             "scid": "an4.153:0.3",
             "pli": "153. Paññābalasutta ",
-            "de": "153. Die <span class=\"scv-matched\">Kraft der Weisheit</span> ",
+            "de": "153. Die <span class=\"ebt-matched\">Kraft der Weisheit</span> ",
             "en": "153. The Power of Wisdom ",
             "matched": true
           },
           "an4.153:1.3": {
             "scid": "an4.153:1.3",
             "pli": "Paññābalaṁ, vīriyabalaṁ, anavajjabalaṁ, saṅgahabalaṁ—",
-            "de": "Die <span class=\"scv-matched\">Kraft der Weisheit</span>, der Energie, der Freiheit von Tadel und des Einbeziehens. ",
+            "de": "Die <span class=\"ebt-matched\">Kraft der Weisheit</span>, der Energie, der Freiheit von Tadel und des Einbeziehens. ",
             "en": "The powers of wisdom, energy, blamelessness, and inclusiveness. ",
             "matched": true
           }
@@ -361,7 +361,7 @@
           "an5.15:1.16": {
             "scid": "an5.15:1.16",
             "pli": "Kattha ca, bhikkhave, paññābalaṁ daṭṭhabbaṁ? ",
-            "de": "Und woran ist die <span class=\"scv-matched\">Kraft der Weisheit</span> zu erkennen? ",
+            "de": "Und woran ist die <span class=\"ebt-matched\">Kraft der Weisheit</span> zu erkennen? ",
             "en": "And where should the power of wisdom be seen? ",
             "matched": true
           }
@@ -393,7 +393,7 @@
           "an3.160:1.5": {
             "scid": "an3.160:1.5",
             "pli": "paññābalaṁ bhāveti …pe…. ",
-            "de": "die <span class=\"scv-matched\">Kraft der Weisheit</span> … ",
+            "de": "die <span class=\"ebt-matched\">Kraft der Weisheit</span> … ",
             "en": "wisdom … ",
             "matched": true
           }

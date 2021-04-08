@@ -152,7 +152,7 @@ export default {
     yesDeleteUser: 'Ano. Odstraňte uživatele: ',
 
   },
-  scv: {
+  ebt: {
     audio: "Audio",
     aboutTitle: "O Voice",
     and: "a",

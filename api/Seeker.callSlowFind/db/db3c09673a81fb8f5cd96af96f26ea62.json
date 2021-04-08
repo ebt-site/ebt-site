@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "an6.98:2.3": {
             "scid": "an6.98:2.3",
             "pli": "‘Sammattaniyāmaṁ okkamamāno sotāpattiphalaṁ vā sakadāgāmiphalaṁ vā anāgāmiphalaṁ vā arahattaṁ vā sacchikarissatī’ti ṭhānametaṁ vijjatī”ti. ",
-            "en": "Having entered the sure path, it’s <span class=\"scv-matched\">possible to realize</span> the fruit of stream-entry, once-return, non-return, or perfection.” ",
+            "en": "Having entered the sure path, it’s <span class=\"ebt-matched\">possible to realize</span> the fruit of stream-entry, once-return, non-return, or perfection.” ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "an6.68:2.6": {
             "scid": "an6.68:2.6",
             "pli": "‘Saṁyojanāni pahāya nibbānaṁ sacchikarissatī’ti ṭhānametaṁ vijjatī”ti. ",
-            "en": "Having given up the fetters, it’s <span class=\"scv-matched\">possible to realize</span> extinguishment.” ",
+            "en": "Having given up the fetters, it’s <span class=\"ebt-matched\">possible to realize</span> extinguishment.” ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "thag16.10:28.4": {
             "scid": "thag16.10:28.4",
             "pli": "phuseyya amataṁ padaṁ.",
-            "en": "it’s still <span class=\"scv-matched\">possible to realize</span> the deathless.”",
+            "en": "it’s still <span class=\"ebt-matched\">possible to realize</span> the deathless.”",
             "matched": true
           }
         },

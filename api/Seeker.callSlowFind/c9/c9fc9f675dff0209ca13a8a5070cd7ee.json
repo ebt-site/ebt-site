@@ -14,7 +14,7 @@
       "searchLang": "jpn",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "jpn",
       "types": [
         "root",
@@ -62,14 +62,14 @@
             "scid": "an3.39:3.2",
             "pli": "‘assutavā kho puthujjano attanā jarādhammo samāno jaraṁ anatīto paraṁ jiṇṇaṁ disvā aṭṭīyati harāyati jigucchati attānaṁyeva atisitvā, ahampi khomhi jarādhammo jaraṁ anatīto. ",
             "en": "‘When an uneducated ordinary person—who is liable to grow old, not being exempt from old age—sees someone else who is old, they’re horrified, repelled, and disgusted, overlooking the fact that they themselves are in the same situation. ",
-            "jpn": "『学んでいない凡人は自分自身が<span class=\"scv-matched\">老いる定め</span>で老齢を逃れられないが、年老いた他人を見た時、彼らはゾッとし、拒絶反応を示し、嫌気を感じ、自分も同じ立場にあるという事実を見過ごす。",
+            "jpn": "『学んでいない凡人は自分自身が<span class=\"ebt-matched\">老いる定め</span>で老齢を逃れられないが、年老いた他人を見た時、彼らはゾッとし、拒絶反応を示し、嫌気を感じ、自分も同じ立場にあるという事実を見過ごす。",
             "matched": true
           },
           "an3.39:3.3": {
             "scid": "an3.39:3.3",
             "pli": "Ahañceva kho pana jarādhammo samāno jaraṁ anatīto paraṁ jiṇṇaṁ disvā aṭṭīyeyyaṁ harāyeyyaṁ jiguccheyyaṁ na metaṁ assa patirūpan’ti. ",
             "en": "But since I, too, am liable to grow old, it would not be appropriate for me to be horrified, embarrassed, and disgusted, when I see someone else who is old.’ ",
-            "jpn": "私も<span class=\"scv-matched\">老いる定め</span>だが、年老いた他人を見た時、ゾッとし、恥ずかしく思い、嫌気を感じるのは適切ではない』と。",
+            "jpn": "私も<span class=\"ebt-matched\">老いる定め</span>だが、年老いた他人を見た時、ゾッとし、恥ずかしく思い、嫌気を感じるのは適切ではない』と。",
             "matched": true
           }
         },
@@ -101,7 +101,7 @@
             "scid": "an4.182:2.2",
             "pli": "‘Jarādhammaṁ mā jīrī’ti natthi koci pāṭibhogo—",
             "en": "No-one can guarantee that someone liable to old age will not grow old. ",
-            "jpn": "<span class=\"scv-matched\">老いる定め</span>である人に老いる事はないと誰も保証出来ません。",
+            "jpn": "<span class=\"ebt-matched\">老いる定め</span>である人に老いる事はないと誰も保証出来ません。",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn16.11:12.2": {
             "scid": "sn16.11:12.2",
             "pli": "“sātasahagatā ca me kāyagatāsati na vijahissatī”ti. ",
-            "en": "“I will never neglect mindfulness of the body that is <span class=\"scv-matched\">full of pleasure</span>.” ",
+            "en": "“I will never neglect mindfulness of the body that is <span class=\"ebt-matched\">full of pleasure</span>.” ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "dn34:1.2.6": {
             "scid": "dn34:1.2.6",
             "pli": "Kāyagatāsati sātasahagatā. ",
-            "en": "Mindfulness of the body that is <span class=\"scv-matched\">full of pleasure</span>. ",
+            "en": "Mindfulness of the body that is <span class=\"ebt-matched\">full of pleasure</span>. ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -63,7 +63,7 @@
           "sn34.1:1.5": {
             "scid": "sn34.1:1.5",
             "pli": "Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ samādhikusalo. ",
-            "en": "One meditator is <span class=\"scv-matched\">not skilled in immersion</span> but is skilled in entering it. ",
+            "en": "One meditator is <span class=\"ebt-matched\">not skilled in immersion</span> but is skilled in entering it. ",
             "matched": true
           }
         },
@@ -98,7 +98,7 @@
           "sn34.2:1.5": {
             "scid": "sn34.2:1.5",
             "pli": "Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ ṭhitikusalo hoti, na samādhismiṁ samādhikusalo. ",
-            "en": "One meditator is skilled in remaining in immersion but is <span class=\"scv-matched\">not skilled in immersion</span>. ",
+            "en": "One meditator is skilled in remaining in immersion but is <span class=\"ebt-matched\">not skilled in immersion</span>. ",
             "matched": true
           }
         },

@@ -1,14 +1,14 @@
 <template>
-  <v-card v-if="mlDocs && nDisplayed" class="scv-results">
+  <v-card v-if="mlDocs && nDisplayed" class="ebt-results">
     <div v-if="mlDocs.length === 0" class="text-h6 pl-2" >
       {{foundSuttas}}
     </div>
     <vue-details v-else-if="mlDocs.length" 
-      class="scv-results-details"
+      class="ebt-results-details"
       v-model="showResults"
       > <!-- mlDocs -->
       <summary v-if="resultCount"
-        class='scv-summary text-subtitle-2 pt-1 pb-1'
+        class='ebt-summary text-subtitle-2 pt-1 pb-1'
         role="main"
         ref="refResults"
         aria-level="1"
@@ -22,65 +22,65 @@
       <v-card flat>
         <v-card-text>
           <vue-details v-for="(mld,i) in results.mlDocs" :key="mld.sutta_uid+i" 
-            class="scv-result-details"
+            class="ebt-result-details"
             v-model="mld.showDetails"
             role="heading" aria-level="2"
           >
             <summary >
-              <div class="scv-result-summary" >
+              <div class="ebt-result-summary" >
                 <div v-html="resultTitle(mld)" 
-                  class="scv-result-title"
+                  class="ebt-result-title"
                 />
                 <!--div class="caption" >{{mld.score}}</div-->
                 <div class="caption text-right" 
                   :aria-label="mldDuration(mld).aria">
                   {{mldDuration(mld).display}}
                 </div>
-              </div><!-- scv-result-summary -->
+              </div><!-- ebt-result-summary -->
             </summary>
-            <div class="scv-result-text">
+            <div class="ebt-result-text">
               <div v-for="seg in mld.segments.slice(0,displayMatches(mld))" 
                 :key="seg.scid" >
                 <div v-if="results.searchLang === 'pli'"
-                  v-html="seg.pli" class="scv-text-root"/>
+                  v-html="seg.pli" class="ebt-text-root"/>
                 <div v-if="results.searchLang === mld.lang"
-                  v-html="seg[mld.lang]" class="scv-text-trans"/>
+                  v-html="seg[mld.lang]" class="ebt-text-trans"/>
               </div>
-              <div class="scv-result-icons">
+              <div class="ebt-result-icons">
                 <v-btn icon small fab 
                   @click="clickResult(mld)"
-                  class="scv-icon-btn" >
+                  class="ebt-icon-btn" >
                   <v-icon>{{mdiLaunch}}</v-icon>
                 </v-btn>
                 <v-btn icon small fab  
                   v-if="mld.segments.length > displayMatches(mld)"
                   @click="displayMatchesIncrement(mld)"
-                  class="scv-icon-btn" >
+                  class="ebt-icon-btn" >
                   <v-icon>{{mdiDotsHorizontal}}</v-icon>
                 </v-btn>
               </div>
-            </div><!--scv-result-text-->
+            </div><!--ebt-result-text-->
 
           <!--
-            <div class="scv-playlist ml-3 pt-2 pl-3" 
-              v-if="gscv.voices.length" >
+            <div class="ebt-playlist ml-3 pt-2 pl-3" 
+              v-if="gebt.voices.length" >
               <v-btn icon small fab v-if="playable"
                 @click="playSearchText()"
                 :title="$t('speakSearchText')"
                 :disabled="!playSearch.signature"
-                class="scv-icon-btn" :style="cssVars" >
+                class="ebt-icon-btn" :style="cssVars" >
                 <v-icon>chat_bubble_outline</v-icon>
               </v-btn>
               <v-btn icon v-if="playable"
                 @click="playAll()"
                 :title="$t('playAll')"
-                class="scv-icon-btn" :style="cssVars" small>
+                class="ebt-icon-btn" :style="cssVars" small>
                 <v-icon>play_circle_outline</v-icon>
               </v-btn>
               <v-btn icon v-if="playable"
                 @click="downloadBuild()"
                 :aria-label="`${ariaDownload} ${resultId()}`"
-                class="scv-icon-btn" :style="cssVars" small>
+                class="ebt-icon-btn" :style="cssVars" small>
                 <v-icon>arrow_downward</v-icon>
               </v-btn>
             </div>
@@ -89,21 +89,21 @@
             <details role="heading" aria-level="2"
                 v-for="(result,i) in (searchResults && searchResults.results||[])"
                 :key="`${result.uid}_${i}`"
-                class="scv-search-result" :style="cssVars">
-                <div v-if="gscv.showId" class="scv-search-result-scid scv-scid">
+                class="ebt-search-result" :style="cssVars">
+                <div v-if="gebt.showId" class="ebt-search-result-scid ebt-scid">
                   SC&nbsp;{{result.quote.scid}}
                 </div>
                 <div v-if="result.quote && showPali && result.quote.pli"
-                  class="scv-search-result-pli">
+                  class="ebt-search-result-pli">
                   <div>
                     <div v-html="result.quote.pli"></div>
                   </div>
                 </div>
                 <div v-if="result.quote && showTrans && result.quote[language]"
-                  class="scv-search-result-lang">
+                  class="ebt-search-result-lang">
                   <div>
-                    <span v-html="result.quote[gscv.lang]"></span>
-                    <div v-if="gscv.showId" class='scv-scid'>
+                    <span v-html="result.quote[gebt.lang]"></span>
+                    <div v-if="gebt.showId" class='ebt-scid'>
                       &mdash;
                       {{result.author}} 
                     </div>
@@ -119,22 +119,22 @@
                     </v-btn>
                     <v-btn icon v-if="result.quote && playable"
                       @click="playOne(result)"
-                      class="scv-icon-btn" :style="cssVars" small>
+                      class="ebt-icon-btn" :style="cssVars" small>
                       <v-icon>play_circle_outline</v-icon>
                     </v-btn>
                     <v-btn icon v-if="result.quote"
                       :href="resultLink(result)"
-                      class="scv-icon-btn" :style="cssVars" small>
+                      class="ebt-icon-btn" :style="cssVars" small>
                     <v-icon>open_in_new</v-icon>
                     </v-btn>
                     <v-btn icon v-if="playable"
                       @click="downloadBuild(resultRef(result))"
                       :aria-label="`${ariaDownload} ${resultId()}`"
-                      class="scv-icon-btn" :style="cssVars" small>
+                      class="ebt-icon-btn" :style="cssVars" small>
                       <v-icon>arrow_downward</v-icon>
                     </v-btn>
                   </div>
-                  <div class="scv-score">
+                  <div class="ebt-score">
                     {{$t('relevance')}}
                     {{score(result)}}
                   </div>
@@ -197,7 +197,7 @@ export default {
       Vue.set(this, "nDisplayed", {});
     },
     resultOpen(mld) {
-      return mld.sutta_uid === this.$store.state.scv.sutta.sutta_uid;
+      return mld.sutta_uid === this.$store.state.ebt.sutta.sutta_uid;
     },
     suttaId(mld) {
       let { sutta_uid } = mld;
@@ -220,7 +220,7 @@ export default {
         //:aria-label="`Found ${resultCount} sootas ${playlistDuration.aria}`"
         var tmplt = this.$t && this.$t('ariaFoundSuttas') || '';
         var text = tmplt
-            .replace("A_SEARCH", this.$store.state.scv.search)
+            .replace("A_SEARCH", this.$store.state.ebt.search)
             .replace("A_RESULTCOUNT", this.resultCount)
             .replace("A_DURATION", this.duration);
         return text;
@@ -269,7 +269,7 @@ export default {
     },
     clickResult(mld) {
       let { sutta_uid, lang } = mld;
-      this.$store.dispatch('scv/loadSutta', {sutta_uid, lang});
+      this.$store.dispatch('ebt/loadSutta', {sutta_uid, lang});
     },
   },
   computed: {
@@ -286,7 +286,7 @@ export default {
       let { resultCount, } = this;
       return this.$t && this.$t('foundSuttas')
         .replace(/A_RESULTCOUNT/,resultCount)
-        .replace("A_SEARCH", this.$store.state.scv.search);
+        .replace("A_SEARCH", this.$store.state.ebt.search);
     },
     mlDocs() {
       return this.results.mlDocs;
@@ -296,7 +296,7 @@ export default {
       return { results }
     },
     results() {
-      return this.$store.state.scv.searchResults || {};
+      return this.$store.state.ebt.searchResults || {};
     },
     resultCount() {
       return this.mlDocs.length;

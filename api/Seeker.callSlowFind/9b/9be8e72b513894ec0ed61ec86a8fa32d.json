@@ -14,7 +14,7 @@
       "searchLang": "jpn",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "jpn",
       "types": [
         "root",
@@ -66,14 +66,14 @@
             "scid": "an1.63:1.1",
             "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannā vā kusalā dhammā uppajjanti uppannā vā akusalā dhammā parihāyanti yathayidaṁ, bhikkhave, appicchatā. ",
             "en": "“Mendicants, I do not see a single thing that gives rise to skillful qualities, or makes unskillful qualities decline like having few wishes. ",
-            "jpn": "「托鉢僧侶たちよ、<span class=\"scv-matched\">願望が少ない</span>事ほど、技量があると言える性質を起こし、技量がないと言える性質を減らすものは他に一つも見ることはありません。  ",
+            "jpn": "「托鉢僧侶たちよ、<span class=\"ebt-matched\">願望が少ない</span>事ほど、技量があると言える性質を起こし、技量がないと言える性質を減らすものは他に一つも見ることはありません。  ",
             "matched": true
           },
           "an1.63:1.2": {
             "scid": "an1.63:1.2",
             "pli": "Appicchassa, bhikkhave, anuppannā ceva kusalā dhammā uppajjanti uppannā ca akusalā dhammā parihāyantī”ti. ",
             "en": "When you have few wishes, skillful qualities arise and unskillful qualities decline.” ",
-            "jpn": "<span class=\"scv-matched\">願望が少ない</span>と、技量があると言える性質が起こり、技量がないと言える性質が減ります。」 ",
+            "jpn": "<span class=\"ebt-matched\">願望が少ない</span>と、技量があると言える性質が起こり、技量がないと言える性質が減ります。」 ",
             "matched": true
           }
         },
@@ -105,14 +105,14 @@
             "scid": "an1.87:1.1",
             "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ mahato atthāya saṁvattati yathayidaṁ, bhikkhave, appicchatā. ",
             "en": "“Mendicants, I do not see a single thing that is so very beneficial as having few wishes. ",
-            "jpn": "「托鉢僧侶たちよ、<span class=\"scv-matched\">願望が少ない</span>事ほど大きな利益を及ぼすものは他に一つも見ることはありません。  ",
+            "jpn": "「托鉢僧侶たちよ、<span class=\"ebt-matched\">願望が少ない</span>事ほど大きな利益を及ぼすものは他に一つも見ることはありません。  ",
             "matched": true
           },
           "an1.87:1.2": {
             "scid": "an1.87:1.2",
             "pli": "Appicchatā, bhikkhave, mahato atthāya saṁvattatī”ti. ",
             "en": "Having few wishes is very beneficial.” ",
-            "jpn": "<span class=\"scv-matched\">願望が少ない</span>事は大きな利益を及ぼします。」 ",
+            "jpn": "<span class=\"ebt-matched\">願望が少ない</span>事は大きな利益を及ぼします。」 ",
             "matched": true
           }
         },
@@ -144,14 +144,14 @@
             "scid": "an1.102-109:1.1",
             "pli": "“Ajjhattikaṁ, bhikkhave, aṅganti karitvā nāññaṁ ekaṅgampi samanupassāmi yaṁ evaṁ mahato anatthāya saṁvattati yathayidaṁ, bhikkhave, mahicchatā …pe… appicchatā … asantuṭṭhitā … santuṭṭhitā … ayonisomanasikāro … yonisomanasikāro … asampajaññaṁ … sampajaññaṁ … dvādasamaṁ. ",
             "en": "“Taking into account interior factors, mendicants, I do not see a single one that is so very harmful as having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness …” ",
-            "jpn": "「托鉢僧侶たちよ、自分の内側の要素を考えた時、願望が多い事ほど大きな害を及ぼす物は他には一つも見ません…　<span class=\"scv-matched\">願望が少ない</span>事…　不満足である事…　満足である事…　不適正な注意…　適正な注意…　状況認識力がない事…　状況認識力がある事…」 ",
+            "jpn": "「托鉢僧侶たちよ、自分の内側の要素を考えた時、願望が多い事ほど大きな害を及ぼす物は他には一つも見ません…　<span class=\"ebt-matched\">願望が少ない</span>事…　不満足である事…　満足である事…　不適正な注意…　適正な注意…　状況認識力がない事…　状況認識力がある事…」 ",
             "matched": true
           },
           "an1.118-128:1.1": {
             "scid": "an1.118-128:1.1",
             "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa sammosāya antaradhānāya saṁvattati yathayidaṁ, bhikkhave, mahicchatā …pe… appicchatā … asantuṭṭhitā … santuṭṭhitā … ayonisomanasikāro … yonisomanasikāro … asampajaññaṁ … sampajaññaṁ … pāpamittatā … kalyāṇamittatā … anuyogo akusalānaṁ dhammānaṁ, ananuyogo kusalānaṁ dhammānaṁ. ",
             "en": "“Mendicants, I do not see a single thing that leads to the decline and disappearance of the true teaching like having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness … bad friends … good friends … pursuing bad habits and not good habits. ",
-            "jpn": "「托鉢僧侶たちよ、願望が多い事ほど真の教えを下落させ消滅させる物は他には一つも見ません…　<span class=\"scv-matched\">願望が少ない</span>事…　不満足である事…　満足である事…　不適正な注意…　適正な注意…　状況認識力がない事…　状況認識力がある事…　悪い友達…　良い友達…　悪い習慣を続けて良い習慣を続けない事…」 ",
+            "jpn": "「托鉢僧侶たちよ、願望が多い事ほど真の教えを下落させ消滅させる物は他には一つも見ません…　<span class=\"ebt-matched\">願望が少ない</span>事…　不満足である事…　満足である事…　不適正な注意…　適正な注意…　状況認識力がない事…　状況認識力がある事…　悪い友達…　良い友達…　悪い習慣を続けて良い習慣を続けない事…」 ",
             "matched": true
           }
         },

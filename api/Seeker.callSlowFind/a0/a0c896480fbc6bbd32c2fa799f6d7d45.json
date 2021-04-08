@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an3.128:1.3": {
             "scid": "an3.128:1.3",
             "pli": "Addasā kho bhagavā goyogapilakkhasmiṁ piṇḍāya caramāno aññataraṁ bhikkhuṁ rittassādaṁ bāhirassādaṁ muṭṭhassatiṁ asampajānaṁ asamāhitaṁ vibbhantacittaṁ pākatindriyaṁ. ",
-            "de": "Als er bei seinem Almosengang am Anschirrplatz für die Kühe bei der Strahlenpalme vorbeikam, sah er einen missvergnügten Mönch, der Genuss <span class=\"scv-matched\">in äußeren Dingen</span> suchte, unachtsam, ohne Umsicht und Versenkung, mit schweifendem Geist und unbeherrschten Sinnen. ",
+            "de": "Als er bei seinem Almosengang am Anschirrplatz für die Kühe bei der Strahlenpalme vorbeikam, sah er einen missvergnügten Mönch, der Genuss <span class=\"ebt-matched\">in äußeren Dingen</span> suchte, unachtsam, ohne Umsicht und Versenkung, mit schweifendem Geist und unbeherrschten Sinnen. ",
             "en": "While the Buddha was walking for alms near the cow-hitching place at the wavy leaf fig, he saw a disgruntled monk who was looking for pleasure in external things, unmindful, without situational awareness or immersion, with straying mind and undisciplined faculties. ",
             "matched": true
           }

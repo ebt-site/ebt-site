@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "mn128:31.3": {
             "scid": "mn128:31.3",
             "pli": "Handa dānāhaṁ tividhena samādhiṁ bhāvemī’ti. ",
-            "en": "Now <span class=\"scv-matched\">let me develop immersion</span> in three ways.’ ",
+            "en": "Now <span class=\"ebt-matched\">let me develop immersion</span> in three ways.’ ",
             "matched": true
           }
         },

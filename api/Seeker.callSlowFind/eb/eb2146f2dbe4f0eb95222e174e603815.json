@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -69,19 +69,19 @@
           "mn76:13.3": {
             "scid": "mn76:13.3",
             "pli": "ahetū appaccayā sattā saṅkilissanti; ",
-            "en": "Sentient beings are corrupted <span class=\"scv-matched\">without cause or reason</span>. ",
+            "en": "Sentient beings are corrupted <span class=\"ebt-matched\">without cause or reason</span>. ",
             "matched": true
           },
           "mn76:13.5": {
             "scid": "mn76:13.5",
             "pli": "ahetū appaccayā sattā visujjhanti; ",
-            "en": "Sentient beings are purified <span class=\"scv-matched\">without cause or reason</span>. ",
+            "en": "Sentient beings are purified <span class=\"ebt-matched\">without cause or reason</span>. ",
             "matched": true
           },
           "mn76:14.7": {
             "scid": "mn76:14.7",
             "pli": "Ubhopi mayaṁ ettha samasamā sāmaññaṁ pattā, yo cāhaṁ na vadāmi ‘ubho ahetū appaccayā visujjhissāmā’ti. ",
-            "en": "have attained exactly the same level. Yet I’m not one who says that both of us are purified <span class=\"scv-matched\">without cause or reason</span>. ",
+            "en": "have attained exactly the same level. Yet I’m not one who says that both of us are purified <span class=\"ebt-matched\">without cause or reason</span>. ",
             "matched": true
           }
         },
@@ -110,13 +110,13 @@
           "sn24.7:1.4": {
             "scid": "sn24.7:1.4",
             "pli": "Ahetū appaccayā sattā saṅkilissanti. ",
-            "en": "Sentient beings are corrupted <span class=\"scv-matched\">without cause or reason</span>. ",
+            "en": "Sentient beings are corrupted <span class=\"ebt-matched\">without cause or reason</span>. ",
             "matched": true
           },
           "sn24.7:1.6": {
             "scid": "sn24.7:1.6",
             "pli": "Ahetū appaccayā sattā visujjhanti. ",
-            "en": "Sentient beings are purified <span class=\"scv-matched\">without cause or reason</span>. ",
+            "en": "Sentient beings are purified <span class=\"ebt-matched\">without cause or reason</span>. ",
             "matched": true
           }
         },
@@ -145,13 +145,13 @@
           "sn22.60:2.3": {
             "scid": "sn22.60:2.3",
             "pli": "ahetū appaccayā sattā saṅkilissanti. ",
-            "en": "Sentient beings are corrupted <span class=\"scv-matched\">without cause or reason</span>. ",
+            "en": "Sentient beings are corrupted <span class=\"ebt-matched\">without cause or reason</span>. ",
             "matched": true
           },
           "sn22.60:2.5": {
             "scid": "sn22.60:2.5",
             "pli": "ahetū appaccayā sattā visujjhantī’ti. ",
-            "en": "Sentient beings are purified <span class=\"scv-matched\">without cause or reason</span>.’ ",
+            "en": "Sentient beings are purified <span class=\"ebt-matched\">without cause or reason</span>.’ ",
             "matched": true
           }
         },
@@ -180,13 +180,13 @@
           "mn60:21.3": {
             "scid": "mn60:21.3",
             "pli": "ahetū appaccayā sattā saṅkilissanti. ",
-            "en": "Sentient beings are corrupted <span class=\"scv-matched\">without cause or reason</span>. ",
+            "en": "Sentient beings are corrupted <span class=\"ebt-matched\">without cause or reason</span>. ",
             "matched": true
           },
           "mn60:21.5": {
             "scid": "mn60:21.5",
             "pli": "ahetū appaccayā sattā visujjhanti. ",
-            "en": "Sentient beings are purified <span class=\"scv-matched\">without cause or reason</span>. ",
+            "en": "Sentient beings are purified <span class=\"ebt-matched\">without cause or reason</span>. ",
             "matched": true
           }
         },
@@ -215,13 +215,13 @@
           "dn9:6.7": {
             "scid": "dn9:6.7",
             "pli": "‘ahetū appaccayā purisassa saññā uppajjantipi nirujjhantipi. ",
-            "en": "‘A person’s perceptions arise and cease <span class=\"scv-matched\">without cause or reason</span>. ",
+            "en": "‘A person’s perceptions arise and cease <span class=\"ebt-matched\">without cause or reason</span>. ",
             "matched": true
           },
           "dn9:7.2": {
             "scid": "dn9:7.2",
             "pli": "‘ahetū appaccayā purisassa saññā uppajjantipi nirujjhantipī’ti, āditova tesaṁ aparaddhaṁ. ",
-            "en": "a person’s perceptions arise and cease <span class=\"scv-matched\">without cause or reason</span> are wrong from the start. ",
+            "en": "a person’s perceptions arise and cease <span class=\"ebt-matched\">without cause or reason</span> are wrong from the start. ",
             "matched": true
           }
         },
@@ -250,7 +250,7 @@
           "an3.61:6.7": {
             "scid": "an3.61:6.7",
             "pli": "‘tenahāyasmanto pāṇātipātino bhavissanti ahetuappaccayā …pe… micchādiṭṭhikā bhavissanti ahetuappaccayā’”. ",
-            "en": "‘In that case, you might kill living creatures, steal, be unchaste; use speech that’s false, divisive, harsh, or nonsensical; be covetous, malicious, or have wrong view, all <span class=\"scv-matched\">without cause or reason</span>.’ ",
+            "en": "‘In that case, you might kill living creatures, steal, be unchaste; use speech that’s false, divisive, harsh, or nonsensical; be covetous, malicious, or have wrong view, all <span class=\"ebt-matched\">without cause or reason</span>.’ ",
             "matched": true
           }
         },

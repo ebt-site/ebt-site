@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,13 +60,13 @@
           "an5.73:2.3": {
             "scid": "an5.73:2.3",
             "pli": "So tāya dhammapariyattiyā divasaṁ atināmeti, riñcati paṭisallānaṁ, nānuyuñjati ajjhattaṁ cetosamathaṁ. ",
-            "en": "They spend their days <span class=\"scv-matched\">study</span>ing that teaching. But they neglect retreat, and are not committed to internal serenity of heart. ",
+            "en": "They spend their days <span class=\"ebt-matched\">study</span>ing that teaching. But they neglect retreat, and are not committed to internal serenity of heart. ",
             "matched": true
           },
           "an5.73:6.3": {
             "scid": "an5.73:6.3",
             "pli": "So tāya dhammapariyattiyā na divasaṁ atināmeti, nāpi riñcati paṭisallānaṁ, anuyuñjati ajjhattaṁ cetosamathaṁ. ",
-            "en": "They don’t spend their days <span class=\"scv-matched\">study</span>ing that teaching. They don’t neglect retreat, and they’re committed to internal serenity of heart. ",
+            "en": "They don’t spend their days <span class=\"ebt-matched\">study</span>ing that teaching. They don’t neglect retreat, and they’re committed to internal serenity of heart. ",
             "matched": true
           }
         },
@@ -95,13 +95,13 @@
           "an5.192:5.4": {
             "scid": "an5.192:5.4",
             "pli": "So aṭṭhacattālīsavassāni komārabrahmacariyaṁ carati mante adhīyamāno. ",
-            "en": "For forty-eight years he leads the virginal spiritual life <span class=\"scv-matched\">study</span>ing the hymns. ",
+            "en": "For forty-eight years he leads the virginal spiritual life <span class=\"ebt-matched\">study</span>ing the hymns. ",
             "matched": true
           },
           "an5.192:13.4": {
             "scid": "an5.192:13.4",
             "pli": "So aṭṭhacattālīsavassāni komārabrahmacariyaṁ carati mante adhīyamāno. ",
-            "en": "For forty-eight years he leads the virginal spiritual life <span class=\"scv-matched\">study</span>ing the hymns. ",
+            "en": "For forty-eight years he leads the virginal spiritual life <span class=\"ebt-matched\">study</span>ing the hymns. ",
             "matched": true
           }
         },
@@ -130,7 +130,7 @@
           "ud3.9:1.5": {
             "scid": "ud3.9:1.5",
             "pli": "Ko kiṁ sippaṁ sikkhi?",
-            "en": "Who is <span class=\"scv-matched\">study</span>ing which craft?",
+            "en": "Who is <span class=\"ebt-matched\">study</span>ing which craft?",
             "matched": true
           }
         },

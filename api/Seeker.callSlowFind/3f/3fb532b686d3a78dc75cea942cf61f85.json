@@ -14,7 +14,7 @@
       "searchLang": "jpn",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "jpn",
       "types": [
         "root",
@@ -58,7 +58,7 @@
             "scid": "an3.57:1.4",
             "pli": "‘mayhameva dānaṁ dātabbaṁ, nāññesaṁ dānaṁ dātabbaṁ; ",
             "en": "‘Gifts should only be given to me, not to others. ",
-            "jpn": "『贈り物は<span class=\"scv-matched\">私だけに贈られる</span>べきで、他の者には贈られるべきではない。",
+            "jpn": "『贈り物は<span class=\"ebt-matched\">私だけに贈られる</span>べきで、他の者には贈られるべきではない。",
             "matched": true
           }
         },

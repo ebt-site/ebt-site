@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn35.248:1.8": {
             "scid": "sn35.248:1.8",
             "pli": "Evameva kho, bhikkhave, assutavā puthujjano cakkhusmiṁ haññati manāpāmanāpehi rūpehi …pe… ",
-            "en": "In the same way, an uneducated ordinary person is <span class=\"scv-matched\">struck in the eye</span> by both pleasant and unpleasant sights. ",
+            "en": "In the same way, an uneducated ordinary person is <span class=\"ebt-matched\">struck in the eye</span> by both pleasant and unpleasant sights. ",
             "matched": true
           }
         },

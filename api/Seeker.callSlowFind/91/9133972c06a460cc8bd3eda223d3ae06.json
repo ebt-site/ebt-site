@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,13 +72,13 @@
           "an10.44:7.1": {
             "scid": "an10.44:7.1",
             "pli": "Katame pañca dhammā ajjhattaṁ upaṭṭhāpetabbā? ",
-            "en": "What five things should they <span class=\"scv-matched\">establish in</span> themselves? ",
+            "en": "What five things should they <span class=\"ebt-matched\">establish in</span> themselves? ",
             "matched": true
           },
           "an10.44:7.7": {
             "scid": "an10.44:7.7",
             "pli": "ime pañca dhammā ajjhattaṁ upaṭṭhāpetabbā. ",
-            "en": "These are the five things they should <span class=\"scv-matched\">establish in</span> themselves. ",
+            "en": "These are the five things they should <span class=\"ebt-matched\">establish in</span> themselves. ",
             "matched": true
           },
           "an10.44:7.8": {

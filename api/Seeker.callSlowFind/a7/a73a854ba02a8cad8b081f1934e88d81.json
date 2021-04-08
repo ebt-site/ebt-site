@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "mn56:15.2": {
             "scid": "mn56:15.2",
             "pli": "Api cāhaṁ imāni bhagavato vicitrāni pañhapaṭibhānāni sotukāmo, evāhaṁ bhagavantaṁ paccanīkaṁ kātabbaṁ amaññissaṁ. ",
-            "en": "Nevertheless, I wanted to hear the Buddha’s various solutions to <span class=\"scv-matched\">the problem</span>, so I thought I’d oppose you in this way. ",
+            "en": "Nevertheless, I wanted to hear the Buddha’s various solutions to <span class=\"ebt-matched\">the problem</span>, so I thought I’d oppose you in this way. ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "dn23:30.2": {
             "scid": "dn23:30.2",
             "pli": "Api cāhaṁ imāni vicitrāni pañhāpaṭibhānāni sotukāmo evāhaṁ bhavantaṁ kassapaṁ paccanīkaṁ kātabbaṁ amaññissaṁ. ",
-            "en": "Nevertheless, I wanted to hear your various solutions to <span class=\"scv-matched\">the problem</span>, so I thought I’d oppose you in this way. ",
+            "en": "Nevertheless, I wanted to hear your various solutions to <span class=\"ebt-matched\">the problem</span>, so I thought I’d oppose you in this way. ",
             "matched": true
           }
         },

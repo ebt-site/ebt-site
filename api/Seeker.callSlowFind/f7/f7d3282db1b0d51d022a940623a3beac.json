@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,14 +65,14 @@
           "an3.70:20.1": {
             "scid": "an3.70:20.1",
             "pli": "Yāvajīvaṁ arahanto adinnādānaṁ pahāya adinnādānā paṭiviratā dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharanti; ",
-            "de": "Solange sie leben, geben die Vollendeten <span class=\"scv-matched\">das Stehlen auf</span>. Sie nehmen nur, was gegeben wird, erwarten nur, was gegeben wird. Sie sind nicht diebisch und erhalten sich rein. ",
+            "de": "Solange sie leben, geben die Vollendeten <span class=\"ebt-matched\">das Stehlen auf</span>. Sie nehmen nur, was gegeben wird, erwarten nur, was gegeben wird. Sie sind nicht diebisch und erhalten sich rein. ",
             "en": "As long as they live, the perfected ones give up stealing. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
             "matched": true
           },
           "an3.70:20.2": {
             "scid": "an3.70:20.2",
             "pli": "ahampajja imañca rattiṁ imañca divasaṁ adinnādānaṁ pahāya adinnādānā paṭivirato dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharāmi. ",
-            "de": "Auch ich will für diesen Tag und diese Nacht <span class=\"scv-matched\">das Stehlen auf</span>geben. Ich will nur nehmen, was gegeben wird, nur erwarten, was gegeben wird. Ich will nicht diebisch sein und mich rein erhalten. ",
+            "de": "Auch ich will für diesen Tag und diese Nacht <span class=\"ebt-matched\">das Stehlen auf</span>geben. Ich will nur nehmen, was gegeben wird, nur erwarten, was gegeben wird. Ich will nicht diebisch sein und mich rein erhalten. ",
             "en": "I, too, for this day and night will give up stealing. I’ll take only what’s given, and expect only what’s given. I’ll keep myself clean by not thieving. ",
             "matched": true
           }
@@ -104,7 +104,7 @@
           "an5.178:2.3": {
             "scid": "an5.178:2.3",
             "pli": "‘ayaṁ puriso adinnādānaṁ pahāya adinnādānā paṭiviratoti. ",
-            "de": "dass ein Mensch <span class=\"scv-matched\">das Stehlen auf</span>gegeben hat – ",
+            "de": "dass ein Mensch <span class=\"ebt-matched\">das Stehlen auf</span>gegeben hat – ",
             "en": "of a person who has given up stealing, ",
             "matched": true
           }
@@ -136,7 +136,7 @@
           "an4.198:8.2": {
             "scid": "an4.198:8.2",
             "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati. ",
-            "de": "Sie gibt <span class=\"scv-matched\">das Stehlen auf</span>. Sie nimmt nur, was gegeben wird, erwartet nur, was gegeben wird. Sie ist nicht diebisch und ist innerlich rein. ",
+            "de": "Sie gibt <span class=\"ebt-matched\">das Stehlen auf</span>. Sie nimmt nur, was gegeben wird, erwartet nur, was gegeben wird. Sie ist nicht diebisch und ist innerlich rein. ",
             "en": "They give up stealing. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
             "matched": true
           }

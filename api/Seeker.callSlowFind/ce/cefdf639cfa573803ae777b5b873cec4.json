@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,7 +66,7 @@
           "sn6.1:10.1": {
             "scid": "sn6.1:10.1",
             "pli": "“Apārutā tesaṁ amatassa dvārā, ",
-            "en": "“Flung open are <span class=\"scv-matched\">the doors to the deathless</span>! ",
+            "en": "“Flung open are <span class=\"ebt-matched\">the doors to the deathless</span>! ",
             "matched": true
           }
         },
@@ -95,7 +95,7 @@
           "dn18:27.10": {
             "scid": "dn18:27.10",
             "pli": "‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhi apārutā amatassa dvārā’ti idameva taṁ sammā vadamāno vadeyya. ",
-            "en": "‘a teaching that’s well explained by the Buddha, visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves; and <span class=\"scv-matched\">the doors to the deathless</span> are flung open,’ it’s this. ",
+            "en": "‘a teaching that’s well explained by the Buddha, visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves; and <span class=\"ebt-matched\">the doors to the deathless</span> are flung open,’ it’s this. ",
             "matched": true
           }
         },
@@ -124,7 +124,7 @@
           "mn26:21.6": {
             "scid": "mn26:21.6",
             "pli": "‘Apārutā tesaṁ amatassa dvārā, ",
-            "en": "‘Flung open are <span class=\"scv-matched\">the doors to the deathless</span>! ",
+            "en": "‘Flung open are <span class=\"ebt-matched\">the doors to the deathless</span>! ",
             "matched": true
           }
         },
@@ -153,7 +153,7 @@
           "mn85:45.6": {
             "scid": "mn85:45.6",
             "pli": "‘Apārutā tesaṁ amatassa dvārā, ",
-            "en": "‘Flung open are <span class=\"scv-matched\">the doors to the deathless</span>! ",
+            "en": "‘Flung open are <span class=\"ebt-matched\">the doors to the deathless</span>! ",
             "matched": true
           }
         },
@@ -182,7 +182,7 @@
           "dn14:3.7.13": {
             "scid": "dn14:3.7.13",
             "pli": "‘Apārutā tesaṁ amatassa dvārā, ",
-            "en": "‘Flung open are <span class=\"scv-matched\">the doors to the deathless</span>! ",
+            "en": "‘Flung open are <span class=\"ebt-matched\">the doors to the deathless</span>! ",
             "matched": true
           }
         },

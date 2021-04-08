@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -84,19 +84,19 @@
           "sn45.28:1.2": {
             "scid": "sn45.28:1.2",
             "pli": "“Ariyaṁ vo, bhikkhave, sammāsamādhiṁ desessāmi saupanisaṁ saparikkhāraṁ. ",
-            "en": "“Mendicants, I will teach you noble right immersion with its <span class=\"scv-matched\">vital conditions</span> and its prerequisites. ",
+            "en": "“Mendicants, I will teach you noble right immersion with its <span class=\"ebt-matched\">vital conditions</span> and its prerequisites. ",
             "matched": true
           },
           "sn45.28:1.4": {
             "scid": "sn45.28:1.4",
             "pli": "Katamo ca, bhikkhave, ariyo sammāsamādhi saupaniso saparikkhāro? ",
-            "en": "And what is noble right immersion with its <span class=\"scv-matched\">vital conditions</span> and its prerequisites? ",
+            "en": "And what is noble right immersion with its <span class=\"ebt-matched\">vital conditions</span> and its prerequisites? ",
             "matched": true
           },
           "sn45.28:1.6": {
             "scid": "sn45.28:1.6",
             "pli": "Yā kho, bhikkhave, imehi sattahaṅgehi cittassa ekaggatā saparikkhāratā—",
-            "en": "Unification of mind with these seven factors as prerequisites is called noble right immersion ‘with its <span class=\"scv-matched\">vital conditions</span>’ and ‘with its prerequisites’.” ",
+            "en": "Unification of mind with these seven factors as prerequisites is called noble right immersion ‘with its <span class=\"ebt-matched\">vital conditions</span>’ and ‘with its prerequisites’.” ",
             "matched": true
           }
         },
@@ -125,19 +125,19 @@
           "sn12.23:0.3": {
             "scid": "sn12.23:0.3",
             "pli": "23. Upanisasutta ",
-            "en": "23. <span class=\"scv-matched\">Vital Conditions</span> ",
+            "en": "23. <span class=\"ebt-matched\">Vital Conditions</span> ",
             "matched": true
           },
           "sn12.23:6.4": {
             "scid": "sn12.23:6.4",
             "pli": "nāmarūpūpanisaṁ saḷāyatanaṁ, ",
-            "en": "Name and form are <span class=\"scv-matched\">vital conditions</span> for the six sense fields. ",
+            "en": "Name and form are <span class=\"ebt-matched\">vital conditions</span> for the six sense fields. ",
             "matched": true
           },
           "sn12.23:6.5": {
             "scid": "sn12.23:6.5",
             "pli": "saḷāyatanūpaniso phasso, ",
-            "en": "The six sense fields are <span class=\"scv-matched\">vital conditions</span> for contact. ",
+            "en": "The six sense fields are <span class=\"ebt-matched\">vital conditions</span> for contact. ",
             "matched": true
           }
         },
@@ -166,19 +166,19 @@
           "mn117:2.1": {
             "scid": "mn117:2.1",
             "pli": "“ariyaṁ vo, bhikkhave, sammāsamādhiṁ desessāmi saupanisaṁ saparikkhāraṁ. ",
-            "en": "“Mendicants, I will teach you noble right immersion with its <span class=\"scv-matched\">vital conditions</span> and its prerequisites. ",
+            "en": "“Mendicants, I will teach you noble right immersion with its <span class=\"ebt-matched\">vital conditions</span> and its prerequisites. ",
             "matched": true
           },
           "mn117:3.1": {
             "scid": "mn117:3.1",
             "pli": "“Katamo ca, bhikkhave, ariyo sammāsamādhi saupaniso saparikkhāro? ",
-            "en": "“And what is noble right immersion with its <span class=\"scv-matched\">vital conditions</span> and its prerequisites? ",
+            "en": "“And what is noble right immersion with its <span class=\"ebt-matched\">vital conditions</span> and its prerequisites? ",
             "matched": true
           },
           "mn117:3.4": {
             "scid": "mn117:3.4",
             "pli": "ayaṁ vuccati, bhikkhave, ariyo sammāsamādhi saupaniso itipi, saparikkhāro itipi. ",
-            "en": "is called noble right immersion with its <span class=\"scv-matched\">vital conditions</span> and also with its prerequisites. ",
+            "en": "is called noble right immersion with its <span class=\"ebt-matched\">vital conditions</span> and also with its prerequisites. ",
             "matched": true
           }
         },
@@ -207,7 +207,7 @@
           "an7.45:1.4": {
             "scid": "an7.45:1.4",
             "pli": "Yā kho, bhikkhave, imehi sattahaṅgehi cittassekaggatā parikkhatā, ayaṁ vuccati, bhikkhave, ariyo sammāsamādhi saupaniso itipi saparikkhāro itipī”ti. ",
-            "en": "Unification of mind with these seven factors as prerequisites is called noble right immersion ‘with its <span class=\"scv-matched\">vital conditions</span>’ and ‘with its prerequisites’.” ",
+            "en": "Unification of mind with these seven factors as prerequisites is called noble right immersion ‘with its <span class=\"ebt-matched\">vital conditions</span>’ and ‘with its prerequisites’.” ",
             "matched": true
           }
         },
@@ -236,7 +236,7 @@
           "an10.4:0.3": {
             "scid": "an10.4:0.3",
             "pli": "4. Dutiyaupanisasutta ",
-            "en": "4. <span class=\"scv-matched\">Vital Conditions</span> (2nd) ",
+            "en": "4. <span class=\"ebt-matched\">Vital Conditions</span> (2nd) ",
             "matched": true
           }
         },
@@ -265,7 +265,7 @@
           "an10.3:0.3": {
             "scid": "an10.3:0.3",
             "pli": "3. Paṭhamaupanisasutta ",
-            "en": "3. <span class=\"scv-matched\">Vital Conditions</span> (1st) ",
+            "en": "3. <span class=\"ebt-matched\">Vital Conditions</span> (1st) ",
             "matched": true
           }
         },
@@ -294,7 +294,7 @@
           "an10.5:0.3": {
             "scid": "an10.5:0.3",
             "pli": "5. Tatiyaupanisasutta ",
-            "en": "5. <span class=\"scv-matched\">Vital Conditions</span> (3rd) ",
+            "en": "5. <span class=\"ebt-matched\">Vital Conditions</span> (3rd) ",
             "matched": true
           }
         },
@@ -323,7 +323,7 @@
           "an11.3:0.3": {
             "scid": "an11.3:0.3",
             "pli": "3. Paṭhamaupanisāsutta ",
-            "en": "3. <span class=\"scv-matched\">Vital Conditions</span> (1st) ",
+            "en": "3. <span class=\"ebt-matched\">Vital Conditions</span> (1st) ",
             "matched": true
           }
         },
@@ -352,7 +352,7 @@
           "an11.5:0.3": {
             "scid": "an11.5:0.3",
             "pli": "5. Tatiyaupanisāsutta ",
-            "en": "5. <span class=\"scv-matched\">Vital Conditions</span> (3rd) ",
+            "en": "5. <span class=\"ebt-matched\">Vital Conditions</span> (3rd) ",
             "matched": true
           }
         },
@@ -381,7 +381,7 @@
           "an11.4:0.3": {
             "scid": "an11.4:0.3",
             "pli": "4. Dutiyaupanisāsutta ",
-            "en": "4. <span class=\"scv-matched\">Vital Conditions</span> (2nd) ",
+            "en": "4. <span class=\"ebt-matched\">Vital Conditions</span> (2nd) ",
             "matched": true
           }
         },
@@ -410,7 +410,7 @@
           "dn18:27.7": {
             "scid": "dn18:27.7",
             "pli": "Yā kho, bho, imehi sattahaṅgehi cittassa ekaggatā parikkhatā, ayaṁ vuccati, bho, ariyo sammāsamādhi saupaniso itipi saparikkhāro itipi. ",
-            "en": "Unification of mind with these seven factors as prerequisites is called noble right immersion ‘with its <span class=\"scv-matched\">vital conditions</span>’ and ‘with its prerequisites’. ",
+            "en": "Unification of mind with these seven factors as prerequisites is called noble right immersion ‘with its <span class=\"ebt-matched\">vital conditions</span>’ and ‘with its prerequisites’. ",
             "matched": true
           }
         },

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,28 +61,28 @@
           "an4.51:1.4": {
             "scid": "an4.51:1.4",
             "pli": "Yassa, bhikkhave, bhikkhu cīvaraṁ paribhuñjamāno appamāṇaṁ cetosamādhiṁ upasampajja viharati, appamāṇo tassa puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṁvattaniko iṭṭhāya kantāya manāpāya hitāya sukhāya saṁvattati. ",
-            "de": "Wenn ein Mönch in eine <span class=\"scv-matched\">grenzenlose Versenkung des Herzens</span> eintritt und darin verweilt, während er eine Robe benutzt, so ist das überfließende Verdienst für die Spenderin grenzenlos, das überfließende Gute ist grenzenlos. Diese Spende nährt das Glück und führt in den Himmel, sie reift zu Glück heran und bereitet den Weg zum Himmel. Sie führt zu dem, was erwünscht, willkommen und angenehm ist, zu Segen und Glück, in grenzenlosem Maß. ",
+            "de": "Wenn ein Mönch in eine <span class=\"ebt-matched\">grenzenlose Versenkung des Herzens</span> eintritt und darin verweilt, während er eine Robe benutzt, so ist das überfließende Verdienst für die Spenderin grenzenlos, das überfließende Gute ist grenzenlos. Diese Spende nährt das Glück und führt in den Himmel, sie reift zu Glück heran und bereitet den Weg zum Himmel. Sie führt zu dem, was erwünscht, willkommen und angenehm ist, zu Segen und Glück, in grenzenlosem Maß. ",
             "en": "When a mendicant enters and remains in a limitless immersion of heart while using a robe, the overflowing of merit for the donor is limitless … ",
             "matched": true
           },
           "an4.51:2.1": {
             "scid": "an4.51:2.1",
             "pli": "Yassa, bhikkhave, bhikkhu piṇḍapātaṁ paribhuñjamāno appamāṇaṁ cetosamādhiṁ upasampajja viharati, appamāṇo tassa puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṁvattaniko iṭṭhāya kantāya manāpāya hitāya sukhāya saṁvattati. ",
-            "de": "Wenn eine Nonne in eine <span class=\"scv-matched\">grenzenlose Versenkung des Herzens</span> eintritt und darin verweilt, während sie Almosen verzehrt, so ist das überfließende Verdienst für den Spender grenzenlos, das überfließende Gute ist grenzenlos … ",
+            "de": "Wenn eine Nonne in eine <span class=\"ebt-matched\">grenzenlose Versenkung des Herzens</span> eintritt und darin verweilt, während sie Almosen verzehrt, so ist das überfließende Verdienst für den Spender grenzenlos, das überfließende Gute ist grenzenlos … ",
             "en": "When a mendicant enters and remains in a limitless immersion of heart while eating alms-food, the overflowing of merit for the donor is limitless … ",
             "matched": true
           },
           "an4.51:3.1": {
             "scid": "an4.51:3.1",
             "pli": "Yassa, bhikkhave, bhikkhu senāsanaṁ paribhuñjamāno appamāṇaṁ cetosamādhiṁ upasampajja viharati, appamāṇo tassa puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṁvattaniko iṭṭhāya kantāya manāpāya hitāya sukhāya saṁvattati. ",
-            "de": "Wenn ein Mönch in eine <span class=\"scv-matched\">grenzenlose Versenkung des Herzens</span> eintritt und darin verweilt, während er eine Unterkunft benutzt, so ist das überfließende Verdienst für die Spenderin grenzenlos, das überfließende Gute ist grenzenlos … ",
+            "de": "Wenn ein Mönch in eine <span class=\"ebt-matched\">grenzenlose Versenkung des Herzens</span> eintritt und darin verweilt, während er eine Unterkunft benutzt, so ist das überfließende Verdienst für die Spenderin grenzenlos, das überfließende Gute ist grenzenlos … ",
             "en": "When a mendicant enters and remains in a limitless immersion of heart while using lodgings, the overflowing of merit for the donor is limitless … ",
             "matched": true
           },
           "an4.51:4.1": {
             "scid": "an4.51:4.1",
             "pli": "Yassa, bhikkhave, bhikkhu gilānappaccayabhesajjaparikkhāraṁ paribhuñjamāno appamāṇaṁ cetosamādhiṁ upasampajja viharati, appamāṇo tassa puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṁvattaniko iṭṭhāya kantāya manāpāya hitāya sukhāya saṁvattati. ",
-            "de": "Wenn eine Nonne in eine <span class=\"scv-matched\">grenzenlose Versenkung des Herzens</span> eintritt und darin verweilt, während sie Arznei und Krankenversorgung benutzt, so ist das überfließende Verdienst für den Spender grenzenlos, das überfließende Gute ist grenzenlos … ",
+            "de": "Wenn eine Nonne in eine <span class=\"ebt-matched\">grenzenlose Versenkung des Herzens</span> eintritt und darin verweilt, während sie Arznei und Krankenversorgung benutzt, so ist das überfließende Verdienst für den Spender grenzenlos, das überfließende Gute ist grenzenlos … ",
             "en": "When a mendicant enters and remains in a limitless immersion of heart while using medicines and supplies for the sick, the overflowing of merit for the donor is limitless … ",
             "matched": true
           }
@@ -114,7 +114,7 @@
           "an5.45:2.2": {
             "scid": "an5.45:2.2",
             "pli": "Yassa, bhikkhave, bhikkhu cīvaraṁ paribhuñjamāno appamāṇaṁ cetosamādhiṁ upasampajja viharati, appamāṇo tassa puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṁvattaniko iṭṭhāya kantāya manāpāya hitāya sukhāya saṁvattati. ",
-            "de": "Wenn ein Mönch in eine <span class=\"scv-matched\">grenzenlose Versenkung des Herzens</span> eintritt und darin verweilt, während er eine Robe benutzt … ",
+            "de": "Wenn ein Mönch in eine <span class=\"ebt-matched\">grenzenlose Versenkung des Herzens</span> eintritt und darin verweilt, während er eine Robe benutzt … ",
             "en": "When a mendicant enters and remains in a limitless immersion of heart while using a robe … ",
             "matched": true
           }

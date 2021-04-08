@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -63,7 +63,7 @@
           "mn10:46.3": {
             "scid": "mn10:46.3",
             "pli": "Tiṭṭhantu, bhikkhave, satta vassāni. ",
-            "en": "<span class=\"scv-matched\">Let alone seven years</span>, ",
+            "en": "<span class=\"ebt-matched\">Let alone seven years</span>, ",
             "matched": true
           }
         },
@@ -92,7 +92,7 @@
           "dn25:22.10": {
             "scid": "dn25:22.10",
             "pli": "Tiṭṭhantu, nigrodha, satta vassāni. ",
-            "en": "<span class=\"scv-matched\">Let alone seven years</span>. ",
+            "en": "<span class=\"ebt-matched\">Let alone seven years</span>. ",
             "matched": true
           }
         },
@@ -121,7 +121,7 @@
           "dn22:22.3": {
             "scid": "dn22:22.3",
             "pli": "Tiṭṭhantu, bhikkhave, sattavassāni. ",
-            "en": "<span class=\"scv-matched\">Let alone seven years</span>, ",
+            "en": "<span class=\"ebt-matched\">Let alone seven years</span>, ",
             "matched": true
           }
         },
@@ -150,7 +150,7 @@
           "mn85:59.3": {
             "scid": "mn85:59.3",
             "pli": "Tiṭṭhantu, rājakumāra, satta vassāni. ",
-            "en": "<span class=\"scv-matched\">Let alone seven years</span>, ",
+            "en": "<span class=\"ebt-matched\">Let alone seven years</span>, ",
             "matched": true
           }
         },

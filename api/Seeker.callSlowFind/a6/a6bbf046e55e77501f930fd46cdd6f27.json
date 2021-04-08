@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an4.9:3.4": {
             "scid": "an4.9:3.4",
             "pli": "Sato bhikkhu paribbaje”ti. ",
-            "de": "<span class=\"scv-matched\">ohne Verlangen</span>, ohne Ergreifen.“ ",
+            "de": "<span class=\"ebt-matched\">ohne Verlangen</span>, ohne Ergreifen.“ ",
             "en": "a mendicant would go forth mindfully.” ",
             "matched": true
           }

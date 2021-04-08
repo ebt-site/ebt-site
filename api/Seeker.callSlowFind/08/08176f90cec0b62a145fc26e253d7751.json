@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an6.55:4.4": {
             "scid": "an6.55:4.4",
             "pli": "“Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā”ti? ",
-            "en": "“When your harp’s strings were <span class=\"scv-matched\">tuned too tight</span>, was it resonant and playable?” ",
+            "en": "“When your harp’s strings were <span class=\"ebt-matched\">tuned too tight</span>, was it resonant and playable?” ",
             "matched": true
           },
           "an6.55:6.1": {

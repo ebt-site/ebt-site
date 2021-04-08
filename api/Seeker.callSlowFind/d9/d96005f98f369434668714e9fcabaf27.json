@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,14 +61,14 @@
           "an5.167:1.2": {
             "scid": "an5.167:1.2",
             "pli": "“codakena, āvuso, bhikkhunā paraṁ codetukāmena pañca dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo. ",
-            "de": "„Eine Nonne, die eine andere anklagen will, soll zuerst fünf <span class=\"scv-matched\">Dinge bei sich selbst</span> sicherstellen. ",
+            "de": "„Eine Nonne, die eine andere anklagen will, soll zuerst fünf <span class=\"ebt-matched\">Dinge bei sich selbst</span> sicherstellen. ",
             "en": "“Reverends, a mendicant who wants to accuse another should first establish five things in themselves. ",
             "matched": true
           },
           "an5.167:2.7": {
             "scid": "an5.167:2.7",
             "pli": "Codakena, āvuso, bhikkhunā paraṁ codetukāmena ime pañca dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo. ",
-            "de": "Eine Nonne, die eine andere anklagen will, soll zuerst diese fünf <span class=\"scv-matched\">Dinge bei sich selbst</span> sicherstellen. ",
+            "de": "Eine Nonne, die eine andere anklagen will, soll zuerst diese fünf <span class=\"ebt-matched\">Dinge bei sich selbst</span> sicherstellen. ",
             "en": "A mendicant who wants to accuse another should first establish these five things in themselves. ",
             "matched": true
           }
@@ -100,14 +100,14 @@
           "dn33:2.1.58": {
             "scid": "dn33:2.1.58",
             "pli": "Codakena, āvuso, bhikkhunā paraṁ codetukāmena pañca dhamme ajjhattaṁ upaṭṭhapetvā paro codetabbo. ",
-            "de": "Ein Mönch, der einen anderen anklagen will, soll zuerst fünf <span class=\"scv-matched\">Dinge bei sich selbst</span> sicherstellen: ",
+            "de": "Ein Mönch, der einen anderen anklagen will, soll zuerst fünf <span class=\"ebt-matched\">Dinge bei sich selbst</span> sicherstellen: ",
             "en": "A mendicant who wants to accuse another should first establish five things in themselves. ",
             "matched": true
           },
           "dn33:2.1.64": {
             "scid": "dn33:2.1.64",
             "pli": "Codakena, āvuso, bhikkhunā paraṁ codetukāmena ime pañca dhamme ajjhattaṁ upaṭṭhapetvā paro codetabbo. ",
-            "de": "Ein Mönch, der einen anderen anklagen will, soll zuerst diese fünf <span class=\"scv-matched\">Dinge bei sich selbst</span> sicherstellen. ",
+            "de": "Ein Mönch, der einen anderen anklagen will, soll zuerst diese fünf <span class=\"ebt-matched\">Dinge bei sich selbst</span> sicherstellen. ",
             "en": "A mendicant who wants to accuse another should first establish these five things in themselves. ",
             "matched": true
           }

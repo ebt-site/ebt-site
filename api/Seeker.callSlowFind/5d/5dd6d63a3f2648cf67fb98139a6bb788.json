@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "mn94:8.9": {
             "scid": "mn94:8.9",
             "pli": "Ye ca me bhotā udenena cattāro puggalā saṅkhittena vuttā vitthārena avibhattā, sādhu me bhavaṁ, udeno ime cattāro puggale vitthārena vibhajatu anukampaṁ upādāyā”ti. ",
-            "en": "Now, these <span class=\"scv-matched\">four kinds of people</span> that you’ve spoken of in a brief summary: please explain them to me in detail, out of compassion.” ",
+            "en": "Now, these <span class=\"ebt-matched\">four kinds of people</span> that you’ve spoken of in a brief summary: please explain them to me in detail, out of compassion.” ",
             "matched": true
           }
         },

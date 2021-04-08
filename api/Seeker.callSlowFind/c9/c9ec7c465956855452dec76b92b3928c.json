@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,13 +72,13 @@
           "sn56.45:3.2": {
             "scid": "sn56.45:3.2",
             "pli": "katamaṁ nu kho dukkarataraṁ vā durabhisambhavataraṁ vā—",
-            "en": "Which is harder and more <span class=\"scv-matched\">challenging</span>: ",
+            "en": "Which is harder and more <span class=\"ebt-matched\">challenging</span>: ",
             "matched": true
           },
           "sn56.45:3.4": {
             "scid": "sn56.45:3.4",
             "pli": "“Etadeva, bhante, dukkaratarañceva durabhisambhavatarañca yo vā sattadhā bhinnassa vālassa koṭiyā koṭiṁ paṭivijjheyyā”ti. ",
-            "en": "“It’s more difficult and <span class=\"scv-matched\">challenging</span>, sir, to take a horsehair split into seven strands and penetrate one tip with another tip.” ",
+            "en": "“It’s more difficult and <span class=\"ebt-matched\">challenging</span>, sir, to take a horsehair split into seven strands and penetrate one tip with another tip.” ",
             "matched": true
           }
         },
@@ -107,13 +107,13 @@
           "an2.2:1.1": {
             "scid": "an2.2:1.1",
             "pli": "“Dvemāni, bhikkhave, padhānāni durabhisambhavāni lokasmiṁ. ",
-            "en": "“These two endeavors are <span class=\"scv-matched\">challenging</span> in the world. ",
+            "en": "“These two endeavors are <span class=\"ebt-matched\">challenging</span> in the world. ",
             "matched": true
           },
           "an2.2:1.4": {
             "scid": "an2.2:1.4",
             "pli": "Imāni kho, bhikkhave, dve padhānāni durabhisambhavāni lokasmiṁ. ",
-            "en": "These are the two endeavors that are <span class=\"scv-matched\">challenging</span> in the world. ",
+            "en": "These are the two endeavors that are <span class=\"ebt-matched\">challenging</span> in the world. ",
             "matched": true
           }
         },
@@ -142,13 +142,13 @@
           "mn4:2.8": {
             "scid": "mn4:2.8",
             "pli": "“Durabhisambhavāni hi kho, bho gotama, araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ",
-            "en": "“But Master Gotama, remote lodgings in the wilderness and the forest are <span class=\"scv-matched\">challenging</span>. It’s hard to maintain seclusion and hard to find joy in it. ",
+            "en": "“But Master Gotama, remote lodgings in the wilderness and the forest are <span class=\"ebt-matched\">challenging</span>. It’s hard to maintain seclusion and hard to find joy in it. ",
             "matched": true
           },
           "mn4:3.2": {
             "scid": "mn4:3.2",
             "pli": "‘durabhisambhavāni hi kho araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ",
-            "en": "‘Remote lodgings in the wilderness and the forest are <span class=\"scv-matched\">challenging</span>. It’s hard to maintain seclusion, and hard to find joy in it. ",
+            "en": "‘Remote lodgings in the wilderness and the forest are <span class=\"ebt-matched\">challenging</span>. It’s hard to maintain seclusion, and hard to find joy in it. ",
             "matched": true
           }
         },
@@ -177,13 +177,13 @@
           "dn16:4.28.2": {
             "scid": "dn16:4.28.2",
             "pli": "katamaṁ nu kho dukkarataraṁ vā durabhisambhavataraṁ vā—",
-            "en": "Which is harder and more <span class=\"scv-matched\">challenging</span> to do while conscious and awake: ",
+            "en": "Which is harder and more <span class=\"ebt-matched\">challenging</span> to do while conscious and awake: ",
             "matched": true
           },
           "dn16:4.29.2": {
             "scid": "dn16:4.29.2",
             "pli": "Atha kho etadeva dukkaratarañceva durabhisambhavatarañca yo saññī samāno jāgaro deve vassante deve gaḷagaḷāyante vijjullatāsu niccharantīsu asaniyā phalantiyā neva passeyya, na pana saddaṁ suṇeyyā”ti. ",
-            "en": "It’s far harder and more <span class=\"scv-matched\">challenging</span> to neither see nor hear a sound as it’s raining and pouring, lightning’s flashing, and thunder’s cracking!” ",
+            "en": "It’s far harder and more <span class=\"ebt-matched\">challenging</span> to neither see nor hear a sound as it’s raining and pouring, lightning’s flashing, and thunder’s cracking!” ",
             "matched": true
           }
         },
@@ -212,7 +212,7 @@
           "thig3.8:1.1": {
             "scid": "thig3.8:1.1",
             "pli": "“Yaṁ taṁ isīhi pattabbaṁ,",
-            "en": "“That state’s very <span class=\"scv-matched\">challenging</span>;",
+            "en": "“That state’s very <span class=\"ebt-matched\">challenging</span>;",
             "matched": true
           }
         },
@@ -241,7 +241,7 @@
           "sn5.2:2.1": {
             "scid": "sn5.2:2.1",
             "pli": "“Yaṁ taṁ isīhi pattabbaṁ, ",
-            "en": "“That state’s very <span class=\"scv-matched\">challenging</span>; ",
+            "en": "“That state’s very <span class=\"ebt-matched\">challenging</span>; ",
             "matched": true
           }
         },
@@ -270,7 +270,7 @@
           "an10.99:2.1": {
             "scid": "an10.99:2.1",
             "pli": "“Durabhisambhavāni hi kho, upāli, araññavanapatthāni pantāni senāsanāni. ",
-            "en": "“Upāli, remote lodgings in the wilderness and the forest are <span class=\"scv-matched\">challenging</span>. ",
+            "en": "“Upāli, remote lodgings in the wilderness and the forest are <span class=\"ebt-matched\">challenging</span>. ",
             "matched": true
           }
         },

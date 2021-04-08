@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -73,14 +73,14 @@
           "an3.95:4.2": {
             "scid": "an3.95:4.2",
             "pli": "Idha, bhikkhave, yassaṁ parisāyaṁ bhikkhū samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṁ piyacakkhūhi sampassantā viharanti, ayaṁ vuccati, bhikkhave, samaggā parisā. ",
-            "de": "Eine Versammlung, in der die Mönche und Nonnen in Eintracht leben, sich gegenseitig wertschätzen, ohne Streit, sich wie <span class=\"scv-matched\">Milch und Wasser</span> mischen und einander mit freundlichen Augen betrachten. Das nennt man eine einträchtige Versammlung. ",
+            "de": "Eine Versammlung, in der die Mönche und Nonnen in Eintracht leben, sich gegenseitig wertschätzen, ohne Streit, sich wie <span class=\"ebt-matched\">Milch und Wasser</span> mischen und einander mit freundlichen Augen betrachten. Das nennt man eine einträchtige Versammlung. ",
             "en": "An assembly where the mendicants live in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes. This is called a harmonious assembly. ",
             "matched": true
           },
           "an3.95:7.1": {
             "scid": "an3.95:7.1",
             "pli": "Evamevaṁ kho, bhikkhave, yasmiṁ samaye bhikkhū samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṁ piyacakkhūhi sampassantā viharanti, bahuṁ, bhikkhave, bhikkhū tasmiṁ samaye puññaṁ pasavanti. ",
-            "de": "Ebenso schaffen Mönche und Nonnen viel Verdienst, wenn sie in Eintracht leben, sich gegenseitig wertschätzen, ohne Streit, sich wie <span class=\"scv-matched\">Milch und Wasser</span> mischen und einander mit freundlichen Augen betrachten. ",
+            "de": "Ebenso schaffen Mönche und Nonnen viel Verdienst, wenn sie in Eintracht leben, sich gegenseitig wertschätzen, ohne Streit, sich wie <span class=\"ebt-matched\">Milch und Wasser</span> mischen und einander mit freundlichen Augen betrachten. ",
             "en": "In the same way, when the mendicants are in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes, they make much merit. ",
             "matched": true
           }
@@ -112,7 +112,7 @@
           "an3.124:2.1": {
             "scid": "an3.124:2.1",
             "pli": "Yassaṁ pana, bhikkhave, disāyaṁ bhikkhū samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṁ piyacakkhūhi sampassantā viharanti, gantumpi me esā, bhikkhave, disā phāsu hoti, pageva manasi kātuṁ. ",
-            "de": "Zu einem Ort, an dem die Nonnen und Mönche in Eintracht leben, sich gegenseitig wertschätzen, ohne Streit, sich wie <span class=\"scv-matched\">Milch und Wasser</span> mischen und einander mit freundlichen Augen betrachten, mag ich gerne hingehen, und erst recht daran denken. ",
+            "de": "Zu einem Ort, an dem die Nonnen und Mönche in Eintracht leben, sich gegenseitig wertschätzen, ohne Streit, sich wie <span class=\"ebt-matched\">Milch und Wasser</span> mischen und einander mit freundlichen Augen betrachten, mag ich gerne hingehen, und erst recht daran denken. ",
             "en": "I feel comfortable going to a place where the mendicants live in harmony—appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes—let alone thinking about it. ",
             "matched": true
           }
@@ -144,7 +144,7 @@
           "an5.54:9.1": {
             "scid": "an5.54:9.1",
             "pli": "Puna caparaṁ, bhikkhave, manussā samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṁ piyacakkhūhi sampassantā viharanti. ",
-            "de": "Dann leben da die Menschen in Eintracht, mit gegenseitiger Wertschätzung, ohne Streit, mischen sich wie <span class=\"scv-matched\">Milch und Wasser</span> und betrachten einander mit freundlichen Augen. ",
+            "de": "Dann leben da die Menschen in Eintracht, mit gegenseitiger Wertschätzung, ohne Streit, mischen sich wie <span class=\"ebt-matched\">Milch und Wasser</span> und betrachten einander mit freundlichen Augen. ",
             "en": "Furthermore, people live in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes. ",
             "matched": true
           }
@@ -176,7 +176,7 @@
           "an5.78:4.2": {
             "scid": "an5.78:4.2",
             "pli": "‘etarahi kho manussā samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṁ piyacakkhūhi sampassantā viharanti. ",
-            "de": "‚Gegenwärtig leben die Menschen in Eintracht, mit gegenseitiger Wertschätzung, ohne Streit, mischen sich wie <span class=\"scv-matched\">Milch und Wasser</span> und betrachten einander mit freundlichen Augen. ",
+            "de": "‚Gegenwärtig leben die Menschen in Eintracht, mit gegenseitiger Wertschätzung, ohne Streit, mischen sich wie <span class=\"ebt-matched\">Milch und Wasser</span> und betrachten einander mit freundlichen Augen. ",
             "en": "‘Currently, people live in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes. ",
             "matched": true
           }
@@ -208,7 +208,7 @@
           "an2.43:2.2": {
             "scid": "an2.43:2.2",
             "pli": "Idha, bhikkhave, yassaṁ parisāyaṁ bhikkhū samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṁ piyacakkhūhi sampassantā viharanti. ",
-            "de": "Eine Versammlung, in der die Mönche und Nonnen in Eintracht leben, sich gegenseitig wertschätzen, ohne Streit, sich wie <span class=\"scv-matched\">Milch und Wasser</span> mischen und einander mit freundlichen Augen betrachten. ",
+            "de": "Eine Versammlung, in der die Mönche und Nonnen in Eintracht leben, sich gegenseitig wertschätzen, ohne Streit, sich wie <span class=\"ebt-matched\">Milch und Wasser</span> mischen und einander mit freundlichen Augen betrachten. ",
             "en": "An assembly where the mendicants live in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes. ",
             "matched": true
           }

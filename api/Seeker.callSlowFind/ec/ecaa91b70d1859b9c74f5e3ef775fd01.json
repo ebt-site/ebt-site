@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,13 +66,13 @@
           "an9.93:1.1": {
             "scid": "an9.93:1.1",
             "pli": "“Rāgassa, bhikkhave, abhiññāya nava dhammā bhāvetabbā. ",
-            "en": "“For insight into greed, <span class=\"scv-matched\">nine things should be developed</span>. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">nine things should be developed</span>. ",
             "matched": true
           },
           "an9.93:1.4": {
             "scid": "an9.93:1.4",
             "pli": "rāgassa, bhikkhave, abhiññāya ime nava dhammā bhāvetabbā”ti. ",
-            "en": "For insight into greed, these <span class=\"scv-matched\">nine things should be developed</span>.”",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">nine things should be developed</span>.”",
             "matched": true
           }
         },
@@ -101,13 +101,13 @@
           "an9.94:1.1": {
             "scid": "an9.94:1.1",
             "pli": "“Rāgassa, bhikkhave, abhiññāya nava dhammā bhāvetabbā. ",
-            "en": "“For insight into greed, <span class=\"scv-matched\">nine things should be developed</span>. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">nine things should be developed</span>. ",
             "matched": true
           },
           "an9.94:1.4": {
             "scid": "an9.94:1.4",
             "pli": "rāgassa, bhikkhave, abhiññāya ime nava dhammā bhāvetabbā”ti. ",
-            "en": "For insight into greed, these <span class=\"scv-matched\">nine things should be developed</span>.”",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">nine things should be developed</span>.”",
             "matched": true
           }
         },
@@ -136,7 +136,7 @@
           "an9.95-112:1.10": {
             "scid": "an9.95-112:1.10",
             "pli": "ime nava dhammā bhāvetabbā”. ",
-            "en": "these <span class=\"scv-matched\">nine things should be developed</span>.”",
+            "en": "these <span class=\"ebt-matched\">nine things should be developed</span>.”",
             "matched": true
           }
         },
@@ -165,7 +165,7 @@
           "an9.113-432:1.26": {
             "scid": "an9.113-432:1.26",
             "pli": "ime nava dhammā bhāvetabbā”ti. ",
-            "en": "these <span class=\"scv-matched\">nine things should be developed</span>.” ",
+            "en": "these <span class=\"ebt-matched\">nine things should be developed</span>.” ",
             "matched": true
           }
         },
@@ -194,7 +194,7 @@
           "dn34:2.2.5": {
             "scid": "dn34:2.2.5",
             "pli": "Katame nava dhammā bhāvetabbā? ",
-            "en": "What <span class=\"scv-matched\">nine things should be developed</span>? ",
+            "en": "What <span class=\"ebt-matched\">nine things should be developed</span>? ",
             "matched": true
           }
         },

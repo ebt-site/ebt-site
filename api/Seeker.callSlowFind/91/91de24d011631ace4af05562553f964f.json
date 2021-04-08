@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -78,13 +78,13 @@
           "mn119:7.1": {
             "scid": "mn119:7.1",
             "pli": "Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
-            "en": "Furthermore, a mendicant examines their own body, up <span class=\"scv-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "en": "Furthermore, a mendicant examines their own body, up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
             "matched": true
           },
           "mn119:7.7": {
             "scid": "mn119:7.7",
             "pli": "evameva kho, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
-            "en": "In the same way, a mendicant examines their own body, up <span class=\"scv-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. … ",
+            "en": "In the same way, a mendicant examines their own body, up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. … ",
             "matched": true
           }
         },
@@ -113,7 +113,7 @@
           "thig2.8:1.2": {
             "scid": "thig2.8:1.2",
             "pli": "adho ve kesamatthakā;",
-            "en": "up <span class=\"scv-matched\">from the soles of the feet</span>,",
+            "en": "up <span class=\"ebt-matched\">from the soles of the feet</span>,",
             "matched": true
           }
         },
@@ -142,7 +142,7 @@
           "sn35.127:3.2": {
             "scid": "sn35.127:3.2",
             "pli": "‘etha tumhe, bhikkhave, imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhatha—",
-            "en": "‘Please, monks, examine your own body up <span class=\"scv-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "en": "‘Please, monks, examine your own body up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
             "matched": true
           }
         },
@@ -171,7 +171,7 @@
           "an6.29:6.1": {
             "scid": "an6.29:6.1",
             "pli": "Puna caparaṁ, bhante, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
-            "en": "Furthermore, a mendicant examines their own body up <span class=\"scv-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "en": "Furthermore, a mendicant examines their own body up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
             "matched": true
           }
         },
@@ -200,7 +200,7 @@
           "an10.60:6.2": {
             "scid": "an10.60:6.2",
             "pli": "Idhānanda, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānāppakārassa asucino paccavekkhati: ",
-            "en": "It’s when a mendicant examines their own body up <span class=\"scv-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "en": "It’s when a mendicant examines their own body up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
             "matched": true
           }
         },
@@ -229,7 +229,7 @@
           "sn51.20:8.2": {
             "scid": "sn51.20:8.2",
             "pli": "Idha, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
-            "en": "It’s when a mendicant examines their own body up <span class=\"scv-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "en": "It’s when a mendicant examines their own body up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
             "matched": true
           }
         },
@@ -258,7 +258,7 @@
           "dn28:7.3": {
             "scid": "dn28:7.3",
             "pli": "Idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
-            "en": "Firstly, some ascetic or brahmin—by dint of keen, resolute, committed, and diligent effort, and right focus—experiences an immersion of the heart of such a kind that they examine their own body up <span class=\"scv-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "en": "Firstly, some ascetic or brahmin—by dint of keen, resolute, committed, and diligent effort, and right focus—experiences an immersion of the heart of such a kind that they examine their own body up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
             "matched": true
           }
         },
@@ -287,7 +287,7 @@
           "mn10:10.1": {
             "scid": "mn10:10.1",
             "pli": "Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā, adho kesamatthakā, tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
-            "en": "Furthermore, a mendicant examines their own body, up <span class=\"scv-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "en": "Furthermore, a mendicant examines their own body, up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
             "matched": true
           }
         },
@@ -316,7 +316,7 @@
           "dn22:5.1": {
             "scid": "dn22:5.1",
             "pli": "Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
-            "en": "Furthermore, a mendicant examines their own body, up <span class=\"scv-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "en": "Furthermore, a mendicant examines their own body, up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
             "matched": true
           }
         },

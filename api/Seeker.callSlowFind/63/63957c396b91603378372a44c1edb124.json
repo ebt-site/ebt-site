@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,7 +65,7 @@
           "an3.27:3.6": {
             "scid": "an3.27:3.6",
             "pli": "‘kalyāṇamitto purisapuggalo kalyāṇasahāyo kalyāṇasampavaṅko’ti. ",
-            "de": "‚Diese Person hat <span class=\"scv-matched\">gute Freunde, gute Genossen, gute Gefährten</span>.‘ ",
+            "de": "‚Diese Person hat <span class=\"ebt-matched\">gute Freunde, gute Genossen, gute Gefährten</span>.‘ ",
             "en": "‘That individual has good friends, companions, and associates.’ ",
             "matched": true
           }
@@ -97,7 +97,7 @@
           "dn33:3.3.11": {
             "scid": "dn33:3.3.11",
             "pli": "Puna caparaṁ, āvuso, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko. ",
-            "de": "Weiterhin hat ein Mönch <span class=\"scv-matched\">gute Freunde, gute Genossen, gute Gefährten</span>. ",
+            "de": "Weiterhin hat ein Mönch <span class=\"ebt-matched\">gute Freunde, gute Genossen, gute Gefährten</span>. ",
             "en": "Furthermore, a mendicant has good friends, companions, and associates. ",
             "matched": true
           }
@@ -129,7 +129,7 @@
           "dn34:2.3.10": {
             "scid": "dn34:2.3.10",
             "pli": "Puna caparaṁ, āvuso, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko. ",
-            "de": "Dann hat da ein Mönch <span class=\"scv-matched\">gute Freunde, gute Genossen, gute Gefährten</span>. ",
+            "de": "Dann hat da ein Mönch <span class=\"ebt-matched\">gute Freunde, gute Genossen, gute Gefährten</span>. ",
             "en": "Furthermore, a mendicant has good friends, companions, and associates. ",
             "matched": true
           }

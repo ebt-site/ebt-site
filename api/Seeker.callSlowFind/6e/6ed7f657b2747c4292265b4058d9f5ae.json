@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,14 +57,14 @@
           "an5.73:2.3": {
             "scid": "an5.73:2.3",
             "pli": "So tāya dhammapariyattiyā divasaṁ atināmeti, riñcati paṭisallānaṁ, nānuyuñjati ajjhattaṁ cetosamathaṁ. ",
-            "de": "Sie verbringt ihre Tage damit, diese Lehre <span class=\"scv-matched\">zu studieren</span>. Doch sie vernachlässigt die Klausur und weiht sich nicht der inneren Ruhe des Herzens. ",
+            "de": "Sie verbringt ihre Tage damit, diese Lehre <span class=\"ebt-matched\">zu studieren</span>. Doch sie vernachlässigt die Klausur und weiht sich nicht der inneren Ruhe des Herzens. ",
             "en": "They spend their days studying that teaching. But they neglect retreat, and are not committed to internal serenity of heart. ",
             "matched": true
           },
           "an5.73:6.3": {
             "scid": "an5.73:6.3",
             "pli": "So tāya dhammapariyattiyā na divasaṁ atināmeti, nāpi riñcati paṭisallānaṁ, anuyuñjati ajjhattaṁ cetosamathaṁ. ",
-            "de": "Sie verbringt ihre Tage nicht damit, diese Lehre <span class=\"scv-matched\">zu studieren</span>. Sie vernachlässigt die Klausur nicht und weiht sich der inneren Ruhe des Herzens. ",
+            "de": "Sie verbringt ihre Tage nicht damit, diese Lehre <span class=\"ebt-matched\">zu studieren</span>. Sie vernachlässigt die Klausur nicht und weiht sich der inneren Ruhe des Herzens. ",
             "en": "They don’t spend their days studying that teaching. They don’t neglect retreat, and they’re committed to internal serenity of heart. ",
             "matched": true
           }

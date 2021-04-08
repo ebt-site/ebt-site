@@ -14,7 +14,7 @@
       "searchLang": "jpn",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "jpn",
       "types": [
         "root",
@@ -58,7 +58,7 @@
             "scid": "an3.39:1.3",
             "pli": "Ekattha sudaṁ, bhikkhave, uppalaṁ vappati, ekattha padumaṁ, ekattha puṇḍarīkaṁ, yāvadeva mamatthāya. ",
             "en": "In some, blue water lilies blossomed, while in others, there were pink or white lotuses, just for my benefit. ",
-            "jpn": "ある所には<span class=\"scv-matched\">青い花の蓮</span>が、ある所にはピンクの花の蓮が、ある所には白い花の蓮が、私だけのために植えられていました。",
+            "jpn": "ある所には<span class=\"ebt-matched\">青い花の蓮</span>が、ある所にはピンクの花の蓮が、ある所には白い花の蓮が、私だけのために植えられていました。",
             "matched": true
           }
         },

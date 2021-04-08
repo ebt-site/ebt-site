@@ -1,7 +1,7 @@
 <template>
-  <div class="scv-nav-cursor">
+  <div class="ebt-nav-cursor">
     <v-btn small text
-        class="scv-text-btn scv-nav-btn"
+        class="ebt-text-btn ebt-nav-btn"
         @click="clickCursor(cursor)"
     >{{cursorLabel}}</v-btn>
     <v-spacer/>
@@ -11,13 +11,13 @@
     <v-btn icon
         @click="clickPageTop()"
         :aria-label="$t('ariaPageTop')"
-        class="scv-icon-btn" >
+        class="ebt-icon-btn" >
         <v-icon >{{mdiChevronUp}}</v-icon>
     </v-btn>
     <v-btn icon
         @click="clickPageBottom()"
         :aria-label="$t('ariaPageBottom')"
-        class="scv-icon-btn" >
+        class="ebt-icon-btn" >
         <v-icon >{{mdiChevronDown}}</v-icon>
     </v-btn>
   </div>
@@ -46,7 +46,7 @@ export default {
   },
   async mounted() {
     let { $el } = this;
-    this.$nuxt.$on('scv-load-sutta', payload=>{
+    this.$nuxt.$on('ebt-load-sutta', payload=>{
       $el && $el.scrollIntoView({
         block: "center",
       });
@@ -54,7 +54,7 @@ export default {
   },
   methods:{
     clickPageTop() {
-        let elt = document.getElementById("scv-search-field");
+        let elt = document.getElementById("ebt-search-field");
         if (elt) {
             let refSearchAuto = elt.__vue__.$refs.refSearchAuto;
             let input = refSearchAuto.$refs.input;
@@ -65,7 +65,7 @@ export default {
         }
     },
     clickPageBottom() {
-        let elt = document.getElementById("scv-tipitaka");
+        let elt = document.getElementById("ebt-tipitaka");
         console.log('clickPageBottom', {elt});
         elt && this.$nextTick(()=>{
             elt.scrollIntoView({block: "center"});
@@ -76,7 +76,7 @@ export default {
         let { sutta_uid, lang } = cursor;
         let updateHistory = false;
         if (sutta_uid !== sutta.sutta_uid) {
-            await $store.dispatch('scv/loadSutta', {sutta_uid, lang, updateHistory});
+            await $store.dispatch('ebt/loadSutta', {sutta_uid, lang, updateHistory});
         }
         let elt = document.getElementById(cursor.scid);
         elt && elt.scrollIntoView({block: "center"});
@@ -92,7 +92,7 @@ export default {
         return `${scid}/${lang}`;
     },
     cursor() {
-        return this.$store.state.scv.settings.cursor;
+        return this.$store.state.ebt.settings.cursor;
     },
     current() {
         let { history, sutta } = this;
@@ -101,10 +101,10 @@ export default {
         return history[iCur] || sutta;
     },
     sutta() {
-        return this.$store.state.scv.sutta;
+        return this.$store.state.ebt.sutta;
     },
     history() {
-      return this.$store.state.scv.settings.history;
+      return this.$store.state.ebt.settings.history;
     },
   },
 }

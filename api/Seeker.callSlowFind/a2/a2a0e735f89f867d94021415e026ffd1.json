@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,14 +65,14 @@
           "dn18:27.10": {
             "scid": "dn18:27.10",
             "pli": "‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhi apārutā amatassa dvārā’ti idameva taṁ sammā vadamāno vadeyya. ",
-            "de": "die ‚vom Buddha gut erklärt ist, in diesem Leben sichtbar, unmittelbar wirksam, die zum Überprüfen einlädt, die sachdienlich ist, so dass vernünftige Menschen sie selbst erkennen können‘; und wovon es heißt, dass ‚<span class=\"scv-matched\">die Tore zur Unsterblichkeit</span> aufgestoßen sind‘, dann ist es das. ",
+            "de": "die ‚vom Buddha gut erklärt ist, in diesem Leben sichtbar, unmittelbar wirksam, die zum Überprüfen einlädt, die sachdienlich ist, so dass vernünftige Menschen sie selbst erkennen können‘; und wovon es heißt, dass ‚<span class=\"ebt-matched\">die Tore zur Unsterblichkeit</span> aufgestoßen sind‘, dann ist es das. ",
             "en": "‘a teaching that’s well explained by the Buddha, visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves; and the doors to the deathless are flung open,’ it’s this. ",
             "matched": true
           },
           "dn18:27.11": {
             "scid": "dn18:27.11",
             "pli": "Svākkhāto hi, bho, bhagavatā dhammo sandiṭṭhiko, akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhi apārutā amatassa dvārā. ",
-            "de": "Denn die Lehre ist vom Buddha gut erklärt – in diesem Leben sichtbar, unmittelbar wirksam, sie lädt zum Überprüfen ein, ist sachdienlich, sodass vernünftige Menschen sie selbst erkennen können. Und <span class=\"scv-matched\">die Tore zur Unsterblichkeit</span> sind aufgestoßen. ",
+            "de": "Denn die Lehre ist vom Buddha gut erklärt – in diesem Leben sichtbar, unmittelbar wirksam, sie lädt zum Überprüfen ein, ist sachdienlich, sodass vernünftige Menschen sie selbst erkennen können. Und <span class=\"ebt-matched\">die Tore zur Unsterblichkeit</span> sind aufgestoßen. ",
             "en": "For the teaching is well explained by the Buddha—visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves—and the doors of the deathless are flung open. ",
             "matched": true
           }
@@ -104,7 +104,7 @@
           "sn6.1:10.1": {
             "scid": "sn6.1:10.1",
             "pli": "“Apārutā tesaṁ amatassa dvārā, ",
-            "de": "„<span class=\"scv-matched\">Die Tore zur Unsterblichkeit</span> sind aufgestoßen! ",
+            "de": "„<span class=\"ebt-matched\">Die Tore zur Unsterblichkeit</span> sind aufgestoßen! ",
             "en": "“Flung open are the doors to the deathless! ",
             "matched": true
           }
@@ -136,7 +136,7 @@
           "dn14:3.7.13": {
             "scid": "dn14:3.7.13",
             "pli": "‘Apārutā tesaṁ amatassa dvārā, ",
-            "de": "‚<span class=\"scv-matched\">Die Tore zur Unsterblichkeit</span> sind aufgestoßen! ",
+            "de": "‚<span class=\"ebt-matched\">Die Tore zur Unsterblichkeit</span> sind aufgestoßen! ",
             "en": "‘Flung open are the doors to the deathless! ",
             "matched": true
           }

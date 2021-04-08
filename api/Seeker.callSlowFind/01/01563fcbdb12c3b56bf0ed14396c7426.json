@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn18.8:1.11": {
             "scid": "sn18.8:1.11",
             "pli": "“evaṁ passaṁ, rāhula, sutavā ariyasāvako rūpataṇhāyapi nibbindati …pe… saddataṇhāyapi nibbindati … gandhataṇhāyapi nibbindati … rasataṇhāyapi nibbindati … phoṭṭhabbataṇhāyapi nibbindati … dhammataṇhāyapi nibbindati …pe… ",
-            "en": "“Seeing this, a learned noble disciple grows <span class=\"scv-matched\">disillusioned with craving</span> for sights, sounds, smells, tastes, touches, and thoughts. …” ",
+            "en": "“Seeing this, a learned noble disciple grows <span class=\"ebt-matched\">disillusioned with craving</span> for sights, sounds, smells, tastes, touches, and thoughts. …” ",
             "matched": true
           }
         },

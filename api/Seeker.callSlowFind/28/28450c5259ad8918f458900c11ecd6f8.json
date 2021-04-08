@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,13 +60,13 @@
           "sn35.142:1.3": {
             "scid": "sn35.142:1.3",
             "pli": "Anattasambhūtaṁ, bhikkhave, cakkhu kuto attā bhavissati …pe… ",
-            "en": "Since the eye is produced <span class=\"scv-matched\">by what is not-self</span>, how could it be self? ",
+            "en": "Since the eye is produced <span class=\"ebt-matched\">by what is not-self</span>, how could it be self? ",
             "matched": true
           },
           "sn35.142:1.9": {
             "scid": "sn35.142:1.9",
             "pli": "Anattasambhūto, bhikkhave, mano kuto attā bhavissati. ",
-            "en": "Since the mind is produced <span class=\"scv-matched\">by what is not-self</span>, how could it be self? ",
+            "en": "Since the mind is produced <span class=\"ebt-matched\">by what is not-self</span>, how could it be self? ",
             "matched": true
           }
         },
@@ -95,13 +95,13 @@
           "sn22.20:1.4": {
             "scid": "sn22.20:1.4",
             "pli": "Anattasambhūtaṁ, bhikkhave, rūpaṁ kuto attā bhavissati. ",
-            "en": "Since form is produced <span class=\"scv-matched\">by what is not-self</span>, how could it be self? ",
+            "en": "Since form is produced <span class=\"ebt-matched\">by what is not-self</span>, how could it be self? ",
             "matched": true
           },
           "sn22.20:1.10": {
             "scid": "sn22.20:1.10",
             "pli": "Anattasambhūtaṁ, bhikkhave, viññāṇaṁ kuto attā bhavissati. ",
-            "en": "Since consciousness is produced <span class=\"scv-matched\">by what is not-self</span>, how could it be self? ",
+            "en": "Since consciousness is produced <span class=\"ebt-matched\">by what is not-self</span>, how could it be self? ",
             "matched": true
           }
         },
@@ -130,13 +130,13 @@
           "sn35.145:1.3": {
             "scid": "sn35.145:1.3",
             "pli": "Anattasambhūtā, bhikkhave, rūpā kuto attā bhavissanti. ",
-            "en": "Since sights are produced <span class=\"scv-matched\">by what is not-self</span>, how could they be self? ",
+            "en": "Since sights are produced <span class=\"ebt-matched\">by what is not-self</span>, how could they be self? ",
             "matched": true
           },
           "sn35.145:1.10": {
             "scid": "sn35.145:1.10",
             "pli": "Anattasambhūtā, bhikkhave, dhammā kuto attā bhavissanti. ",
-            "en": "Since thoughts are produced <span class=\"scv-matched\">by what is not-self</span>, how could they be self? ",
+            "en": "Since thoughts are produced <span class=\"ebt-matched\">by what is not-self</span>, how could they be self? ",
             "matched": true
           }
         },

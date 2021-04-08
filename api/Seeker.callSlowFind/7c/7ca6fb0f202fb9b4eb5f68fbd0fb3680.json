@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,31 +60,31 @@
           "mn32:4.6": {
             "scid": "mn32:4.6",
             "pli": "kathaṁrūpena, āvuso ānanda, bhikkhunā gosiṅgasālavanaṁ sobheyyā”ti? ",
-            "en": "<span class=\"scv-matched\">What kind of mendicant</span> would beautify this park?” ",
+            "en": "<span class=\"ebt-matched\">What kind of mendicant</span> would beautify this park?” ",
             "matched": true
           },
           "mn32:9.5": {
             "scid": "mn32:9.5",
             "pli": "kathaṁrūpena, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā’”ti? ",
-            "en": "<span class=\"scv-matched\">What kind of mendicant</span> would beautify this park?” ",
+            "en": "<span class=\"ebt-matched\">What kind of mendicant</span> would beautify this park?” ",
             "matched": true
           },
           "mn32:11.7": {
             "scid": "mn32:11.7",
             "pli": "kathaṁrūpena, āvuso ānanda, bhikkhunā gosiṅgasālavanaṁ sobheyyā’ti? ",
-            "en": "<span class=\"scv-matched\">What kind of mendicant</span> would beautify this park?’ ",
+            "en": "<span class=\"ebt-matched\">What kind of mendicant</span> would beautify this park?’ ",
             "matched": true
           },
           "mn32:16.6": {
             "scid": "mn32:16.6",
             "pli": "Kathaṁrūpena, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā’ti? ",
-            "en": "<span class=\"scv-matched\">What kind of mendicant</span> would beautify this park?’ ",
+            "en": "<span class=\"ebt-matched\">What kind of mendicant</span> would beautify this park?’ ",
             "matched": true
           },
           "mn32:17.4": {
             "scid": "mn32:17.4",
             "pli": "Api ca mamapi suṇātha yathārūpena bhikkhunā gosiṅgasālavanaṁ sobheyya. ",
-            "en": "However, listen to me also as to <span class=\"scv-matched\">what kind of mendicant</span> would beautify this sal forest park at Gosiṅga. ",
+            "en": "However, listen to me also as to <span class=\"ebt-matched\">what kind of mendicant</span> would beautify this sal forest park at Gosiṅga. ",
             "matched": true
           }
         },
@@ -113,13 +113,13 @@
           "sn16.3:2.4": {
             "scid": "sn16.3:2.4",
             "pli": "kathaṁrūpo bhikkhu arahati kulāni upasaṅkamitun”ti? ",
-            "en": "<span class=\"scv-matched\">What kind of mendicant</span> is worthy of approaching families?” ",
+            "en": "<span class=\"ebt-matched\">What kind of mendicant</span> is worthy of approaching families?” ",
             "matched": true
           },
           "sn16.3:5.2": {
             "scid": "sn16.3:5.2",
             "pli": "kathaṁrūpassa bhikkhuno aparisuddhā dhammadesanā hoti, kathaṁrūpassa bhikkhuno parisuddhā dhammadesanā hotī”ti? ",
-            "en": "<span class=\"scv-matched\">What kind of mendicant</span>’s teaching is pure, and what kind is impure?” ",
+            "en": "<span class=\"ebt-matched\">What kind of mendicant</span>’s teaching is pure, and what kind is impure?” ",
             "matched": true
           }
         },
@@ -148,7 +148,7 @@
           "sn16.4:1.3": {
             "scid": "sn16.4:1.3",
             "pli": "kathaṁrūpo bhikkhu arahati kulūpako hotuṁ, kathaṁrūpo bhikkhu na arahati kulūpako hotun”ti? ",
-            "en": "<span class=\"scv-matched\">What kind of mendicant</span> is worthy of visiting families? And <span class=\"scv-matched\">what kind of mendicant</span> is not worthy of visiting families?” ",
+            "en": "<span class=\"ebt-matched\">What kind of mendicant</span> is worthy of visiting families? And <span class=\"ebt-matched\">what kind of mendicant</span> is not worthy of visiting families?” ",
             "matched": true
           }
         },

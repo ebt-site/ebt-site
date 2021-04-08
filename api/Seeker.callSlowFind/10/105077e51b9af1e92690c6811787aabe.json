@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,25 +54,25 @@
           "an3.12:1.1": {
             "scid": "an3.12:1.1",
             "pli": "“Tīṇimāni, bhikkhave, rañño khattiyassa muddhāvasittassa yāvajīvaṁ sāraṇīyāni bhavanti. ",
-            "en": "“An anointed aristocratic king should <span class=\"scv-matched\">commemorate</span> three places as long as he lives. ",
+            "en": "“An anointed aristocratic king should <span class=\"ebt-matched\">commemorate</span> three places as long as he lives. ",
             "matched": true
           },
           "an3.12:3.3": {
             "scid": "an3.12:3.3",
             "pli": "Imāni kho, bhikkhave, tīṇi rañño khattiyassa muddhāvasittassa yāvajīvaṁ sāraṇīyāni bhavanti. ",
-            "en": "These are the three places an anointed king should <span class=\"scv-matched\">commemorate</span> as long as he lives. ",
+            "en": "These are the three places an anointed king should <span class=\"ebt-matched\">commemorate</span> as long as he lives. ",
             "matched": true
           },
           "an3.12:4.1": {
             "scid": "an3.12:4.1",
             "pli": "Evamevaṁ kho, bhikkhave, tīṇimāni bhikkhussa yāvajīvaṁ sāraṇīyāni bhavanti. ",
-            "en": "In the same way, a mendicant should <span class=\"scv-matched\">commemorate</span> three places as long as they live. ",
+            "en": "In the same way, a mendicant should <span class=\"ebt-matched\">commemorate</span> three places as long as they live. ",
             "matched": true
           },
           "an3.12:6.3": {
             "scid": "an3.12:6.3",
             "pli": "Imāni kho, bhikkhave, tīṇi bhikkhussa yāvajīvaṁ sāraṇīyāni bhavantī”ti. ",
-            "en": "These are the three places a mendicant should <span class=\"scv-matched\">commemorate</span> as long as they live.” ",
+            "en": "These are the three places a mendicant should <span class=\"ebt-matched\">commemorate</span> as long as they live.” ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an5.212:0.3": {
             "scid": "an5.212:0.3",
             "pli": "212. Bhaṇḍanakārakasutta ",
-            "en": "212. <span class=\"scv-matched\">Starting Arguments</span> ",
+            "en": "212. <span class=\"ebt-matched\">Starting Arguments</span> ",
             "matched": true
           }
         },

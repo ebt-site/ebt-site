@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "dn10:2.11.1": {
             "scid": "dn10:2.11.1",
             "pli": "Seyyathāpi, māṇava, puriso sadhano sabhogo kantāraddhānamaggaṁ paṭipajjeyya dubbhikkhaṁ sappaṭibhayaṁ. ",
-            "de": "Wie ein Mensch, der mit seinem Besitz und Vermögen eine Straße <span class=\"scv-matched\">durch die Wüste entlangwanderte</span>, die gefährlich wäre und wo es nichts zu essen gäbe. ",
+            "de": "Wie ein Mensch, der mit seinem Besitz und Vermögen eine Straße <span class=\"ebt-matched\">durch die Wüste entlangwanderte</span>, die gefährlich wäre und wo es nichts zu essen gäbe. ",
             "en": "Suppose there was a person with wealth and property who was traveling along a desert road, which was perilous, with nothing to eat. ",
             "matched": true
           }

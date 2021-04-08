@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "mn140:19.5": {
             "scid": "mn140:19.5",
             "pli": "So sukhaṁ vedanaṁ vedayamāno ‘sukhaṁ vedanaṁ vedayāmī’ti pajānāti. ",
-            "en": "When they feel a pleasant feeling, they know: ‘<span class=\"scv-matched\">I feel a pleasant feeling</span>.’ ",
+            "en": "When they feel a pleasant feeling, they know: ‘<span class=\"ebt-matched\">I feel a pleasant feeling</span>.’ ",
             "matched": true
           },
           "mn140:19.14": {
@@ -107,7 +107,7 @@
           "dn22:11.2": {
             "scid": "dn22:11.2",
             "pli": "Idha, bhikkhave, bhikkhu sukhaṁ vā vedanaṁ vedayamāno ‘sukhaṁ vedanaṁ vedayāmī’ti pajānāti. ",
-            "en": "It’s when a mendicant who feels a pleasant feeling knows: ‘<span class=\"scv-matched\">I feel a pleasant feeling</span>.’ ",
+            "en": "It’s when a mendicant who feels a pleasant feeling knows: ‘<span class=\"ebt-matched\">I feel a pleasant feeling</span>.’ ",
             "matched": true
           },
           "dn22:11.5": {
@@ -154,7 +154,7 @@
           "mn10:32.2": {
             "scid": "mn10:32.2",
             "pli": "Idha, bhikkhave, bhikkhu sukhaṁ vā vedanaṁ vedayamāno ‘sukhaṁ vedanaṁ vedayāmī’ti pajānāti. ",
-            "en": "It’s when a mendicant who feels a pleasant feeling knows: ‘<span class=\"scv-matched\">I feel a pleasant feeling</span>.’ ",
+            "en": "It’s when a mendicant who feels a pleasant feeling knows: ‘<span class=\"ebt-matched\">I feel a pleasant feeling</span>.’ ",
             "matched": true
           },
           "mn10:32.5": {

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn47.9:4.2": {
             "scid": "sn47.9:4.2",
             "pli": "Desito, ānanda, mayā dhammo anantaraṁ abāhiraṁ karitvā. ",
-            "de": "Ich habe den Dhamma gelehrt, ohne zwischen <span class=\"scv-matched\">geheimen und öffentlichen</span> Lehren zu unterscheiden. ",
+            "de": "Ich habe den Dhamma gelehrt, ohne zwischen <span class=\"ebt-matched\">geheimen und öffentlichen</span> Lehren zu unterscheiden. ",
             "en": "I’ve taught the Dhamma without making any distinction between secret and public teachings. ",
             "matched": true
           }

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -105,13 +105,13 @@
           "an6.61:2.1": {
             "scid": "an6.61:2.1",
             "pli": "‘Yo ubhonte viditvāna, ",
-            "en": "‘The sage has known <span class=\"scv-matched\">both ends</span>, ",
+            "en": "‘The sage has known <span class=\"ebt-matched\">both ends</span>, ",
             "matched": true
           },
           "an6.61:11.1": {
             "scid": "an6.61:11.1",
             "pli": "‘Yo ubhonte viditvāna, ",
-            "en": "‘The sage has known <span class=\"scv-matched\">both ends</span>, ",
+            "en": "‘The sage has known <span class=\"ebt-matched\">both ends</span>, ",
             "matched": true
           }
         },
@@ -140,7 +140,7 @@
           "an4.95:2.1": {
             "scid": "an4.95:2.1",
             "pli": "Seyyathāpi, bhikkhave, chavālātaṁ ubhato padittaṁ, majjhe gūthagataṁ, neva gāme kaṭṭhatthaṁ pharati na araññe (…); ",
-            "en": "Suppose there was a firebrand for lighting a funeral pyre, burning at <span class=\"scv-matched\">both ends</span>, and smeared with dung in the middle. It couldn’t be used as timber either in the village or the wilderness. ",
+            "en": "Suppose there was a firebrand for lighting a funeral pyre, burning at <span class=\"ebt-matched\">both ends</span>, and smeared with dung in the middle. It couldn’t be used as timber either in the village or the wilderness. ",
             "matched": true
           }
         },
@@ -169,7 +169,7 @@
           "iti91:2.9": {
             "scid": "iti91:2.9",
             "pli": "Seyyathāpi, bhikkhave, chavālātaṁ ubhatopadittaṁ majjhe gūthagataṁ neva gāme kaṭṭhatthaṁ pharati na araññe;",
-            "en": "Suppose there was a firebrand for lighting a funeral pyre, burning at <span class=\"scv-matched\">both ends</span>, and smeared with dung in the middle. It couldn’t be used as timber either in the village or the wilderness. ",
+            "en": "Suppose there was a firebrand for lighting a funeral pyre, burning at <span class=\"ebt-matched\">both ends</span>, and smeared with dung in the middle. It couldn’t be used as timber either in the village or the wilderness. ",
             "matched": true
           }
         },
@@ -198,7 +198,7 @@
           "an3.35:3.3": {
             "scid": "an3.35:3.3",
             "pli": "Tatrassa pallaṅko gonakatthato paṭikatthato paṭalikatthato kadalimigapavarapaccattharaṇo sauttaracchado ubhato lohitakūpadhāno; ",
-            "en": "His couch is spread with woolen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide. It has a canopy above and red pillows at <span class=\"scv-matched\">both ends</span>. ",
+            "en": "His couch is spread with woolen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide. It has a canopy above and red pillows at <span class=\"ebt-matched\">both ends</span>. ",
             "matched": true
           }
         },
@@ -227,7 +227,7 @@
           "sn22.96:3.5": {
             "scid": "sn22.96:3.5",
             "pli": "Tassa mayhaṁ, bhikkhu, rañño sato khattiyassa muddhāvasittassa caturāsītipallaṅkasahassāni ahesuṁ dantamayāni sāramayāni sovaṇṇamayāni goṇakatthatāni paṭikatthatāni paṭalikatthatāni kadalimigapavarapaccattharaṇāni sauttaracchadāni ubhatolohitakūpadhānāni. ",
-            "en": "I had 84,000 couches made of ivory or heartwood or gold or silver, spread with woolen covers—shag-piled or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at <span class=\"scv-matched\">both ends</span>. ",
+            "en": "I had 84,000 couches made of ivory or heartwood or gold or silver, spread with woolen covers—shag-piled or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at <span class=\"ebt-matched\">both ends</span>. ",
             "matched": true
           }
         },
@@ -256,7 +256,7 @@
           "an9.20:4.3": {
             "scid": "an9.20:4.3",
             "pli": "Caturāsīti suvaṇṇapātisahassāni adāsi rūpiyapūrāni, caturāsīti rūpiyapātisahassāni adāsi suvaṇṇapūrāni, caturāsīti kaṁsapātisahassāni adāsi hiraññapūrāni, caturāsīti hatthisahassāni adāsi sovaṇṇālaṅkārāni sovaṇṇadhajāni hemajālappaṭicchannāni, caturāsīti rathasahassāni adāsi sīhacammaparivārāni byagghacammaparivārāni dīpicammaparivārāni paṇḍukambalaparivārāni sovaṇṇālaṅkārāni sovaṇṇadhajāni hemajālappaṭicchannāni, caturāsīti dhenusahassāni adāsi dukūlasandhanāni kaṁsūpadhāraṇāni, caturāsīti kaññāsahassāni adāsi āmuttamaṇikuṇḍalāyo, caturāsīti pallaṅkasahassāni adāsi gonakatthatāni paṭikatthatāni paṭalikatthatāni kadalimigapavarapaccattharaṇāni sauttaracchadāni ubhatolohitakūpadhānāni, caturāsīti vatthakoṭisahassāni adāsi khomasukhumānaṁ koseyyasukhumānaṁ kambalasukhumānaṁ kappāsikasukhumānaṁ, ko pana vādo annassa pānassa khajjassa bhojjassa leyyassa peyyassa, najjo maññe vissandanti. ",
-            "en": "84,000 gold bowls filled with silver. 84,000 silver bowls filled with gold. 84,000 bronze bowls filled with gold coins. 84,000 elephants with gold adornments and banners, covered with gold netting. 84,000 chariots upholstered with the hide of lions, tigers, and leopards, and cream rugs, with gold adornments and banners, covered with gold netting. 84,000 milk cows with silken reins and bronze pails. 84,000 maidens bedecked with jeweled earrings. 84,000 couches spread with woolen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide, with canopies above and red pillows at <span class=\"scv-matched\">both ends</span>. 8,400,000,000 fine cloths of linen, cotton, silk, and wool. And who can say how much food, drink, snacks, meals, refreshments, and beverages? It seemed like an overflowing river. ",
+            "en": "84,000 gold bowls filled with silver. 84,000 silver bowls filled with gold. 84,000 bronze bowls filled with gold coins. 84,000 elephants with gold adornments and banners, covered with gold netting. 84,000 chariots upholstered with the hide of lions, tigers, and leopards, and cream rugs, with gold adornments and banners, covered with gold netting. 84,000 milk cows with silken reins and bronze pails. 84,000 maidens bedecked with jeweled earrings. 84,000 couches spread with woolen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide, with canopies above and red pillows at <span class=\"ebt-matched\">both ends</span>. 8,400,000,000 fine cloths of linen, cotton, silk, and wool. And who can say how much food, drink, snacks, meals, refreshments, and beverages? It seemed like an overflowing river. ",
             "matched": true
           }
         },
@@ -285,7 +285,7 @@
           "an5.44:7.3": {
             "scid": "an5.44:7.3",
             "pli": "Manāpo me, bhante, pallaṅko gonakatthato paṭalikatthato kadalimigapavarapaccattharaṇo sauttaracchado ubhatolohitakūpadhāno. ",
-            "en": "“… My couch spread with woolen covers—shag-piled or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at <span class=\"scv-matched\">both ends</span> is agreeable. ",
+            "en": "“… My couch spread with woolen covers—shag-piled or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at <span class=\"ebt-matched\">both ends</span> is agreeable. ",
             "matched": true
           }
         },
@@ -314,7 +314,7 @@
           "an3.63:3.10": {
             "scid": "an3.63:3.10",
             "pli": "āsandi pallaṅko gonako cittako paṭikā paṭalikā tūlikā vikatikā uddalomī ekantalomī kaṭṭissaṁ koseyyaṁ kuttakaṁ hatthattharaṁ assattharaṁ rathattharaṁ ajinappaveṇī kadalimigapavarapaccattharaṇaṁ sauttaracchadaṁ ubhatolohitakūpadhānaṁ, evarūpānaṁ nūna bhavaṁ gotamo uccāsayanamahāsayanānaṁ nikāmalābhī akicchalābhī akasiralābhī”ti. ",
-            "en": "sofas, couches, woolen covers—shag-piled, colorful, white, embroidered with flowers, quilted, embroidered with animals, double-or single-fringed—and silk covers studded with gems, as well as silken sheets, woven carpets, rugs for elephants, horses, or chariots, antelope hide rugs, and spreads of fine deer hide, with a canopy above and red cushions at <span class=\"scv-matched\">both ends</span>.” ",
+            "en": "sofas, couches, woolen covers—shag-piled, colorful, white, embroidered with flowers, quilted, embroidered with animals, double-or single-fringed—and silk covers studded with gems, as well as silken sheets, woven carpets, rugs for elephants, horses, or chariots, antelope hide rugs, and spreads of fine deer hide, with a canopy above and red cushions at <span class=\"ebt-matched\">both ends</span>.” ",
             "matched": true
           }
         },
@@ -343,7 +343,7 @@
           "sn22.80:7.3": {
             "scid": "sn22.80:7.3",
             "pli": "Seyyathāpi, bhikkhave, chavālātaṁ ubhatopadittaṁ majjhe gūthagataṁ, neva gāme kaṭṭhatthaṁ pharati, nāraññe kaṭṭhatthaṁ pharati. ",
-            "en": "Suppose there was a firebrand for lighting a funeral pyre, burning at <span class=\"scv-matched\">both ends</span>, and smeared with dung in the middle. It couldn’t be used as timber either in the village or the wilderness. ",
+            "en": "Suppose there was a firebrand for lighting a funeral pyre, burning at <span class=\"ebt-matched\">both ends</span>, and smeared with dung in the middle. It couldn’t be used as timber either in the village or the wilderness. ",
             "matched": true
           }
         },
@@ -372,7 +372,7 @@
           "an7.64:2.5": {
             "scid": "an7.64:2.5",
             "pli": "Kodhanoyaṁ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, kiñcāpi so pallaṅke seti gonakatthate paṭalikatthate kadalimigapavarapaccattharaṇe sauttaracchade ubhatolohitakūpadhāne; ",
-            "en": "An irritable person, overcome and overwhelmed by anger, sleeps badly, even though they sleep on a couch spread with woolen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at <span class=\"scv-matched\">both ends</span>. ",
+            "en": "An irritable person, overcome and overwhelmed by anger, sleeps badly, even though they sleep on a couch spread with woolen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at <span class=\"ebt-matched\">both ends</span>. ",
             "matched": true
           }
         },
@@ -401,7 +401,7 @@
           "an8.30:11.1": {
             "scid": "an8.30:11.1",
             "pli": "Yato kho tvaṁ, anuruddha, ime ca aṭṭha mahāpurisavitakke vitakkessasi, imesañca catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī bhavissasi akicchalābhī akasiralābhī, tato tuyhaṁ, anuruddha, seyyathāpi nāma gahapatissa vā gahapatiputtassa vā pallaṅko gonakatthato paṭikatthato paṭalikatthato kadalimigapavarapaccattharaṇo sauttaracchado ubhatolohitakūpadhāno; ",
-            "en": "As you live contented your lodging at the root of a tree will seem to you like a couch spread with woolen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at <span class=\"scv-matched\">both ends</span> seems to a householder or householder’s child. ",
+            "en": "As you live contented your lodging at the root of a tree will seem to you like a couch spread with woolen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at <span class=\"ebt-matched\">both ends</span> seems to a householder or householder’s child. ",
             "matched": true
           }
         },
@@ -430,7 +430,7 @@
           "mn119:7.3": {
             "scid": "mn119:7.3",
             "pli": "Seyyathāpi, bhikkhave, ubhatomukhā putoḷi pūrā nānāvihitassa dhaññassa, seyyathidaṁ—",
-            "en": "It’s as if there were a bag with openings at <span class=\"scv-matched\">both ends</span>, filled with various kinds of grains, such as ",
+            "en": "It’s as if there were a bag with openings at <span class=\"ebt-matched\">both ends</span>, filled with various kinds of grains, such as ",
             "matched": true
           }
         },
@@ -459,7 +459,7 @@
           "mn10:10.3": {
             "scid": "mn10:10.3",
             "pli": "Seyyathāpi, bhikkhave, ubhatomukhā putoḷi pūrā nānāvihitassa dhaññassa, seyyathidaṁ—sālīnaṁ vīhīnaṁ muggānaṁ māsānaṁ tilānaṁ taṇḍulānaṁ. Tamenaṁ cakkhumā puriso muñcitvā paccavekkheyya: ‘ime sālī ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā’ti. ",
-            "en": "It’s as if there were a bag with openings at <span class=\"scv-matched\">both ends</span>, filled with various kinds of grains, such as fine rice, wheat, mung beans, peas, sesame, and ordinary rice. And someone with good eyesight were to open it and examine the contents: ‘These grains are fine rice, these are wheat, these are mung beans, these are peas, these are sesame, and these are ordinary rice.’ ",
+            "en": "It’s as if there were a bag with openings at <span class=\"ebt-matched\">both ends</span>, filled with various kinds of grains, such as fine rice, wheat, mung beans, peas, sesame, and ordinary rice. And someone with good eyesight were to open it and examine the contents: ‘These grains are fine rice, these are wheat, these are mung beans, these are peas, these are sesame, and these are ordinary rice.’ ",
             "matched": true
           }
         },
@@ -488,7 +488,7 @@
           "mn12:41.5": {
             "scid": "mn12:41.5",
             "pli": "Tatrāssa pallaṅko gonakatthato paṭikatthato paṭalikatthato kadalimigapavarapaccattharaṇo sauttaracchado ubhatolohitakūpadhāno. ",
-            "en": "And it had a couch spread with woolen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at <span class=\"scv-matched\">both ends</span>. ",
+            "en": "And it had a couch spread with woolen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at <span class=\"ebt-matched\">both ends</span>. ",
             "matched": true
           }
         },
@@ -517,7 +517,7 @@
           "dn1:1.15.2": {
             "scid": "dn1:1.15.2",
             "pli": "seyyathidaṁ—āsandiṁ pallaṅkaṁ gonakaṁ cittakaṁ paṭikaṁ paṭalikaṁ tūlikaṁ vikatikaṁ uddalomiṁ ekantalomiṁ kaṭṭissaṁ koseyyaṁ kuttakaṁ hatthattharaṁ assattharaṁ rathattharaṁ ajinappaveṇiṁ kadalimigapavarapaccattharaṇaṁ sauttaracchadaṁ ubhatolohitakūpadhānaṁ ",
-            "en": "This includes such things as sofas, couches, woolen covers—shag-piled, colorful, white, embroidered with flowers, quilted, embroidered with animals, double- or single-fringed—and silk covers studded with gems, as well as silken sheets, woven carpets, rugs for elephants, horses, or chariots, antelope hide rugs, and spreads of fine deer hide, with a canopy above and red cushions at <span class=\"scv-matched\">both ends</span>. ",
+            "en": "This includes such things as sofas, couches, woolen covers—shag-piled, colorful, white, embroidered with flowers, quilted, embroidered with animals, double- or single-fringed—and silk covers studded with gems, as well as silken sheets, woven carpets, rugs for elephants, horses, or chariots, antelope hide rugs, and spreads of fine deer hide, with a canopy above and red cushions at <span class=\"ebt-matched\">both ends</span>. ",
             "matched": true
           }
         },
@@ -546,7 +546,7 @@
           "dn2:50.2": {
             "scid": "dn2:50.2",
             "pli": "Seyyathidaṁ—āsandiṁ pallaṅkaṁ gonakaṁ cittakaṁ paṭikaṁ paṭalikaṁ tūlikaṁ vikatikaṁ uddalomiṁ ekantalomiṁ kaṭṭissaṁ koseyyaṁ kuttakaṁ hatthattharaṁ assattharaṁ rathattharaṁ ajinappaveṇiṁ kadalimigapavarapaccattharaṇaṁ sauttaracchadaṁ ubhatolohitakūpadhānaṁ ",
-            "en": "This includes such things as sofas, couches, woolen covers—shag-piled, colorful, white, embroidered with flowers, quilted, embroidered with animals, double-or single-fringed—and silk covers studded with gems, as well as silken sheets, woven carpets, rugs for elephants, horses, or chariots, antelope hide rugs, and spreads of fine deer hide, with a canopy above and red cushions at <span class=\"scv-matched\">both ends</span>. ",
+            "en": "This includes such things as sofas, couches, woolen covers—shag-piled, colorful, white, embroidered with flowers, quilted, embroidered with animals, double-or single-fringed—and silk covers studded with gems, as well as silken sheets, woven carpets, rugs for elephants, horses, or chariots, antelope hide rugs, and spreads of fine deer hide, with a canopy above and red cushions at <span class=\"ebt-matched\">both ends</span>. ",
             "matched": true
           }
         },
@@ -575,7 +575,7 @@
           "dn17:2.5.4": {
             "scid": "dn17:2.5.4",
             "pli": "caturāsīti pallaṅkasahassāni ahesuṁ sovaṇṇamayāni rūpiyamayāni dantamayāni sāramayāni gonakatthatāni paṭikatthatāni paṭalikatthatāni kadalimigapavarapaccattharaṇāni sauttaracchadāni ubhatolohitakūpadhānāni; ",
-            "en": "He had 84,000 couches made of gold, silver, ivory, and hardwood. They were spread with woollen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at <span class=\"scv-matched\">both ends</span>. ",
+            "en": "He had 84,000 couches made of gold, silver, ivory, and hardwood. They were spread with woollen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at <span class=\"ebt-matched\">both ends</span>. ",
             "matched": true
           }
         },
@@ -604,7 +604,7 @@
           "dn22:5.3": {
             "scid": "dn22:5.3",
             "pli": "Seyyathāpi, bhikkhave, ubhatomukhā putoḷi pūrā nānāvihitassa dhaññassa, seyyathidaṁ—sālīnaṁ vīhīnaṁ muggānaṁ māsānaṁ tilānaṁ taṇḍulānaṁ. Tamenaṁ cakkhumā puriso muñcitvā paccavekkheyya: ‘ime sālī, ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā’ti. ",
-            "en": "It’s as if there were a bag with openings at <span class=\"scv-matched\">both ends</span>, filled with various kinds of grains, such as fine rice, wheat, mung beans, peas, sesame, and ordinary rice. And someone with good eyesight were to open it and examine the contents: ‘These grains are fine rice, these are wheat, these are mung beans, these are peas, these are sesame, and these are ordinary rice.’ ",
+            "en": "It’s as if there were a bag with openings at <span class=\"ebt-matched\">both ends</span>, filled with various kinds of grains, such as fine rice, wheat, mung beans, peas, sesame, and ordinary rice. And someone with good eyesight were to open it and examine the contents: ‘These grains are fine rice, these are wheat, these are mung beans, these are peas, these are sesame, and these are ordinary rice.’ ",
             "matched": true
           }
         },

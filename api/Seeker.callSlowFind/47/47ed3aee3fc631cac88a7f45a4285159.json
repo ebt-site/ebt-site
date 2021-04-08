@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,19 +72,19 @@
           "iti31:0.4": {
             "scid": "iti31:0.4",
             "pli": "Atapanīyasutta",
-            "en": "31. <span class=\"scv-matched\">Not Mortifying</span> ",
+            "en": "31. <span class=\"ebt-matched\">Not Mortifying</span> ",
             "matched": true
           },
           "iti31:2.1": {
             "scid": "iti31:2.1",
             "pli": "“Dveme, bhikkhave, dhammā atapanīyā.",
-            "en": "“These two things, mendicants, are <span class=\"scv-matched\">not mortifying</span>. ",
+            "en": "“These two things, mendicants, are <span class=\"ebt-matched\">not mortifying</span>. ",
             "matched": true
           },
           "iti31:2.5": {
             "scid": "iti31:2.5",
             "pli": "Ime kho, bhikkhave, dve dhammā atapanīyā”ti.",
-            "en": "These are the two things that are <span class=\"scv-matched\">not mortifying</span>.” ",
+            "en": "These are the two things that are <span class=\"ebt-matched\">not mortifying</span>.” ",
             "matched": true
           }
         },
@@ -113,19 +113,19 @@
           "an4.198:1.6": {
             "scid": "an4.198:1.6",
             "pli": "Idha pana, bhikkhave, ekacco puggalo nevattantapo hoti nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto. ",
-            "en": "One person neither mortifies themselves nor others, pursuing the practice of <span class=\"scv-matched\">not mortifying</span> themselves or others. ",
+            "en": "One person neither mortifies themselves nor others, pursuing the practice of <span class=\"ebt-matched\">not mortifying</span> themselves or others. ",
             "matched": true
           },
           "an4.198:7.1": {
             "scid": "an4.198:7.1",
             "pli": "Kathañca, bhikkhave, puggalo nevattantapo hoti nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto? ",
-            "en": "And how does one person neither mortify themselves nor others, pursuing the practice of <span class=\"scv-matched\">not mortifying</span> themselves or others, ",
+            "en": "And how does one person neither mortify themselves nor others, pursuing the practice of <span class=\"ebt-matched\">not mortifying</span> themselves or others, ",
             "matched": true
           },
           "an4.198:15.4": {
             "scid": "an4.198:15.4",
             "pli": "Evaṁ kho, bhikkhave, puggalo nevattantapo hoti nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto. ",
-            "en": "That’s how one person neither mortifies themselves nor others, pursuing the practice of <span class=\"scv-matched\">not mortifying</span> themselves or others, ",
+            "en": "That’s how one person neither mortifies themselves nor others, pursuing the practice of <span class=\"ebt-matched\">not mortifying</span> themselves or others, ",
             "matched": true
           }
         },
@@ -154,19 +154,19 @@
           "an2.4:1.0": {
             "scid": "an2.4:1.0",
             "pli": "4. Atapanīyasutta ",
-            "en": "4. <span class=\"scv-matched\">Not Mortifying</span> ",
+            "en": "4. <span class=\"ebt-matched\">Not Mortifying</span> ",
             "matched": true
           },
           "an2.4:1.1": {
             "scid": "an2.4:1.1",
             "pli": "“Dveme, bhikkhave, dhammā atapanīyā. ",
-            "en": "“These two things, mendicants, are <span class=\"scv-matched\">not mortifying</span>. ",
+            "en": "“These two things, mendicants, are <span class=\"ebt-matched\">not mortifying</span>. ",
             "matched": true
           },
           "an2.4:1.9": {
             "scid": "an2.4:1.9",
             "pli": "Ime kho, bhikkhave, dve dhammā atapanīyā”ti. ",
-            "en": "These are the two things that are <span class=\"scv-matched\">not mortifying</span>.” ",
+            "en": "These are the two things that are <span class=\"ebt-matched\">not mortifying</span>.” ",
             "matched": true
           }
         },
@@ -195,19 +195,19 @@
           "mn94:5.6": {
             "scid": "mn94:5.6",
             "pli": "Idha pana, brāhmaṇa, ekacco puggalo nevattantapo hoti nāttaparitāpanānuyogamanuyutto, na parantapo na paraparitāpanānuyogamanuyutto. ",
-            "en": "One person doesn’t mortify either themselves or others, committed to the practice of <span class=\"scv-matched\">not mortifying</span> themselves or others. ",
+            "en": "One person doesn’t mortify either themselves or others, committed to the practice of <span class=\"ebt-matched\">not mortifying</span> themselves or others. ",
             "matched": true
           },
           "mn94:13.1": {
             "scid": "mn94:13.1",
             "pli": "Katamo ca, brāhmaṇa, puggalo nevattantapo nāttaparitāpanānuyogamanuyutto, na parantapo na paraparitāpanānuyogamanuyutto; ",
-            "en": "And what person doesn’t mortify either themselves or others, committed to the practice of <span class=\"scv-matched\">not mortifying</span> themselves or others, ",
+            "en": "And what person doesn’t mortify either themselves or others, committed to the practice of <span class=\"ebt-matched\">not mortifying</span> themselves or others, ",
             "matched": true
           },
           "mn94:30.1": {
             "scid": "mn94:30.1",
             "pli": "Ayaṁ vuccati, brāhmaṇa, puggalo nevattantapo nāttaparitāpanānuyogamanuyutto, na parantapo na paraparitāpanānuyogamanuyutto. ",
-            "en": "This is called a person who neither mortifies themselves or others, being committed to the practice of <span class=\"scv-matched\">not mortifying</span> themselves or others. ",
+            "en": "This is called a person who neither mortifies themselves or others, being committed to the practice of <span class=\"ebt-matched\">not mortifying</span> themselves or others. ",
             "matched": true
           }
         },
@@ -236,19 +236,19 @@
           "mn60:35.6": {
             "scid": "mn60:35.6",
             "pli": "Idha, gahapatayo, ekacco puggalo nevattantapo hoti nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto; ",
-            "en": "One person doesn’t mortify either themselves or others, committed to the practice of <span class=\"scv-matched\">not mortifying</span> themselves or others. ",
+            "en": "One person doesn’t mortify either themselves or others, committed to the practice of <span class=\"ebt-matched\">not mortifying</span> themselves or others. ",
             "matched": true
           },
           "mn60:39.1": {
             "scid": "mn60:39.1",
             "pli": "Katamo ca, gahapatayo, puggalo nevattantapo nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto; ",
-            "en": "And what person doesn’t mortify either themselves or others, committed to the practice of <span class=\"scv-matched\">not mortifying</span> themselves or others, ",
+            "en": "And what person doesn’t mortify either themselves or others, committed to the practice of <span class=\"ebt-matched\">not mortifying</span> themselves or others, ",
             "matched": true
           },
           "mn60:56.1": {
             "scid": "mn60:56.1",
             "pli": "Ayaṁ vuccati, gahapatayo, puggalo nevattantapo nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto; ",
-            "en": "This is called a person who neither mortifies themselves or others, being committed to the practice of <span class=\"scv-matched\">not mortifying</span> themselves or others. ",
+            "en": "This is called a person who neither mortifies themselves or others, being committed to the practice of <span class=\"ebt-matched\">not mortifying</span> themselves or others. ",
             "matched": true
           }
         },
@@ -277,13 +277,13 @@
           "mn51:5.9": {
             "scid": "mn51:5.9",
             "pli": "idha pana, pessa, ekacco puggalo nevattantapo hoti nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto. ",
-            "en": "One person doesn’t mortify either themselves or others, committed to the practice of <span class=\"scv-matched\">not mortifying</span> themselves or others. ",
+            "en": "One person doesn’t mortify either themselves or others, committed to the practice of <span class=\"ebt-matched\">not mortifying</span> themselves or others. ",
             "matched": true
           },
           "mn51:28.1": {
             "scid": "mn51:28.1",
             "pli": "Ayaṁ vuccati, bhikkhave, puggalo nevattantapo nāttaparitāpanānuyogamanuyutto, na parantapo na paraparitāpanānuyogamanuyutto. ",
-            "en": "This is called a person who neither mortifies themselves or others, being committed to the practice of <span class=\"scv-matched\">not mortifying</span> themselves or others. ",
+            "en": "This is called a person who neither mortifies themselves or others, being committed to the practice of <span class=\"ebt-matched\">not mortifying</span> themselves or others. ",
             "matched": true
           }
         },
@@ -312,7 +312,7 @@
           "dn33:1.11.208": {
             "scid": "dn33:1.11.208",
             "pli": "Idhāvuso, ekacco puggalo neva attantapo hoti na attaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto. ",
-            "en": "One person doesn’t mortify either themselves or others, committed to the practice of <span class=\"scv-matched\">not mortifying</span> themselves or others. ",
+            "en": "One person doesn’t mortify either themselves or others, committed to the practice of <span class=\"ebt-matched\">not mortifying</span> themselves or others. ",
             "matched": true
           }
         },

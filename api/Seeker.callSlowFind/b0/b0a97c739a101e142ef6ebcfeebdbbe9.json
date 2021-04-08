@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "mn39:14.23": {
             "scid": "mn39:14.23",
             "pli": "Seyyathāpi, bhikkhave, puriso sadhano sabhogo kantāraddhānamaggaṁ paṭipajjeyya. ",
-            "en": "Suppose there was a person with wealth and property who was <span class=\"scv-matched\">traveling along a desert road</span>. ",
+            "en": "Suppose there was a person with wealth and property who was <span class=\"ebt-matched\">traveling along a desert road</span>. ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "dn10:2.11.1": {
             "scid": "dn10:2.11.1",
             "pli": "Seyyathāpi, māṇava, puriso sadhano sabhogo kantāraddhānamaggaṁ paṭipajjeyya dubbhikkhaṁ sappaṭibhayaṁ. ",
-            "en": "Suppose there was a person with wealth and property who was <span class=\"scv-matched\">traveling along a desert road</span>, which was perilous, with nothing to eat. ",
+            "en": "Suppose there was a person with wealth and property who was <span class=\"ebt-matched\">traveling along a desert road</span>, which was perilous, with nothing to eat. ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "dn2:73.1": {
             "scid": "dn2:73.1",
             "pli": "Seyyathāpi, mahārāja, puriso sadhano sabhogo kantāraddhānamaggaṁ paṭipajjeyya dubbhikkhaṁ sappaṭibhayaṁ. ",
-            "en": "Suppose there was a person with wealth and property who was <span class=\"scv-matched\">traveling along a desert road</span>, which was perilous, with nothing to eat. ",
+            "en": "Suppose there was a person with wealth and property who was <span class=\"ebt-matched\">traveling along a desert road</span>, which was perilous, with nothing to eat. ",
             "matched": true
           }
         },

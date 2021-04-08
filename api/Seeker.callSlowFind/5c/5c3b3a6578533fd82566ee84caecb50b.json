@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,37 +72,37 @@
           "an4.160:4.1": {
             "scid": "an4.160:4.1",
             "pli": "Cattārome, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
-            "en": "These four things lead to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "These four things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an4.160:4.5": {
             "scid": "an4.160:4.5",
             "pli": "Ayaṁ, bhikkhave, paṭhamo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
-            "en": "This is the first thing that leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "This is the first thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an4.160:5.2": {
             "scid": "an4.160:5.2",
             "pli": "Ayaṁ, bhikkhave, dutiyo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
-            "en": "This is the second thing that leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "This is the second thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an4.160:6.3": {
             "scid": "an4.160:6.3",
             "pli": "Ayaṁ, bhikkhave, tatiyo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
-            "en": "This is the third thing that leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "This is the third thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an4.160:7.4": {
             "scid": "an4.160:7.4",
             "pli": "Ayaṁ, bhikkhave, catuttho dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
-            "en": "This is the fourth thing that leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "This is the fourth thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an4.160:7.5": {
             "scid": "an4.160:7.5",
             "pli": "Ime kho, bhikkhave, cattāro dhammā saddhammassa sammosāya antaradhānāya saṁvattantīti. ",
-            "en": "These are four things that lead to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "These are four things that lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           }
         },
@@ -131,37 +131,37 @@
           "an1.114:1.1": {
             "scid": "an1.114:1.1",
             "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa sammosāya antaradhānāya saṁvattati yathayidaṁ, bhikkhave, pamādo. ",
-            "en": "“Mendicants, I do not see a single thing that leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span> like negligence. ",
+            "en": "“Mendicants, I do not see a single thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span> like negligence. ",
             "matched": true
           },
           "an1.114:1.2": {
             "scid": "an1.114:1.2",
             "pli": "Pamādo, bhikkhave, saddhammassa sammosāya antaradhānāya saṁvattatī”ti. ",
-            "en": "Negligence leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>.” ",
+            "en": "Negligence leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>.” ",
             "matched": true
           },
           "an1.116:1.1": {
             "scid": "an1.116:1.1",
             "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa sammosāya antaradhānāya saṁvattati yathayidaṁ, bhikkhave, kosajjaṁ. ",
-            "en": "“Mendicants, I do not see a single thing that leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span> like laziness. ",
+            "en": "“Mendicants, I do not see a single thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span> like laziness. ",
             "matched": true
           },
           "an1.116:1.2": {
             "scid": "an1.116:1.2",
             "pli": "Kosajjaṁ, bhikkhave, saddhammassa sammosāya antaradhānāya saṁvattatī”ti. ",
-            "en": "Laziness leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>.” ",
+            "en": "Laziness leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>.” ",
             "matched": true
           },
           "an1.118-128:1.1": {
             "scid": "an1.118-128:1.1",
             "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa sammosāya antaradhānāya saṁvattati yathayidaṁ, bhikkhave, mahicchatā …pe… appicchatā … asantuṭṭhitā … santuṭṭhitā … ayonisomanasikāro … yonisomanasikāro … asampajaññaṁ … sampajaññaṁ … pāpamittatā … kalyāṇamittatā … anuyogo akusalānaṁ dhammānaṁ, ananuyogo kusalānaṁ dhammānaṁ. ",
-            "en": "“Mendicants, I do not see a single thing that leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span> like having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness … bad friends … good friends … pursuing bad habits and not good habits. ",
+            "en": "“Mendicants, I do not see a single thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span> like having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness … bad friends … good friends … pursuing bad habits and not good habits. ",
             "matched": true
           },
           "an1.118-128:1.2": {
             "scid": "an1.118-128:1.2",
             "pli": "Anuyogo, bhikkhave, akusalānaṁ dhammānaṁ, ananuyogo kusalānaṁ dhammānaṁ saddhammassa sammosāya antaradhānāya saṁvattatī”ti. ",
-            "en": "Pursuing bad habits and not good habits leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>.” ",
+            "en": "Pursuing bad habits and not good habits leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>.” ",
             "matched": true
           }
         },
@@ -190,25 +190,25 @@
           "an5.155:1.1": {
             "scid": "an5.155:1.1",
             "pli": "“Pañcime, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
-            "en": "“Mendicants, these five things lead to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "“Mendicants, these five things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an5.155:1.5": {
             "scid": "an5.155:1.5",
             "pli": "Ayaṁ, bhikkhave, paṭhamo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
-            "en": "This is the first thing that leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "This is the first thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an5.155:5.2": {
             "scid": "an5.155:5.2",
             "pli": "Ayaṁ, bhikkhave, pañcamo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
-            "en": "This is the fifth thing that leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "This is the fifth thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an5.155:5.3": {
             "scid": "an5.155:5.3",
             "pli": "Ime kho, bhikkhave, pañca dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
-            "en": "These five things lead to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "These five things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           }
         },
@@ -237,25 +237,25 @@
           "an5.156:1.1": {
             "scid": "an5.156:1.1",
             "pli": "“Pañcime, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
-            "en": "“Mendicants, these five things lead to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "“Mendicants, these five things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an5.156:1.5": {
             "scid": "an5.156:1.5",
             "pli": "Ayaṁ, bhikkhave, paṭhamo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
-            "en": "This is the first thing that leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "This is the first thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an5.156:5.4": {
             "scid": "an5.156:5.4",
             "pli": "Ayaṁ, bhikkhave, pañcamo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
-            "en": "This is the fifth thing that leads to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "This is the fifth thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an5.156:5.5": {
             "scid": "an5.156:5.5",
             "pli": "Ime kho, bhikkhave, pañca dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
-            "en": "These five things lead to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "These five things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           }
         },
@@ -284,13 +284,13 @@
           "an5.154:1.1": {
             "scid": "an5.154:1.1",
             "pli": "“Pañcime, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
-            "en": "“Mendicants, these five things lead to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "“Mendicants, these five things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an5.154:1.4": {
             "scid": "an5.154:1.4",
             "pli": "Ime kho, bhikkhave, pañca dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
-            "en": "These five things lead to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "These five things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           }
         },
@@ -319,13 +319,13 @@
           "sn16.13:4.1": {
             "scid": "sn16.13:4.1",
             "pli": "Pañca khome, kassapa, okkamaniyā dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
-            "en": "There are five detrimental things that lead to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "There are five detrimental things that lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "sn16.13:4.4": {
             "scid": "sn16.13:4.4",
             "pli": "ime kho, kassapa, pañca okkamaniyā dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
-            "en": "These five detrimental things lead to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "These five detrimental things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           }
         },
@@ -354,13 +354,13 @@
           "an2.20:1.1": {
             "scid": "an2.20:1.1",
             "pli": "“Dveme, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
-            "en": "“These two things, mendicants, lead to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "“These two things, mendicants, lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           },
           "an2.20:1.5": {
             "scid": "an2.20:1.5",
             "pli": "Ime kho, bhikkhave, dve dhammā saddhammassa sammosāya antaradhānāya saṁvattantī”ti. ",
-            "en": "These two things lead to the decline and <span class=\"scv-matched\">disappearance of the true teaching</span>. ",
+            "en": "These two things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an4.49:6.3": {
             "scid": "an4.49:6.3",
             "pli": "Aniccaṁ aniccato dakkhuṁ, ",
-            "en": "<span class=\"scv-matched\">Seeing impermanence</span> as impermanence, ",
+            "en": "<span class=\"ebt-matched\">Seeing impermanence</span> as impermanence, ",
             "matched": true
           }
         },

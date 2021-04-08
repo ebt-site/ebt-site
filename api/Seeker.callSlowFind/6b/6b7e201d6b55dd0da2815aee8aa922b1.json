@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "sn22.59:2.3": {
             "scid": "sn22.59:2.3",
             "pli": "‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti. ",
-            "en": "‘<span class=\"scv-matched\">May my form be like this</span>! May it not be like that!’ ",
+            "en": "‘<span class=\"ebt-matched\">May my form be like this</span>! May it not be like that!’ ",
             "matched": true
           },
           "sn22.59:2.5": {
             "scid": "sn22.59:2.5",
             "pli": "‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti. ",
-            "en": "‘<span class=\"scv-matched\">May my form be like this</span>! May it not be like that!’ ",
+            "en": "‘<span class=\"ebt-matched\">May my form be like this</span>! May it not be like that!’ ",
             "matched": true
           }
         },
@@ -92,13 +92,13 @@
           "mn35:13.4": {
             "scid": "mn35:13.4",
             "pli": "evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī”ti? ",
-            "en": "‘<span class=\"scv-matched\">May my form be like this</span>! May it not be like that’?” ",
+            "en": "‘<span class=\"ebt-matched\">May my form be like this</span>! May it not be like that’?” ",
             "matched": true
           },
           "mn35:15.4": {
             "scid": "mn35:15.4",
             "pli": "evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī”ti? ",
-            "en": "‘<span class=\"scv-matched\">May my form be like this</span>! May it not be like that’?” ",
+            "en": "‘<span class=\"ebt-matched\">May my form be like this</span>! May it not be like that’?” ",
             "matched": true
           }
         },

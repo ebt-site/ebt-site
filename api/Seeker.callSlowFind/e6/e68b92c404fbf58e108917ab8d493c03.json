@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,14 +65,14 @@
           "sn12.25:3.1": {
             "scid": "sn12.25:3.1",
             "pli": "“Paṭiccasamuppannaṁ kho, āvuso, sukhadukkhaṁ vuttaṁ bhagavatā. ",
-            "de": "„Werter Freund, der Buddha sagte, Glück und Schmerz <span class=\"scv-matched\">seien abhängig entstanden</span>. ",
+            "de": "„Werter Freund, der Buddha sagte, Glück und Schmerz <span class=\"ebt-matched\">seien abhängig entstanden</span>. ",
             "en": "“Reverend, the Buddha said that pleasure and pain are dependently originated. ",
             "matched": true
           },
           "sn12.25:7.2": {
             "scid": "sn12.25:7.2",
             "pli": "Paṭiccasamuppannaṁ kho, ānanda, sukhadukkhaṁ vuttaṁ mayā. ",
-            "de": "Ich habe gesagt, Glück und Schmerz <span class=\"scv-matched\">seien abhängig entstanden</span>. ",
+            "de": "Ich habe gesagt, Glück und Schmerz <span class=\"ebt-matched\">seien abhängig entstanden</span>. ",
             "en": "I have said that pleasure and pain are dependently originated. ",
             "matched": true
           }
@@ -104,14 +104,14 @@
           "sn12.24:4.1": {
             "scid": "sn12.24:4.1",
             "pli": "“Paṭiccasamuppannaṁ kho, āvuso, dukkhaṁ vuttaṁ bhagavatā. ",
-            "de": "„Werte Freunde, der Buddha sagte, Leiden <span class=\"scv-matched\">sei abhängig entstanden</span>. ",
+            "de": "„Werte Freunde, der Buddha sagte, Leiden <span class=\"ebt-matched\">sei abhängig entstanden</span>. ",
             "en": "“Reverends, the Buddha said that suffering is dependently originated. ",
             "matched": true
           },
           "sn12.24:8.2": {
             "scid": "sn12.24:8.2",
             "pli": "Paṭiccasamuppannaṁ kho, ānanda, dukkhaṁ vuttaṁ mayā. ",
-            "de": "Ich habe gesagt, Leiden <span class=\"scv-matched\">sei abhängig entstanden</span>. ",
+            "de": "Ich habe gesagt, Leiden <span class=\"ebt-matched\">sei abhängig entstanden</span>. ",
             "en": "I have said that suffering is dependently originated. ",
             "matched": true
           }
@@ -143,7 +143,7 @@
           "sn12.26:3.1": {
             "scid": "sn12.26:3.1",
             "pli": "“Paṭiccasamuppannaṁ kho, upavāṇa, dukkhaṁ vuttaṁ mayā. ",
-            "de": "„Upavāṇa, ich habe gesagt, Glück und Schmerz <span class=\"scv-matched\">seien abhängig entstanden</span>. ",
+            "de": "„Upavāṇa, ich habe gesagt, Glück und Schmerz <span class=\"ebt-matched\">seien abhängig entstanden</span>. ",
             "en": "“Upavāṇa, I have said that suffering is dependently originated. ",
             "matched": true
           }

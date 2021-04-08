@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -78,25 +78,25 @@
           "an6.105:1.1": {
             "scid": "an6.105:1.1",
             "pli": "“Tayome, bhikkhave, bhavā pahātabbā, tīsu sikkhāsu sikkhitabbaṁ. ",
-            "en": "“Mendicants, you should give up these three states of existence. And you should train in <span class=\"scv-matched\">three trainings</span>. ",
+            "en": "“Mendicants, you should give up these three states of existence. And you should train in <span class=\"ebt-matched\">three trainings</span>. ",
             "matched": true
           },
           "an6.105:1.5": {
             "scid": "an6.105:1.5",
             "pli": "Katamāsu tīsu sikkhāsu sikkhitabbaṁ? ",
-            "en": "What are the <span class=\"scv-matched\">three trainings</span> you should train in? ",
+            "en": "What are the <span class=\"ebt-matched\">three trainings</span> you should train in? ",
             "matched": true
           },
           "an6.105:1.7": {
             "scid": "an6.105:1.7",
             "pli": "imāsu tīsu sikkhāsu sikkhitabbaṁ. ",
-            "en": "These are the <span class=\"scv-matched\">three trainings</span> you should train in. ",
+            "en": "These are the <span class=\"ebt-matched\">three trainings</span> you should train in. ",
             "matched": true
           },
           "an6.105:1.8": {
             "scid": "an6.105:1.8",
             "pli": "Yato kho, bhikkhave, bhikkhuno ime tayo bhavā pahīnā honti, imāsu ca tīsu sikkhāsu sikkhitasikkho hoti—",
-            "en": "When a mendicant has given up these three states of existence and has trained in these <span class=\"scv-matched\">three trainings</span> ",
+            "en": "When a mendicant has given up these three states of existence and has trained in these <span class=\"ebt-matched\">three trainings</span> ",
             "matched": true
           }
         },
@@ -125,19 +125,19 @@
           "an3.89:0.3": {
             "scid": "an3.89:0.3",
             "pli": "89. Paṭhamasikkhattayasutta ",
-            "en": "89. <span class=\"scv-matched\">Three Trainings</span> (1st) ",
+            "en": "89. <span class=\"ebt-matched\">Three Trainings</span> (1st) ",
             "matched": true
           },
           "an3.89:1.1": {
             "scid": "an3.89:1.1",
             "pli": "“Tisso imā, bhikkhave, sikkhā. ",
-            "en": "“Mendicants, these are the <span class=\"scv-matched\">three trainings</span>. ",
+            "en": "“Mendicants, these are the <span class=\"ebt-matched\">three trainings</span>. ",
             "matched": true
           },
           "an3.89:4.4": {
             "scid": "an3.89:4.4",
             "pli": "Imā kho, bhikkhave, tisso sikkhā”ti. ",
-            "en": "These are the <span class=\"scv-matched\">three trainings</span>.” ",
+            "en": "These are the <span class=\"ebt-matched\">three trainings</span>.” ",
             "matched": true
           }
         },
@@ -166,19 +166,19 @@
           "an3.90:0.3": {
             "scid": "an3.90:0.3",
             "pli": "90. Dutiyasikkhattayasutta ",
-            "en": "90. <span class=\"scv-matched\">Three Trainings</span> (2nd) ",
+            "en": "90. <span class=\"ebt-matched\">Three Trainings</span> (2nd) ",
             "matched": true
           },
           "an3.90:1.1": {
             "scid": "an3.90:1.1",
             "pli": "“Tisso imā, bhikkhave, sikkhā. ",
-            "en": "“Mendicants, these are the <span class=\"scv-matched\">three trainings</span>. ",
+            "en": "“Mendicants, these are the <span class=\"ebt-matched\">three trainings</span>. ",
             "matched": true
           },
           "an3.90:4.4": {
             "scid": "an3.90:4.4",
             "pli": "Imā kho, bhikkhave, tisso sikkhāti. ",
-            "en": "These are the <span class=\"scv-matched\">three trainings</span>. ",
+            "en": "These are the <span class=\"ebt-matched\">three trainings</span>. ",
             "matched": true
           }
         },
@@ -207,13 +207,13 @@
           "an3.84:1.5": {
             "scid": "an3.84:1.5",
             "pli": "“Sakkhissasi pana tvaṁ, bhikkhu, tīsu sikkhāsu sikkhituṁ—",
-            "en": "“But monk, are you able to train in <span class=\"scv-matched\">three trainings</span>: ",
+            "en": "“But monk, are you able to train in <span class=\"ebt-matched\">three trainings</span>: ",
             "matched": true
           },
           "an3.84:1.9": {
             "scid": "an3.84:1.9",
             "pli": "“Tasmātiha tvaṁ, bhikkhu, tīsu sikkhāsu sikkhassu—",
-            "en": "“So, monk, you should train in these <span class=\"scv-matched\">three trainings</span>: ",
+            "en": "“So, monk, you should train in these <span class=\"ebt-matched\">three trainings</span>: ",
             "matched": true
           }
         },
@@ -242,13 +242,13 @@
           "an3.88:1.2": {
             "scid": "an3.88:1.2",
             "pli": "Tisso imā, bhikkhave, sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
-            "en": "These are all included in the <span class=\"scv-matched\">three trainings</span>. ",
+            "en": "These are all included in the <span class=\"ebt-matched\">three trainings</span>. ",
             "matched": true
           },
           "an3.88:1.5": {
             "scid": "an3.88:1.5",
             "pli": "imā kho, bhikkhave, tisso sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
-            "en": "These are the <span class=\"scv-matched\">three trainings</span> that include them all. ",
+            "en": "These are the <span class=\"ebt-matched\">three trainings</span> that include them all. ",
             "matched": true
           }
         },
@@ -277,13 +277,13 @@
           "an3.86:1.2": {
             "scid": "an3.86:1.2",
             "pli": "Tisso imā, bhikkhave, sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
-            "en": "These are all included in the <span class=\"scv-matched\">three trainings</span>. ",
+            "en": "These are all included in the <span class=\"ebt-matched\">three trainings</span>. ",
             "matched": true
           },
           "an3.86:1.5": {
             "scid": "an3.86:1.5",
             "pli": "imā kho, bhikkhave, tisso sikkhā, yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
-            "en": "These are the <span class=\"scv-matched\">three trainings</span> that include them all. ",
+            "en": "These are the <span class=\"ebt-matched\">three trainings</span> that include them all. ",
             "matched": true
           }
         },
@@ -312,13 +312,13 @@
           "an3.87:1.2": {
             "scid": "an3.87:1.2",
             "pli": "Tisso imā, bhikkhave, sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
-            "en": "These are all included in the <span class=\"scv-matched\">three trainings</span>. ",
+            "en": "These are all included in the <span class=\"ebt-matched\">three trainings</span>. ",
             "matched": true
           },
           "an3.87:1.5": {
             "scid": "an3.87:1.5",
             "pli": "imā kho, bhikkhave, tisso sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
-            "en": "These are the <span class=\"scv-matched\">three trainings</span> that include them all. ",
+            "en": "These are the <span class=\"ebt-matched\">three trainings</span> that include them all. ",
             "matched": true
           }
         },
@@ -347,7 +347,7 @@
           "sn22.76:7.2": {
             "scid": "sn22.76:7.2",
             "pli": "Tīsu sikkhāsu sikkhitā; ",
-            "en": "and trained in the <span class=\"scv-matched\">three trainings</span>, ",
+            "en": "and trained in the <span class=\"ebt-matched\">three trainings</span>, ",
             "matched": true
           }
         },
@@ -376,7 +376,7 @@
           "dn33:1.10.114": {
             "scid": "dn33:1.10.114",
             "pli": "Tisso sikkhā—",
-            "en": "<span class=\"scv-matched\">Three trainings</span>: ",
+            "en": "<span class=\"ebt-matched\">Three trainings</span>: ",
             "matched": true
           }
         },

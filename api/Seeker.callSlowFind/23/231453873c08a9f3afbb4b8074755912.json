@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an5.193:4.2": {
             "scid": "an5.193:4.2",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto sevālapaṇakapariyonaddho. ",
-            "en": "Suppose there was a bowl of <span class=\"scv-matched\">water overgrown with moss</span> and aquatic plants. ",
+            "en": "Suppose there was a bowl of <span class=\"ebt-matched\">water overgrown with moss</span> and aquatic plants. ",
             "matched": true
           },
           "an5.193:9.2": {
@@ -92,7 +92,7 @@
           "sn46.55:8.1": {
             "scid": "sn46.55:8.1",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto sevālapaṇakapariyonaddho. ",
-            "en": "Suppose there was a bowl of <span class=\"scv-matched\">water overgrown with moss</span> and aquatic plants. ",
+            "en": "Suppose there was a bowl of <span class=\"ebt-matched\">water overgrown with moss</span> and aquatic plants. ",
             "matched": true
           },
           "sn46.55:18.1": {

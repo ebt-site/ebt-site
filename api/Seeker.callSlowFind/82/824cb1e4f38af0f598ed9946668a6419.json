@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -93,7 +93,7 @@
           "sn5.1:6.1": {
             "scid": "sn5.1:6.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ āḷavikā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "de": "Da dachte Māra der Böse: „<span class=\"scv-matched\">Die Nonne Āḷavikā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
+            "de": "Da dachte Māra der Böse: „<span class=\"ebt-matched\">Die Nonne Āḷavikā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
             "en": "Then Māra the Wicked, thinking, “The nun Āḷavikā knows me!” miserable and sad, vanished right there.",
             "matched": true
           }
@@ -125,7 +125,7 @@
           "sn5.2:6.1": {
             "scid": "sn5.2:6.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ somā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "de": "Da dachte Māra der Böse: „<span class=\"scv-matched\">Die Nonne Somā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
+            "de": "Da dachte Māra der Böse: „<span class=\"ebt-matched\">Die Nonne Somā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
             "en": "Then Māra the Wicked, thinking, “The nun Somā knows me!” miserable and sad, vanished right there.",
             "matched": true
           }
@@ -157,7 +157,7 @@
           "sn5.3:7.1": {
             "scid": "sn5.3:7.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ kisāgotamī bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "de": "Da dachte Māra der Böse: „<span class=\"scv-matched\">Die Nonne Kisāgotamī kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
+            "de": "Da dachte Māra der Böse: „<span class=\"ebt-matched\">Die Nonne Kisāgotamī kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
             "en": "Then Māra the Wicked, thinking, “The nun Kisāgotamī knows me!” miserable and sad, vanished right there.",
             "matched": true
           }
@@ -189,7 +189,7 @@
           "sn5.6:6.1": {
             "scid": "sn5.6:6.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ cālā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "de": "Da dachte Māra der Böse: „<span class=\"scv-matched\">Die Nonne Cālā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
+            "de": "Da dachte Māra der Böse: „<span class=\"ebt-matched\">Die Nonne Cālā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
             "en": "Then Māra the Wicked, thinking, “The nun Cālā knows me!” miserable and sad, vanished right there.",
             "matched": true
           }
@@ -221,7 +221,7 @@
           "sn5.8:6.1": {
             "scid": "sn5.8:6.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ sīsupacālā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "de": "Da dachte Māra der Böse: „<span class=\"scv-matched\">Die Nonne Sīsupacālā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
+            "de": "Da dachte Māra der Böse: „<span class=\"ebt-matched\">Die Nonne Sīsupacālā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
             "en": "Then Māra the Wicked, thinking, “The nun Sīsupacālā knows me!” miserable and sad, vanished right there.",
             "matched": true
           }
@@ -253,7 +253,7 @@
           "sn5.4:7.1": {
             "scid": "sn5.4:7.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ vijayā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "de": "Da dachte Māra der Böse: „<span class=\"scv-matched\">Die Nonne Vijayā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
+            "de": "Da dachte Māra der Böse: „<span class=\"ebt-matched\">Die Nonne Vijayā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
             "en": "Then Māra the Wicked, thinking, “The nun Vijayā knows me!” miserable and sad, vanished right there.",
             "matched": true
           }
@@ -285,7 +285,7 @@
           "sn5.5:7.1": {
             "scid": "sn5.5:7.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ uppalavaṇṇā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "de": "Da dachte Māra der Böse: „<span class=\"scv-matched\">Die Nonne Uppalavaṇṇā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
+            "de": "Da dachte Māra der Böse: „<span class=\"ebt-matched\">Die Nonne Uppalavaṇṇā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
             "en": "Then Māra the Wicked, thinking, “The nun Uppalavaṇṇā knows me!” miserable and sad, vanished right there.",
             "matched": true
           }
@@ -317,7 +317,7 @@
           "sn5.7:6.1": {
             "scid": "sn5.7:6.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ upacālā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "de": "Da dachte Māra der Böse: „<span class=\"scv-matched\">Die Nonne Upacālā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
+            "de": "Da dachte Māra der Böse: „<span class=\"ebt-matched\">Die Nonne Upacālā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
             "en": "Then Māra the Wicked, thinking, “The nun Upacālā knows me!” miserable and sad, vanished right there.",
             "matched": true
           }
@@ -349,7 +349,7 @@
           "sn5.9:7.1": {
             "scid": "sn5.9:7.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ selā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "de": "Da dachte Māra der Böse: „<span class=\"scv-matched\">Die Nonne Selā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
+            "de": "Da dachte Māra der Böse: „<span class=\"ebt-matched\">Die Nonne Selā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
             "en": "Then Māra the Wicked, thinking, “The nun Selā knows me!” miserable and sad, vanished right there.",
             "matched": true
           }
@@ -381,7 +381,7 @@
           "sn5.10:7.1": {
             "scid": "sn5.10:7.1",
             "pli": "Atha kho māro pāpimā “jānāti maṁ vajirā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti. ",
-            "de": "Da dachte Māra der Böse: „<span class=\"scv-matched\">Die Nonne Vajirā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
+            "de": "Da dachte Māra der Böse: „<span class=\"ebt-matched\">Die Nonne Vajirā kennt mich</span>!“ Elend und traurig verschwand er eben dort. ",
             "en": "Then Māra the Wicked, thinking, “The nun Vajirā knows me!” miserable and sad, vanished right there. ",
             "matched": true
           }

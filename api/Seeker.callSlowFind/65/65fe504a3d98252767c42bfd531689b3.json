@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "thag15.2:10.1": {
             "scid": "thag15.2:10.1",
             "pli": "Bhuñjati anavajjāni,",
-            "en": "He <span class=\"scv-matched\">eats blameless things</span>,",
+            "en": "He <span class=\"ebt-matched\">eats blameless things</span>,",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "an6.43:14.1": {
             "scid": "an6.43:14.1",
             "pli": "Bhuñjati anavajjāni, ",
-            "en": "He <span class=\"scv-matched\">eats blameless things</span>, ",
+            "en": "He <span class=\"ebt-matched\">eats blameless things</span>, ",
             "matched": true
           }
         },

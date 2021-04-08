@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an3.74:1.7": {
             "scid": "an3.74:1.7",
             "pli": "evametissā sandiṭṭhikāya nijjarāya visuddhiyā samatikkamo hoti. ",
-            "en": "This is how <span class=\"scv-matched\">to go beyond suffering</span> by means of this purification by wearing away in this very life. ",
+            "en": "This is how <span class=\"ebt-matched\">to go beyond suffering</span> by means of this purification by wearing away in this very life. ",
             "matched": true
           }
         },

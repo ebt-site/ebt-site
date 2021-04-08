@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -63,55 +63,55 @@
           "mn1:22.1": {
             "scid": "mn1:22.1",
             "pli": "Viññātaṁ viññātato sañjānāti; ",
-            "en": "They perceive <span class=\"scv-matched\">the known</span> as <span class=\"scv-matched\">the known</span>. ",
+            "en": "They perceive <span class=\"ebt-matched\">the known</span> as <span class=\"ebt-matched\">the known</span>. ",
             "matched": true
           },
           "mn1:22.2": {
             "scid": "mn1:22.2",
             "pli": "viññātaṁ viññātato saññatvā viññātaṁ maññati, viññātasmiṁ maññati, viññātato maññati, viññātaṁ meti maññati, viññātaṁ abhinandati. ",
-            "en": "But then they identify with <span class=\"scv-matched\">the known</span> … ",
+            "en": "But then they identify with <span class=\"ebt-matched\">the known</span> … ",
             "matched": true
           },
           "mn1:28-49.19": {
             "scid": "mn1:28-49.19",
             "pli": "viññātaṁ … ",
-            "en": "<span class=\"scv-matched\">the known</span> … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
             "matched": true
           },
           "mn1:52-74.19": {
             "scid": "mn1:52-74.19",
             "pli": "viññātaṁ … ",
-            "en": "<span class=\"scv-matched\">the known</span> … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
             "matched": true
           },
           "mn1:76-98.19": {
             "scid": "mn1:76-98.19",
             "pli": "viññātaṁ … ",
-            "en": "<span class=\"scv-matched\">the known</span> … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
             "matched": true
           },
           "mn1:100-122.19": {
             "scid": "mn1:100-122.19",
             "pli": "viññātaṁ … ",
-            "en": "<span class=\"scv-matched\">the known</span> … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
             "matched": true
           },
           "mn1:124-146.19": {
             "scid": "mn1:124-146.19",
             "pli": "viññātaṁ … ",
-            "en": "<span class=\"scv-matched\">the known</span> … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
             "matched": true
           },
           "mn1:148-170.19": {
             "scid": "mn1:148-170.19",
             "pli": "viññātaṁ … ",
-            "en": "<span class=\"scv-matched\">the known</span> … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
             "matched": true
           },
           "mn1:172-194.19": {
             "scid": "mn1:172-194.19",
             "pli": "viññātaṁ … ",
-            "en": "<span class=\"scv-matched\">the known</span> … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
             "matched": true
           }
         },
@@ -176,7 +176,7 @@
           "sn35.95:10.1": {
             "scid": "sn35.95:10.1",
             "pli": "“Ettha ca te, mālukyaputta, diṭṭhasutamutaviññātabbesu dhammesu diṭṭhe diṭṭhamattaṁ bhavissati, sute sutamattaṁ bhavissati, mute mutamattaṁ bhavissati, viññāte viññātamattaṁ bhavissati. ",
-            "en": "“In that case, when it comes to things that are to be seen, heard, thought, and known: in the seen will be merely the seen; in the heard will be merely the heard; in the thought will be merely the thought; in <span class=\"scv-matched\">the known</span> will be merely <span class=\"scv-matched\">the known</span>. ",
+            "en": "“In that case, when it comes to things that are to be seen, heard, thought, and known: in the seen will be merely the seen; in the heard will be merely the heard; in the thought will be merely the thought; in <span class=\"ebt-matched\">the known</span> will be merely <span class=\"ebt-matched\">the known</span>. ",
             "matched": true
           }
         },
@@ -205,7 +205,7 @@
           "ud1.10:8.2": {
             "scid": "ud1.10:8.2",
             "pli": "‘diṭṭhe diṭṭhamattaṁ bhavissati, sute sutamattaṁ bhavissati, mute mutamattaṁ bhavissati, viññāte viññātamattaṁ bhavissatī’ti.",
-            "en": "‘In the seen will be merely the seen; in the heard will be merely the heard; in the thought will be merely the thought; in <span class=\"scv-matched\">the known</span> will be merely <span class=\"scv-matched\">the known</span>.’",
+            "en": "‘In the seen will be merely the seen; in the heard will be merely the heard; in the thought will be merely the thought; in <span class=\"ebt-matched\">the known</span> will be merely <span class=\"ebt-matched\">the known</span>.’",
             "matched": true
           }
         },
@@ -234,7 +234,7 @@
           "mn112:3.5": {
             "scid": "mn112:3.5",
             "pli": "Diṭṭhe diṭṭhavāditā, sute sutavāditā, mute mutavāditā, viññāte viññātavāditā—",
-            "en": "One speaks of the seen as seen, the heard as heard, the thought as thought, and <span class=\"scv-matched\">the known</span> as known. ",
+            "en": "One speaks of the seen as seen, the heard as heard, the thought as thought, and <span class=\"ebt-matched\">the known</span> as known. ",
             "matched": true
           }
         },

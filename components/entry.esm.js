@@ -4,7 +4,7 @@
 import * as components from './index';
 
 // install function executed by Vue.use()
-const install = function installScvVue(Vue) {
+const install = function installEbtVue(Vue) {
   Object.entries(components).forEach(([componentName, component]) => {
     Vue.component(componentName, component);
   });

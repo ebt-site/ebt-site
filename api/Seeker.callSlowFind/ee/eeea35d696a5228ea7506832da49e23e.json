@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "sn54.11:3.2": {
             "scid": "sn54.11:3.2",
             "pli": "‘ariyavihāro’ itipi, ‘brahmavihāro’ itipi, ‘tathāgatavihāro’ itipi. ",
-            "en": "‘the <span class=\"scv-matched\">meditation of a noble</span> one’, or else ‘the meditation of a Brahmā’, or else ‘the meditation of a realized one’, ",
+            "en": "‘the <span class=\"ebt-matched\">meditation of a noble</span> one’, or else ‘the meditation of a Brahmā’, or else ‘the meditation of a realized one’, ",
             "matched": true
           },
           "sn54.11:4.2": {
             "scid": "sn54.11:4.2",
             "pli": "‘ariyavihāro’ itipi, ‘brahmavihāro’ itipi, ‘tathāgatavihāro’ itipi. ",
-            "en": "‘the <span class=\"scv-matched\">meditation of a noble</span> one’, or else ‘the meditation of a Brahmā’, or else ‘the meditation of a realized one’, ",
+            "en": "‘the <span class=\"ebt-matched\">meditation of a noble</span> one’, or else ‘the meditation of a Brahmā’, or else ‘the meditation of a realized one’, ",
             "matched": true
           }
         },
@@ -92,13 +92,13 @@
           "sn54.12:8.2": {
             "scid": "sn54.12:8.2",
             "pli": "ariyavihāro itipi, brahmavihāro itipi, tathāgatavihāro itipi. ",
-            "en": "“the <span class=\"scv-matched\">meditation of a noble</span> one”, or else “the meditation of a Brahmā”, or else “the meditation of a realized one”, ",
+            "en": "“the <span class=\"ebt-matched\">meditation of a noble</span> one”, or else “the meditation of a Brahmā”, or else “the meditation of a realized one”, ",
             "matched": true
           },
           "sn54.12:11.2": {
             "scid": "sn54.12:11.2",
             "pli": "ariyavihāro itipi, brahmavihāro itipi, tathāgatavihāro itipi. ",
-            "en": "“the <span class=\"scv-matched\">meditation of a noble</span> one”, or else “the meditation of a Brahmā”, or else “the meditation of a realized one”, ",
+            "en": "“the <span class=\"ebt-matched\">meditation of a noble</span> one”, or else “the meditation of a Brahmā”, or else “the meditation of a realized one”, ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an9.37:2.3": {
             "scid": "an9.37:2.3",
             "pli": "Tadeva nāma cakkhuṁ bhavissati te rūpā tañcāyatanaṁ no paṭisaṁvedissati. ",
-            "en": "<span class=\"scv-matched\">The eye itself</span> is actually present, and so are those sights. Yet one will not experience that sense-field. ",
+            "en": "<span class=\"ebt-matched\">The eye itself</span> is actually present, and so are those sights. Yet one will not experience that sense-field. ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "dn23:18.29": {
             "scid": "dn23:18.29",
             "pli": "Tassa tadeva cakkhu hoti te rūpā, tañcāyatanaṁ nappaṭisaṁvedeti. ",
-            "en": "For him <span class=\"scv-matched\">the eye itself</span> is present, and so are those sights. Yet he does not experience that sense-field. ",
+            "en": "For him <span class=\"ebt-matched\">the eye itself</span> is present, and so are those sights. Yet he does not experience that sense-field. ",
             "matched": true
           }
         },

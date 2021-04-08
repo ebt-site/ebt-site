@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,28 +57,28 @@
           "an4.180:3.8": {
             "scid": "an4.180:3.8",
             "pli": "imassa ca bhikkhuno suggahitan’ti. ",
-            "de": "Dieser Mönch hat sich das <span class=\"scv-matched\">richtig eingeprägt</span>.‘ ",
+            "de": "Dieser Mönch hat sich das <span class=\"ebt-matched\">richtig eingeprägt</span>.‘ ",
             "en": "It has been correctly memorized by that mendicant.’ ",
             "matched": true
           },
           "an4.180:5.9": {
             "scid": "an4.180:5.9",
             "pli": "tassa ca saṅghassa suggahitan’ti. ",
-            "de": "Dieser Saṅgha hat sich das <span class=\"scv-matched\">richtig eingeprägt</span>.‘ ",
+            "de": "Dieser Saṅgha hat sich das <span class=\"ebt-matched\">richtig eingeprägt</span>.‘ ",
             "en": "It has been correctly memorized by that Saṅgha.’ ",
             "matched": true
           },
           "an4.180:7.9": {
             "scid": "an4.180:7.9",
             "pli": "tesañca therānaṁ suggahitan’ti. ",
-            "de": "Diese altehrwürdigen Mönche und Nonnen haben sich das <span class=\"scv-matched\">richtig eingeprägt</span>.‘ ",
+            "de": "Diese altehrwürdigen Mönche und Nonnen haben sich das <span class=\"ebt-matched\">richtig eingeprägt</span>.‘ ",
             "en": "It has been correctly memorized by those senior mendicants.’ ",
             "matched": true
           },
           "an4.180:9.9": {
             "scid": "an4.180:9.9",
             "pli": "tassa ca therassa suggahitan’ti. ",
-            "de": "Diese altehrwürdige Nonne hat sich das <span class=\"scv-matched\">richtig eingeprägt</span>.‘ ",
+            "de": "Diese altehrwürdige Nonne hat sich das <span class=\"ebt-matched\">richtig eingeprägt</span>.‘ ",
             "en": "It has been correctly memorized by that senior mendicant.’ ",
             "matched": true
           }

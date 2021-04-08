@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "mn96:6.4": {
             "scid": "mn96:6.4",
             "pli": "‘yañhi me paricarato pāricariyāhetu pāpiyo assa na seyyo, nāhaṁ taṁ paricareyyaṁ; yañca kho me paricarato pāricariyāhetu seyyo assa na pāpiyo tamahaṁ paricareyyan’ti. ",
-            "en": "‘Someone in whose service <span class=\"scv-matched\">I get better</span>.’ ",
+            "en": "‘Someone in whose service <span class=\"ebt-matched\">I get better</span>.’ ",
             "matched": true
           },
           "mn96:7.4": {
@@ -72,7 +72,7 @@
           "mn96:7.6": {
             "scid": "mn96:7.6",
             "pli": "‘yañhi me paricarato pāricariyāhetu pāpiyo assa na seyyo, nāhaṁ taṁ paricareyyaṁ; yañca kho me paricarato pāricariyāhetu seyyo assa na pāpiyo tamahaṁ paricareyyan’ti. ",
-            "en": "‘Someone in whose service <span class=\"scv-matched\">I get better</span>.’ ",
+            "en": "‘Someone in whose service <span class=\"ebt-matched\">I get better</span>.’ ",
             "matched": true
           }
         },

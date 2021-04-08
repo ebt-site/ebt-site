@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,21 +65,21 @@
           "an5.53:0.3": {
             "scid": "an5.53:0.3",
             "pli": "53. Padhāniyaṅgasutta ",
-            "de": "53. Faktoren, die die <span class=\"scv-matched\">Meditation unterstützen</span> ",
+            "de": "53. Faktoren, die die <span class=\"ebt-matched\">Meditation unterstützen</span> ",
             "en": "53. Factors That Support Meditation ",
             "matched": true
           },
           "an5.53:1.1": {
             "scid": "an5.53:1.1",
             "pli": "“Pañcimāni, bhikkhave, padhāniyaṅgāni. ",
-            "de": "„Mönche und Nonnen, es gibt diese fünf Faktoren, die die <span class=\"scv-matched\">Meditation unterstützen</span>. ",
+            "de": "„Mönche und Nonnen, es gibt diese fünf Faktoren, die die <span class=\"ebt-matched\">Meditation unterstützen</span>. ",
             "en": "“Mendicants, there are these five factors that support meditation. ",
             "matched": true
           },
           "an5.53:1.11": {
             "scid": "an5.53:1.11",
             "pli": "Imāni kho, bhikkhave, pañca padhāniyaṅgānī”ti. ",
-            "de": "Das sind die fünf Faktoren, die die <span class=\"scv-matched\">Meditation unterstützen</span>.“ ",
+            "de": "Das sind die fünf Faktoren, die die <span class=\"ebt-matched\">Meditation unterstützen</span>.“ ",
             "en": "These are the five factors that support meditation.” ",
             "matched": true
           }
@@ -111,7 +111,7 @@
           "dn33:2.1.65": {
             "scid": "dn33:2.1.65",
             "pli": "Pañca padhāniyaṅgāni. ",
-            "de": "Fünf Faktoren, die die <span class=\"scv-matched\">Meditation unterstützen</span>: ",
+            "de": "Fünf Faktoren, die die <span class=\"ebt-matched\">Meditation unterstützen</span>: ",
             "en": "Five factors that support meditation. ",
             "matched": true
           }
@@ -143,7 +143,7 @@
           "dn34:1.6.3": {
             "scid": "dn34:1.6.3",
             "pli": "Pañca padhāniyaṅgāni—",
-            "de": "Fünf Faktoren, die die <span class=\"scv-matched\">Meditation unterstützen</span>: ",
+            "de": "Fünf Faktoren, die die <span class=\"ebt-matched\">Meditation unterstützen</span>: ",
             "en": "Five factors that support meditation. ",
             "matched": true
           }

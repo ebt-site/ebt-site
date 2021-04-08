@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "dn10:2.10.2": {
             "scid": "dn10:2.10.2",
             "pli": "So aparena samayena tamhā dāsabyā mucceyya, attādhīno aparādhīno bhujisso yenakāmaṅgamo. ",
-            "de": "Doch nach einiger Zeit würde sie aus der Knechtschaft befreit und würde ihre eigene Herrin, <span class=\"scv-matched\">unabhängig und frei, und könnte gehen</span>, wohin sie wollte. ",
+            "de": "Doch nach einiger Zeit würde sie aus der Knechtschaft befreit und würde ihre eigene Herrin, <span class=\"ebt-matched\">unabhängig und frei, und könnte gehen</span>, wohin sie wollte. ",
             "en": "But after some time they’d be freed from servitude and become their own master, an emancipated individual able to go where they wish. ",
             "matched": true
           }

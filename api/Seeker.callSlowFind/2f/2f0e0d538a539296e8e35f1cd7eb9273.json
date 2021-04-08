@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn1.24:1.2": {
             "scid": "sn1.24:1.2",
             "pli": "Na dukkhameti naṁ tato tato; ",
-            "en": "can’t <span class=\"scv-matched\">cause you suffering</span>. ",
+            "en": "can’t <span class=\"ebt-matched\">cause you suffering</span>. ",
             "matched": true
           }
         },

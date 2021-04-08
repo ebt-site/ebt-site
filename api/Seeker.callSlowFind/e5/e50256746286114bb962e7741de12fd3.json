@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn35.97:1.4": {
             "scid": "sn35.97:1.4",
             "pli": "Cakkhundriyaṁ asaṁvutassa, bhikkhave, viharato cittaṁ byāsiñcati cakkhuviññeyyesu rūpesu. ",
-            "en": "When you live with <span class=\"scv-matched\">the eye faculty unrestrained</span>, your mind becomes polluted when it comes to sights known by the eye. ",
+            "en": "When you live with <span class=\"ebt-matched\">the eye faculty unrestrained</span>, your mind becomes polluted when it comes to sights known by the eye. ",
             "matched": true
           }
         },

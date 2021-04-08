@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,35 +61,35 @@
           "dn10:2.7.8": {
             "scid": "dn10:2.7.8",
             "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
-            "de": "wäre er voller <span class=\"scv-matched\">Freude und Glück</span>. ",
+            "de": "wäre er voller <span class=\"ebt-matched\">Freude und Glück</span>. ",
             "en": "he’d be filled with joy and happiness. ",
             "matched": true
           },
           "dn10:2.8.6": {
             "scid": "dn10:2.8.6",
             "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
-            "de": "wäre sie voller <span class=\"scv-matched\">Freude und Glück</span>. ",
+            "de": "wäre sie voller <span class=\"ebt-matched\">Freude und Glück</span>. ",
             "en": "they’d be filled with joy and happiness. ",
             "matched": true
           },
           "dn10:2.9.6": {
             "scid": "dn10:2.9.6",
             "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
-            "de": "wäre er voller <span class=\"scv-matched\">Freude und Glück</span>. ",
+            "de": "wäre er voller <span class=\"ebt-matched\">Freude und Glück</span>. ",
             "en": "they’d be filled with joy and happiness. ",
             "matched": true
           },
           "dn10:2.10.6": {
             "scid": "dn10:2.10.6",
             "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
-            "de": "wäre sie voller <span class=\"scv-matched\">Freude und Glück</span>. ",
+            "de": "wäre sie voller <span class=\"ebt-matched\">Freude und Glück</span>. ",
             "en": "they’d be filled with joy and happiness. ",
             "matched": true
           },
           "dn10:2.11.6": {
             "scid": "dn10:2.11.6",
             "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
-            "de": "wäre er voller <span class=\"scv-matched\">Freude und Glück</span>. ",
+            "de": "wäre er voller <span class=\"ebt-matched\">Freude und Glück</span>. ",
             "en": "they’d be filled with joy and happiness. ",
             "matched": true
           }
@@ -121,7 +121,7 @@
           "an5.194:5.8": {
             "scid": "an5.194:5.8",
             "pli": "tato tato adhigacchati pāmojjaṁ adhigacchati somanassaṁ. ",
-            "de": "man ist voller <span class=\"scv-matched\">Freude und Glück</span>. ",
+            "de": "man ist voller <span class=\"ebt-matched\">Freude und Glück</span>. ",
             "en": "then you become filled with joy and happiness. ",
             "matched": true
           }

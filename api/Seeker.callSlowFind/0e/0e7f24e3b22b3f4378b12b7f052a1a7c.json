@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn42.11:2.2": {
             "scid": "sn42.11:2.2",
             "pli": "atthi te uruvelakappe manussā yesaṁ te vadhena vā bandhena vā jāniyā vā garahāya vā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? ",
-            "de": "Gibt es hier in Uruvelakappa Menschen, bei denen <span class=\"scv-matched\">es für dich zu Kummer</span>, Klage, Schmerz, Traurigkeit und Bedrängnis käme, wenn sie hingerichtet würden, ins Gefängnis kämen, zu einer Geldstrafe oder einer anderen Strafe verurteilt würden?“ ",
+            "de": "Gibt es hier in Uruvelakappa Menschen, bei denen <span class=\"ebt-matched\">es für dich zu Kummer</span>, Klage, Schmerz, Traurigkeit und Bedrängnis käme, wenn sie hingerichtet würden, ins Gefängnis kämen, zu einer Geldstrafe oder einer anderen Strafe verurteilt würden?“ ",
             "en": "Are there any people here in Uruvelakappa who, if they were executed, imprisoned, fined, or condemned, it would cause you sorrow, lamentation, pain, sadness, and distress?” ",
             "matched": true
           },

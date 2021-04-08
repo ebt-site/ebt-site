@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,13 +60,13 @@
           "iti85:2.3": {
             "scid": "iti85:2.3",
             "pli": "sabbasaṅkhāresu aniccānupassino viharatha.",
-            "en": "Meditate <span class=\"scv-matched\">observing the impermanence of all</span> conditions.",
+            "en": "Meditate <span class=\"ebt-matched\">observing the impermanence of all</span> conditions.",
             "matched": true
           },
           "iti85:2.6": {
             "scid": "iti85:2.6",
             "pli": "Sabbasaṅkhāresu aniccānupassīnaṁ viharataṁ yā avijjā sā pahīyati, yā vijjā sā uppajjatī”ti.",
-            "en": "When you meditate <span class=\"scv-matched\">observing the impermanence of all</span> conditions, ignorance is given up and knowledge arises.”",
+            "en": "When you meditate <span class=\"ebt-matched\">observing the impermanence of all</span> conditions, ignorance is given up and knowledge arises.”",
             "matched": true
           }
         },
@@ -95,13 +95,13 @@
           "sn55.3:3.7": {
             "scid": "sn55.3:3.7",
             "pli": "Idha tvaṁ, dīghāvu, sabbasaṅkhāresu aniccānupassī viharāhi, anicce dukkhasaññī, dukkhe anattasaññī pahānasaññī virāgasaññī nirodhasaññīti. ",
-            "en": "You should meditate <span class=\"scv-matched\">observing the impermanence of all</span> conditions, perceiving suffering in impermanence, perceiving not-self in suffering, perceiving giving up, perceiving fading away, and perceiving cessation. ",
+            "en": "You should meditate <span class=\"ebt-matched\">observing the impermanence of all</span> conditions, perceiving suffering in impermanence, perceiving not-self in suffering, perceiving giving up, perceiving fading away, and perceiving cessation. ",
             "matched": true
           },
           "sn55.3:4.2": {
             "scid": "sn55.3:4.2",
             "pli": "Ahañhi, bhante, sabbasaṅkhāresu aniccānupassī viharāmi, anicce dukkhasaññī, dukkhe anattasaññī pahānasaññī virāgasaññī nirodhasaññī. ",
-            "en": "For I meditate <span class=\"scv-matched\">observing the impermanence of all</span> conditions, perceiving suffering in impermanence, perceiving not-self in suffering, perceiving giving up, perceiving fading away, and perceiving cessation. ",
+            "en": "For I meditate <span class=\"ebt-matched\">observing the impermanence of all</span> conditions, perceiving suffering in impermanence, perceiving not-self in suffering, perceiving giving up, perceiving fading away, and perceiving cessation. ",
             "matched": true
           }
         },
@@ -130,13 +130,13 @@
           "mn50:18.5": {
             "scid": "mn50:18.5",
             "pli": "Etha, tumhe, bhikkhave, asubhānupassino kāye viharatha, āhāre paṭikūlasaññino, sabbaloke anabhiratisaññino, sabbasaṅkhāresu aniccānupassino’ti. ",
-            "en": "Come, all you mendicants, meditate observing the ugliness of the body, perceiving the repulsiveness of food, perceiving dissatisfaction with the whole world, and <span class=\"scv-matched\">observing the impermanence of all</span> conditions.’ ",
+            "en": "Come, all you mendicants, meditate observing the ugliness of the body, perceiving the repulsiveness of food, perceiving dissatisfaction with the whole world, and <span class=\"ebt-matched\">observing the impermanence of all</span> conditions.’ ",
             "matched": true
           },
           "mn50:19.1": {
             "scid": "mn50:19.1",
             "pli": "Atha kho te, pāpima, bhikkhū kakusandhena bhagavatā arahatā sammāsambuddhena evaṁ ovadiyamānā evaṁ anusāsiyamānā araññagatāpi rukkhamūlagatāpi suññāgāragatāpi asubhānupassino kāye vihariṁsu, āhāre paṭikūlasaññino, sabbaloke anabhiratisaññino, sabbasaṅkhāresu aniccānupassino. ",
-            "en": "When those mendicants were instructed and advised by the Buddha Kakusandha in this way, they went to a wilderness, or to the root of a tree, or to an empty hut, where they meditated observing the ugliness of the body, perceiving the repulsiveness of food, perceiving dissatisfaction with the whole world, and <span class=\"scv-matched\">observing the impermanence of all</span> conditions. ",
+            "en": "When those mendicants were instructed and advised by the Buddha Kakusandha in this way, they went to a wilderness, or to the root of a tree, or to an empty hut, where they meditated observing the ugliness of the body, perceiving the repulsiveness of food, perceiving dissatisfaction with the whole world, and <span class=\"ebt-matched\">observing the impermanence of all</span> conditions. ",
             "matched": true
           }
         },

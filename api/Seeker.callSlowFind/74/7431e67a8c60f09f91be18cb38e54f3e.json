@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn12.66:5.2": {
             "scid": "sn12.66:5.2",
             "pli": "‘taṇhā panāyaṁ kattha uppajjamānā uppajjati, kattha nivisamānā nivisatī’ti? ",
-            "en": "‘But <span class=\"scv-matched\">where does that craving arise</span> and where does it settle?’ ",
+            "en": "‘But <span class=\"ebt-matched\">where does that craving arise</span> and where does it settle?’ ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "dn22:19.4": {
             "scid": "dn22:19.4",
             "pli": "Sā kho panesā, bhikkhave, taṇhā kattha uppajjamānā uppajjati, kattha nivisamānā nivisati? ",
-            "en": "But <span class=\"scv-matched\">where does that craving arise</span> and where does it settle? ",
+            "en": "But <span class=\"ebt-matched\">where does that craving arise</span> and where does it settle? ",
             "matched": true
           }
         },

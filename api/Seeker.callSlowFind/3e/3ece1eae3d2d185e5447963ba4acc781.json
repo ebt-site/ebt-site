@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,56 +57,56 @@
           "sn45.8:3.1": {
             "scid": "sn45.8:3.1",
             "pli": "Katamā ca, bhikkhave, sammādiṭṭhi? ",
-            "de": "Und <span class=\"scv-matched\">was ist recht</span>e Ansicht? ",
+            "de": "Und <span class=\"ebt-matched\">was ist recht</span>e Ansicht? ",
             "en": "And what is right view? ",
             "matched": true
           },
           "sn45.8:4.1": {
             "scid": "sn45.8:4.1",
             "pli": "Katamo ca, bhikkhave, sammāsaṅkappo? ",
-            "de": "Und <span class=\"scv-matched\">was ist recht</span>es Denken? ",
+            "de": "Und <span class=\"ebt-matched\">was ist recht</span>es Denken? ",
             "en": "And what is right thought? ",
             "matched": true
           },
           "sn45.8:5.1": {
             "scid": "sn45.8:5.1",
             "pli": "Katamā ca, bhikkhave, sammāvācā? ",
-            "de": "Und <span class=\"scv-matched\">was ist recht</span>e Rede? ",
+            "de": "Und <span class=\"ebt-matched\">was ist recht</span>e Rede? ",
             "en": "And what is right speech? ",
             "matched": true
           },
           "sn45.8:6.1": {
             "scid": "sn45.8:6.1",
             "pli": "Katamo ca, bhikkhave, sammākammanto? ",
-            "de": "Und <span class=\"scv-matched\">was ist recht</span>es Verhalten? ",
+            "de": "Und <span class=\"ebt-matched\">was ist recht</span>es Verhalten? ",
             "en": "And what is right action? ",
             "matched": true
           },
           "sn45.8:7.1": {
             "scid": "sn45.8:7.1",
             "pli": "Katamo ca, bhikkhave, sammāājīvo? ",
-            "de": "Und <span class=\"scv-matched\">was ist recht</span>er Lebenserwerb? ",
+            "de": "Und <span class=\"ebt-matched\">was ist recht</span>er Lebenserwerb? ",
             "en": "And what is right livelihood? ",
             "matched": true
           },
           "sn45.8:8.1": {
             "scid": "sn45.8:8.1",
             "pli": "Katamo ca, bhikkhave, sammāvāyāmo? ",
-            "de": "Und <span class=\"scv-matched\">was ist recht</span>er Einsatz? ",
+            "de": "Und <span class=\"ebt-matched\">was ist recht</span>er Einsatz? ",
             "en": "And what is right effort? ",
             "matched": true
           },
           "sn45.8:9.1": {
             "scid": "sn45.8:9.1",
             "pli": "Katamā ca, bhikkhave, sammāsati? ",
-            "de": "Und <span class=\"scv-matched\">was ist recht</span>e Achtsamkeit? ",
+            "de": "Und <span class=\"ebt-matched\">was ist recht</span>e Achtsamkeit? ",
             "en": "And what is right mindfulness? ",
             "matched": true
           },
           "sn45.8:10.1": {
             "scid": "sn45.8:10.1",
             "pli": "Katamo ca, bhikkhave, sammāsamādhi? ",
-            "de": "Und <span class=\"scv-matched\">was ist recht</span>e Versenkung? ",
+            "de": "Und <span class=\"ebt-matched\">was ist recht</span>e Versenkung? ",
             "en": "And what is right immersion? ",
             "matched": true
           }

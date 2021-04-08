@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "mn129:9.5": {
             "scid": "mn129:9.5",
             "pli": "“Evameva kho, bhikkhave, yaṁ so puriso tīhi sattisatehi haññamāno tatonidānaṁ dukkhaṁ domanassaṁ paṭisaṁvedeti taṁ nirayakassa dukkhassa upanidhāya saṅkhampi na upeti, kalabhāgampi na upeti, upanidhampi na upeti. ",
-            "en": "“In the same way, compared to the <span class=\"scv-matched\">suffering in hell</span>, the pain and distress experienced by that man due to being struck with three hundred spears doesn’t count, it’s not worth a fraction, there’s no comparison. ",
+            "en": "“In the same way, compared to the <span class=\"ebt-matched\">suffering in hell</span>, the pain and distress experienced by that man due to being struck with three hundred spears doesn’t count, it’s not worth a fraction, there’s no comparison. ",
             "matched": true
           },
           "mn129:17.2": {
             "scid": "mn129:17.2",
             "pli": "yāvañcidaṁ, bhikkhave, na sukarā akkhānena pāpuṇituṁ yāva dukkhā nirayā. ",
-            "en": "So much so that it’s not easy to completely describe the <span class=\"scv-matched\">suffering in hell</span>. ",
+            "en": "So much so that it’s not easy to completely describe the <span class=\"ebt-matched\">suffering in hell</span>. ",
             "matched": true
           }
         },

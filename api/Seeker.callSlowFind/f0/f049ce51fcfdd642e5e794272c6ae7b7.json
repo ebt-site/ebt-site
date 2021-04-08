@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,31 +54,31 @@
           "sn7.2:2.8": {
             "scid": "sn7.2:2.8",
             "pli": "“Sace te, bho gotama, nappaṭiggaṇhanti, amhākameva taṁ hotī”ti. ",
-            "en": "“In that case it <span class=\"scv-matched\">still belongs</span> to me.” ",
+            "en": "“In that case it <span class=\"ebt-matched\">still belongs</span> to me.” ",
             "matched": true
           },
           "sn7.2:2.10": {
             "scid": "sn7.2:2.10",
             "pli": "Tavevetaṁ, brāhmaṇa, hoti; ",
-            "en": "It <span class=\"scv-matched\">still belongs</span> to you, brahmin, ",
+            "en": "It <span class=\"ebt-matched\">still belongs</span> to you, brahmin, ",
             "matched": true
           },
           "sn7.2:2.11": {
             "scid": "sn7.2:2.11",
             "pli": "tavevetaṁ, brāhmaṇa, hoti. ",
-            "en": "it <span class=\"scv-matched\">still belongs</span> to you! ",
+            "en": "it <span class=\"ebt-matched\">still belongs</span> to you! ",
             "matched": true
           },
           "sn7.2:3.3": {
             "scid": "sn7.2:3.3",
             "pli": "Tavevetaṁ, brāhmaṇa, hoti; ",
-            "en": "It <span class=\"scv-matched\">still belongs</span> to you, brahmin, ",
+            "en": "It <span class=\"ebt-matched\">still belongs</span> to you, brahmin, ",
             "matched": true
           },
           "sn7.2:3.4": {
             "scid": "sn7.2:3.4",
             "pli": "tavevetaṁ, brāhmaṇa, hotī”ti. ",
-            "en": "it <span class=\"scv-matched\">still belongs</span> to you!” ",
+            "en": "it <span class=\"ebt-matched\">still belongs</span> to you!” ",
             "matched": true
           }
         },

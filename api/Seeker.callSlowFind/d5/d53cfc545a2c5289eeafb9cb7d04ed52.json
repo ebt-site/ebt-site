@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an5.193:4.2": {
             "scid": "an5.193:4.2",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto sevālapaṇakapariyonaddho. ",
-            "de": "Wie eine Schale mit <span class=\"scv-matched\">Wasser, das von Moos und Wasserpflanzen</span> bedeckt ist: ",
+            "de": "Wie eine Schale mit <span class=\"ebt-matched\">Wasser, das von Moos und Wasserpflanzen</span> bedeckt ist: ",
             "en": "Suppose there was a bowl of water overgrown with moss and aquatic plants. ",
             "matched": true
           },
@@ -100,7 +100,7 @@
           "sn46.55:8.1": {
             "scid": "sn46.55:8.1",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto sevālapaṇakapariyonaddho. ",
-            "de": "Wie eine Schale mit <span class=\"scv-matched\">Wasser, das von Moos und Wasserpflanzen</span> bedeckt ist: ",
+            "de": "Wie eine Schale mit <span class=\"ebt-matched\">Wasser, das von Moos und Wasserpflanzen</span> bedeckt ist: ",
             "en": "Suppose there was a bowl of water overgrown with moss and aquatic plants. ",
             "matched": true
           },

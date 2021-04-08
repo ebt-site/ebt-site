@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "an3.57:2.6": {
             "scid": "an3.57:2.6",
             "pli": "Yo kho, vaccha, paraṁ dānaṁ dadantaṁ vāreti so tiṇṇaṁ antarāyakaro hoti, tiṇṇaṁ pāripanthiko. ",
-            "en": "Anyone who <span class=\"scv-matched\">prevents another from giving</span> makes an obstacle and a barrier for three people. ",
+            "en": "Anyone who <span class=\"ebt-matched\">prevents another from giving</span> makes an obstacle and a barrier for three people. ",
             "matched": true
           },
           "an3.57:2.9": {
             "scid": "an3.57:2.9",
             "pli": "Yo kho, vaccha, paraṁ dānaṁ dadantaṁ vāreti so imesaṁ tiṇṇaṁ antarāyakaro hoti, tiṇṇaṁ pāripanthiko. ",
-            "en": "Anyone who <span class=\"scv-matched\">prevents another from giving</span> makes an obstacle and a barrier for these three people. ",
+            "en": "Anyone who <span class=\"ebt-matched\">prevents another from giving</span> makes an obstacle and a barrier for these three people. ",
             "matched": true
           }
         },

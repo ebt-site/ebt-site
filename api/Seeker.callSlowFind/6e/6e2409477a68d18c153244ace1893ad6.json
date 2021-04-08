@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an5.6:5.2": {
             "scid": "an5.6:5.2",
             "pli": "Yato ca kho, bhikkhave, paññā antarahitā hoti, duppaññā pariyuṭṭhāya tiṭṭhati; ",
-            "de": "Aber <span class=\"scv-matched\">wenn die Weisheit verschwindet</span> und Geistlosigkeit überhandnimmt, ",
+            "de": "Aber <span class=\"ebt-matched\">wenn die Weisheit verschwindet</span> und Geistlosigkeit überhandnimmt, ",
             "en": "But when wisdom vanishes and witlessness takes over, ",
             "matched": true
           }

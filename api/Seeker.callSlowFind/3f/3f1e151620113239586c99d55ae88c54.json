@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn23.2:2.9": {
             "scid": "sn23.2:2.9",
             "pli": "Taṇhākkhayo hi, rādha, nibbānan”ti. ",
-            "en": "For the <span class=\"scv-matched\">ending of craving is extinguishment</span>.” ",
+            "en": "For the <span class=\"ebt-matched\">ending of craving is extinguishment</span>.” ",
             "matched": true
           }
         },

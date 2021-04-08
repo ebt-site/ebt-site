@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,25 +54,25 @@
           "an3.30:1.3": {
             "scid": "an3.30:1.3",
             "pli": "Avakujjapañño puggalo, ucchaṅgapañño puggalo, puthupañño puggalo. ",
-            "en": "One with upside-down wisdom, one with <span class=\"scv-matched\">wisdom on their lap</span>, and one with wide wisdom. ",
+            "en": "One with upside-down wisdom, one with <span class=\"ebt-matched\">wisdom on their lap</span>, and one with wide wisdom. ",
             "matched": true
           },
           "an3.30:2.1": {
             "scid": "an3.30:2.1",
             "pli": "Katamo ca, bhikkhave, ucchaṅgapañño puggalo? ",
-            "en": "And who is the person with <span class=\"scv-matched\">wisdom on their lap</span>? ",
+            "en": "And who is the person with <span class=\"ebt-matched\">wisdom on their lap</span>? ",
             "matched": true
           },
           "an3.30:2.13": {
             "scid": "an3.30:2.13",
             "pli": "Ayaṁ vuccati, bhikkhave, ucchaṅgapañño puggalo. ",
-            "en": "This is called a person with <span class=\"scv-matched\">wisdom on their lap</span>. ",
+            "en": "This is called a person with <span class=\"ebt-matched\">wisdom on their lap</span>. ",
             "matched": true
           },
           "an3.30:6.1": {
             "scid": "an3.30:6.1",
             "pli": "Ucchaṅgapañño puriso, ",
-            "en": "The person with <span class=\"scv-matched\">wisdom on their lap</span> ",
+            "en": "The person with <span class=\"ebt-matched\">wisdom on their lap</span> ",
             "matched": true
           }
         },

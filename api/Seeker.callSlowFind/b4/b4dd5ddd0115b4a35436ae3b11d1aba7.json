@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,7 +66,7 @@
           "an5.147:2.3": {
             "scid": "an5.147:2.3",
             "pli": "Sakkaccaṁ deti, cittīkatvā deti, sahatthā deti, anapaviddhaṁ deti, āgamanadiṭṭhiko deti. ",
-            "en": "They give carefully. They give thoughtfully. They give with their own hand. They don’t give the dregs. They <span class=\"scv-matched\">give with consideration</span> for consequences. ",
+            "en": "They give carefully. They give thoughtfully. They give with their own hand. They don’t give the dregs. They <span class=\"ebt-matched\">give with consideration</span> for consequences. ",
             "matched": true
           }
         },
@@ -101,7 +101,7 @@
           "an9.20:3.2": {
             "scid": "an9.20:3.2",
             "pli": "tañca sakkaccaṁ deti, cittīkatvā deti, sahatthā deti, anapaviddhaṁ deti, āgamanadiṭṭhiko deti. ",
-            "en": "And they give it carefully, thoughtfully, with their own hand. They don’t give the dregs, and they <span class=\"scv-matched\">give with consideration</span> for consequences. ",
+            "en": "And they give it carefully, thoughtfully, with their own hand. They don’t give the dregs, and they <span class=\"ebt-matched\">give with consideration</span> for consequences. ",
             "matched": true
           }
         },
@@ -136,7 +136,7 @@
           "mn110:23.2": {
             "scid": "mn110:23.2",
             "pli": "Idha, bhikkhave, sappuriso sakkaccaṁ dānaṁ deti, sahatthā dānaṁ deti, cittīkatvā dānaṁ deti, anapaviṭṭhaṁ dānaṁ deti, āgamanadiṭṭhiko dānaṁ deti. ",
-            "en": "It’s when a good person gives a gift carefully, with their own hand, and thoughtfully. They don’t give the dregs, and they <span class=\"scv-matched\">give with consideration</span> for consequences. ",
+            "en": "It’s when a good person gives a gift carefully, with their own hand, and thoughtfully. They don’t give the dregs, and they <span class=\"ebt-matched\">give with consideration</span> for consequences. ",
             "matched": true
           }
         },

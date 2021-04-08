@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,28 +57,28 @@
           "an3.30:1.3": {
             "scid": "an3.30:1.3",
             "pli": "Avakujjapañño puggalo, ucchaṅgapañño puggalo, puthupañño puggalo. ",
-            "de": "Den, dessen Weisheit auf dem Kopf steht, den, der die <span class=\"scv-matched\">Weisheit auf dem Schoß</span> hat, und den, dessen Weisheit umfassend ist. ",
+            "de": "Den, dessen Weisheit auf dem Kopf steht, den, der die <span class=\"ebt-matched\">Weisheit auf dem Schoß</span> hat, und den, dessen Weisheit umfassend ist. ",
             "en": "One with upside-down wisdom, one with wisdom on their lap, and one with wide wisdom. ",
             "matched": true
           },
           "an3.30:2.1": {
             "scid": "an3.30:2.1",
             "pli": "Katamo ca, bhikkhave, ucchaṅgapañño puggalo? ",
-            "de": "Und wer hat die <span class=\"scv-matched\">Weisheit auf dem Schoß</span>? ",
+            "de": "Und wer hat die <span class=\"ebt-matched\">Weisheit auf dem Schoß</span>? ",
             "en": "And who is the person with wisdom on their lap? ",
             "matched": true
           },
           "an3.30:2.13": {
             "scid": "an3.30:2.13",
             "pli": "Ayaṁ vuccati, bhikkhave, ucchaṅgapañño puggalo. ",
-            "de": "Das nennt man einen Menschen, der die <span class=\"scv-matched\">Weisheit auf dem Schoß</span> hat. ",
+            "de": "Das nennt man einen Menschen, der die <span class=\"ebt-matched\">Weisheit auf dem Schoß</span> hat. ",
             "en": "This is called a person with wisdom on their lap. ",
             "matched": true
           },
           "an3.30:6.1": {
             "scid": "an3.30:6.1",
             "pli": "Ucchaṅgapañño puriso, ",
-            "de": "Wer die <span class=\"scv-matched\">Weisheit auf dem Schoß</span> hat, ",
+            "de": "Wer die <span class=\"ebt-matched\">Weisheit auf dem Schoß</span> hat, ",
             "en": "The person with wisdom on their lap ",
             "matched": true
           }

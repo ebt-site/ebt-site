@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -63,7 +63,7 @@
           "sn1.71:3.4": {
             "scid": "sn1.71:3.4",
             "pli": "madhuraggassa devate; ",
-            "en": "and a <span class=\"scv-matched\">honey tip</span>. ",
+            "en": "and a <span class=\"ebt-matched\">honey tip</span>. ",
             "matched": true
           }
         },
@@ -92,7 +92,7 @@
           "sn2.3:3.4": {
             "scid": "sn2.3:3.4",
             "pli": "madhuraggassa vatrabhū; ",
-            "en": "and a <span class=\"scv-matched\">honey tip</span>. ",
+            "en": "and a <span class=\"ebt-matched\">honey tip</span>. ",
             "matched": true
           }
         },
@@ -121,7 +121,7 @@
           "sn11.21:3.4": {
             "scid": "sn11.21:3.4",
             "pli": "madhuraggassa vāsava; ",
-            "en": "and a <span class=\"scv-matched\">honey tip</span>. ",
+            "en": "and a <span class=\"ebt-matched\">honey tip</span>. ",
             "matched": true
           }
         },
@@ -150,7 +150,7 @@
           "sn7.1:8.4": {
             "scid": "sn7.1:8.4",
             "pli": "madhuraggassa brāhmaṇa; ",
-            "en": "and a <span class=\"scv-matched\">honey tip</span>. ",
+            "en": "and a <span class=\"ebt-matched\">honey tip</span>. ",
             "matched": true
           }
         },

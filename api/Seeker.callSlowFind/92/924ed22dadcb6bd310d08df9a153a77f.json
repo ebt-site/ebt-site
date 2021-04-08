@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,25 +72,25 @@
           "dn28:20.3": {
             "scid": "dn28:20.3",
             "pli": "Yatra hi nāma tathāgato evaṁmahiddhiko evaṁmahānubhāvo, atha ca pana nevattānaṁ pātukarissati. ",
-            "en": "For even though the Realized One has <span class=\"scv-matched\">such power and might</span>, he will not make a display of himself. ",
+            "en": "For even though the Realized One has <span class=\"ebt-matched\">such power and might</span>, he will not make a display of himself. ",
             "matched": true
           },
           "dn28:20.6": {
             "scid": "dn28:20.6",
             "pli": "Yatra hi nāma tathāgato evaṁmahiddhiko evaṁmahānubhāvo. Atha ca pana nevattānaṁ pātukarissatī”ti. ",
-            "en": "For even though the Realized One has <span class=\"scv-matched\">such power and might</span>, he will not make a display of himself.” ",
+            "en": "For even though the Realized One has <span class=\"ebt-matched\">such power and might</span>, he will not make a display of himself.” ",
             "matched": true
           },
           "dn28:20.8": {
             "scid": "dn28:20.8",
             "pli": "Yatra hi nāma tathāgato evaṁmahiddhiko evaṁmahānubhāvo, atha ca pana nevattānaṁ pātukarissati’. ",
-            "en": "For even though the Realized One has <span class=\"scv-matched\">such power and might</span>, he will not make a display of himself. ",
+            "en": "For even though the Realized One has <span class=\"ebt-matched\">such power and might</span>, he will not make a display of himself. ",
             "matched": true
           },
           "dn28:20.11": {
             "scid": "dn28:20.11",
             "pli": "Yatra hi nāma tathāgato evaṁmahiddhiko evaṁmahānubhāvo, atha ca pana nevattānaṁ pātukarissatī’”ti. ",
-            "en": "For even though the Realized One has <span class=\"scv-matched\">such power and might</span>, he will not make a display of himself.” ",
+            "en": "For even though the Realized One has <span class=\"ebt-matched\">such power and might</span>, he will not make a display of himself.” ",
             "matched": true
           }
         },
@@ -119,13 +119,13 @@
           "an3.80:9.3": {
             "scid": "an3.80:9.3",
             "pli": "yassa me satthā evaṁmahiddhiko evaṁmahānubhāvo”ti. ",
-            "en": "to have a teacher with <span class=\"scv-matched\">such power and might</span>!” ",
+            "en": "to have a teacher with <span class=\"ebt-matched\">such power and might</span>!” ",
             "matched": true
           },
           "an3.80:9.5": {
             "scid": "an3.80:9.5",
             "pli": "“kiṁ tuyhettha, āvuso ānanda, yadi te satthā evaṁmahiddhiko evaṁmahānubhāvo”ti? ",
-            "en": "“What is it to you, Reverend Ānanda, if your teacher has <span class=\"scv-matched\">such power and might</span>?” ",
+            "en": "“What is it to you, Reverend Ānanda, if your teacher has <span class=\"ebt-matched\">such power and might</span>?” ",
             "matched": true
           }
         },
@@ -154,13 +154,13 @@
           "mn37:11.7": {
             "scid": "mn37:11.7",
             "pli": "Samaṇassa mahiddhikatā mahānubhāvatā, yatra hi nāma dibbabhavanaṁ pādaṅguṭṭhakena saṅkampessati sampakampessati sampavedhessatī”ti. ",
-            "en": "The ascetic has <span class=\"scv-matched\">such power and might</span> that he makes the god’s home shake and rock and tremble with his big toe!” ",
+            "en": "The ascetic has <span class=\"ebt-matched\">such power and might</span> that he makes the god’s home shake and rock and tremble with his big toe!” ",
             "matched": true
           },
           "mn37:14.7": {
             "scid": "mn37:14.7",
             "pli": "yassa te sabrahmacārī evaṁmahiddhiko evaṁmahānubhāvo. ",
-            "en": "to have a spiritual companion of <span class=\"scv-matched\">such power and might</span>! ",
+            "en": "to have a spiritual companion of <span class=\"ebt-matched\">such power and might</span>! ",
             "matched": true
           }
         },
@@ -189,7 +189,7 @@
           "sn51.31:1.3": {
             "scid": "sn51.31:1.3",
             "pli": "katamesaṁ dhammānaṁ bhāvitattā bahulīkatattā moggallāno bhikkhu evaṁmahiddhiko evaṁmahānubhāvo”ti? ",
-            "en": "What things has the mendicant Moggallāna developed and cultivated so as to have <span class=\"scv-matched\">such power and might</span>?” ",
+            "en": "What things has the mendicant Moggallāna developed and cultivated so as to have <span class=\"ebt-matched\">such power and might</span>?” ",
             "matched": true
           }
         },
@@ -218,7 +218,7 @@
           "sn51.32:1.3": {
             "scid": "sn51.32:1.3",
             "pli": "katamesaṁ dhammānaṁ bhāvitattā bahulīkatattā tathāgato evaṁmahiddhiko evaṁmahānubhāvo”ti? ",
-            "en": "What things has the Realized One developed and cultivated so as to have <span class=\"scv-matched\">such power and might</span>?” ",
+            "en": "What things has the Realized One developed and cultivated so as to have <span class=\"ebt-matched\">such power and might</span>?” ",
             "matched": true
           }
         },
@@ -247,7 +247,7 @@
           "sn51.14:4.7": {
             "scid": "sn51.14:4.7",
             "pli": "katamesaṁ dhammānaṁ bhāvitattā bahulīkatattā moggallāno bhikkhu evaṁmahiddhiko evaṁmahānubhāvo”ti? ",
-            "en": "What things has the mendicant Moggallāna developed and cultivated so as to have <span class=\"scv-matched\">such power and might</span>?” ",
+            "en": "What things has the mendicant Moggallāna developed and cultivated so as to have <span class=\"ebt-matched\">such power and might</span>?” ",
             "matched": true
           }
         },
@@ -276,7 +276,7 @@
           "dn25:7.19": {
             "scid": "dn25:7.19",
             "pli": "“acchariyaṁ vata bho, abbhutaṁ vata bho, samaṇassa gotamassa mahiddhikatā mahānubhāvatā, yatra hi nāma sakavādaṁ ṭhapessati, paravādena pavāressatī”ti. ",
-            "en": "“It’s incredible, it’s amazing! The ascetic Gotama has <span class=\"scv-matched\">such power and might</span>! For he sets aside his own doctrine and invites discussion on the doctrine of others!” ",
+            "en": "“It’s incredible, it’s amazing! The ascetic Gotama has <span class=\"ebt-matched\">such power and might</span>! For he sets aside his own doctrine and invites discussion on the doctrine of others!” ",
             "matched": true
           }
         },

@@ -1,12 +1,12 @@
-(typeof describe === 'function') && describe("scv-settings", function() {
+(typeof describe === 'function') && describe("ebt-settings", function() {
     const should = require("should");
     const {
         Settings,
     } = require("../src/index");
 
     it("TESTTESTdefault ctor", async()=>{
-        var scv = new Settings();
-        should(scv).properties({
+        var ebt = new Settings();
+        should(ebt).properties({
             audio: Settings.AUDIO.OGG,
             fullLine: false,
             history: [],
@@ -36,17 +36,17 @@
             'three',
             'four',
         ];
-        var scv = new Settings({
+        var ebt = new Settings({
             history,
             maxHistory,
             showId,
             showPali,
         });
 
-        should.deepEqual(scv.history, history);
-        should(scv.history).not.equal(history);
+        should.deepEqual(ebt.history, history);
+        should(ebt.history).not.equal(history);
 
-        should(scv).properties({
+        should(ebt).properties({
             maxHistory,
             showId,
             showPali,
@@ -61,13 +61,13 @@
             'three',
             'four',
         ];
-        var scv = new Settings({
+        var ebt = new Settings({
             history,
             maxHistory,
         });
 
         // toJSON() truncates history as needed
-        let cookie = JSON.stringify(scv);
+        let cookie = JSON.stringify(ebt);
         should(cookie.length).below(4000); 
         let json = JSON.parse(cookie);
         should.deepEqual(json.history, history.slice(0,3));

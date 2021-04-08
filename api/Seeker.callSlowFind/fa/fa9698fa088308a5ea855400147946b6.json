@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,19 +60,19 @@
           "an4.192:1.3": {
             "scid": "an4.192:1.3",
             "pli": "Saṁvāsena, bhikkhave, sīlaṁ veditabbaṁ, tañca kho dīghena addhunā, na ittaraṁ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena. ",
-            "en": "You can get to know <span class=\"scv-matched\">a person’s ethics</span> by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless. ",
+            "en": "You can get to know <span class=\"ebt-matched\">a person’s ethics</span> by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless. ",
             "matched": true
           },
           "an4.192:2.1": {
             "scid": "an4.192:2.1",
             "pli": "‘Saṁvāsena, bhikkhave, sīlaṁ veditabbaṁ, tañca kho dīghena addhunā, na ittaraṁ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, ",
-            "en": "‘You can get to know <span class=\"scv-matched\">a person’s ethics</span> by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless.’ ",
+            "en": "‘You can get to know <span class=\"ebt-matched\">a person’s ethics</span> by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless.’ ",
             "matched": true
           },
           "an4.192:3.4": {
             "scid": "an4.192:3.4",
             "pli": "‘Saṁvāsena, bhikkhave, sīlaṁ veditabbaṁ, tañca kho dīghena addhunā, na ittaraṁ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. ",
-            "en": "That’s why I said that you can get to know <span class=\"scv-matched\">a person’s ethics</span> by living with them. But only after a long time, not a short time; only when paying attention, not when inattentive; and only by the wise, not the witless. ",
+            "en": "That’s why I said that you can get to know <span class=\"ebt-matched\">a person’s ethics</span> by living with them. But only after a long time, not a short time; only when paying attention, not when inattentive; and only by the wise, not the witless. ",
             "matched": true
           }
         },
@@ -101,7 +101,7 @@
           "sn3.11:5.1": {
             "scid": "sn3.11:5.1",
             "pli": "Saṁvāsena kho, mahārāja, sīlaṁ veditabbaṁ. Tañca kho dīghena addhunā, na ittaraṁ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena. ",
-            "en": "You can get to know <span class=\"scv-matched\">a person’s ethics</span> by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless. ",
+            "en": "You can get to know <span class=\"ebt-matched\">a person’s ethics</span> by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless. ",
             "matched": true
           }
         },
@@ -130,7 +130,7 @@
           "ud6.2:6.1": {
             "scid": "ud6.2:6.1",
             "pli": "Saṁvāsena kho, mahārāja, sīlaṁ veditabbaṁ. Tañca kho dīghena addhunā na ittaraṁ, manasikarotā no amanasikarotā, paññavatā no duppaññena.",
-            "en": "You can get to know <span class=\"scv-matched\">a person’s ethics</span> by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless. ",
+            "en": "You can get to know <span class=\"ebt-matched\">a person’s ethics</span> by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless. ",
             "matched": true
           }
         },

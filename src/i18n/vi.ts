@@ -153,7 +153,7 @@ export default {
     yesDeleteUser: 'Yes. Xoá tài khoản : ',
 
   },
-  scv: {
+  ebt: {
     audio: "Audio",
     aboutTitle: "Lời giới thiệu",
     and: "và",

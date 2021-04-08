@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an5.28:3.4": {
             "scid": "an5.28:3.4",
             "pli": "Seyyathāpi, bhikkhave, udakarahado gambhīro ubbhidodako. Tassa nevassa puratthimāya disāya udakassa āyamukhaṁ, na pacchimāya disāya udakassa āyamukhaṁ, na uttarāya disāya udakassa āyamukhaṁ, na dakkhiṇāya disāya udakassa āyamukhaṁ, devo ca kālena kālaṁ sammā dhāraṁ nānuppaveccheyya. ",
-            "de": "Wie <span class=\"scv-matched\">ein tiefer See, der von einer Quelle gespeist</span> wird und der weder von Osten noch von Westen, weder von Norden noch von Süden einen Zufluss hat und auch nicht von Zeit zu Zeit vom Regen aufgefüllt wird. ",
+            "de": "Wie <span class=\"ebt-matched\">ein tiefer See, der von einer Quelle gespeist</span> wird und der weder von Osten noch von Westen, weder von Norden noch von Süden einen Zufluss hat und auch nicht von Zeit zu Zeit vom Regen aufgefüllt wird. ",
             "en": "It’s like a deep lake fed by spring water. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "dn10:2.16.1": {
             "scid": "dn10:2.16.1",
             "pli": "Seyyathāpi, māṇava, udakarahado gambhīro ubbhidodako. Tassa nevassa puratthimāya disāya udakassa āyamukhaṁ, na dakkhiṇāya disāya udakassa āyamukhaṁ, na pacchimāya disāya udakassa āyamukhaṁ, na uttarāya disāya udakassa āyamukhaṁ, devo ca na kālena kālaṁ sammā dhāraṁ anupaveccheyya. Atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṁ sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya, nāssa kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṁ assa. ",
-            "de": "Wie <span class=\"scv-matched\">ein tiefer See, der von einer Quelle gespeist</span> wird und der weder von Osten noch von Westen, weder von Norden noch von Süden einen Zufluss hat und auch nicht von Zeit zu Zeit vom Regen aufgefüllt wird. Doch der Strom kühlen Wassers, der im See aufwallt, tränkt, durchdringt, füllt und durchströmt den ganzen See. Es gibt keinen Teil des Sees, der nicht von kühlem Wasser durchströmt wäre. ",
+            "de": "Wie <span class=\"ebt-matched\">ein tiefer See, der von einer Quelle gespeist</span> wird und der weder von Osten noch von Westen, weder von Norden noch von Süden einen Zufluss hat und auch nicht von Zeit zu Zeit vom Regen aufgefüllt wird. Doch der Strom kühlen Wassers, der im See aufwallt, tränkt, durchdringt, füllt und durchströmt den ganzen See. Es gibt keinen Teil des Sees, der nicht von kühlem Wasser durchströmt wäre. ",
             "en": "It’s like a deep lake fed by spring water. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. But the stream of cool water welling up in the lake drenches, steeps, fills, and spreads throughout the lake. There’s no part of the lake that’s not spread through with cool water. ",
             "matched": true
           }

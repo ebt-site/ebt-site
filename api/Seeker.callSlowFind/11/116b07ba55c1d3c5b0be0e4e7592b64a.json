@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an7.66:11.1": {
             "scid": "an7.66:11.1",
             "pli": "Bhūtapubbaṁ, bhikkhave, sunetto nāma satthā ahosi titthakaro kāmesu vītarāgo. ",
-            "de": "Es war einmal <span class=\"scv-matched\">ein Lehrer mit Namen Sunetta</span>. Der war ein Religionsstifter und war von sinnlichem Verlangen frei. ",
+            "de": "Es war einmal <span class=\"ebt-matched\">ein Lehrer mit Namen Sunetta</span>. Der war ein Religionsstifter und war von sinnlichem Verlangen frei. ",
             "en": "Once upon a time, there was a teacher called Sunetta. He was a religious founder and was free of sensual desire. ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "an6.54:13.7": {
             "scid": "an6.54:13.7",
             "pli": "“Bhūtapubbaṁ, brāhmaṇa dhammika, sunetto nāma satthā ahosi titthakaro kāmesu vītarāgo. ",
-            "de": "„Es war einmal <span class=\"scv-matched\">ein Lehrer mit Namen Sunetta</span>. Der war ein Religionsstifter und war von sinnlichem Verlangen frei. ",
+            "de": "„Es war einmal <span class=\"ebt-matched\">ein Lehrer mit Namen Sunetta</span>. Der war ein Religionsstifter und war von sinnlichem Verlangen frei. ",
             "en": "“Once upon a time, there was a Teacher called Sunetta. He was a religious founder and was free of sensual desire. ",
             "matched": true
           }

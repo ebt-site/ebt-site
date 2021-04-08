@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,19 +57,19 @@
           "an3.183-352:1.1": {
             "scid": "an3.183-352:1.1",
             "pli": "“Rāgassa, bhikkhave, abhiññāya tayo dhammā bhāvetabbā. ",
-            "en": "“For insight into greed, <span class=\"scv-matched\">three things should be developed</span>. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">three things should be developed</span>. ",
             "matched": true
           },
           "an3.183-352:1.4": {
             "scid": "an3.183-352:1.4",
             "pli": "rāgassa, bhikkhave, abhiññāya ime tayo dhammā bhāvetabbā. (…)",
-            "en": "For insight into greed, these <span class=\"scv-matched\">three things should be developed</span>. ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">three things should be developed</span>. ",
             "matched": true
           },
           "an3.183-352:3.26": {
             "scid": "an3.183-352:3.26",
             "pli": "paṭinissaggāya ime tayo dhammā bhāvetabbā”ti. ",
-            "en": "For the letting go of negligence, these <span class=\"scv-matched\">three things should be developed</span>.” ",
+            "en": "For the letting go of negligence, these <span class=\"ebt-matched\">three things should be developed</span>.” ",
             "matched": true
           }
         },
@@ -98,7 +98,7 @@
           "dn34:1.4.5": {
             "scid": "dn34:1.4.5",
             "pli": "Katame tayo dhammā bhāvetabbā? ",
-            "en": "What <span class=\"scv-matched\">three things should be developed</span>? ",
+            "en": "What <span class=\"ebt-matched\">three things should be developed</span>? ",
             "matched": true
           }
         },

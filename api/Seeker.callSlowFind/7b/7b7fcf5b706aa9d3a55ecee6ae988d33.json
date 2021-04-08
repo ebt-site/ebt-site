@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,7 +72,7 @@
           "an6.8:1.4": {
             "scid": "an6.8:1.4",
             "pli": "Imāni kho, bhikkhave, cha anuttariyānī”ti. ",
-            "en": "These are the six <span class=\"scv-matched\">unsurpassable things</span>.” ",
+            "en": "These are the six <span class=\"ebt-matched\">unsurpassable things</span>.” ",
             "matched": true
           }
         },
@@ -101,13 +101,13 @@
           "an1.175-186:1.1": {
             "scid": "an1.175-186:1.1",
             "pli": "“Ekapuggalassa, bhikkhave, pātubhāvā mahato cakkhussa pātubhāvo hoti, mahato ālokassa pātubhāvo hoti, mahato obhāsassa pātubhāvo hoti, channaṁ anuttariyānaṁ pātubhāvo hoti, catunnaṁ paṭisambhidānaṁ sacchikiriyā hoti, anekadhātupaṭivedho hoti, nānādhātupaṭivedho hoti, vijjāvimuttiphalasacchikiriyā hoti, sotāpattiphalasacchikiriyā hoti, sakadāgāmiphalasacchikiriyā hoti, anāgāmiphalasacchikiriyā hoti, arahattaphalasacchikiriyā hoti. ",
-            "en": "“With the appearance of one person, mendicants, there is the appearance of a great eye, a great light, a great radiance, and the six <span class=\"scv-matched\">unsurpassable things</span>; the realization of the four kinds of textual analysis; the penetration of many and diverse elements; the realization of the fruit of knowledge and freedom; the realization of the fruits of stream-entry, once-return, non-return, and perfection. ",
+            "en": "“With the appearance of one person, mendicants, there is the appearance of a great eye, a great light, a great radiance, and the six <span class=\"ebt-matched\">unsurpassable things</span>; the realization of the four kinds of textual analysis; the penetration of many and diverse elements; the realization of the fruit of knowledge and freedom; the realization of the fruits of stream-entry, once-return, non-return, and perfection. ",
             "matched": true
           },
           "an1.175-186:1.4": {
             "scid": "an1.175-186:1.4",
             "pli": "Imassa kho, bhikkhave, ekapuggalassa pātubhāvā mahato cakkhussa pātubhāvo hoti, mahato ālokassa pātubhāvo hoti, mahato obhāsassa pātubhāvo hoti, channaṁ anuttariyānaṁ pātubhāvo hoti, catunnaṁ paṭisambhidānaṁ sacchikiriyā hoti, anekadhātupaṭivedho hoti, nānādhātupaṭivedho hoti, vijjāvimuttiphalasacchikiriyā hoti, sotāpattiphalasacchikiriyā hoti, sakadāgāmiphalasacchikiriyā hoti, anāgāmiphalasacchikiriyā hoti, arahattaphalasacchikiriyā hotī”ti. ",
-            "en": "This is the one person whose appearance brings the appearance of a great eye, a great light, a great radiance, and the six <span class=\"scv-matched\">unsurpassable things</span>; the realization of the four kinds of textual analysis; the penetration of many and diverse elements; the realization of the fruit of knowledge and release; the realization of the fruits of stream-entry, once-return, non-return, and perfection.” ",
+            "en": "This is the one person whose appearance brings the appearance of a great eye, a great light, a great radiance, and the six <span class=\"ebt-matched\">unsurpassable things</span>; the realization of the four kinds of textual analysis; the penetration of many and diverse elements; the realization of the fruit of knowledge and release; the realization of the fruits of stream-entry, once-return, non-return, and perfection.” ",
             "matched": true
           }
         },
@@ -142,7 +142,7 @@
           "an6.30:8.1": {
             "scid": "an6.30:8.1",
             "pli": "Imāni kho, bhikkhave, cha anuttariyānīti. ",
-            "en": "These are the six <span class=\"scv-matched\">unsurpassable things</span>. ",
+            "en": "These are the six <span class=\"ebt-matched\">unsurpassable things</span>. ",
             "matched": true
           }
         },
@@ -171,13 +171,13 @@
           "dn33:1.10.118": {
             "scid": "dn33:1.10.118",
             "pli": "Tīṇi anuttariyāni—",
-            "en": "Three <span class=\"scv-matched\">unsurpassable things</span>: ",
+            "en": "Three <span class=\"ebt-matched\">unsurpassable things</span>: ",
             "matched": true
           },
           "dn33:2.2.112": {
             "scid": "dn33:2.2.112",
             "pli": "Cha anuttariyāni—",
-            "en": "Six <span class=\"scv-matched\">unsurpassable things</span>: ",
+            "en": "Six <span class=\"ebt-matched\">unsurpassable things</span>: ",
             "matched": true
           }
         },
@@ -206,7 +206,7 @@
           "dn34:1.7.80": {
             "scid": "dn34:1.7.80",
             "pli": "Cha anuttariyāni—",
-            "en": "Six <span class=\"scv-matched\">unsurpassable things</span>: ",
+            "en": "Six <span class=\"ebt-matched\">unsurpassable things</span>: ",
             "matched": true
           }
         },

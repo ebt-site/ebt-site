@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -63,7 +63,7 @@
           "sn10.8:4.1": {
             "scid": "sn10.8:4.1",
             "pli": "Atha kho anāthapiṇḍikassa gahapatissa andhakāro antaradhāyi, āloko pāturahosi, yaṁ ahosi bhayaṁ chambhitattaṁ lomahaṁso, so paṭippassambhi. ",
-            "en": "Then <span class=\"scv-matched\">darkness vanished</span> and light appeared to Anāthapiṇḍika. His fear, terror, and goosebumps settled down. ",
+            "en": "Then <span class=\"ebt-matched\">darkness vanished</span> and light appeared to Anāthapiṇḍika. His fear, terror, and goosebumps settled down. ",
             "matched": true
           },
           "sn10.8:4.2": {
@@ -75,7 +75,7 @@
           "sn10.8:7.1": {
             "scid": "sn10.8:7.1",
             "pli": "Atha kho anāthapiṇḍikassa gahapatissa andhakāro antaradhāyi, āloko pāturahosi, yaṁ ahosi bhayaṁ chambhitattaṁ lomahaṁso, so paṭippassambhi. ",
-            "en": "Then <span class=\"scv-matched\">darkness vanished</span> and light appeared to Anāthapiṇḍika. His fear, terror, and goosebumps settled down. ",
+            "en": "Then <span class=\"ebt-matched\">darkness vanished</span> and light appeared to Anāthapiṇḍika. His fear, terror, and goosebumps settled down. ",
             "matched": true
           },
           "sn10.8:7.2": {
@@ -87,7 +87,7 @@
           "sn10.8:10.1": {
             "scid": "sn10.8:10.1",
             "pli": "Atha kho anāthapiṇḍikassa gahapatissa andhakāro antaradhāyi, āloko pāturahosi, yaṁ ahosi bhayaṁ chambhitattaṁ lomahaṁso, so paṭippassambhi. ",
-            "en": "Then <span class=\"scv-matched\">darkness vanished</span> and light appeared to Anāthapiṇḍika. His fear, terror, and goosebumps settled down. ",
+            "en": "Then <span class=\"ebt-matched\">darkness vanished</span> and light appeared to Anāthapiṇḍika. His fear, terror, and goosebumps settled down. ",
             "matched": true
           }
         },
@@ -116,7 +116,7 @@
           "dn21:1.9.1": {
             "scid": "dn21:1.9.1",
             "pli": "Tena kho pana samayena indasālaguhā visamā santī samā samapādi, sambādhā santī urundā samapādi, andhakāro guhāyaṁ antaradhāyi, āloko udapādi yathā taṁ devānaṁ devānubhāvena. ",
-            "en": "And at that time the uneven places were evened out, the cramped places were opened up, the <span class=\"scv-matched\">darkness vanished</span> and light appeared, as happens through the glory of the gods. ",
+            "en": "And at that time the uneven places were evened out, the cramped places were opened up, the <span class=\"ebt-matched\">darkness vanished</span> and light appeared, as happens through the glory of the gods. ",
             "matched": true
           }
         },

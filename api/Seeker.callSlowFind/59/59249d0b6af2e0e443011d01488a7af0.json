@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "mn108:10.6": {
             "scid": "mn108:10.6",
             "pli": "ayaṁ no bhagavato accayena paṭisaraṇaṁ bhavissatīti, yaṁ tumhe etarahi paṭipādeyyāthā’ti—",
-            "en": "who <span class=\"scv-matched\">serves as your refuge</span> after the Buddha passed away, to whom you now turn, ",
+            "en": "who <span class=\"ebt-matched\">serves as your refuge</span> after the Buddha passed away, to whom you now turn, ",
             "matched": true
           },
           "mn108:12.3": {
             "scid": "mn108:12.3",
             "pli": "ayaṁ no bhagavato accayena paṭisaraṇaṁ bhavissatīti yaṁ tumhe etarahi paṭipādeyyāthā’ti—",
-            "en": "who <span class=\"scv-matched\">serves as your refuge</span> after the Buddha passed away, to whom you now turn, ",
+            "en": "who <span class=\"ebt-matched\">serves as your refuge</span> after the Buddha passed away, to whom you now turn, ",
             "matched": true
           }
         },

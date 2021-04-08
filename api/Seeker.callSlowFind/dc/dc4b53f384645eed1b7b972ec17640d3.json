@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an5.28:5.4": {
             "scid": "an5.28:5.4",
             "pli": "Seyyathāpi, bhikkhave, puriso odātena vatthena sasīsaṁ pārupitvā nisinno assa; ",
-            "de": "Wie wenn jemand dasitzt, der <span class=\"scv-matched\">von Kopf bis Fuß in ein weißes Tuch</span> gehüllt ist. ",
+            "de": "Wie wenn jemand dasitzt, der <span class=\"ebt-matched\">von Kopf bis Fuß in ein weißes Tuch</span> gehüllt ist. ",
             "en": "It’s like someone sitting wrapped from head to foot with white cloth. ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "dn10:2.18.4": {
             "scid": "dn10:2.18.4",
             "pli": "Seyyathāpi, māṇava, puriso odātena vatthena sasīsaṁ pārupitvā nisinno assa, nāssa kiñci sabbāvato kāyassa odātena vatthena apphuṭaṁ assa. ",
-            "de": "Wie wenn jemand dasitzt, der <span class=\"scv-matched\">von Kopf bis Fuß in ein weißes Tuch</span> gehüllt ist. Es gibt keinen Teil des Körpers, der nicht von dem weißen Tuch bedeckt wäre. ",
+            "de": "Wie wenn jemand dasitzt, der <span class=\"ebt-matched\">von Kopf bis Fuß in ein weißes Tuch</span> gehüllt ist. Es gibt keinen Teil des Körpers, der nicht von dem weißen Tuch bedeckt wäre. ",
             "en": "It’s like someone sitting wrapped from head to foot with white cloth. There’s no part of the body that’s not spread over with white cloth. ",
             "matched": true
           }

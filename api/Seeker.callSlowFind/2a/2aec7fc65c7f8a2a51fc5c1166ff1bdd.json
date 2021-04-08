@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "an3.57:1.4": {
             "scid": "an3.57:1.4",
             "pli": "‘mayhameva dānaṁ dātabbaṁ, nāññesaṁ dānaṁ dātabbaṁ; ",
-            "en": "‘Gifts should <span class=\"scv-matched\">only be given to me</span>, not to others. ",
+            "en": "‘Gifts should <span class=\"ebt-matched\">only be given to me</span>, not to others. ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "an8.12:27.6": {
             "scid": "an8.12:27.6",
             "pli": "mayhameva dānaṁ dātabbaṁ, mayhameva sāvakānaṁ dātabbaṁ; ",
-            "en": "“Gifts should <span class=\"scv-matched\">only be given to me</span>, and to my disciples. ",
+            "en": "“Gifts should <span class=\"ebt-matched\">only be given to me</span>, and to my disciples. ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "mn56:17.4": {
             "scid": "mn56:17.4",
             "pli": "‘mayhameva dānaṁ dātabbaṁ, nāññesaṁ dānaṁ dātabbaṁ; ",
-            "en": "‘Gifts should <span class=\"scv-matched\">only be given to me</span>, not to others. ",
+            "en": "‘Gifts should <span class=\"ebt-matched\">only be given to me</span>, not to others. ",
             "matched": true
           }
         },

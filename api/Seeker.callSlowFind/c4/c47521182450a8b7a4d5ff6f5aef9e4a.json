@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an6.58:3.3": {
             "scid": "an6.58:3.3",
             "pli": "Yaṁ hissa, bhikkhave, cakkhundriyasaṁvaraṁ asaṁvutassa viharato uppajjeyyuṁ āsavā vighātapariḷāhā, cakkhundriyasaṁvaraṁ saṁvutassa viharato evaṁsa te āsavā vighātapariḷāhā na honti. ",
-            "de": "Denn die bedrängenden, fiebrigen Befleckungen, die entstehen können, wenn man das <span class=\"scv-matched\">Sehvermögen nicht zügelt</span>, entstehen nicht, wenn man es zügelt. ",
+            "de": "Denn die bedrängenden, fiebrigen Befleckungen, die entstehen können, wenn man das <span class=\"ebt-matched\">Sehvermögen nicht zügelt</span>, entstehen nicht, wenn man es zügelt. ",
             "en": "For the distressing and feverish defilements that might arise in someone who lives without restraint of the eye faculty do not arise when there is such restraint. ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "mn2:12.3": {
             "scid": "mn2:12.3",
             "pli": "Yañhissa, bhikkhave, cakkhundriyasaṁvaraṁ asaṁvutassa viharato uppajjeyyuṁ āsavā vighātapariḷāhā, cakkhundriyasaṁvaraṁ saṁvutassa viharato evaṁsa te āsavā vighātapariḷāhā na honti. ",
-            "de": "Denn die bedrängenden, fiebrigen Befleckungen, die entstehen können, wenn man das <span class=\"scv-matched\">Sehvermögen nicht zügelt</span>, entstehen nicht, wenn man es zügelt. ",
+            "de": "Denn die bedrängenden, fiebrigen Befleckungen, die entstehen können, wenn man das <span class=\"ebt-matched\">Sehvermögen nicht zügelt</span>, entstehen nicht, wenn man es zügelt. ",
             "en": "For the distressing and feverish defilements that might arise in someone who lives without restraint of the eye faculty do not arise when there is such restraint. ",
             "matched": true
           }

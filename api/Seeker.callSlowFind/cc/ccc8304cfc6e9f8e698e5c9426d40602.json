@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,13 +66,13 @@
           "mn57:4.1": {
             "scid": "mn57:4.1",
             "pli": "Evaṁ vutte, acelo seniyo kukkuravatiko parodi, assūni pavattesi. ",
-            "en": "When he said this, Seniya cried and <span class=\"scv-matched\">burst out in tears</span>. ",
+            "en": "When he said this, Seniya cried and <span class=\"ebt-matched\">burst out in tears</span>. ",
             "matched": true
           },
           "mn57:6.1": {
             "scid": "mn57:6.1",
             "pli": "Evaṁ vutte, puṇṇo koliyaputto govatiko parodi, assūni pavattesi. ",
-            "en": "When he said this, Puṇṇa cried and <span class=\"scv-matched\">burst out in tears</span>. ",
+            "en": "When he said this, Puṇṇa cried and <span class=\"ebt-matched\">burst out in tears</span>. ",
             "matched": true
           }
         },
@@ -101,7 +101,7 @@
           "sn42.3:3.1": {
             "scid": "sn42.3:3.1",
             "pli": "Evaṁ vutte, yodhājīvo gāmaṇi parodi, assūni pavattesi. ",
-            "en": "When he said this, Dustin the warrior chief cried and <span class=\"scv-matched\">burst out in tears</span>. ",
+            "en": "When he said this, Dustin the warrior chief cried and <span class=\"ebt-matched\">burst out in tears</span>. ",
             "matched": true
           }
         },
@@ -130,7 +130,7 @@
           "sn42.2:3.1": {
             "scid": "sn42.2:3.1",
             "pli": "Evaṁ vutte, tālapuṭo naṭagāmaṇi parodi assūni pavattesi. ",
-            "en": "When he said this, Tāḷapuṭa cried and <span class=\"scv-matched\">burst out in tears</span>. ",
+            "en": "When he said this, Tāḷapuṭa cried and <span class=\"ebt-matched\">burst out in tears</span>. ",
             "matched": true
           }
         },
@@ -159,7 +159,7 @@
           "mn143:15.1": {
             "scid": "mn143:15.1",
             "pli": "Evaṁ vutte, anāthapiṇḍiko gahapati parodi, assūni pavattesi. ",
-            "en": "When he said this, Anāthapiṇḍika cried and <span class=\"scv-matched\">burst out in tears</span>. ",
+            "en": "When he said this, Anāthapiṇḍika cried and <span class=\"ebt-matched\">burst out in tears</span>. ",
             "matched": true
           }
         },
@@ -188,7 +188,7 @@
           "dn17:2.12.1": {
             "scid": "dn17:2.12.1",
             "pli": "Evaṁ vutte, ānanda, subhaddā devī parodi assūni pavattesi. ",
-            "en": "When the king had spoken, Queen Subhaddā cried and <span class=\"scv-matched\">burst out in tears</span>. ",
+            "en": "When the king had spoken, Queen Subhaddā cried and <span class=\"ebt-matched\">burst out in tears</span>. ",
             "matched": true
           }
         },

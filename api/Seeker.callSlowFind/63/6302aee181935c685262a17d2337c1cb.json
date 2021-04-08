@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "an3.102:1.1": {
             "scid": "an3.102:1.1",
             "pli": "“Adhicittamanuyuttena, bhikkhave, bhikkhunā tīṇi nimittāni kālena kālaṁ manasi kātabbāni—",
-            "en": "“Mendicants, a mendicant committed to the higher mind should focus on <span class=\"scv-matched\">three foundations</span> from time to time: ",
+            "en": "“Mendicants, a mendicant committed to the higher mind should focus on <span class=\"ebt-matched\">three foundations</span> from time to time: ",
             "matched": true
           },
           "an3.102:3.1": {
             "scid": "an3.102:3.1",
             "pli": "Evamevaṁ kho, bhikkhave, adhicittamanuyuttena bhikkhunā tīṇi nimittāni kālena kālaṁ manasi kātabbāni—",
-            "en": "In the same way, a mendicant committed to the higher mind should focus on <span class=\"scv-matched\">three foundations</span> from time to time: ",
+            "en": "In the same way, a mendicant committed to the higher mind should focus on <span class=\"ebt-matched\">three foundations</span> from time to time: ",
             "matched": true
           }
         },

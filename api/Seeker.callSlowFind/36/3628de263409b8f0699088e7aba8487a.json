@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "dn26:0.3": {
             "scid": "dn26:0.3",
             "pli": "1. Attadīpasaraṇatā ",
-            "en": "1. <span class=\"scv-matched\">Taking Refuge in Oneself</span> ",
+            "en": "1. <span class=\"ebt-matched\">Taking Refuge in Oneself</span> ",
             "matched": true
           }
         },

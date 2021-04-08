@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -81,79 +81,79 @@
           "dn34:1.2.1": {
             "scid": "dn34:1.2.1",
             "pli": "Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo. ",
-            "en": "Reverends, one thing is helpful, one thing should be developed, one thing should be completely understood, one thing should be given up, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing should be produced, one thing should be directly known, one thing <span class=\"scv-matched\">should be realized</span>. ",
+            "en": "Reverends, one thing is helpful, one thing should be developed, one thing should be completely understood, one thing should be given up, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing should be produced, one thing should be directly known, one thing <span class=\"ebt-matched\">should be realized</span>. ",
             "matched": true
           },
           "dn34:1.2.29": {
             "scid": "dn34:1.2.29",
             "pli": "Katamo eko dhammo sacchikātabbo? ",
-            "en": "What one thing <span class=\"scv-matched\">should be realized</span>? ",
+            "en": "What one thing <span class=\"ebt-matched\">should be realized</span>? ",
             "matched": true
           },
           "dn34:1.3.1": {
             "scid": "dn34:1.3.1",
             "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
-            "en": "Two things are helpful, two things should be developed, two things should be completely understood, two things should be given up, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things <span class=\"scv-matched\">should be realized</span>. ",
+            "en": "Two things are helpful, two things should be developed, two things should be completely understood, two things should be given up, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things <span class=\"ebt-matched\">should be realized</span>. ",
             "matched": true
           },
           "dn34:1.3.31": {
             "scid": "dn34:1.3.31",
             "pli": "Katame dve dhammā sacchikātabbā? ",
-            "en": "What two things <span class=\"scv-matched\">should be realized</span>? ",
+            "en": "What two things <span class=\"ebt-matched\">should be realized</span>? ",
             "matched": true
           },
           "dn34:1.4.37": {
             "scid": "dn34:1.4.37",
             "pli": "Katame tayo dhammā sacchikātabbā? ",
-            "en": "What three things <span class=\"scv-matched\">should be realized</span>? ",
+            "en": "What three things <span class=\"ebt-matched\">should be realized</span>? ",
             "matched": true
           },
           "dn34:1.5.41": {
             "scid": "dn34:1.5.41",
             "pli": "Katame cattāro dhammā sacchikātabbā? ",
-            "en": "What four things <span class=\"scv-matched\">should be realized</span>? ",
+            "en": "What four things <span class=\"ebt-matched\">should be realized</span>? ",
             "matched": true
           },
           "dn34:1.6.101": {
             "scid": "dn34:1.6.101",
             "pli": "Katame pañca dhammā sacchikātabbā? ",
-            "en": "What five things <span class=\"scv-matched\">should be realized</span>? ",
+            "en": "What five things <span class=\"ebt-matched\">should be realized</span>? ",
             "matched": true
           },
           "dn34:1.7.83": {
             "scid": "dn34:1.7.83",
             "pli": "Katame cha dhammā sacchikātabbā? ",
-            "en": "What six things <span class=\"scv-matched\">should be realized</span>? ",
+            "en": "What six things <span class=\"ebt-matched\">should be realized</span>? ",
             "matched": true
           },
           "dn34:1.8.57": {
             "scid": "dn34:1.8.57",
             "pli": "Katame satta dhammā sacchikātabbā? ",
-            "en": "What seven things <span class=\"scv-matched\">should be realized</span>? ",
+            "en": "What seven things <span class=\"ebt-matched\">should be realized</span>? ",
             "matched": true
           },
           "dn34:2.1.190": {
             "scid": "dn34:2.1.190",
             "pli": "Katame aṭṭha dhammā sacchikātabbā? ",
-            "en": "What eight things <span class=\"scv-matched\">should be realized</span>? ",
+            "en": "What eight things <span class=\"ebt-matched\">should be realized</span>? ",
             "matched": true
           },
           "dn34:2.2.78": {
             "scid": "dn34:2.2.78",
             "pli": "Katame nava dhammā sacchikātabbā? ",
-            "en": "What nine things <span class=\"scv-matched\">should be realized</span>? ",
+            "en": "What nine things <span class=\"ebt-matched\">should be realized</span>? ",
             "matched": true
           },
           "dn34:2.3.1": {
             "scid": "dn34:2.3.1",
             "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
-            "en": "Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things <span class=\"scv-matched\">should be realized</span>. ",
+            "en": "Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things <span class=\"ebt-matched\">should be realized</span>. ",
             "matched": true
           },
           "dn34:2.3.126": {
             "scid": "dn34:2.3.126",
             "pli": "Katame dasa dhammā sacchikātabbā? ",
-            "en": "What ten things <span class=\"scv-matched\">should be realized</span>? ",
+            "en": "What ten things <span class=\"ebt-matched\">should be realized</span>? ",
             "matched": true
           }
         },
@@ -182,25 +182,25 @@
           "mn149:10.14": {
             "scid": "mn149:10.14",
             "pli": "Ye dhammā abhiññā sacchikātabbā te dhamme abhiññā sacchikaroti. ",
-            "en": "They realize by direct knowledge those things that <span class=\"scv-matched\">should be realized</span> by direct knowledge. ",
+            "en": "They realize by direct knowledge those things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge. ",
             "matched": true
           },
           "mn149:11.11": {
             "scid": "mn149:11.11",
             "pli": "Katame ca, bhikkhave, dhammā abhiññā sacchikātabbā? ",
-            "en": "And what are the things that <span class=\"scv-matched\">should be realized</span> by direct knowledge? ",
+            "en": "And what are the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge? ",
             "matched": true
           },
           "mn149:11.13": {
             "scid": "mn149:11.13",
             "pli": "ime dhammā abhiññā sacchikātabbā. ",
-            "en": "These are the things that <span class=\"scv-matched\">should be realized</span> by direct knowledge. ",
+            "en": "These are the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge. ",
             "matched": true
           },
           "mn149:26.3": {
             "scid": "mn149:26.3",
             "pli": "ime dhammā abhiññā sacchikātabbā”ti. ",
-            "en": "These are the things that <span class=\"scv-matched\">should be realized</span> by direct knowledge.” ",
+            "en": "These are the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge.” ",
             "matched": true
           }
         },
@@ -229,19 +229,19 @@
           "an4.254:1.6": {
             "scid": "an4.254:1.6",
             "pli": "atthi, bhikkhave, dhammā abhiññā sacchikātabbā. ",
-            "en": "There are things that <span class=\"scv-matched\">should be realized</span> by direct knowledge. ",
+            "en": "There are things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge. ",
             "matched": true
           },
           "an4.254:5.1": {
             "scid": "an4.254:5.1",
             "pli": "Katame ca, bhikkhave, dhammā abhiññā sacchikātabbā? ",
-            "en": "And what are the things that <span class=\"scv-matched\">should be realized</span> by direct knowledge? ",
+            "en": "And what are the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge? ",
             "matched": true
           },
           "an4.254:5.3": {
             "scid": "an4.254:5.3",
             "pli": "ime vuccanti, bhikkhave, dhammā abhiññā sacchikātabbā. ",
-            "en": "These are called the things that <span class=\"scv-matched\">should be realized</span> by direct knowledge. ",
+            "en": "These are called the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge. ",
             "matched": true
           }
         },
@@ -270,19 +270,19 @@
           "sn45.159:1.3": {
             "scid": "sn45.159:1.3",
             "pli": "ye dhammā abhiññā pahātabbā, te dhamme abhiññā pajahati, ye dhammā abhiññā sacchikātabbā, te dhamme abhiññā sacchikaroti, ye dhammā abhiññā bhāvetabbā, te dhamme abhiññā bhāveti. ",
-            "en": "They give up by direct knowledge the things that should be given up by direct knowledge. They realize by direct knowledge the things that <span class=\"scv-matched\">should be realized</span> by direct knowledge. They develop by direct knowledge the things that should be developed by direct knowledge. ",
+            "en": "They give up by direct knowledge the things that should be given up by direct knowledge. They realize by direct knowledge the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge. They develop by direct knowledge the things that should be developed by direct knowledge. ",
             "matched": true
           },
           "sn45.159:2.9": {
             "scid": "sn45.159:2.9",
             "pli": "Katame ca, bhikkhave, dhammā abhiññā sacchikātabbā? ",
-            "en": "And what are the things that <span class=\"scv-matched\">should be realized</span> by direct knowledge? ",
+            "en": "And what are the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge? ",
             "matched": true
           },
           "sn45.159:2.11": {
             "scid": "sn45.159:2.11",
             "pli": "ime, bhikkhave, dhammā abhiññā sacchikātabbā. ",
-            "en": "These are the things that <span class=\"scv-matched\">should be realized</span> by direct knowledge. ",
+            "en": "These are the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge. ",
             "matched": true
           }
         },
@@ -311,7 +311,7 @@
           "sn56.29:2.2": {
             "scid": "sn56.29:2.2",
             "pli": "Dukkhaṁ, bhikkhave, ariyasaccaṁ pariññeyyaṁ, dukkhasamudayaṁ ariyasaccaṁ pahātabbaṁ, dukkhanirodhaṁ ariyasaccaṁ sacchikātabbaṁ, dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabbaṁ. ",
-            "en": "The noble truth of suffering should be completely understood. The noble truth of the origin of suffering should be given up. The noble truth of the cessation of suffering <span class=\"scv-matched\">should be realized</span>. The noble truth of the practice that leads to the cessation of suffering should be developed. ",
+            "en": "The noble truth of suffering should be completely understood. The noble truth of the origin of suffering should be given up. The noble truth of the cessation of suffering <span class=\"ebt-matched\">should be realized</span>. The noble truth of the practice that leads to the cessation of suffering should be developed. ",
             "matched": true
           }
         },
@@ -340,7 +340,7 @@
           "an10.154:0.3": {
             "scid": "an10.154:0.3",
             "pli": "154. Sacchikātabbasutta ",
-            "en": "154. <span class=\"scv-matched\">Should Be Realized</span> ",
+            "en": "154. <span class=\"ebt-matched\">Should Be Realized</span> ",
             "matched": true
           }
         },
@@ -369,7 +369,7 @@
           "an10.198:0.3": {
             "scid": "an10.198:0.3",
             "pli": "198. Sacchikātabbasutta ",
-            "en": "198. <span class=\"scv-matched\">Should Be Realized</span> ",
+            "en": "198. <span class=\"ebt-matched\">Should Be Realized</span> ",
             "matched": true
           }
         },
@@ -398,7 +398,7 @@
           "sn56.12:3.2": {
             "scid": "sn56.12:3.2",
             "pli": "‘Taṁ kho panidaṁ dukkhanirodhaṁ ariyasaccaṁ sacchikātabban’ti, bhikkhave, tathāgatānaṁ pubbe …pe… udapādi. ",
-            "en": "‘This noble truth of the cessation of suffering <span class=\"scv-matched\">should be realized</span>.’ … ",
+            "en": "‘This noble truth of the cessation of suffering <span class=\"ebt-matched\">should be realized</span>.’ … ",
             "matched": true
           }
         },
@@ -427,7 +427,7 @@
           "an4.189:1.1": {
             "scid": "an4.189:1.1",
             "pli": "“Cattārome, bhikkhave, sacchikaraṇīyā dhammā. ",
-            "en": "“Mendicants, these four things <span class=\"scv-matched\">should be realized</span>. ",
+            "en": "“Mendicants, these four things <span class=\"ebt-matched\">should be realized</span>. ",
             "matched": true
           }
         },
@@ -456,7 +456,7 @@
           "sn56.11:7.2": {
             "scid": "sn56.11:7.2",
             "pli": "‘Taṁ kho panidaṁ dukkhanirodhaṁ ariyasaccaṁ sacchikātabban’ti me, bhikkhave, pubbe …pe… udapādi. ",
-            "en": "‘This noble truth of the cessation of suffering <span class=\"scv-matched\">should be realized</span>.’ Such was the vision that arose in me … ",
+            "en": "‘This noble truth of the cessation of suffering <span class=\"ebt-matched\">should be realized</span>.’ Such was the vision that arose in me … ",
             "matched": true
           }
         },

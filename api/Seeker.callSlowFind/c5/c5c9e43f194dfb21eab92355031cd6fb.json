@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an5.193:5.2": {
             "scid": "an5.193:5.2",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto vāterito calito bhanto ūmijāto. ",
-            "de": "Wie eine Schale mit <span class=\"scv-matched\">Wasser, das vom Wind aufgewühlt ist</span> und das wallt, wirbelt und sich kräuselt: ",
+            "de": "Wie eine Schale mit <span class=\"ebt-matched\">Wasser, das vom Wind aufgewühlt ist</span> und das wallt, wirbelt und sich kräuselt: ",
             "en": "Suppose there was a bowl of water stirred by the wind, churning, swirling, and rippling. ",
             "matched": true
           },
@@ -100,7 +100,7 @@
           "sn46.55:10.1": {
             "scid": "sn46.55:10.1",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto vāterito calito bhanto ūmijāto. ",
-            "de": "Wie eine Schale mit <span class=\"scv-matched\">Wasser, das vom Wind aufgewühlt ist</span> und das wallt, wirbelt und sich kräuselt: ",
+            "de": "Wie eine Schale mit <span class=\"ebt-matched\">Wasser, das vom Wind aufgewühlt ist</span> und das wallt, wirbelt und sich kräuselt: ",
             "en": "Suppose there was a bowl of water stirred by the wind, churning, swirling, and rippling. ",
             "matched": true
           },

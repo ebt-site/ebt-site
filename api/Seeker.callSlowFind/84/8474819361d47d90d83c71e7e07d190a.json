@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an4.49:3.1": {
             "scid": "an4.49:3.1",
             "pli": "Anicce niccasaññino, ",
-            "de": "<span class=\"scv-matched\">Unbeständiges als beständig</span> sehen, ",
+            "de": "<span class=\"ebt-matched\">Unbeständiges als beständig</span> sehen, ",
             "en": "Perceiving impermanence as permanence, ",
             "matched": true
           }

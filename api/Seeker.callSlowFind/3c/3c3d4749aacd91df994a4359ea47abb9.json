@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an10.55:7.6": {
             "scid": "an10.55:7.6",
             "pli": "‘anabhijjhālu nu kho bahulaṁ viharāmi, saṁvijjati nu kho me eso dhammo udāhu no, abyāpannacitto nu kho bahulaṁ viharāmi, saṁvijjati nu kho me eso dhammo udāhu no, vigatathinamiddho nu kho bahulaṁ viharāmi, saṁvijjati nu kho me eso dhammo udāhu no, anuddhato nu kho bahulaṁ viharāmi, saṁvijjati nu kho me eso dhammo udāhu no, tiṇṇavicikiccho nu kho bahulaṁ viharāmi, saṁvijjati nu kho me eso dhammo udāhu no, akkodhano nu kho bahulaṁ viharāmi, saṁvijjati nu kho me eso dhammo udāhu no, asaṅkiliṭṭhacitto nu kho bahulaṁ viharāmi, saṁvijjati nu kho me eso dhammo udāhu no, lābhī nu khomhi ajjhattaṁ dhammapāmojjassa, saṁvijjati nu kho me eso dhammo udāhu no, lābhī nu khomhi ajjhattaṁ cetosamathassa, saṁvijjati nu kho me eso dhammo udāhu no, lābhī nu khomhi adhipaññādhammavipassanāya, saṁvijjati nu kho me eso dhammo udāhu no’ti. ",
-            "en": "‘Is contentment often found in me or not? Is kind-heartedness often found in me or not? Is freedom from dullness and drowsiness often found in me or not? Is calm often found in me or not? Is confidence often found in me or not? Is love often found in me or not? Is purity of mind often found in me or not? Is <span class=\"scv-matched\">internal joy</span> with the teaching found in me or not? Is internal serenity of heart found in me or not? Is the higher wisdom of discernment of principles found in me or not?’ ",
+            "en": "‘Is contentment often found in me or not? Is kind-heartedness often found in me or not? Is freedom from dullness and drowsiness often found in me or not? Is calm often found in me or not? Is confidence often found in me or not? Is love often found in me or not? Is purity of mind often found in me or not? Is <span class=\"ebt-matched\">internal joy</span> with the teaching found in me or not? Is internal serenity of heart found in me or not? Is the higher wisdom of discernment of principles found in me or not?’ ",
             "matched": true
           }
         },

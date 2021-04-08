@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -78,13 +78,13 @@
           "an11.17:8.3": {
             "scid": "an11.17:8.3",
             "pli": "‘idaṁ, bhante, kathaṁ, imassa ko attho’ti? ",
-            "en": "‘Why, sir, <span class=\"scv-matched\">does it say this</span>? What does that mean?’ ",
+            "en": "‘Why, sir, <span class=\"ebt-matched\">does it say this</span>? What does that mean?’ ",
             "matched": true
           },
           "an11.17:22.3": {
             "scid": "an11.17:22.3",
             "pli": "‘idaṁ, bhante, kathaṁ, imassa ko attho’ti? ",
-            "en": "‘Why, sir, <span class=\"scv-matched\">does it say this</span>? What does that mean?’ ",
+            "en": "‘Why, sir, <span class=\"ebt-matched\">does it say this</span>? What does that mean?’ ",
             "matched": true
           }
         },
@@ -113,13 +113,13 @@
           "mn33:9.3": {
             "scid": "mn33:9.3",
             "pli": "‘idaṁ, bhante, kathaṁ? ",
-            "en": "‘Why, sir, <span class=\"scv-matched\">does it say this</span>? ",
+            "en": "‘Why, sir, <span class=\"ebt-matched\">does it say this</span>? ",
             "matched": true
           },
           "mn33:22.3": {
             "scid": "mn33:22.3",
             "pli": "‘idaṁ, bhante, kathaṁ? ",
-            "en": "‘Why, sir, <span class=\"scv-matched\">does it say this</span>? ",
+            "en": "‘Why, sir, <span class=\"ebt-matched\">does it say this</span>? ",
             "matched": true
           }
         },
@@ -148,13 +148,13 @@
           "an2.47:1.7": {
             "scid": "an2.47:1.7",
             "pli": "‘idaṁ kathaṁ, imassa ko attho’ti? ",
-            "en": "‘Why <span class=\"scv-matched\">does it say this</span>? What does that mean?’ ",
+            "en": "‘Why <span class=\"ebt-matched\">does it say this</span>? What does that mean?’ ",
             "matched": true
           },
           "an2.47:2.5": {
             "scid": "an2.47:2.5",
             "pli": "‘idaṁ kathaṁ, imassa ko attho’ti? ",
-            "en": "‘Why <span class=\"scv-matched\">does it say this</span>? What does that mean?’ ",
+            "en": "‘Why <span class=\"ebt-matched\">does it say this</span>? What does that mean?’ ",
             "matched": true
           }
         },
@@ -183,7 +183,7 @@
           "an10.11:3.8": {
             "scid": "an10.11:3.8",
             "pli": "‘idaṁ, bhante, kathaṁ, imassa ko attho’ti; ",
-            "en": "‘Why, sir, <span class=\"scv-matched\">does it say this</span>? What does that mean?’ ",
+            "en": "‘Why, sir, <span class=\"ebt-matched\">does it say this</span>? What does that mean?’ ",
             "matched": true
           }
         },
@@ -212,7 +212,7 @@
           "an6.51:3.6": {
             "scid": "an6.51:3.6",
             "pli": "‘idaṁ, bhante, kathaṁ; imassa kvattho’ti? ",
-            "en": "‘Why, sir, <span class=\"scv-matched\">does it say this</span>? What does that mean?’ ",
+            "en": "‘Why, sir, <span class=\"ebt-matched\">does it say this</span>? What does that mean?’ ",
             "matched": true
           }
         },
@@ -241,7 +241,7 @@
           "an3.20:6.3": {
             "scid": "an3.20:6.3",
             "pli": "‘idaṁ, bhante, kathaṁ, imassa ko attho’ti? ",
-            "en": "‘Why, sir, <span class=\"scv-matched\">does it say this</span>? What does that mean?’ ",
+            "en": "‘Why, sir, <span class=\"ebt-matched\">does it say this</span>? What does that mean?’ ",
             "matched": true
           }
         },
@@ -270,7 +270,7 @@
           "an8.2:2.2": {
             "scid": "an8.2:2.2",
             "pli": "‘idaṁ, bhante, kathaṁ; imassa ko attho’ti? ",
-            "en": "‘Why, sir, <span class=\"scv-matched\">does it say this</span>? What does that mean?’ ",
+            "en": "‘Why, sir, <span class=\"ebt-matched\">does it say this</span>? What does that mean?’ ",
             "matched": true
           }
         },
@@ -299,7 +299,7 @@
           "mn146:5.4": {
             "scid": "mn146:5.4",
             "pli": "‘idaṁ, bhante, kathaṁ; imassa kvattho’”ti? ",
-            "en": "‘Why, sir, <span class=\"scv-matched\">does it say this</span>? What does that mean?’” ",
+            "en": "‘Why, sir, <span class=\"ebt-matched\">does it say this</span>? What does that mean?’” ",
             "matched": true
           }
         },
@@ -328,7 +328,7 @@
           "dn34:2.1.8": {
             "scid": "dn34:2.1.8",
             "pli": "‘idaṁ, bhante, kathaṁ? ",
-            "en": "‘Why, sir, <span class=\"scv-matched\">does it say this</span>? ",
+            "en": "‘Why, sir, <span class=\"ebt-matched\">does it say this</span>? ",
             "matched": true
           }
         },

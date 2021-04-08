@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -105,7 +105,7 @@
           "an7.64:16.3": {
             "scid": "an7.64:16.3",
             "pli": "Kodhena abhibhūtassa, ",
-            "en": "One <span class=\"scv-matched\">overcome by anger</span> ",
+            "en": "One <span class=\"ebt-matched\">overcome by anger</span> ",
             "matched": true
           }
         },
@@ -134,7 +134,7 @@
           "iti12:3.1": {
             "scid": "iti12:3.1",
             "pli": "“Yena kodhena kuddhāse,",
-            "en": "“When <span class=\"scv-matched\">overcome by anger</span>",
+            "en": "“When <span class=\"ebt-matched\">overcome by anger</span>",
             "matched": true
           }
         },
@@ -163,7 +163,7 @@
           "iti4:3.1": {
             "scid": "iti4:3.1",
             "pli": "“Yena kodhena kuddhāse,",
-            "en": "“When <span class=\"scv-matched\">overcome by anger</span>",
+            "en": "“When <span class=\"ebt-matched\">overcome by anger</span>",
             "matched": true
           }
         },
@@ -192,7 +192,7 @@
           "mn15:3.8": {
             "scid": "mn15:3.8",
             "pli": "Puna caparaṁ, āvuso, bhikkhu kodhano hoti kodhābhibhūto. ",
-            "en": "They’re irritable, <span class=\"scv-matched\">overcome by anger</span> … ",
+            "en": "They’re irritable, <span class=\"ebt-matched\">overcome by anger</span> … ",
             "matched": true
           }
         },

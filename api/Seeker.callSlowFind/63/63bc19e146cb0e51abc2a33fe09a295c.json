@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,21 +57,21 @@
           "sn42.11:2.16": {
             "scid": "sn42.11:2.16",
             "pli": "‘yaṁ kiñci dukkhaṁ uppajjamānaṁ uppajjati, sabbaṁ taṁ chandamūlakaṁ chandanidānaṁ. ",
-            "de": "‚<span class=\"scv-matched\">Alles Leiden, das zustande kommt</span>, wurzelt im Sehnen und entspringt vom Sehnen. ",
+            "de": "‚<span class=\"ebt-matched\">Alles Leiden, das zustande kommt</span>, wurzelt im Sehnen und entspringt vom Sehnen. ",
             "en": "‘All the suffering that arises is rooted and sourced in desire. ",
             "matched": true
           },
           "sn42.11:3.5": {
             "scid": "sn42.11:3.5",
             "pli": "‘yaṁ kiñci dukkhaṁ uppajjamānaṁ uppajjati, sabbaṁ taṁ chandamūlakaṁ chandanidānaṁ. ",
-            "de": "‚<span class=\"scv-matched\">Alles Leiden, das zustande kommt</span>, wurzelt im Sehnen und entspringt vom Sehnen. ",
+            "de": "‚<span class=\"ebt-matched\">Alles Leiden, das zustande kommt</span>, wurzelt im Sehnen und entspringt vom Sehnen. ",
             "en": "‘All the suffering that arises is rooted and sourced in desire. ",
             "matched": true
           },
           "sn42.11:5.5": {
             "scid": "sn42.11:5.5",
             "pli": "‘yaṁ kiñci dukkhaṁ uppajjamānaṁ uppajjati, sabbaṁ taṁ chandamūlakaṁ chandanidānaṁ. ",
-            "de": "‚<span class=\"scv-matched\">Alles Leiden, das zustande kommt</span>, wurzelt im Sehnen und entspringt vom Sehnen. ",
+            "de": "‚<span class=\"ebt-matched\">Alles Leiden, das zustande kommt</span>, wurzelt im Sehnen und entspringt vom Sehnen. ",
             "en": "‘All the suffering that arises is rooted and sourced in desire. ",
             "matched": true
           }

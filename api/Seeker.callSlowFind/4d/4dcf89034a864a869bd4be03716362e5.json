@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "dn31:26.16": {
             "scid": "dn31:26.16",
             "pli": "alamatto kule gihī; ",
-            "en": "<span class=\"scv-matched\">a householder does enough</span> for their family. ",
+            "en": "<span class=\"ebt-matched\">a householder does enough</span> for their family. ",
             "matched": true
           },
           "dn31:34.8": {
             "scid": "dn31:34.8",
             "pli": "alamatto kule gihī. ",
-            "en": "<span class=\"scv-matched\">a householder does enough</span> for their family. ",
+            "en": "<span class=\"ebt-matched\">a householder does enough</span> for their family. ",
             "matched": true
           }
         },

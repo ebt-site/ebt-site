@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn3.20:3.4": {
             "scid": "sn3.20:3.4",
             "pli": "Datvā ca pana pacchā vippaṭisārī ahosi: ",
-            "en": "But <span class=\"scv-matched\">after giving he regretted it</span>: ",
+            "en": "But <span class=\"ebt-matched\">after giving he regretted it</span>: ",
             "matched": true
           }
         },

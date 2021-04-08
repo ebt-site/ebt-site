@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,14 +61,14 @@
           "an10.60:9.3": {
             "scid": "an10.60:9.3",
             "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhippaṭinissaggo taṇhākkhayo virāgo nibbānan’ti. ",
-            "de": "‚<span class=\"scv-matched\">Das ist friedvoll</span>, das ist erhaben: nämlich das Stillen aller Vorgänge, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, das Erlöschen.‘ ",
+            "de": "‚<span class=\"ebt-matched\">Das ist friedvoll</span>, das ist erhaben: nämlich das Stillen aller Vorgänge, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, das Erlöschen.‘ ",
             "en": "‘This is peaceful; this is sublime—that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, extinguishment.’ ",
             "matched": true
           },
           "an10.60:10.3": {
             "scid": "an10.60:10.3",
             "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhippaṭinissaggo taṇhākkhayo nirodho nibbānan’ti. ",
-            "de": "‚<span class=\"scv-matched\">Das ist friedvoll</span>, das ist erhaben: nämlich das Stillen aller Vorgänge, das Loslassen aller Bindungen, das Beenden des Verlangens, das Aufhören, das Erlöschen.‘ ",
+            "de": "‚<span class=\"ebt-matched\">Das ist friedvoll</span>, das ist erhaben: nämlich das Stillen aller Vorgänge, das Loslassen aller Bindungen, das Beenden des Verlangens, das Aufhören, das Erlöschen.‘ ",
             "en": "‘This is peaceful; this is sublime—that is, the stilling of all activities, the letting go of all attachments, the ending of craving, cessation, extinguishment.’ ",
             "matched": true
           }
@@ -100,7 +100,7 @@
           "an3.32:4.2": {
             "scid": "an3.32:4.2",
             "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
-            "de": "‚<span class=\"scv-matched\">Das ist friedvoll</span>, das ist erhaben: nämlich das Stillen aller Vorgänge, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen.‘ ",
+            "de": "‚<span class=\"ebt-matched\">Das ist friedvoll</span>, das ist erhaben: nämlich das Stillen aller Vorgänge, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen.‘ ",
             "en": "‘This is peaceful; this is sublime—that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
             "matched": true
           }

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -85,43 +85,43 @@
           "an3.29:0.3": {
             "scid": "an3.29:0.3",
             "pli": "29. Andhasutta ",
-            "de": "29. <span class=\"scv-matched\">Blind</span> ",
-            "en": "29. <span class=\"scv-matched\">Blind</span> ",
+            "de": "29. <span class=\"ebt-matched\">Blind</span> ",
+            "en": "29. <span class=\"ebt-matched\">Blind</span> ",
             "matched": true
           },
           "an3.29:1.3": {
             "scid": "an3.29:1.3",
             "pli": "Andho, ekacakkhu, dvicakkhu. ",
-            "de": "Den <span class=\"scv-matched\">Blind</span>en, den Einäugigen und den Zweiäugigen. ",
-            "en": "The <span class=\"scv-matched\">blind</span>, the one-eyed, and the two-eyed. ",
+            "de": "Den <span class=\"ebt-matched\">Blind</span>en, den Einäugigen und den Zweiäugigen. ",
+            "en": "The <span class=\"ebt-matched\">blind</span>, the one-eyed, and the two-eyed. ",
             "matched": true
           },
           "an3.29:1.4": {
             "scid": "an3.29:1.4",
             "pli": "Katamo ca, bhikkhave, puggalo andho? ",
-            "de": "Welcher Mensch ist <span class=\"scv-matched\">blind</span>? ",
-            "en": "Who is the <span class=\"scv-matched\">blind</span> person? ",
+            "de": "Welcher Mensch ist <span class=\"ebt-matched\">blind</span>? ",
+            "en": "Who is the <span class=\"ebt-matched\">blind</span> person? ",
             "matched": true
           },
           "an3.29:1.7": {
             "scid": "an3.29:1.7",
             "pli": "Ayaṁ vuccati, bhikkhave, puggalo andho. ",
-            "de": "Das nennt man einen <span class=\"scv-matched\">blind</span>en Menschen. ",
-            "en": "This is called a <span class=\"scv-matched\">blind</span> person. ",
+            "de": "Das nennt man einen <span class=\"ebt-matched\">blind</span>en Menschen. ",
+            "en": "This is called a <span class=\"ebt-matched\">blind</span> person. ",
             "matched": true
           },
           "an3.29:4.4": {
             "scid": "an3.29:4.4",
             "pli": "andhassa hatacakkhuno. ",
-            "de": "die <span class=\"scv-matched\">Blind</span>en mit verdorbenen Augen. ",
-            "en": "those who are <span class=\"scv-matched\">blind</span>, with ruined eyes. ",
+            "de": "die <span class=\"ebt-matched\">Blind</span>en mit verdorbenen Augen. ",
+            "en": "those who are <span class=\"ebt-matched\">blind</span>, with ruined eyes. ",
             "matched": true
           },
           "an3.29:9.1": {
             "scid": "an3.29:9.1",
             "pli": "Andhañca ekacakkhuñca, ",
-            "de": "Um den <span class=\"scv-matched\">Blind</span>en und den Einäugigen ",
-            "en": "The <span class=\"scv-matched\">blind</span> and the one-eyed, ",
+            "de": "Um den <span class=\"ebt-matched\">Blind</span>en und den Einäugigen ",
+            "en": "The <span class=\"ebt-matched\">blind</span> and the one-eyed, ",
             "matched": true
           }
         },
@@ -152,22 +152,22 @@
           "dn23:11.15.0": {
             "scid": "dn23:11.15.0",
             "pli": "2.5. Jaccandhaupamā ",
-            "de": "2.5. Das Gleichnis von dem von Geburt an <span class=\"scv-matched\">Blind</span>en ",
-            "en": "2.5. <span class=\"scv-matched\">Blind</span> From Birth ",
+            "de": "2.5. Das Gleichnis von dem von Geburt an <span class=\"ebt-matched\">Blind</span>en ",
+            "en": "2.5. <span class=\"ebt-matched\">Blind</span> From Birth ",
             "matched": true
           },
           "dn23:11.16": {
             "scid": "dn23:11.16",
             "pli": "“Seyyathāpi, rājañña, jaccandho puriso na passeyya kaṇha—sukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakāni rūpāni, na passeyya candimasūriye. ",
-            "de": "„Wie wenn da eine Person von Geburt an <span class=\"scv-matched\">blind</span> wäre, Stammesfürst. Sie könnte keine dunklen oder hellen, blauen, gelben, roten oder purpurfarbenen Bilder sehen. Sie könnte keinen ebenen oder unebenen Boden erkennen noch Sterne, Mond oder Sonne sehen. ",
-            "en": "“Chieftain, suppose there was a person <span class=\"scv-matched\">blind</span> from birth. They couldn’t see sights that are dark or bright, or blue, yellow, red, or magenta. They couldn’t see even and uneven ground, or the stars, or the moon and sun. ",
+            "de": "„Wie wenn da eine Person von Geburt an <span class=\"ebt-matched\">blind</span> wäre, Stammesfürst. Sie könnte keine dunklen oder hellen, blauen, gelben, roten oder purpurfarbenen Bilder sehen. Sie könnte keinen ebenen oder unebenen Boden erkennen noch Sterne, Mond oder Sonne sehen. ",
+            "en": "“Chieftain, suppose there was a person <span class=\"ebt-matched\">blind</span> from birth. They couldn’t see sights that are dark or bright, or blue, yellow, red, or magenta. They couldn’t see even and uneven ground, or the stars, or the moon and sun. ",
             "matched": true
           },
           "dn23:11.36": {
             "scid": "dn23:11.36",
             "pli": "“Evameva kho tvaṁ, rājañña, jaccandhūpamo maññe paṭibhāsi yaṁ maṁ tvaṁ evaṁ vadesi. ",
-            "de": "„Ebenso, Stammesfürst, bist du wie der von Geburt an <span class=\"scv-matched\">Blind</span>e in dem Gleichnis, wenn du sagst, du glaubst mir nicht. ",
-            "en": "“In the same way, chieftain, when you tell me you don’t believe me you seem like the <span class=\"scv-matched\">blind</span> man in the simile. ",
+            "de": "„Ebenso, Stammesfürst, bist du wie der von Geburt an <span class=\"ebt-matched\">Blind</span>e in dem Gleichnis, wenn du sagst, du glaubst mir nicht. ",
+            "en": "“In the same way, chieftain, when you tell me you don’t believe me you seem like the <span class=\"ebt-matched\">blind</span> man in the simile. ",
             "matched": true
           }
         },
@@ -198,14 +198,14 @@
           "an3.71:3.7": {
             "scid": "an3.71:3.7",
             "pli": "Rāgo kho, āvuso, andhakaraṇo acakkhukaraṇo aññāṇakaraṇo paññānirodhiko vighātapakkhiko anibbānasaṁvattaniko. ",
-            "de": "Gier macht <span class=\"scv-matched\">blind</span>, zerstört das Sehen und Erkennen. Sie blockiert die Weisheit, ist mit Qual verbunden und führt nicht zum Erlöschen. ",
+            "de": "Gier macht <span class=\"ebt-matched\">blind</span>, zerstört das Sehen und Erkennen. Sie blockiert die Weisheit, ist mit Qual verbunden und führt nicht zum Erlöschen. ",
             "en": "Greed is a destroyer of sight, vision, and knowledge. It blocks wisdom, it’s on the side of anguish, and it doesn’t lead to extinguishment. ",
             "matched": true
           },
           "an3.71:4.8": {
             "scid": "an3.71:4.8",
             "pli": "Moho kho, āvuso, andhakaraṇo acakkhukaraṇo aññāṇakaraṇo paññānirodhiko vighātapakkhiko anibbānasaṁvattaniko. ",
-            "de": "Täuschung macht <span class=\"scv-matched\">blind</span>, zerstört das Sehen und Erkennen. Sie blockiert die Weisheit, ist mit Qual verbunden und führt nicht zum Erlöschen. ",
+            "de": "Täuschung macht <span class=\"ebt-matched\">blind</span>, zerstört das Sehen und Erkennen. Sie blockiert die Weisheit, ist mit Qual verbunden und führt nicht zum Erlöschen. ",
             "en": "Delusion is a destroyer of sight, vision, and knowledge; it blocks wisdom, it’s on the side of anguish, and it doesn’t lead to extinguishment. ",
             "matched": true
           }
@@ -237,7 +237,7 @@
           "an4.66:4.2": {
             "scid": "an4.66:4.2",
             "pli": "andhabhūtā acakkhukā; ",
-            "de": "<span class=\"scv-matched\">blind</span> und ohne Augen: ",
+            "de": "<span class=\"ebt-matched\">blind</span> und ohne Augen: ",
             "en": "But men hindered by ignorance, ",
             "matched": true
           }
@@ -269,8 +269,8 @@
           "thig5.9:1.4": {
             "scid": "thig5.9:1.4",
             "pli": "vajje cāvajjadassinī.",
-            "de": "und war für wirkliche Fehler <span class=\"scv-matched\">blind</span>. ",
-            "en": "and was <span class=\"scv-matched\">blind</span> to the actual fault.",
+            "de": "und war für wirkliche Fehler <span class=\"ebt-matched\">blind</span>. ",
+            "en": "and was <span class=\"ebt-matched\">blind</span> to the actual fault.",
             "matched": true
           }
         },
@@ -301,8 +301,8 @@
           "an3.123:3.5": {
             "scid": "an3.123:3.5",
             "pli": "So taṁ piṇḍapātaṁ gathito mucchito ajjhosanno anādīnavadassāvī anissaraṇapañño paribhuñjati. ",
-            "de": "Er genießt diese Speise gebunden, betört, anhänglich, <span class=\"scv-matched\">blind</span> für die nachteiligen Folgen und ohne das Entrinnen zu verstehen. ",
-            "en": "They eat that food tied, infatuated, attached, <span class=\"scv-matched\">blind</span> to the drawbacks, and not understanding the escape. ",
+            "de": "Er genießt diese Speise gebunden, betört, anhänglich, <span class=\"ebt-matched\">blind</span> für die nachteiligen Folgen und ohne das Entrinnen zu verstehen. ",
+            "en": "They eat that food tied, infatuated, attached, <span class=\"ebt-matched\">blind</span> to the drawbacks, and not understanding the escape. ",
             "matched": true
           }
         },
@@ -333,8 +333,8 @@
           "an2.48:1.8": {
             "scid": "an2.48:1.8",
             "pli": "Te taṁ lābhaṁ labhitvā gathitā mucchitā ajjhopannā anādīnavadassāvino anissaraṇapaññā paribhuñjanti. ",
-            "de": "Und wenn sie diese Dinge haben, gebrauchen sie sie gebunden, betört, anhänglich, <span class=\"scv-matched\">blind</span> für die nachteiligen Folgen und ohne das Entrinnen zu verstehen. ",
-            "en": "And when they get these things, they use them tied, infatuated, attached, <span class=\"scv-matched\">blind</span> to the drawbacks, and not understanding the escape. ",
+            "de": "Und wenn sie diese Dinge haben, gebrauchen sie sie gebunden, betört, anhänglich, <span class=\"ebt-matched\">blind</span> für die nachteiligen Folgen und ohne das Entrinnen zu verstehen. ",
+            "en": "And when they get these things, they use them tied, infatuated, attached, <span class=\"ebt-matched\">blind</span> to the drawbacks, and not understanding the escape. ",
             "matched": true
           }
         },
@@ -365,8 +365,8 @@
           "dn25:10.13": {
             "scid": "dn25:10.13",
             "pli": "Yaṁ panassa khamati, taṁ gadhito mucchito ajjhāpanno anādīnavadassāvī anissaraṇapañño paribhuñjati …pe… ",
-            "de": "Aber was ihm zusagt, das genießt er gebunden, betört, anhänglich, <span class=\"scv-matched\">blind</span> für die nachteiligen Folgen und ohne das Entrinnen zu verstehen. ",
-            "en": "But what does agree with them they eat tied, infatuated, attached, <span class=\"scv-matched\">blind</span> to the drawbacks, and not understanding the escape. ",
+            "de": "Aber was ihm zusagt, das genießt er gebunden, betört, anhänglich, <span class=\"ebt-matched\">blind</span> für die nachteiligen Folgen und ohne das Entrinnen zu verstehen. ",
+            "en": "But what does agree with them they eat tied, infatuated, attached, <span class=\"ebt-matched\">blind</span> to the drawbacks, and not understanding the escape. ",
             "matched": true
           }
         },

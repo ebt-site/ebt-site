@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,21 +57,21 @@
           "dn23:11.15.0": {
             "scid": "dn23:11.15.0",
             "pli": "2.5. Jaccandhaupamā ",
-            "de": "2.5. Das Gleichnis von dem <span class=\"scv-matched\">von Geburt an Blind</span>en ",
+            "de": "2.5. Das Gleichnis von dem <span class=\"ebt-matched\">von Geburt an Blind</span>en ",
             "en": "2.5. Blind From Birth ",
             "matched": true
           },
           "dn23:11.16": {
             "scid": "dn23:11.16",
             "pli": "“Seyyathāpi, rājañña, jaccandho puriso na passeyya kaṇha—sukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakāni rūpāni, na passeyya candimasūriye. ",
-            "de": "„Wie wenn da eine Person <span class=\"scv-matched\">von Geburt an blind</span> wäre, Stammesfürst. Sie könnte keine dunklen oder hellen, blauen, gelben, roten oder purpurfarbenen Bilder sehen. Sie könnte keinen ebenen oder unebenen Boden erkennen noch Sterne, Mond oder Sonne sehen. ",
+            "de": "„Wie wenn da eine Person <span class=\"ebt-matched\">von Geburt an blind</span> wäre, Stammesfürst. Sie könnte keine dunklen oder hellen, blauen, gelben, roten oder purpurfarbenen Bilder sehen. Sie könnte keinen ebenen oder unebenen Boden erkennen noch Sterne, Mond oder Sonne sehen. ",
             "en": "“Chieftain, suppose there was a person blind from birth. They couldn’t see sights that are dark or bright, or blue, yellow, red, or magenta. They couldn’t see even and uneven ground, or the stars, or the moon and sun. ",
             "matched": true
           },
           "dn23:11.36": {
             "scid": "dn23:11.36",
             "pli": "“Evameva kho tvaṁ, rājañña, jaccandhūpamo maññe paṭibhāsi yaṁ maṁ tvaṁ evaṁ vadesi. ",
-            "de": "„Ebenso, Stammesfürst, bist du wie der <span class=\"scv-matched\">von Geburt an Blind</span>e in dem Gleichnis, wenn du sagst, du glaubst mir nicht. ",
+            "de": "„Ebenso, Stammesfürst, bist du wie der <span class=\"ebt-matched\">von Geburt an Blind</span>e in dem Gleichnis, wenn du sagst, du glaubst mir nicht. ",
             "en": "“In the same way, chieftain, when you tell me you don’t believe me you seem like the blind man in the simile. ",
             "matched": true
           }

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,14 +65,14 @@
           "dn33:1.8.2": {
             "scid": "dn33:1.8.2",
             "pli": "Sabbe sattā āhāraṭṭhitikā. ",
-            "de": "‚Alle Lebewesen <span class=\"scv-matched\">werden von Nahrung erhalten</span>.‘ ",
+            "de": "‚Alle Lebewesen <span class=\"ebt-matched\">werden von Nahrung erhalten</span>.‘ ",
             "en": "‘All sentient beings are sustained by food.’ ",
             "matched": true
           },
           "dn33:1.8.3": {
             "scid": "dn33:1.8.3",
             "pli": "Sabbe sattā saṅkhāraṭṭhitikā. ",
-            "de": "‚Alle Lebewesen <span class=\"scv-matched\">werden von Bedingungen erhalten</span>.‘ ",
+            "de": "‚Alle Lebewesen <span class=\"ebt-matched\">werden von Bedingungen erhalten</span>.‘ ",
             "en": "‘All sentient beings are sustained by conditions.’ ",
             "matched": true
           }
@@ -104,7 +104,7 @@
           "kp4:1.2": {
             "scid": "kp4:1.2",
             "pli": "Sabbe sattā āhāraṭṭhitikā.",
-            "de": "Alle Lebewesen <span class=\"scv-matched\">werden von Nahrung erhalten</span>. ",
+            "de": "Alle Lebewesen <span class=\"ebt-matched\">werden von Nahrung erhalten</span>. ",
             "en": "All sentient beings are sustained by food.",
             "matched": true
           }
@@ -136,7 +136,7 @@
           "dn34:1.2.27": {
             "scid": "dn34:1.2.27",
             "pli": "Sabbe sattā āhāraṭṭhitikā. ",
-            "de": "Alle Lebewesen <span class=\"scv-matched\">werden von Nahrung erhalten</span>. ",
+            "de": "Alle Lebewesen <span class=\"ebt-matched\">werden von Nahrung erhalten</span>. ",
             "en": "All sentient beings are sustained by food. ",
             "matched": true
           }

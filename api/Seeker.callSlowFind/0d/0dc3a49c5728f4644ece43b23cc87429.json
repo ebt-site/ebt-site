@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,19 +54,19 @@
           "sn7.22:1.4": {
             "scid": "sn7.22:1.4",
             "pli": "Tena kho pana samayena khomadussakā brāhmaṇagahapatikā sabhāyaṁ sannipatitā honti kenacideva karaṇīyena, devo ca ekamekaṁ phusāyati. ",
-            "en": "Now at that time the brahmins and <span class=\"scv-matched\">householders of Khomadussa</span> were gathered in the council hall for some business, while a gentle rain drizzled down. ",
+            "en": "Now at that time the brahmins and <span class=\"ebt-matched\">householders of Khomadussa</span> were gathered in the council hall for some business, while a gentle rain drizzled down. ",
             "matched": true
           },
           "sn7.22:1.9": {
             "scid": "sn7.22:1.9",
             "pli": "Atha kho bhagavā khomadussake brāhmaṇagahapatike gāthāya ajjhabhāsi: ",
-            "en": "Then the Buddha addressed the brahmins and <span class=\"scv-matched\">householders of Khomadussa</span> in verse: ",
+            "en": "Then the Buddha addressed the brahmins and <span class=\"ebt-matched\">householders of Khomadussa</span> in verse: ",
             "matched": true
           },
           "sn7.22:3.1": {
             "scid": "sn7.22:3.1",
             "pli": "Evaṁ vutte, khomadussakā brāhmaṇagahapatikā bhagavantaṁ etadavocuṁ: ",
-            "en": "When he had spoken, the brahmins and <span class=\"scv-matched\">householders of Khomadussa</span> said to the Buddha, ",
+            "en": "When he had spoken, the brahmins and <span class=\"ebt-matched\">householders of Khomadussa</span> said to the Buddha, ",
             "matched": true
           }
         },

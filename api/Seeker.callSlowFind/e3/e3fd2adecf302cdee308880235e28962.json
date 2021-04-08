@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an10.61:1.1": {
             "scid": "an10.61:1.1",
             "pli": "“Purimā, bhikkhave, koṭi na paññāyati avijjāya: ‘ito pubbe avijjā nāhosi, atha pacchā samabhavī’ti. ",
-            "de": "„Mönche und Nonnen, es heißt, ein <span class=\"scv-matched\">erster Anfang</span> der Unwissenheit sei nicht erkennbar; ein Zeitpunkt, vor dem es keine Unwissenheit gab, und nach dem sie entstanden ist. ",
+            "de": "„Mönche und Nonnen, es heißt, ein <span class=\"ebt-matched\">erster Anfang</span> der Unwissenheit sei nicht erkennbar; ein Zeitpunkt, vor dem es keine Unwissenheit gab, und nach dem sie entstanden ist. ",
             "en": "“Mendicants, it is said that no first point of ignorance is evident, before which there was no ignorance, and afterwards it came to be. ",
             "matched": true
           }

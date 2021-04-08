@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,14 +61,14 @@
           "dn33:1.10.120": {
             "scid": "dn33:1.10.120",
             "pli": "Tayo samādhī—",
-            "de": "<span class=\"scv-matched\">Drei Arten der Versenkung</span>: ",
+            "de": "<span class=\"ebt-matched\">Drei Arten der Versenkung</span>: ",
             "en": "Three kinds of immersion. ",
             "matched": true
           },
           "dn33:1.10.122": {
             "scid": "dn33:1.10.122",
             "pli": "Aparepi tayo samādhī—",
-            "de": "Weitere <span class=\"scv-matched\">drei Arten der Versenkung</span>: ",
+            "de": "Weitere <span class=\"ebt-matched\">drei Arten der Versenkung</span>: ",
             "en": "Another three kinds of immersion: ",
             "matched": true
           }
@@ -100,7 +100,7 @@
           "dn34:1.4.6": {
             "scid": "dn34:1.4.6",
             "pli": "Tayo samādhī—",
-            "de": "<span class=\"scv-matched\">Drei Arten der Versenkung</span>: ",
+            "de": "<span class=\"ebt-matched\">Drei Arten der Versenkung</span>: ",
             "en": "Three kinds of immersion. ",
             "matched": true
           }

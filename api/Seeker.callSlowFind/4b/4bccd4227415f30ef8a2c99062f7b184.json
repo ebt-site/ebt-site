@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -156,13 +156,13 @@
           "an5.136:3.7": {
             "scid": "an5.136:3.7",
             "pli": "paññavā hoti, udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "They’re wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "They’re wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           },
           "an5.136:4.10": {
             "scid": "an5.136:4.10",
             "pli": "Ahaṁ khomhi paññavā udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "wise. I have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "wise. I have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -191,13 +191,13 @@
           "an5.135:3.8": {
             "scid": "an5.135:3.8",
             "pli": "paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "They’re wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "They’re wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           },
           "an5.135:4.11": {
             "scid": "an5.135:4.11",
             "pli": "Ahaṁ khomhi paññavā udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "I’m wise. I have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "I’m wise. I have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -226,13 +226,13 @@
           "dn33:2.1.71": {
             "scid": "dn33:2.1.71",
             "pli": "Paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammādukkhakkhayagāminiyā. ",
-            "en": "They’re wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "They’re wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           },
           "dn33:3.3.32": {
             "scid": "dn33:3.3.32",
             "pli": "Puna caparaṁ, āvuso, bhikkhu paññavā hoti, udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammādukkhakkhayagāminiyā. ",
-            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -261,13 +261,13 @@
           "dn34:1.6.9": {
             "scid": "dn34:1.6.9",
             "pli": "Paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "They’re wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "They’re wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           },
           "dn34:2.3.31": {
             "scid": "dn34:2.3.31",
             "pli": "Puna caparaṁ, āvuso, bhikkhu paññavā hoti udayatthagāminiyā paññāya samannāgato, ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -296,7 +296,7 @@
           "an5.122:2.2": {
             "scid": "an5.122:2.2",
             "pli": "Idha, bhikkhave, bhikkhuno ajjhattaññeva sati sūpaṭṭhitā hoti dhammānaṁ udayatthagāminiyā paññāya, asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratasaññī, sabbasaṅkhāresu aniccānupassī. ",
-            "en": "It’s when a mendicant has well established mindfulness inside themselves in order to understand the <span class=\"scv-matched\">arising and passing away</span> of phenomena, meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, and observes the impermanence of all conditions. ",
+            "en": "It’s when a mendicant has well established mindfulness inside themselves in order to understand the <span class=\"ebt-matched\">arising and passing away</span> of phenomena, meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, and observes the impermanence of all conditions. ",
             "matched": true
           }
         },
@@ -325,7 +325,7 @@
           "sn55.33:3.1": {
             "scid": "sn55.33:3.1",
             "pli": "Puna caparaṁ, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "Furthermore, a noble disciple is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "Furthermore, a noble disciple is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -354,7 +354,7 @@
           "an5.53:1.10": {
             "scid": "an5.53:1.10",
             "pli": "paññavā hoti, udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "They’re wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "They’re wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -383,7 +383,7 @@
           "sn55.37:6.2": {
             "scid": "sn55.37:6.2",
             "pli": "“Idha, mahānāma, upāsako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā—",
-            "en": "“It’s when a lay follower is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "“It’s when a lay follower is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -412,7 +412,7 @@
           "sn55.43:3.1": {
             "scid": "sn55.43:3.1",
             "pli": "Puna caparaṁ, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "Furthermore, a noble disciple is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "Furthermore, a noble disciple is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -441,7 +441,7 @@
           "an10.11:2.7": {
             "scid": "an10.11:2.7",
             "pli": "paññavā hoti, udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "They’re wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "They’re wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -470,7 +470,7 @@
           "sn48.9:5.2": {
             "scid": "sn48.9:5.2",
             "pli": "Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya, sammā dukkhakkhayagāminiyā—",
-            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -499,7 +499,7 @@
           "sn48.11:5.2": {
             "scid": "sn48.11:5.2",
             "pli": "Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā—",
-            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -528,7 +528,7 @@
           "an5.2:6.2": {
             "scid": "an5.2:6.2",
             "pli": "Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -557,7 +557,7 @@
           "an5.14:6.2": {
             "scid": "an5.14:6.2",
             "pli": "Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -586,7 +586,7 @@
           "an5.134:3.9": {
             "scid": "an5.134:3.9",
             "pli": "paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā—",
-            "en": "They’re wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "They’re wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -615,7 +615,7 @@
           "an5.47:6.2": {
             "scid": "an5.47:6.2",
             "pli": "Idha, bhikkhave, ariyasāvako paññavā hoti, udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -644,7 +644,7 @@
           "an9.1:9.1": {
             "scid": "an9.1:9.1",
             "pli": "Puna caparaṁ, āvuso, bhikkhu paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -673,7 +673,7 @@
           "an7.4:8.2": {
             "scid": "an7.4:8.2",
             "pli": "Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -702,7 +702,7 @@
           "an7.6:8.2": {
             "scid": "an7.6:8.2",
             "pli": "Idha, bhikkhave, ariyasāvako paññavā hoti …pe… sammā dukkhakkhayagāminiyā. ",
-            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -731,7 +731,7 @@
           "an10.17:10.1": {
             "scid": "an10.17:10.1",
             "pli": "Puna caparaṁ, bhikkhave, bhikkhu paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -760,7 +760,7 @@
           "sn48.10:5.2": {
             "scid": "sn48.10:5.2",
             "pli": "Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya, sammā dukkhakkhayagāminiyā. ",
-            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a noble disciple is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -789,7 +789,7 @@
           "an10.50:13.1": {
             "scid": "an10.50:13.1",
             "pli": "Puna caparaṁ, bhikkhave, bhikkhu paññavā hoti, udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -818,7 +818,7 @@
           "an8.49:11.2": {
             "scid": "an8.49:11.2",
             "pli": "Idha, visākhe, mātugāmo paññavā hoti …pe… ",
-            "en": "It’s when a female is wise. She has the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a female is wise. She has the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -847,7 +847,7 @@
           "an8.76:8.2": {
             "scid": "an8.76:8.2",
             "pli": "Idha, bhikkhave, kulaputto paññavā hoti …pe… sammā dukkhakkhayagāminiyā. ",
-            "en": "It’s when a gentleman is wise. He has the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a gentleman is wise. He has the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -876,7 +876,7 @@
           "an8.50:10.2": {
             "scid": "an8.50:10.2",
             "pli": "Idha, bhikkhave, mātugāmo paññavā hoti …pe… ",
-            "en": "It’s when a female is wise. She has the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a female is wise. She has the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -905,7 +905,7 @@
           "an10.18:11.1": {
             "scid": "an10.18:11.1",
             "pli": "Puna caparaṁ, bhikkhave, bhikkhu paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -934,7 +934,7 @@
           "an9.3:14.1": {
             "scid": "an9.3:14.1",
             "pli": "Puna caparaṁ, meghiya, bhikkhu paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -963,7 +963,7 @@
           "an8.55:13.2": {
             "scid": "an8.55:13.2",
             "pli": "Idha, brāhmaṇa, kulaputto paññavā hoti …pe… sammā dukkhakkhayagāminiyā. ",
-            "en": "It’s when a gentleman is wise. He has the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a gentleman is wise. He has the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -992,7 +992,7 @@
           "an8.54:13.2": {
             "scid": "an8.54:13.2",
             "pli": "Idha, byagghapajja, kulaputto paññavā hoti, udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "It’s when a gentleman is wise. He has the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s when a gentleman is wise. He has the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -1021,7 +1021,7 @@
           "ud4.1:16.1": {
             "scid": "ud4.1:16.1",
             "pli": "Puna caparaṁ, meghiya, bhikkhu paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā.",
-            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "Furthermore, a mendicant is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -1050,7 +1050,7 @@
           "an7.67:20.2": {
             "scid": "an7.67:20.2",
             "pli": "Evamevaṁ kho, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "in the same way a noble disciple is wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "in the same way a noble disciple is wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -1079,7 +1079,7 @@
           "mn53:17.1": {
             "scid": "mn53:17.1",
             "pli": "Paññavā hoti, udayatthagāminiyā paññāya samannāgato, ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "They’re wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "They’re wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -1108,7 +1108,7 @@
           "an8.30:20.3": {
             "scid": "an8.30:20.3",
             "pli": "Idha, bhikkhave, bhikkhu paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. ",
-            "en": "It’s for a mendicant who’s wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "It’s for a mendicant who’s wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -1137,7 +1137,7 @@
           "mn90:10.13": {
             "scid": "mn90:10.13",
             "pli": "paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammādukkhakkhayagāminiyā—",
-            "en": "They’re wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "They’re wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },
@@ -1166,7 +1166,7 @@
           "mn85:58.8": {
             "scid": "mn85:58.8",
             "pli": "paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammādukkhakkhayagāminiyā. ",
-            "en": "They’re wise. They have the wisdom of <span class=\"scv-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
+            "en": "They’re wise. They have the wisdom of <span class=\"ebt-matched\">arising and passing away</span> which is noble, penetrative, and leads to the complete ending of suffering. ",
             "matched": true
           }
         },

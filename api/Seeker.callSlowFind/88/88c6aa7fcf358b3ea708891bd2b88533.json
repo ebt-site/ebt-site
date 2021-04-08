@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn35.135:1.4": {
             "scid": "sn35.135:1.4",
             "pli": "Tattha yaṁ kiñci cakkhunā rūpaṁ passati aniṭṭharūpaṁyeva passati, no iṭṭharūpaṁ; akantarūpaṁyeva passati, no kantarūpaṁ; amanāparūpaṁyeva passati, no manāparūpaṁ. ",
-            "en": "There, <span class=\"scv-matched\">whatever sight you see with your eye is unlikable</span>, not likable; undesirable, not desirable; unpleasant, not pleasant. ",
+            "en": "There, <span class=\"ebt-matched\">whatever sight you see with your eye is unlikable</span>, not likable; undesirable, not desirable; unpleasant, not pleasant. ",
             "matched": true
           },
           "sn35.135:1.13": {
@@ -92,7 +92,7 @@
           "sn56.43:1.2": {
             "scid": "sn56.43:1.2",
             "pli": "Tattha yaṁ kiñci cakkhunā rūpaṁ passati, aniṭṭharūpaññeva passati no iṭṭharūpaṁ; akantarūpaññeva passati no kantarūpaṁ; amanāparūpaññeva passati no manāparūpaṁ. ",
-            "en": "There, <span class=\"scv-matched\">whatever sight you see with your eye is unlikable</span>, not likable; undesirable, not desirable; unpleasant, not pleasant. ",
+            "en": "There, <span class=\"ebt-matched\">whatever sight you see with your eye is unlikable</span>, not likable; undesirable, not desirable; unpleasant, not pleasant. ",
             "matched": true
           }
         },

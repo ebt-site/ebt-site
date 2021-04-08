@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -81,21 +81,21 @@
           "an3.89:0.3": {
             "scid": "an3.89:0.3",
             "pli": "89. Paṭhamasikkhattayasutta ",
-            "de": "89. <span class=\"scv-matched\">Drei Übungen</span> (1) ",
+            "de": "89. <span class=\"ebt-matched\">Drei Übungen</span> (1) ",
             "en": "89. Three Trainings (1st) ",
             "matched": true
           },
           "an3.89:1.1": {
             "scid": "an3.89:1.1",
             "pli": "“Tisso imā, bhikkhave, sikkhā. ",
-            "de": "„Mönche und Nonnen, es gibt diese <span class=\"scv-matched\">drei Übungen</span>. ",
+            "de": "„Mönche und Nonnen, es gibt diese <span class=\"ebt-matched\">drei Übungen</span>. ",
             "en": "“Mendicants, these are the three trainings. ",
             "matched": true
           },
           "an3.89:4.4": {
             "scid": "an3.89:4.4",
             "pli": "Imā kho, bhikkhave, tisso sikkhā”ti. ",
-            "de": "Das sind die <span class=\"scv-matched\">drei Übungen</span>.“ ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Übungen</span>.“ ",
             "en": "These are the three trainings.” ",
             "matched": true
           }
@@ -127,21 +127,21 @@
           "an3.90:0.3": {
             "scid": "an3.90:0.3",
             "pli": "90. Dutiyasikkhattayasutta ",
-            "de": "90. <span class=\"scv-matched\">Drei Übungen</span> (2) ",
+            "de": "90. <span class=\"ebt-matched\">Drei Übungen</span> (2) ",
             "en": "90. Three Trainings (2nd) ",
             "matched": true
           },
           "an3.90:1.1": {
             "scid": "an3.90:1.1",
             "pli": "“Tisso imā, bhikkhave, sikkhā. ",
-            "de": "„Mönche und Nonnen, es gibt diese <span class=\"scv-matched\">drei Übungen</span>. ",
+            "de": "„Mönche und Nonnen, es gibt diese <span class=\"ebt-matched\">drei Übungen</span>. ",
             "en": "“Mendicants, these are the three trainings. ",
             "matched": true
           },
           "an3.90:4.4": {
             "scid": "an3.90:4.4",
             "pli": "Imā kho, bhikkhave, tisso sikkhāti. ",
-            "de": "Das sind die <span class=\"scv-matched\">drei Übungen</span>. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Übungen</span>. ",
             "en": "These are the three trainings. ",
             "matched": true
           }
@@ -173,14 +173,14 @@
           "an3.84:1.5": {
             "scid": "an3.84:1.5",
             "pli": "“Sakkhissasi pana tvaṁ, bhikkhu, tīsu sikkhāsu sikkhituṁ—",
-            "de": "„Aber Mönch, bist du in der Lage, dich in <span class=\"scv-matched\">drei Übungen</span> zu üben: ",
+            "de": "„Aber Mönch, bist du in der Lage, dich in <span class=\"ebt-matched\">drei Übungen</span> zu üben: ",
             "en": "“But monk, are you able to train in three trainings: ",
             "matched": true
           },
           "an3.84:1.9": {
             "scid": "an3.84:1.9",
             "pli": "“Tasmātiha tvaṁ, bhikkhu, tīsu sikkhāsu sikkhassu—",
-            "de": "„Nun, Mönch, dann solltest du dich in diesen <span class=\"scv-matched\">drei Übungen</span> üben: ",
+            "de": "„Nun, Mönch, dann solltest du dich in diesen <span class=\"ebt-matched\">drei Übungen</span> üben: ",
             "en": "“So, monk, you should train in these three trainings: ",
             "matched": true
           }
@@ -212,14 +212,14 @@
           "an3.88:1.2": {
             "scid": "an3.88:1.2",
             "pli": "Tisso imā, bhikkhave, sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
-            "de": "All diese sind in den <span class=\"scv-matched\">drei Übungen</span> enthalten. ",
+            "de": "All diese sind in den <span class=\"ebt-matched\">drei Übungen</span> enthalten. ",
             "en": "These are all included in the three trainings. ",
             "matched": true
           },
           "an3.88:1.5": {
             "scid": "an3.88:1.5",
             "pli": "imā kho, bhikkhave, tisso sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
-            "de": "Das sind die <span class=\"scv-matched\">drei Übungen</span>, in denen alle enthalten sind. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Übungen</span>, in denen alle enthalten sind. ",
             "en": "These are the three trainings that include them all. ",
             "matched": true
           }
@@ -251,14 +251,14 @@
           "an3.86:1.2": {
             "scid": "an3.86:1.2",
             "pli": "Tisso imā, bhikkhave, sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
-            "de": "All diese sind in den <span class=\"scv-matched\">drei Übungen</span> enthalten. ",
+            "de": "All diese sind in den <span class=\"ebt-matched\">drei Übungen</span> enthalten. ",
             "en": "These are all included in the three trainings. ",
             "matched": true
           },
           "an3.86:1.5": {
             "scid": "an3.86:1.5",
             "pli": "imā kho, bhikkhave, tisso sikkhā, yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
-            "de": "Das sind die <span class=\"scv-matched\">drei Übungen</span>, in denen alle enthalten sind. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Übungen</span>, in denen alle enthalten sind. ",
             "en": "These are the three trainings that include them all. ",
             "matched": true
           }
@@ -290,14 +290,14 @@
           "an3.87:1.2": {
             "scid": "an3.87:1.2",
             "pli": "Tisso imā, bhikkhave, sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
-            "de": "All diese sind in den <span class=\"scv-matched\">drei Übungen</span> enthalten. ",
+            "de": "All diese sind in den <span class=\"ebt-matched\">drei Übungen</span> enthalten. ",
             "en": "These are all included in the three trainings. ",
             "matched": true
           },
           "an3.87:1.5": {
             "scid": "an3.87:1.5",
             "pli": "imā kho, bhikkhave, tisso sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
-            "de": "Das sind die <span class=\"scv-matched\">drei Übungen</span>, in denen alle enthalten sind. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Übungen</span>, in denen alle enthalten sind. ",
             "en": "These are the three trainings that include them all. ",
             "matched": true
           }
@@ -329,7 +329,7 @@
           "dn33:1.10.114": {
             "scid": "dn33:1.10.114",
             "pli": "Tisso sikkhā—",
-            "de": "<span class=\"scv-matched\">Drei Übungen</span>: ",
+            "de": "<span class=\"ebt-matched\">Drei Übungen</span>: ",
             "en": "Three trainings: ",
             "matched": true
           }

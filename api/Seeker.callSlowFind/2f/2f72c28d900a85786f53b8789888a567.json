@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "sn47.19:2.4": {
             "scid": "sn47.19:2.4",
             "pli": "Attānaṁ, bhikkhave, rakkhanto paraṁ rakkhati, paraṁ rakkhanto attānaṁ rakkhati. ",
-            "en": "<span class=\"scv-matched\">Looking after yourself</span>, you look after others; and looking after others, you look after yourself. ",
+            "en": "<span class=\"ebt-matched\">Looking after yourself</span>, you look after others; and looking after others, you look after yourself. ",
             "matched": true
           },
           "sn47.19:3.1": {
             "scid": "sn47.19:3.1",
             "pli": "Kathañca, bhikkhave, attānaṁ rakkhanto paraṁ rakkhati? ",
-            "en": "And how do you look after others by <span class=\"scv-matched\">looking after yourself</span>? ",
+            "en": "And how do you look after others by <span class=\"ebt-matched\">looking after yourself</span>? ",
             "matched": true
           },
           "sn47.19:3.4": {
@@ -72,7 +72,7 @@
           "sn47.19:3.9": {
             "scid": "sn47.19:3.9",
             "pli": "Attānaṁ, bhikkhave, rakkhanto paraṁ rakkhati, paraṁ rakkhanto attānaṁ rakkhatī”ti. ",
-            "en": "<span class=\"scv-matched\">Looking after yourself</span>, you look after others; and looking after others, you look after yourself.” ",
+            "en": "<span class=\"ebt-matched\">Looking after yourself</span>, you look after others; and looking after others, you look after yourself.” ",
             "matched": true
           }
         },

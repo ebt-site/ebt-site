@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -66,13 +66,13 @@
           "an6.87:1.3": {
             "scid": "an6.87:1.3",
             "pli": "Mātā jīvitā voropitā hoti, pitā jīvitā voropito hoti, arahaṁ jīvitā voropito hoti, tathāgatassa duṭṭhena cittena lohitaṁ uppāditaṁ hoti, saṅgho bhinno hoti, duppañño hoti jaḷo eḷamūgo. ",
-            "en": "They murder their mother or father or a perfected one. They maliciously shed the blood of a Realized One. They <span class=\"scv-matched\">cause a schism</span> in the Saṅgha. They’re witless, dull, and stupid. ",
+            "en": "They murder their mother or father or a perfected one. They maliciously shed the blood of a Realized One. They <span class=\"ebt-matched\">cause a schism</span> in the Saṅgha. They’re witless, dull, and stupid. ",
             "matched": true
           },
           "an6.87:2.3": {
             "scid": "an6.87:2.3",
             "pli": "Na mātā jīvitā voropitā hoti, na pitā jīvitā voropito hoti, na arahaṁ jīvitā voropito hoti, na tathāgatassa duṭṭhena cittena lohitaṁ uppāditaṁ hoti, na saṅgho bhinno hoti, paññavā hoti ajaḷo aneḷamūgo. ",
-            "en": "They don’t murder their mother or father or a perfected one. They don’t maliciously shed the blood of a Realized One. They don’t <span class=\"scv-matched\">cause a schism</span> in the Saṅgha. They’re wise, bright, and clever. ",
+            "en": "They don’t murder their mother or father or a perfected one. They don’t maliciously shed the blood of a Realized One. They don’t <span class=\"ebt-matched\">cause a schism</span> in the Saṅgha. They’re wise, bright, and clever. ",
             "matched": true
           }
         },
@@ -101,13 +101,13 @@
           "an1.275:1.1": {
             "scid": "an1.275:1.1",
             "pli": "“Aṭṭhānametaṁ, bhikkhave, anavakāso yaṁ diṭṭhisampanno puggalo saṅghaṁ bhindeyya. Netaṁ ṭhānaṁ vijjati. ",
-            "en": "“It is impossible, mendicants, it cannot happen for a person accomplished in view to <span class=\"scv-matched\">cause a schism</span> in the Saṅgha. ",
+            "en": "“It is impossible, mendicants, it cannot happen for a person accomplished in view to <span class=\"ebt-matched\">cause a schism</span> in the Saṅgha. ",
             "matched": true
           },
           "an1.275:1.2": {
             "scid": "an1.275:1.2",
             "pli": "Ṭhānañca kho etaṁ, bhikkhave, vijjati yaṁ puthujjano saṅghaṁ bhindeyya. Ṭhānametaṁ vijjatī”ti. ",
-            "en": "But it is possible for an ordinary person to <span class=\"scv-matched\">cause a schism</span> in the Saṅgha.” ",
+            "en": "But it is possible for an ordinary person to <span class=\"ebt-matched\">cause a schism</span> in the Saṅgha.” ",
             "matched": true
           }
         },
@@ -136,13 +136,13 @@
           "mn115:13.7": {
             "scid": "mn115:13.7",
             "pli": "‘Aṭṭhānametaṁ anavakāso yaṁ diṭṭhisampanno puggalo saṅghaṁ bhindeyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti; ",
-            "en": "They understand: ‘It’s impossible for a person accomplished in view to <span class=\"scv-matched\">cause a schism</span> in the Saṅgha. ",
+            "en": "They understand: ‘It’s impossible for a person accomplished in view to <span class=\"ebt-matched\">cause a schism</span> in the Saṅgha. ",
             "matched": true
           },
           "mn115:13.8": {
             "scid": "mn115:13.8",
             "pli": "‘ṭhānañca kho etaṁ vijjati yaṁ puthujjano saṅghaṁ bhindeyya, ṭhānametaṁ vijjatī’ti pajānāti. ",
-            "en": "But it’s possible for an ordinary person to <span class=\"scv-matched\">cause a schism</span> in the Saṅgha.’ ",
+            "en": "But it’s possible for an ordinary person to <span class=\"ebt-matched\">cause a schism</span> in the Saṅgha.’ ",
             "matched": true
           }
         },
@@ -171,7 +171,7 @@
           "an6.94:1.3": {
             "scid": "an6.94:1.3",
             "pli": "Abhabbo diṭṭhisampanno puggalo mātaraṁ jīvitā voropetuṁ, abhabbo diṭṭhisampanno puggalo pitaraṁ jīvitā voropetuṁ, abhabbo diṭṭhisampanno puggalo arahantaṁ jīvitā voropetuṁ, abhabbo diṭṭhisampanno puggalo tathāgatassa duṭṭhena cittena lohitaṁ uppādetuṁ, abhabbo diṭṭhisampanno puggalo saṅghaṁ bhindituṁ, abhabbo diṭṭhisampanno puggalo aññaṁ satthāraṁ uddisituṁ. ",
-            "en": "A person accomplished in view can’t murder their mother or father or a perfected one. They can’t maliciously shed the blood of the Realized One. They can’t <span class=\"scv-matched\">cause a schism</span> in the Saṅgha. They can’t acknowledge another teacher. ",
+            "en": "A person accomplished in view can’t murder their mother or father or a perfected one. They can’t maliciously shed the blood of the Realized One. They can’t <span class=\"ebt-matched\">cause a schism</span> in the Saṅgha. They can’t acknowledge another teacher. ",
             "matched": true
           }
         },
@@ -200,7 +200,7 @@
           "an4.236:2.2": {
             "scid": "an4.236:2.2",
             "pli": "Idha, bhikkhave, ekaccena mātā jīvitā voropitā hoti, pitā jīvitā voropito hoti, arahaṁ jīvitā voropito hoti, tathāgatassa duṭṭhena cittena lohitaṁ uppāditaṁ hoti, saṅgho bhinno hoti. ",
-            "en": "It's when someone murders their mother or father or a perfected one. They maliciously shed the blood of a Realized One. Or they <span class=\"scv-matched\">cause a schism</span> in the Saṅgha. ",
+            "en": "It's when someone murders their mother or father or a perfected one. They maliciously shed the blood of a Realized One. Or they <span class=\"ebt-matched\">cause a schism</span> in the Saṅgha. ",
             "matched": true
           }
         },

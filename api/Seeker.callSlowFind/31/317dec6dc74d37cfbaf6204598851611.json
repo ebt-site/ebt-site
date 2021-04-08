@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -69,13 +69,13 @@
           "an4.274:1.1": {
             "scid": "an4.274:1.1",
             "pli": "“Rāgassa, bhikkhave, abhiññāya cattāro dhammā bhāvetabbā. ",
-            "en": "“For insight into greed, <span class=\"scv-matched\">four things should be developed</span>. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">four things should be developed</span>. ",
             "matched": true
           },
           "an4.274:1.5": {
             "scid": "an4.274:1.5",
             "pli": "Rāgassa, bhikkhave, abhiññāya ime cattāro dhammā bhāvetabbā”ti. ",
-            "en": "For insight into greed, these <span class=\"scv-matched\">four things should be developed</span>.” ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">four things should be developed</span>.” ",
             "matched": true
           }
         },
@@ -104,13 +104,13 @@
           "an4.275:1.1": {
             "scid": "an4.275:1.1",
             "pli": "“Rāgassa, bhikkhave, abhiññāya cattāro dhammā bhāvetabbā. ",
-            "en": "“For insight into greed, <span class=\"scv-matched\">four things should be developed</span>. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">four things should be developed</span>. ",
             "matched": true
           },
           "an4.275:1.5": {
             "scid": "an4.275:1.5",
             "pli": "Rāgassa, bhikkhave, abhiññāya ime cattāro dhammā bhāvetabbā”ti. ",
-            "en": "For insight into greed, these <span class=\"scv-matched\">four things should be developed</span>.” ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">four things should be developed</span>.” ",
             "matched": true
           }
         },
@@ -139,13 +139,13 @@
           "an4.276:1.1": {
             "scid": "an4.276:1.1",
             "pli": "“Rāgassa, bhikkhave, abhiññāya cattāro dhammā bhāvetabbā. ",
-            "en": "“For insight into greed, <span class=\"scv-matched\">four things should be developed</span>. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">four things should be developed</span>. ",
             "matched": true
           },
           "an4.276:1.7": {
             "scid": "an4.276:1.7",
             "pli": "Rāgassa, bhikkhave, abhiññāya ime cattāro dhammā bhāvetabbā”ti. ",
-            "en": "For insight into greed, these <span class=\"scv-matched\">four things should be developed</span>.” ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">four things should be developed</span>.” ",
             "matched": true
           }
         },
@@ -174,7 +174,7 @@
           "an4.277-303:1.1": {
             "scid": "an4.277-303:1.1",
             "pli": "“Rāgassa, bhikkhave, pariññāya …pe… parikkhayāya … pahānāya … khayāya … vayāya … virāgāya … nirodhāya … cāgāya … paṭinissaggāya cattāro dhammā bhāvetabbā …pe…. ",
-            "en": "“For the complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go of greed, <span class=\"scv-matched\">four things should be developed</span>.” ",
+            "en": "“For the complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go of greed, <span class=\"ebt-matched\">four things should be developed</span>.” ",
             "matched": true
           }
         },
@@ -203,7 +203,7 @@
           "an4.304-783:1.1": {
             "scid": "an4.304-783:1.1",
             "pli": "“Dosassa …pe… mohassa … kodhassa … upanāhassa … makkhassa … paḷāsassa … issāya … macchariyassa … māyāya … sāṭheyyassa … thambhassa … sārambhassa … mānassa … atimānassa … madassa … pamādassa abhiññāya … pariññāya … parikkhayāya … pahānāya … khayāya … vayāya … virāgāya … nirodhāya … cāgāya … paṭinissaggāya ime cattāro dhammā bhāvetabbā”ti. ",
-            "en": "“Of hate … delusion … anger … hostility … disdain … contempt … jealousy … stinginess … deceit … deviousness … obstinacy … aggression … conceit … arrogance … vanity … negligence … for insight … complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go … <span class=\"scv-matched\">four things should be developed</span>.” ",
+            "en": "“Of hate … delusion … anger … hostility … disdain … contempt … jealousy … stinginess … deceit … deviousness … obstinacy … aggression … conceit … arrogance … vanity … negligence … for insight … complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go … <span class=\"ebt-matched\">four things should be developed</span>.” ",
             "matched": true
           }
         },
@@ -232,7 +232,7 @@
           "dn34:1.5.6": {
             "scid": "dn34:1.5.6",
             "pli": "Katame cattāro dhammā bhāvetabbā? ",
-            "en": "What <span class=\"scv-matched\">four things should be developed</span>? ",
+            "en": "What <span class=\"ebt-matched\">four things should be developed</span>? ",
             "matched": true
           }
         },

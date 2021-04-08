@@ -1,16 +1,16 @@
 <template>
-  <div class="scv-nav-sutta" id="scv-tipitaka" v-if="displayable" >
+  <div class="ebt-nav-sutta" id="ebt-tipitaka" v-if="displayable" >
     <v-btn v-if="previous" small text
-      class="scv-text-btn scv-nav-btn"
+      class="ebt-text-btn ebt-nav-btn"
       @click="clickSutta(previous)"
       > 
-      <div class="scv-nav-text">
+      <div class="ebt-nav-text">
         <div>{{previous}}</div>
       </div>
     </v-btn>
-    <v-icon v-else class="scv-nav-btn-disabled">{{mdiChevronLeft}}</v-icon>
+    <v-icon v-else class="ebt-nav-btn-disabled">{{mdiChevronLeft}}</v-icon>
 
-    <div class="scv-suttacentral"
+    <div class="ebt-suttacentral"
       @mouseover="suttacentral=true" @mouseleave="suttacentral=false">
       <a v-if="suttacentral"
         :href="`https://suttacentral.net/${current.sutta_uid}`"
@@ -20,14 +20,14 @@
     </div>
 
     <v-btn v-if="next" small text
-      class="scv-text-btn scv-nav-btn"
+      class="ebt-text-btn ebt-nav-btn"
       @click="clickSutta(next)"
       > 
-      <div class="scv-nav-text">
+      <div class="ebt-nav-text">
         <div>{{next}}</div>
       </div>
     </v-btn>
-    <v-icon v-else class="scv-nav-btn-disabled">{{mdiChevronRight}}</v-icon>
+    <v-icon v-else class="ebt-nav-btn-disabled">{{mdiChevronRight}}</v-icon>
   </div>
 </template>
 
@@ -56,7 +56,7 @@ export default {
     let { $el={}, js } = this;
     let tipitaka = new js.Tipitaka();
     Vue.set(this, 'tipitaka', tipitaka);
-    this.$nuxt.$on('scv-load-sutta', payload=>{
+    this.$nuxt.$on('ebt-load-sutta', payload=>{
       typeof $el.scrollIntoView === 'function' && $el.scrollIntoView({
         block: "center",
       });
@@ -67,7 +67,7 @@ export default {
       let { $store, settings, } = this;
       let lang = this.settings.lang;
       console.log(`clickSutta`, {sutta_uid, lang});
-      $store.dispatch('scv/loadSutta', {sutta_uid, lang, });
+      $store.dispatch('ebt/loadSutta', {sutta_uid, lang, });
     },
   },
   computed: {
@@ -84,7 +84,7 @@ export default {
         return this.sutta;
     },
     settings() {
-      return this.$store.state.scv.settings;
+      return this.$store.state.ebt.settings;
     },
     next() {
         let { tipitaka, sutta } = this;
@@ -92,13 +92,13 @@ export default {
         return tipitaka.nextSuid(sutta_uid);
     },
     sutta() {
-        return this.$store.state.scv.sutta;
+        return this.$store.state.ebt.sutta;
     },
   },
 }
 </script>
 <style>
-.scv-tipitaka {
+.ebt-tipitaka {
     display: flex;
     flex-flow: row noWrap;
     align-items: center;
@@ -107,10 +107,10 @@ export default {
     padding-left: 2em;
     padding-right: 2em;
 }
-.scv-tipitaka > button {
+.ebt-tipitaka > button {
     width: 8em !important;
 }
-.scv-tipitaka-button {
+.ebt-tipitaka-button {
   min-width: 5rem;
 }
 </style>

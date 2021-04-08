@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,31 +57,31 @@
           "mn140:7.2": {
             "scid": "mn140:7.2",
             "pli": "yattha ṭhitaṁ maññassavā nappavattanti, maññassave kho pana nappavattamāne muni santoti vuccati. ",
-            "en": "They have <span class=\"scv-matched\">four foundations</span>, standing on which the streams of identification don’t flow. And when the streams of identification don’t flow, they’re called a sage at peace. ",
+            "en": "They have <span class=\"ebt-matched\">four foundations</span>, standing on which the streams of identification don’t flow. And when the streams of identification don’t flow, they’re called a sage at peace. ",
             "matched": true
           },
           "mn140:11.1": {
             "scid": "mn140:11.1",
             "pli": "‘Caturādhiṭṭhāno ayaṁ, bhikkhu, puriso’ti—",
-            "en": "‘This person has <span class=\"scv-matched\">four foundations</span>.’ ",
+            "en": "‘This person has <span class=\"ebt-matched\">four foundations</span>.’ ",
             "matched": true
           },
           "mn140:11.4": {
             "scid": "mn140:11.4",
             "pli": "‘Caturādhiṭṭhāno ayaṁ, bhikkhu, puriso’ti—",
-            "en": "‘This person has <span class=\"scv-matched\">four foundations</span>.’ ",
+            "en": "‘This person has <span class=\"ebt-matched\">four foundations</span>.’ ",
             "matched": true
           },
           "mn140:30.1": {
             "scid": "mn140:30.1",
             "pli": "‘Yattha ṭhitaṁ maññassavā nappavattanti, maññassave kho pana nappavattamāne muni santoti vuccatī’ti—",
-            "en": "‘They have <span class=\"scv-matched\">four foundations</span>, standing on which the streams of identification don’t flow. And when the streams of identification don’t flow, they’re called a sage at peace.’ ",
+            "en": "‘They have <span class=\"ebt-matched\">four foundations</span>, standing on which the streams of identification don’t flow. And when the streams of identification don’t flow, they’re called a sage at peace.’ ",
             "matched": true
           },
           "mn140:32.1": {
             "scid": "mn140:32.1",
             "pli": "‘Yattha ṭhitaṁ maññassavā nappavattanti, maññassave kho pana nappavattamāne muni santoti vuccatī’ti—",
-            "en": "‘They have <span class=\"scv-matched\">four foundations</span>, standing on which the streams of identification don’t flow. And when the streams of identification don’t flow, they’re called a sage at peace.’ ",
+            "en": "‘They have <span class=\"ebt-matched\">four foundations</span>, standing on which the streams of identification don’t flow. And when the streams of identification don’t flow, they’re called a sage at peace.’ ",
             "matched": true
           }
         },
@@ -110,7 +110,7 @@
           "dn33:1.11.149": {
             "scid": "dn33:1.11.149",
             "pli": "Cattāri adhiṭṭhānāni—",
-            "en": "<span class=\"scv-matched\">Four foundations</span>: ",
+            "en": "<span class=\"ebt-matched\">Four foundations</span>: ",
             "matched": true
           }
         },

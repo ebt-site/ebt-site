@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -81,14 +81,14 @@
           "sn56.11:3.2": {
             "scid": "sn56.11:3.2",
             "pli": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
-            "de": "<span class=\"scv-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
+            "de": "<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
             "en": "It is simply this noble eightfold path, that is: ",
             "matched": true
           },
           "sn56.11:4.9": {
             "scid": "sn56.11:4.9",
             "pli": "ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
-            "de": "<span class=\"scv-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
+            "de": "<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
             "en": "It is simply this noble eightfold path, that is: ",
             "matched": true
           }
@@ -120,7 +120,7 @@
           "sn47.40:3.2": {
             "scid": "sn47.40:3.2",
             "pli": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
-            "de": "<span class=\"scv-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
+            "de": "<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
             "en": "It is simply this noble eightfold path, that is: ",
             "matched": true
           }
@@ -152,7 +152,7 @@
           "an3.71:5.4": {
             "scid": "an3.71:5.4",
             "pli": "“Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
-            "de": "„<span class=\"scv-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
+            "de": "„<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
             "en": "“It is simply this noble eightfold path, that is: ",
             "matched": true
           }
@@ -184,7 +184,7 @@
           "an3.62:10.3": {
             "scid": "an3.62:10.3",
             "pli": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
-            "de": "<span class=\"scv-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
+            "de": "<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
             "en": "It is simply this noble eightfold path, that is: ",
             "matched": true
           }
@@ -216,7 +216,7 @@
           "an3.61:17.2": {
             "scid": "an3.61:17.2",
             "pli": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
-            "de": "<span class=\"scv-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
+            "de": "<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
             "en": "It is simply this noble eightfold path, that is: ",
             "matched": true
           }
@@ -248,7 +248,7 @@
           "dn6:14.4": {
             "scid": "dn6:14.4",
             "pli": "“Ayameva ariyo aṭṭhaṅgiko maggo. ",
-            "de": "„<span class=\"scv-matched\">Es ist einfach dieser edle achtfache Pfad</span>: ",
+            "de": "„<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: ",
             "en": "“It is simply this noble eightfold path, that is: ",
             "matched": true
           }
@@ -280,7 +280,7 @@
           "dn19:61.7": {
             "scid": "dn19:61.7",
             "pli": "Ayameva ariyo aṭṭhaṅgiko maggo. ",
-            "de": "<span class=\"scv-matched\">Es ist einfach dieser edle achtfache Pfad</span>: ",
+            "de": "<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: ",
             "en": "It is simply this noble eightfold path, that is: ",
             "matched": true
           }

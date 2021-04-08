@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -64,7 +64,7 @@
           "sn56.11:14.3": {
             "scid": "sn56.11:14.3",
             "pli": "Iti hidaṁ āyasmato koṇḍaññassa “aññāsikoṇḍañño” tveva nāmaṁ ahosīti. ",
-            "de": "Und so wurde der Ehrwürdige Koṇḍañña als „Koṇḍañña, <span class=\"scv-matched\">der verstanden hat</span>“ bekannt. ",
+            "de": "Und so wurde der Ehrwürdige Koṇḍañña als „Koṇḍañña, <span class=\"ebt-matched\">der verstanden hat</span>“ bekannt. ",
             "en": "And that’s how Venerable Koṇḍañña came to be known as “Koṇḍañña Who Understood”. ",
             "matched": true
           }

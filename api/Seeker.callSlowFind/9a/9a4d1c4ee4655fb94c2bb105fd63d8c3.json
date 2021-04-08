@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "dn33:1.10.120": {
             "scid": "dn33:1.10.120",
             "pli": "Tayo samādhī—",
-            "en": "<span class=\"scv-matched\">Three kinds of immersion</span>. ",
+            "en": "<span class=\"ebt-matched\">Three kinds of immersion</span>. ",
             "matched": true
           },
           "dn33:1.10.122": {
             "scid": "dn33:1.10.122",
             "pli": "Aparepi tayo samādhī—",
-            "en": "Another <span class=\"scv-matched\">three kinds of immersion</span>: ",
+            "en": "Another <span class=\"ebt-matched\">three kinds of immersion</span>: ",
             "matched": true
           }
         },
@@ -92,7 +92,7 @@
           "dn34:1.4.6": {
             "scid": "dn34:1.4.6",
             "pli": "Tayo samādhī—",
-            "en": "<span class=\"scv-matched\">Three kinds of immersion</span>. ",
+            "en": "<span class=\"ebt-matched\">Three kinds of immersion</span>. ",
             "matched": true
           }
         },

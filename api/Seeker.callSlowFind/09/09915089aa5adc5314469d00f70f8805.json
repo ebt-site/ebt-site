@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -96,13 +96,13 @@
           "mn79:7.7": {
             "scid": "mn79:7.7",
             "pli": "imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
-            "en": "‘<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           },
           "mn79:8.8": {
             "scid": "mn79:8.8",
             "pli": "imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
-            "en": "“<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "“<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           }
         },
@@ -131,7 +131,7 @@
           "sn12.37:2.2": {
             "scid": "sn12.37:2.2",
             "pli": "‘iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
-            "en": "‘<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           }
         },
@@ -160,7 +160,7 @@
           "sn12.21:1.8": {
             "scid": "sn12.21:1.8",
             "pli": "Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati. ",
-            "en": "<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           }
         },
@@ -189,7 +189,7 @@
           "ud1.1:2.1": {
             "scid": "ud1.1:2.1",
             "pli": "“Iti imasmiṁ sati idaṁ hoti,",
-            "en": "“<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. That is: ",
+            "en": "“<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. That is: ",
             "matched": true
           }
         },
@@ -218,7 +218,7 @@
           "sn12.61:5.2": {
             "scid": "sn12.61:5.2",
             "pli": "‘iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
-            "en": "‘<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           }
         },
@@ -247,7 +247,7 @@
           "sn12.22:1.8": {
             "scid": "sn12.22:1.8",
             "pli": "Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
-            "en": "<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           }
         },
@@ -276,7 +276,7 @@
           "sn55.28:4.3": {
             "scid": "sn55.28:4.3",
             "pli": "iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
-            "en": "‘<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           }
         },
@@ -305,7 +305,7 @@
           "sn12.62:3.2": {
             "scid": "sn12.62:3.2",
             "pli": "‘iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
-            "en": "‘<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           }
         },
@@ -334,7 +334,7 @@
           "sn12.41:12.3": {
             "scid": "sn12.41:12.3",
             "pli": "‘iti imasmiṁ sati idaṁ hoti, imasmiṁ asati idaṁ na hoti; ",
-            "en": "‘<span class=\"scv-matched\">When this exists, that is</span>; when this doesn’t exist, that is not. ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; when this doesn’t exist, that is not. ",
             "matched": true
           }
         },
@@ -363,7 +363,7 @@
           "sn12.49:2.2": {
             "scid": "sn12.49:2.2",
             "pli": "‘imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati. ",
-            "en": "‘<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           }
         },
@@ -392,7 +392,7 @@
           "ud1.3:2.1": {
             "scid": "ud1.3:2.1",
             "pli": "“Iti imasmiṁ sati idaṁ hoti,",
-            "en": "“<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "“<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           }
         },
@@ -421,7 +421,7 @@
           "an10.92:6.3": {
             "scid": "an10.92:6.3",
             "pli": "‘iti imasmiṁ sati idaṁ hoti; imassuppādā idaṁ uppajjati; ",
-            "en": "‘<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           }
         },
@@ -450,7 +450,7 @@
           "sn12.50:2.2": {
             "scid": "sn12.50:2.2",
             "pli": "‘imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati. ",
-            "en": "‘<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           }
         },
@@ -479,7 +479,7 @@
           "mn115:11.3": {
             "scid": "mn115:11.3",
             "pli": "‘imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati, ",
-            "en": "‘<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
             "matched": true
           }
         },
@@ -508,7 +508,7 @@
           "mn38:19.3": {
             "scid": "mn38:19.3",
             "pli": "imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati, yadidaṁ—",
-            "en": "<span class=\"scv-matched\">When this exists, that is</span>; due to the arising of this, that arises. That is: ",
+            "en": "<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. That is: ",
             "matched": true
           }
         },

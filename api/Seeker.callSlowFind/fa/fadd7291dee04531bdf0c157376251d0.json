@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,14 +65,14 @@
           "dn33:1.10.41": {
             "scid": "dn33:1.10.41",
             "pli": "sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso. ",
-            "de": "<span class=\"scv-matched\">Glaube an eine Persönlichkeit</span>, Zweifel und falsches Verständnis von Regeln und Gelübden. ",
+            "de": "<span class=\"ebt-matched\">Glaube an eine Persönlichkeit</span>, Zweifel und falsches Verständnis von Regeln und Gelübden. ",
             "en": "identity view, doubt, and misapprehension of precepts and observances. ",
             "matched": true
           },
           "dn33:2.1.21": {
             "scid": "dn33:2.1.21",
             "pli": "sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, kāmacchando, byāpādo. ",
-            "de": "<span class=\"scv-matched\">Glaube an eine Persönlichkeit</span>, Zweifel, falsches Verständnis von Regeln und Gelübden, sinnliches Verlangen und böser Wille. ",
+            "de": "<span class=\"ebt-matched\">Glaube an eine Persönlichkeit</span>, Zweifel, falsches Verständnis von Regeln und Gelübden, sinnliches Verlangen und böser Wille. ",
             "en": "identity view, doubt, misapprehension of precepts and observances, sensual desire, and ill will. ",
             "matched": true
           }
@@ -104,7 +104,7 @@
           "an3.94:2.2": {
             "scid": "an3.94:2.2",
             "pli": "sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso. ",
-            "de": "<span class=\"scv-matched\">Glaube an eine Persönlichkeit</span>, Zweifel und falsches Verständnis von Regeln und Gelübden. ",
+            "de": "<span class=\"ebt-matched\">Glaube an eine Persönlichkeit</span>, Zweifel und falsches Verständnis von Regeln und Gelübden. ",
             "en": "identity view, doubt, and misapprehension of precepts and observances. ",
             "matched": true
           }
@@ -136,7 +136,7 @@
           "kp6:10.3": {
             "scid": "kp6:10.3",
             "pli": "Sakkāyadiṭṭhī vicikicchitañca,",
-            "de": "<span class=\"scv-matched\">Glaube an eine Persönlichkeit</span>, Zweifel ",
+            "de": "<span class=\"ebt-matched\">Glaube an eine Persönlichkeit</span>, Zweifel ",
             "en": "identity view, doubt, and any",
             "matched": true
           }

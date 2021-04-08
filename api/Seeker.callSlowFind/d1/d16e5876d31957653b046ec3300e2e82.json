@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "thag1.46:1.3": {
             "scid": "thag1.46:1.3",
             "pli": "Sati paññā ca me vuḍḍhā,",
-            "en": "My <span class=\"scv-matched\">mindfulness and wisdom</span> have grown,",
+            "en": "My <span class=\"ebt-matched\">mindfulness and wisdom</span> have grown,",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "sn4.22:4.3": {
             "scid": "sn4.22:4.3",
             "pli": "Sati paññā ca me buddhā, ",
-            "en": "My <span class=\"scv-matched\">mindfulness and wisdom</span> are mature, ",
+            "en": "My <span class=\"ebt-matched\">mindfulness and wisdom</span> are mature, ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "sn8.3:3.1": {
             "scid": "sn8.3:3.1",
             "pli": "Makkhena makkhitā pajā, ",
-            "en": "Smeared by smears and <span class=\"scv-matched\">slain by conceit</span>, ",
+            "en": "Smeared by smears and <span class=\"ebt-matched\">slain by conceit</span>, ",
             "matched": true
           },
           "sn8.3:3.3": {
             "scid": "sn8.3:3.3",
             "pli": "Socanti janā cirarattaṁ, ",
-            "en": "When people <span class=\"scv-matched\">slain by conceit</span> are reborn in hell, ",
+            "en": "When people <span class=\"ebt-matched\">slain by conceit</span> are reborn in hell, ",
             "matched": true
           }
         },
@@ -92,13 +92,13 @@
           "thag21.1:12.1": {
             "scid": "thag21.1:12.1",
             "pli": "Makkhena makkhitā pajā,",
-            "en": "Smeared by smears and <span class=\"scv-matched\">slain by conceit</span>,",
+            "en": "Smeared by smears and <span class=\"ebt-matched\">slain by conceit</span>,",
             "matched": true
           },
           "thag21.1:12.3": {
             "scid": "thag21.1:12.3",
             "pli": "Socanti janā cirarattaṁ,",
-            "en": "When people <span class=\"scv-matched\">slain by conceit</span> are reborn in hell,",
+            "en": "When people <span class=\"ebt-matched\">slain by conceit</span> are reborn in hell,",
             "matched": true
           }
         },

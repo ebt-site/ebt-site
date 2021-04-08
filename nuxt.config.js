@@ -77,12 +77,12 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '@/assets/variables.scss',
-    '@/assets/scv.css',
+    '@/assets/ebt.css',
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    {src: '~/plugins/scv-client.js', mode:'client'},
+    {src: '~/plugins/ebt-client.js', mode:'client'},
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -106,7 +106,7 @@ export default {
         icons: 'mdiSvg',
     },
     customVariables: [
-        '~/assets/scv.css',
+        '~/assets/ebt.css',
     ],
     //treeShake: true,
     theme: {
@@ -132,7 +132,7 @@ export default {
         }
       }
     },
-    lang: {  // IMPORTANT: set up i18n "scv" labels
+    lang: {  // IMPORTANT: set up i18n "ebt" labels
         locales: {
             cs,
             da,

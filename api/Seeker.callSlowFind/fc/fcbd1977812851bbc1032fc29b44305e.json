@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,14 +61,14 @@
           "an4.199:1.2": {
             "scid": "an4.199:1.2",
             "pli": "“taṇhaṁ vo, bhikkhave, desessāmi jāliniṁ saritaṁ visaṭaṁ visattikaṁ, yāya ayaṁ loko uddhasto pariyonaddho tantākulakajāto gulāguṇṭhikajāto muñjapabbajabhūto apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattati. ",
-            "de": "„Mönche und Nonnen, ich werde euch über das Verlangen unterweisen – die Weberin, die Wandernde, die Allgegenwärtige, die Festhaltende. Diese Welt wird von ihr erstickt und eingehüllt. Sie verwickelt die Welt <span class=\"scv-matched\">wie Garn</span>,  verknotet sie wie einen Wollknäuel und verflicht sie wie Binsen und Schilf, so dass sie den verlorenen Orten nicht entkommt, den schlechten Orten, der Unterwelt, dem Umherwandern. ",
+            "de": "„Mönche und Nonnen, ich werde euch über das Verlangen unterweisen – die Weberin, die Wandernde, die Allgegenwärtige, die Festhaltende. Diese Welt wird von ihr erstickt und eingehüllt. Sie verwickelt die Welt <span class=\"ebt-matched\">wie Garn</span>,  verknotet sie wie einen Wollknäuel und verflicht sie wie Binsen und Schilf, so dass sie den verlorenen Orten nicht entkommt, den schlechten Orten, der Unterwelt, dem Umherwandern. ",
             "en": "“Mendicants, I will teach you about craving—the weaver, the migrant, the ubiquitous, the clinging. This world is choked by it, engulfed by it. It makes the world tangled like yarn, knotted like a ball of thread, and matted like rushes and reeds, not escaping the places of loss, the bad places, the underworld, transmigration. ",
             "matched": true
           },
           "an4.199:6.1": {
             "scid": "an4.199:6.1",
             "pli": "Ayaṁ kho sā, bhikkhave, taṇhā jālinī saritā visaṭā visattikā, yāya ayaṁ loko uddhasto pariyonaddho tantākulakajāto guṇāguṇṭhikajāto muñjapabbajabhūto apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattatī”ti. ",
-            "de": "Das ist dieses Verlangen – die Weberin, die Wandernde, die Allgegenwärtige, die Festhaltende. Diese Welt wird von ihr erstickt und eingehüllt. Sie verwickelt die Welt <span class=\"scv-matched\">wie Garn</span>,  verknotet sie wie einen Wollknäuel und verflicht sie wie Binsen und Schilf, so dass sie den verlorenen Orten nicht entkommt, den schlechten Orten, der Unterwelt, dem Umherwandern.“ ",
+            "de": "Das ist dieses Verlangen – die Weberin, die Wandernde, die Allgegenwärtige, die Festhaltende. Diese Welt wird von ihr erstickt und eingehüllt. Sie verwickelt die Welt <span class=\"ebt-matched\">wie Garn</span>,  verknotet sie wie einen Wollknäuel und verflicht sie wie Binsen und Schilf, so dass sie den verlorenen Orten nicht entkommt, den schlechten Orten, der Unterwelt, dem Umherwandern.“ ",
             "en": "This is that craving—the weaver, the migrant, the ubiquitous, the clinging. This world is choked by it, engulfed by it. It makes the world tangled like yarn, knotted like a ball of thread, and matted like rushes and reeds, not escaping the places of loss, the bad places, the underworld, transmigration.” ",
             "matched": true
           }
@@ -100,7 +100,7 @@
           "dn15:1.8": {
             "scid": "dn15:1.8",
             "pli": "Etassa, ānanda, dhammassa ananubodhā appaṭivedhā evamayaṁ pajā tantākulakajātā kulagaṇṭhikajātā muñjapabbajabhūtā apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattati. ",
-            "de": "Weil sie diese Lehre nicht versteht und durchdringt, wurde diese Bevölkerung verwickelt <span class=\"scv-matched\">wie Garn</span>, verknotet wie ein Wollknäuel und verflochten wie Binsen und Schilf, so dass sie den verlorenen Orten nicht entkommt, den schlechten Orten, der Unterwelt, dem Umherwandern. ",
+            "de": "Weil sie diese Lehre nicht versteht und durchdringt, wurde diese Bevölkerung verwickelt <span class=\"ebt-matched\">wie Garn</span>, verknotet wie ein Wollknäuel und verflochten wie Binsen und Schilf, so dass sie den verlorenen Orten nicht entkommt, den schlechten Orten, der Unterwelt, dem Umherwandern. ",
             "en": "It is because of not understanding and not penetrating this teaching that this population has become tangled like string, knotted like a ball of thread, and matted like rushes and reeds, and it doesn’t escape the places of loss, the bad places, the underworld, transmigration. ",
             "matched": true
           }

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "dn12:78.2": {
             "scid": "dn12:78.2",
             "pli": "“seyyathāpi, bho gotama, puriso purisaṁ narakapapātaṁ patantaṁ kesesu gahetvā uddharitvā thale patiṭṭhapeyya; ",
-            "de": "„Meister Gotama, wie ein Mensch, der dabei wäre, eine Klippe hinunterzustürzen, und ein anderer Mensch <span class=\"scv-matched\">fasste ihn an den Haaren</span>, zöge ihn hoch und stellte ihn auf festen Boden. ",
+            "de": "„Meister Gotama, wie ein Mensch, der dabei wäre, eine Klippe hinunterzustürzen, und ein anderer Mensch <span class=\"ebt-matched\">fasste ihn an den Haaren</span>, zöge ihn hoch und stellte ihn auf festen Boden. ",
             "en": "“Suppose, Master Gotama, a person was on the verge of falling off a cliff, and another person were to grab them by the hair, pull them up, and place them on firm ground. ",
             "matched": true
           }

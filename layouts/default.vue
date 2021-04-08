@@ -1,11 +1,11 @@
 <template>
   <v-app >
     <v-app-bar dark :clipped-left="clipped" fixed app hide-on-scroll >
-      <scv-app-bar title="Scv-Static" :imgUrl="siteImage">
-        <v-btn icon to="/components" class="scv-icon-btn" >
-          <v-icon class="scv-settings-icon">{{mdiMenu}}</v-icon>
+      <ebt-app-bar title="EBT-Vue" :imgUrl="siteImage">
+        <v-btn icon to="/components" class="ebt-icon-btn" >
+          <v-icon class="ebt-settings-icon">{{mdiMenu}}</v-icon>
         </v-btn>
-      </scv-app-bar>
+      </ebt-app-bar>
     </v-app-bar>
     <div class="site-main">
       <v-container class="site-content">
@@ -13,7 +13,7 @@
       </v-container>
     </div>
     <v-footer app dark >
-      <scv-cursor />
+      <ebt-cursor />
     </v-footer>
   </v-app>
 </template>
@@ -21,19 +21,19 @@
 <script>
 import Vue from 'vue';
 const { version } = require('~/package.json');
-import { ScvVue } from '../index';
+import { EbtVue } from '../index';
 import {
   mdiMenu,
 } from "@mdi/js";
 let {
-  ScvAppBar,
-  ScvCursor,
-} = ScvVue;
+  EbtAppBar,
+  EbtCursor,
+} = EbtVue;
 
 export default {
   components: {
-    ScvCursor,
-    ScvAppBar,
+    EbtCursor,
+    EbtAppBar,
   },
   data () {
     return {

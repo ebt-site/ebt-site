@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,61 +57,61 @@
           "an8.73:5.5": {
             "scid": "an8.73:5.5",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ ekapiṇḍapātaṁ bhuñjāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "‘Oh, if I’d only <span class=\"scv-matched\">live as long</span> as it takes to eat a meal of alms-food, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
+            "en": "‘Oh, if I’d only <span class=\"ebt-matched\">live as long</span> as it takes to eat a meal of alms-food, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
             "matched": true
           },
           "an8.73:6.5": {
             "scid": "an8.73:6.5",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ upaḍḍhapiṇḍapātaṁ bhuñjāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "‘Oh, if I’d only <span class=\"scv-matched\">live as long</span> as it takes to eat half a meal of alms-food, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
+            "en": "‘Oh, if I’d only <span class=\"ebt-matched\">live as long</span> as it takes to eat half a meal of alms-food, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
             "matched": true
           },
           "an8.73:7.5": {
             "scid": "an8.73:7.5",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ cattāro pañca ālope saṅkhāditvā ajjhoharāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "‘Oh, if I’d only <span class=\"scv-matched\">live as long</span> as it takes to chew and swallow four or five mouthfuls, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
+            "en": "‘Oh, if I’d only <span class=\"ebt-matched\">live as long</span> as it takes to chew and swallow four or five mouthfuls, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
             "matched": true
           },
           "an8.73:8.5": {
             "scid": "an8.73:8.5",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ ekaṁ ālopaṁ saṅkhāditvā ajjhoharāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "‘Oh, if I’d only <span class=\"scv-matched\">live as long</span> as it takes to chew and swallow a single mouthful, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
+            "en": "‘Oh, if I’d only <span class=\"ebt-matched\">live as long</span> as it takes to chew and swallow a single mouthful, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
             "matched": true
           },
           "an8.73:9.5": {
             "scid": "an8.73:9.5",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ assasitvā vā passasāmi, passasitvā vā assasāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "‘Oh, if I’d only <span class=\"scv-matched\">live as long</span> as it takes to breathe out after breathing in, or to breathe in after breathing out, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
+            "en": "‘Oh, if I’d only <span class=\"ebt-matched\">live as long</span> as it takes to breathe out after breathing in, or to breathe in after breathing out, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
             "matched": true
           },
           "an8.73:10.9": {
             "scid": "an8.73:10.9",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ ekapiṇḍapātaṁ bhuñjāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti; ",
-            "en": "or to <span class=\"scv-matched\">live as long</span> as it takes to eat a meal of alms-food … ",
+            "en": "or to <span class=\"ebt-matched\">live as long</span> as it takes to eat a meal of alms-food … ",
             "matched": true
           },
           "an8.73:10.11": {
             "scid": "an8.73:10.11",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ upaḍḍhapiṇḍapātaṁ bhuñjāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "or to <span class=\"scv-matched\">live as long</span> as it takes to eat half a meal of alms-food … ",
+            "en": "or to <span class=\"ebt-matched\">live as long</span> as it takes to eat half a meal of alms-food … ",
             "matched": true
           },
           "an8.73:10.13": {
             "scid": "an8.73:10.13",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ cattāro pañca ālope saṅkhāditvā ajjhoharāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti—",
-            "en": "or to <span class=\"scv-matched\">live as long</span> as it takes to chew and swallow four or five mouthfuls … ",
+            "en": "or to <span class=\"ebt-matched\">live as long</span> as it takes to chew and swallow four or five mouthfuls … ",
             "matched": true
           },
           "an8.73:11.2": {
             "scid": "an8.73:11.2",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ ekaṁ ālopaṁ saṅkhāditvā ajjhoharāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "to <span class=\"scv-matched\">live as long</span> as it takes to chew and swallow a single mouthful … ",
+            "en": "to <span class=\"ebt-matched\">live as long</span> as it takes to chew and swallow a single mouthful … ",
             "matched": true
           },
           "an8.73:11.4": {
             "scid": "an8.73:11.4",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ assasitvā vā passasāmi, passasitvā vā assasāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti—",
-            "en": "or to <span class=\"scv-matched\">live as long</span> as it takes to breathe out after breathing in, or to breathe in after breathing out … ",
+            "en": "or to <span class=\"ebt-matched\">live as long</span> as it takes to breathe out after breathing in, or to breathe in after breathing out … ",
             "matched": true
           }
         },
@@ -140,49 +140,49 @@
           "an6.19:4.5": {
             "scid": "an6.19:4.5",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ ekapiṇḍapātaṁ bhuñjāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "‘Oh, if I’d only <span class=\"scv-matched\">live as long</span> as it takes to eat a meal of alms-food, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
+            "en": "‘Oh, if I’d only <span class=\"ebt-matched\">live as long</span> as it takes to eat a meal of alms-food, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
             "matched": true
           },
           "an6.19:5.5": {
             "scid": "an6.19:5.5",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ cattāro pañca ālope saṅkhāditvā ajjhoharāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "‘Oh, if I’d only <span class=\"scv-matched\">live as long</span> as it takes to chew and swallow four or five mouthfuls, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
+            "en": "‘Oh, if I’d only <span class=\"ebt-matched\">live as long</span> as it takes to chew and swallow four or five mouthfuls, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
             "matched": true
           },
           "an6.19:6.5": {
             "scid": "an6.19:6.5",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ ekaṁ ālopaṁ saṅkhāditvā ajjhoharāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "‘Oh, if I’d only <span class=\"scv-matched\">live as long</span> as it takes to chew and swallow a single mouthful, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
+            "en": "‘Oh, if I’d only <span class=\"ebt-matched\">live as long</span> as it takes to chew and swallow a single mouthful, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
             "matched": true
           },
           "an6.19:7.5": {
             "scid": "an6.19:7.5",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ assasitvā vā passasāmi passasitvā vā assasāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "‘Oh, if I’d only <span class=\"scv-matched\">live as long</span> as it takes to breathe out after breathing in, or to breathe in after breathing out, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
+            "en": "‘Oh, if I’d only <span class=\"ebt-matched\">live as long</span> as it takes to breathe out after breathing in, or to breathe in after breathing out, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ ",
             "matched": true
           },
           "an6.19:10.2": {
             "scid": "an6.19:10.2",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ ekapiṇḍapātaṁ bhuñjāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "or to <span class=\"scv-matched\">live as long</span> as it takes to eat a meal of alms-food … ",
+            "en": "or to <span class=\"ebt-matched\">live as long</span> as it takes to eat a meal of alms-food … ",
             "matched": true
           },
           "an6.19:11.2": {
             "scid": "an6.19:11.2",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ cattāro pañca ālope saṅkhāditvā ajjhoharāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "or to <span class=\"scv-matched\">live as long</span> as it takes to chew and swallow four or five mouthfuls—",
+            "en": "or to <span class=\"ebt-matched\">live as long</span> as it takes to chew and swallow four or five mouthfuls—",
             "matched": true
           },
           "an6.19:13.2": {
             "scid": "an6.19:13.2",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ ekaṁ ālopaṁ saṅkhāditvā ajjhoharāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "to <span class=\"scv-matched\">live as long</span> as it takes to chew and swallow a single mouthful … ",
+            "en": "to <span class=\"ebt-matched\">live as long</span> as it takes to chew and swallow a single mouthful … ",
             "matched": true
           },
           "an6.19:14.2": {
             "scid": "an6.19:14.2",
             "pli": "‘aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ assasitvā vā passasāmi passasitvā vā assasāmi, bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā’ti. ",
-            "en": "or to <span class=\"scv-matched\">live as long</span> as it takes to breathe out after breathing in, or to breathe in after breathing out—",
+            "en": "or to <span class=\"ebt-matched\">live as long</span> as it takes to breathe out after breathing in, or to breathe in after breathing out—",
             "matched": true
           }
         },

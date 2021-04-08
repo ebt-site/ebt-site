@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,14 +61,14 @@
           "an1.600-615:1.1": {
             "scid": "an1.600-615:1.1",
             "pli": "“Ekadhammo, bhikkhave, bhāvito bahulīkato paññāpaṭilābhāya saṁvattati … paññāvuddhiyā saṁvattati … paññāvepullāya saṁvattati … mahāpaññatāya saṁvattati … puthupaññatāya saṁvattati … vipulapaññatāya saṁvattati … gambhīrapaññatāya saṁvattati … asāmantapaññatāya saṁvattati … bhūripaññatāya saṁvattati … paññābāhullāya saṁvattati … sīghapaññatāya saṁvattati … lahupaññatāya saṁvattati … hāsapaññatāya saṁvattati … javanapaññatāya saṁvattati … tikkhapaññatāya saṁvattati … nibbedhikapaññatāya saṁvattati. ",
-            "de": "„Ein Ding, Mönche und Nonnen, führt, wenn es entwickelt und gepflegt wird, zum Erlangen von Weisheit … zum Anwachsen von Weisheit … zur Zunahme von Weisheit … zu großer Weisheit … zu umfassender Weisheit … zu überreichlicher Weisheit … zu tiefgründiger Weisheit … zu außerordentlicher Weisheit … zu ausgedehnter Weisheit … zu beträchtlicher Weisheit … zu schneller Weisheit … zu heller Weisheit … zu <span class=\"scv-matched\">lachender Weisheit … zu flinker Weisheit … zu scharfer Weisheit … zu durchdringender Weisheit</span>. ",
+            "de": "„Ein Ding, Mönche und Nonnen, führt, wenn es entwickelt und gepflegt wird, zum Erlangen von Weisheit … zum Anwachsen von Weisheit … zur Zunahme von Weisheit … zu großer Weisheit … zu umfassender Weisheit … zu überreichlicher Weisheit … zu tiefgründiger Weisheit … zu außerordentlicher Weisheit … zu ausgedehnter Weisheit … zu beträchtlicher Weisheit … zu schneller Weisheit … zu heller Weisheit … zu <span class=\"ebt-matched\">lachender Weisheit … zu flinker Weisheit … zu scharfer Weisheit … zu durchdringender Weisheit</span>. ",
             "en": "“One thing, mendicants, when developed and cultivated, leads to the getting of wisdom … the growth of wisdom … the increase of wisdom … to great wisdom … to widespread wisdom … to abundant wisdom … to deep wisdom … to extraordinary wisdom … to vast wisdom … to much wisdom … to fast wisdom … to light wisdom … to laughing wisdom … to swift wisdom … to sharp wisdom … to penetrating wisdom. ",
             "matched": true
           },
           "an1.600-615:1.4": {
             "scid": "an1.600-615:1.4",
             "pli": "Ayaṁ kho, bhikkhave, ekadhammo bhāvito bahulīkato paññāpaṭilābhāya saṁvattati … paññāvuddhiyā saṁvattati … paññāvepullāya saṁvattati … mahāpaññatāya saṁvattati … puthupaññatāya saṁvattati … vipulapaññatāya saṁvattati … gambhīrapaññatāya saṁvattati … asāmantapaññatāya saṁvattati … bhūripaññatāya saṁvattati … paññābāhullāya saṁvattati … sīghapaññatāya saṁvattati … lahupaññatāya saṁvattati … hāsapaññatāya saṁvattati … javanapaññatāya saṁvattati … tikkhapaññatāya saṁvattati … nibbedhikapaññatāya saṁvattatī”ti. ",
-            "de": "Dieses eine Ding führt, wenn es entwickelt und gepflegt wird, zum Erlangen von Weisheit … zum Anwachsen von Weisheit … zur Zunahme von Weisheit … zu großer Weisheit … zu umfassender Weisheit … zu überreichlicher Weisheit … zu tiefgründiger Weisheit … zu außerordentlicher Weisheit … zu ausgedehnter Weisheit … zu beträchtlicher Weisheit … zu schneller Weisheit … zu heller Weisheit … zu <span class=\"scv-matched\">lachender Weisheit … zu flinker Weisheit … zu scharfer Weisheit … zu durchdringender Weisheit</span>.“ ",
+            "de": "Dieses eine Ding führt, wenn es entwickelt und gepflegt wird, zum Erlangen von Weisheit … zum Anwachsen von Weisheit … zur Zunahme von Weisheit … zu großer Weisheit … zu umfassender Weisheit … zu überreichlicher Weisheit … zu tiefgründiger Weisheit … zu außerordentlicher Weisheit … zu ausgedehnter Weisheit … zu beträchtlicher Weisheit … zu schneller Weisheit … zu heller Weisheit … zu <span class=\"ebt-matched\">lachender Weisheit … zu flinker Weisheit … zu scharfer Weisheit … zu durchdringender Weisheit</span>.“ ",
             "en": "This one thing, when developed and cultivated, leads to the getting of wisdom … the growth of wisdom … the increase of wisdom … to great wisdom … to widespread wisdom … to abundant wisdom … to deep wisdom … to extraordinary wisdom … to vast wisdom … to much wisdom … to fast wisdom … to light wisdom … to laughing wisdom … to swift wisdom … to sharp wisdom … to penetrating wisdom.” ",
             "matched": true
           }
@@ -100,7 +100,7 @@
           "dn30:1.26.6": {
             "scid": "dn30:1.26.6",
             "pli": "Mahāpañño hoti puthupañño hāsapañño javanapañño tikkhapañño nibbedhikapañño, nāssa hoti koci paññāya sadiso vā seṭṭho vā sabbasattānaṁ. ",
-            "de": "Er besitzt große Weisheit, umfassende Weisheit, <span class=\"scv-matched\">lachende Weisheit, flinke Weisheit, scharfe Weisheit und durchdringende Weisheit. Es gibt kein Lebewesen, das ihm an Weisheit</span> gleichkäme oder ihn überträfe. ",
+            "de": "Er besitzt große Weisheit, umfassende Weisheit, <span class=\"ebt-matched\">lachende Weisheit, flinke Weisheit, scharfe Weisheit und durchdringende Weisheit. Es gibt kein Lebewesen, das ihm an Weisheit</span> gleichkäme oder ihn überträfe. ",
             "en": "He has great wisdom, widespread wisdom, laughing wisdom, swift wisdom, sharp wisdom, and penetrating wisdom. No sentient being is his equal or better in wisdom. ",
             "matched": true
           }

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "dn30:2.6.2": {
             "scid": "dn30:2.6.2",
             "pli": "“Saddhāya sīlena sutena buddhiyā, ",
-            "en": "“His wish was this: ‘How <span class=\"scv-matched\">may others not</span> decline ",
+            "en": "“His wish was this: ‘How <span class=\"ebt-matched\">may others not</span> decline ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "dn33:1.10.64": {
             "scid": "dn33:1.10.64",
             "pli": "‘mā me idaṁ paro aññāsī’ti. ",
-            "en": "‘<span class=\"scv-matched\">May others not</span> know this of me.’ ",
+            "en": "‘<span class=\"ebt-matched\">May others not</span> know this of me.’ ",
             "matched": true
           }
         },

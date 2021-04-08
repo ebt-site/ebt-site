@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -93,13 +93,13 @@
           "an3.110:1.4": {
             "scid": "an3.110:1.4",
             "pli": "Seyyathāpi, gahapati, kūṭāgāre ducchanne kūṭampi byāpannaṁ hoti, gopānasiyopi byāpannā honti, bhittipi byāpannā hoti; ",
-            "en": "It’s like a bungalow with a bad roof. The roof peak, <span class=\"scv-matched\">rafter</span>s, and walls fall in. ",
+            "en": "It’s like a bungalow with a bad roof. The roof peak, <span class=\"ebt-matched\">rafter</span>s, and walls fall in. ",
             "matched": true
           },
           "an3.110:2.3": {
             "scid": "an3.110:2.3",
             "pli": "Seyyathāpi, gahapati, kūṭāgāre succhanne kūṭampi abyāpannaṁ hoti, gopānasiyopi abyāpannā honti, bhittipi abyāpannā hoti; ",
-            "en": "It’s like a bungalow with a good roof. The roof peak, <span class=\"scv-matched\">rafter</span>s, and walls are not fallen in. ",
+            "en": "It’s like a bungalow with a good roof. The roof peak, <span class=\"ebt-matched\">rafter</span>s, and walls are not fallen in. ",
             "matched": true
           }
         },
@@ -128,13 +128,13 @@
           "sn48.52:2.1": {
             "scid": "sn48.52:2.1",
             "pli": "Seyyathāpi, bhikkhave, yāvakīvañca kūṭāgārassa kūṭaṁ na ussitaṁ hoti, neva tāva gopānasīnaṁ saṇṭhiti hoti, neva tāva gopānasīnaṁ avaṭṭhiti hoti. ",
-            "en": "It’s just like in a bungalow. As long as the roof peak is not lifted into place, the <span class=\"scv-matched\">rafter</span>s are not stable or fixed. ",
+            "en": "It’s just like in a bungalow. As long as the roof peak is not lifted into place, the <span class=\"ebt-matched\">rafter</span>s are not stable or fixed. ",
             "matched": true
           },
           "sn48.52:2.2": {
             "scid": "sn48.52:2.2",
             "pli": "Yato ca kho, bhikkhave, kūṭāgārassa kūṭaṁ ussitaṁ hoti, atha gopānasīnaṁ saṇṭhiti hoti, atha gopānasīnaṁ avaṭṭhiti hoti. ",
-            "en": "But when the roof peak is lifted into place, the <span class=\"scv-matched\">rafter</span>s become stable and fixed. ",
+            "en": "But when the roof peak is lifted into place, the <span class=\"ebt-matched\">rafter</span>s become stable and fixed. ",
             "matched": true
           }
         },
@@ -163,13 +163,13 @@
           "an3.109:2.1": {
             "scid": "an3.109:2.1",
             "pli": "Seyyathāpi, gahapati, kūṭāgāre ducchanne kūṭampi arakkhitaṁ hoti, gopānasiyopi arakkhitā honti, bhittipi arakkhitā hoti; ",
-            "en": "It’s like a bungalow with a bad roof. The roof peak, <span class=\"scv-matched\">rafter</span>s, and walls are unprotected. ",
+            "en": "It’s like a bungalow with a bad roof. The roof peak, <span class=\"ebt-matched\">rafter</span>s, and walls are unprotected. ",
             "matched": true
           },
           "an3.109:5.1": {
             "scid": "an3.109:5.1",
             "pli": "Seyyathāpi, gahapati, kūṭāgāre succhanne kūṭampi rakkhitaṁ hoti, gopānasiyopi rakkhitā honti, bhittipi rakkhitā hoti; ",
-            "en": "It’s like a bungalow with a good roof. The roof peak, <span class=\"scv-matched\">rafter</span>s, and walls are protected. ",
+            "en": "It’s like a bungalow with a good roof. The roof peak, <span class=\"ebt-matched\">rafter</span>s, and walls are protected. ",
             "matched": true
           }
         },
@@ -198,7 +198,7 @@
           "sn46.7:1.1": {
             "scid": "sn46.7:1.1",
             "pli": "“Seyyathāpi, bhikkhave, kūṭāgārassa yā kāci gopānasiyo, sabbā tā kūṭaninnā kūṭapoṇā kūṭapabbhārā; ",
-            "en": "“Mendicants, the <span class=\"scv-matched\">rafter</span>s of a bungalow all slant, slope, and incline to the peak. ",
+            "en": "“Mendicants, the <span class=\"ebt-matched\">rafter</span>s of a bungalow all slant, slope, and incline to the peak. ",
             "matched": true
           }
         },
@@ -227,7 +227,7 @@
           "sn20.1:1.4": {
             "scid": "sn20.1:1.4",
             "pli": "“seyyathāpi, bhikkhave, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭasamosaraṇā kūṭasamugghātā sabbā tā samugghātaṁ gacchanti; ",
-            "en": "“Mendicants, the <span class=\"scv-matched\">rafter</span>s of a bungalow all lean to the peak and meet at the peak, and when the peak is demolished they’re all demolished too. ",
+            "en": "“Mendicants, the <span class=\"ebt-matched\">rafter</span>s of a bungalow all lean to the peak and meet at the peak, and when the peak is demolished they’re all demolished too. ",
             "matched": true
           }
         },
@@ -256,7 +256,7 @@
           "thag2.32:2.3": {
             "scid": "thag2.32:2.3",
             "pli": "Sabbā te phāsukā bhaggā,",
-            "en": "Your <span class=\"scv-matched\">rafter</span>s are all broken,",
+            "en": "Your <span class=\"ebt-matched\">rafter</span>s are all broken,",
             "matched": true
           }
         },
@@ -285,7 +285,7 @@
           "sn45.141-145:1.1": {
             "scid": "sn45.141-145:1.1",
             "pli": "“Seyyathāpi, bhikkhave, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭaninnā kūṭasamosaraṇā; kūṭaṁ tāsaṁ aggamakkhāyati; ",
-            "en": "“Mendicants, the <span class=\"scv-matched\">rafter</span>s of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
+            "en": "“Mendicants, the <span class=\"ebt-matched\">rafter</span>s of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
             "matched": true
           }
         },
@@ -314,7 +314,7 @@
           "an10.15:3.1": {
             "scid": "an10.15:3.1",
             "pli": "Seyyathāpi, bhikkhave, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭaninnā kūṭasamosaraṇā, kūṭo tāsaṁ aggamakkhāyati; ",
-            "en": "The <span class=\"scv-matched\">rafter</span>s of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
+            "en": "The <span class=\"ebt-matched\">rafter</span>s of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
             "matched": true
           }
         },
@@ -343,7 +343,7 @@
           "an6.53:5.1": {
             "scid": "an6.53:5.1",
             "pli": "Seyyathāpi, brāhmaṇa, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭaninnā kūṭasamosaraṇā, kūṭaṁ tāsaṁ aggamakkhāyati; ",
-            "en": "The <span class=\"scv-matched\">rafter</span>s of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
+            "en": "The <span class=\"ebt-matched\">rafter</span>s of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
             "matched": true
           }
         },
@@ -372,7 +372,7 @@
           "sn22.102:5.1": {
             "scid": "sn22.102:5.1",
             "pli": "Seyyathāpi, bhikkhave, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭaninnā kūṭasamosaraṇā, kūṭaṁ tāsaṁ aggamakkhāyati; ",
-            "en": "The <span class=\"scv-matched\">rafter</span>s of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
+            "en": "The <span class=\"ebt-matched\">rafter</span>s of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
             "matched": true
           }
         },
@@ -401,7 +401,7 @@
           "mn12:52.16": {
             "scid": "mn12:52.16",
             "pli": "Seyyathāpi nāma jarasālāya gopānasiyo oluggaviluggā bhavanti; evamevassu me phāsuḷiyo oluggaviluggā bhavanti tāyevappāhāratāya. ",
-            "en": "and my ribs were as gaunt as the broken-down <span class=\"scv-matched\">rafter</span>s on an old barn. ",
+            "en": "and my ribs were as gaunt as the broken-down <span class=\"ebt-matched\">rafter</span>s on an old barn. ",
             "matched": true
           }
         },
@@ -430,7 +430,7 @@
           "mn36:28.8": {
             "scid": "mn36:28.8",
             "pli": "Seyyathāpi nāma jarasālāya gopānasiyo oluggaviluggā bhavanti; evamevassu me phāsuḷiyo oluggaviluggā bhavanti tāyevappāhāratāya. ",
-            "en": "and my ribs were as gaunt as the broken-down <span class=\"scv-matched\">rafter</span>s on an old barn. ",
+            "en": "and my ribs were as gaunt as the broken-down <span class=\"ebt-matched\">rafter</span>s on an old barn. ",
             "matched": true
           }
         },
@@ -459,7 +459,7 @@
           "mn100:25.8": {
             "scid": "mn100:25.8",
             "pli": "Seyyathāpi nāma jarasālāya gopānasiyo oluggaviluggā bhavanti; evamevassu me phāsuḷiyo oluggaviluggā bhavanti tāyevappāhāratāya. ",
-            "en": "and my ribs were as gaunt as the broken-down <span class=\"scv-matched\">rafter</span>s on an old barn. ",
+            "en": "and my ribs were as gaunt as the broken-down <span class=\"ebt-matched\">rafter</span>s on an old barn. ",
             "matched": true
           }
         },
@@ -488,7 +488,7 @@
           "mn85:28.8": {
             "scid": "mn85:28.8",
             "pli": "Seyyathāpi nāma jarasālāya gopānasiyo oluggaviluggā bhavanti; evamevassu me phāsuḷiyo oluggaviluggā bhavanti tāyevappāhāratāya. ",
-            "en": "and my ribs were as gaunt as the broken-down <span class=\"scv-matched\">rafter</span>s on an old barn. ",
+            "en": "and my ribs were as gaunt as the broken-down <span class=\"ebt-matched\">rafter</span>s on an old barn. ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an8.61:1.1": {
             "scid": "an8.61:1.1",
             "pli": "“Aṭṭhime, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. ",
-            "en": "“Mendicants, there are <span class=\"scv-matched\">eight kinds of people</span> found in the world. ",
+            "en": "“Mendicants, there are <span class=\"ebt-matched\">eight kinds of people</span> found in the world. ",
             "matched": true
           }
         },

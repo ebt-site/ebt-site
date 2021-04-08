@@ -14,7 +14,7 @@
       "searchLang": "jpn",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "jpn",
       "types": [
         "root",
@@ -58,7 +58,7 @@
             "scid": "an3.101:2.1",
             "pli": "Evamevaṁ kho, bhikkhave, santi adhicittamanuyuttassa bhikkhuno oḷārikā upakkilesā kāyaduccaritaṁ vacīduccaritaṁ manoduccaritaṁ, tamenaṁ sacetaso bhikkhu dabbajātiko pajahati vinodeti byantīkaroti anabhāvaṁ gameti. ",
             "en": "In the same way, a mendicant who is committed to the higher mind has coarse corruptions: bad bodily, verbal, and mental conduct. A sincere, capable mendicant gives these up, gets rid of, eliminates, and obliterates them. ",
-            "jpn": "同じ様に、<span class=\"scv-matched\">高潔な心を目指し</span>ている托鉢僧侶は粗大な汚れ、つまり、体、言葉、心による悪い行為があります。真剣で有能な托鉢僧侶はこれらを捨て去り、取り除き、排除し、消し去ります。",
+            "jpn": "同じ様に、<span class=\"ebt-matched\">高潔な心を目指し</span>ている托鉢僧侶は粗大な汚れ、つまり、体、言葉、心による悪い行為があります。真剣で有能な托鉢僧侶はこれらを捨て去り、取り除き、排除し、消し去ります。",
             "matched": true
           }
         },

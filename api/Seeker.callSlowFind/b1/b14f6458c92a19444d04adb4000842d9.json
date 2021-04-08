@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -69,25 +69,25 @@
           "an4.5:1.3": {
             "scid": "an4.5:1.3",
             "pli": "Anusotagāmī puggalo, paṭisotagāmī puggalo, ṭhitatto puggalo, tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo. ",
-            "en": "A person who goes with the stream; a person who goes <span class=\"scv-matched\">against the stream</span>; a steadfast person; and a brahmin who has crossed over and stands on the far shore. ",
+            "en": "A person who goes with the stream; a person who goes <span class=\"ebt-matched\">against the stream</span>; a steadfast person; and a brahmin who has crossed over and stands on the far shore. ",
             "matched": true
           },
           "an4.5:2.1": {
             "scid": "an4.5:2.1",
             "pli": "Katamo ca, bhikkhave, paṭisotagāmī puggalo? ",
-            "en": "And who is the person who goes <span class=\"scv-matched\">against the stream</span>? ",
+            "en": "And who is the person who goes <span class=\"ebt-matched\">against the stream</span>? ",
             "matched": true
           },
           "an4.5:2.3": {
             "scid": "an4.5:2.3",
             "pli": "Ayaṁ vuccati, bhikkhave, paṭisotagāmī puggalo. ",
-            "en": "This is called a person who goes <span class=\"scv-matched\">against the stream</span>. ",
+            "en": "This is called a person who goes <span class=\"ebt-matched\">against the stream</span>. ",
             "matched": true
           },
           "an4.5:6.4": {
             "scid": "an4.5:6.4",
             "pli": "Paṭisotagāmīti tamāhu puggalaṁ. ",
-            "en": "they call that person ‘one who goes <span class=\"scv-matched\">against the stream</span>’. ",
+            "en": "they call that person ‘one who goes <span class=\"ebt-matched\">against the stream</span>’. ",
             "matched": true
           }
         },
@@ -116,13 +116,13 @@
           "iti109:2.4": {
             "scid": "iti109:2.4",
             "pli": "Atha kho so, bhikkhave, puriso tassa purisassa saddaṁ sutvā hatthehi ca pādehi ca paṭisotaṁ vāyameyya.",
-            "en": "Then, when they heard what was said, they’d paddle <span class=\"scv-matched\">against the stream</span> using their hands and feet.",
+            "en": "Then, when they heard what was said, they’d paddle <span class=\"ebt-matched\">against the stream</span> using their hands and feet.",
             "matched": true
           },
           "iti109:9.1": {
             "scid": "iti109:9.1",
             "pli": "‘Paṭisoto’ti kho, bhikkhave, nekkhammassetaṁ adhivacanaṁ.",
-            "en": "‘<span class=\"scv-matched\">Against the stream</span>’ is a term for renunciation. ",
+            "en": "‘<span class=\"ebt-matched\">Against the stream</span>’ is a term for renunciation. ",
             "matched": true
           }
         },
@@ -151,7 +151,7 @@
           "sn6.1:3.2": {
             "scid": "sn6.1:3.2",
             "pli": "gambhīraṁ duddasaṁ aṇuṁ; ",
-            "en": "what’s subtle, going <span class=\"scv-matched\">against the stream</span>, ",
+            "en": "what’s subtle, going <span class=\"ebt-matched\">against the stream</span>, ",
             "matched": true
           }
         },
@@ -180,7 +180,7 @@
           "mn26:19.13": {
             "scid": "mn26:19.13",
             "pli": "gambhīraṁ duddasaṁ aṇuṁ; ",
-            "en": "what’s subtle, going <span class=\"scv-matched\">against the stream</span>, ",
+            "en": "what’s subtle, going <span class=\"ebt-matched\">against the stream</span>, ",
             "matched": true
           }
         },
@@ -209,7 +209,7 @@
           "mn85:43.13": {
             "scid": "mn85:43.13",
             "pli": "gambhīraṁ duddasaṁ aṇuṁ; ",
-            "en": "what’s subtle, going <span class=\"scv-matched\">against the stream</span>, ",
+            "en": "what’s subtle, going <span class=\"ebt-matched\">against the stream</span>, ",
             "matched": true
           }
         },
@@ -238,7 +238,7 @@
           "dn14:3.2.7": {
             "scid": "dn14:3.2.7",
             "pli": "gambhīraṁ duddasaṁ aṇuṁ; ",
-            "en": "what’s subtle, going <span class=\"scv-matched\">against the stream</span>, ",
+            "en": "what’s subtle, going <span class=\"ebt-matched\">against the stream</span>, ",
             "matched": true
           }
         },

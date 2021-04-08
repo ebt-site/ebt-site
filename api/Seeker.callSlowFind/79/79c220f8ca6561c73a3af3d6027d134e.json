@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "thig5.9:3.4": {
             "scid": "thig5.9:3.4",
             "pli": "sā me āsūpasampadā.",
-            "en": "<span class=\"scv-matched\">that was my ordination</span>.",
+            "en": "<span class=\"ebt-matched\">that was my ordination</span>.",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "thag7.3:6.4": {
             "scid": "thag7.3:6.4",
             "pli": "sā me āsūpasampadā.",
-            "en": "<span class=\"scv-matched\">That was my ordination</span>.",
+            "en": "<span class=\"ebt-matched\">That was my ordination</span>.",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "thag12.2:6.4": {
             "scid": "thag12.2:6.4",
             "pli": "sā me āsūpasampadā.",
-            "en": "<span class=\"scv-matched\">That was my ordination</span>.",
+            "en": "<span class=\"ebt-matched\">That was my ordination</span>.",
             "matched": true
           }
         },

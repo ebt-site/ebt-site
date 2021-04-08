@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,28 +65,28 @@
           "dn23:1.2": {
             "scid": "dn23:1.2",
             "pli": "ekaṁ samayaṁ āyasmā kumārakassapo kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena setabyā nāma kosalānaṁ nagaraṁ tadavasari. ",
-            "de": "Einmal wanderte der Ehrwürdige <span class=\"scv-matched\">Kassapa der Prinz</span> im Land der Kosaler mit einem großen Saṅgha von fünfhundert Mönchen und Nonnen. Da kam er zu einer Festungsstadt mit Namen Setavyā. ",
+            "de": "Einmal wanderte der Ehrwürdige <span class=\"ebt-matched\">Kassapa der Prinz</span> im Land der Kosaler mit einem großen Saṅgha von fünfhundert Mönchen und Nonnen. Da kam er zu einer Festungsstadt mit Namen Setavyā. ",
             "en": "At one time Venerable Kassapa the Prince was wandering in the land of the Kosalans together with a large Saṅgha of five hundred mendicants when he arrived at a Kosalan citadel named Setavyā. ",
             "matched": true
           },
           "dn23:2.4": {
             "scid": "dn23:2.4",
             "pli": "“samaṇo khalu bho kumārakassapo samaṇassa gotamassa sāvako kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi setabyaṁ anuppatto setabyāyaṁ viharati uttarena setabyaṁ siṁsapāvane. ",
-            "de": "„Es scheint, der Asket <span class=\"scv-matched\">Kassapa der Prinz</span> – ein Schüler des Asketen Gotama – hält sich im Wäldchen von Indischem Palisander im Norden von Setavyā auf. ",
+            "de": "„Es scheint, der Asket <span class=\"ebt-matched\">Kassapa der Prinz</span> – ein Schüler des Asketen Gotama – hält sich im Wäldchen von Indischem Palisander im Norden von Setavyā auf. ",
             "en": "“It seems the ascetic Kassapa the Prince—a disciple of the ascetic Gotama—is staying in the grove of Indian Rosewood to the north of Setavyā. ",
             "matched": true
           },
           "dn23:3.5": {
             "scid": "dn23:3.5",
             "pli": "“Atthi kho, bho, samaṇo kumārakassapo, samaṇassa gotamassa sāvako kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi setabyaṁ anuppatto setabyāyaṁ viharati uttarena setabyaṁ siṁsapāvane. ",
-            "de": "„Der Asket <span class=\"scv-matched\">Kassapa der Prinz</span> – ein Schüler des Asketen Gotama – hält sich im Wäldchen von Indischem Palisander im Norden von Setavyā auf. ",
+            "de": "„Der Asket <span class=\"ebt-matched\">Kassapa der Prinz</span> – ein Schüler des Asketen Gotama – hält sich im Wäldchen von Indischem Palisander im Norden von Setavyā auf. ",
             "en": "“The ascetic Kassapa the Prince—a disciple of the ascetic Gotama—is staying in the grove of Indian Rosewood to the north of Setavyā. ",
             "matched": true
           },
           "dn23:3.12": {
             "scid": "dn23:3.12",
             "pli": "Purā samaṇo kumārakassapo setabyake brāhmaṇagahapatike bāle abyatte saññāpeti: ",
-            "de": "bevor <span class=\"scv-matched\">Kassapa der Prinz</span> diese törichten und unfähigen Brahmanen und Hausbesitzer davon überzeugt, ",
+            "de": "bevor <span class=\"ebt-matched\">Kassapa der Prinz</span> diese törichten und unfähigen Brahmanen und Hausbesitzer davon überzeugt, ",
             "en": "Before Kassapa the Prince convinces those foolish and incompetent brahmins and householders that ",
             "matched": true
           },
@@ -114,7 +114,7 @@
           "dn23:33.9": {
             "scid": "dn23:33.9",
             "pli": "Api cāhaṁ ayyena kumārakassapena etasmā pāpakā diṭṭhigatā vivecito”ti. ",
-            "de": "Aber der Ehrwürdige <span class=\"scv-matched\">Kassapa der Prinz</span> brachte mich von diesem schädlichen Irrglauben ab.“ ",
+            "de": "Aber der Ehrwürdige <span class=\"ebt-matched\">Kassapa der Prinz</span> brachte mich von diesem schädlichen Irrglauben ab.“ ",
             "en": "But Venerable Kassapa the Prince dissuaded me from that harmful misconception.” ",
             "matched": true
           }
@@ -146,7 +146,7 @@
           "mn23:1.3": {
             "scid": "mn23:1.3",
             "pli": "Tena kho pana samayena āyasmā kumārakassapo andhavane viharati. ",
-            "de": "Zu dieser Zeit nun hielt sich der Ehrwürdige <span class=\"scv-matched\">Kassapa der Prinz</span> im Finsteren Wald auf. ",
+            "de": "Zu dieser Zeit nun hielt sich der Ehrwürdige <span class=\"ebt-matched\">Kassapa der Prinz</span> im Finsteren Wald auf. ",
             "en": "Now at that time Venerable Kassapa the Prince was staying in the Dark Forest. ",
             "matched": true
           },
@@ -160,14 +160,14 @@
           "mn23:3.1": {
             "scid": "mn23:3.1",
             "pli": "Atha kho āyasmā kumārakassapo tassā rattiyā accayena yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā kumārakassapo bhagavantaṁ etadavoca: ",
-            "de": "Als dann die Nacht vorüber war, ging <span class=\"scv-matched\">Kassapa der Prinz</span> zum Buddha, verbeugte sich, setzte sich zur Seite hin und sagte zu ihm: ",
+            "de": "Als dann die Nacht vorüber war, ging <span class=\"ebt-matched\">Kassapa der Prinz</span> zum Buddha, verbeugte sich, setzte sich zur Seite hin und sagte zu ihm: ",
             "en": "Then, when the night had passed, Kassapa the Prince went to the Buddha, bowed, sat down to one side, and told him what had happened. Then he asked: ",
             "matched": true
           },
           "mn23:4.41": {
             "scid": "mn23:4.41",
             "pli": "Attamano āyasmā kumārakassapo bhagavato bhāsitaṁ abhinandīti. ",
-            "de": "Zufrieden freute sich der Ehrwürdige <span class=\"scv-matched\">Kassapa der Prinz</span> über die Worte des Buddha. ",
+            "de": "Zufrieden freute sich der Ehrwürdige <span class=\"ebt-matched\">Kassapa der Prinz</span> über die Worte des Buddha. ",
             "en": "Satisfied, Venerable Kassapa the Prince was happy with what the Buddha said. ",
             "matched": true
           }
@@ -199,7 +199,7 @@
           "an1.217:1.1": {
             "scid": "an1.217:1.1",
             "pli": "… Cittakathikānaṁ yadidaṁ kumārakassapo. ",
-            "de": "… mit geistvoller Rede ist <span class=\"scv-matched\">Kassapa der Prinz</span>. ",
+            "de": "… mit geistvoller Rede ist <span class=\"ebt-matched\">Kassapa der Prinz</span>. ",
             "en": "… with brilliant speech is Kassapa the Prince. ",
             "matched": true
           }

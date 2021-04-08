@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,14 +57,14 @@
           "dn25:9.5": {
             "scid": "dn25:9.5",
             "pli": "Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā attānukkaṁseti paraṁ vambheti. ",
-            "de": "Dann unternimmt da ein Büßender eine Bußübung. Er <span class=\"scv-matched\">verherrlicht sich deshalb selbst</span> und setzt andere herab. ",
+            "de": "Dann unternimmt da ein Büßender eine Bußübung. Er <span class=\"ebt-matched\">verherrlicht sich deshalb selbst</span> und setzt andere herab. ",
             "en": "Furthermore, a mortifier undertakes a practice of mortification. They glorify themselves and put others down on account of that. ",
             "matched": true
           },
           "dn25:10.4": {
             "scid": "dn25:10.4",
             "pli": "Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena attānukkaṁseti paraṁ vambheti. ",
-            "de": "Dann unternimmt da ein Büßender eine Bußübung. Er schafft sich durch diese Bußübung Besitz, Ehre und Beliebtheit. Er <span class=\"scv-matched\">verherrlicht sich deshalb selbst</span> und setzt andere herab. ",
+            "de": "Dann unternimmt da ein Büßender eine Bußübung. Er schafft sich durch diese Bußübung Besitz, Ehre und Beliebtheit. Er <span class=\"ebt-matched\">verherrlicht sich deshalb selbst</span> und setzt andere herab. ",
             "en": "Furthermore, a mortifier undertakes a practice of mortification. They generate possessions, honor, and popularity through that mortification. They glorify themselves and put others down on account of that. ",
             "matched": true
           },

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -69,14 +69,14 @@
           "an3.70:19.2": {
             "scid": "an3.70:19.2",
             "pli": "‘yāvajīvaṁ arahanto pāṇātipātaṁ pahāya pāṇātipātā paṭiviratā nihitadaṇḍā nihitasatthā lajjī dayāpannā sabbapāṇabhūtahitānukampī viharanti; ",
-            "de": "‚Solange sie leben, geben die Vollendeten das Töten lebender Geschöpfe auf und verzichten auf Stock und Schwert. Sie sind <span class=\"scv-matched\">gewissenhaft und gütig</span> und leben voller Anteilnahme für alle Lebewesen. ",
+            "de": "‚Solange sie leben, geben die Vollendeten das Töten lebender Geschöpfe auf und verzichten auf Stock und Schwert. Sie sind <span class=\"ebt-matched\">gewissenhaft und gütig</span> und leben voller Anteilnahme für alle Lebewesen. ",
             "en": "‘As long as they live, the perfected ones give up killing living creatures, renouncing the rod and the sword. They are scrupulous and kind, and live full of compassion for all living beings. ",
             "matched": true
           },
           "an3.70:19.3": {
             "scid": "an3.70:19.3",
             "pli": "ahampajja imañca rattiṁ imañca divasaṁ pāṇātipātaṁ pahāya pāṇātipātā paṭivirato nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharāmi. ",
-            "de": "Auch ich will für diesen Tag und diese Nacht das Töten lebender Geschöpfe aufgeben und auf Stock und Schwert verzichten. Ich will <span class=\"scv-matched\">gewissenhaft und gütig</span> sein und voller Anteilnahme für alle Lebewesen leben. ",
+            "de": "Auch ich will für diesen Tag und diese Nacht das Töten lebender Geschöpfe aufgeben und auf Stock und Schwert verzichten. Ich will <span class=\"ebt-matched\">gewissenhaft und gütig</span> sein und voller Anteilnahme für alle Lebewesen leben. ",
             "en": "I, too, for this day and night will give up killing living creatures, renouncing the rod and the sword. I’ll be scrupulous and kind, and live full of compassion for all living beings. ",
             "matched": true
           }
@@ -108,7 +108,7 @@
           "an4.198:8.1": {
             "scid": "an4.198:8.1",
             "pli": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. ",
-            "de": "Wenn sie fortgezogen ist, nimmt sie die Übung und die Lebensweise der Mönche und Nonnen auf. Sie gibt das Töten lebender Geschöpfe auf und verzichtet auf Stock und Schwert. Sie ist <span class=\"scv-matched\">gewissenhaft und gütig</span> und lebt voller Anteilnahme für alle Lebewesen. ",
+            "de": "Wenn sie fortgezogen ist, nimmt sie die Übung und die Lebensweise der Mönche und Nonnen auf. Sie gibt das Töten lebender Geschöpfe auf und verzichtet auf Stock und Schwert. Sie ist <span class=\"ebt-matched\">gewissenhaft und gütig</span> und lebt voller Anteilnahme für alle Lebewesen. ",
             "en": "Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. ",
             "matched": true
           }
@@ -140,7 +140,7 @@
           "dn10:1.11.2": {
             "scid": "dn10:1.11.2",
             "pli": "Idha, māṇava, bhikkhu pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. ",
-            "de": "Da gibt eine Nonne das Töten lebender Geschöpfe auf. Sie verzichtet auf Stock und Schwert. Sie ist <span class=\"scv-matched\">gewissenhaft und gütig</span> und lebt voller Anteilnahme für alle Lebewesen … ",
+            "de": "Da gibt eine Nonne das Töten lebender Geschöpfe auf. Sie verzichtet auf Stock und Schwert. Sie ist <span class=\"ebt-matched\">gewissenhaft und gütig</span> und lebt voller Anteilnahme für alle Lebewesen … ",
             "en": "It’s when a mendicant gives up killing living creatures. They renounce the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. … ",
             "matched": true
           }
@@ -172,7 +172,7 @@
           "dn30:1.10.2": {
             "scid": "dn30:1.10.2",
             "pli": "pāṇātipātaṁ pahāya pāṇātipātā paṭivirato ahosi nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī vihāsi. ",
-            "de": "Er gab das Töten lebender Geschöpfe auf und verzichtete auf Stock und Schwert. Er war <span class=\"scv-matched\">gewissenhaft und gütig</span> und lebte voller Anteilnahme für alle Lebewesen. ",
+            "de": "Er gab das Töten lebender Geschöpfe auf und verzichtete auf Stock und Schwert. Er war <span class=\"ebt-matched\">gewissenhaft und gütig</span> und lebte voller Anteilnahme für alle Lebewesen. ",
             "en": "He gave up killing living creatures, renouncing the rod and the sword. He was scrupulous and kind, living full of compassion for all living beings. ",
             "matched": true
           }

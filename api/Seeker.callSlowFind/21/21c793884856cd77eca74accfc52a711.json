@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,7 +65,7 @@
           "an4.41:3.3": {
             "scid": "an4.41:3.3",
             "pli": "yathā divā tathā rattiṁ, yathā rattiṁ tathā divā. ",
-            "de": "<span class=\"scv-matched\">bei Tag und Nacht, bei Nacht und Tag</span>. ",
+            "de": "<span class=\"ebt-matched\">bei Tag und Nacht, bei Nacht und Tag</span>. ",
             "en": "regardless of whether it’s night or day. ",
             "matched": true
           }
@@ -97,7 +97,7 @@
           "an6.29:5.1": {
             "scid": "an6.29:5.1",
             "pli": "“Puna caparaṁ, bhante, bhikkhu ālokasaññaṁ manasi karoti, divā saññaṁ adhiṭṭhāti, yathā divā tathā rattiṁ, yathā rattiṁ tathā divā; ",
-            "de": "Dann wendet sich da eine Nonne der Wahrnehmung von Licht zu, konzentriert sich auf die Wahrnehmung des Tages, <span class=\"scv-matched\">bei Tag und Nacht, bei Nacht und Tag</span>. ",
+            "de": "Dann wendet sich da eine Nonne der Wahrnehmung von Licht zu, konzentriert sich auf die Wahrnehmung des Tages, <span class=\"ebt-matched\">bei Tag und Nacht, bei Nacht und Tag</span>. ",
             "en": "Furthermore, a mendicant focuses on the perception of light, concentrating on the perception of day regardless of whether it is night or day. ",
             "matched": true
           }
@@ -129,7 +129,7 @@
           "dn33:1.11.35": {
             "scid": "dn33:1.11.35",
             "pli": "Idhāvuso, bhikkhu ālokasaññaṁ manasi karoti, divāsaññaṁ adhiṭṭhāti yathā divā tathā rattiṁ, yathā rattiṁ tathā divā. ",
-            "de": "Ein Mönch wendet sich der Wahrnehmung von Licht zu, konzentriert sich auf die Wahrnehmung des Tages, <span class=\"scv-matched\">bei Tag und Nacht, bei Nacht und Tag</span>. ",
+            "de": "Ein Mönch wendet sich der Wahrnehmung von Licht zu, konzentriert sich auf die Wahrnehmung des Tages, <span class=\"ebt-matched\">bei Tag und Nacht, bei Nacht und Tag</span>. ",
             "en": "A mendicant focuses on the perception of light, concentrating on the perception of day regardless of whether it is night or day. ",
             "matched": true
           }

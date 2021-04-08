@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,13 +72,13 @@
           "an8.53:2.10": {
             "scid": "an8.53:2.10",
             "pli": "dubbharatāya saṁvattanti, no subharatāyā’ti, ",
-            "en": "to being burdensome, not being <span class=\"scv-matched\">unburdensome</span>. ",
+            "en": "to being burdensome, not being <span class=\"ebt-matched\">unburdensome</span>. ",
             "matched": true
           },
           "an8.53:3.9": {
             "scid": "an8.53:3.9",
             "pli": "subharatāya saṁvattanti, no dubbharatāyā’ti, ",
-            "en": "to being <span class=\"scv-matched\">unburdensome</span>, not being burdensome. ",
+            "en": "to being <span class=\"ebt-matched\">unburdensome</span>, not being burdensome. ",
             "matched": true
           }
         },
@@ -107,7 +107,7 @@
           "an5.96:1.3": {
             "scid": "an5.96:1.3",
             "pli": "Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu; ",
-            "en": "It’s when a mendicant has few requirements and duties, and is <span class=\"scv-matched\">unburdensome</span> and contented with life’s necessities. ",
+            "en": "It’s when a mendicant has few requirements and duties, and is <span class=\"ebt-matched\">unburdensome</span> and contented with life’s necessities. ",
             "matched": true
           }
         },
@@ -136,7 +136,7 @@
           "an5.98:1.3": {
             "scid": "an5.98:1.3",
             "pli": "Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu; ",
-            "en": "It’s when a mendicant has few requirements and duties, and is <span class=\"scv-matched\">unburdensome</span> and contented with life’s necessities. ",
+            "en": "It’s when a mendicant has few requirements and duties, and is <span class=\"ebt-matched\">unburdensome</span> and contented with life’s necessities. ",
             "matched": true
           }
         },
@@ -165,7 +165,7 @@
           "an5.97:1.3": {
             "scid": "an5.97:1.3",
             "pli": "Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu; ",
-            "en": "It’s when a mendicant has few requirements and duties, and is <span class=\"scv-matched\">unburdensome</span> and contented with life’s necessities. ",
+            "en": "It’s when a mendicant has few requirements and duties, and is <span class=\"ebt-matched\">unburdensome</span> and contented with life’s necessities. ",
             "matched": true
           }
         },
@@ -194,7 +194,7 @@
           "kp9:2.1": {
             "scid": "kp9:2.1",
             "pli": "Santussako ca subharo ca,",
-            "en": "content and <span class=\"scv-matched\">unburdensome</span>,",
+            "en": "content and <span class=\"ebt-matched\">unburdensome</span>,",
             "matched": true
           }
         },
@@ -223,7 +223,7 @@
           "mn3:3.25": {
             "scid": "mn3:3.25",
             "pli": "Tañhi tassa, bhikkhave, bhikkhuno dīgharattaṁ appicchatāya santuṭṭhiyā sallekhāya subharatāya vīriyārambhāya saṁvattissati. ",
-            "en": "Because for a long time that will conduce to that mendicant being of few wishes, content, self-effacing, <span class=\"scv-matched\">unburdensome</span>, and energetic. ",
+            "en": "Because for a long time that will conduce to that mendicant being of few wishes, content, self-effacing, <span class=\"ebt-matched\">unburdensome</span>, and energetic. ",
             "matched": true
           }
         },
@@ -252,7 +252,7 @@
           "thag16.10:7.1": {
             "scid": "thag16.10:7.1",
             "pli": "Nīcā niviṭṭhā subharā,",
-            "en": "They were used to simple things, <span class=\"scv-matched\">unburdensome</span>,",
+            "en": "They were used to simple things, <span class=\"ebt-matched\">unburdensome</span>,",
             "matched": true
           }
         },

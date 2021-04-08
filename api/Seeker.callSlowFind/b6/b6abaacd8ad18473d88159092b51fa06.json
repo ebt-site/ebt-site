@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,14 +65,14 @@
           "dn10:2.23.1": {
             "scid": "dn10:2.23.1",
             "pli": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte manomayaṁ kāyaṁ abhinimmānāya cittaṁ abhinīharati abhininnāmeti. ",
-            "de": "Wenn ihr Geist so im Samādhi versunken ist – geläutert, hell, makellos, fleckenlos, geschmeidig, formbar, stetig und unerschütterlich –, dann lenkt und richtet sie ihn auf das Hervorbringen eines <span class=\"scv-matched\">geistgeschaffenen Körper</span>s. ",
+            "de": "Wenn ihr Geist so im Samādhi versunken ist – geläutert, hell, makellos, fleckenlos, geschmeidig, formbar, stetig und unerschütterlich –, dann lenkt und richtet sie ihn auf das Hervorbringen eines <span class=\"ebt-matched\">geistgeschaffenen Körper</span>s. ",
             "en": "When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they extend it and project it toward the creation of a mind-made body. ",
             "matched": true
           },
           "dn10:2.24.10": {
             "scid": "dn10:2.24.10",
             "pli": "Evameva kho, māṇava, bhikkhu …pe… ",
-            "de": "Ebenso lenkt und richtet eine Nonne ihren Geist, wenn er so im Samādhi versunken ist – geläutert, hell, makellos, fleckenlos, geschmeidig, formbar, stetig und unerschütterlich –, auf das Hervorbringen eines <span class=\"scv-matched\">geistgeschaffenen Körper</span>s. ",
+            "de": "Ebenso lenkt und richtet eine Nonne ihren Geist, wenn er so im Samādhi versunken ist – geläutert, hell, makellos, fleckenlos, geschmeidig, formbar, stetig und unerschütterlich –, auf das Hervorbringen eines <span class=\"ebt-matched\">geistgeschaffenen Körper</span>s. ",
             "en": "In the same way, when their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they extend it and project it toward the creation of a mind-made body. ",
             "matched": true
           }
@@ -104,7 +104,7 @@
           "an1.198:1.1": {
             "scid": "an1.198:1.1",
             "pli": "“Etadaggaṁ, bhikkhave, mama sāvakānaṁ bhikkhūnaṁ manomayaṁ kāyaṁ abhinimminantānaṁ yadidaṁ cūḷapanthako. ",
-            "de": "„Der Vorderste unter meinen Mönchsschülern, was das Hervorbringen eines <span class=\"scv-matched\">geistgeschaffenen Körper</span>s betrifft, ist Cūḷapanthaka. ",
+            "de": "„Der Vorderste unter meinen Mönchsschülern, was das Hervorbringen eines <span class=\"ebt-matched\">geistgeschaffenen Körper</span>s betrifft, ist Cūḷapanthaka. ",
             "en": "“The foremost of my monk disciples in creating a mind-made body is Cūḷapanthaka. ",
             "matched": true
           }
@@ -136,7 +136,7 @@
           "an5.166:10.2": {
             "scid": "an5.166:10.2",
             "pli": "“kaṁ pana tvaṁ, udāyi, manomayaṁ kāyaṁ paccesī”ti? ",
-            "de": "„Aber Udāyī, glaubst du an einen <span class=\"scv-matched\">geistgeschaffenen Körper</span>?“ ",
+            "de": "„Aber Udāyī, glaubst du an einen <span class=\"ebt-matched\">geistgeschaffenen Körper</span>?“ ",
             "en": "“But Udāyī, do you believe in a mind-made body?” ",
             "matched": true
           }

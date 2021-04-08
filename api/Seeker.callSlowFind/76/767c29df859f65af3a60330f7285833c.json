@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -81,7 +81,7 @@
           "an3.93:3.2": {
             "scid": "an3.93:3.2",
             "pli": "Sākabhakkhāpi honti, sāmākabhakkhāpi honti, nīvārabhakkhāpi honti, daddulabhakkhāpi honti, haṭabhakkhāpi honti, kaṇabhakkhāpi honti, ācāmabhakkhāpi honti, piññākabhakkhāpi honti, tiṇabhakkhāpi honti, gomayabhakkhāpi honti, vanamūlaphalāhārā yāpenti pavattaphalabhojī. ",
-            "en": "They eat <span class=\"scv-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
+            "en": "They eat <span class=\"ebt-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
         },
@@ -110,7 +110,7 @@
           "an3.156:3.1": {
             "scid": "an3.156:3.1",
             "pli": "So sākabhakkhopi hoti, sāmākabhakkhopi hoti, nīvārabhakkhopi hoti, daddulabhakkhopi hoti, haṭabhakkhopi hoti, kaṇabhakkhopi hoti, ācāmabhakkhopi hoti, piññākabhakkhopi hoti, tiṇabhakkhopi hoti, gomayabhakkhopi hoti, vanamūlaphalāhāro yāpeti pavattaphalabhojī. ",
-            "en": "They eat <span class=\"scv-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
+            "en": "They eat <span class=\"ebt-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
         },
@@ -139,7 +139,7 @@
           "mn45:5.7": {
             "scid": "mn45:5.7",
             "pli": "So sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, gomayabhakkho vā hoti, vanamūlaphalāhāro yāpeti pavattaphalabhojī. ",
-            "en": "They eat <span class=\"scv-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
+            "en": "They eat <span class=\"ebt-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
         },
@@ -168,7 +168,7 @@
           "an4.198:3.1": {
             "scid": "an4.198:3.1",
             "pli": "So sākabhakkhopi hoti sāmākabhakkhopi hoti nīvārabhakkhopi hoti daddulabhakkhopi hoti haṭabhakkhopi hoti kaṇabhakkhopi hoti ācāmabhakkhopi hoti piññākabhakkhopi hoti tiṇabhakkhopi hoti gomayabhakkhopi hoti; vanamūlaphalāhāropi yāpeti pavattaphalabhojī. ",
-            "en": "They eat <span class=\"scv-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
+            "en": "They eat <span class=\"ebt-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
         },
@@ -197,7 +197,7 @@
           "mn25:9.8": {
             "scid": "mn25:9.8",
             "pli": "Te tattha sākabhakkhāpi ahesuṁ, sāmākabhakkhāpi ahesuṁ, nīvārabhakkhāpi ahesuṁ, daddulabhakkhāpi ahesuṁ, haṭabhakkhāpi ahesuṁ, kaṇabhakkhāpi ahesuṁ, ācāmabhakkhāpi ahesuṁ, piññākabhakkhāpi ahesuṁ, tiṇabhakkhāpi ahesuṁ, gomayabhakkhāpi ahesuṁ, vanamūlaphalāhārā yāpesuṁ pavattaphalabhojī. ",
-            "en": "They ate <span class=\"scv-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survived on forest roots and fruits, or eating fallen fruit. ",
+            "en": "They ate <span class=\"ebt-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survived on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
         },
@@ -226,7 +226,7 @@
           "mn51:8.6": {
             "scid": "mn51:8.6",
             "pli": "So sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, gomayabhakkho vā hoti; vanamūlaphalāhāro yāpeti pavattaphalabhojī. ",
-            "en": "They eat <span class=\"scv-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
+            "en": "They eat <span class=\"ebt-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
         },
@@ -255,7 +255,7 @@
           "mn94:10.7": {
             "scid": "mn94:10.7",
             "pli": "So sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, gomayabhakkho vā hoti, vanamūlaphalāhāro yāpeti pavattaphalabhojī. ",
-            "en": "They eat <span class=\"scv-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
+            "en": "They eat <span class=\"ebt-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
         },
@@ -284,7 +284,7 @@
           "dn8:14.9": {
             "scid": "dn8:14.9",
             "pli": "Sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, gomayabhakkho vā hoti, vanamūlaphalāhāro yāpeti pavattaphalabhojī. ",
-            "en": "They eat <span class=\"scv-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
+            "en": "They eat <span class=\"ebt-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
         },
@@ -313,7 +313,7 @@
           "dn25:8.8": {
             "scid": "dn25:8.8",
             "pli": "So sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, gomayabhakkho vā hoti; vanamūlaphalāhāro yāpeti pavattaphalabhojī. ",
-            "en": "They eat <span class=\"scv-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
+            "en": "They eat <span class=\"ebt-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
         },
@@ -342,7 +342,7 @@
           "mn12:45.6": {
             "scid": "mn12:45.6",
             "pli": "So sākabhakkho vā homi, sāmākabhakkho vā homi, nīvārabhakkho vā homi, daddulabhakkho vā homi, haṭabhakkho vā homi, kaṇabhakkho vā homi, ācāmabhakkho vā homi, piññākabhakkho vā homi, tiṇabhakkho vā homi, gomayabhakkho vā homi, vanamūlaphalāhāro yāpemi pavattaphalabhojī. ",
-            "en": "I ate <span class=\"scv-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. I survived on forest roots and fruits, or eating fallen fruit. ",
+            "en": "I ate <span class=\"ebt-matched\">herbs, millet</span>, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. I survived on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
         },

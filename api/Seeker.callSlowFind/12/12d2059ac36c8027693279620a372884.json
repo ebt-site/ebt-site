@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -81,21 +81,21 @@
           "dn33:1.10.123": {
             "scid": "dn33:1.10.123",
             "pli": "suññato samādhi, animitto samādhi, appaṇihito samādhi. ",
-            "de": "Versenkung in Leerheit, <span class=\"scv-matched\">merkmalslos</span>e Versenkung und ungerichtete Versenkung. ",
+            "de": "Versenkung in Leerheit, <span class=\"ebt-matched\">merkmalslos</span>e Versenkung und ungerichtete Versenkung. ",
             "en": "emptiness, signless, and undirected. ",
             "matched": true
           },
           "dn33:2.2.99": {
             "scid": "dn33:2.2.99",
             "pli": "‘animittā hi kho me cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā. ",
-            "de": "‚Ich habe die <span class=\"scv-matched\">merkmalslos</span>e Erlösung des Herzens entwickelt. Ich habe sie gepflegt, sie zu meinem Fahrzeug und meiner Grundlage gemacht, habe sie hochgehalten, gefestigt und richtig umgesetzt. ",
+            "de": "‚Ich habe die <span class=\"ebt-matched\">merkmalslos</span>e Erlösung des Herzens entwickelt. Ich habe sie gepflegt, sie zu meinem Fahrzeug und meiner Grundlage gemacht, habe sie hochgehalten, gefestigt und richtig umgesetzt. ",
             "en": "‘I’ve developed the signless release of the heart. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. ",
             "matched": true
           },
           "dn33:2.2.104": {
             "scid": "dn33:2.2.104",
             "pli": "Nissaraṇaṁ hetaṁ, āvuso, sabbanimittānaṁ, yadidaṁ animittā cetovimuttī’ti.  ",
-            "de": "Denn durch die <span class=\"scv-matched\">merkmalslos</span>e Erlösung des Herzens entrinnt man allen Merkmalen.‘ ",
+            "de": "Denn durch die <span class=\"ebt-matched\">merkmalslos</span>e Erlösung des Herzens entrinnt man allen Merkmalen.‘ ",
             "en": "For it is the signless release of the heart that is the escape from all signs.’ ",
             "matched": true
           }
@@ -127,14 +127,14 @@
           "an6.13:5.2": {
             "scid": "an6.13:5.2",
             "pli": "‘animittā hi kho me cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā; ",
-            "de": "‚Ich habe die <span class=\"scv-matched\">merkmalslos</span>e Erlösung des Herzens entwickelt. Ich habe sie gepflegt, sie zu meinem Fahrzeug und meiner Grundlage gemacht, habe sie hochgehalten, gefestigt und richtig umgesetzt. ",
+            "de": "‚Ich habe die <span class=\"ebt-matched\">merkmalslos</span>e Erlösung des Herzens entwickelt. Ich habe sie gepflegt, sie zu meinem Fahrzeug und meiner Grundlage gemacht, habe sie hochgehalten, gefestigt und richtig umgesetzt. ",
             "en": "‘I’ve developed the signless release of the heart. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. ",
             "matched": true
           },
           "an6.13:5.7": {
             "scid": "an6.13:5.7",
             "pli": "Nissaraṇañhetaṁ, āvuso, sabbanimittānaṁ yadidaṁ animittācetovimuttī’ti. ",
-            "de": "Denn durch die <span class=\"scv-matched\">merkmalslos</span>e Erlösung des Herzens entrinnt man allen Merkmalen.‘ ",
+            "de": "Denn durch die <span class=\"ebt-matched\">merkmalslos</span>e Erlösung des Herzens entrinnt man allen Merkmalen.‘ ",
             "en": "For it is the signless release of the heart that is the escape from all signs.’ ",
             "matched": true
           }
@@ -166,14 +166,14 @@
           "dn34:1.7.58": {
             "scid": "dn34:1.7.58",
             "pli": "‘animittā hi kho me cetovimutti bhāvitā …pe… ",
-            "de": "‚Ich habe die <span class=\"scv-matched\">merkmalslos</span>e Erlösung des Herzens entwickelt … ",
+            "de": "‚Ich habe die <span class=\"ebt-matched\">merkmalslos</span>e Erlösung des Herzens entwickelt … ",
             "en": "‘I’ve developed the signless release of the heart. … ",
             "matched": true
           },
           "dn34:1.7.61": {
             "scid": "dn34:1.7.61",
             "pli": "nissaraṇaṁ hetaṁ, āvuso, sabbanimittānaṁ yadidaṁ animittā cetovimuttī’ti.  ",
-            "de": "Denn durch die <span class=\"scv-matched\">merkmalslos</span>e Erlösung des Herzens entrinnt man allen Merkmalen.‘ ",
+            "de": "Denn durch die <span class=\"ebt-matched\">merkmalslos</span>e Erlösung des Herzens entrinnt man allen Merkmalen.‘ ",
             "en": "For it is the signless release of the heart that is the escape from all signs.’ ",
             "matched": true
           }
@@ -205,7 +205,7 @@
           "thig2.1:2.1": {
             "scid": "thig2.1:2.1",
             "pli": "Animittañca bhāvehi,",
-            "de": "Meditiere über das <span class=\"scv-matched\">Merkmalslos</span>e, ",
+            "de": "Meditiere über das <span class=\"ebt-matched\">Merkmalslos</span>e, ",
             "en": "Meditate on the signless,",
             "matched": true
           }
@@ -237,7 +237,7 @@
           "thig3.3:2.2": {
             "scid": "thig3.3:2.2",
             "pli": "lābhinīhaṁ yadicchakaṁ;",
-            "de": "und <span class=\"scv-matched\">Merkmalslos</span>igkeit, wann immer ich will. ",
+            "de": "und <span class=\"ebt-matched\">Merkmalslos</span>igkeit, wann immer ich will. ",
             "en": "and signlessness whenever I want.",
             "matched": true
           }
@@ -269,7 +269,7 @@
           "sn47.9:5.1": {
             "scid": "sn47.9:5.1",
             "pli": "Yasmiṁ, ānanda, samaye tathāgato sabbanimittānaṁ amanasikārā ekaccānaṁ vedanānaṁ nirodhā animittaṁ cetosamādhiṁ upasampajja viharati, phāsutaro, ānanda, tasmiṁ samaye tathāgatassa kāyo hoti. ",
-            "de": "Manchmal wendet der Klargewordene seine Aufmerksamkeit von allen Merkmalen ab, und mit dem Aufhören bestimmter Gefühle tritt er in die <span class=\"scv-matched\">merkmalslos</span>e Versenkung des Herzens ein und verweilt darin. Nur dann hat der Körper des Klargewordenen weniger Beschwerden. ",
+            "de": "Manchmal wendet der Klargewordene seine Aufmerksamkeit von allen Merkmalen ab, und mit dem Aufhören bestimmter Gefühle tritt er in die <span class=\"ebt-matched\">merkmalslos</span>e Versenkung des Herzens ein und verweilt darin. Nur dann hat der Körper des Klargewordenen weniger Beschwerden. ",
             "en": "Sometimes the Realized One, not focusing on any signs, and with the cessation of certain feelings, enters and remains in the signless immersion of the heart. Only then does the Realized One’s body become more comfortable. ",
             "matched": true
           }
@@ -301,7 +301,7 @@
           "an3.183-352:1.3": {
             "scid": "an3.183-352:1.3",
             "pli": "Suññato samādhi, animitto samādhi, appaṇihito samādhi—",
-            "de": "Versenkung in die Leerheit, <span class=\"scv-matched\">merkmalslos</span>e Versenkung und ungerichtete Versenkung. ",
+            "de": "Versenkung in die Leerheit, <span class=\"ebt-matched\">merkmalslos</span>e Versenkung und ungerichtete Versenkung. ",
             "en": "Emptiness immersion; signless immersion; and undirected immersion. ",
             "matched": true
           }

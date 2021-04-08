@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -81,7 +81,7 @@
           "an10.62:6.23": {
             "scid": "an10.62:6.23",
             "pli": "Ko cāhāro saddhāya? ",
-            "en": "And what is the fuel <span class=\"scv-matched\">for faith</span>? ",
+            "en": "And what is the fuel <span class=\"ebt-matched\">for faith</span>? ",
             "matched": true
           }
         },
@@ -116,7 +116,7 @@
           "an10.61:6.23": {
             "scid": "an10.61:6.23",
             "pli": "Ko cāhāro saddhāya? ",
-            "en": "And what is the fuel <span class=\"scv-matched\">for faith</span>? ",
+            "en": "And what is the fuel <span class=\"ebt-matched\">for faith</span>? ",
             "matched": true
           }
         },
@@ -145,7 +145,7 @@
           "sn12.23:6.12": {
             "scid": "sn12.23:6.12",
             "pli": "dukkhūpanisā saddhā, ",
-            "en": "Suffering is a vital condition <span class=\"scv-matched\">for faith</span>. ",
+            "en": "Suffering is a vital condition <span class=\"ebt-matched\">for faith</span>. ",
             "matched": true
           },
           "sn12.23:6.13": {
@@ -180,7 +180,7 @@
           "ud2.8:11.5": {
             "scid": "ud2.8:11.5",
             "pli": "Saddhāya pana tvaṁyeva pāṭibhogo”ti.",
-            "en": "But as <span class=\"scv-matched\">for faith</span>, you alone are the guarantor.”",
+            "en": "But as <span class=\"ebt-matched\">for faith</span>, you alone are the guarantor.”",
             "matched": true
           }
         },

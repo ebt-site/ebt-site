@@ -1,15 +1,15 @@
 <template>
-  <scv-article :article="article">
+  <ebt-article :article="article">
     <nuxt-content :document="article" />
-  </scv-article>
+  </ebt-article>
 </template>
 <script>
-  import ScvArticle from '@/components/scv-article';
+  import EbtArticle from '@/components/ebt-article';
   export default {
     async asyncData({ $content, params }) {
       const article = await $content('sites', params.slug).fetch()
       return { article }
     },
-    components: { ScvArticle, },
+    components: { EbtArticle, },
   }
 </script>

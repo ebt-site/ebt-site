@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an5.193:2.2": {
             "scid": "an5.193:2.2",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto saṁsaṭṭho lākhāya vā haliddiyā vā nīliyā vā mañjiṭṭhāya vā. ",
-            "de": "Wie eine Schale mit <span class=\"scv-matched\">Wasser, das mit Färbemittel</span> wie rotem Lack, Gelbwurz, Indigo oder Färberkrapp vermischt ist: ",
+            "de": "Wie eine Schale mit <span class=\"ebt-matched\">Wasser, das mit Färbemittel</span> wie rotem Lack, Gelbwurz, Indigo oder Färberkrapp vermischt ist: ",
             "en": "Suppose there was a bowl of water that was mixed with dye such as red lac, turmeric, indigo, or rose madder. ",
             "matched": true
           },
@@ -100,7 +100,7 @@
           "sn46.55:4.1": {
             "scid": "sn46.55:4.1",
             "pli": "Seyyathāpi, brāhmaṇa, udapatto saṁsaṭṭho lākhāya vā haliddiyā vā nīliyā vā mañjiṭṭhāya vā. ",
-            "de": "Wie eine Schale mit <span class=\"scv-matched\">Wasser, das mit Färbemittel</span> wie rotem Lack, Gelbwurz, Indigo oder Färberkrapp vermischt ist: ",
+            "de": "Wie eine Schale mit <span class=\"ebt-matched\">Wasser, das mit Färbemittel</span> wie rotem Lack, Gelbwurz, Indigo oder Färberkrapp vermischt ist: ",
             "en": "Suppose there was a bowl of water that was mixed with dye such as red lac, turmeric, indigo, or rose madder. ",
             "matched": true
           },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "an6.44:2.1": {
             "scid": "an6.44:2.1",
             "pli": "“Kathaṁ kathaṁ nāmāyaṁ, bhante ānanda, bhagavatā dhammo desito aññeyyo, yatra hi nāma brahmacārī ca abrahmacārī ca ubho samasamagatikā bhavissanti abhisamparāyaṁ? ",
-            "en": "“Sir, Ānanda, how on earth are we supposed to understand the teaching taught by the Buddha, when the <span class=\"scv-matched\">chaste and the unchaste</span> are both reborn in exactly the same place in the next life? ",
+            "en": "“Sir, Ānanda, how on earth are we supposed to understand the teaching taught by the Buddha, when the <span class=\"ebt-matched\">chaste and the unchaste</span> are both reborn in exactly the same place in the next life? ",
             "matched": true
           },
           "an6.44:2.6": {
             "scid": "an6.44:2.6",
             "pli": "Kathaṁ kathaṁ nāmāyaṁ, bhante ānanda, bhagavatā dhammo desito aññeyyo, yatra hi nāma brahmacārī ca abrahmacārī ca ubho samasamagatikā bhavissanti abhisamparāyan”ti? ",
-            "en": "How on earth are we supposed to understand the teaching taught by the Buddha, when the <span class=\"scv-matched\">chaste and the unchaste</span> are both reborn in exactly the same place in the next life?” ",
+            "en": "How on earth are we supposed to understand the teaching taught by the Buddha, when the <span class=\"ebt-matched\">chaste and the unchaste</span> are both reborn in exactly the same place in the next life?” ",
             "matched": true
           }
         },
@@ -92,13 +92,13 @@
           "an10.75:2.1": {
             "scid": "an10.75:2.1",
             "pli": "“Kathaṁ kathaṁ nāmāyaṁ, bhante ānanda, bhagavatā dhammo desito aññeyyo, yatra hi nāma brahmacārī ca abrahmacārī ca ubho samasamagatikā bhavissanti abhisamparāyaṁ. ",
-            "en": "“Sir, Ānanda, how on earth are we supposed to understand the teaching taught by the Buddha, when the <span class=\"scv-matched\">chaste and the unchaste</span> are both reborn in exactly the same place in the next life? ",
+            "en": "“Sir, Ānanda, how on earth are we supposed to understand the teaching taught by the Buddha, when the <span class=\"ebt-matched\">chaste and the unchaste</span> are both reborn in exactly the same place in the next life? ",
             "matched": true
           },
           "an10.75:3.1": {
             "scid": "an10.75:3.1",
             "pli": "Kathaṁ kathaṁ nāmāyaṁ, bhante ānanda, bhagavatā dhammo desito aññeyyo, yatra hi nāma brahmacārī ca abrahmacārī ca ubho samasamagatikā bhavissanti abhisamparāyan”ti? ",
-            "en": "How on earth are we supposed to understand the teaching taught by the Buddha, when the <span class=\"scv-matched\">chaste and the unchaste</span> are both reborn in exactly the same place in the next life?” ",
+            "en": "How on earth are we supposed to understand the teaching taught by the Buddha, when the <span class=\"ebt-matched\">chaste and the unchaste</span> are both reborn in exactly the same place in the next life?” ",
             "matched": true
           }
         },

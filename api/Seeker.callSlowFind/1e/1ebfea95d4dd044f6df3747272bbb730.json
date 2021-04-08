@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "an3.25:1.3": {
             "scid": "an3.25:1.3",
             "pli": "Arukūpamacitto puggalo, vijjūpamacitto puggalo, vajirūpamacitto puggalo. ",
-            "en": "A person with a mind like an open sore, a person with a mind <span class=\"scv-matched\">like lightning</span>, and a person with a mind like diamond. ",
+            "en": "A person with a mind like an open sore, a person with a mind <span class=\"ebt-matched\">like lightning</span>, and a person with a mind like diamond. ",
             "matched": true
           },
           "an3.25:2.1": {
             "scid": "an3.25:2.1",
             "pli": "Katamo ca, bhikkhave, vijjūpamacitto puggalo? ",
-            "en": "And who has a mind <span class=\"scv-matched\">like lightning</span>? ",
+            "en": "And who has a mind <span class=\"ebt-matched\">like lightning</span>? ",
             "matched": true
           },
           "an3.25:2.3": {
@@ -75,7 +75,7 @@
           "an3.25:2.5": {
             "scid": "an3.25:2.5",
             "pli": "Ayaṁ vuccati, bhikkhave, vijjūpamacitto puggalo. ",
-            "en": "This is called a person with a mind <span class=\"scv-matched\">like lightning</span>. ",
+            "en": "This is called a person with a mind <span class=\"ebt-matched\">like lightning</span>. ",
             "matched": true
           }
         },
@@ -104,7 +104,7 @@
           "sn4.6:2.8": {
             "scid": "sn4.6:2.8",
             "pli": "Seyyathāpi nāma deve gaḷagaḷāyante vijjullatā niccharanti; ",
-            "en": "Its tongue flickered from its mouth <span class=\"scv-matched\">like lightning</span> flashes in a thunderstorm. ",
+            "en": "Its tongue flickered from its mouth <span class=\"ebt-matched\">like lightning</span> flashes in a thunderstorm. ",
             "matched": true
           }
         },

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn47.9:4.3": {
             "scid": "sn47.9:4.3",
             "pli": "Natthānanda, tathāgatassa dhammesu ācariyamuṭṭhi. ",
-            "de": "Der Klargewordene hat nicht die <span class=\"scv-matched\">geschlossene Faust eines Lehrers</span>, wenn es um die Lehren geht. ",
+            "de": "Der Klargewordene hat nicht die <span class=\"ebt-matched\">geschlossene Faust eines Lehrers</span>, wenn es um die Lehren geht. ",
             "en": "The Realized One doesn’t have the closed fist of a teacher when it comes to the teachings. ",
             "matched": true
           }

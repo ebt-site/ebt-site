@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -99,13 +99,13 @@
           "dn14:3.11.7": {
             "scid": "dn14:3.11.7",
             "pli": "‘yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman’ti. ",
-            "en": "‘Everything that <span class=\"scv-matched\">has a beginning has an end</span>.’ ",
+            "en": "‘Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.’ ",
             "matched": true
           },
           "dn14:3.15.7": {
             "scid": "dn14:3.15.7",
             "pli": "‘yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman’ti. ",
-            "en": "‘Everything that <span class=\"scv-matched\">has a beginning has an end</span>.’ ",
+            "en": "‘Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.’ ",
             "matched": true
           }
         },
@@ -134,7 +134,7 @@
           "sn35.74:21.4": {
             "scid": "sn35.74:21.4",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "en": "“Everything that <span class=\"scv-matched\">has a beginning has an end</span>.” ",
+            "en": "“Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.” ",
             "matched": true
           }
         },
@@ -163,7 +163,7 @@
           "sn56.11:11.2": {
             "scid": "sn56.11:11.2",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "en": "“Everything that <span class=\"scv-matched\">has a beginning has an end</span>.” ",
+            "en": "“Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.” ",
             "matched": true
           }
         },
@@ -192,7 +192,7 @@
           "an8.21:4.8": {
             "scid": "an8.21:4.8",
             "pli": "‘yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman’ti. ",
-            "en": "‘Everything that <span class=\"scv-matched\">has a beginning has an end</span>.’ ",
+            "en": "‘Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.’ ",
             "matched": true
           }
         },
@@ -221,7 +221,7 @@
           "ud5.3:4.13": {
             "scid": "ud5.3:4.13",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti.",
-            "en": "“Everything that <span class=\"scv-matched\">has a beginning has an end</span>.” ",
+            "en": "“Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.” ",
             "matched": true
           }
         },
@@ -250,7 +250,7 @@
           "an8.22:4.9": {
             "scid": "an8.22:4.9",
             "pli": "‘yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman’ti. ",
-            "en": "‘Everything that <span class=\"scv-matched\">has a beginning has an end</span>.’ ",
+            "en": "‘Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.’ ",
             "matched": true
           }
         },
@@ -279,7 +279,7 @@
           "sn35.245:4.3": {
             "scid": "sn35.245:4.3",
             "pli": "“Yato kho, āvuso, bhikkhu yaṁ kiñci samudayadhammaṁ, sabbaṁ taṁ nirodhadhammanti yathābhūtaṁ pajānāti, ettāvatā kho, āvuso, bhikkhuno dassanaṁ suvisuddhaṁ hotī”ti. ",
-            "en": "“When a mendicant truly understands that everything that <span class=\"scv-matched\">has a beginning has an end</span>, at that point their vision is well purified.” ",
+            "en": "“When a mendicant truly understands that everything that <span class=\"ebt-matched\">has a beginning has an end</span>, at that point their vision is well purified.” ",
             "matched": true
           }
         },
@@ -308,7 +308,7 @@
           "sn35.121:53.5": {
             "scid": "sn35.121:53.5",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "en": "“Everything that <span class=\"scv-matched\">has a beginning has an end</span>.” ",
+            "en": "“Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.” ",
             "matched": true
           }
         },
@@ -337,7 +337,7 @@
           "mn74:15.2": {
             "scid": "mn74:15.2",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "en": "“Everything that <span class=\"scv-matched\">has a beginning has an end</span>.” ",
+            "en": "“Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.” ",
             "matched": true
           }
         },
@@ -366,7 +366,7 @@
           "mn147:9.13": {
             "scid": "mn147:9.13",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "en": "“Everything that <span class=\"scv-matched\">has a beginning has an end</span>.” ",
+            "en": "“Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.” ",
             "matched": true
           }
         },
@@ -395,7 +395,7 @@
           "an8.12:28.7": {
             "scid": "an8.12:28.7",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "en": "“Everything that <span class=\"scv-matched\">has a beginning has an end</span>.” ",
+            "en": "“Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.” ",
             "matched": true
           }
         },
@@ -424,7 +424,7 @@
           "dn5:29.8": {
             "scid": "dn5:29.8",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "en": "“Everything that <span class=\"scv-matched\">has a beginning has an end</span>.” ",
+            "en": "“Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.” ",
             "matched": true
           }
         },
@@ -453,7 +453,7 @@
           "mn56:18.7": {
             "scid": "mn56:18.7",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "en": "“Everything that <span class=\"scv-matched\">has a beginning has an end</span>.” ",
+            "en": "“Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.” ",
             "matched": true
           }
         },
@@ -482,7 +482,7 @@
           "mn91:36.8": {
             "scid": "mn91:36.8",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "en": "“Everything that <span class=\"scv-matched\">has a beginning has an end</span>.” ",
+            "en": "“Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.” ",
             "matched": true
           }
         },
@@ -511,7 +511,7 @@
           "dn3:2.21.8": {
             "scid": "dn3:2.21.8",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "en": "“Everything that <span class=\"scv-matched\">has a beginning has an end</span>.” ",
+            "en": "“Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.” ",
             "matched": true
           }
         },
@@ -540,7 +540,7 @@
           "dn21:2.10.10": {
             "scid": "dn21:2.10.10",
             "pli": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. ",
-            "en": "“Everything that <span class=\"scv-matched\">has a beginning has an end</span>.” ",
+            "en": "“Everything that <span class=\"ebt-matched\">has a beginning has an end</span>.” ",
             "matched": true
           }
         },

@@ -1,22 +1,22 @@
 <template>
   <v-sheet light class="desktop" >
     <div class="desktop-search">
-      <scv-search-field :js="js"
+      <ebt-search-field :js="js"
         v-on:search-text="search"
       />
-      <scv-results :js="js"/>
+      <ebt-results :js="js"/>
     </div>
-    <scv-sutta :js="js" />
+    <ebt-sutta :js="js" />
   </v-sheet>
 </template>
 
 <script>
 import Vue from 'vue';
-import { ScvVue } from './index';
-import ScvSearchField from './scv-search-field';
-import ScvResults from './scv-results';
-import ScvSettings from './scv-settings';
-import ScvSutta from './scv-sutta';
+import { EbtVue } from './index';
+import EbtSearchField from './ebt-search-field';
+import EbtResults from './ebt-results';
+import EbtSettings from './ebt-settings';
+import EbtSutta from './ebt-sutta';
 
 const JS = {
   BilaraWeb: require('../src/bilara-web'),
@@ -25,10 +25,10 @@ const JS = {
 
 export default {
   components: {
-    ScvSearchField,
-    ScvResults,
-    ScvSutta,
-    ScvSettings,
+    EbtSearchField,
+    EbtResults,
+    EbtSutta,
+    EbtSettings,
   },
   data: function(){
     return {

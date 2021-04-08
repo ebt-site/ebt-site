@@ -45,14 +45,14 @@
         should(bw.isExample('Wurzel des Leidens', 'de')).equal(true);
         should(bw.isExample('wurzel des leidens', 'de')).equal(true);
     });
-    it("exampleGuid(...) => en guid", async()=>{
+    it("TESTTESTexampleGuid(...) => en guid", async()=>{
         let bw = new BilaraWeb({fetch});
         let example = 'root of suffering';
         let lang = 'en';
         let guid = 'f0f933e47f162a7a7824c1378804efbf';
         should(bw.exampleGuid(example, lang)).equal(guid);
     });
-    it("exampleGuid(...) => de guid", async()=>{
+    it("TESTTESTexampleGuid(...) => de guid", async()=>{
         let bw = new BilaraWeb({fetch});
         let example = 'sei.* abhängig entstanden';
         let lang = 'de';
@@ -101,7 +101,7 @@
         should.deepEqual(segments2[0], {
             scid: 'sn12.23:1.5', 
             pli: 'iti vedanā …pe…', 
-            en: 'Such <span class="scv-matched">is feeling</span> …',
+            en: 'Such <span class="ebt-matched">is feeling</span> …',
         });
         
     });

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "sn12.21:1.8": {
             "scid": "sn12.21:1.8",
             "pli": "Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati. ",
-            "de": "<span class=\"scv-matched\">Wenn dieses besteht, ist jenes</span>; aufgrund des Entstehens von diesem entsteht jenes. ",
+            "de": "<span class=\"ebt-matched\">Wenn dieses besteht, ist jenes</span>; aufgrund des Entstehens von diesem entsteht jenes. ",
             "en": "When this exists, that is; due to the arising of this, that arises. ",
             "matched": true
           },
@@ -100,7 +100,7 @@
           "sn12.22:1.8": {
             "scid": "sn12.22:1.8",
             "pli": "Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
-            "de": "<span class=\"scv-matched\">Wenn dieses besteht, ist jenes</span>; aufgrund des Entstehens von diesem entsteht jenes. ",
+            "de": "<span class=\"ebt-matched\">Wenn dieses besteht, ist jenes</span>; aufgrund des Entstehens von diesem entsteht jenes. ",
             "en": "When this exists, that is; due to the arising of this, that arises. ",
             "matched": true
           },

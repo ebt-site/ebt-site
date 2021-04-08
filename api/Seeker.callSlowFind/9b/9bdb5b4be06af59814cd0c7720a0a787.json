@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "sn47.9:4.2": {
             "scid": "sn47.9:4.2",
             "pli": "Desito, ānanda, mayā dhammo anantaraṁ abāhiraṁ karitvā. ",
-            "en": "I’ve taught the Dhamma without making any distinction between <span class=\"scv-matched\">secret and public</span> teachings. ",
+            "en": "I’ve taught the Dhamma without making any distinction between <span class=\"ebt-matched\">secret and public</span> teachings. ",
             "matched": true
           }
         },
@@ -86,7 +86,7 @@
           "dn16:2.25.2": {
             "scid": "dn16:2.25.2",
             "pli": "Desito, ānanda, mayā dhammo anantaraṁ abāhiraṁ karitvā. ",
-            "en": "I’ve taught the Dhamma without making any distinction between <span class=\"scv-matched\">secret and public</span> teachings. ",
+            "en": "I’ve taught the Dhamma without making any distinction between <span class=\"ebt-matched\">secret and public</span> teachings. ",
             "matched": true
           }
         },

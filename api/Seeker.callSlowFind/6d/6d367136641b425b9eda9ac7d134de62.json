@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,21 +61,21 @@
           "an3.183-352:1.1": {
             "scid": "an3.183-352:1.1",
             "pli": "“Rāgassa, bhikkhave, abhiññāya tayo dhammā bhāvetabbā. ",
-            "de": "„Um Gier unmittelbar zu erkennen, müssen <span class=\"scv-matched\">drei Dinge entwickelt werden</span>. ",
+            "de": "„Um Gier unmittelbar zu erkennen, müssen <span class=\"ebt-matched\">drei Dinge entwickelt werden</span>. ",
             "en": "“For insight into greed, three things should be developed. ",
             "matched": true
           },
           "an3.183-352:1.4": {
             "scid": "an3.183-352:1.4",
             "pli": "rāgassa, bhikkhave, abhiññāya ime tayo dhammā bhāvetabbā. (…)",
-            "de": "Um Gier unmittelbar zu erkennen, müssen diese <span class=\"scv-matched\">drei Dinge entwickelt werden</span>. ",
+            "de": "Um Gier unmittelbar zu erkennen, müssen diese <span class=\"ebt-matched\">drei Dinge entwickelt werden</span>. ",
             "en": "For insight into greed, these three things should be developed. ",
             "matched": true
           },
           "an3.183-352:3.26": {
             "scid": "an3.183-352:3.26",
             "pli": "paṭinissaggāya ime tayo dhammā bhāvetabbā”ti. ",
-            "de": "Um Nachlässigkeit loszulassen müssen diese <span class=\"scv-matched\">drei Dinge entwickelt werden</span>.“ ",
+            "de": "Um Nachlässigkeit loszulassen müssen diese <span class=\"ebt-matched\">drei Dinge entwickelt werden</span>.“ ",
             "en": "For the letting go of negligence, these three things should be developed.” ",
             "matched": true
           }
@@ -107,7 +107,7 @@
           "dn34:1.4.5": {
             "scid": "dn34:1.4.5",
             "pli": "Katame tayo dhammā bhāvetabbā? ",
-            "de": "Welche <span class=\"scv-matched\">drei Dinge müssen entwickelt werden</span>? ",
+            "de": "Welche <span class=\"ebt-matched\">drei Dinge müssen entwickelt werden</span>? ",
             "en": "What three things should be developed? ",
             "matched": true
           }

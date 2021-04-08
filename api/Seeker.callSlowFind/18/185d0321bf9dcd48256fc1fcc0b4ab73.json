@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,14 +57,14 @@
           "sn22.59:2.3": {
             "scid": "sn22.59:2.3",
             "pli": "‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti. ",
-            "de": "‚<span class=\"scv-matched\">Meine Form sei so</span>! Meine Form sei nicht so!‘ ",
+            "de": "‚<span class=\"ebt-matched\">Meine Form sei so</span>! Meine Form sei nicht so!‘ ",
             "en": "‘May my form be like this! May it not be like that!’ ",
             "matched": true
           },
           "sn22.59:2.5": {
             "scid": "sn22.59:2.5",
             "pli": "‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti. ",
-            "de": "‚<span class=\"scv-matched\">Meine Form sei so</span>! Meine Form sei nicht so!‘ ",
+            "de": "‚<span class=\"ebt-matched\">Meine Form sei so</span>! Meine Form sei nicht so!‘ ",
             "en": "‘May my form be like this! May it not be like that!’ ",
             "matched": true
           }

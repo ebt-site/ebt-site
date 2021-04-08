@@ -83,7 +83,7 @@ ${json}
         storeName,
         storePath,
     });
-    let matchHighlight = '<span class="scv-matched">$&</span>';
+    let matchHighlight = '<span class="ebt-matched">$&</span>';
     let skr = await new Seeker({
         bilaraData,
         root: EBT_DATA_DIR,

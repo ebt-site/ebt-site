@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,49 +61,49 @@
           "an7.66:3.2": {
             "scid": "an7.66:3.2",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni vassasatasahassāni devo na vassati. ",
-            "de": "Es kommt eine Zeit, <span class=\"scv-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da der Regen nicht mehr fällt. Viele Jahre lang, viele hundert, viele tausend, viele hunderttausend Jahre lang wird kein Regen fallen. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da der Regen nicht mehr fällt. Viele Jahre lang, viele hundert, viele tausend, viele hunderttausend Jahre lang wird kein Regen fallen. ",
             "en": "There comes a time when, after a very long period has passed, the rain doesn’t fall. For many years, many hundreds, many thousands, many hundreds of thousands of years no rain falls. ",
             "matched": true
           },
           "an7.66:4.1": {
             "scid": "an7.66:4.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena dutiyo sūriyo pātubhavati. ",
-            "de": "Es kommt eine Zeit, <span class=\"scv-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine zweite Sonne. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine zweite Sonne. ",
             "en": "There comes a time when, after a very long period has passed, a second sun appears. ",
             "matched": true
           },
           "an7.66:5.1": {
             "scid": "an7.66:5.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tatiyo sūriyo pātubhavati. ",
-            "de": "Es kommt eine Zeit, <span class=\"scv-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine dritte Sonne. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine dritte Sonne. ",
             "en": "There comes a time when, after a very long period has passed, a third sun appears. ",
             "matched": true
           },
           "an7.66:6.1": {
             "scid": "an7.66:6.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena catuttho sūriyo pātubhavati. ",
-            "de": "Es kommt eine Zeit, <span class=\"scv-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine vierte Sonne. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine vierte Sonne. ",
             "en": "There comes a time when, after a very long period has passed, a fourth sun appears. ",
             "matched": true
           },
           "an7.66:7.1": {
             "scid": "an7.66:7.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena pañcamo sūriyo pātubhavati. ",
-            "de": "Es kommt eine Zeit, <span class=\"scv-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine fünfte Sonne. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine fünfte Sonne. ",
             "en": "There comes a time when, after a very long period has passed, a fifth sun appears. ",
             "matched": true
           },
           "an7.66:8.1": {
             "scid": "an7.66:8.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena chaṭṭho sūriyo pātubhavati. ",
-            "de": "Es kommt eine Zeit, <span class=\"scv-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine sechste Sonne. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine sechste Sonne. ",
             "en": "There comes a time when, after a very long period has passed, a sixth sun appears. ",
             "matched": true
           },
           "an7.66:9.1": {
             "scid": "an7.66:9.1",
             "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena sattamo sūriyo pātubhavati. ",
-            "de": "Es kommt eine Zeit, <span class=\"scv-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine siebte Sonne. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine siebte Sonne. ",
             "en": "There comes a time when, after a very long period has passed, a seventh sun appears. ",
             "matched": true
           }
@@ -135,14 +135,14 @@
           "dn24:2.14.11": {
             "scid": "dn24:2.14.11",
             "pli": "‘Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
-            "de": "‚Es kommt eine Zeit, werte Freunde, <span class=\"scv-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da dieses Weltall sich zusammenzieht. ",
+            "de": "‚Es kommt eine Zeit, werte Freunde, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da dieses Weltall sich zusammenzieht. ",
             "en": "‘There comes a time when, reverends, after a very long period has passed, this cosmos contracts. ",
             "matched": true
           },
           "dn24:2.15.1": {
             "scid": "dn24:2.15.1",
             "pli": "Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
-            "de": "Es kommt eine Zeit, <span class=\"scv-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da dieses Weltall sich ausdehnt. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da dieses Weltall sich ausdehnt. ",
             "en": "There comes a time when, after a very long period has passed, this cosmos expands. ",
             "matched": true
           }

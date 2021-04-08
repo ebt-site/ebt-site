@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,14 +61,14 @@
           "dn14:1.13.3": {
             "scid": "dn14:1.13.3",
             "pli": "Yatra hi nāma tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jātitopi anussarissati, nāmatopi anussarissati, gottatopi anussarissati, āyuppamāṇatopi anussarissati, sāvakayugatopi anussarissati, sāvakasannipātatopi anussarissati: ",
-            "de": "Denn er ist in der Lage, sich an Kaste, Namen, Stamm, Lebensdauer, Hauptschüler und Zusammenkünfte von Schülerinnen und Schülern der Buddhas der Vergangenheit zu erinnern, die vollkommen erloschen sind, die das Wuchern abgeschnitten, die Spur abgeschnitten, den Kreislauf zu Ende gebracht haben und <span class=\"scv-matched\">über das Leiden hinaus</span>gegangen sind. ",
+            "de": "Denn er ist in der Lage, sich an Kaste, Namen, Stamm, Lebensdauer, Hauptschüler und Zusammenkünfte von Schülerinnen und Schülern der Buddhas der Vergangenheit zu erinnern, die vollkommen erloschen sind, die das Wuchern abgeschnitten, die Spur abgeschnitten, den Kreislauf zu Ende gebracht haben und <span class=\"ebt-matched\">über das Leiden hinaus</span>gegangen sind. ",
             "en": "For he is able to recollect the caste, names, clans, life-span, chief disciples, and gatherings of disciples of the Buddhas of the past who have become completely extinguished, cut off proliferation, cut off the track, finished off the cycle, and transcended suffering. ",
             "matched": true
           },
           "dn14:3.33.1": {
             "scid": "dn14:3.33.1",
             "pli": "Iti kho, bhikkhave, tathāgatassevesā dhammadhātu suppaṭividdhā, yassā dhammadhātuyā suppaṭividdhattā tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jātitopi anussarati, nāmatopi anussarati, gottatopi anussarati, āyuppamāṇatopi anussarati, sāvakayugatopi anussarati, sāvakasannipātatopi anussarati ‘evaṁjaccā te bhagavanto ahesuṁ’ itipi. ",
-            "de": "Und so ist der Klargewordene in der Lage, sich an Kaste, Namen, Stamm, Lebensdauer, Hauptschüler und Zusammenkünfte von Schülerinnen und Schülern der Buddhas der Vergangenheit zu erinnern, die vollkommen erloschen sind, die das Wuchern abgeschnitten, die Spur abgeschnitten, den Kreislauf zu Ende gebracht haben und <span class=\"scv-matched\">über das Leiden hinaus</span>gegangen sind. Es ist sowohl, weil ich den Grundsatz der Lehren klar erfasst habe, ",
+            "de": "Und so ist der Klargewordene in der Lage, sich an Kaste, Namen, Stamm, Lebensdauer, Hauptschüler und Zusammenkünfte von Schülerinnen und Schülern der Buddhas der Vergangenheit zu erinnern, die vollkommen erloschen sind, die das Wuchern abgeschnitten, die Spur abgeschnitten, den Kreislauf zu Ende gebracht haben und <span class=\"ebt-matched\">über das Leiden hinaus</span>gegangen sind. Es ist sowohl, weil ich den Grundsatz der Lehren klar erfasst habe, ",
             "en": "And that is how the Realized One is able to recollect the caste, names, clans, life-span, chief disciples, and gatherings of disciples of the Buddhas of the past who have become completely extinguished, cut off proliferation, cut off the track, finished off the cycle, and transcended suffering. It is both because I have clearly comprehended the principle of the teachings, ",
             "matched": true
           }
@@ -100,7 +100,7 @@
           "an3.74:1.7": {
             "scid": "an3.74:1.7",
             "pli": "evametissā sandiṭṭhikāya nijjarāya visuddhiyā samatikkamo hoti. ",
-            "de": "So geht man in diesem Leben durch die Läuterung mittels Abtragen <span class=\"scv-matched\">über das Leiden hinaus</span>. ",
+            "de": "So geht man in diesem Leben durch die Läuterung mittels Abtragen <span class=\"ebt-matched\">über das Leiden hinaus</span>. ",
             "en": "This is how to go beyond suffering by means of this purification by wearing away in this very life. ",
             "matched": true
           }

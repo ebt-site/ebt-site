@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,28 +57,28 @@
           "dn18:26.8": {
             "scid": "dn18:26.8",
             "pli": "So tattha sammā samāhito sammā vippasanno bahiddhā parakāye ñāṇadassanaṁ abhinibbatteti. ",
-            "de": "Daraus entsteht das <span class=\"scv-matched\">äußere Erkennen und Sehen</span> der Körper anderer Menschen. ",
+            "de": "Daraus entsteht das <span class=\"ebt-matched\">äußere Erkennen und Sehen</span> der Körper anderer Menschen. ",
             "en": "Then they give rise to knowledge and vision of other people’s bodies externally. ",
             "matched": true
           },
           "dn18:26.10": {
             "scid": "dn18:26.10",
             "pli": "bahiddhā paravedanāsu ñāṇadassanaṁ abhinibbatteti. ",
-            "de": "Daraus entsteht das <span class=\"scv-matched\">äußere Erkennen und Sehen</span> der Gefühle anderer Menschen. ",
+            "de": "Daraus entsteht das <span class=\"ebt-matched\">äußere Erkennen und Sehen</span> der Gefühle anderer Menschen. ",
             "en": "Then they give rise to knowledge and vision of other people’s feelings externally. ",
             "matched": true
           },
           "dn18:26.12": {
             "scid": "dn18:26.12",
             "pli": "bahiddhā paracitte ñāṇadassanaṁ abhinibbatteti. ",
-            "de": "Daraus entsteht das <span class=\"scv-matched\">äußere Erkennen und Sehen</span> des Geistes anderer Menschen. ",
+            "de": "Daraus entsteht das <span class=\"ebt-matched\">äußere Erkennen und Sehen</span> des Geistes anderer Menschen. ",
             "en": "Then they give rise to knowledge and vision of other people’s minds externally. ",
             "matched": true
           },
           "dn18:26.15": {
             "scid": "dn18:26.15",
             "pli": "So tattha sammā samāhito sammā vippasanno bahiddhā paradhammesu ñāṇadassanaṁ abhinibbatteti. ",
-            "de": "Daraus entsteht das <span class=\"scv-matched\">äußere Erkennen und Sehen</span> der natürlichen Gesetzmäßigkeiten bei anderen Menschen. ",
+            "de": "Daraus entsteht das <span class=\"ebt-matched\">äußere Erkennen und Sehen</span> der natürlichen Gesetzmäßigkeiten bei anderen Menschen. ",
             "en": "Then they give rise to knowledge and vision of other people’s principles externally. ",
             "matched": true
           }

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -69,7 +69,7 @@
           "an3.93:3.2": {
             "scid": "an3.93:3.2",
             "pli": "Sākabhakkhāpi honti, sāmākabhakkhāpi honti, nīvārabhakkhāpi honti, daddulabhakkhāpi honti, haṭabhakkhāpi honti, kaṇabhakkhāpi honti, ācāmabhakkhāpi honti, piññākabhakkhāpi honti, tiṇabhakkhāpi honti, gomayabhakkhāpi honti, vanamūlaphalāhārā yāpenti pavattaphalabhojī. ",
-            "de": "Sie essen <span class=\"scv-matched\">Kräuter, Hirse</span>, wilden Reis, mageren Reis, Wasserlattich, Reiskleie, Schaum von gekochtem Reis, Sesammehl, Gras oder Kuhfladen. Sie überleben mit Wurzeln und Waldbeeren oder essen herabgefallene Früchte. ",
+            "de": "Sie essen <span class=\"ebt-matched\">Kräuter, Hirse</span>, wilden Reis, mageren Reis, Wasserlattich, Reiskleie, Schaum von gekochtem Reis, Sesammehl, Gras oder Kuhfladen. Sie überleben mit Wurzeln und Waldbeeren oder essen herabgefallene Früchte. ",
             "en": "They eat herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
@@ -101,7 +101,7 @@
           "an3.156:3.1": {
             "scid": "an3.156:3.1",
             "pli": "So sākabhakkhopi hoti, sāmākabhakkhopi hoti, nīvārabhakkhopi hoti, daddulabhakkhopi hoti, haṭabhakkhopi hoti, kaṇabhakkhopi hoti, ācāmabhakkhopi hoti, piññākabhakkhopi hoti, tiṇabhakkhopi hoti, gomayabhakkhopi hoti, vanamūlaphalāhāro yāpeti pavattaphalabhojī. ",
-            "de": "Er isst <span class=\"scv-matched\">Kräuter, Hirse</span>, wilden Reis, mageren Reis, Wasserlattich, Reiskleie, Schaum von gekochtem Reis, Sesammehl, Gras oder Kuhfladen. Er überlebt mit Wurzeln und Waldbeeren oder isst herabgefallene Früchte. ",
+            "de": "Er isst <span class=\"ebt-matched\">Kräuter, Hirse</span>, wilden Reis, mageren Reis, Wasserlattich, Reiskleie, Schaum von gekochtem Reis, Sesammehl, Gras oder Kuhfladen. Er überlebt mit Wurzeln und Waldbeeren oder isst herabgefallene Früchte. ",
             "en": "They eat herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
@@ -133,7 +133,7 @@
           "an4.198:3.1": {
             "scid": "an4.198:3.1",
             "pli": "So sākabhakkhopi hoti sāmākabhakkhopi hoti nīvārabhakkhopi hoti daddulabhakkhopi hoti haṭabhakkhopi hoti kaṇabhakkhopi hoti ācāmabhakkhopi hoti piññākabhakkhopi hoti tiṇabhakkhopi hoti gomayabhakkhopi hoti; vanamūlaphalāhāropi yāpeti pavattaphalabhojī. ",
-            "de": "Er isst <span class=\"scv-matched\">Kräuter, Hirse</span>, wilden Reis, mageren Reis, Wasserlattich, Reiskleie, Schaum von gekochtem Reis, Sesammehl, Gras oder Kuhfladen. Er überlebt mit Wurzeln und Waldbeeren oder isst herabgefallene Früchte. ",
+            "de": "Er isst <span class=\"ebt-matched\">Kräuter, Hirse</span>, wilden Reis, mageren Reis, Wasserlattich, Reiskleie, Schaum von gekochtem Reis, Sesammehl, Gras oder Kuhfladen. Er überlebt mit Wurzeln und Waldbeeren oder isst herabgefallene Früchte. ",
             "en": "They eat herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }
@@ -165,7 +165,7 @@
           "dn25:8.8": {
             "scid": "dn25:8.8",
             "pli": "So sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, gomayabhakkho vā hoti; vanamūlaphalāhāro yāpeti pavattaphalabhojī. ",
-            "de": "Er isst <span class=\"scv-matched\">Kräuter, Hirse</span>, wilden Reis, mageren Reis, Wasserlattich, Reiskleie, Schaum von gekochtem Reis, Sesammehl, Gras oder Kuhfladen. Er überlebt mit Wurzeln und Waldbeeren oder isst herabgefallene Früchte. ",
+            "de": "Er isst <span class=\"ebt-matched\">Kräuter, Hirse</span>, wilden Reis, mageren Reis, Wasserlattich, Reiskleie, Schaum von gekochtem Reis, Sesammehl, Gras oder Kuhfladen. Er überlebt mit Wurzeln und Waldbeeren oder isst herabgefallene Früchte. ",
             "en": "They eat herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
             "matched": true
           }

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -85,28 +85,28 @@
           "an4.139:1.4": {
             "scid": "an4.139:1.4",
             "pli": "parisā cassa na kusalā hoti sahitāsahitassa. ",
-            "de": "Und seine Zuhörerschaft kann nicht <span class=\"scv-matched\">unterscheiden</span>, was zum Thema gehört und was nicht. ",
+            "de": "Und seine Zuhörerschaft kann nicht <span class=\"ebt-matched\">unterscheiden</span>, was zum Thema gehört und was nicht. ",
             "en": "And their assembly can’t tell what’s on topic and what’s off topic. ",
             "matched": true
           },
           "an4.139:2.2": {
             "scid": "an4.139:2.2",
             "pli": "parisā cassa kusalā hoti sahitāsahitassa. ",
-            "de": "Und seine Zuhörerschaft kann <span class=\"scv-matched\">unterscheiden</span>, was zum Thema gehört und was nicht. ",
+            "de": "Und seine Zuhörerschaft kann <span class=\"ebt-matched\">unterscheiden</span>, was zum Thema gehört und was nicht. ",
             "en": "And their assembly can tell what’s on topic and what’s off topic. ",
             "matched": true
           },
           "an4.139:3.2": {
             "scid": "an4.139:3.2",
             "pli": "parisā cassa na kusalā hoti sahitāsahitassa. ",
-            "de": "Und seine Zuhörerschaft kann nicht <span class=\"scv-matched\">unterscheiden</span>, was zum Thema gehört und was nicht. ",
+            "de": "Und seine Zuhörerschaft kann nicht <span class=\"ebt-matched\">unterscheiden</span>, was zum Thema gehört und was nicht. ",
             "en": "And their assembly can’t tell what’s on topic and what’s off topic. ",
             "matched": true
           },
           "an4.139:4.2": {
             "scid": "an4.139:4.2",
             "pli": "parisā cassa kusalā hoti sahitāsahitassa. ",
-            "de": "Und seine Zuhörerschaft kann <span class=\"scv-matched\">unterscheiden</span>, was zum Thema gehört und was nicht. ",
+            "de": "Und seine Zuhörerschaft kann <span class=\"ebt-matched\">unterscheiden</span>, was zum Thema gehört und was nicht. ",
             "en": "And their assembly can tell what’s on topic and what’s off topic. ",
             "matched": true
           }
@@ -138,14 +138,14 @@
           "an1.336:1.1": {
             "scid": "an1.336:1.1",
             "pli": "… Evamevaṁ kho, bhikkhave, appakā te sattā ye paññavanto ajaḷā aneḷamūgā paṭibalā subhāsitadubbhāsitassa atthamaññātuṁ; ",
-            "de": "… ebenso sind wenige Lebewesen weise, aufgeweckt und verständig, in der Lage, zu <span class=\"scv-matched\">unterscheiden</span>, was gut gesagt und was dürftig gesagt ist; ",
+            "de": "… ebenso sind wenige Lebewesen weise, aufgeweckt und verständig, in der Lage, zu <span class=\"ebt-matched\">unterscheiden</span>, was gut gesagt und was dürftig gesagt ist; ",
             "en": "… so too the sentient beings who are wise, bright, clever, and able to distinguish what is well said from what is poorly said are few, ",
             "matched": true
           },
           "an1.336:1.2": {
             "scid": "an1.336:1.2",
             "pli": "atha kho eteva sattā bahutarā ye duppaññā jaḷā eḷamūgā na paṭibalā subhāsitadubbhāsitassa atthamaññātuṁ. ",
-            "de": "viele hingegen sind geistlos, stumpf und dumm, nicht in der Lage, zu <span class=\"scv-matched\">unterscheiden</span>, was gut gesagt und was dürftig gesagt ist. ",
+            "de": "viele hingegen sind geistlos, stumpf und dumm, nicht in der Lage, zu <span class=\"ebt-matched\">unterscheiden</span>, was gut gesagt und was dürftig gesagt ist. ",
             "en": "while the sentient beings who are witless, dull, stupid, and unable to distinguish what is well said from what is poorly said are many. ",
             "matched": true
           }
@@ -177,14 +177,14 @@
           "dn33:3.2.67": {
             "scid": "dn33:3.2.67",
             "pli": "majjhimesu janapadesu paccājāto hoti. So ca hoti duppañño jaḷo eḷamūgo, nappaṭibalo subhāsitadubbhāsitānamatthamaññātuṁ. ",
-            "de": "Und man wurde in einem zentralen Land wiedergeboren. Aber man ist geistlos, stumpf und dumm, nicht in der Lage, zu <span class=\"scv-matched\">unterscheiden</span>, was gut gesagt und was dürftig gesagt ist. ",
+            "de": "Und man wurde in einem zentralen Land wiedergeboren. Aber man ist geistlos, stumpf und dumm, nicht in der Lage, zu <span class=\"ebt-matched\">unterscheiden</span>, was gut gesagt und was dürftig gesagt ist. ",
             "en": "And a person is reborn in a central country. But they’re witless, dull, stupid, and unable to distinguish what is well said from what is poorly said. ",
             "matched": true
           },
           "dn33:3.2.70": {
             "scid": "dn33:3.2.70",
             "pli": "dhammo ca na desiyati opasamiko parinibbāniko sambodhagāmī sugatappavedito. Ayañca puggalo majjhimesu janapadesu paccājāto hoti, so ca hoti paññavā ajaḷo aneḷamūgo, paṭibalo subhāsitadubbhāsitānamatthamaññātuṁ. ",
-            "de": "Aber er lehrt nicht den Dhamma, der zum Frieden, zum Erlöschen, zum Erwachen führt, wie er vom Heiligen verkündet wurde. Und man wurde in einem zentralen Land wiedergeboren. Und man ist weise, aufgeweckt und verständig, in der Lage, zu <span class=\"scv-matched\">unterscheiden</span>, was gut gesagt und was dürftig gesagt ist. ",
+            "de": "Aber er lehrt nicht den Dhamma, der zum Frieden, zum Erlöschen, zum Erwachen führt, wie er vom Heiligen verkündet wurde. Und man wurde in einem zentralen Land wiedergeboren. Und man ist weise, aufgeweckt und verständig, in der Lage, zu <span class=\"ebt-matched\">unterscheiden</span>, was gut gesagt und was dürftig gesagt ist. ",
             "en": "But he doesn’t teach the Dhamma leading to peace, extinguishment, awakening, as proclaimed by the Holy One. And a person is reborn in a central country. And they’re wise, bright, clever, and able to distinguish what is well said from what is poorly said. ",
             "matched": true
           }
@@ -216,14 +216,14 @@
           "dn34:2.1.143": {
             "scid": "dn34:2.1.143",
             "pli": "ayañca puggalo majjhimesu janapadesu paccājāto hoti, so ca hoti duppañño jaḷo eḷamūgo, nappaṭibalo subhāsitadubbhāsitānamatthamaññātuṁ. ",
-            "de": "und man wurde in einem zentralen Land wiedergeboren. Aber man ist geistlos, stumpf und dumm, nicht in der Lage, zu <span class=\"scv-matched\">unterscheiden</span>, was gut gesagt und was dürftig gesagt ist. ",
+            "de": "und man wurde in einem zentralen Land wiedergeboren. Aber man ist geistlos, stumpf und dumm, nicht in der Lage, zu <span class=\"ebt-matched\">unterscheiden</span>, was gut gesagt und was dürftig gesagt ist. ",
             "en": "And a person is reborn in a central country. But they’re witless, dull, stupid, and unable to distinguish what is well said from what is poorly said. ",
             "matched": true
           },
           "dn34:2.1.146": {
             "scid": "dn34:2.1.146",
             "pli": "ayañca puggalo majjhimesu janapadesu paccājāto hoti, so ca hoti paññavā ajaḷo aneḷamūgo, paṭibalo subhāsitadubbhāsitānamatthamaññātuṁ. ",
-            "de": "aber er lehrt nicht den Dhamma, der zum Frieden, zum Erlöschen, zum Erwachen führt, wie er vom Heiligen verkündet wurde. Und man wurde in einem zentralen Land wiedergeboren. Und man ist weise, aufgeweckt und verständig, in der Lage, zu <span class=\"scv-matched\">unterscheiden</span>, was gut gesagt und was dürftig gesagt ist. ",
+            "de": "aber er lehrt nicht den Dhamma, der zum Frieden, zum Erlöschen, zum Erwachen führt, wie er vom Heiligen verkündet wurde. Und man wurde in einem zentralen Land wiedergeboren. Und man ist weise, aufgeweckt und verständig, in der Lage, zu <span class=\"ebt-matched\">unterscheiden</span>, was gut gesagt und was dürftig gesagt ist. ",
             "en": "But he doesn’t teach the Dhamma leading to peace, extinguishment, awakening, as announced by the Holy One. And a person is reborn in a central country. And they’re wise, bright, clever, and able to distinguish what is well said from what is poorly said. ",
             "matched": true
           }
@@ -255,7 +255,7 @@
           "sn47.9:4.2": {
             "scid": "sn47.9:4.2",
             "pli": "Desito, ānanda, mayā dhammo anantaraṁ abāhiraṁ karitvā. ",
-            "de": "Ich habe den Dhamma gelehrt, ohne zwischen geheimen und öffentlichen Lehren zu <span class=\"scv-matched\">unterscheiden</span>. ",
+            "de": "Ich habe den Dhamma gelehrt, ohne zwischen geheimen und öffentlichen Lehren zu <span class=\"ebt-matched\">unterscheiden</span>. ",
             "en": "I’ve taught the Dhamma without making any distinction between secret and public teachings. ",
             "matched": true
           }
@@ -287,7 +287,7 @@
           "kp8:15.1": {
             "scid": "kp8:15.1",
             "pli": "Paṭisambhidā vimokkhā ca,",
-            "de": "Das <span class=\"scv-matched\">unterscheiden</span>de Wissen, die Befreiungen, ",
+            "de": "Das <span class=\"ebt-matched\">unterscheiden</span>de Wissen, die Befreiungen, ",
             "en": "Analytical knowledge, the liberations,",
             "matched": true
           }
@@ -319,7 +319,7 @@
           "thag15.2:15.1": {
             "scid": "thag15.2:15.1",
             "pli": "Atthassāyaṁ viññāpanī,",
-            "de": "Dieses Gleichnis wurde gelehrt von dem, der <span class=\"scv-matched\">unterscheiden</span> kann, ",
+            "de": "Dieses Gleichnis wurde gelehrt von dem, der <span class=\"ebt-matched\">unterscheiden</span> kann, ",
             "en": "This simile is taught by the discerning",
             "matched": true
           }
@@ -351,7 +351,7 @@
           "an6.43:19.1": {
             "scid": "an6.43:19.1",
             "pli": "Atthassāyaṁ viññāpanī, ",
-            "de": "Dieses Gleichnis wurde gelehrt von dem, der <span class=\"scv-matched\">unterscheiden</span> kann, ",
+            "de": "Dieses Gleichnis wurde gelehrt von dem, der <span class=\"ebt-matched\">unterscheiden</span> kann, ",
             "en": "This simile is taught by the discerning ",
             "matched": true
           }

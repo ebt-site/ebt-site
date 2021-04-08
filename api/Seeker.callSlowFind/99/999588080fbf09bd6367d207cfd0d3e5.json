@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -87,13 +87,13 @@
           "mn128:28.9": {
             "scid": "mn128:28.9",
             "pli": "‘yasmiñhi kho ahaṁ samaye rūpanimittaṁ amanasikaritvā obhāsanimittaṁ manasi karomi, obhāsañhi kho tasmiṁ samaye sañjānāmi, na ca rūpāni passāmi. ",
-            "en": "‘When I don’t focus on the foundation of the forms, but focus on the foundation of the light, then I <span class=\"scv-matched\">perceive light</span> and do not see forms. ",
+            "en": "‘When I don’t focus on the foundation of the forms, but focus on the foundation of the light, then I <span class=\"ebt-matched\">perceive light</span> and do not see forms. ",
             "matched": true
           },
           "mn128:28.10": {
             "scid": "mn128:28.10",
             "pli": "Yasmiṁ panāhaṁ samaye obhāsanimittaṁ amanasikaritvā rūpanimittaṁ manasi karomi, rūpāni hi kho tasmiṁ samaye passāmi na ca obhāsaṁ sañjānāmi—",
-            "en": "But when I don’t focus on the foundation of the light, but focus on the foundation of the forms, then I see forms and do not <span class=\"scv-matched\">perceive light</span>. ",
+            "en": "But when I don’t focus on the foundation of the light, but focus on the foundation of the forms, then I see forms and do not <span class=\"ebt-matched\">perceive light</span>. ",
             "matched": true
           },
           "mn128:29.1": {
@@ -152,7 +152,7 @@
           "an8.64:2.2": {
             "scid": "an8.64:2.2",
             "pli": "‘sace kho ahaṁ obhāsañceva sañjāneyyaṁ rūpāni ca passeyyaṁ; ",
-            "en": "‘What if I were to both <span class=\"scv-matched\">perceive light</span> and see visions? ",
+            "en": "‘What if I were to both <span class=\"ebt-matched\">perceive light</span> and see visions? ",
             "matched": true
           },
           "an8.64:3.1": {
@@ -164,7 +164,7 @@
           "an8.64:4.2": {
             "scid": "an8.64:4.2",
             "pli": "‘sace kho ahaṁ obhāsañceva sañjāneyyaṁ, rūpāni ca passeyyaṁ, tāhi ca devatāhi saddhiṁ santiṭṭheyyaṁ sallapeyyaṁ sākacchaṁ samāpajjeyyaṁ; ",
-            "en": "‘What if I were to <span class=\"scv-matched\">perceive light</span> and see visions; and associate with those deities, converse, and engage in discussion? ",
+            "en": "‘What if I were to <span class=\"ebt-matched\">perceive light</span> and see visions; and associate with those deities, converse, and engage in discussion? ",
             "matched": true
           },
           "an8.64:5.1": {
@@ -176,7 +176,7 @@
           "an8.64:6.2": {
             "scid": "an8.64:6.2",
             "pli": "‘sace kho ahaṁ obhāsañceva sañjāneyyaṁ, rūpāni ca passeyyaṁ, tāhi ca devatāhi saddhiṁ santiṭṭheyyaṁ sallapeyyaṁ sākacchaṁ samāpajjeyyaṁ, tā ca devatā jāneyyaṁ: ",
-            "en": "‘What if I were to <span class=\"scv-matched\">perceive light</span> and see visions; and associate with those deities, converse, and engage in discussion; ",
+            "en": "‘What if I were to <span class=\"ebt-matched\">perceive light</span> and see visions; and associate with those deities, converse, and engage in discussion; ",
             "matched": true
           },
           "an8.64:7.1": {
@@ -188,7 +188,7 @@
           "an8.64:8.2": {
             "scid": "an8.64:8.2",
             "pli": "‘sace kho ahaṁ obhāsañceva sañjāneyyaṁ, rūpāni ca passeyyaṁ, tāhi ca devatāhi saddhiṁ santiṭṭheyyaṁ sallapeyyaṁ sākacchaṁ samāpajjeyyaṁ, tā ca devatā jāneyyaṁ: ",
-            "en": "‘What if I were to <span class=\"scv-matched\">perceive light</span> and see visions; and associate with those deities, converse, and engage in discussion; ",
+            "en": "‘What if I were to <span class=\"ebt-matched\">perceive light</span> and see visions; and associate with those deities, converse, and engage in discussion; ",
             "matched": true
           }
         },

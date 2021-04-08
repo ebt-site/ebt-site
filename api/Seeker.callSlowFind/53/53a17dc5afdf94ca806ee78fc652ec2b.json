@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -73,21 +73,21 @@
           "an3.47:2.0": {
             "scid": "an3.47:2.0",
             "pli": "Asaṅkhatalakkhaṇasutta ",
-            "de": "Kennzeichen des <span class=\"scv-matched\">Unbedingt</span>en ",
+            "de": "Kennzeichen des <span class=\"ebt-matched\">Unbedingt</span>en ",
             "en": "Characteristics of the Unconditioned ",
             "matched": true
           },
           "an3.47:2.1": {
             "scid": "an3.47:2.1",
             "pli": "“Tīṇimāni, bhikkhave, asaṅkhatassa asaṅkhatalakkhaṇāni. ",
-            "de": "„<span class=\"scv-matched\">Unbedingt</span>e Erscheinungen haben diese drei Kennzeichen. ",
+            "de": "„<span class=\"ebt-matched\">Unbedingt</span>e Erscheinungen haben diese drei Kennzeichen. ",
             "en": "“Unconditioned phenomena have these three characteristics. ",
             "matched": true
           },
           "an3.47:2.4": {
             "scid": "an3.47:2.4",
             "pli": "Imāni kho, bhikkhave, tīṇi asaṅkhatassa asaṅkhatalakkhaṇānī”ti. ",
-            "de": "Das sind die drei Kennzeichen <span class=\"scv-matched\">unbedingt</span>er Erscheinungen.“ ",
+            "de": "Das sind die drei Kennzeichen <span class=\"ebt-matched\">unbedingt</span>er Erscheinungen.“ ",
             "en": "These are the three characteristics of unconditioned phenomena.” ",
             "matched": true
           }
@@ -119,14 +119,14 @@
           "an2.18:1.2": {
             "scid": "an2.18:1.2",
             "pli": "“ekaṁsenāhaṁ, ānanda, akaraṇīyaṁ vadāmi kāyaduccaritaṁ vacīduccaritaṁ manoduccaritan”ti. ",
-            "de": "„Ānanda, ich sage <span class=\"scv-matched\">unbedingt</span>: Tut nichts Schlechtes mit dem Körper, der Sprache und dem Geist.“ ",
+            "de": "„Ānanda, ich sage <span class=\"ebt-matched\">unbedingt</span>: Tut nichts Schlechtes mit dem Körper, der Sprache und dem Geist.“ ",
             "en": "“Ānanda, I absolutely say that you should not do bad things by way of body, speech, and mind.” ",
             "matched": true
           },
           "an2.18:2.1": {
             "scid": "an2.18:2.1",
             "pli": "“Ekaṁsenāhaṁ, ānanda, karaṇīyaṁ vadāmi kāyasucaritaṁ vacīsucaritaṁ manosucaritan”ti. ",
-            "de": "„Ānanda, ich sage <span class=\"scv-matched\">unbedingt</span>: Tut Gutes mit dem Körper, der Sprache und dem Geist.“ ",
+            "de": "„Ānanda, ich sage <span class=\"ebt-matched\">unbedingt</span>: Tut Gutes mit dem Körper, der Sprache und dem Geist.“ ",
             "en": "“Ānanda, I absolutely say that you should do good things by way of body, speech, and mind.” ",
             "matched": true
           }
@@ -158,7 +158,7 @@
           "an4.34:3.1": {
             "scid": "an4.34:3.1",
             "pli": "Yāvatā, bhikkhave, dhammā saṅkhatā vā asaṅkhatā vā, virāgo tesaṁ aggamakkhāyati, yadidaṁ madanimmadano pipāsavinayo ālayasamugghāto vaṭṭupacchedo taṇhākkhayo virāgo nirodho nibbānaṁ. ",
-            "de": "Das Schwinden gilt unter den bedingten und <span class=\"scv-matched\">unbedingt</span>en Dingen als das beste: nämlich das Überwinden der Eitelkeit, das Löschen des Durstes, das Aufgeben des Anklammerns, das Ausbrechen aus dem Kreislauf, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen. ",
+            "de": "Das Schwinden gilt unter den bedingten und <span class=\"ebt-matched\">unbedingt</span>en Dingen als das beste: nämlich das Überwinden der Eitelkeit, das Löschen des Durstes, das Aufgeben des Anklammerns, das Ausbrechen aus dem Kreislauf, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen. ",
             "en": "Fading away is said to be the best of all things whether conditioned or unconditioned. That is, the quelling of vanity, the removing of thirst, the abolishing of clinging, the breaking of the round, the ending of craving, fading away, cessation, extinguishment. ",
             "matched": true
           }
@@ -190,7 +190,7 @@
           "an5.32:5.1": {
             "scid": "an5.32:5.1",
             "pli": "Yāvatā, cundi, dhammā saṅkhatā vā asaṅkhatā vā, virāgo tesaṁ aggamakkhāyati, yadidaṁ—",
-            "de": "Das Schwinden gilt unter den bedingten und <span class=\"scv-matched\">unbedingt</span>en Dingen als das beste: ",
+            "de": "Das Schwinden gilt unter den bedingten und <span class=\"ebt-matched\">unbedingt</span>en Dingen als das beste: ",
             "en": "Fading away is said to be the best of all things whether conditioned or unconditioned. ",
             "matched": true
           }
@@ -222,7 +222,7 @@
           "dn34:1.3.29": {
             "scid": "dn34:1.3.29",
             "pli": "saṅkhatā ca dhātu asaṅkhatā ca dhātu. ",
-            "de": "das bedingte Element und das <span class=\"scv-matched\">unbedingt</span>e Element. ",
+            "de": "das bedingte Element und das <span class=\"ebt-matched\">unbedingt</span>e Element. ",
             "en": "the conditioned element and the unconditioned element. ",
             "matched": true
           }

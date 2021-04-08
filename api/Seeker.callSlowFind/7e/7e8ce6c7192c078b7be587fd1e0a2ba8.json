@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,19 +54,19 @@
           "an10.62:2.2": {
             "scid": "an10.62:2.2",
             "pli": "Ko cāhāro bhavataṇhāya? ",
-            "en": "And what is <span class=\"scv-matched\">the fuel for craving</span> for continued existence? ",
+            "en": "And what is <span class=\"ebt-matched\">the fuel for craving</span> for continued existence? ",
             "matched": true
           },
           "an10.62:3.2": {
             "scid": "an10.62:3.2",
             "pli": "evametissā bhavataṇhāya āhāro hoti, evañca pāripūri. ",
-            "en": "That’s <span class=\"scv-matched\">the fuel for craving</span> for continued existence, and that’s how it’s fulfilled. ",
+            "en": "That’s <span class=\"ebt-matched\">the fuel for craving</span> for continued existence, and that’s how it’s fulfilled. ",
             "matched": true
           },
           "an10.62:5.2": {
             "scid": "an10.62:5.2",
             "pli": "evametissā bhavataṇhāya āhāro hoti, evañca pāripūri. ",
-            "en": "That’s <span class=\"scv-matched\">the fuel for craving</span> for continued existence, and that’s how it’s fulfilled. ",
+            "en": "That’s <span class=\"ebt-matched\">the fuel for craving</span> for continued existence, and that’s how it’s fulfilled. ",
             "matched": true
           }
         },

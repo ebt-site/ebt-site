@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -69,7 +69,7 @@
           "an4.51:6.1": {
             "scid": "an4.51:6.1",
             "pli": "Seyyathāpi, bhikkhave, mahāsamudde na sukaraṁ udakassa pamāṇaṁ gahetuṁ: ‘ettakāni udakāḷhakānīti vā, ettakāni udakāḷhakasatānīti vā, ettakāni udakāḷhakasahassānīti vā, ettakāni udakāḷhakasatasahassānīti vā’, atha kho asaṅkhyeyyo appameyyo mahāudakakkhandhotveva saṅkhyaṁ gacchati; ",
-            "en": "It’s like trying to grasp how much water is in the ocean. It’s not easy to say <span class=\"scv-matched\">how many gallons</span>, how many hundreds, thousands, hundreds of thousands of gallons there are. It’s simply reckoned as an incalculable, immeasurable, great mass of water. ",
+            "en": "It’s like trying to grasp how much water is in the ocean. It’s not easy to say <span class=\"ebt-matched\">how many gallons</span>, how many hundreds, thousands, hundreds of thousands of gallons there are. It’s simply reckoned as an incalculable, immeasurable, great mass of water. ",
             "matched": true
           }
         },
@@ -98,7 +98,7 @@
           "an5.45:6.2": {
             "scid": "an5.45:6.2",
             "pli": "‘ettakāni udakāḷhakānīti vā ettakāni udakāḷhakasatānīti vā ettakāni udakāḷhakasahassānīti vā ettakāni udakāḷhakasatasahassānīti vā; ",
-            "en": "‘This is <span class=\"scv-matched\">how many gallons</span>, how many hundreds, thousands, hundreds of thousands of gallons there are.’ ",
+            "en": "‘This is <span class=\"ebt-matched\">how many gallons</span>, how many hundreds, thousands, hundreds of thousands of gallons there are.’ ",
             "matched": true
           }
         },
@@ -127,7 +127,7 @@
           "sn55.41:5.2": {
             "scid": "sn55.41:5.2",
             "pli": "‘ettakāni udakāḷhakānī’ti vā ‘ettakāni udakāḷhakasatānī’ti vā ‘ettakāni udakāḷhakasahassānī’ti vā ‘ettakāni udakāḷhakasatasahassānī’ti vāti. ",
-            "en": "<span class=\"scv-matched\">how many gallons</span>, how many hundreds, thousands, hundreds of thousands of gallons there are. ",
+            "en": "<span class=\"ebt-matched\">how many gallons</span>, how many hundreds, thousands, hundreds of thousands of gallons there are. ",
             "matched": true
           }
         },
@@ -156,7 +156,7 @@
           "sn55.42:5.3": {
             "scid": "sn55.42:5.3",
             "pli": "‘ettakāni udakāḷhakānī’ti vā ‘ettakāni udakāḷhakasatānī’ti vā ‘ettakāni udakāḷhakasahassānī’ti vā ‘ettakāni udakāḷhakasatasahassānī’ti vāti. ",
-            "en": "<span class=\"scv-matched\">how many gallons</span>, how many hundreds, thousands, hundreds of thousands of gallons there are. ",
+            "en": "<span class=\"ebt-matched\">how many gallons</span>, how many hundreds, thousands, hundreds of thousands of gallons there are. ",
             "matched": true
           }
         },
@@ -185,7 +185,7 @@
           "an6.37:5.2": {
             "scid": "an6.37:5.2",
             "pli": "‘ettakāni udakāḷhakānīti vā ettakāni udakāḷhakasatānīti vā ettakāni udakāḷhakasahassānīti vā ettakāni udakāḷhakasatasahassānī’ti vā. ",
-            "en": "<span class=\"scv-matched\">how many gallons</span>, how many hundreds, thousands, hundreds of thousands of gallons there are. ",
+            "en": "<span class=\"ebt-matched\">how many gallons</span>, how many hundreds, thousands, hundreds of thousands of gallons there are. ",
             "matched": true
           }
         },
@@ -214,7 +214,7 @@
           "sn44.1:6.7": {
             "scid": "sn44.1:6.7",
             "pli": "ettakāni udakāḷhakāni iti vā, ettakāni udakāḷhakasatāni iti vā, ettakāni udakāḷhakasahassāni iti vā, ettakāni udakāḷhakasatasahassāni iti vā”ti? ",
-            "en": "<span class=\"scv-matched\">how many gallons</span> of water there are, how many hundreds or thousands or hundreds of thousands of gallons of water?” ",
+            "en": "<span class=\"ebt-matched\">how many gallons</span> of water there are, how many hundreds or thousands or hundreds of thousands of gallons of water?” ",
             "matched": true
           }
         },

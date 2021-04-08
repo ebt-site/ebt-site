@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "mn14:20.1": {
             "scid": "mn14:20.1",
             "pli": "‘Na kho, āvuso gotama, sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabbaṁ; ",
-            "en": "‘Reverend Gotama, pleasure is not <span class=\"scv-matched\">gained through pleasure</span>; pleasure is gained through pain. ",
+            "en": "‘Reverend Gotama, pleasure is not <span class=\"ebt-matched\">gained through pleasure</span>; pleasure is gained through pain. ",
             "matched": true
           },
           "mn14:20.2": {
             "scid": "mn14:20.2",
             "pli": "sukhena cāvuso gotama, sukhaṁ adhigantabbaṁ abhavissa, rājā māgadho seniyo bimbisāro sukhaṁ adhigaccheyya, rājā māgadho seniyo bimbisāro sukhavihāritaro āyasmatā gotamenā’ti. ",
-            "en": "For if pleasure were to be <span class=\"scv-matched\">gained through pleasure</span>, King Seniya Bimbisāra of Māgadha would gain pleasure, since he lives in greater pleasure than Venerable Gotama.’ ",
+            "en": "For if pleasure were to be <span class=\"ebt-matched\">gained through pleasure</span>, King Seniya Bimbisāra of Māgadha would gain pleasure, since he lives in greater pleasure than Venerable Gotama.’ ",
             "matched": true
           }
         },
@@ -92,13 +92,13 @@
           "mn85:9.5": {
             "scid": "mn85:9.5",
             "pli": "‘na kho sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabban’”ti. ",
-            "en": "‘Pleasure is not <span class=\"scv-matched\">gained through pleasure</span>; pleasure is gained through pain.’” ",
+            "en": "‘Pleasure is not <span class=\"ebt-matched\">gained through pleasure</span>; pleasure is gained through pain.’” ",
             "matched": true
           },
           "mn85:10.2": {
             "scid": "mn85:10.2",
             "pli": "‘na kho sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabban’ti. ",
-            "en": "‘Pleasure is not <span class=\"scv-matched\">gained through pleasure</span>; pleasure is gained through pain.’ ",
+            "en": "‘Pleasure is not <span class=\"ebt-matched\">gained through pleasure</span>; pleasure is gained through pain.’ ",
             "matched": true
           }
         },

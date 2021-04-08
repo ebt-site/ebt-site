@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "dn14:3.22.5": {
             "scid": "dn14:3.22.5",
             "pli": "mā ekena dve agamittha; ",
-            "en": "Let <span class=\"scv-matched\">not two go by one road</span>. ",
+            "en": "Let <span class=\"ebt-matched\">not two go by one road</span>. ",
             "matched": true
           },
           "dn14:3.26.2": {
             "scid": "dn14:3.26.2",
             "pli": "mā ekena dve agamittha; ",
-            "en": "Let <span class=\"scv-matched\">not two go by one road</span>. ",
+            "en": "Let <span class=\"ebt-matched\">not two go by one road</span>. ",
             "matched": true
           }
         },
@@ -92,7 +92,7 @@
           "sn4.5:2.4": {
             "scid": "sn4.5:2.4",
             "pli": "Mā ekena dve agamittha. ",
-            "en": "Let <span class=\"scv-matched\">not two go by one road</span>. ",
+            "en": "Let <span class=\"ebt-matched\">not two go by one road</span>. ",
             "matched": true
           }
         },

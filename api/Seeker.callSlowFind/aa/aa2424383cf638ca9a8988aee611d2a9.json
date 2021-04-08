@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "dn17:2.12.1": {
             "scid": "dn17:2.12.1",
             "pli": "Evaṁ vutte, ānanda, subhaddā devī parodi assūni pavattesi. ",
-            "de": "Als der König gesprochen hatte, weinte die Königin und <span class=\"scv-matched\">brach in Tränen aus</span>. ",
+            "de": "Als der König gesprochen hatte, weinte die Königin und <span class=\"ebt-matched\">brach in Tränen aus</span>. ",
             "en": "When the king had spoken, Queen Subhaddā cried and burst out in tears. ",
             "matched": true
           }

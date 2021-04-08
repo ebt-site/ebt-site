@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,19 +57,19 @@
           "an5.249:1.3": {
             "scid": "an5.249:1.3",
             "pli": "Asuci, duggandhā, sappaṭibhayā, vāḷānaṁ amanussānaṁ āvāso, bahuno janassa ārodanā—",
-            "en": "It’s filthy, stinking, frightening, a gathering place for <span class=\"scv-matched\">savage monsters</span>, and a weeping place for many people. ",
+            "en": "It’s filthy, stinking, frightening, a gathering place for <span class=\"ebt-matched\">savage monsters</span>, and a weeping place for many people. ",
             "matched": true
           },
           "an5.249:5.2": {
             "scid": "an5.249:5.2",
             "pli": "Idamassa vāḷāvāsasmiṁ vadāmi. ",
-            "en": "This is how they gather with <span class=\"scv-matched\">savage monsters</span>, I say. ",
+            "en": "This is how they gather with <span class=\"ebt-matched\">savage monsters</span>, I say. ",
             "matched": true
           },
           "an5.249:5.3": {
             "scid": "an5.249:5.3",
             "pli": "Seyyathāpi sā, bhikkhave, sivathikā vāḷānaṁ amanussānaṁ āvāso; ",
-            "en": "That person is just as much a gathering place of <span class=\"scv-matched\">savage monsters</span> as a charnel ground. ",
+            "en": "That person is just as much a gathering place of <span class=\"ebt-matched\">savage monsters</span> as a charnel ground. ",
             "matched": true
           }
         },
@@ -98,7 +98,7 @@
           "an5.77:6.3": {
             "scid": "an5.77:6.3",
             "pli": "Santi kho panāraññe vāḷā amanussā, te maṁ jīvitā voropeyyuṁ,  ",
-            "en": "But in a wilderness there are <span class=\"scv-matched\">savage monsters</span> who might take my life. ",
+            "en": "But in a wilderness there are <span class=\"ebt-matched\">savage monsters</span> who might take my life. ",
             "matched": true
           }
         },

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,21 +61,21 @@
           "an4.185:4.6": {
             "scid": "an4.185:4.6",
             "pli": "So tena na samaṇoti maññati, na brāhmaṇoti maññati, na seyyohamasmīti maññati, na sadisohamasmīti maññati, na hīnohamasmīti maññati. ",
-            "de": "Doch er hält sich deswegen nicht für einen ‚Asketen‘ oder ‚Brahmanen‘, und er denkt auch nicht ‚<span class=\"scv-matched\">ich bin besser</span>‘, ‚ich bin gleich‘ oder ‚ich bin schlechter‘. ",
+            "de": "Doch er hält sich deswegen nicht für einen ‚Asketen‘ oder ‚Brahmanen‘, und er denkt auch nicht ‚<span class=\"ebt-matched\">ich bin besser</span>‘, ‚ich bin gleich‘ oder ‚ich bin schlechter‘. ",
             "en": "But they don’t think of themselves as an ‘ascetic’ or ‘brahmin’ because of that. Nor do they think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’. ",
             "matched": true
           },
           "an4.185:5.4": {
             "scid": "an4.185:5.4",
             "pli": "So tena na samaṇoti maññati, na brāhmaṇoti maññati, na seyyohamasmīti maññati, na sadisohamasmīti maññati, na hīnohamasmīti maññati. ",
-            "de": "Doch er hält sich deswegen nicht für einen ‚Asketen‘ oder ‚Brahmanen‘, und er denkt auch nicht ‚<span class=\"scv-matched\">ich bin besser</span>‘, ‚ich bin gleich‘ oder ‚ich bin schlechter‘. ",
+            "de": "Doch er hält sich deswegen nicht für einen ‚Asketen‘ oder ‚Brahmanen‘, und er denkt auch nicht ‚<span class=\"ebt-matched\">ich bin besser</span>‘, ‚ich bin gleich‘ oder ‚ich bin schlechter‘. ",
             "en": "But they don’t think of themselves as an ‘ascetic’ or ‘brahmin’ because of that. Nor do they think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’. ",
             "matched": true
           },
           "an4.185:7.4": {
             "scid": "an4.185:7.4",
             "pli": "So tena na samaṇoti maññati, na brāhmaṇoti maññati, na seyyohamasmīti maññati, na sadisohamasmīti maññati, na hīnohamasmīti maññati. ",
-            "de": "Doch er hält sich deswegen nicht für einen ‚Asketen‘ oder ‚Brahmanen‘, und er denkt auch nicht ‚<span class=\"scv-matched\">ich bin besser</span>‘, ‚ich bin gleich‘ oder ‚ich bin schlechter‘. ",
+            "de": "Doch er hält sich deswegen nicht für einen ‚Asketen‘ oder ‚Brahmanen‘, und er denkt auch nicht ‚<span class=\"ebt-matched\">ich bin besser</span>‘, ‚ich bin gleich‘ oder ‚ich bin schlechter‘. ",
             "en": "But they don’t think of themselves as an ‘ascetic’ or ‘brahmin’ because of that. Nor do they think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’. ",
             "matched": true
           }
@@ -107,7 +107,7 @@
           "dn33:1.10.49": {
             "scid": "dn33:1.10.49",
             "pli": "seyyohamasmīti vidhā, sadisohamasmīti vidhā, hīnohamasmīti vidhā. ",
-            "de": "‚<span class=\"scv-matched\">Ich bin besser</span>‘, ‚ich bin gleich‘ und ‚ich bin schlechter‘. ",
+            "de": "‚<span class=\"ebt-matched\">Ich bin besser</span>‘, ‚ich bin gleich‘ und ‚ich bin schlechter‘. ",
             "en": "‘I’m better’, ‘I’m equal’, and ‘I’m worse’. ",
             "matched": true
           }

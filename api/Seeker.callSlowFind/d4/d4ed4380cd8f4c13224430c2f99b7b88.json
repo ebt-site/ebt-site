@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,7 +65,7 @@
           "an5.249:1.3": {
             "scid": "an5.249:1.3",
             "pli": "Asuci, duggandhā, sappaṭibhayā, vāḷānaṁ amanussānaṁ āvāso, bahuno janassa ārodanā—",
-            "de": "Es ist schmutzig, stinkend, furchteinflößend, ein Versammlungsort für <span class=\"scv-matched\">bösartige Unholde</span> und ein Ort, an dem viele Menschen weinen. ",
+            "de": "Es ist schmutzig, stinkend, furchteinflößend, ein Versammlungsort für <span class=\"ebt-matched\">bösartige Unholde</span> und ein Ort, an dem viele Menschen weinen. ",
             "en": "It’s filthy, stinking, frightening, a gathering place for savage monsters, and a weeping place for many people. ",
             "matched": true
           },
@@ -79,7 +79,7 @@
           "an5.249:5.3": {
             "scid": "an5.249:5.3",
             "pli": "Seyyathāpi sā, bhikkhave, sivathikā vāḷānaṁ amanussānaṁ āvāso; ",
-            "de": "Diese Person ist geradeso ein Versammlungsort für <span class=\"scv-matched\">bösartige Unholde</span> wie ein Leichenfeld. ",
+            "de": "Diese Person ist geradeso ein Versammlungsort für <span class=\"ebt-matched\">bösartige Unholde</span> wie ein Leichenfeld. ",
             "en": "That person is just as much a gathering place of savage monsters as a charnel ground. ",
             "matched": true
           }
@@ -111,7 +111,7 @@
           "an3.56:4.2": {
             "scid": "an3.56:4.2",
             "pli": "Tesaṁ adhammarāgarattānaṁ visamalobhābhibhūtānaṁ micchādhammaparetānaṁ yakkhā vāḷe amanusse ossajjanti, tena bahū manussā kālaṁ karonti. ",
-            "de": "lassen Naturgeister <span class=\"scv-matched\">bösartige Unholde</span> los. So kommen viele Menschen um. ",
+            "de": "lassen Naturgeister <span class=\"ebt-matched\">bösartige Unholde</span> los. So kommen viele Menschen um. ",
             "en": "native spirits let vicious monsters loose. And so many people perish. ",
             "matched": true
           }
@@ -143,7 +143,7 @@
           "an5.77:6.3": {
             "scid": "an5.77:6.3",
             "pli": "Santi kho panāraññe vāḷā amanussā, te maṁ jīvitā voropeyyuṁ,  ",
-            "de": "Doch in der Wildnis gibt es <span class=\"scv-matched\">bösartige Unholde</span>, die mir das Leben nehmen könnten. ",
+            "de": "Doch in der Wildnis gibt es <span class=\"ebt-matched\">bösartige Unholde</span>, die mir das Leben nehmen könnten. ",
             "en": "But in a wilderness there are savage monsters who might take my life. ",
             "matched": true
           }

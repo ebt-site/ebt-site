@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,13 +72,13 @@
           "sn22.44:1.9": {
             "scid": "sn22.44:1.9",
             "pli": "saṅkhāre … ",
-            "en": "They regard <span class=\"scv-matched\">choices as self</span> … ",
+            "en": "They regard <span class=\"ebt-matched\">choices as self</span> … ",
             "matched": true
           },
           "sn22.44:2.6": {
             "scid": "sn22.44:2.6",
             "pli": "na saṅkhāre … ",
-            "en": "They don’t regard <span class=\"scv-matched\">choices as self</span> … ",
+            "en": "They don’t regard <span class=\"ebt-matched\">choices as self</span> … ",
             "matched": true
           }
         },
@@ -107,13 +107,13 @@
           "sn22.7:4.2": {
             "scid": "sn22.7:4.2",
             "pli": "saṅkhāre attato samanupassati, saṅkhāravantaṁ vā attānaṁ; attani vā saṅkhāre, saṅkhāresu vā attānaṁ. ",
-            "en": "They regard <span class=\"scv-matched\">choices as self</span> … ",
+            "en": "They regard <span class=\"ebt-matched\">choices as self</span> … ",
             "matched": true
           },
           "sn22.7:8.2": {
             "scid": "sn22.7:8.2",
             "pli": "na attani vā saṅkhāre, na saṅkhāresu vā attānaṁ. ",
-            "en": "They don’t regard <span class=\"scv-matched\">choices as self</span> … ",
+            "en": "They don’t regard <span class=\"ebt-matched\">choices as self</span> … ",
             "matched": true
           }
         },
@@ -142,13 +142,13 @@
           "an4.200:9.5": {
             "scid": "an4.200:9.5",
             "pli": "saṅkhāre attato samanupassati, saṅkhāravantaṁ vā attānaṁ, attani vā saṅkhāre, saṅkhāresu vā attānaṁ; ",
-            "en": "They regard <span class=\"scv-matched\">choices as self</span>, self as having choices, choices in self, or self in choices. ",
+            "en": "They regard <span class=\"ebt-matched\">choices as self</span>, self as having choices, choices in self, or self in choices. ",
             "matched": true
           },
           "an4.200:10.5": {
             "scid": "an4.200:10.5",
             "pli": "na saṅkhāre attato samanupassati, na saṅkhāravantaṁ vā attānaṁ, na attani vā saṅkhāre, na saṅkhāresu vā attānaṁ; ",
-            "en": "They don’t regard <span class=\"scv-matched\">choices as self</span>, self as having choices, choices in self, or self in choices. ",
+            "en": "They don’t regard <span class=\"ebt-matched\">choices as self</span>, self as having choices, choices in self, or self in choices. ",
             "matched": true
           }
         },
@@ -177,13 +177,13 @@
           "sn22.1:12.1": {
             "scid": "sn22.1:12.1",
             "pli": "Saṅkhāre attato samanupassati, saṅkhāravantaṁ vā attānaṁ; attani vā saṅkhāre, saṅkhāresu vā attānaṁ. ",
-            "en": "They regard <span class=\"scv-matched\">choices as self</span>, self as having choices, choices in self, or self in choices. ",
+            "en": "They regard <span class=\"ebt-matched\">choices as self</span>, self as having choices, choices in self, or self in choices. ",
             "matched": true
           },
           "sn22.1:17.1": {
             "scid": "sn22.1:17.1",
             "pli": "Na saṅkhāre attato samanupassati, na saṅkhāravantaṁ vā attānaṁ; na attani vā saṅkhāre, na saṅkhāresu vā attānaṁ. ",
-            "en": "They don’t regard <span class=\"scv-matched\">choices as self</span>, self as having choices, choices in self, or self in choices. ",
+            "en": "They don’t regard <span class=\"ebt-matched\">choices as self</span>, self as having choices, choices in self, or self in choices. ",
             "matched": true
           }
         },
@@ -212,13 +212,13 @@
           "mn109:10.6": {
             "scid": "mn109:10.6",
             "pli": "saṅkhāre attato samanupassati saṅkhāravantaṁ vā attānaṁ attani vā saṅkhāre saṅkhāresu vā attānaṁ; ",
-            "en": "They regard <span class=\"scv-matched\">choices as self</span>, self as having choices, choices in self, or self in choices. ",
+            "en": "They regard <span class=\"ebt-matched\">choices as self</span>, self as having choices, choices in self, or self in choices. ",
             "matched": true
           },
           "mn109:11.6": {
             "scid": "mn109:11.6",
             "pli": "na saṅkhāre attato samanupassati na saṅkhāravantaṁ vā attānaṁ na attani vā saṅkhāre na saṅkhāresu vā attānaṁ; ",
-            "en": "They don’t regard <span class=\"scv-matched\">choices as self</span>, self as having choices, choices in self, or self in choices. ",
+            "en": "They don’t regard <span class=\"ebt-matched\">choices as self</span>, self as having choices, choices in self, or self in choices. ",
             "matched": true
           }
         },
@@ -247,7 +247,7 @@
           "sn22.43:2.10": {
             "scid": "sn22.43:2.10",
             "pli": "saṅkhāre attato samanupassati … ",
-            "en": "They regard <span class=\"scv-matched\">choices as self</span> … ",
+            "en": "They regard <span class=\"ebt-matched\">choices as self</span> … ",
             "matched": true
           }
         },
@@ -276,7 +276,7 @@
           "sn22.81:9.4": {
             "scid": "sn22.81:9.4",
             "pli": "api ca kho saṅkhāre attato samanupassati, api ca kho saṅkhāravantaṁ attānaṁ samanupassati, api ca kho attani saṅkhāre samanupassati, api ca kho saṅkhāresu attānaṁ samanupassati; ",
-            "en": "<span class=\"scv-matched\">choices as self</span> … ",
+            "en": "<span class=\"ebt-matched\">choices as self</span> … ",
             "matched": true
           }
         },

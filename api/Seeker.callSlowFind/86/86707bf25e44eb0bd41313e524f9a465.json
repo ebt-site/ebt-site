@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,49 +65,49 @@
           "an3.20:1.3": {
             "scid": "an3.20:1.3",
             "pli": "Idha, bhikkhave, pāpaṇiko cakkhumā ca hoti vidhuro ca nissayasampanno ca. ",
-            "de": "Es ist, wenn ein Kaufmann klar sieht, <span class=\"scv-matched\">verantwortung</span>svoll ist und Förderer hat. ",
+            "de": "Es ist, wenn ein Kaufmann klar sieht, <span class=\"ebt-matched\">verantwortung</span>svoll ist und Förderer hat. ",
             "en": "It’s when a shopkeeper sees clearly, is responsible, and has supporters. ",
             "matched": true
           },
           "an3.20:2.1": {
             "scid": "an3.20:2.1",
             "pli": "Kathañca, bhikkhave, pāpaṇiko vidhuro hoti? ",
-            "de": "Und wie ist ein Kaufmann <span class=\"scv-matched\">verantwortung</span>svoll? ",
+            "de": "Und wie ist ein Kaufmann <span class=\"ebt-matched\">verantwortung</span>svoll? ",
             "en": "And how is a shopkeeper responsible? ",
             "matched": true
           },
           "an3.20:2.3": {
             "scid": "an3.20:2.3",
             "pli": "Evaṁ kho, bhikkhave, pāpaṇiko vidhuro hoti. ",
-            "de": "So ist ein Kaufmann <span class=\"scv-matched\">verantwortung</span>svoll. ",
+            "de": "So ist ein Kaufmann <span class=\"ebt-matched\">verantwortung</span>svoll. ",
             "en": "That’s how a shopkeeper is responsible. ",
             "matched": true
           },
           "an3.20:3.3": {
             "scid": "an3.20:3.3",
             "pli": "‘ayaṁ kho bhavaṁ pāpaṇiko cakkhumā vidhuro ca paṭibalo puttadārañca posetuṁ, amhākañca kālena kālaṁ anuppadātun’ti. ",
-            "de": "‚Dieser Kaufmann schaut sich um und ist <span class=\"scv-matched\">verantwortung</span>svoll. Er ist in der Lage, für seine Frauen und Kinder zu sorgen und uns von Zeit zu Zeit zurückzuzahlen.‘ ",
+            "de": "‚Dieser Kaufmann schaut sich um und ist <span class=\"ebt-matched\">verantwortung</span>svoll. Er ist in der Lage, für seine Frauen und Kinder zu sorgen und uns von Zeit zu Zeit zurückzuzahlen.‘ ",
             "en": "‘This good shopkeeper keeps an eye out and is responsible. They are capable of providing for their wives and children, and paying us back from time to time.’ ",
             "matched": true
           },
           "an3.20:4.3": {
             "scid": "an3.20:4.3",
             "pli": "Idha, bhikkhave, bhikkhu cakkhumā ca hoti vidhuro ca nissayasampanno ca. ",
-            "de": "Es ist, wenn eine Nonne klar sieht, <span class=\"scv-matched\">verantwortung</span>svoll ist und Förderer hat. ",
+            "de": "Es ist, wenn eine Nonne klar sieht, <span class=\"ebt-matched\">verantwortung</span>svoll ist und Förderer hat. ",
             "en": "It’s when a mendicant sees clearly, is responsible, and has supporters. ",
             "matched": true
           },
           "an3.20:5.1": {
             "scid": "an3.20:5.1",
             "pli": "Kathañca, bhikkhave, bhikkhu vidhuro hoti? ",
-            "de": "Und wie ist eine Nonne <span class=\"scv-matched\">verantwortung</span>svoll? ",
+            "de": "Und wie ist eine Nonne <span class=\"ebt-matched\">verantwortung</span>svoll? ",
             "en": "And how is a mendicant responsible? ",
             "matched": true
           },
           "an3.20:5.3": {
             "scid": "an3.20:5.3",
             "pli": "Evaṁ kho, bhikkhave, bhikkhu vidhuro hoti. ",
-            "de": "So ist eine Nonne <span class=\"scv-matched\">verantwortung</span>svoll. ",
+            "de": "So ist eine Nonne <span class=\"ebt-matched\">verantwortung</span>svoll. ",
             "en": "That’s how a mendicant is responsible. ",
             "matched": true
           }
@@ -139,14 +139,14 @@
           "an4.258:1.3": {
             "scid": "an4.258:1.3",
             "pli": "Naṭṭhaṁ na gavesanti, jiṇṇaṁ na paṭisaṅkharonti, aparimitapānabhojanā honti, dussīlaṁ itthiṁ vā purisaṁ vā ādhipacce ṭhapenti. ",
-            "de": "Sie suchen nicht nach Verlorenem; sie reparieren alte Dinge nicht; sie essen und trinken zu viel; oder sie übertragen <span class=\"scv-matched\">Verantwortung</span> an eine unmoralische Frau oder einen unmoralischen Mann. ",
+            "de": "Sie suchen nicht nach Verlorenem; sie reparieren alte Dinge nicht; sie essen und trinken zu viel; oder sie übertragen <span class=\"ebt-matched\">Verantwortung</span> an eine unmoralische Frau oder einen unmoralischen Mann. ",
             "en": "They don’t look for what’s lost; they don’t fix old things; they eat and drink too much; or they put an unethical woman or man in charge. ",
             "matched": true
           },
           "an4.258:2.3": {
             "scid": "an4.258:2.3",
             "pli": "Naṭṭhaṁ gavesanti, jiṇṇaṁ paṭisaṅkharonti, parimitapānabhojanā honti, sīlavantaṁ itthiṁ vā purisaṁ vā ādhipacce ṭhapenti. ",
-            "de": "Sie suchen nach Verlorenem; sie reparieren alte Dinge; sie essen und trinken in Maßen; und sie übertragen <span class=\"scv-matched\">Verantwortung</span> an eine sittliche Frau oder einen sittlichen Mann. ",
+            "de": "Sie suchen nach Verlorenem; sie reparieren alte Dinge; sie essen und trinken in Maßen; und sie übertragen <span class=\"ebt-matched\">Verantwortung</span> an eine sittliche Frau oder einen sittlichen Mann. ",
             "en": "They look for what’s lost; they fix old things; they eat and drink in moderation; and they put an ethical woman or man in charge. ",
             "matched": true
           }
@@ -178,7 +178,7 @@
           "sn47.9:4.5": {
             "scid": "sn47.9:4.5",
             "pli": "‘ahaṁ bhikkhusaṅghaṁ pariharissāmī’ti vā, ‘mamuddesiko bhikkhusaṅgho’ti vā, so nūna, ānanda, bhikkhusaṅghaṁ ārabbha kiñcideva udāhareyya. ",
-            "de": "‚Ich werde die <span class=\"scv-matched\">Verantwortung</span> für den Saṅgha der Mönche und Nonnen übernehmen‘ oder ‚der Saṅgha der Mönche und Nonnen ist für mich bestimmt‘, so soll diese Person eine Erklärung über den Saṅgha abgeben. ",
+            "de": "‚Ich werde die <span class=\"ebt-matched\">Verantwortung</span> für den Saṅgha der Mönche und Nonnen übernehmen‘ oder ‚der Saṅgha der Mönche und Nonnen ist für mich bestimmt‘, so soll diese Person eine Erklärung über den Saṅgha abgeben. ",
             "en": "‘I’ll take charge of the Saṅgha of mendicants,’ or ‘the Saṅgha of mendicants is meant for me,’ let them make a statement regarding the Saṅgha. ",
             "matched": true
           }

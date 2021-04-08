@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an5.28:2.4": {
             "scid": "an5.28:2.4",
             "pli": "Seyyathāpi, bhikkhave, dakkho nhāpako vā nhāpakantevāsī vā kaṁsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṁ paripphosakaṁ sanneyya. Sāyaṁ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā phuṭā snehena, na ca paggharinī. ",
-            "de": "Wie ein geschickter Bader oder Badergehilfe, der Seifenpulver in eine Bronzeschale gibt und es nach und nach mit Wasser benetzt. Er knetet es, bis <span class=\"scv-matched\">die Kugel aus Seifenpulver</span> mit Feuchtigkeit vollgesogen und gesättigt ist, innen und außen durchtränkt, und doch kein Wasser ausläuft. ",
+            "de": "Wie ein geschickter Bader oder Badergehilfe, der Seifenpulver in eine Bronzeschale gibt und es nach und nach mit Wasser benetzt. Er knetet es, bis <span class=\"ebt-matched\">die Kugel aus Seifenpulver</span> mit Feuchtigkeit vollgesogen und gesättigt ist, innen und außen durchtränkt, und doch kein Wasser ausläuft. ",
             "en": "It’s like when a deft bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out. ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "dn10:2.14.1": {
             "scid": "dn10:2.14.1",
             "pli": "Seyyathāpi, māṇava, dakkho nhāpako vā nhāpakantevāsī vā kaṁsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṁ paripphosakaṁ sanneyya. Sāyaṁ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā phuṭā snehena, na ca paggharaṇī. ",
-            "de": "Wie ein geschickter Bader oder Badergehilfe, der Seifenpulver in eine Bronzeschale gibt und es nach und nach mit Wasser benetzt. Er knetet es, bis <span class=\"scv-matched\">die Kugel aus Seifenpulver</span> mit Feuchtigkeit vollgesogen und gesättigt ist, innen und außen durchtränkt, und doch kein Wasser ausläuft. ",
+            "de": "Wie ein geschickter Bader oder Badergehilfe, der Seifenpulver in eine Bronzeschale gibt und es nach und nach mit Wasser benetzt. Er knetet es, bis <span class=\"ebt-matched\">die Kugel aus Seifenpulver</span> mit Feuchtigkeit vollgesogen und gesättigt ist, innen und außen durchtränkt, und doch kein Wasser ausläuft. ",
             "en": "It’s like when a deft bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out. ",
             "matched": true
           }

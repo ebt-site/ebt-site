@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -69,7 +69,7 @@
           "sn6.1:6.3": {
             "scid": "sn6.1:6.3",
             "pli": "Apāpuretaṁ amatassa dvāraṁ, ",
-            "en": "Fling open the <span class=\"scv-matched\">door to the deathless</span>! ",
+            "en": "Fling open the <span class=\"ebt-matched\">door to the deathless</span>! ",
             "matched": true
           },
           "sn6.1:10.1": {
@@ -104,7 +104,7 @@
           "an11.16:10.3": {
             "scid": "an11.16:10.3",
             "pli": "evamevaṁ kho ahaṁ, bhante, ekaṁ amatadvāraṁ gavesanto sakideva ekādasa amatadvārāni alatthaṁ sevanāya. ",
-            "en": "In the same way, I was searching for the <span class=\"scv-matched\">door to the deathless</span>. And all at once I got to hear of eleven doors to the deathless. ",
+            "en": "In the same way, I was searching for the <span class=\"ebt-matched\">door to the deathless</span>. And all at once I got to hear of eleven doors to the deathless. ",
             "matched": true
           },
           "an11.16:10.5": {
@@ -139,7 +139,7 @@
           "mn52:15.3": {
             "scid": "mn52:15.3",
             "pli": "evameva kho ahaṁ, bhante, ekaṁ amatadvāraṁ gavesanto sakideva ekādasa amatadvārāni alatthaṁ bhāvanāya. ",
-            "en": "In the same way, I was searching for the <span class=\"scv-matched\">door to the deathless</span>. And all at once I got to hear of eleven doors to the deathless. ",
+            "en": "In the same way, I was searching for the <span class=\"ebt-matched\">door to the deathless</span>. And all at once I got to hear of eleven doors to the deathless. ",
             "matched": true
           },
           "mn52:15.5": {
@@ -174,7 +174,7 @@
           "mn26:20.12": {
             "scid": "mn26:20.12",
             "pli": "Apāpuretaṁ amatassa dvāraṁ, ",
-            "en": "Fling open the <span class=\"scv-matched\">door to the deathless</span>! ",
+            "en": "Fling open the <span class=\"ebt-matched\">door to the deathless</span>! ",
             "matched": true
           },
           "mn26:21.6": {
@@ -209,7 +209,7 @@
           "mn85:44.12": {
             "scid": "mn85:44.12",
             "pli": "Apāpuretaṁ amatassa dvāraṁ, ",
-            "en": "Fling open the <span class=\"scv-matched\">door to the deathless</span>! ",
+            "en": "Fling open the <span class=\"ebt-matched\">door to the deathless</span>! ",
             "matched": true
           },
           "mn85:45.6": {
@@ -244,7 +244,7 @@
           "iti84:6.3": {
             "scid": "iti84:6.3",
             "pli": "Apāpuranti amatassa dvāraṁ,",
-            "en": "They fling open the <span class=\"scv-matched\">door to the deathless</span>,",
+            "en": "They fling open the <span class=\"ebt-matched\">door to the deathless</span>,",
             "matched": true
           }
         },

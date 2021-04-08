@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,13 +60,13 @@
           "sn56.1:1.4": {
             "scid": "sn56.1:1.4",
             "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
-            "en": "A mendicant <span class=\"scv-matched\">who has immersion truly understands</span>. ",
+            "en": "A mendicant <span class=\"ebt-matched\">who has immersion truly understands</span>. ",
             "matched": true
           },
           "sn56.1:1.8": {
             "scid": "sn56.1:1.8",
             "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
-            "en": "A mendicant <span class=\"scv-matched\">who has immersion truly understands</span>. ",
+            "en": "A mendicant <span class=\"ebt-matched\">who has immersion truly understands</span>. ",
             "matched": true
           }
         },
@@ -95,13 +95,13 @@
           "sn35.99:1.2": {
             "scid": "sn35.99:1.2",
             "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
-            "en": "A mendicant <span class=\"scv-matched\">who has immersion truly understands</span>. ",
+            "en": "A mendicant <span class=\"ebt-matched\">who has immersion truly understands</span>. ",
             "matched": true
           },
           "sn35.99:1.15": {
             "scid": "sn35.99:1.15",
             "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānātī”ti. ",
-            "en": "A mendicant <span class=\"scv-matched\">who has immersion truly understands</span>.” ",
+            "en": "A mendicant <span class=\"ebt-matched\">who has immersion truly understands</span>.” ",
             "matched": true
           }
         },
@@ -130,7 +130,7 @@
           "sn22.5:1.5": {
             "scid": "sn22.5:1.5",
             "pli": "samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
-            "en": "A mendicant <span class=\"scv-matched\">who has immersion truly understands</span>. ",
+            "en": "A mendicant <span class=\"ebt-matched\">who has immersion truly understands</span>. ",
             "matched": true
           }
         },

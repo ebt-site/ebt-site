@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -83,7 +83,7 @@
           "an1.319:1.1": {
             "scid": "an1.319:1.1",
             "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekapuggalampi samanupassāmi yo evaṁ bahujanaahitāya paṭipanno bahujanaasukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ yathayidaṁ, bhikkhave, makkhali moghapuriso. ",
-            "de": "„Mönche und Nonnen, ich sehe keinen anderen Menschen, der so zum Schaden und Unglück vieler Menschen handelt, zum Nachteil, Schaden und <span class=\"scv-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen, wie Makkhali, dieser törichte Mann. ",
+            "de": "„Mönche und Nonnen, ich sehe keinen anderen Menschen, der so zum Schaden und Unglück vieler Menschen handelt, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen, wie Makkhali, dieser törichte Mann. ",
             "en": "“Mendicants, I do not see a single other person who acts for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans like that silly man, Makkhali. ",
             "matched": true
           },
@@ -122,14 +122,14 @@
           "an3.11:1.1": {
             "scid": "an3.11:1.1",
             "pli": "“Tīhi, bhikkhave, dhammehi samannāgato ñāto bhikkhu bahujanaahitāya paṭipanno hoti bahujanadukkhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
-            "de": "„Mönche und Nonnen, ein renommierter Mönch, der drei Eigenschaften besitzt, handelt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"scv-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
+            "de": "„Mönche und Nonnen, ein renommierter Mönch, der drei Eigenschaften besitzt, handelt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
             "en": "“Mendicants, a well-known mendicant who has three qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. ",
             "matched": true
           },
           "an3.11:1.4": {
             "scid": "an3.11:1.4",
             "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato ñāto bhikkhu bahujanaahitāya paṭipanno hoti bahujanadukkhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
-            "de": "Ein renommierter Mönch, der diese drei Eigenschaften besitzt, handelt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"scv-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
+            "de": "Ein renommierter Mönch, der diese drei Eigenschaften besitzt, handelt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
             "en": "A well-known mendicant who has these three qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. ",
             "matched": true
           }
@@ -161,14 +161,14 @@
           "an5.88:1.1": {
             "scid": "an5.88:1.1",
             "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu bahujanaahitāya paṭipanno hoti bahujanaasukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
-            "de": "„Mönche und Nonnen, ein Ordensältester, der fünf Eigenschaften besitzt, handelt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"scv-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
+            "de": "„Mönche und Nonnen, ein Ordensältester, der fünf Eigenschaften besitzt, handelt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
             "en": "“Mendicants, a senior mendicant who has five qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. ",
             "matched": true
           },
           "an5.88:2.8": {
             "scid": "an5.88:2.8",
             "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu bahujanaahitāya paṭipanno hoti bahujanaasukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
-            "de": "Ein Ordensältester, der diese fünf Eigenschaften besitzt, handelt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"scv-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
+            "de": "Ein Ordensältester, der diese fünf Eigenschaften besitzt, handelt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
             "en": "A senior mendicant who has these five qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. ",
             "matched": true
           }
@@ -200,14 +200,14 @@
           "an2.39:1.6": {
             "scid": "an2.39:1.6",
             "pli": "Tayidaṁ, bhikkhave, hoti bahujanāhitāya bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
-            "de": "Das ist zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"scv-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
+            "de": "Das ist zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
             "en": "This is for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans. ",
             "matched": true
           },
           "an2.41:1.1": {
             "scid": "an2.41:1.1",
             "pli": "“Ye te, bhikkhave, bhikkhū duggahitehi suttantehi byañjanappatirūpakehi atthañca dhammañca paṭibāhanti te, bhikkhave, bhikkhū bahujanāhitāya paṭipannā bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
-            "de": "„Mönche und Nonnen, indem sie sich die Lehrreden fehlerhaft einprägen und nur einen ähnlichen Ausdruck nehmen, schließen manche Mönche und Nonnen die Bedeutung und die Lehre aus. Sie handeln zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"scv-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
+            "de": "„Mönche und Nonnen, indem sie sich die Lehrreden fehlerhaft einprägen und nur einen ähnlichen Ausdruck nehmen, schließen manche Mönche und Nonnen die Bedeutung und die Lehre aus. Sie handeln zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
             "en": "“Mendicants, by memorizing the discourses incorrectly, taking only a semblance of the phrasing, some mendicants shut out the meaning and the teaching. They act for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans. ",
             "matched": true
           }

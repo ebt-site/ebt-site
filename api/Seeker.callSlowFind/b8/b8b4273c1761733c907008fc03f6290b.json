@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,21 +61,21 @@
           "an3.40:1.8": {
             "scid": "an3.40:1.8",
             "pli": "Api ca khomhi otiṇṇo jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto. ",
-            "de": "Sondern ich war in Wiedergeburt, Alter und Tod versunken, in Kummer, Klage, Schmerz, Traurigkeit und Bedrängnis. Ich war im Leiden versunken, <span class=\"scv-matched\">im Leiden verstrickt</span>. ",
+            "de": "Sondern ich war in Wiedergeburt, Alter und Tod versunken, in Kummer, Klage, Schmerz, Traurigkeit und Bedrängnis. Ich war im Leiden versunken, <span class=\"ebt-matched\">im Leiden verstrickt</span>. ",
             "en": "But I was swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I was swamped by suffering, mired in suffering. ",
             "matched": true
           },
           "an3.40:2.5": {
             "scid": "an3.40:2.5",
             "pli": "Api ca khomhi otiṇṇo jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto. ",
-            "de": "Sondern ich war in Wiedergeburt, Alter und Tod versunken, in Kummer, Klage, Schmerz, Traurigkeit und Bedrängnis. Ich war im Leiden versunken, <span class=\"scv-matched\">im Leiden verstrickt</span>. ",
+            "de": "Sondern ich war in Wiedergeburt, Alter und Tod versunken, in Kummer, Klage, Schmerz, Traurigkeit und Bedrängnis. Ich war im Leiden versunken, <span class=\"ebt-matched\">im Leiden verstrickt</span>. ",
             "en": "But I was swamped by rebirth, old age, and death, by sorrow, lamentation, pain, sadness, and distress. I was swamped by suffering, mired in suffering. ",
             "matched": true
           },
           "an3.40:3.5": {
             "scid": "an3.40:3.5",
             "pli": "Api ca khomhi otiṇṇo jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto. ",
-            "de": "Sondern ich war in Wiedergeburt, Alter und Tod versunken, in Kummer, Klage, Schmerz, Traurigkeit und Bedrängnis. Ich war im Leiden versunken, <span class=\"scv-matched\">im Leiden verstrickt</span>. ",
+            "de": "Sondern ich war in Wiedergeburt, Alter und Tod versunken, in Kummer, Klage, Schmerz, Traurigkeit und Bedrängnis. Ich war im Leiden versunken, <span class=\"ebt-matched\">im Leiden verstrickt</span>. ",
             "en": "But I was swamped by rebirth, old age, and death, by sorrow, lamentation, pain, sadness, and distress. I was swamped by suffering, mired in suffering. ",
             "matched": true
           }
@@ -107,7 +107,7 @@
           "an4.122:2.3": {
             "scid": "an4.122:2.3",
             "pli": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto; ",
-            "de": "‚Ich bin in Wiedergeburt, Alter und Tod versunken, in Kummer, Klage, Schmerz, Traurigkeit und Bedrängnis. Ich bin im Leiden versunken, <span class=\"scv-matched\">im Leiden verstrickt</span>. ",
+            "de": "‚Ich bin in Wiedergeburt, Alter und Tod versunken, in Kummer, Klage, Schmerz, Traurigkeit und Bedrängnis. Ich bin im Leiden versunken, <span class=\"ebt-matched\">im Leiden verstrickt</span>. ",
             "en": "‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, mired in suffering. ",
             "matched": true
           }

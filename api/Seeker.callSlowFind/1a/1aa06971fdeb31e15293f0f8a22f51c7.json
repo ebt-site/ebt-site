@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,19 +72,19 @@
           "an1.53:1.1": {
             "scid": "an1.53:1.1",
             "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ āsevati; ",
-            "en": "“If, mendicants, a mendicant cultivates a <span class=\"scv-matched\">mind of love</span> even as long as a finger-snap, ",
+            "en": "“If, mendicants, a mendicant cultivates a <span class=\"ebt-matched\">mind of love</span> even as long as a finger-snap, ",
             "matched": true
           },
           "an1.54:1.1": {
             "scid": "an1.54:1.1",
             "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ bhāveti; ",
-            "en": "“If, mendicants, a mendicant develops a <span class=\"scv-matched\">mind of love</span> even as long as a finger-snap, ",
+            "en": "“If, mendicants, a mendicant develops a <span class=\"ebt-matched\">mind of love</span> even as long as a finger-snap, ",
             "matched": true
           },
           "an1.55:1.1": {
             "scid": "an1.55:1.1",
             "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ manasi karoti; ",
-            "en": "“If, mendicants, a mendicant focuses on a <span class=\"scv-matched\">mind of love</span> even as long as a finger-snap, ",
+            "en": "“If, mendicants, a mendicant focuses on a <span class=\"ebt-matched\">mind of love</span> even as long as a finger-snap, ",
             "matched": true
           }
         },
@@ -113,13 +113,13 @@
           "an4.67:2.1": {
             "scid": "an4.67:2.1",
             "pli": "“Na hi nūna so, bhikkhave, bhikkhu cattāri ahirājakulāni mettena cittena phari. ",
-            "en": "“Mendicants, that monk mustn’t have spread a <span class=\"scv-matched\">mind of love</span> to the four royal snake families. ",
+            "en": "“Mendicants, that monk mustn’t have spread a <span class=\"ebt-matched\">mind of love</span> to the four royal snake families. ",
             "matched": true
           },
           "an4.67:4.1": {
             "scid": "an4.67:4.1",
             "pli": "Anujānāmi, bhikkhave, imāni cattāri ahirājakulāni mettena cittena pharituṁ attaguttiyā attarakkhāya attaparittāyāti. ",
-            "en": "Mendicants, I urge you to spread a <span class=\"scv-matched\">mind of love</span> to the four royal snake families, for your own safety, security, and protection. ",
+            "en": "Mendicants, I urge you to spread a <span class=\"ebt-matched\">mind of love</span> to the four royal snake families, for your own safety, security, and protection. ",
             "matched": true
           }
         },
@@ -148,13 +148,13 @@
           "an7.62:1.4": {
             "scid": "an7.62:1.4",
             "pli": "Satta vassāni mettacittaṁ bhāvesiṁ. ",
-            "en": "I developed a <span class=\"scv-matched\">mind of love</span> for seven years. ",
+            "en": "I developed a <span class=\"ebt-matched\">mind of love</span> for seven years. ",
             "matched": true
           },
           "an7.62:3.3": {
             "scid": "an7.62:3.3",
             "pli": "Mettaṁ cittaṁ vibhāvetvā, ",
-            "en": "I developed a <span class=\"scv-matched\">mind of love</span> ",
+            "en": "I developed a <span class=\"ebt-matched\">mind of love</span> ",
             "matched": true
           }
         },
@@ -183,7 +183,7 @@
           "thag3.7:2.1": {
             "scid": "thag3.7:2.1",
             "pli": "Yo ca mettena cittena,",
-            "en": "But someone with a <span class=\"scv-matched\">mind of love</span>,",
+            "en": "But someone with a <span class=\"ebt-matched\">mind of love</span>,",
             "matched": true
           }
         },
@@ -212,7 +212,7 @@
           "iti60:3.4": {
             "scid": "iti60:3.4",
             "pli": "mettacittañca bhāvaye.",
-            "en": "developing a <span class=\"scv-matched\">mind of love</span>:",
+            "en": "developing a <span class=\"ebt-matched\">mind of love</span>:",
             "matched": true
           }
         },
@@ -241,7 +241,7 @@
           "iti22:5.4": {
             "scid": "iti22:5.4",
             "pli": "mettacittañca bhāvaye.",
-            "en": "developing a <span class=\"scv-matched\">mind of love</span>:",
+            "en": "developing a <span class=\"ebt-matched\">mind of love</span>:",
             "matched": true
           }
         },
@@ -270,7 +270,7 @@
           "thag14.1:4.3": {
             "scid": "thag14.1:4.3",
             "pli": "Mettacittañca bhāvemi,",
-            "en": "I develop a <span class=\"scv-matched\">mind of love</span>,",
+            "en": "I develop a <span class=\"ebt-matched\">mind of love</span>,",
             "matched": true
           }
         },

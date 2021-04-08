@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "dn10:2.27.3": {
             "scid": "dn10:2.27.3",
             "pli": "Seyyathāpi, māṇava, puriso addhānamaggappaṭipanno. So suṇeyya bherisaddampi mudiṅgasaddampi saṅkhapaṇavadindimasaddampi. Tassa evamassa—bherisaddo itipi mudiṅgasaddo itipi saṅkhapaṇavadindimasaddo itipi. ",
-            "de": "Wie <span class=\"scv-matched\">wenn ein Mensch eine Straße entlangwanderte</span>, und er hörte den Klang von Trommeln, Schlaginstrumenten, Hörnern, Pauken und Tomtoms. Er dächte: ‚Das ist der Klang von Trommeln‘, ‚Das ist der Klang von Schlaginstrumenten‘ und ‚Das ist der Klang von Hörnern, Pauken und Tomtoms‘. ",
+            "de": "Wie <span class=\"ebt-matched\">wenn ein Mensch eine Straße entlangwanderte</span>, und er hörte den Klang von Trommeln, Schlaginstrumenten, Hörnern, Pauken und Tomtoms. Er dächte: ‚Das ist der Klang von Trommeln‘, ‚Das ist der Klang von Schlaginstrumenten‘ und ‚Das ist der Klang von Hörnern, Pauken und Tomtoms‘. ",
             "en": "Suppose there was a person traveling along the road. They’d hear the sound of drums, clay drums, horns, kettledrums, and tom-toms. They’d think: ‘That’s the sound of drums,’ and ‘that’s the sound of clay-drums,’ and ‘that’s the sound of horns, kettledrums, and tom-toms.’ ",
             "matched": true
           }

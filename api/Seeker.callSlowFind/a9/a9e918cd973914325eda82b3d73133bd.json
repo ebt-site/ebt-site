@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -93,21 +93,21 @@
           "dn29:34.8": {
             "scid": "dn29:34.8",
             "pli": "‘sassato attā ca loko ca, idameva saccaṁ moghamaññan’ti. ",
-            "de": "‚‚Das Selbst und das Weltall sind ewig. <span class=\"scv-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
+            "de": "‚‚Das Selbst und das Weltall sind ewig. <span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
             "en": "‘The self and the cosmos are eternal. This is the only truth, other ideas are silly.’ ",
             "matched": true
           },
           "dn29:34.24": {
             "scid": "dn29:34.24",
             "pli": "asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ sukhadukkhaṁ, idameva saccaṁ moghamaññan’ti. ",
-            "de": "oder sie sind durch Zufall entstanden und wurden weder von einem selbst  noch von jemand anderem geschaffen. <span class=\"scv-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
+            "de": "oder sie sind durch Zufall entstanden und wurden weder von einem selbst  noch von jemand anderem geschaffen. <span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
             "en": "or they have arisen by chance, not made by oneself or another. This is the only truth, other ideas are silly.’ ",
             "matched": true
           },
           "dn29:35.7": {
             "scid": "dn29:35.7",
             "pli": "‘idameva saccaṁ moghamaññan’ti. ",
-            "de": "<span class=\"scv-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm‘, ",
+            "de": "<span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm‘, ",
             "en": "This is the only truth, other ideas are silly,’ ",
             "matched": true
           },
@@ -121,7 +121,7 @@
           "dn29:38.7": {
             "scid": "dn29:38.7",
             "pli": "‘idameva saccaṁ moghamaññan’ti. ",
-            "de": "<span class=\"scv-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm‘, ",
+            "de": "<span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm‘, ",
             "en": "This is the only truth, other ideas are silly,’ ",
             "matched": true
           }
@@ -153,14 +153,14 @@
           "an2.51:1.8": {
             "scid": "an2.51:1.8",
             "pli": "‘idameva saccaṁ moghamaññan’ti. ",
-            "de": "‚<span class=\"scv-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
+            "de": "‚<span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
             "en": "‘This is the only truth, other ideas are silly.’ ",
             "matched": true
           },
           "an2.51:2.5": {
             "scid": "an2.51:2.5",
             "pli": "‘idameva saccaṁ moghamaññan’ti. ",
-            "de": "‚<span class=\"scv-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
+            "de": "‚<span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
             "en": "‘This is the only truth, other ideas are silly.’ ",
             "matched": true
           }
@@ -192,7 +192,7 @@
           "dn21:2.6.7": {
             "scid": "dn21:2.6.7",
             "pli": "‘idameva saccaṁ moghamaññan’ti. ",
-            "de": "‚<span class=\"scv-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
+            "de": "‚<span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
             "en": "‘This is the only truth, other ideas are silly.’ ",
             "matched": true
           }

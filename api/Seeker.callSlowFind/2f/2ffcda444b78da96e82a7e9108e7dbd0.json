@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "sn12.24:4.1": {
             "scid": "sn12.24:4.1",
             "pli": "“Paṭiccasamuppannaṁ kho, āvuso, dukkhaṁ vuttaṁ bhagavatā. ",
-            "en": "“Reverends, the Buddha said that <span class=\"scv-matched\">suffering is dependently originated</span>. ",
+            "en": "“Reverends, the Buddha said that <span class=\"ebt-matched\">suffering is dependently originated</span>. ",
             "matched": true
           },
           "sn12.24:8.2": {
             "scid": "sn12.24:8.2",
             "pli": "Paṭiccasamuppannaṁ kho, ānanda, dukkhaṁ vuttaṁ mayā. ",
-            "en": "I have said that <span class=\"scv-matched\">suffering is dependently originated</span>. ",
+            "en": "I have said that <span class=\"ebt-matched\">suffering is dependently originated</span>. ",
             "matched": true
           }
         },
@@ -92,7 +92,7 @@
           "sn12.26:3.1": {
             "scid": "sn12.26:3.1",
             "pli": "“Paṭiccasamuppannaṁ kho, upavāṇa, dukkhaṁ vuttaṁ mayā. ",
-            "en": "“Upavāṇa, I have said that <span class=\"scv-matched\">suffering is dependently originated</span>. ",
+            "en": "“Upavāṇa, I have said that <span class=\"ebt-matched\">suffering is dependently originated</span>. ",
             "matched": true
           }
         },

@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -68,7 +68,7 @@
           "an4.16:2.5": {
             "scid": "an4.16:2.5",
             "pli": "Saṅkhāre parato ñatvā, ",
-            "de": "wer <span class=\"scv-matched\">Entscheidungen als</span> fremd kennt, ",
+            "de": "wer <span class=\"ebt-matched\">Entscheidungen als</span> fremd kennt, ",
             "en": "and knowing choices as other, ",
             "matched": true
           }
@@ -100,14 +100,14 @@
           "an4.200:9.5": {
             "scid": "an4.200:9.5",
             "pli": "saṅkhāre attato samanupassati, saṅkhāravantaṁ vā attānaṁ, attani vā saṅkhāre, saṅkhāresu vā attānaṁ; ",
-            "de": "Sie betrachtet <span class=\"scv-matched\">Entscheidungen als</span> das Selbst, das Selbst als etwas, das Entscheidungen hat, <span class=\"scv-matched\">Entscheidungen als</span> im Selbst oder das Selbst als in Entscheidungen. ",
+            "de": "Sie betrachtet <span class=\"ebt-matched\">Entscheidungen als</span> das Selbst, das Selbst als etwas, das Entscheidungen hat, <span class=\"ebt-matched\">Entscheidungen als</span> im Selbst oder das Selbst als in Entscheidungen. ",
             "en": "They regard choices as self, self as having choices, choices in self, or self in choices. ",
             "matched": true
           },
           "an4.200:10.5": {
             "scid": "an4.200:10.5",
             "pli": "na saṅkhāre attato samanupassati, na saṅkhāravantaṁ vā attānaṁ, na attani vā saṅkhāre, na saṅkhāresu vā attānaṁ; ",
-            "de": "Sie betrachtet nicht <span class=\"scv-matched\">Entscheidungen als</span> das Selbst, das Selbst als etwas, das Entscheidungen hat, <span class=\"scv-matched\">Entscheidungen als</span> im Selbst oder das Selbst als in Entscheidungen. ",
+            "de": "Sie betrachtet nicht <span class=\"ebt-matched\">Entscheidungen als</span> das Selbst, das Selbst als etwas, das Entscheidungen hat, <span class=\"ebt-matched\">Entscheidungen als</span> im Selbst oder das Selbst als in Entscheidungen. ",
             "en": "They don’t regard choices as self, self as having choices, choices in self, or self in choices. ",
             "matched": true
           }

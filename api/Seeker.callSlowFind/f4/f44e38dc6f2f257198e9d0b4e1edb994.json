@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,13 +54,13 @@
           "dn23:19.11": {
             "scid": "dn23:19.11",
             "pli": "‘vadehi, bho saṅkha, vadehi, bho saṅkhā’ti. ",
-            "en": "‘<span class=\"scv-matched\">Speak, good horn</span>! <span class=\"scv-matched\">Speak, good horn</span>!’ ",
+            "en": "‘<span class=\"ebt-matched\">Speak, good horn</span>! <span class=\"ebt-matched\">Speak, good horn</span>!’ ",
             "matched": true
           },
           "dn23:19.14": {
             "scid": "dn23:19.14",
             "pli": "‘vadehi, bho saṅkha, vadehi, bho saṅkhā’ti. ",
-            "en": "‘<span class=\"scv-matched\">Speak, good horn</span>! <span class=\"scv-matched\">Speak, good horn</span>!’ ",
+            "en": "‘<span class=\"ebt-matched\">Speak, good horn</span>! <span class=\"ebt-matched\">Speak, good horn</span>!’ ",
             "matched": true
           }
         },

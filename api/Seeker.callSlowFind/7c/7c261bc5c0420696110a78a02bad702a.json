@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,7 +72,7 @@
           "sn18.8:1.8": {
             "scid": "sn18.8:1.8",
             "pli": "phoṭṭhabbataṇhā … ",
-            "en": "<span class=\"scv-matched\">craving for touches</span> … ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span> … ",
             "matched": true
           },
           "sn18.8:1.11": {
@@ -107,7 +107,7 @@
           "an11.358-405:1.6": {
             "scid": "an11.358-405:1.6",
             "pli": "phoṭṭhabbataṇhāya… ",
-            "en": "<span class=\"scv-matched\">craving for touches</span> … ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span> … ",
             "matched": true
           }
         },
@@ -136,7 +136,7 @@
           "sn25.8:1.6": {
             "scid": "sn25.8:1.6",
             "pli": "phoṭṭhabbataṇhā … ",
-            "en": "<span class=\"scv-matched\">craving for touches</span>, ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span>, ",
             "matched": true
           }
         },
@@ -165,7 +165,7 @@
           "sn27.8:1.6": {
             "scid": "sn27.8:1.6",
             "pli": "yo phoṭṭhabbataṇhāya … ",
-            "en": "<span class=\"scv-matched\">craving for touches</span>, ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span>, ",
             "matched": true
           }
         },
@@ -194,7 +194,7 @@
           "sn18.12-20:7.5": {
             "scid": "sn18.12-20:7.5",
             "pli": "phoṭṭhabbataṇhā … ",
-            "en": "<span class=\"scv-matched\">craving for touches</span> … ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span> … ",
             "matched": true
           }
         },
@@ -223,7 +223,7 @@
           "an7.96-614:9.5": {
             "scid": "an7.96-614:9.5",
             "pli": "phoṭṭhabbataṇhāya … ",
-            "en": "<span class=\"scv-matched\">craving for touches</span> … ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span> … ",
             "matched": true
           }
         },
@@ -252,7 +252,7 @@
           "dn22:19.53": {
             "scid": "dn22:19.53",
             "pli": "phoṭṭhabbataṇhā loke … ",
-            "en": "<span class=\"scv-matched\">craving for touches</span> … ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span> … ",
             "matched": true
           }
         },

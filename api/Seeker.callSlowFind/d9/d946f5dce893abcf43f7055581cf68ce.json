@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "sn35.94:3.4": {
             "scid": "sn35.94:3.4",
             "pli": "Saddhādutiyā viharantānavassutā. ",
-            "en": "live with <span class=\"scv-matched\">faith as partner</span>, uncorrupted. ",
+            "en": "live with <span class=\"ebt-matched\">faith as partner</span>, uncorrupted. ",
             "matched": true
           }
         },

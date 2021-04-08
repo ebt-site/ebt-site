@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an5.100:2.3": {
             "scid": "an5.100:2.3",
             "pli": "‘ahaṁ bhikkhusaṅghaṁ pariharissāmī’ti. ",
-            "de": "‚Ich will den Saṅgha der <span class=\"scv-matched\">Mönche und Nonnen leiten</span>.‘ ",
+            "de": "‚Ich will den Saṅgha der <span class=\"ebt-matched\">Mönche und Nonnen leiten</span>.‘ ",
             "en": "‘I will lead the mendicant Saṅgha.’ ",
             "matched": true
           }

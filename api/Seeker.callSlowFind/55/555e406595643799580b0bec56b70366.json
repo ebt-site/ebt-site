@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an3.48:3.4": {
             "scid": "an3.48:3.4",
             "pli": "vaḍḍhante te vanappatī. ",
-            "de": "zum <span class=\"scv-matched\">Herrn des Waldes</span> heran. ",
+            "de": "zum <span class=\"ebt-matched\">Herrn des Waldes</span> heran. ",
             "en": "to become lord of the forest. ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "an5.40:2.4": {
             "scid": "an5.40:2.4",
             "pli": "vaḍḍhante te vanappatī. ",
-            "de": "zum <span class=\"scv-matched\">Herrn des Waldes</span> heran. ",
+            "de": "zum <span class=\"ebt-matched\">Herrn des Waldes</span> heran. ",
             "en": "to become lord of the forest. ",
             "matched": true
           }

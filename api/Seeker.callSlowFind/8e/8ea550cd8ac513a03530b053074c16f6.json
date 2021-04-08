@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,13 +57,13 @@
           "an6.38:1.5": {
             "scid": "an6.38:1.5",
             "pli": "“Māhaṁ, brāhmaṇa, evaṁvādiṁ evaṁdiṭṭhiṁ addasaṁ vā assosiṁ vā. ",
-            "en": "“Well, brahmin, I’ve never seen or <span class=\"scv-matched\">heard of anyone holding</span> such a doctrine or view. ",
+            "en": "“Well, brahmin, I’ve never seen or <span class=\"ebt-matched\">heard of anyone holding</span> such a doctrine or view. ",
             "matched": true
           },
           "an6.38:4.1": {
             "scid": "an6.38:4.1",
             "pli": "Māhaṁ, brāhmaṇa, evaṁvādiṁ evaṁdiṭṭhiṁ addasaṁ vā assosiṁ vā. ",
-            "en": "Well, brahmin, I’ve never seen or <span class=\"scv-matched\">heard of anyone holding</span> such a doctrine or view. ",
+            "en": "Well, brahmin, I’ve never seen or <span class=\"ebt-matched\">heard of anyone holding</span> such a doctrine or view. ",
             "matched": true
           }
         },
@@ -92,7 +92,7 @@
           "dn23:5.4": {
             "scid": "dn23:5.4",
             "pli": "“Nāhaṁ, rājañña, evaṁvādiṁ evaṁdiṭṭhiṁ addasaṁ vā assosiṁ vā. ",
-            "en": "“Well, chieftain, I’ve never seen or <span class=\"scv-matched\">heard of anyone holding</span> such a doctrine or view. ",
+            "en": "“Well, chieftain, I’ve never seen or <span class=\"ebt-matched\">heard of anyone holding</span> such a doctrine or view. ",
             "matched": true
           }
         },

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,13 +60,13 @@
           "mn119:8.2": {
             "scid": "mn119:8.2",
             "pli": "‘atthi imasmiṁ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti. ",
-            "en": "‘In this body <span class=\"scv-matched\">there is the earth element</span>, the water element, the fire element, and the air element.’ ",
+            "en": "‘In this body <span class=\"ebt-matched\">there is the earth element</span>, the water element, the fire element, and the air element.’ ",
             "matched": true
           },
           "mn119:8.5": {
             "scid": "mn119:8.5",
             "pli": "‘atthi imasmiṁ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti. ",
-            "en": "‘In this body <span class=\"scv-matched\">there is the earth element</span>, the water element, the fire element, and the air element.’ ",
+            "en": "‘In this body <span class=\"ebt-matched\">there is the earth element</span>, the water element, the fire element, and the air element.’ ",
             "matched": true
           }
         },
@@ -95,7 +95,7 @@
           "mn10:12.2": {
             "scid": "mn10:12.2",
             "pli": "‘atthi imasmiṁ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti. ",
-            "en": "‘In this body <span class=\"scv-matched\">there is the earth element</span>, the water element, the fire element, and the air element.’ ",
+            "en": "‘In this body <span class=\"ebt-matched\">there is the earth element</span>, the water element, the fire element, and the air element.’ ",
             "matched": true
           }
         },
@@ -124,7 +124,7 @@
           "dn22:6.2": {
             "scid": "dn22:6.2",
             "pli": "‘atthi imasmiṁ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti. ",
-            "en": "‘In this body <span class=\"scv-matched\">there is the earth element</span>, the water element, the fire element, and the air element.’ ",
+            "en": "‘In this body <span class=\"ebt-matched\">there is the earth element</span>, the water element, the fire element, and the air element.’ ",
             "matched": true
           }
         },

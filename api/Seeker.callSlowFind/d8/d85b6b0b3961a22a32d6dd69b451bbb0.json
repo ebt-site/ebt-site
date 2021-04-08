@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -69,49 +69,49 @@
           "dn2:1.6": {
             "scid": "dn2:1.6",
             "pli": "Kaṁ nu khvajja samaṇaṁ vā brāhmaṇaṁ vā payirupāseyyāma, yaṁ no payirupāsato cittaṁ pasīdeyyā”ti? ",
-            "en": "Now, what ascetic or brahmin might I pay homage to today, paying homage to whom my mind might <span class=\"scv-matched\">find peace</span>?” ",
+            "en": "Now, what ascetic or brahmin might I pay homage to today, paying homage to whom my mind might <span class=\"ebt-matched\">find peace</span>?” ",
             "matched": true
           },
           "dn2:2.4": {
             "scid": "dn2:2.4",
             "pli": "Appeva nāma devassa pūraṇaṁ kassapaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
-            "en": "Hopefully in so doing your mind will <span class=\"scv-matched\">find peace</span>.” ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
             "matched": true
           },
           "dn2:3.4": {
             "scid": "dn2:3.4",
             "pli": "Appeva nāma devassa makkhaliṁ gosālaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
-            "en": "Hopefully in so doing your mind will <span class=\"scv-matched\">find peace</span>.” ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
             "matched": true
           },
           "dn2:4.4": {
             "scid": "dn2:4.4",
             "pli": "Appeva nāma devassa ajitaṁ kesakambalaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
-            "en": "Hopefully in so doing your mind will <span class=\"scv-matched\">find peace</span>.” ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
             "matched": true
           },
           "dn2:5.4": {
             "scid": "dn2:5.4",
             "pli": "Appeva nāma devassa pakudhaṁ kaccāyanaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
-            "en": "Hopefully in so doing your mind will <span class=\"scv-matched\">find peace</span>.” ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
             "matched": true
           },
           "dn2:6.4": {
             "scid": "dn2:6.4",
             "pli": "Appeva nāma devassa sañcayaṁ belaṭṭhaputtaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
-            "en": "Hopefully in so doing your mind will <span class=\"scv-matched\">find peace</span>.” ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
             "matched": true
           },
           "dn2:7.4": {
             "scid": "dn2:7.4",
             "pli": "Appeva nāma devassa nigaṇṭhaṁ nāṭaputtaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
-            "en": "Hopefully in so doing your mind will <span class=\"scv-matched\">find peace</span>.” ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
             "matched": true
           },
           "dn2:8.8": {
             "scid": "dn2:8.8",
             "pli": "Appeva nāma devassa bhagavantaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
-            "en": "Hopefully in so doing your mind will <span class=\"scv-matched\">find peace</span>.” ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
             "matched": true
           }
         },
@@ -140,7 +140,7 @@
           "thig2.10:1.3": {
             "scid": "thig2.10:1.3",
             "pli": "Aladdhā cetaso santiṁ,",
-            "en": "I had failed to <span class=\"scv-matched\">find peace</span> of heart,",
+            "en": "I had failed to <span class=\"ebt-matched\">find peace</span> of heart,",
             "matched": true
           }
         },
@@ -169,7 +169,7 @@
           "thig3.1:2.1": {
             "scid": "thig3.1:2.1",
             "pli": "Aladdhā cetaso santiṁ,",
-            "en": "I had failed to <span class=\"scv-matched\">find peace</span> of heart,",
+            "en": "I had failed to <span class=\"ebt-matched\">find peace</span> of heart,",
             "matched": true
           }
         },
@@ -198,7 +198,7 @@
           "thig3.2:1.3": {
             "scid": "thig3.2:1.3",
             "pli": "Aladdhā cetaso santiṁ,",
-            "en": "I had failed to <span class=\"scv-matched\">find peace</span> of heart,",
+            "en": "I had failed to <span class=\"ebt-matched\">find peace</span> of heart,",
             "matched": true
           }
         },
@@ -227,7 +227,7 @@
           "thig5.1:2.1": {
             "scid": "thig5.1:2.1",
             "pli": "Aladdhā cetaso santiṁ,",
-            "en": "Failing to <span class=\"scv-matched\">find peace</span> of heart,",
+            "en": "Failing to <span class=\"ebt-matched\">find peace</span> of heart,",
             "matched": true
           }
         },
@@ -256,7 +256,7 @@
           "thig6.8:1.3": {
             "scid": "thig6.8:1.3",
             "pli": "Aladdhā cetaso santiṁ,",
-            "en": "I had failed to <span class=\"scv-matched\">find peace</span> of heart,",
+            "en": "I had failed to <span class=\"ebt-matched\">find peace</span> of heart,",
             "matched": true
           }
         },

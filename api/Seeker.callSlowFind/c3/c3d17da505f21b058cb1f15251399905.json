@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,7 +57,7 @@
           "an6.44:9.7": {
             "scid": "an6.44:9.7",
             "pli": "mā puggalesu pamāṇaṁ gaṇhittha. ",
-            "de": "Fälle kein <span class=\"scv-matched\">Urteil über Menschen</span>. ",
+            "de": "Fälle kein <span class=\"ebt-matched\">Urteil über Menschen</span>. ",
             "en": "Don’t pass judgment on people. ",
             "matched": true
           },
@@ -85,7 +85,7 @@
           "an6.44:16.7": {
             "scid": "an6.44:16.7",
             "pli": "mā puggalesu pamāṇaṁ gaṇhittha. ",
-            "de": "Fälle kein <span class=\"scv-matched\">Urteil über Menschen</span>. ",
+            "de": "Fälle kein <span class=\"ebt-matched\">Urteil über Menschen</span>. ",
             "en": "Don’t pass judgment on people. ",
             "matched": true
           },

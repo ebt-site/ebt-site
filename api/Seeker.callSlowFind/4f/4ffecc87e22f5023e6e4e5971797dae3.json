@@ -14,7 +14,7 @@
       "searchLang": "jpn",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "jpn",
       "types": [
         "root",
@@ -58,14 +58,14 @@
             "scid": "an3.57:2.6",
             "pli": "Yo kho, vaccha, paraṁ dānaṁ dadantaṁ vāreti so tiṇṇaṁ antarāyakaro hoti, tiṇṇaṁ pāripanthiko. ",
             "en": "Anyone who prevents another from giving makes an obstacle and a barrier for three people. ",
-            "jpn": "<span class=\"scv-matched\">他の人が贈り物を贈る事を妨げ</span>るような者は三人にとっての障害物を作っていて、壁であります。",
+            "jpn": "<span class=\"ebt-matched\">他の人が贈り物を贈る事を妨げ</span>るような者は三人にとっての障害物を作っていて、壁であります。",
             "matched": true
           },
           "an3.57:2.9": {
             "scid": "an3.57:2.9",
             "pli": "Yo kho, vaccha, paraṁ dānaṁ dadantaṁ vāreti so imesaṁ tiṇṇaṁ antarāyakaro hoti, tiṇṇaṁ pāripanthiko. ",
             "en": "Anyone who prevents another from giving makes an obstacle and a barrier for these three people. ",
-            "jpn": "<span class=\"scv-matched\">他の人が贈り物を贈る事を妨げ</span>るような者は三人にとっての障害物を作っていて、壁であります。",
+            "jpn": "<span class=\"ebt-matched\">他の人が贈り物を贈る事を妨げ</span>るような者は三人にとっての障害物を作っていて、壁であります。",
             "matched": true
           }
         },

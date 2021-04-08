@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -57,21 +57,21 @@
           "sn12.23:0.3": {
             "scid": "sn12.23:0.3",
             "pli": "23. Upanisasutta ",
-            "de": "23. <span class=\"scv-matched\">Wesentliche Bedingungen</span> ",
+            "de": "23. <span class=\"ebt-matched\">Wesentliche Bedingungen</span> ",
             "en": "23. Vital Conditions ",
             "matched": true
           },
           "sn12.23:6.4": {
             "scid": "sn12.23:6.4",
             "pli": "nāmarūpūpanisaṁ saḷāyatanaṁ, ",
-            "de": "Name und Form sind <span class=\"scv-matched\">wesentliche Bedingungen</span> für die sechs Sinnesfelder. ",
+            "de": "Name und Form sind <span class=\"ebt-matched\">wesentliche Bedingungen</span> für die sechs Sinnesfelder. ",
             "en": "Name and form are vital conditions for the six sense fields. ",
             "matched": true
           },
           "sn12.23:6.5": {
             "scid": "sn12.23:6.5",
             "pli": "saḷāyatanūpaniso phasso, ",
-            "de": "Die sechs Sinnesfelder sind <span class=\"scv-matched\">wesentliche Bedingungen</span> für Berührung. ",
+            "de": "Die sechs Sinnesfelder sind <span class=\"ebt-matched\">wesentliche Bedingungen</span> für Berührung. ",
             "en": "The six sense fields are vital conditions for contact. ",
             "matched": true
           }

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -57,19 +57,19 @@
           "dn25:22.8": {
             "scid": "dn25:22.8",
             "pli": "‘Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṁ dhammaṁ desemi. ",
-            "en": "<span class=\"scv-matched\">Let a sensible person come</span>—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
+            "en": "<span class=\"ebt-matched\">Let a sensible person come</span>—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
             "matched": true
           },
           "dn25:22.11": {
             "scid": "dn25:22.11",
             "pli": "Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṁ dhammaṁ desemi. ",
-            "en": "<span class=\"scv-matched\">Let a sensible person come</span>—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
+            "en": "<span class=\"ebt-matched\">Let a sensible person come</span>—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
             "matched": true
           },
           "dn25:22.30": {
             "scid": "dn25:22.30",
             "pli": "Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṁ dhammaṁ desemi. ",
-            "en": "<span class=\"scv-matched\">Let a sensible person come</span>—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
+            "en": "<span class=\"ebt-matched\">Let a sensible person come</span>—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
             "matched": true
           }
         },
@@ -98,13 +98,13 @@
           "mn80:16.5": {
             "scid": "mn80:16.5",
             "pli": "Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṁ dhammaṁ desemi. ",
-            "en": "<span class=\"scv-matched\">Let a sensible person come</span>—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
+            "en": "<span class=\"ebt-matched\">Let a sensible person come</span>—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
             "matched": true
           },
           "mn80:16.11": {
             "scid": "mn80:16.11",
             "pli": "Evameva kho, kaccāna, etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi, ahaṁ dhammaṁ desemi; ",
-            "en": "In the same way, <span class=\"scv-matched\">let a sensible person come</span>—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
+            "en": "In the same way, <span class=\"ebt-matched\">let a sensible person come</span>—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
             "matched": true
           }
         },

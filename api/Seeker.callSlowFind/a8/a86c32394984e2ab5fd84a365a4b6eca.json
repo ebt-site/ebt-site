@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,7 +61,7 @@
           "an1.337:1.1": {
             "scid": "an1.337:1.1",
             "pli": "… Evamevaṁ kho, bhikkhave, appakā te sattā ye ariyena paññācakkhunā samannāgatā; ",
-            "de": "… ebenso haben wenige Lebewesen das edle <span class=\"scv-matched\">Auge der Weisheit</span>; ",
+            "de": "… ebenso haben wenige Lebewesen das edle <span class=\"ebt-matched\">Auge der Weisheit</span>; ",
             "en": "… so too the sentient beings who have the noble eye of wisdom are few, ",
             "matched": true
           }
@@ -93,7 +93,7 @@
           "dn33:1.10.113": {
             "scid": "dn33:1.10.113",
             "pli": "maṁsacakkhu, dibbacakkhu, paññācakkhu. ",
-            "de": "das fleischliche Auge, das hellsichtige Auge und das <span class=\"scv-matched\">Auge der Weisheit</span>. ",
+            "de": "das fleischliche Auge, das hellsichtige Auge und das <span class=\"ebt-matched\">Auge der Weisheit</span>. ",
             "en": "the eye of the flesh, the eye of clairvoyance, and the eye of wisdom. ",
             "matched": true
           }

@@ -1,9 +1,9 @@
 (function(exports) {
     const { logger } = require('log-instance');
-    class ScvSettings { 
+    class EbtSettings { 
         constructor(opts={}) {
             let {
-                audio = ScvSettings.AUDIO.OGG,
+                audio = EbtSettings.AUDIO.OGG,
                 cursor = null,
                 fullLine = false,
                 history = [],
@@ -30,10 +30,10 @@
             this.fullLine = fullLine;
             this.history = history.slice();
             this.ips = 6;
-            this.lang = ScvSettings.TRANS_LANGUAGES.reduce((a,l)=>{
+            this.lang = EbtSettings.TRANS_LANGUAGES.reduce((a,l)=>{
                 return l.code===lang ? lang : a;
             }, 'en');
-            this.locale = ScvSettings.WEB_LANGUAGES.reduce((a,l)=>{
+            this.locale = EbtSettings.WEB_LANGUAGES.reduce((a,l)=>{
                 return l.code===locale ? locale : a;
             }, 'en');
             this.maxResults = maxResults;
@@ -201,7 +201,7 @@
 
 
         static langLabel(lang) {
-            let info = ScvSettings.WEB_LANGUAGES.find(l=>l.code === lang) || {
+            let info = EbtSettings.WEB_LANGUAGES.find(l=>l.code === lang) || {
                 label:`unknown language:${lang}` };
             return info.label;
         }
@@ -212,6 +212,6 @@
 
     }
 
-    module.exports = exports.ScvSettings = ScvSettings;
+    module.exports = exports.EbtSettings = EbtSettings;
 })(typeof exports === "object" ? exports : (exports = {}));
 

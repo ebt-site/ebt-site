@@ -22,7 +22,7 @@
             this.includeUnpublished = opts.includeUnpublished === true;
             this.suttaCache = {};
             let matchHighlight = this.matchHighlight = opts.matchHighlight ||
-                '<span class="scv-matched">$&</span>';
+                '<span class="ebt-matched">$&</span>';
             this.highlightMatch = opts.highlightMatch || (match=>
                 matchHighlight.replace('$&', match)||match);
         }

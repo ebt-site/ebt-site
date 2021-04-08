@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -65,7 +65,7 @@
           "an3.69:15.8": {
             "scid": "an3.69:15.8",
             "pli": "So taṁ māluvālataṁ khaṇḍākhaṇḍikaṁ chindeyya, khaṇḍākhaṇḍikaṁ chetvā phāleyya, phāletvā sakalikaṁ sakalikaṁ kareyya, sakalikaṁ sakalikaṁ karitvā vātātape visoseyya, vātātape visosetvā agginā ḍaheyya, agginā ḍahitvā masiṁ kareyya, masiṁ karitvā mahāvāte vā ophuṇeyya nadiyā vā sīghasotāya pavāheyya. ",
-            "de": "Dann würde er die Pflanze entzweihauen, in Stücke schneiden und sie <span class=\"scv-matched\">zu Spänen</span> kleinhacken. Er würde die Späne in Wind und Sonne trocknen, sie im Feuer verbrennen, bis sie zu Asche würden. Dann würde er die Asche von einem heftigen Wind wegfegen oder von einer raschen Strömung fortschwemmen lassen. ",
+            "de": "Dann würde er die Pflanze entzweihauen, in Stücke schneiden und sie <span class=\"ebt-matched\">zu Spänen</span> kleinhacken. Er würde die Späne in Wind und Sonne trocknen, sie im Feuer verbrennen, bis sie zu Asche würden. Dann würde er die Asche von einem heftigen Wind wegfegen oder von einer raschen Strömung fortschwemmen lassen. ",
             "en": "Then they’d split the creeper apart, cut up the parts, and chop it into splinters. They’d dry the splinters in the wind and sun, burn them with fire, and reduce them to ashes. Then they’d sweep away the ashes in a strong wind, or float them away down a swift stream. ",
             "matched": true
           }
@@ -97,7 +97,7 @@
           "an4.195:11.8": {
             "scid": "an4.195:11.8",
             "pli": "Phāletvā sakalikaṁ sakalikaṁ kareyya. ",
-            "de": "und sie <span class=\"scv-matched\">zu Spänen</span> kleinhacken. ",
+            "de": "und sie <span class=\"ebt-matched\">zu Spänen</span> kleinhacken. ",
             "en": "and chop them into splinters. ",
             "matched": true
           }
@@ -129,7 +129,7 @@
           "dn23:21.30": {
             "scid": "dn23:21.30",
             "pli": "Araṇisahitaṁ dvidhā phālesi, tidhā phālesi, catudhā phālesi, pañcadhā phālesi, dasadhā phālesi, satadhā phālesi, sakalikaṁ sakalikaṁ akāsi, sakalikaṁ sakalikaṁ karitvā udukkhale koṭṭesi, udukkhale koṭṭetvā mahāvāte opuni: ",
-            "de": "Er spaltete das Bündel Reibhölzer in zwei, drei, vier, fünf, zehn oder hundert Stücke. Er hackte sie klein <span class=\"scv-matched\">zu Spänen</span>, zerstieß sie im Mörser, ließ sie von einem heftigen Wind wegfegen und dachte: ",
+            "de": "Er spaltete das Bündel Reibhölzer in zwei, drei, vier, fünf, zehn oder hundert Stücke. Er hackte sie klein <span class=\"ebt-matched\">zu Spänen</span>, zerstieß sie im Mörser, ließ sie von einem heftigen Wind wegfegen und dachte: ",
             "en": "He split the bundle of drill-sticks into two, three, four, five, ten, or a hundred parts. He chopped them into splinters, pounded them in a mortar, and swept them away in a strong wind, thinking, ",
             "matched": true
           }

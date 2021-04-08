@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -89,14 +89,14 @@
           "an4.264:1.3": {
             "scid": "an4.264:1.3",
             "pli": "Attanā ca pāṇātipātī hoti, parañca pāṇātipāte samādapeti, pāṇātipāte ca samanuñño hoti, pāṇātipātassa ca vaṇṇaṁ bhāsati—",
-            "de": "Man tötet selbst lebende Geschöpfe; man stiftet andere an, lebende Geschöpfe <span class=\"scv-matched\">zu töten</span>; man heißt das Töten lebender Geschöpfe gut; und man lobt das Töten lebender Geschöpfe. ",
+            "de": "Man tötet selbst lebende Geschöpfe; man stiftet andere an, lebende Geschöpfe <span class=\"ebt-matched\">zu töten</span>; man heißt das Töten lebender Geschöpfe gut; und man lobt das Töten lebender Geschöpfe. ",
             "en": "They themselves kill living creatures; they encourage others to kill living creatures; they approve of killing living creatures; and they praise killing living creatures. ",
             "matched": true
           },
           "an4.264:2.3": {
             "scid": "an4.264:2.3",
             "pli": "Attanā ca pāṇātipātā paṭivirato hoti, parañca pāṇātipātā veramaṇiyā samādapeti, pāṇātipātā veramaṇiyā ca samanuñño hoti, pāṇātipātā veramaṇiyā ca vaṇṇaṁ bhāsati—",
-            "de": "Man tötet selbst keine lebende Geschöpfe; man ermuntert andere dazu, keine lebenden Geschöpfe <span class=\"scv-matched\">zu töten</span>; man heißt es gut, keine lebenden Geschöpfe <span class=\"scv-matched\">zu töten</span>; und man lobt es, keine lebenden Geschöpfe <span class=\"scv-matched\">zu töten</span>. ",
+            "de": "Man tötet selbst keine lebende Geschöpfe; man ermuntert andere dazu, keine lebenden Geschöpfe <span class=\"ebt-matched\">zu töten</span>; man heißt es gut, keine lebenden Geschöpfe <span class=\"ebt-matched\">zu töten</span>; und man lobt es, keine lebenden Geschöpfe <span class=\"ebt-matched\">zu töten</span>. ",
             "en": "They don’t themselves kill living creatures; they encourage others to not kill living creatures; they approve of not killing living creatures; and they praise not killing living creatures. ",
             "matched": true
           }
@@ -128,14 +128,14 @@
           "an4.111:4.3": {
             "scid": "an4.111:4.3",
             "pli": "“Na kho, bhante, bhagavato pāṇātipāto kappati. ",
-            "de": "„Herr, es ist nicht angebracht für den Buddha, lebende Geschöpfe <span class=\"scv-matched\">zu töten</span>! ",
+            "de": "„Herr, es ist nicht angebracht für den Buddha, lebende Geschöpfe <span class=\"ebt-matched\">zu töten</span>! ",
             "en": "“Sir, it’s not appropriate for the Buddha to kill living creatures. ",
             "matched": true
           },
           "an4.111:4.7": {
             "scid": "an4.111:4.7",
             "pli": "Na tathāgatassa pāṇātipāto kappati. ",
-            "de": "es ist nicht angebracht für einen Klargewordenen, lebende Geschöpfe <span class=\"scv-matched\">zu töten</span>. ",
+            "de": "es ist nicht angebracht für einen Klargewordenen, lebende Geschöpfe <span class=\"ebt-matched\">zu töten</span>. ",
             "en": "it’s not appropriate for a Realized One to kill living creatures. ",
             "matched": true
           }
@@ -167,14 +167,14 @@
           "an3.163:1.3": {
             "scid": "an3.163:1.3",
             "pli": "Attanā ca pāṇātipātī hoti, parañca pāṇātipāte samādapeti, pāṇātipāte ca samanuñño hoti. ",
-            "de": "Man tötet selbst lebende Geschöpfe; man stiftet andere an, lebende Geschöpfe <span class=\"scv-matched\">zu töten</span>; und man heißt das Töten lebender Geschöpfe gut. ",
+            "de": "Man tötet selbst lebende Geschöpfe; man stiftet andere an, lebende Geschöpfe <span class=\"ebt-matched\">zu töten</span>; und man heißt das Töten lebender Geschöpfe gut. ",
             "en": "They themselves kill living creatures. They encourage others to kill living creatures. And they approve of killing living creatures. ",
             "matched": true
           },
           "an3.164:1.3": {
             "scid": "an3.164:1.3",
             "pli": "Attanā ca pāṇātipātā paṭivirato hoti, parañca pāṇātipātā veramaṇiyā samādapeti, pāṇātipātā veramaṇiyā ca samanuñño hoti …pe…. ",
-            "de": "Man tötet selbst keine lebende Geschöpfe; man ermuntert andere dazu, keine lebenden Geschöpfe <span class=\"scv-matched\">zu töten</span>; und man heißt es gut, keine lebenden Geschöpfe <span class=\"scv-matched\">zu töten</span>. … ",
+            "de": "Man tötet selbst keine lebende Geschöpfe; man ermuntert andere dazu, keine lebenden Geschöpfe <span class=\"ebt-matched\">zu töten</span>; und man heißt es gut, keine lebenden Geschöpfe <span class=\"ebt-matched\">zu töten</span>. … ",
             "en": "They don’t themselves kill living creatures. They encourage others to not kill living creatures. And they approve of not killing living creatures. … ",
             "matched": true
           }
@@ -206,14 +206,14 @@
           "dn33:2.1.25": {
             "scid": "dn33:2.1.25",
             "pli": "pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī, musāvādā veramaṇī, surāmerayamajjappamādaṭṭhānā veramaṇī. ",
-            "de": "Man unterlässt es, lebende Geschöpfe <span class=\"scv-matched\">zu töten</span>, zu stehlen, sexuelle Verfehlungen zu begehen, zu lügen und Alkohol zu trinken, der nachlässig macht. ",
+            "de": "Man unterlässt es, lebende Geschöpfe <span class=\"ebt-matched\">zu töten</span>, zu stehlen, sexuelle Verfehlungen zu begehen, zu lügen und Alkohol zu trinken, der nachlässig macht. ",
             "en": "refraining from killing living creatures, stealing, sexual misconduct, lying, and drinking alcohol, which is a basis for negligence. ",
             "matched": true
           },
           "dn33:3.3.49": {
             "scid": "dn33:3.3.49",
             "pli": "pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī, anabhijjhā, abyāpādo, sammādiṭṭhi. ",
-            "de": "Man unterlässt es, lebende Geschöpfe <span class=\"scv-matched\">zu töten</span>, zu stehlen und sexuelle Verfehlungen zu begehen; man unterlässt den Gebrauch falscher, entzweiender, harter oder sinnloser Rede; Zufriedenheit, Wohlwollen und rechte Ansicht. ",
+            "de": "Man unterlässt es, lebende Geschöpfe <span class=\"ebt-matched\">zu töten</span>, zu stehlen und sexuelle Verfehlungen zu begehen; man unterlässt den Gebrauch falscher, entzweiender, harter oder sinnloser Rede; Zufriedenheit, Wohlwollen und rechte Ansicht. ",
             "en": "refraining from killing living creatures, stealing, and sexual misconduct; refraining from speech that’s false, divisive, harsh, or nonsensical; contentment, good will, and right view. ",
             "matched": true
           }
@@ -245,7 +245,7 @@
           "kp2:1.1": {
             "scid": "kp2:1.1",
             "pli": "Pāṇātipātā veramaṇisikkhāpadaṁ samādiyāmi.",
-            "de": "Ich nehme mir die Übungsregel vor, keine lebenden Geschöpfe <span class=\"scv-matched\">zu töten</span>. ",
+            "de": "Ich nehme mir die Übungsregel vor, keine lebenden Geschöpfe <span class=\"ebt-matched\">zu töten</span>. ",
             "en": "I undertake the precept to refrain from killing living creatures.",
             "matched": true
           }
@@ -277,7 +277,7 @@
           "an5.174:4.1": {
             "scid": "an5.174:4.1",
             "pli": "Yaṁ, gahapati, pāṇātipātī pāṇātipātapaccayā diṭṭhadhammikampi bhayaṁ veraṁ pasavati, samparāyikampi bhayaṁ veraṁ pasavati, cetasikampi dukkhaṁ domanassaṁ paṭisaṁvedeti, pāṇātipātā paṭivirato neva diṭṭhadhammikaṁ bhayaṁ veraṁ pasavati, na samparāyikaṁ bhayaṁ veraṁ pasavati, na cetasikaṁ dukkhaṁ domanassaṁ paṭisaṁvedeti. ",
-            "de": "Jeder, der lebende Wesen tötet, schafft Gefahren und Bedrohungen sowohl in diesem als auch in künftigen Leben und empfindet seelischen Schmerz und Traurigkeit. Jeder, der es unterlässt, lebende Geschöpfe <span class=\"scv-matched\">zu töten</span>, schafft keine Gefahren und Bedrohungen, weder in diesem noch in künftigen Leben, und empfindet keinen seelischen Schmerz und keine Traurigkeit. ",
+            "de": "Jeder, der lebende Wesen tötet, schafft Gefahren und Bedrohungen sowohl in diesem als auch in künftigen Leben und empfindet seelischen Schmerz und Traurigkeit. Jeder, der es unterlässt, lebende Geschöpfe <span class=\"ebt-matched\">zu töten</span>, schafft keine Gefahren und Bedrohungen, weder in diesem noch in künftigen Leben, und empfindet keinen seelischen Schmerz und keine Traurigkeit. ",
             "en": "Anyone who kills living creatures creates dangers and threats both in the present life and in lives to come, and experiences mental pain and sadness. Anyone who refrains from killing living creatures creates no dangers and threats either in the present life or in lives to come, and doesn’t experience mental pain and sadness. ",
             "matched": true
           }
@@ -309,7 +309,7 @@
           "sn45.8:6.2": {
             "scid": "sn45.8:6.2",
             "pli": "Yā kho, bhikkhave, pāṇātipātā veramaṇī, adinnādānā veramaṇī, abrahmacariyā veramaṇī—",
-            "de": "Man unterlässt es, lebende Geschöpfe <span class=\"scv-matched\">zu töten</span>, zu stehlen und Geschlechtsverkehr zu haben. ",
+            "de": "Man unterlässt es, lebende Geschöpfe <span class=\"ebt-matched\">zu töten</span>, zu stehlen und Geschlechtsverkehr zu haben. ",
             "en": "Avoiding killing living creatures, stealing, and sexual activity. ",
             "matched": true
           }
@@ -341,7 +341,7 @@
           "dn32:2.10": {
             "scid": "dn32:2.10",
             "pli": "Bhagavā hi, bhante, pāṇātipātā veramaṇiyā dhammaṁ deseti, adinnādānā veramaṇiyā dhammaṁ deseti, kāmesumicchācārā veramaṇiyā dhammaṁ deseti, musāvādā veramaṇiyā dhammaṁ deseti, surāmerayamajjappamādaṭṭhānā veramaṇiyā dhammaṁ deseti. ",
-            "de": "Weil der Buddha sie lehrt, keine lebenden Geschöpfe <span class=\"scv-matched\">zu töten</span>, nicht zu stehlen, keine sexuellen Verfehlungen zu begehen und keinen Alkohol zu trinken. ",
+            "de": "Weil der Buddha sie lehrt, keine lebenden Geschöpfe <span class=\"ebt-matched\">zu töten</span>, nicht zu stehlen, keine sexuellen Verfehlungen zu begehen und keinen Alkohol zu trinken. ",
             "en": "Because the Buddha teaches them to refrain from killing living creatures, stealing, lying, sexual misconduct, and drinking alcohol. ",
             "matched": true
           }
@@ -373,7 +373,7 @@
           "dn34:2.3.62": {
             "scid": "dn34:2.3.62",
             "pli": "pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī, anabhijjhā, abyāpādo, sammādiṭṭhi. ",
-            "de": "Man unterlässt es, lebende Geschöpfe <span class=\"scv-matched\">zu töten</span>, zu stehlen und sexuelle Verfehlungen zu begehen; man unterlässt den Gebrauch falscher, entzweiender, harter oder sinnloser Rede; Zufriedenheit, Wohlwollen und rechte Ansicht. ",
+            "de": "Man unterlässt es, lebende Geschöpfe <span class=\"ebt-matched\">zu töten</span>, zu stehlen und sexuelle Verfehlungen zu begehen; man unterlässt den Gebrauch falscher, entzweiender, harter oder sinnloser Rede; Zufriedenheit, Wohlwollen und rechte Ansicht. ",
             "en": "refraining from killing living creatures, stealing, and sexual misconduct; avoiding speech that’s false, divisive, harsh, or nonsensical; contentment, good will, and right view. ",
             "matched": true
           }

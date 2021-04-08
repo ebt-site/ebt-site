@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -54,7 +54,7 @@
           "an4.6:0.3": {
             "scid": "an4.6:0.3",
             "pli": "6. Appassutasutta ",
-            "en": "6. <span class=\"scv-matched\">A Little Learning</span> ",
+            "en": "6. <span class=\"ebt-matched\">A Little Learning</span> ",
             "matched": true
           },
           "an4.6:1.3": {

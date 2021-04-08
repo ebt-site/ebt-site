@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -72,19 +72,19 @@
           "sn5.9:2.1": {
             "scid": "sn5.9:2.1",
             "pli": "“Kenidaṁ pakataṁ bimbaṁ, ",
-            "en": "“Who created this <span class=\"scv-matched\">puppet</span>? ",
+            "en": "“Who created this <span class=\"ebt-matched\">puppet</span>? ",
             "matched": true
           },
           "sn5.9:2.3": {
             "scid": "sn5.9:2.3",
             "pli": "Kvanu bimbaṁ samuppannaṁ, ",
-            "en": "Where has the <span class=\"scv-matched\">puppet</span> arisen? ",
+            "en": "Where has the <span class=\"ebt-matched\">puppet</span> arisen? ",
             "matched": true
           },
           "sn5.9:4.1": {
             "scid": "sn5.9:4.1",
             "pli": "“Nayidaṁ attakataṁ bimbaṁ, ",
-            "en": "“This <span class=\"scv-matched\">puppet</span> isn’t self-made, ",
+            "en": "“This <span class=\"ebt-matched\">puppet</span> isn’t self-made, ",
             "matched": true
           }
         },
@@ -113,13 +113,13 @@
           "thig14.1:25.2": {
             "scid": "thig14.1:25.2",
             "pli": "Sombhā dārukapillakāni vā;",
-            "en": "dolls and wooden <span class=\"scv-matched\">puppet</span>s,",
+            "en": "dolls and wooden <span class=\"ebt-matched\">puppet</span>s,",
             "matched": true
           },
           "thig14.1:29.4": {
             "scid": "thig14.1:29.4",
             "pli": "Janamajjheriva rupparūpakaṁ.",
-            "en": "like a <span class=\"scv-matched\">puppet</span> show among the people.",
+            "en": "like a <span class=\"ebt-matched\">puppet</span> show among the people.",
             "matched": true
           }
         },
@@ -148,13 +148,13 @@
           "thag17.3:3.1": {
             "scid": "thag17.3:3.1",
             "pli": "Passa cittakataṁ bimbaṁ,",
-            "en": "“See this fancy <span class=\"scv-matched\">puppet</span>,",
+            "en": "“See this fancy <span class=\"ebt-matched\">puppet</span>,",
             "matched": true
           },
           "thag17.3:4.1": {
             "scid": "thag17.3:4.1",
             "pli": "Passa cittakataṁ bimbaṁ,",
-            "en": "See this fancy <span class=\"scv-matched\">puppet</span>,",
+            "en": "See this fancy <span class=\"ebt-matched\">puppet</span>,",
             "matched": true
           }
         },
@@ -183,7 +183,7 @@
           "sn48.41:5.3": {
             "scid": "sn48.41:5.3",
             "pli": "Tāva manoramaṁ bimbaṁ, ",
-            "en": "That’s how much this delightful <span class=\"scv-matched\">puppet</span> ",
+            "en": "That’s how much this delightful <span class=\"ebt-matched\">puppet</span> ",
             "matched": true
           }
         },
@@ -212,7 +212,7 @@
           "thag16.4:1.1": {
             "scid": "thag16.4:1.1",
             "pli": "“Passa cittakataṁ bimbaṁ,",
-            "en": "“See this fancy <span class=\"scv-matched\">puppet</span>,",
+            "en": "“See this fancy <span class=\"ebt-matched\">puppet</span>,",
             "matched": true
           }
         },
@@ -241,7 +241,7 @@
           "thag20.1:12.1": {
             "scid": "thag20.1:12.1",
             "pli": "“Passa cittakataṁ bimbaṁ,",
-            "en": "“See this fancy <span class=\"scv-matched\">puppet</span>,",
+            "en": "“See this fancy <span class=\"ebt-matched\">puppet</span>,",
             "matched": true
           }
         },
@@ -270,7 +270,7 @@
           "mn82:25.1": {
             "scid": "mn82:25.1",
             "pli": "“Passa cittīkataṁ bimbaṁ, ",
-            "en": "“See this fancy <span class=\"scv-matched\">puppet</span>, ",
+            "en": "“See this fancy <span class=\"ebt-matched\">puppet</span>, ",
             "matched": true
           }
         },

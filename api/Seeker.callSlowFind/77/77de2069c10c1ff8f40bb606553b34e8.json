@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "dn10:2.26.1": {
             "scid": "dn10:2.26.1",
             "pli": "Seyyathāpi, māṇava, dakkho kumbhakāro vā kumbhakārantevāsī vā suparikammakatāya mattikāya yaññadeva bhājanavikatiṁ ākaṅkheyya, taṁ tadeva kareyya abhinipphādeyya. ",
-            "en": "Suppose an expert potter or their apprentice had some well-prepared clay. They could produce <span class=\"scv-matched\">any kind of pot that they like</span>. ",
+            "en": "Suppose an expert potter or their apprentice had some well-prepared clay. They could produce <span class=\"ebt-matched\">any kind of pot that they like</span>. ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "mn77:31.2": {
             "scid": "mn77:31.2",
             "pli": "Seyyathāpi, udāyi, dakkho kumbhakāro vā kumbhakārantevāsī vā suparikammakatāya mattikāya yaṁ yadeva bhājanavikatiṁ ākaṅkheyya taṁ tadeva kareyya abhinipphādeyya; ",
-            "en": "Suppose a deft potter or their apprentice had some well-prepared clay. They could produce <span class=\"scv-matched\">any kind of pot that they like</span>. ",
+            "en": "Suppose a deft potter or their apprentice had some well-prepared clay. They could produce <span class=\"ebt-matched\">any kind of pot that they like</span>. ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "dn2:88.1": {
             "scid": "dn2:88.1",
             "pli": "Seyyathāpi, mahārāja, dakkho kumbhakāro vā kumbhakārantevāsī vā suparikammakatāya mattikāya yaṁ yadeva bhājanavikatiṁ ākaṅkheyya, taṁ tadeva kareyya abhinipphādeyya. ",
-            "en": "Suppose an expert potter or their apprentice had some well-prepared clay. They could produce <span class=\"scv-matched\">any kind of pot that they like</span>. ",
+            "en": "Suppose an expert potter or their apprentice had some well-prepared clay. They could produce <span class=\"ebt-matched\">any kind of pot that they like</span>. ",
             "matched": true
           }
         },

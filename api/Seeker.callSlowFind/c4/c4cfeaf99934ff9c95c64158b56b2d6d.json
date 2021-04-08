@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,7 +60,7 @@
           "sn35.7:1.4": {
             "scid": "sn35.7:1.4",
             "pli": "anāgataṁ cakkhuṁ nābhinandati; ",
-            "en": "they don’t look forward to <span class=\"scv-matched\">enjoying the eye</span> in the future, ",
+            "en": "they don’t look forward to <span class=\"ebt-matched\">enjoying the eye</span> in the future, ",
             "matched": true
           }
         },
@@ -89,7 +89,7 @@
           "sn35.8:1.4": {
             "scid": "sn35.8:1.4",
             "pli": "anāgataṁ cakkhuṁ nābhinandati; ",
-            "en": "they don’t look forward to <span class=\"scv-matched\">enjoying the eye</span> in the future, ",
+            "en": "they don’t look forward to <span class=\"ebt-matched\">enjoying the eye</span> in the future, ",
             "matched": true
           }
         },
@@ -118,7 +118,7 @@
           "sn35.9:1.4": {
             "scid": "sn35.9:1.4",
             "pli": "anāgataṁ cakkhuṁ nābhinandati; ",
-            "en": "they don’t look forward to <span class=\"scv-matched\">enjoying the eye</span> in the future, ",
+            "en": "they don’t look forward to <span class=\"ebt-matched\">enjoying the eye</span> in the future, ",
             "matched": true
           }
         },

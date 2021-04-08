@@ -14,7 +14,7 @@
       "searchLang": "de",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "de",
       "types": [
         "root",
@@ -61,21 +61,21 @@
           "an4.198:1.6": {
             "scid": "an4.198:1.6",
             "pli": "Idha pana, bhikkhave, ekacco puggalo nevattantapo hoti nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto. ",
-            "de": "Jemand quält weder sich selbst noch andere, verschreibt sich der Übung, <span class=\"scv-matched\">weder sich noch andere zu quälen</span>, ",
+            "de": "Jemand quält weder sich selbst noch andere, verschreibt sich der Übung, <span class=\"ebt-matched\">weder sich noch andere zu quälen</span>, ",
             "en": "One person neither mortifies themselves nor others, pursuing the practice of not mortifying themselves or others. ",
             "matched": true
           },
           "an4.198:7.1": {
             "scid": "an4.198:7.1",
             "pli": "Kathañca, bhikkhave, puggalo nevattantapo hoti nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto? ",
-            "de": "Und wie quält jemand weder sich selbst noch andere, verschreibt sich der Übung, <span class=\"scv-matched\">weder sich noch andere zu quälen</span>, ",
+            "de": "Und wie quält jemand weder sich selbst noch andere, verschreibt sich der Übung, <span class=\"ebt-matched\">weder sich noch andere zu quälen</span>, ",
             "en": "And how does one person neither mortify themselves nor others, pursuing the practice of not mortifying themselves or others, ",
             "matched": true
           },
           "an4.198:15.4": {
             "scid": "an4.198:15.4",
             "pli": "Evaṁ kho, bhikkhave, puggalo nevattantapo hoti nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto. ",
-            "de": "So quält jemand weder sich selbst noch andere, verschreibt sich der Übung, <span class=\"scv-matched\">weder sich noch andere zu quälen</span>, ",
+            "de": "So quält jemand weder sich selbst noch andere, verschreibt sich der Übung, <span class=\"ebt-matched\">weder sich noch andere zu quälen</span>, ",
             "en": "That’s how one person neither mortifies themselves nor others, pursuing the practice of not mortifying themselves or others, ",
             "matched": true
           }
@@ -107,7 +107,7 @@
           "dn33:1.11.208": {
             "scid": "dn33:1.11.208",
             "pli": "Idhāvuso, ekacco puggalo neva attantapo hoti na attaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto. ",
-            "de": "Jemand quält weder sich selbst noch andere, verschreibt sich der Übung, <span class=\"scv-matched\">weder sich noch andere zu quälen</span>, ",
+            "de": "Jemand quält weder sich selbst noch andere, verschreibt sich der Übung, <span class=\"ebt-matched\">weder sich noch andere zu quälen</span>, ",
             "en": "One person doesn’t mortify either themselves or others, committed to the practice of not mortifying themselves or others. ",
             "matched": true
           }

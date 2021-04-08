@@ -14,7 +14,7 @@
       "searchLang": "jpn",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "jpn",
       "types": [
         "root",
@@ -58,7 +58,7 @@
             "scid": "an1.198:1.1",
             "pli": "“Etadaggaṁ, bhikkhave, mama sāvakānaṁ bhikkhūnaṁ manomayaṁ kāyaṁ abhinimminantānaṁ yadidaṁ cūḷapanthako. ",
             "en": "“The foremost of my monk disciples in creating a mind-made body is Cūḷapanthaka. ",
-            "jpn": "「私の弟子僧で<span class=\"scv-matched\">心で作られた体</span>を一番上手に生み出せる者はチューラパンタカです。 ",
+            "jpn": "「私の弟子僧で<span class=\"ebt-matched\">心で作られた体</span>を一番上手に生み出せる者はチューラパンタカです。 ",
             "matched": true
           }
         },

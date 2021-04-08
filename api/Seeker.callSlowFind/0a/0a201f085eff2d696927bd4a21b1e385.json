@@ -14,7 +14,7 @@
       "searchLang": "jpn",
       "maxDoc": 50,
       "minLang": 3,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "jpn",
       "types": [
         "root",
@@ -58,14 +58,14 @@
             "scid": "an1.45:1.1",
             "pli": "“Seyyathāpi, bhikkhave, udakarahado āvilo luḷito kalalībhūto tattha cakkhumā puriso tīre ṭhito na passeyya sippisambukampi sakkharakaṭhalampi macchagumbampi carantampi tiṭṭhantampi. ",
             "en": "“Suppose, mendicants, there was a lake that was cloudy, murky, and muddy. A person with good eyesight standing on the bank would not see the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still. ",
-            "jpn": "「托鉢僧侶たちよ、例えば濁って不透明な泥沼のような湖があったとします。水際に立っている目の良い人は<span class=\"scv-matched\">カラス貝</span>や砂利や小石、そして魚の群れが泳ぎ回っているのかじっとしているのかが見えないでしょう。 ",
+            "jpn": "「托鉢僧侶たちよ、例えば濁って不透明な泥沼のような湖があったとします。水際に立っている目の良い人は<span class=\"ebt-matched\">カラス貝</span>や砂利や小石、そして魚の群れが泳ぎ回っているのかじっとしているのかが見えないでしょう。 ",
             "matched": true
           },
           "an1.46:1.1": {
             "scid": "an1.46:1.1",
             "pli": "“Seyyathāpi, bhikkhave, udakarahado accho vippasanno anāvilo tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakaṭhalampi macchagumbampi carantampi tiṭṭhantampi. ",
             "en": "“Suppose, mendicants, there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would see the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still. ",
-            "jpn": "「托鉢僧侶たちよ、例えば透明で澄んでいて濁っていない湖があったとします。水際に立っている目の良い人は<span class=\"scv-matched\">カラス貝</span>や砂利や小石、そして魚の群れが泳ぎ回っているのかじっとしているのかが見えるでしょう。 ",
+            "jpn": "「托鉢僧侶たちよ、例えば透明で澄んでいて濁っていない湖があったとします。水際に立っている目の良い人は<span class=\"ebt-matched\">カラス貝</span>や砂利や小石、そして魚の群れが泳ぎ回っているのかじっとしているのかが見えるでしょう。 ",
             "matched": true
           }
         },

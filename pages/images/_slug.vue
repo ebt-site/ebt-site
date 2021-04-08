@@ -1,16 +1,16 @@
   <template>
-    <scv-article :article="article">
+    <ebt-article :article="article">
       <nuxt-content :document="article" />
-      <scv-image-info :article="article" />
-    </scv-article>
+      <ebt-image-info :article="article" />
+    </ebt-article>
   </template>
   <script>
-    const { ScvArticle, ScvImageInfo } = require('@/components');
+    const { EbtArticle, EbtImageInfo } = require('@/components');
     export default {
       async asyncData({ $content, params }) {
         const article = await $content('images', params.slug).fetch()
         return { article }
       },
-      components: { ScvArticle, ScvImageInfo, },
+      components: { EbtArticle, EbtImageInfo, },
     }
   </script>

@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -60,19 +60,19 @@
           "dn12:16.6": {
             "scid": "dn12:16.6",
             "pli": "‘idaṁ vo hitāya idaṁ vo sukhāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">This is for your welfare</span>. This is for your happiness.’ ",
+            "en": "‘<span class=\"ebt-matched\">This is for your welfare</span>. This is for your happiness.’ ",
             "matched": true
           },
           "dn12:17.3": {
             "scid": "dn12:17.3",
             "pli": "‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">This is for your welfare</span>. This is for your happiness.’ ",
+            "en": "‘<span class=\"ebt-matched\">This is for your welfare</span>. This is for your happiness.’ ",
             "matched": true
           },
           "dn12:18.3": {
             "scid": "dn12:18.3",
             "pli": "‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">This is for your welfare</span>. This is for your happiness.’ ",
+            "en": "‘<span class=\"ebt-matched\">This is for your welfare</span>. This is for your happiness.’ ",
             "matched": true
           }
         },
@@ -101,19 +101,19 @@
           "mn137:22.2": {
             "scid": "mn137:22.2",
             "pli": "‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">This is for your welfare</span>. This is for your happiness.’ ",
+            "en": "‘<span class=\"ebt-matched\">This is for your welfare</span>. This is for your happiness.’ ",
             "matched": true
           },
           "mn137:23.2": {
             "scid": "mn137:23.2",
             "pli": "‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">This is for your welfare</span>. This is for your happiness.’ ",
+            "en": "‘<span class=\"ebt-matched\">This is for your welfare</span>. This is for your happiness.’ ",
             "matched": true
           },
           "mn137:24.2": {
             "scid": "mn137:24.2",
             "pli": "‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">This is for your welfare</span>. This is for your happiness.’ ",
+            "en": "‘<span class=\"ebt-matched\">This is for your welfare</span>. This is for your happiness.’ ",
             "matched": true
           }
         },
@@ -142,13 +142,13 @@
           "mn122:25.5": {
             "scid": "mn122:25.5",
             "pli": "‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">This is for your welfare</span>. This is for your happiness.’ ",
+            "en": "‘<span class=\"ebt-matched\">This is for your welfare</span>. This is for your happiness.’ ",
             "matched": true
           },
           "mn122:26.3": {
             "scid": "mn122:26.3",
             "pli": "‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. ",
-            "en": "‘<span class=\"scv-matched\">This is for your welfare</span>. This is for your happiness.’ ",
+            "en": "‘<span class=\"ebt-matched\">This is for your welfare</span>. This is for your happiness.’ ",
             "matched": true
           }
         },

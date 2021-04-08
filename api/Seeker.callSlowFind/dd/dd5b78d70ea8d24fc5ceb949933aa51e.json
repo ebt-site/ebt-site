@@ -13,7 +13,7 @@
       "searchLang": "en",
       "maxDoc": 50,
       "minLang": 2,
-      "matchHighlight": "<span class=\"scv-matched\">$&</span>",
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
       "lang": "en",
       "types": [
         "root",
@@ -63,7 +63,7 @@
           "sn1.71:2.4": {
             "scid": "sn1.71:2.4",
             "pli": "vadhaṁ rocesi gotamā”ti. ",
-            "en": "whose <span class=\"scv-matched\">killing you approve</span>?” ",
+            "en": "whose <span class=\"ebt-matched\">killing you approve</span>?” ",
             "matched": true
           }
         },
@@ -92,7 +92,7 @@
           "sn2.3:2.4": {
             "scid": "sn2.3:2.4",
             "pli": "vadhaṁ rocesi gotamā”ti. ",
-            "en": "whose <span class=\"scv-matched\">killing you approve</span>?” ",
+            "en": "whose <span class=\"ebt-matched\">killing you approve</span>?” ",
             "matched": true
           }
         },
@@ -121,7 +121,7 @@
           "sn11.21:2.4": {
             "scid": "sn11.21:2.4",
             "pli": "vadhaṁ rocesi gotamā”ti. ",
-            "en": "whose <span class=\"scv-matched\">killing you approve</span>?” ",
+            "en": "whose <span class=\"ebt-matched\">killing you approve</span>?” ",
             "matched": true
           }
         },
@@ -150,7 +150,7 @@
           "sn7.1:7.4": {
             "scid": "sn7.1:7.4",
             "pli": "vadhaṁ rocesi gotamā”ti. ",
-            "en": "whose <span class=\"scv-matched\">killing you approve</span>?” ",
+            "en": "whose <span class=\"ebt-matched\">killing you approve</span>?” ",
             "matched": true
           }
         },
