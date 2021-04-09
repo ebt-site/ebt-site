@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bthe sweetest of the sweet",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an6/an6.60_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn21_translation-en-sujato.json:1"
+  ]
+}
