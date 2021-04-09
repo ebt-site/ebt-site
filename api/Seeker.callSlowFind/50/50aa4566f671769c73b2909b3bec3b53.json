@@ -1,0 +1,740 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "guard the sense doors",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "guard the sense doors",
+    "method": "phrase",
+    "resultPattern": "\\bguard the sense doors",
+    "segsMatched": 47,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.132_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.132_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.120_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.120_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn69_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn69_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.239_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.239_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.79_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.79_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.28_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.28_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.31_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.31_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.150_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.150_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn53_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn53_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn8_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn8_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.37_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.37_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.16_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.16_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.219-234_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.219-234_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.132/en/sujato",
+      "sn35.120/en/sujato",
+      "mn69/en/sujato",
+      "sn35.239/en/sujato",
+      "dn2/en/sujato",
+      "dn10/en/sujato",
+      "an8.79/en/sujato",
+      "an7.28/en/sujato",
+      "an6.31/en/sujato",
+      "an5.150/en/sujato",
+      "mn53/en/sujato",
+      "dn8/en/sujato",
+      "dn28/en/sujato",
+      "an4.37/en/sujato",
+      "an3.16/en/sujato",
+      "an1.219-234/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.132_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.132_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.132",
+        "lang": "en",
+        "segMap": {
+          "sn35.132:2.3": {
+            "scid": "sn35.132:2.3",
+            "pli": "Guttāni dvārāni surakkhitāni, ",
+            "en": "Their sense doors were guarded, well protected, ",
+            "matched": true
+          },
+          "sn35.132:5.1": {
+            "scid": "sn35.132:5.1",
+            "pli": "Aguttadvārassa bhavanti moghā, ",
+            "en": "All is vain for someone who doesn’t <span class=\"ebt-matched\">guard the sense doors</span>, ",
+            "matched": true
+          },
+          "sn35.132:12.1": {
+            "scid": "sn35.132:12.1",
+            "pli": "“‘Aguttadvāro’ti bhavaṁ kaccāno āha. ",
+            "en": "“Master Kaccāna spoke of someone who doesn’t <span class=\"ebt-matched\">guard the sense doors</span>. ",
+            "matched": true
+          },
+          "sn35.132:12.2": {
+            "scid": "sn35.132:12.2",
+            "pli": "Kittāvatā nu kho, bho kaccāna, aguttadvāro hotī”ti? ",
+            "en": "How do you define someone who doesn’t <span class=\"ebt-matched\">guard the sense doors</span>?” ",
+            "matched": true
+          },
+          "sn35.132:12.11": {
+            "scid": "sn35.132:12.11",
+            "pli": "Evaṁ kho, brāhmaṇa, aguttadvāro hotī”ti. ",
+            "en": "That’s how someone doesn’t <span class=\"ebt-matched\">guard the sense doors</span>.” ",
+            "matched": true
+          },
+          "sn35.132:13.1": {
+            "scid": "sn35.132:13.1",
+            "pli": "‘Guttadvāro’ti bhavaṁ kaccāno āha. ",
+            "en": "You also spoke of someone who does <span class=\"ebt-matched\">guard the sense doors</span>. ",
+            "matched": true
+          },
+          "sn35.132:13.2": {
+            "scid": "sn35.132:13.2",
+            "pli": "Kittāvatā nu kho, bho kaccāna, guttadvāro hotī”ti? ",
+            "en": "How do you define someone who does <span class=\"ebt-matched\">guard the sense doors</span>?” ",
+            "matched": true
+          },
+          "sn35.132:13.11": {
+            "scid": "sn35.132:13.11",
+            "pli": "Evaṁ kho, brāhmaṇa, guttadvāro hotī”ti. ",
+            "en": "That’s how someone guards the sense doors.” ",
+            "matched": true
+          }
+        },
+        "score": 8.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n13. Householders\n132. With Lohicca",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 88,
+          "en": 87
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.120_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.120_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.120",
+        "lang": "en",
+        "segMap": {
+          "sn35.120:2.1": {
+            "scid": "sn35.120:2.1",
+            "pli": "“Evametaṁ, āvuso, hoti indriyesu aguttadvārassa, bhojane amattaññuno, jāgariyaṁ ananuyuttassa. ",
+            "en": "“That’s how it is, reverend, when someone doesn’t <span class=\"ebt-matched\">guard the sense doors</span>, eats too much, and is not committed to wakefulness. ",
+            "matched": true
+          },
+          "sn35.120:2.3": {
+            "scid": "sn35.120:2.3",
+            "pli": "‘So vatāvuso, bhikkhu indriyesu guttadvāro, bhojane mattaññū, jāgariyaṁ anuyutto yāvajīvaṁ paripuṇṇaṁ parisuddhaṁ brahmacariyaṁ santānessatī’ti ṭhānametaṁ vijjati. ",
+            "en": "But it is possible for a mendicant to maintain the full and pure spiritual life for the rest of their life if they <span class=\"ebt-matched\">guard the sense doors</span>, eat in moderation, and are committed to wakefulness. ",
+            "matched": true
+          },
+          "sn35.120:3.1": {
+            "scid": "sn35.120:3.1",
+            "pli": "Kathañcāvuso, indriyesu guttadvāro hoti? ",
+            "en": "And how does someone <span class=\"ebt-matched\">guard the sense doors</span>? ",
+            "matched": true
+          },
+          "sn35.120:3.10": {
+            "scid": "sn35.120:3.10",
+            "pli": "Evaṁ kho, āvuso, indriyesu guttadvāro hoti. ",
+            "en": "That’s how someone guards the sense doors. ",
+            "matched": true
+          },
+          "sn35.120:5.8": {
+            "scid": "sn35.120:5.8",
+            "pli": "‘indriyesu guttadvārā bhavissāma, bhojane mattaññuno, jāgariyaṁ anuyuttā’ti. ",
+            "en": "‘We will <span class=\"ebt-matched\">guard the sense doors</span>, eat in moderation, and be committed to wakefulness.’ ",
+            "matched": true
+          }
+        },
+        "score": 5.147,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n12. The World and the Kinds of Sensual Stimulation\n120. Sāriputta and the Pupil",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 34,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn53_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn53_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn53",
+        "lang": "en",
+        "segMap": {
+          "mn53:6.2": {
+            "scid": "mn53:6.2",
+            "pli": "“idha, mahānāma, ariyasāvako sīlasampanno hoti, indriyesu guttadvāro hoti, bhojane mattaññū hoti, jāgariyaṁ anuyutto hoti, sattahi saddhammehi samannāgato hoti, catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "“Mahānāma, a noble disciple is accomplished in ethics, guards the sense doors, eats in moderation, and is dedicated to wakefulness. They have seven good qualities, and they get the four absorptions—blissful meditations in the present life that belong to the higher mind—when they want, without trouble or difficulty. ",
+            "matched": true
+          },
+          "mn53:8.1": {
+            "scid": "mn53:8.1",
+            "pli": "Kathañca, mahānāma, ariyasāvako indriyesu guttadvāro hoti? ",
+            "en": "And how does a noble disciple <span class=\"ebt-matched\">guard the sense doors</span>? ",
+            "matched": true
+          },
+          "mn53:8.10": {
+            "scid": "mn53:8.10",
+            "pli": "Evaṁ kho, mahānāma, ariyasāvako indriyesu guttadvāro hoti. ",
+            "en": "That’s how a noble disciple guards the sense doors. ",
+            "matched": true
+          },
+          "mn53:19.1": {
+            "scid": "mn53:19.1",
+            "pli": "Yato kho, mahānāma, ariyasāvako evaṁ sīlasampanno hoti, evaṁ indriyesu guttadvāro hoti, evaṁ bhojane mattaññū hoti, evaṁ jāgariyaṁ anuyutto hoti, evaṁ sattahi saddhammehi samannāgato hoti, evaṁ catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, ayaṁ vuccati, mahānāma, ariyasāvako sekho pāṭipado apuccaṇḍatāya samāpanno, bhabbo abhinibbhidāya, bhabbo sambodhāya, bhabbo anuttarassa yogakkhemassa adhigamāya. ",
+            "en": "When a noble disciple is accomplished in ethics, guards the sense doors, eats in moderation, and is dedicated to wakefulness; and they have seven good qualities, and they get the four absorptions—blissful meditations in the present life that belong to the higher mind—when they want, without trouble or difficulty, they are called a noble disciple who is a practicing trainee. Their eggs are unspoiled, and they are capable of breaking out of their shell, becoming awakened, and achieving the supreme sanctuary. ",
+            "matched": true
+          },
+          "mn53:23.2": {
+            "scid": "mn53:23.2",
+            "pli": "yampi, mahānāma, ariyasāvako indriyesu guttadvāro hoti, idampissa hoti caraṇasmiṁ; ",
+            "en": "guarding the sense doors, ",
+            "matched": true
+          }
+        },
+        "score": 5.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 53\nA Trainee",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 100,
+          "en": 99
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.16_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.16_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.16",
+        "lang": "en",
+        "segMap": {
+          "an3.16:1.3": {
+            "scid": "an3.16:1.3",
+            "pli": "Idha, bhikkhave, bhikkhu indriyesu guttadvāro hoti, bhojane mattaññū hoti, jāgariyaṁ anuyutto hoti. ",
+            "en": "It’s when a mendicant guards the sense doors, eats in moderation, and is dedicated to wakefulness. ",
+            "matched": true
+          },
+          "an3.16:2.1": {
+            "scid": "an3.16:2.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu indriyesu guttadvāro hoti? ",
+            "en": "And how does a mendicant <span class=\"ebt-matched\">guard the sense doors</span>? ",
+            "matched": true
+          },
+          "an3.16:2.10": {
+            "scid": "an3.16:2.10",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu indriyesu guttadvāro hoti. ",
+            "en": "That’s how a mendicant guards the sense doors. ",
+            "matched": true
+          }
+        },
+        "score": 3.12,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n2. The Chariot-Maker\n16. Guaranteed",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 25,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.239_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.239_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.239",
+        "lang": "en",
+        "segMap": {
+          "sn35.239:1.3": {
+            "scid": "sn35.239:1.3",
+            "pli": "Indriyesu guttadvāro hoti, bhojane mattaññū, jāgariyaṁ anuyutto. ",
+            "en": "They <span class=\"ebt-matched\">guard the sense doors</span>, eat in moderation, and are committed to wakefulness. ",
+            "matched": true
+          },
+          "sn35.239:2.1": {
+            "scid": "sn35.239:2.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu indriyesu guttadvāro hoti? ",
+            "en": "And how does a mendicant <span class=\"ebt-matched\">guard the sense doors</span>? ",
+            "matched": true
+          },
+          "sn35.239:2.12": {
+            "scid": "sn35.239:2.12",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu indriyesu guttadvāro hoti. ",
+            "en": "That’s how a mendicant guards the sense doors. ",
+            "matched": true
+          }
+        },
+        "score": 3.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n19. The Simile of the Vipers\n239. The Simile of the Chariot",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.37_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.37_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.37",
+        "lang": "en",
+        "segMap": {
+          "an4.37:1.3": {
+            "scid": "an4.37:1.3",
+            "pli": "Idha, bhikkhave, bhikkhu sīlasampanno hoti, indriyesu guttadvāro hoti, bhojane mattaññū hoti, jāgariyaṁ anuyutto hoti. ",
+            "en": "A mendicant is accomplished in ethics, guards the sense doors, eats in moderation, and is dedicated to wakefulness. ",
+            "matched": true
+          },
+          "an4.37:3.1": {
+            "scid": "an4.37:3.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu indriyesu guttadvāro hoti? ",
+            "en": "And how does a mendicant <span class=\"ebt-matched\">guard the sense doors</span>? ",
+            "matched": true
+          },
+          "an4.37:3.10": {
+            "scid": "an4.37:3.10",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu indriyesu guttadvāro hoti. ",
+            "en": "That’s how a mendicant guards the sense doors. ",
+            "matched": true
+          }
+        },
+        "score": 3.07,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n4. Situations\n37. Non-decline",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 43,
+          "en": 42
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn69_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn69_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn69",
+        "lang": "en",
+        "segMap": {
+          "mn69:10.1": {
+            "scid": "mn69:10.1",
+            "pli": "Āraññikenāvuso, bhikkhunā indriyesu guttadvārena bhavitabbaṁ. ",
+            "en": "A wilderness monk should <span class=\"ebt-matched\">guard the sense doors</span>. ",
+            "matched": true
+          },
+          "mn69:10.3": {
+            "scid": "mn69:10.3",
+            "pli": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā indriyesu aguttadvāro’ti—",
+            "en": "‘What’s the point of this wilderness venerable’s staying alone and autonomous in the wilderness, since he doesn’t <span class=\"ebt-matched\">guard the sense doors</span>?’ ",
+            "matched": true
+          },
+          "mn69:10.5": {
+            "scid": "mn69:10.5",
+            "pli": "Tasmā āraññikena bhikkhunā indriyesu guttadvārena bhavitabbaṁ. ",
+            "en": "That’s why a wilderness monk should <span class=\"ebt-matched\">guard the sense doors</span>. ",
+            "matched": true
+          }
+        },
+        "score": 3.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 69\nWith Gulissāni",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 104,
+          "en": 103
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn10",
+        "lang": "en",
+        "segMap": {
+          "dn10:1.10.1": {
+            "scid": "dn10:1.10.1",
+            "pli": "So evaṁ pabbajito samāno pātimokkhasaṁvarasaṁvuto viharati, ācāragocarasampanno, anumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena, parisuddhājīvo, sīlasampanno, indriyesu guttadvāro, satisampajaññena samannāgato, santuṭṭho. ",
+            "en": "Once they’ve gone forth, they live restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They <span class=\"ebt-matched\">guard the sense doors</span>, have mindfulness and situational awareness, and are content. ",
+            "matched": true
+          },
+          "dn10:2.2.1": {
+            "scid": "dn10:2.2.1",
+            "pli": "“Kathañca, māṇava, bhikkhu indriyesu guttadvāro hoti? ",
+            "en": "“And how, student, does a mendicant <span class=\"ebt-matched\">guard the sense doors</span>? ",
+            "matched": true
+          },
+          "dn10:2.2.11": {
+            "scid": "dn10:2.2.11",
+            "pli": "Evaṁ kho, māṇava, bhikkhu indriyesu guttadvāro hoti. ",
+            "en": "That’s how a mendicant guards the sense doors. ",
+            "matched": true
+          }
+        },
+        "score": 3.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 10\nWith Subha",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 284,
+          "en": 281
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn2",
+        "lang": "en",
+        "segMap": {
+          "dn2:42.1": {
+            "scid": "dn2:42.1",
+            "pli": "So evaṁ pabbajito samāno pātimokkhasaṁvarasaṁvuto viharati ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena, parisuddhājīvo sīlasampanno, indriyesu guttadvāro, satisampajaññena samannāgato, santuṭṭho. ",
+            "en": "Once they’ve gone forth, they live restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They <span class=\"ebt-matched\">guard the sense doors</span>, have mindfulness and situational awareness, and are content. ",
+            "matched": true
+          },
+          "dn2:64.1": {
+            "scid": "dn2:64.1",
+            "pli": "Kathañca, mahārāja, bhikkhu indriyesu guttadvāro hoti? ",
+            "en": "And how does a mendicant <span class=\"ebt-matched\">guard the sense doors</span>? ",
+            "matched": true
+          },
+          "dn2:64.11": {
+            "scid": "dn2:64.11",
+            "pli": "Evaṁ kho, mahārāja, bhikkhu indriyesu guttadvāro hoti. ",
+            "en": "That’s how a mendicant guards the sense doors. ",
+            "matched": true
+          }
+        },
+        "score": 3.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 2\nThe Fruits of the Ascetic Life\n1. A Discussion With the King’s Ministers",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 649,
+          "en": 632
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.31_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.31_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.31",
+        "lang": "en",
+        "segMap": {
+          "an6.31:1.3": {
+            "scid": "an6.31:1.3",
+            "pli": "Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā—",
+            "en": "They relish work, talk, sleep, and company. They don’t <span class=\"ebt-matched\">guard the sense doors</span>, and they eat too much. ",
+            "matched": true
+          },
+          "an6.31:2.3": {
+            "scid": "an6.31:2.3",
+            "pli": "Na kammārāmatā, na bhassārāmatā, na niddārāmatā, na saṅgaṇikārāmatā, indriyesu guttadvāratā, bhojane mattaññutā—",
+            "en": "They don’t relish work, talk, sleep, and company. They <span class=\"ebt-matched\">guard the sense doors</span>, and they don’t eat too much. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n4. Deities\n31. A Trainee",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.79_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.79_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.79",
+        "lang": "en",
+        "segMap": {
+          "an8.79:1.3": {
+            "scid": "an8.79:1.3",
+            "pli": "Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā, saṁsaggārāmatā, papañcārāmatā—",
+            "en": "They relish work, talk, sleep, and company. They don’t <span class=\"ebt-matched\">guard the sense doors</span> and they eat too much. They relish closeness and proliferation. ",
+            "matched": true
+          },
+          "an8.79:2.3": {
+            "scid": "an8.79:2.3",
+            "pli": "Na kammārāmatā, na bhassārāmatā, na niddārāmatā, na saṅgaṇikārāmatā, indriyesu guttadvāratā, bhojane mattaññutā, asaṁsaggārāmatā, nippapañcārāmatā—",
+            "en": "They don’t relish work, talk, and sleep. They <span class=\"ebt-matched\">guard the sense doors</span>, and they don’t eat too much. They don’t relish closeness and proliferation. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n8. Pairs\n79. Decline",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.28_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.28",
+        "lang": "en",
+        "segMap": {
+          "an7.28:1.6": {
+            "scid": "an7.28:1.6",
+            "pli": "Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā, santi kho pana saṅghe saṅghakaraṇīyāni; tatra sekho bhikkhu iti paṭisañcikkhati: ",
+            "en": "They relish work, talk, sleep, and company. They don’t <span class=\"ebt-matched\">guard the sense doors</span> and they eat too much. And when there is Saṅgha business to be carried out, they don’t reflect: ",
+            "matched": true
+          },
+          "an7.28:2.3": {
+            "scid": "an7.28:2.3",
+            "pli": "Na kammārāmatā, na bhassārāmatā, na niddārāmatā, na saṅgaṇikārāmatā, indriyesu guttadvāratā, bhojane mattaññutā, santi kho pana saṅghe saṅghakaraṇīyāni; tatra sekho bhikkhu iti paṭisañcikkhati: ",
+            "en": "They don’t relish work, talk, sleep, and company. They <span class=\"ebt-matched\">guard the sense doors</span> and don’t they eat too much. And when there is Saṅgha business to be carried out, they reflect: ",
+            "matched": true
+          }
+        },
+        "score": 2.118,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n3. The Vajji Seven\n28. Non-decline for a Mendicant Trainee",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.150_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.150_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.150",
+        "lang": "en",
+        "segMap": {
+          "an5.150:1.3": {
+            "scid": "an5.150:1.3",
+            "pli": "Kammārāmatā, bhassārāmatā, niddārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā. ",
+            "en": "They relish work, talk, and sleep. They don’t <span class=\"ebt-matched\">guard the sense doors</span> and they eat too much. ",
+            "matched": true
+          },
+          "an5.150:2.3": {
+            "scid": "an5.150:2.3",
+            "pli": "Na kammārāmatā, na bhassārāmatā, na niddārāmatā, indriyesu guttadvāratā, bhojane mattaññutā. ",
+            "en": "They don’t relish work, talk, sleep, and company. They <span class=\"ebt-matched\">guard the sense doors</span> and they have moderation in eating. ",
+            "matched": true
+          }
+        },
+        "score": 2.105,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n15. At Tikaṇḍakī\n150. Temporarily Free (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 19,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.219-234_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.219-234_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.219-234",
+        "lang": "en",
+        "segMap": {
+          "an1.230:1.1": {
+            "scid": "an1.230:1.1",
+            "pli": "… Indriyesu guttadvārānaṁ yadidaṁ nando. ",
+            "en": "… who <span class=\"ebt-matched\">guard the sense doors</span> is Nanda. ",
+            "matched": true
+          }
+        },
+        "score": 1.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 1\n17. Fourth\n219–234",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 20,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn8_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn8",
+        "lang": "en",
+        "segMap": {
+          "dn8:18.4": {
+            "scid": "dn8:18.4",
+            "pli": "bhayadassāvī samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena parisuddhājīvo sīlasampanno indriyesu guttadvāro satisampajaññena samannāgato santuṭṭho. ",
+            "en": "Seeing danger in the slightest fault, a mendicant keeps the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They <span class=\"ebt-matched\">guard the sense doors</span>, have mindfulness and situational awareness, and are content. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 8\nThe Longer Discourse on the Lion’s Roar",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 252,
+          "en": 251
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn28",
+        "lang": "en",
+        "segMap": {
+          "dn28:12.2": {
+            "scid": "dn28:12.2",
+            "pli": "Idha, bhante, ekacco sacco cassa saddho ca, na ca kuhako, na ca lapako, na ca nemittiko, na ca nippesiko, na ca lābhena lābhaṁ nijigīsanako, indriyesu guttadvāro, bhojane mattaññū, samakārī, jāgariyānuyogamanuyutto, atandito, āraddhavīriyo, jhāyī, satimā, kalyāṇapaṭibhāno, gatimā, dhitimā, matimā, na ca kāmesu giddho, sato ca nipako ca. ",
+            "en": "It’s when someone is honest and faithful. They don’t use deceit, flattery, hinting, or belittling, and they don’t use material possessions to chase after other material possessions. They <span class=\"ebt-matched\">guard the sense doors</span> and eat in moderation. They’re fair, dedicated to wakefulness, tireless, energetic, and meditative. They have good memory, eloquence, range, retention, and thoughtfulness. They’re not greedy for sensual pleasures. They are mindful and alert. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 28\nInspiring Confidence\n1. Sāriputta’s Lion’s Roar",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 250,
+          "en": 249
+        }
+      }
+    ]
+  }
+}

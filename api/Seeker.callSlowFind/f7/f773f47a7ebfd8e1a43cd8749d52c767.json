@@ -1,0 +1,106 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "destroyer of the sorrows of many",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "destroyer of the sorrows of many",
+    "method": "phrase",
+    "resultPattern": "\\bdestroyer of the sorrows of many",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn6/sn6.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn6/sn6.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.21_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.21_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn6.2/en/sujato",
+      "an4.21/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn6/sn6.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn6/sn6.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn6.2",
+        "lang": "en",
+        "segMap": {
+          "sn6.2:8.4": {
+            "scid": "sn6.2:8.4",
+            "pli": "bahūnaṁ sokanāsano. ",
+            "en": "<span class=\"ebt-matched\">destroyer of the sorrows of many</span>—",
+            "matched": true
+          }
+        },
+        "score": 1.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 6\n1. The Appeal\n2. Respect",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 38,
+          "en": 38
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.21_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.21",
+        "lang": "en",
+        "segMap": {
+          "an4.21:9.4": {
+            "scid": "an4.21:9.4",
+            "pli": "bahūnaṁ sokanāsano. ",
+            "en": "<span class=\"ebt-matched\">destroyer of the sorrows of many</span>—",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n3. At Uruvelā\n21. At Uruvelā (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 49,
+          "en": 48
+        }
+      }
+    ]
+  }
+}

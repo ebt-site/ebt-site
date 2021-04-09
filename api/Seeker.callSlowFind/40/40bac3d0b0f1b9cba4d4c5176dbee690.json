@@ -1,0 +1,372 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "mired in suffering",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "mired in suffering",
+    "method": "phrase",
+    "resultPattern": "\\bmired in suffering",
+    "segsMatched": 16,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn67_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn67_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.40_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.40_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn30_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn29_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn29_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.80_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.80_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn10/sn10.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn10/sn10.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn68_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn68_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga10/iti91_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga10/iti91_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.122_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.122_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn67/en/sujato",
+      "an3.40/en/sujato",
+      "mn30/en/sujato",
+      "mn29/en/sujato",
+      "sn22.80/en/sujato",
+      "sn10.7/en/sujato",
+      "mn68/en/sujato",
+      "iti91/en/sujato",
+      "an4.122/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn67_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn67_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn67",
+        "lang": "en",
+        "segMap": {
+          "mn67:16.3": {
+            "scid": "mn67:16.3",
+            "pli": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi dukkhotiṇṇo dukkhapareto; ",
+            "en": "‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          },
+          "mn67:17.3": {
+            "scid": "mn67:17.3",
+            "pli": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi dukkhotiṇṇo dukkhapareto; ",
+            "en": "‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          },
+          "mn67:18.3": {
+            "scid": "mn67:18.3",
+            "pli": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi dukkhotiṇṇo dukkhapareto; ",
+            "en": "‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          },
+          "mn67:19.3": {
+            "scid": "mn67:19.3",
+            "pli": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi dukkhotiṇṇo dukkhapareto; ",
+            "en": "‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          }
+        },
+        "score": 4.031,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 67\nAt Cātumā",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 129,
+          "en": 128
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.40_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.40_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.40",
+        "lang": "en",
+        "segMap": {
+          "an3.40:1.8": {
+            "scid": "an3.40:1.8",
+            "pli": "Api ca khomhi otiṇṇo jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto. ",
+            "en": "But I was swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I was swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          },
+          "an3.40:2.5": {
+            "scid": "an3.40:2.5",
+            "pli": "Api ca khomhi otiṇṇo jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto. ",
+            "en": "But I was swamped by rebirth, old age, and death, by sorrow, lamentation, pain, sadness, and distress. I was swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          },
+          "an3.40:3.5": {
+            "scid": "an3.40:3.5",
+            "pli": "Api ca khomhi otiṇṇo jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto. ",
+            "en": "But I was swamped by rebirth, old age, and death, by sorrow, lamentation, pain, sadness, and distress. I was swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          }
+        },
+        "score": 3.04,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n4. Messengers from the Gods\n40. In Charge",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 75,
+          "en": 73
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn30_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn30",
+        "lang": "en",
+        "segMap": {
+          "mn30:8.2": {
+            "scid": "mn30:8.2",
+            "pli": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto, ",
+            "en": "‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          },
+          "mn30:12.2": {
+            "scid": "mn30:12.2",
+            "pli": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto, ",
+            "en": "‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 30\nThe Shorter Simile of the Heartwood",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 163,
+          "en": 161
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn29_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn29_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn29",
+        "lang": "en",
+        "segMap": {
+          "mn29:2.2": {
+            "scid": "mn29:2.2",
+            "pli": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto, ",
+            "en": "‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          },
+          "mn29:6.2": {
+            "scid": "mn29:6.2",
+            "pli": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto, ",
+            "en": "‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 29\nThe Longer Simile of the Heartwood",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 181,
+          "en": 180
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga10/iti91_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga10/iti91_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti91",
+        "lang": "en",
+        "segMap": {
+          "iti91:2.5": {
+            "scid": "iti91:2.5",
+            "pli": "Api ca kho ‘otiṇṇamhā jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi dukkhotiṇṇā dukkhaparetā, ",
+            "en": "Rather, because they think: ‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.032,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Threes\nChapter Five\n91. Lifestyle",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 31,
+          "en": 30
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn10/sn10.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn10/sn10.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn10.7",
+        "lang": "en",
+        "segMap": {
+          "sn10.7:6.1": {
+            "scid": "sn10.7:6.1",
+            "pli": "Loke dukkhaparetasmiṁ, ",
+            "en": "In this world <span class=\"ebt-matched\">mired in suffering</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 10\n1. With Indaka\n7. With Punabbasu",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "en": 47
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.122_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.122_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.122",
+        "lang": "en",
+        "segMap": {
+          "an4.122:2.3": {
+            "scid": "an4.122:2.3",
+            "pli": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto; ",
+            "en": "‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n13. Fears\n122. The Danger of Waves",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 68,
+          "en": 67
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.80_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.80_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.80",
+        "lang": "en",
+        "segMap": {
+          "sn22.80:6.5": {
+            "scid": "sn22.80:6.5",
+            "pli": "api ca kho otiṇṇāmha jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi dukkhotiṇṇā dukkhaparetā ",
+            "en": "But because they’re swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. They’re swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n8. Itchy\n80. Beggars",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 80,
+          "en": 79
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn68_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn68_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn68",
+        "lang": "en",
+        "segMap": {
+          "mn68:5.5": {
+            "scid": "mn68:5.5",
+            "pli": "Api ca khomhi otiṇṇo jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto; ",
+            "en": "Rather, didn’t you go forth thinking: ‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, <span class=\"ebt-matched\">mired in suffering</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 68\nAt Naḷakapāna",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 177,
+          "en": 176
+        }
+      }
+    ]
+  }
+}

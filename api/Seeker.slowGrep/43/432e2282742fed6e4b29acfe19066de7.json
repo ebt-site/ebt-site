@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bruhe als auch klarsicht",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an4/an4.94_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/an/an4/an4.93_translation-de-sabbamitta.json:3"
+  ]
+}

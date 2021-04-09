@@ -1,0 +1,107 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wurzel des leidens",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wurzel des leidens",
+    "method": "phrase",
+    "resultPattern": "\\bwurzel des leidens",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn42/sn42.11_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn42/sn42.11_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn42/sn42.11_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn42.11/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn42/sn42.11_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn42/sn42.11_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn42/sn42.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn42.11",
+        "lang": "de",
+        "segMap": {
+          "sn42.11:2.11": {
+            "scid": "sn42.11:2.11",
+            "pli": "Chando hi mūlaṁ dukkhassa. ",
+            "de": "Denn Sehnen ist die <span class=\"ebt-matched\">Wurzel des Leidens</span>. ",
+            "en": "For desire is the root of suffering. ",
+            "matched": true
+          },
+          "sn42.11:2.13": {
+            "scid": "sn42.11:2.13",
+            "pli": "Chando hi mūlaṁ dukkhassā’”ti. ",
+            "de": "Denn Sehnen ist die <span class=\"ebt-matched\">Wurzel des Leidens</span>.‘“ ",
+            "en": "For desire is the root of suffering.’” ",
+            "matched": true
+          },
+          "sn42.11:2.17": {
+            "scid": "sn42.11:2.17",
+            "pli": "Chando hi mūlaṁ dukkhassā’ti. ",
+            "de": "Denn Sehnen ist die <span class=\"ebt-matched\">Wurzel des Leidens</span>.‘ ",
+            "en": "For desire is the root of suffering.’ ",
+            "matched": true
+          },
+          "sn42.11:3.6": {
+            "scid": "sn42.11:3.6",
+            "pli": "Chando hi mūlaṁ dukkhassā’ti. ",
+            "de": "Denn Sehnen ist die <span class=\"ebt-matched\">Wurzel des Leidens</span>.‘ ",
+            "en": "For desire is the root of suffering.’ ",
+            "matched": true
+          },
+          "sn42.11:5.6": {
+            "scid": "sn42.11:5.6",
+            "pli": "Chando hi mūlaṁ dukkhassā’”ti. ",
+            "de": "Denn Sehnen ist die <span class=\"ebt-matched\">Wurzel des Leidens</span>.‘“ ",
+            "en": "For desire is the root of suffering.’” ",
+            "matched": true
+          }
+        },
+        "score": 5.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 42\n1. Ortsvorsteher\n11. Mit Bhadraka",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 55,
+          "de": 54,
+          "en": 54
+        }
+      }
+    ]
+  }
+}

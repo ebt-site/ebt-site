@@ -1,0 +1,330 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "robes of sunn hemp",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "robes of sunn hemp",
+    "method": "phrase",
+    "resultPattern": "\\brobes of sunn hemp",
+    "segsMatched": 9,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn94_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn94_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn51_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn51_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn45_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn45_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn12_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn12_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn8_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn8_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.93_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.93_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.156-162_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.156-162_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn94/en/sujato",
+      "mn51/en/sujato",
+      "mn45/en/sujato",
+      "mn12/en/sujato",
+      "dn8/en/sujato",
+      "dn25/en/sujato",
+      "an4.198/en/sujato",
+      "an3.93/en/sujato",
+      "an3.156-162/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.93_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.93_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.93",
+        "lang": "en",
+        "segMap": {
+          "an3.93:2.1": {
+            "scid": "an3.93:2.1",
+            "pli": "Tatridaṁ, bhikkhave, aññatitthiyā paribbājakā cīvarapavivekasmiṁ paññāpenti, sāṇānipi dhārenti, masāṇānipi dhārenti, chavadussānipi dhārenti, paṁsukūlānipi dhārenti, tirīṭānipi dhārenti, ajinampi dhārenti, ajinakkhipampi dhārenti, kusacīrampi dhārenti, vākacīrampi dhārenti, phalakacīrampi dhārenti, kesakambalampi dhārenti, vālakambalampi dhārenti, ulūkapakkhikampi dhārenti. ",
+            "en": "Wanderers who follow other paths advocate this kind of seclusion in robes. They wear <span class=\"ebt-matched\">robes of sunn hemp</span>, mixed hemp, corpse-wrapping cloth, rags, lodh tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, human hair, horse-tail hair, or owls’ wings. ",
+            "matched": true
+          }
+        },
+        "score": 1.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n93. Seclusion",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 41,
+          "en": 40
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.156-162_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.156-162_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.156-162",
+        "lang": "en",
+        "segMap": {
+          "an3.156:4.1": {
+            "scid": "an3.156:4.1",
+            "pli": "So sāṇānipi dhāreti, masāṇānipi dhāreti, chavadussānipi dhāreti, paṁsukūlānipi dhāreti, tirīṭānipi dhāreti, ajinampi dhāreti, ajinakkhipampi dhāreti, kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhikampi dhāreti, ",
+            "en": "They wear <span class=\"ebt-matched\">robes of sunn hemp</span>, mixed hemp, corpse-wrapping cloth, rags, lodh tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, human hair, horse-tail hair, or owls’ wings. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n16. Naked\n156–162",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 82,
+          "en": 80
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn45_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn45_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn45",
+        "lang": "en",
+        "segMap": {
+          "mn45:5.8": {
+            "scid": "mn45:5.8",
+            "pli": "So sāṇānipi dhāreti, masāṇānipi dhāreti, chavadussānipi dhāreti, paṁsukūlānipi dhāreti, tirīṭānipi dhāreti, ajinampi dhāreti, ajinakkhipampi dhāreti, kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhampi dhāreti, ",
+            "en": "They wear <span class=\"ebt-matched\">robes of sunn hemp</span>, mixed hemp, corpse-wrapping cloth, rags, lodh tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, human hair, horse-tail hair, or owls’ wings. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 45\nThe Shorter Discourse on Taking Up Practices",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 97,
+          "en": 96
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.198",
+        "lang": "en",
+        "segMap": {
+          "an4.198:4.1": {
+            "scid": "an4.198:4.1",
+            "pli": "So sāṇānipi dhāreti masāṇānipi dhāreti chavadussānipi dhāreti paṁsukūlānipi dhāreti tirīṭānipi dhāreti ajinampi dhāreti ajinakkhipampi dhāreti kusacīrampi dhāreti vākacīrampi dhāreti phalakacīrampi dhāreti kesakambalampi dhāreti vāḷakambalampi dhāreti ulūkapakkhampi dhāreti; ",
+            "en": "They wear <span class=\"ebt-matched\">robes of sunn hemp</span>, mixed hemp, corpse-wrapping cloth, rags, lodh tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, human hair, horse-tail hair, or owls’ wings. ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n20. The Great Chapter\n198. Self-mortification",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 111,
+          "en": 110
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn51_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn51",
+        "lang": "en",
+        "segMap": {
+          "mn51:8.7": {
+            "scid": "mn51:8.7",
+            "pli": "So sāṇānipi dhāreti, masāṇānipi dhāreti, chavadussānipi dhāreti, paṁsukūlānipi dhāreti, tirīṭānipi dhāreti, ajinampi dhāreti, ajinakkhipampi dhāreti, kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhampi dhāreti; ",
+            "en": "They wear <span class=\"ebt-matched\">robes of sunn hemp</span>, mixed hemp, corpse-wrapping cloth, rags, lodh tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, human hair, horse-tail hair, or owls’ wings. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 51\nWith Kandaraka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 190,
+          "en": 189
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn94_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn94_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn94",
+        "lang": "en",
+        "segMap": {
+          "mn94:10.8": {
+            "scid": "mn94:10.8",
+            "pli": "So sāṇānipi dhāreti, masāṇānipi dhāreti, chavadussānipi dhāreti, paṁsukūlānipi dhāreti, tirīṭānipi dhāreti, ajinampi dhāreti, ajinakkhipampi dhāreti, kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhampi dhāreti; ",
+            "en": "They wear <span class=\"ebt-matched\">robes of sunn hemp</span>, mixed hemp, corpse-wrapping cloth, rags, lodh tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, human hair, horse-tail hair, or owls’ wings. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 94\nWith Ghoṭamukha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 203,
+          "en": 202
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn8_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn8",
+        "lang": "en",
+        "segMap": {
+          "dn8:14.11": {
+            "scid": "dn8:14.11",
+            "pli": "Sāṇānipi dhāreti, masāṇānipi dhāreti, chavadussānipi dhāreti, paṁsukūlānipi dhāreti, tirīṭānipi dhāreti, ajinampi dhāreti, ajinakkhipampi dhāreti, kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhikampi dhāreti, ",
+            "en": "They wear <span class=\"ebt-matched\">robes of sunn hemp</span>, mixed hemp, corpse-wrapping cloth, rags, lodh tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, human hair, horse-tail hair, or owls’ wings. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 8\nThe Longer Discourse on the Lion’s Roar",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 252,
+          "en": 251
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "en",
+        "segMap": {
+          "dn25:8.9": {
+            "scid": "dn25:8.9",
+            "pli": "So sāṇānipi dhāreti, masāṇānipi dhāreti, chavadussānipi dhāreti, paṁsukūlānipi dhāreti, tirīṭānipi dhāreti, ajinampi dhāreti, ajinakkhipampi dhāreti, kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhampi dhāreti, ",
+            "en": "They wear <span class=\"ebt-matched\">robes of sunn hemp</span>, mixed hemp, corpse-wrapping cloth, rags, lodh tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, human hair, horse-tail hair, or owls’ wings. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 25\nThe Lion’s Roar at Udumbarikā’s Monastery\n1. On the Wanderer Nigrodha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 383,
+          "en": 382
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn12_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn12",
+        "lang": "en",
+        "segMap": {
+          "mn12:45.7": {
+            "scid": "mn12:45.7",
+            "pli": "So sāṇānipi dhāremi, masāṇānipi dhāremi, chavadussānipi dhāremi, paṁsukūlānipi dhāremi, tirīṭānipi dhāremi, ajinampi dhāremi, ajinakkhipampi dhāremi, kusacīrampi dhāremi, vākacīrampi dhāremi, phalakacīrampi dhāremi, kesakambalampi dhāremi, vāḷakambalampi dhāremi, ulūkapakkhampi dhāremi; ",
+            "en": "I wore <span class=\"ebt-matched\">robes of sunn hemp</span>, mixed hemp, corpse-wrapping cloth, rags, lodh tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, human hair, horse-tail hair, or owls’ wings. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 12\nThe Longer Discourse on the Lion’s Roar",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 372,
+          "en": 371
+        }
+      }
+    ]
+  }
+}

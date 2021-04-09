@@ -1,0 +1,242 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "middle way of practice",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "middle way of practice",
+    "method": "phrase",
+    "resultPattern": "\\bmiddle way of practice",
+    "segsMatched": 16,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn3_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn3_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn139_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn139_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn42/sn42.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn42/sn42.12_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn3/en/sujato",
+      "mn139/en/sujato",
+      "sn56.11/en/sujato",
+      "sn42.12/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn3_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn3",
+        "lang": "en",
+        "segMap": {
+          "mn3:8.2": {
+            "scid": "mn3:8.2",
+            "pli": "Lobhassa ca pahānāya dosassa ca pahānāya atthi majjhimā paṭipadā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. ",
+            "en": "There is a <span class=\"ebt-matched\">middle way of practice</span> for giving up greed and hate. It gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. ",
+            "matched": true
+          },
+          "mn3:8.3": {
+            "scid": "mn3:8.3",
+            "pli": "Katamā ca sā, āvuso, majjhimā paṭipadā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati? ",
+            "en": "And what is that <span class=\"ebt-matched\">middle way of practice</span>? ",
+            "matched": true
+          },
+          "mn3:8.6": {
+            "scid": "mn3:8.6",
+            "pli": "Ayaṁ kho sā, āvuso, majjhimā paṭipadā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. ",
+            "en": "This is that <span class=\"ebt-matched\">middle way of practice</span>, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. ",
+            "matched": true
+          },
+          "mn3:9-15.8": {
+            "scid": "mn3:9-15.8",
+            "pli": "Madassa ca pahānāya pamādassa ca pahānāya atthi majjhimā paṭipadā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. ",
+            "en": "There is a <span class=\"ebt-matched\">middle way of practice</span> for giving up vanity and negligence. It gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. ",
+            "matched": true
+          },
+          "mn3:9-15.9": {
+            "scid": "mn3:9-15.9",
+            "pli": "Katamā ca sā, āvuso, majjhimā paṭipadā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati? ",
+            "en": "And what is that <span class=\"ebt-matched\">middle way of practice</span>? ",
+            "matched": true
+          },
+          "mn3:9-15.12": {
+            "scid": "mn3:9-15.12",
+            "pli": "Ayaṁ kho sā, āvuso, majjhimā paṭipadā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattatī”ti. ",
+            "en": "This is that <span class=\"ebt-matched\">middle way of practice</span>, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment.” ",
+            "matched": true
+          }
+        },
+        "score": 6.047,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 3\nHeirs in the Teaching",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 128,
+          "en": 127
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn139_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn139_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn139",
+        "lang": "en",
+        "segMap": {
+          "mn139:3.2": {
+            "scid": "mn139:3.2",
+            "pli": "Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā, cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. ",
+            "en": "Avoiding these two extremes, the Realized One woke up by understanding the <span class=\"ebt-matched\">middle way of practice</span>, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. ",
+            "matched": true
+          },
+          "mn139:5.1": {
+            "scid": "mn139:5.1",
+            "pli": "‘Ete kho ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā, cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattatī’ti—",
+            "en": "‘Avoiding these two extremes, the Realized One woke up by understanding the <span class=\"ebt-matched\">middle way of practice</span>, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment.’ ",
+            "matched": true
+          },
+          "mn139:5.5": {
+            "scid": "mn139:5.5",
+            "pli": "‘Ete kho ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā, cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattatī’ti—",
+            "en": "‘Avoiding these two extremes, the Realized One woke up by understanding the <span class=\"ebt-matched\">middle way of practice</span>, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment.’ ",
+            "matched": true
+          },
+          "mn139:13.13": {
+            "scid": "mn139:13.13",
+            "pli": "Tatra, bhikkhave, yāyaṁ majjhimā paṭipadā tathāgatena abhisambuddhā, cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati, adukkho eso dhammo anupaghāto anupāyāso apariḷāho; ",
+            "en": "The <span class=\"ebt-matched\">middle way of practice</span> by which the Realized One was awakened gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. It is a principle free of pain, harm, stress, and fever, and it is the right way. ",
+            "matched": true
+          }
+        },
+        "score": 4.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 139\nThe Analysis of Non-Conflict",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 201,
+          "en": 200
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.11",
+        "lang": "en",
+        "segMap": {
+          "sn56.11:2.4": {
+            "scid": "sn56.11:2.4",
+            "pli": "Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. ",
+            "en": "Avoiding these two extremes, the Realized One woke up by understanding the <span class=\"ebt-matched\">middle way of practice</span>, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. ",
+            "matched": true
+          },
+          "sn56.11:3.1": {
+            "scid": "sn56.11:3.1",
+            "pli": "Katamā ca sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati? ",
+            "en": "And what is that <span class=\"ebt-matched\">middle way of practice</span>? ",
+            "matched": true
+          },
+          "sn56.11:3.4": {
+            "scid": "sn56.11:3.4",
+            "pli": "Ayaṁ kho sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. ",
+            "en": "This is that <span class=\"ebt-matched\">middle way of practice</span>, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 3.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n2. Rolling Forth the Wheel of Dhamma\n11. Rolling Forth the Wheel of Dhamma",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 60,
+          "en": 59
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn42/sn42.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn42/sn42.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn42.12",
+        "lang": "en",
+        "segMap": {
+          "sn42.12:2.3": {
+            "scid": "sn42.12:2.3",
+            "pli": "Ete te, gāmaṇi, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā—cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. ",
+            "en": "Avoiding these two extremes, the Realized One woke up by understanding the <span class=\"ebt-matched\">middle way of practice</span>, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. ",
+            "matched": true
+          },
+          "sn42.12:2.4": {
+            "scid": "sn42.12:2.4",
+            "pli": "Katamā ca sā, gāmaṇi, majjhimā paṭipadā tathāgatena abhisambuddhā—cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati? ",
+            "en": "And what is that <span class=\"ebt-matched\">middle way of practice</span>? ",
+            "matched": true
+          },
+          "sn42.12:2.7": {
+            "scid": "sn42.12:2.7",
+            "pli": "Ayaṁ kho sā, gāmaṇi, majjhimā paṭipadā tathāgatena abhisambuddhā—cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. ",
+            "en": "This, chief, is the <span class=\"ebt-matched\">middle way of practice</span>, woken up to by the Realized One, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 3.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 42\n1. Chiefs\n12. With Rāsiya",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 169,
+          "en": 168
+        }
+      }
+    ]
+  }
+}

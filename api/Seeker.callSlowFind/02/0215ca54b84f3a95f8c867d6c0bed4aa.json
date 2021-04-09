@@ -1,0 +1,256 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "skillful ethics",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "skillful ethics",
+    "method": "phrase",
+    "resultPattern": "\\bskillful ethics",
+    "segsMatched": 14,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn47/sn47.21_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.2_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn47.21/en/sujato",
+      "an11.1/en/sujato",
+      "an10.1/en/sujato",
+      "an11.2/en/sujato",
+      "an10.2/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.21_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.21",
+        "lang": "en",
+        "segMap": {
+          "sn47.21:1.5": {
+            "scid": "sn47.21:1.5",
+            "pli": "“yānimāni, āvuso ānanda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni kimatthiyāni vuttāni bhagavatā”ti? ",
+            "en": "“Reverend Ānanda, the Buddha has spoken of <span class=\"ebt-matched\">skillful ethics</span>. What’s their purpose?” ",
+            "matched": true
+          },
+          "sn47.21:2.4": {
+            "scid": "sn47.21:2.4",
+            "pli": "‘yānimāni, āvuso ānanda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni kimatthiyāni vuttāni bhagavatā’”ti? ",
+            "en": "‘The Buddha has spoken of <span class=\"ebt-matched\">skillful ethics</span>. What’s their purpose?’” ",
+            "matched": true
+          },
+          "sn47.21:2.6": {
+            "scid": "sn47.21:2.6",
+            "pli": "“Yānimāni, āvuso bhadda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni yāvadeva catunnaṁ satipaṭṭhānānaṁ bhāvanāya vuttāni bhagavatā. ",
+            "en": "“The Buddha has spoken of <span class=\"ebt-matched\">skillful ethics</span> to the extent necessary for developing the four kinds of mindfulness meditation. ",
+            "matched": true
+          },
+          "sn47.21:3.6": {
+            "scid": "sn47.21:3.6",
+            "pli": "Yānimāni, āvuso bhadda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni yāvadeva imesaṁ catunnaṁ satipaṭṭhānānaṁ bhāvanāya vuttāni bhagavatā”ti. ",
+            "en": "The Buddha has spoken of <span class=\"ebt-matched\">skillful ethics</span> to the extent necessary for developing the four kinds of mindfulness meditation.” ",
+            "matched": true
+          }
+        },
+        "score": 4.19,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 47\n3. Ethics and Duration\n21. Ethics",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.1",
+        "lang": "en",
+        "segMap": {
+          "an10.1:2.1": {
+            "scid": "an10.1:2.1",
+            "pli": "“Kimatthiyāni, bhante, kusalāni sīlāni kimānisaṁsānī”ti? ",
+            "en": "“Sir, what is the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span>?” ",
+            "matched": true
+          },
+          "an10.1:2.2": {
+            "scid": "an10.1:2.2",
+            "pli": "“Avippaṭisāratthāni kho, ānanda, kusalāni sīlāni avippaṭisārānisaṁsānī”ti. ",
+            "en": "“Ānanda, having no regrets is the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span>.” ",
+            "matched": true
+          },
+          "an10.1:11.1": {
+            "scid": "an10.1:11.1",
+            "pli": "Iti kho, ānanda, kusalāni sīlāni avippaṭisāratthāni avippaṭisārānisaṁsāni; ",
+            "en": "So, Ānanda, the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span> is not having regrets. ",
+            "matched": true
+          },
+          "an10.1:11.10": {
+            "scid": "an10.1:11.10",
+            "pli": "Iti kho, ānanda, kusalāni sīlāni anupubbena aggāya parentī”ti. ",
+            "en": "So, Ānanda, <span class=\"ebt-matched\">skillful ethics</span> progressively lead up to the highest.” ",
+            "matched": true
+          }
+        },
+        "score": 4.114,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n1. Benefits\n1. What’s the Purpose?",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 35,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.1",
+        "lang": "en",
+        "segMap": {
+          "an11.1:1.4": {
+            "scid": "an11.1:1.4",
+            "pli": "“kimatthiyāni, bhante, kusalāni sīlāni kimānisaṁsānī”ti? ",
+            "en": "“Sir, what’s the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span>?” ",
+            "matched": true
+          },
+          "an11.1:1.5": {
+            "scid": "an11.1:1.5",
+            "pli": "“Avippaṭisāratthāni kho, ānanda, kusalāni sīlāni avippaṭisārānisaṁsānī”ti. ",
+            "en": "“Ānanda, having no regrets is the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span>.” ",
+            "matched": true
+          },
+          "an11.1:11.1": {
+            "scid": "an11.1:11.1",
+            "pli": "Iti kho, ānanda, kusalāni sīlāni avippaṭisāratthāni avippaṭisārānisaṁsāni, ",
+            "en": "So, Ānanda, the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span> is not having regrets. ",
+            "matched": true
+          },
+          "an11.1:11.11": {
+            "scid": "an11.1:11.11",
+            "pli": "Iti kho, ānanda, kusalāni sīlāni anupubbena aggāya parentī”ti. ",
+            "en": "So, Ānanda, <span class=\"ebt-matched\">skillful ethics</span> progressively lead up to the highest.” ",
+            "matched": true
+          }
+        },
+        "score": 4.105,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n1. Dependence\n1. What’s the Purpose?",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 38,
+          "en": 37
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.2",
+        "lang": "en",
+        "segMap": {
+          "an11.2:11.1": {
+            "scid": "an11.2:11.1",
+            "pli": "Iti kho, bhikkhave, virāgo vimuttiñāṇadassanattho vimuttiñāṇadassanānisaṁso, nibbidā virāgatthā virāgānisaṁsā, yathābhūtañāṇadassanaṁ nibbidatthaṁ nibbidānisaṁsaṁ, samādhi yathābhūtañāṇadassanattho yathābhūtañāṇadassanānisaṁso, sukhaṁ samādhatthaṁ samādhānisaṁsaṁ, passaddhi sukhatthā sukhānisaṁsā, pīti passaddhatthā passaddhānisaṁsā, pāmojjaṁ pītatthaṁ pītānisaṁsaṁ, avippaṭisāro pāmojjattho pāmojjānisaṁso, kusalāni sīlāni avippaṭisāratthāni avippaṭisārānisaṁsāni. ",
+            "en": "And so, mendicants, the knowledge and vision of freedom is the purpose and benefit of dispassion. Dispassion is the purpose and benefit of disillusionment. Disillusionment is the purpose and benefit of truly knowing and seeing. Truly knowing and seeing is the purpose and benefit of immersion. Immersion is the purpose and benefit of bliss. Bliss is the purpose and benefit of tranquility. Tranquility is the purpose and benefit of rapture. Rapture is the purpose and benefit of joy. Joy is the purpose and benefit of not having regrets. Not having regrets is the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n1. Dependence\n2. Making a Wish",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 36,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.2",
+        "lang": "en",
+        "segMap": {
+          "an10.2:2.9": {
+            "scid": "an10.2:2.9",
+            "pli": "kusalāni sīlāni avippaṭisāratthāni avippaṭisārānisaṁsāni. ",
+            "en": "Not having regrets is the purpose and benefit of <span class=\"ebt-matched\">skillful ethics</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n1. Benefits\n2. Making a Wish",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 41,
+          "en": 40
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "giving gifts",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "giving gifts",
+    "method": "phrase",
+    "resultPattern": "\\bgiving gifts",
+    "segsMatched": 13,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.31_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.31_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn2/sn2.23_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn2/sn2.23_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga9/iti83_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga9/iti83_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga10/iti90_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga10/iti90_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.32_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.32_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.34_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.177_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.177_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.31/en/sujato",
+      "sn2.23/en/sujato",
+      "iti83/en/sujato",
+      "iti90/en/sujato",
+      "dn30/en/sujato",
+      "an5.32/en/sujato",
+      "an4.34/en/sujato",
+      "an10.177/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn2/sn2.23_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn2/sn2.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn2.23",
+        "lang": "en",
+        "segMap": {
+          "sn2.23:8.10": {
+            "scid": "sn2.23:8.10",
+            "pli": "Tattha itthāgārassa dānaṁ dīyittha; mama dānaṁ paṭikkami. ",
+            "en": "There they gave gifts, while my own giving dwindled. ",
+            "matched": true
+          },
+          "sn2.23:9.8": {
+            "scid": "sn2.23:9.8",
+            "pli": "Tattha khattiyānaṁ anuyantānaṁ dānaṁ dīyittha, mama dānaṁ paṭikkami. ",
+            "en": "There they gave gifts, while my own giving dwindled. ",
+            "matched": true
+          },
+          "sn2.23:10.8": {
+            "scid": "sn2.23:10.8",
+            "pli": "Tattha balakāyassa dānaṁ dīyittha, mama dānaṁ paṭikkami. ",
+            "en": "There they gave gifts, while my own giving dwindled. ",
+            "matched": true
+          },
+          "sn2.23:11.8": {
+            "scid": "sn2.23:11.8",
+            "pli": "Tattha brāhmaṇagahapatikānaṁ dānaṁ dīyittha, mama dānaṁ paṭikkami. ",
+            "en": "There they gave gifts, while my own giving dwindled. ",
+            "matched": true
+          },
+          "sn2.23:12.2": {
+            "scid": "sn2.23:12.2",
+            "pli": "‘na kho dāni devassa koci dānaṁ dīyatī’ti. ",
+            "en": "‘Now Your Majesty is not <span class=\"ebt-matched\">giving gifts</span> at all!’ ",
+            "matched": true
+          }
+        },
+        "score": 5.066,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 2\n3. Various Sectarians\n23. With Serī",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 76,
+          "en": 76
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.31_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.31_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.31",
+        "lang": "en",
+        "segMap": {
+          "an5.31:7.2": {
+            "scid": "an5.31:7.2",
+            "pli": "Yāvañcidaṁ, bhante, alameva dānāni dātuṁ alaṁ puññāni kātuṁ; ",
+            "en": "Just this much is quite enough to justify <span class=\"ebt-matched\">giving gifts</span> and making merit. ",
+            "matched": true
+          },
+          "an5.31:7.5": {
+            "scid": "an5.31:7.5",
+            "pli": "Alañhi, sumane, dānāni dātuṁ alaṁ puññāni kātuṁ. ",
+            "en": "It’s quite enough to justify <span class=\"ebt-matched\">giving gifts</span> and making merit. ",
+            "matched": true
+          }
+        },
+        "score": 2.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n4. With Sumanā\n31. With Sumanā",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 55,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.34_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.34",
+        "lang": "en",
+        "segMap": {
+          "an4.34:7.1": {
+            "scid": "an4.34:7.1",
+            "pli": "Aggasmiṁ dānaṁ dadataṁ, ",
+            "en": "<span class=\"ebt-matched\">giving gifts</span> to the best, ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n4. Situations\n34. The Best Kinds of Confidence",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 35,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga10/iti90_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga10/iti90_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti90",
+        "lang": "en",
+        "segMap": {
+          "iti90:7.1": {
+            "scid": "iti90:7.1",
+            "pli": "Aggasmiṁ dānaṁ dadataṁ,",
+            "en": "<span class=\"ebt-matched\">giving gifts</span> to the best, ",
+            "matched": true
+          }
+        },
+        "score": 1.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Threes\nChapter Five\n90. The Best Kinds of Confidence",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.32_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.32_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.32",
+        "lang": "en",
+        "segMap": {
+          "an5.32:10.1": {
+            "scid": "an5.32:10.1",
+            "pli": "Aggasmiṁ dānaṁ dadataṁ, ",
+            "en": "<span class=\"ebt-matched\">giving gifts</span> to the best, ",
+            "matched": true
+          }
+        },
+        "score": 1.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n4. With Sumanā\n32. With Cundī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 46,
+          "en": 45
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga9/iti83_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga9/iti83_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti83",
+        "lang": "en",
+        "segMap": {
+          "iti83:17.2": {
+            "scid": "iti83:17.2",
+            "pli": "katvā dānena taṁ bahuṁ;",
+            "en": "by <span class=\"ebt-matched\">giving gifts</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Threes\nChapter Four\n83. Five Warning Signs",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 52,
+          "en": 51
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.177_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.177_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.177",
+        "lang": "en",
+        "segMap": {
+          "an10.177:18.2": {
+            "scid": "an10.177:18.2",
+            "pli": "Yāvañcidaṁ, bho gotama, alameva dānāni dātuṁ, alaṁ saddhāni kātuṁ, yatra hi nāma dāyakopi anipphalo”ti. ",
+            "en": "Just this much is quite enough to justify <span class=\"ebt-matched\">giving gifts</span> and performing memorial rites for the dead, since it’s never fruitless for the donor.” ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n17. With Jāṇussoṇi\n177. With Jāṇussoṇi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 73,
+          "en": 72
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn30",
+        "lang": "en",
+        "segMap": {
+          "dn30:1.7.2": {
+            "scid": "dn30:1.7.2",
+            "pli": "bahujanassa sukhāvaho ahosi, ubbegauttāsabhayaṁ apanuditā, dhammikañca rakkhāvaraṇaguttiṁ saṁvidhātā, saparivārañca dānaṁ adāsi. ",
+            "en": "He brought happiness to many people, eliminating threats, terror, and danger, providing just protection and security, and <span class=\"ebt-matched\">giving gifts</span> with all the trimmings. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 30\nThe Marks of a Great Man",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 721,
+          "en": 720
+        }
+      }
+    ]
+  }
+}

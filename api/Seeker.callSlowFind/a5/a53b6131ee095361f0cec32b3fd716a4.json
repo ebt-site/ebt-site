@@ -1,0 +1,638 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "there comes a time",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "there comes a time",
+    "method": "phrase",
+    "resultPattern": "\\bthere comes a time",
+    "segsMatched": 43,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn28_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.62_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.62_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.99_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.99_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn130_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn130_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn127_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn127_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn27_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn27_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn1_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.92_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.92_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.170_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.170_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.29_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.29_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn28/en/sujato",
+      "an7.66/en/sujato",
+      "an3.62/en/sujato",
+      "sn22.99/en/sujato",
+      "mn130/en/sujato",
+      "mn127/en/sujato",
+      "dn27/en/sujato",
+      "dn24/en/sujato",
+      "dn1/en/sujato",
+      "an3.92/en/sujato",
+      "an4.170/en/sujato",
+      "an3.101/en/sujato",
+      "an10.29/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn28_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn28",
+        "lang": "en",
+        "segMap": {
+          "mn28:7.1": {
+            "scid": "mn28:7.1",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ bāhirā āpodhātu pakuppati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when the exterior water element flares up. ",
+            "matched": true
+          },
+          "mn28:12.1": {
+            "scid": "mn28:12.1",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ bāhirā āpodhātu pakuppati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when the exterior water element flares up. ",
+            "matched": true
+          },
+          "mn28:12.3": {
+            "scid": "mn28:12.3",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ mahāsamudde yojanasatikānipi udakāni ogacchanti, dviyojanasatikānipi udakāni ogacchanti, tiyojanasatikānipi udakāni ogacchanti, catuyojanasatikānipi udakāni ogacchanti, pañcayojanasatikānipi udakāni ogacchanti, chayojanasatikānipi udakāni ogacchanti, sattayojanasatikānipi udakāni ogacchanti. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when the water in the ocean sinks down a hundred leagues, or two, three, four, five, six, up to seven hundred leagues. ",
+            "matched": true
+          },
+          "mn28:12.4": {
+            "scid": "mn28:12.4",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ mahāsamudde sattatālampi udakaṁ saṇṭhāti, chattālampi udakaṁ saṇṭhāti, pañcatālampi udakaṁ saṇṭhāti, catuttālampi udakaṁ saṇṭhāti, titālampi udakaṁ saṇṭhāti, dvitālampi udakaṁ saṇṭhāti, tālamattampi udakaṁ saṇṭhāti. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when the water in the ocean stands just seven palm trees deep, or six, five, four, three, two, or even just one palm tree deep. ",
+            "matched": true
+          },
+          "mn28:12.5": {
+            "scid": "mn28:12.5",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ mahāsamudde sattaporisampi udakaṁ saṇṭhāti, chapporisampi udakaṁ saṇṭhāti, pañcaporisampi udakaṁ saṇṭhāti, catupporisampi udakaṁ saṇṭhāti, tiporisampi udakaṁ saṇṭhāti, dviporisampi udakaṁ saṇṭhāti, porisamattampi udakaṁ saṇṭhāti. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when the water in the ocean stands just seven fathoms deep, or six, five, four, three, two, or even just one fathom deep. ",
+            "matched": true
+          },
+          "mn28:12.6": {
+            "scid": "mn28:12.6",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ mahāsamudde aḍḍhaporisampi udakaṁ saṇṭhāti, kaṭimattampi udakaṁ saṇṭhāti, jāṇukamattampi udakaṁ saṇṭhāti, gopphakamattampi udakaṁ saṇṭhāti. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when the water in the ocean stands just half a fathom deep, or waist deep, or knee deep, or even just ankle deep. ",
+            "matched": true
+          },
+          "mn28:12.7": {
+            "scid": "mn28:12.7",
+            "pli": "Hoti kho so, āvuso, samayo, yaṁ mahāsamudde aṅgulipabbatemanamattampi udakaṁ na hoti. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when there isn’t enough water in the ocean even to wet the tip of your finger. ",
+            "matched": true
+          },
+          "mn28:17.1": {
+            "scid": "mn28:17.1",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ bāhirā tejodhātu pakuppati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when the exterior fire element flares up. ",
+            "matched": true
+          },
+          "mn28:17.4": {
+            "scid": "mn28:17.4",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ kukkuṭapattenapi nhārudaddulenapi aggiṁ gavesanti. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when they go looking for a fire, taking just chicken feathers and strips of sinew as kindling. ",
+            "matched": true
+          },
+          "mn28:22.1": {
+            "scid": "mn28:22.1",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ bāhirā vāyodhātu pakuppati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when the exterior air element flares up. ",
+            "matched": true
+          },
+          "mn28:22.3": {
+            "scid": "mn28:22.3",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ gimhānaṁ pacchime māse tālavaṇṭenapi vidhūpanenapi vātaṁ pariyesanti, ossavanepi tiṇāni na icchanti. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span>, in the last month of summer, when they look for wind by using a palm-leaf or fan, and even the grasses in the drip-fringe of a thatch roof don’t stir. ",
+            "matched": true
+          }
+        },
+        "score": 11.066,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 28\nThe Longer Simile of the Elephant’s Footprint",
+        "segsMatched": 11,
+        "langSegs": {
+          "pli": 166,
+          "en": 165
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.66",
+        "lang": "en",
+        "segMap": {
+          "an7.66:3.2": {
+            "scid": "an7.66:3.2",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni vassasatasahassāni devo na vassati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, the rain doesn’t fall. For many years, many hundreds, many thousands, many hundreds of thousands of years no rain falls. ",
+            "matched": true
+          },
+          "an7.66:4.1": {
+            "scid": "an7.66:4.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena dutiyo sūriyo pātubhavati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, a second sun appears. ",
+            "matched": true
+          },
+          "an7.66:5.1": {
+            "scid": "an7.66:5.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tatiyo sūriyo pātubhavati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, a third sun appears. ",
+            "matched": true
+          },
+          "an7.66:6.1": {
+            "scid": "an7.66:6.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena catuttho sūriyo pātubhavati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, a fourth sun appears. ",
+            "matched": true
+          },
+          "an7.66:7.1": {
+            "scid": "an7.66:7.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena pañcamo sūriyo pātubhavati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, a fifth sun appears. ",
+            "matched": true
+          },
+          "an7.66:8.1": {
+            "scid": "an7.66:8.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena chaṭṭho sūriyo pātubhavati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, a sixth sun appears. ",
+            "matched": true
+          },
+          "an7.66:9.1": {
+            "scid": "an7.66:9.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena sattamo sūriyo pātubhavati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, a seventh sun appears. ",
+            "matched": true
+          }
+        },
+        "score": 7.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n7. The Great Chapter\n66. The Seven Suns",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 95,
+          "en": 94
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.62_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.62_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.62",
+        "lang": "en",
+        "segMap": {
+          "an3.62:1.3": {
+            "scid": "an3.62:1.3",
+            "pli": "Hoti so, bhikkhave, samayo yaṁ mahāaggiḍāho vuṭṭhāti. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when a great fire flares up, ",
+            "matched": true
+          },
+          "an3.62:2.1": {
+            "scid": "an3.62:2.1",
+            "pli": "Puna caparaṁ, bhikkhave, hoti so samayo yaṁ mahāmegho vuṭṭhāti. ",
+            "en": "Furthermore, <span class=\"ebt-matched\">there comes a time</span> when a great storm gathers, ",
+            "matched": true
+          },
+          "an3.62:3.1": {
+            "scid": "an3.62:3.1",
+            "pli": "Puna caparaṁ, bhikkhave, hoti so samayo yaṁ bhayaṁ hoti aṭavisaṅkopo, cakkasamāruḷhā jānapadā pariyāyanti. ",
+            "en": "Furthermore, <span class=\"ebt-matched\">there comes a time</span> of peril from wild savages, and the countryfolk mount their vehicles and flee everywhere. ",
+            "matched": true
+          },
+          "an3.62:4.3": {
+            "scid": "an3.62:4.3",
+            "pli": "Hoti so, bhikkhave, samayo yaṁ mahāaggiḍāho vuṭṭhāti. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when a great fire flares up, ",
+            "matched": true
+          },
+          "an3.62:5.1": {
+            "scid": "an3.62:5.1",
+            "pli": "Puna caparaṁ, bhikkhave, hoti so samayo yaṁ mahāmegho vuṭṭhāti. ",
+            "en": "Furthermore, <span class=\"ebt-matched\">there comes a time</span> when a great storm gathers, ",
+            "matched": true
+          },
+          "an3.62:6.1": {
+            "scid": "an3.62:6.1",
+            "pli": "Puna caparaṁ, bhikkhave, hoti so samayo yaṁ bhayaṁ hoti aṭavisaṅkopo, cakkasamāruḷhā jānapadā pariyāyanti. ",
+            "en": "Furthermore, <span class=\"ebt-matched\">there comes a time</span> of peril from wild savages, and the countryfolk mount their vehicles and flee everywhere. ",
+            "matched": true
+          }
+        },
+        "score": 6.109,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n62. Perils",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 55,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.99_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.99_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.99",
+        "lang": "en",
+        "segMap": {
+          "sn22.99:1.4": {
+            "scid": "sn22.99:1.4",
+            "pli": "Hoti so, bhikkhave, samayo yaṁ mahāsamuddo ussussati visussati na bhavati; ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when the ocean dries up and evaporates and is no more. ",
+            "matched": true
+          },
+          "sn22.99:1.6": {
+            "scid": "sn22.99:1.6",
+            "pli": "Hoti so, bhikkhave, samayo yaṁ sineru pabbatarājā ḍayhati vinassati na bhavati; ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when Sineru the king of mountains is burned up and destroyed, and is no more. ",
+            "matched": true
+          },
+          "sn22.99:1.8": {
+            "scid": "sn22.99:1.8",
+            "pli": "Hoti so, bhikkhave, samayo yaṁ mahāpathavī ḍayhati vinassati na bhavati; ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when the great earth is burned up and destroyed, and is no more. ",
+            "matched": true
+          }
+        },
+        "score": 3.094,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n10. Flowers\n99. A Leash",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 32,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn130_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn130_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn130",
+        "lang": "en",
+        "segMap": {
+          "mn130:18.1": {
+            "scid": "mn130:18.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tassa mahānirayassa puratthimaṁ dvāraṁ apāpurīyati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, the eastern gate of the Great Hell is opened. ",
+            "matched": true
+          },
+          "mn130:18.6": {
+            "scid": "mn130:18.6",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tassa mahānirayassa pacchimaṁ dvāraṁ apāpurīyati …pe… ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, the western gate … ",
+            "matched": true
+          },
+          "mn130:19.1": {
+            "scid": "mn130:19.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tassa mahānirayassa puratthimaṁ dvāraṁ apāpurīyati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, the eastern gate of the Great Hell is opened. ",
+            "matched": true
+          }
+        },
+        "score": 3.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 130\nMessengers of the Gods",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 203,
+          "en": 201
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.92_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.92_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.92",
+        "lang": "en",
+        "segMap": {
+          "an3.92:1.9": {
+            "scid": "an3.92:1.9",
+            "pli": "Atha kho, bhikkhave, hoti so samayo yaṁ tassa kassakassa gahapatissa tāni dhaññāni utupariṇāmīni jāyantipi gabbhīnipi honti paccantipi. ",
+            "en": "But <span class=\"ebt-matched\">there comes a time</span> when that farmer’s crops germinate, flower, and ripen as the seasons change. ",
+            "matched": true
+          },
+          "an3.92:2.7": {
+            "scid": "an3.92:2.7",
+            "pli": "Atha kho, bhikkhave, hoti so samayo yaṁ tassa bhikkhuno adhisīlampi sikkhato adhicittampi sikkhato adhipaññampi sikkhato anupādāya āsavehi cittaṁ vimuccati. ",
+            "en": "But <span class=\"ebt-matched\">there comes a time</span>—as that mendicant trains in the higher ethics, the higher mind, and the higher wisdom—that their mind is freed from defilements by not grasping. ",
+            "matched": true
+          }
+        },
+        "score": 2.087,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n92. Urgent",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn127_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn127_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn127",
+        "lang": "en",
+        "segMap": {
+          "mn127:10.1": {
+            "scid": "mn127:10.1",
+            "pli": "Hoti kho so, gahapati, samayo, yā tā devatā ekajjhaṁ sannipatanti, tāsaṁ ekajjhaṁ sannipatitānaṁ vaṇṇanānattañhi kho paññāyati no ca ābhānānattaṁ. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span>, householder, when the deities gather together as one. When they do so, a difference in their color is evident, but not in their radiance. ",
+            "matched": true
+          },
+          "mn127:11.1": {
+            "scid": "mn127:11.1",
+            "pli": "Hoti kho so, gahapati, samayo, yā tā devatā tato vipakkamanti, tāsaṁ tato vipakkamantīnaṁ vaṇṇanānattañceva paññāyati ābhānānattañca. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when those deities go their separate ways. When they do so, a difference both in their color and also in their radiance is evident. ",
+            "matched": true
+          }
+        },
+        "score": 2.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 127\nWith Anuruddha",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 147,
+          "en": 146
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn27_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn27",
+        "lang": "en",
+        "segMap": {
+          "dn27:10.1": {
+            "scid": "dn27:10.1",
+            "pli": "Hoti kho so, vāseṭṭha, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, Vāseṭṭha, after a very long period has passed, this cosmos contracts. ",
+            "matched": true
+          },
+          "dn27:10.4": {
+            "scid": "dn27:10.4",
+            "pli": "Hoti kho so, vāseṭṭha, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, this cosmos expands. ",
+            "matched": true
+          }
+        },
+        "score": 2.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 27\nWhat Came First",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 323,
+          "en": 322
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn1_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn1",
+        "lang": "en",
+        "segMap": {
+          "dn1:2.2.1": {
+            "scid": "dn1:2.2.1",
+            "pli": "Hoti kho so, bhikkhave, samayo, yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, this cosmos contracts. ",
+            "matched": true
+          },
+          "dn1:2.3.1": {
+            "scid": "dn1:2.3.1",
+            "pli": "Hoti kho so, bhikkhave, samayo, yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, this cosmos expands. ",
+            "matched": true
+          }
+        },
+        "score": 2.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 1\nThe Prime Net\n1. Talk on Wanderers",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 662,
+          "en": 661
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn24",
+        "lang": "en",
+        "segMap": {
+          "dn24:2.14.11": {
+            "scid": "dn24:2.14.11",
+            "pli": "‘Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
+            "en": "‘<span class=\"ebt-matched\">There comes a time</span> when, reverends, after a very long period has passed, this cosmos contracts. ",
+            "matched": true
+          },
+          "dn24:2.15.1": {
+            "scid": "dn24:2.15.1",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when, after a very long period has passed, this cosmos expands. ",
+            "matched": true
+          }
+        },
+        "score": 2.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 24\nAbout Pāṭikaputta\n1. On Sunakkhatta",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 581,
+          "en": 580
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.170_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.170_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.170",
+        "lang": "en",
+        "segMap": {
+          "an4.170:6.2": {
+            "scid": "an4.170:6.2",
+            "pli": "Hoti so, āvuso, samayo yaṁ taṁ cittaṁ ajjhattameva santiṭṭhati sannisīdati ekodi hoti samādhiyati. ",
+            "en": "But <span class=\"ebt-matched\">there comes a time</span> when their mind is stilled internally; it settles, unifies, and becomes immersed in samādhi. ",
+            "matched": true
+          }
+        },
+        "score": 1.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n17. Practice\n170. In Conjunction",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 36,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.101",
+        "lang": "en",
+        "segMap": {
+          "an3.101:2.6": {
+            "scid": "an3.101:2.6",
+            "pli": "Hoti so, bhikkhave, samayo yaṁ taṁ cittaṁ ajjhattaṁyeva santiṭṭhati sannisīdati ekodi hoti samādhiyati. ",
+            "en": "But <span class=\"ebt-matched\">there comes a time</span> when that mind is stilled internally; it settles, unifies, and becomes immersed in samādhi. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n101. A Panner",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 52,
+          "en": 51
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.29_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.29",
+        "lang": "en",
+        "segMap": {
+          "an10.29:3.1": {
+            "scid": "an10.29:3.1",
+            "pli": "Hoti so, bhikkhave, samayo yaṁ ayaṁ loko saṁvaṭṭati. ",
+            "en": "<span class=\"ebt-matched\">There comes a time</span> when this world contracts. ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n3. The Great Chapter\n29. Kosala (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 124,
+          "en": 123
+        }
+      }
+    ]
+  }
+}

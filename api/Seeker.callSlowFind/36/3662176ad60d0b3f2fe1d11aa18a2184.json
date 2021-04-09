@@ -1,0 +1,164 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "nachdem eine sehr lange zeitspanne",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "nachdem eine sehr lange zeitspanne",
+    "method": "phrase",
+    "resultPattern": "\\bnachdem eine sehr lange zeitspanne",
+    "segsMatched": 9,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an7.66/de/sabbamitta",
+      "dn24/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.66",
+        "lang": "de",
+        "segMap": {
+          "an7.66:3.2": {
+            "scid": "an7.66:3.2",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni vassasatasahassāni devo na vassati. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da der Regen nicht mehr fällt. Viele Jahre lang, viele hundert, viele tausend, viele hunderttausend Jahre lang wird kein Regen fallen. ",
+            "en": "There comes a time when, after a very long period has passed, the rain doesn’t fall. For many years, many hundreds, many thousands, many hundreds of thousands of years no rain falls. ",
+            "matched": true
+          },
+          "an7.66:4.1": {
+            "scid": "an7.66:4.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena dutiyo sūriyo pātubhavati. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine zweite Sonne. ",
+            "en": "There comes a time when, after a very long period has passed, a second sun appears. ",
+            "matched": true
+          },
+          "an7.66:5.1": {
+            "scid": "an7.66:5.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tatiyo sūriyo pātubhavati. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine dritte Sonne. ",
+            "en": "There comes a time when, after a very long period has passed, a third sun appears. ",
+            "matched": true
+          },
+          "an7.66:6.1": {
+            "scid": "an7.66:6.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena catuttho sūriyo pātubhavati. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine vierte Sonne. ",
+            "en": "There comes a time when, after a very long period has passed, a fourth sun appears. ",
+            "matched": true
+          },
+          "an7.66:7.1": {
+            "scid": "an7.66:7.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena pañcamo sūriyo pātubhavati. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine fünfte Sonne. ",
+            "en": "There comes a time when, after a very long period has passed, a fifth sun appears. ",
+            "matched": true
+          },
+          "an7.66:8.1": {
+            "scid": "an7.66:8.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena chaṭṭho sūriyo pātubhavati. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine sechste Sonne. ",
+            "en": "There comes a time when, after a very long period has passed, a sixth sun appears. ",
+            "matched": true
+          },
+          "an7.66:9.1": {
+            "scid": "an7.66:9.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena sattamo sūriyo pātubhavati. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da erscheint eine siebte Sonne. ",
+            "en": "There comes a time when, after a very long period has passed, a seventh sun appears. ",
+            "matched": true
+          }
+        },
+        "score": 7.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 7\n7. Das große Kapitel\n66. Die sieben Sonnen",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 95,
+          "de": 89,
+          "en": 94
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn24",
+        "lang": "de",
+        "segMap": {
+          "dn24:2.14.11": {
+            "scid": "dn24:2.14.11",
+            "pli": "‘Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
+            "de": "‚Es kommt eine Zeit, werte Freunde, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da dieses Weltall sich zusammenzieht. ",
+            "en": "‘There comes a time when, reverends, after a very long period has passed, this cosmos contracts. ",
+            "matched": true
+          },
+          "dn24:2.15.1": {
+            "scid": "dn24:2.15.1",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
+            "de": "Es kommt eine Zeit, <span class=\"ebt-matched\">nachdem eine sehr lange Zeitspanne</span> vergangen ist, da dieses Weltall sich ausdehnt. ",
+            "en": "There comes a time when, after a very long period has passed, this cosmos expands. ",
+            "matched": true
+          }
+        },
+        "score": 2.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 24\nÜber Pāṭikaputta\n1. Die Geschichte von Sunakkhatta",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 581,
+          "de": 500,
+          "en": 580
+        }
+      }
+    ]
+  }
+}

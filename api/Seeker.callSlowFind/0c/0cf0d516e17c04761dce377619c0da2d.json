@@ -1,0 +1,212 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "overcome by anger",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "overcome by anger",
+    "method": "phrase",
+    "resultPattern": "\\bovercome by anger",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn15_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn15_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga2/iti12_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga2/iti12_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga1/iti4_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga1/iti4_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.64_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.64_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn15/en/sujato",
+      "iti12/en/sujato",
+      "iti4/en/sujato",
+      "an7.64/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.64_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.64_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.64",
+        "lang": "en",
+        "segMap": {
+          "an7.64:1.7": {
+            "scid": "an7.64:1.7",
+            "pli": "Kodhanoyaṁ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, kiñcāpi so hoti sunhāto suvilitto kappitakesamassu odātavatthavasano; ",
+            "en": "An irritable person, overcome and overwhelmed by anger, is ugly, even though they’re nicely bathed and anointed, with hair and beard dressed, and wearing white clothes. ",
+            "matched": true
+          },
+          "an7.64:2.5": {
+            "scid": "an7.64:2.5",
+            "pli": "Kodhanoyaṁ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, kiñcāpi so pallaṅke seti gonakatthate paṭalikatthate kadalimigapavarapaccattharaṇe sauttaracchade ubhatolohitakūpadhāne; ",
+            "en": "An irritable person, overcome and overwhelmed by anger, sleeps badly, even though they sleep on a couch spread with woolen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at both ends. ",
+            "matched": true
+          },
+          "an7.64:3.5": {
+            "scid": "an7.64:3.5",
+            "pli": "Kodhanoyaṁ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, anatthampi gahetvā ‘attho me gahito’ti maññati, atthampi gahetvā ‘anattho me gahito’ti maññati. ",
+            "en": "When an irritable person, overcome and overwhelmed by anger, gets what they don’t need they think, ‘I’ve got what I need.’ When they get what they need they think, ‘I’ve got what I don’t need.’ ",
+            "matched": true
+          },
+          "an7.64:4.5": {
+            "scid": "an7.64:4.5",
+            "pli": "Kodhanassa, bhikkhave, purisapuggalassa kodhābhibhūtassa kodhaparetassa, yepissa te honti bhogā uṭṭhānavīriyādhigatā bāhābalaparicitā sedāvakkhittā dhammikā dhammaladdhā, tepi rājāno rājakosaṁ pavesenti kodhābhibhūtassa. ",
+            "en": "When a person is irritable, overcome and overwhelmed by anger, the rulers seize the legitimate wealth they’ve earned by their efforts, built up with their own hands, gathered by the sweat of their brow. ",
+            "matched": true
+          },
+          "an7.64:5.5": {
+            "scid": "an7.64:5.5",
+            "pli": "Kodhanoyaṁ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, yopissa so hoti yaso appamādādhigato, tamhāpi dhaṁsati kodhābhibhūto. ",
+            "en": "When a person is irritable, overcome and overwhelmed by anger, any fame they have acquired by diligence falls to dust. ",
+            "matched": true
+          },
+          "an7.64:6.5": {
+            "scid": "an7.64:6.5",
+            "pli": "Kodhanaṁ, bhikkhave, purisapuggalaṁ kodhābhibhūtaṁ kodhaparetaṁ, yepissa te honti mittāmaccā ñātisālohitā, tepi ārakā parivajjanti kodhābhibhūtaṁ. ",
+            "en": "When a person is irritable, overcome and overwhelmed by anger, their friends and colleagues, relatives and kin avoid them from afar. ",
+            "matched": true
+          },
+          "an7.64:7.5": {
+            "scid": "an7.64:7.5",
+            "pli": "Kodhanoyaṁ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto kāyena duccaritaṁ carati, vācāya duccaritaṁ carati, manasā duccaritaṁ carati. ",
+            "en": "When a person is irritable, overcome and overwhelmed by anger, they do bad things by way of body, speech, and mind. ",
+            "matched": true
+          },
+          "an7.64:16.3": {
+            "scid": "an7.64:16.3",
+            "pli": "Kodhena abhibhūtassa, ",
+            "en": "One <span class=\"ebt-matched\">overcome by anger</span> ",
+            "matched": true
+          }
+        },
+        "score": 8.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n6. The Undeclared Points\n64. Irritable",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 128,
+          "en": 126
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga2/iti12_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga2/iti12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti12",
+        "lang": "en",
+        "segMap": {
+          "iti12:3.1": {
+            "scid": "iti12:3.1",
+            "pli": "“Yena kodhena kuddhāse,",
+            "en": "“When <span class=\"ebt-matched\">overcome by anger</span>",
+            "matched": true
+          }
+        },
+        "score": 1.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Ones\nChapter Two\n12. Complete Understanding of Anger",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga1/iti4_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga1/iti4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti4",
+        "lang": "en",
+        "segMap": {
+          "iti4:3.1": {
+            "scid": "iti4:3.1",
+            "pli": "“Yena kodhena kuddhāse,",
+            "en": "“When <span class=\"ebt-matched\">overcome by anger</span>",
+            "matched": true
+          }
+        },
+        "score": 1.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Ones\nChapter One\n4. Anger",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 20,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn15_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn15_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn15",
+        "lang": "en",
+        "segMap": {
+          "mn15:3.8": {
+            "scid": "mn15:3.8",
+            "pli": "Puna caparaṁ, āvuso, bhikkhu kodhano hoti kodhābhibhūto. ",
+            "en": "They’re irritable, <span class=\"ebt-matched\">overcome by anger</span> … ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 15\nMeasuring Up",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 263,
+          "en": 262
+        }
+      }
+    ]
+  }
+}

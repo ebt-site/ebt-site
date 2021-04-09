@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "gibt und bedenkt",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "gibt und bedenkt",
+    "method": "phrase",
+    "resultPattern": "\\bgibt und bedenkt",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.147_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.147_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.147_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.147/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.147_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.147_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.147_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.147",
+        "lang": "de",
+        "segMap": {
+          "an5.147:2.3": {
+            "scid": "an5.147:2.3",
+            "pli": "Sakkaccaṁ deti, cittīkatvā deti, sahatthā deti, anapaviddhaṁ deti, āgamanadiṭṭhiko deti. ",
+            "de": "Man gibt sorgfältig. Man gibt wohlbedacht. Man gibt mit eigener Hand. Man gibt keine Abfälle. Man <span class=\"ebt-matched\">gibt und bedenkt</span> die Folgen. ",
+            "en": "They give carefully. They give thoughtfully. They give with their own hand. They don’t give the dregs. They give with consideration for consequences. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n15. Bei Tikaṇḍakī\n147. Gaben eines schlechten Menschen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "the foundation of",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "the foundation of",
+    "method": "phrase",
+    "resultPattern": "\\bthe foundation of",
+    "segsMatched": 16,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.102_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.102_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn46/sn46.51_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.51_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn128_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn128_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn46/sn46.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.102/en/sujato",
+      "sn46.51/en/sujato",
+      "mn128/en/sujato",
+      "sn46.2/en/sujato",
+      "dn33/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.102_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.102_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.102",
+        "lang": "en",
+        "segMap": {
+          "an3.102:1.2": {
+            "scid": "an3.102:1.2",
+            "pli": "kālena kālaṁ samādhinimittaṁ manasi kātabbaṁ, kālena kālaṁ paggahanimittaṁ manasi kātabbaṁ, kālena kālaṁ upekkhānimittaṁ manasi kātabbaṁ. ",
+            "en": "<span class=\"ebt-matched\">the foundation of</span> immersion, <span class=\"ebt-matched\">the foundation of</span> exertion, and <span class=\"ebt-matched\">the foundation of</span> equanimity. ",
+            "matched": true
+          },
+          "an3.102:1.3": {
+            "scid": "an3.102:1.3",
+            "pli": "Sace, bhikkhave, adhicittamanuyutto bhikkhu ekantaṁ samādhinimittaṁyeva manasi kareyya, ṭhānaṁ taṁ cittaṁ kosajjāya saṁvatteyya. ",
+            "en": "If a mendicant dedicated to the higher mind focuses solely on <span class=\"ebt-matched\">the foundation of</span> immersion, it’s likely their mind will incline to laziness. ",
+            "matched": true
+          },
+          "an3.102:1.4": {
+            "scid": "an3.102:1.4",
+            "pli": "Sace, bhikkhave, adhicittamanuyutto bhikkhu ekantaṁ paggahanimittaṁyeva manasi kareyya, ṭhānaṁ taṁ cittaṁ uddhaccāya saṁvatteyya. ",
+            "en": "If they focus solely on <span class=\"ebt-matched\">the foundation of</span> exertion, it’s likely their mind will incline to restlessness. ",
+            "matched": true
+          },
+          "an3.102:1.5": {
+            "scid": "an3.102:1.5",
+            "pli": "Sace, bhikkhave, adhicittamanuyutto bhikkhu ekantaṁ upekkhānimittaṁyeva manasi kareyya, ṭhānaṁ taṁ cittaṁ na sammā samādhiyeyya āsavānaṁ khayāya. ",
+            "en": "If they focus solely on <span class=\"ebt-matched\">the foundation of</span> equanimity, it’s likely their mind won’t properly become immersed in samādhi for the ending of defilements. ",
+            "matched": true
+          },
+          "an3.102:1.6": {
+            "scid": "an3.102:1.6",
+            "pli": "Yato ca kho, bhikkhave, adhicittamanuyutto bhikkhu kālena kālaṁ samādhinimittaṁ manasi karoti, kālena kālaṁ paggahanimittaṁ manasi karoti, kālena kālaṁ upekkhānimittaṁ manasi karoti, taṁ hoti cittaṁ muduñca kammaniyañca pabhassarañca, na ca pabhaṅgu, sammā samādhiyati āsavānaṁ khayāya. ",
+            "en": "But when a mendicant dedicated to the higher mind focuses from time to time on <span class=\"ebt-matched\">the foundation of</span> immersion, <span class=\"ebt-matched\">the foundation of</span> exertion, and <span class=\"ebt-matched\">the foundation of</span> equanimity, their mind becomes pliable, workable, and radiant, not brittle, and has properly entered immersion for the ending of defilements. ",
+            "matched": true
+          },
+          "an3.102:3.2": {
+            "scid": "an3.102:3.2",
+            "pli": "kālena kālaṁ samādhinimittaṁ manasi kātabbaṁ, kālena kālaṁ paggahanimittaṁ manasi kātabbaṁ, kālena kālaṁ upekkhānimittaṁ manasi kātabbaṁ. ",
+            "en": "<span class=\"ebt-matched\">the foundation of</span> immersion, <span class=\"ebt-matched\">the foundation of</span> exertion, and <span class=\"ebt-matched\">the foundation of</span> equanimity. … ",
+            "matched": true
+          },
+          "an3.102:3.6": {
+            "scid": "an3.102:3.6",
+            "pli": "Yato ca kho, bhikkhave, adhicittamanuyutto bhikkhu kālena kālaṁ samādhinimittaṁ manasi karoti, kālena kālaṁ paggahanimittaṁ manasi karoti, kālena kālaṁ upekkhānimittaṁ manasi karoti, taṁ hoti cittaṁ muduñca kammaniyañca pabhassarañca, na ca pabhaṅgu, sammā samādhiyati āsavānaṁ khayāya. ",
+            "en": "When a mendicant dedicated to the higher mind focuses from time to time on <span class=\"ebt-matched\">the foundation of</span> immersion, <span class=\"ebt-matched\">the foundation of</span> exertion, and <span class=\"ebt-matched\">the foundation of</span> equanimity, their mind becomes pliable, workable, and radiant, not brittle, and has properly entered immersion for the ending of defilements. ",
+            "matched": true
+          }
+        },
+        "score": 7.194,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n102. Foundations",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 36,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:1.9.27": {
+            "scid": "dn33:1.9.27",
+            "pli": "Samathanimittañca paggahanimittañca. ",
+            "en": "<span class=\"ebt-matched\">The foundation of</span> serenity and <span class=\"ebt-matched\">the foundation of</span> exertion. ",
+            "matched": true
+          },
+          "dn33:1.11.100": {
+            "scid": "dn33:1.11.100",
+            "pli": "Idhāvuso, bhikkhu uppannaṁ bhadrakaṁ samādhinimittaṁ anurakkhati—aṭṭhikasaññaṁ, puḷuvakasaññaṁ, vinīlakasaññaṁ, vicchiddakasaññaṁ, uddhumātakasaññaṁ. ",
+            "en": "It’s when a mendicant preserves a meditation subject that’s a fine foundation of immersion: the perception of a skeleton, a worm-infested corpse, a livid corpse, a split open corpse, or a bloated corpse. ",
+            "matched": true
+          },
+          "dn33:1.11.150": {
+            "scid": "dn33:1.11.150",
+            "pli": "paññādhiṭṭhānaṁ, saccādhiṭṭhānaṁ, cāgādhiṭṭhānaṁ, upasamādhiṭṭhānaṁ. ",
+            "en": "the foundations of wisdom, truth, generosity, and peace. ",
+            "matched": true
+          },
+          "dn33:2.1.136": {
+            "scid": "dn33:2.1.136",
+            "pli": "Yathā yathā, āvuso, bhikkhuno aññataraṁ samādhinimittaṁ suggahitaṁ hoti sumanasikataṁ sūpadhāritaṁ suppaṭividdhaṁ paññāya tathā tathā so tasmiṁ dhamme atthapaṭisaṁvedī ca hoti dhammapaṭisaṁvedī ca. ",
+            "en": "That mendicant feels inspired by the meaning and the teaching in that Dhamma, no matter how a meditation subject as a foundation of immersion is properly grasped, attended, borne in mind, and comprehended with wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 4.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.51_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.51",
+        "lang": "en",
+        "segMap": {
+          "sn46.51:11.2": {
+            "scid": "sn46.51:11.2",
+            "pli": "Atthi, bhikkhave, samathanimittaṁ abyagganimittaṁ. ",
+            "en": "There are things that are <span class=\"ebt-matched\">the foundation of</span> serenity and freedom from distraction. ",
+            "matched": true
+          },
+          "sn46.51:23.2": {
+            "scid": "sn46.51:23.2",
+            "pli": "Atthi, bhikkhave, samathanimittaṁ abyagganimittaṁ. ",
+            "en": "There are things that are <span class=\"ebt-matched\">the foundation of</span> serenity and freedom from distraction. ",
+            "matched": true
+          }
+        },
+        "score": 2.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 46\n6. Discussion\n51. Nourishing",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 103,
+          "en": 102
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn128_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn128_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn128",
+        "lang": "en",
+        "segMap": {
+          "mn128:28.9": {
+            "scid": "mn128:28.9",
+            "pli": "‘yasmiñhi kho ahaṁ samaye rūpanimittaṁ amanasikaritvā obhāsanimittaṁ manasi karomi, obhāsañhi kho tasmiṁ samaye sañjānāmi, na ca rūpāni passāmi. ",
+            "en": "‘When I don’t focus on <span class=\"ebt-matched\">the foundation of</span> the forms, but focus on <span class=\"ebt-matched\">the foundation of</span> the light, then I perceive light and do not see forms. ",
+            "matched": true
+          },
+          "mn128:28.10": {
+            "scid": "mn128:28.10",
+            "pli": "Yasmiṁ panāhaṁ samaye obhāsanimittaṁ amanasikaritvā rūpanimittaṁ manasi karomi, rūpāni hi kho tasmiṁ samaye passāmi na ca obhāsaṁ sañjānāmi—",
+            "en": "But when I don’t focus on <span class=\"ebt-matched\">the foundation of</span> the light, but focus on <span class=\"ebt-matched\">the foundation of</span> the forms, then I see forms and do not perceive light. ",
+            "matched": true
+          }
+        },
+        "score": 2.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 128\nCorruptions",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 281,
+          "en": 280
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.2",
+        "lang": "en",
+        "segMap": {
+          "sn46.2:14.2": {
+            "scid": "sn46.2:14.2",
+            "pli": "Atthi, bhikkhave, samathanimittaṁ abyagganimittaṁ. ",
+            "en": "There are things that are <span class=\"ebt-matched\">the foundation of</span> serenity and freedom from distraction. ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 46\n1. Mountains\n2. The Body",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      }
+    ]
+  }
+}

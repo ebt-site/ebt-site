@@ -1,0 +1,138 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "regain their appetite",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "regain their appetite",
+    "method": "phrase",
+    "resultPattern": "\\bregain their appetite",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn39_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn39_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn39/en/sujato",
+      "dn2/en/sujato",
+      "dn10/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn39_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn39_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn39",
+        "lang": "en",
+        "segMap": {
+          "mn39:14.9": {
+            "scid": "mn39:14.9",
+            "pli": "So aparena samayena tamhā ābādhā mucceyya, bhattañcassa chādeyya, siyā cassa kāye balamattā. ",
+            "en": "But after some time they’d recover from that illness, and <span class=\"ebt-matched\">regain their appetite</span> and their strength. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 39\nThe Longer Discourse at Assapura",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 191,
+          "en": 190
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn10",
+        "lang": "en",
+        "segMap": {
+          "dn10:2.8.2": {
+            "scid": "dn10:2.8.2",
+            "pli": "So aparena samayena tamhā ābādhā mucceyya, bhattañcassa chādeyya, siyā cassa kāye balamattā. ",
+            "en": "But after some time they’d recover from that illness, and <span class=\"ebt-matched\">regain their appetite</span> and their strength. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 10\nWith Subha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 284,
+          "en": 281
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn2",
+        "lang": "en",
+        "segMap": {
+          "dn2:70.2": {
+            "scid": "dn2:70.2",
+            "pli": "So aparena samayena tamhā ābādhā mucceyya; bhattaṁ cassa chādeyya, siyā cassa kāye balamattā. ",
+            "en": "But after some time they’d recover from that illness, and <span class=\"ebt-matched\">regain their appetite</span> and their strength. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 2\nThe Fruits of the Ascetic Life\n1. A Discussion With the King’s Ministers",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 649,
+          "en": 632
+        }
+      }
+    ]
+  }
+}

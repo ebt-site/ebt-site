@@ -1,0 +1,165 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "mit ganzem herzen dabei",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "mit ganzem herzen dabei",
+    "method": "phrase",
+    "resultPattern": "\\bmit ganzem herzen dabei",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.140_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.114_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.114_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.114_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn18_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn18_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn18_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.140/de/sabbamitta",
+      "an4.114/de/sabbamitta",
+      "dn18/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.114_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.114_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.114_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.114",
+        "lang": "de",
+        "segMap": {
+          "an4.114:2.2": {
+            "scid": "an4.114:2.2",
+            "pli": "Idha, bhikkhave, rañño nāgo yamenaṁ hatthidammasārathi kāraṇaṁ kāreti—",
+            "de": "Es ist, wenn ein königlicher Elefantenbulle achtgibt, aufpasst, <span class=\"ebt-matched\">mit ganzem Herzen dabei</span> ist und die Ohren spitzt, ganz gleich, welche Aufgabe der Elefantenzureiter von ihm verlangt ",
+            "en": "It’s when a royal bull elephant pays heed, pays attention, engages wholeheartedly, and lends an ear to whatever task the elephant trainer has it do, ",
+            "matched": true
+          },
+          "an4.114:7.2": {
+            "scid": "an4.114:7.2",
+            "pli": "Idha, bhikkhave, bhikkhu tathāgatappavedite dhammavinaye desiyamāne aṭṭhiṁ katvā manasi katvā sabbacetasā samannāharitvā ohitasoto dhammaṁ suṇāti. ",
+            "de": "Es ist, wenn ein Mönch achtgibt, aufpasst, <span class=\"ebt-matched\">mit ganzem Herzen dabei</span> ist und die Ohren spitzt, wenn die Lehre und Übung, die von einem Klargewordenen verkündet wurde, gelehrt wird. ",
+            "en": "It’s when a mendicant pays heed, pays attention, engages wholeheartedly, and lends an ear when the teaching and training proclaimed by a Realized One is being taught. ",
+            "matched": true
+          }
+        },
+        "score": 2.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n12. Mit Kesi\n114. Ein königlicher Elefant",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 40,
+          "de": 39,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.140_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.140",
+        "lang": "de",
+        "segMap": {
+          "an5.140:2.2": {
+            "scid": "an5.140:2.2",
+            "pli": "Idha, bhikkhave, rañño nāgo yamenaṁ hatthidammasārathi kāraṇaṁ kāreti—",
+            "de": "Es ist, wenn ein königlicher Elefantenbulle achtgibt, aufpasst, <span class=\"ebt-matched\">mit ganzem Herzen dabei</span> ist und die Ohren spitzt, ganz gleich, welche Aufgabe der Elefantenzureiter von ihm verlangt ",
+            "en": "It’s when a royal bull elephant pays heed, pays attention, engages wholeheartedly, and lends an ear to whatever task the elephant trainer has it do, ",
+            "matched": true
+          },
+          "an5.140:9.2": {
+            "scid": "an5.140:9.2",
+            "pli": "Idha, bhikkhave, bhikkhu tathāgatappavedite dhammavinaye desiyamāne aṭṭhiṅkatvā manasi katvā sabbaṁ cetasā samannāharitvā ohitasoto dhammaṁ suṇāti. ",
+            "de": "Es ist, wenn eine Nonne achtgibt, aufpasst, <span class=\"ebt-matched\">mit ganzem Herzen dabei</span> ist und die Ohren spitzt, wenn die Lehre und Übung, die von einem Klargewordenen verkündet wurde, gelehrt wird. ",
+            "en": "It’s when a mendicant pays heed, pays attention, engages wholeheartedly, and lends an ear when the teaching and training proclaimed by a Realized One is being taught. ",
+            "matched": true
+          }
+        },
+        "score": 2.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n14. Könige\n140. Zuhörer",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 59,
+          "de": 50,
+          "en": 57
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn18_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn18_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn18_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn18",
+        "lang": "de",
+        "segMap": {
+          "dn18:7.2": {
+            "scid": "dn18:7.2",
+            "pli": "Nātike piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto pāde pakkhāletvā giñjakāvasathaṁ pavisitvā māgadhake paricārake ārabbha aṭṭhiṁ katvā manasikatvā sabbaṁ cetasā samannāharitvā paññatte āsane nisīdi: ",
+            "de": "Er zog um Almosen durch Nādika. Nach dem Essen, als er vom Almosengang zurückkam, wusch er seine Füße und betrat das Backsteinhaus. Er gab acht, passte auf, war <span class=\"ebt-matched\">mit ganzem Herzen dabei</span> und dachte an das Schicksal der Anhänger aus Magadha. Er setzte sich auf den ausgebreiteten Sitz und dachte: ",
+            "en": "He wandered for alms in Nādika. After the meal, on his return from alms-round, he washed his feet and entered the brick house. He paid heed, paid attention, and concentrated wholeheartedly on the fate of Magadhan devotees, and sat on the seat spread out, thinking, ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 18\nMit Janavasabha\n1. Bekanntgabe, wo Menschen aus Nādika und anderen Orten wiedergeboren wurden",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 299,
+          "de": 255,
+          "en": 298
+        }
+      }
+    ]
+  }
+}

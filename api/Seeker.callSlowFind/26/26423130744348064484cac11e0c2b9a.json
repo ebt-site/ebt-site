@@ -1,0 +1,481 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "gesichert",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "gesichert",
+    "method": "phrase",
+    "resultPattern": "\\bgesichert",
+    "segsMatched": 17,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.72_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.72_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.72_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.71_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.71_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.71_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.16_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.16_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.16_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.80_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.80_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.80_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.79_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.79_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.79_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.78_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.78_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.78_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.77_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.77_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.77_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.76_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.76_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.76_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.75_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.75_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.75_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.74_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.74_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.74_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.73_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.73_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.73_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.72/de/sabbamitta",
+      "an4.71/de/sabbamitta",
+      "an3.16/de/sabbamitta",
+      "an4.80/de/sabbamitta",
+      "an4.79/de/sabbamitta",
+      "an4.78/de/sabbamitta",
+      "an4.77/de/sabbamitta",
+      "an4.76/de/sabbamitta",
+      "an4.75/de/sabbamitta",
+      "an4.74/de/sabbamitta",
+      "an4.73/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.71_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.71_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.71_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.71",
+        "lang": "de",
+        "segMap": {
+          "an4.71:0.2": {
+            "scid": "an4.71:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "de": "8. <span class=\"ebt-matched\">Gesichert</span> ",
+            "en": "8. Guaranteed ",
+            "matched": true
+          },
+          "an4.71:1.1": {
+            "scid": "an4.71:1.1",
+            "pli": "“Catūhi, bhikkhave, dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāya. ",
+            "de": "„Mönche und Nonnen, wenn ein Mönch vier Dinge besitzt, ist seine Übung <span class=\"ebt-matched\">gesichert</span>, und er hat den Grundstein für das Auflösen der Befleckungen gelegt. ",
+            "en": "“Mendicants, when a mendicant has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements. ",
+            "matched": true
+          },
+          "an4.71:1.4": {
+            "scid": "an4.71:1.4",
+            "pli": "Imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāyā”ti. ",
+            "de": "Wenn ein Mönch diese vier Dinge besitzt, ist seine Übung <span class=\"ebt-matched\">gesichert</span>, und er hat den Grundstein für das Auflösen der Befleckungen gelegt.“ ",
+            "en": "When a mendicant has these four things their practice is guaranteed, and they have laid the groundwork for ending the defilements.” ",
+            "matched": true
+          }
+        },
+        "score": 3.375,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n8. Gesichert\n71. Bemühen",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.72_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.72_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.72_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.72",
+        "lang": "de",
+        "segMap": {
+          "an4.72:0.2": {
+            "scid": "an4.72:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "de": "8. <span class=\"ebt-matched\">Gesichert</span> ",
+            "en": "8. Guaranteed ",
+            "matched": true
+          },
+          "an4.72:1.1": {
+            "scid": "an4.72:1.1",
+            "pli": "“Catūhi, bhikkhave, dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāya. ",
+            "de": "„Mönche und Nonnen, wenn eine Nonne vier Dinge besitzt, ist ihre Übung <span class=\"ebt-matched\">gesichert</span>, und sie hat den Grundstein für das Auflösen der Befleckungen gelegt. ",
+            "en": "“Mendicants, when a mendicant has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements. ",
+            "matched": true
+          },
+          "an4.72:1.4": {
+            "scid": "an4.72:1.4",
+            "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāyā”ti. ",
+            "de": "Wenn eine Nonne diese vier Dinge besitzt, ist ihre Übung <span class=\"ebt-matched\">gesichert</span>, und sie hat den Grundstein für das Auflösen der Befleckungen gelegt.“ ",
+            "en": "When a mendicant has these four things their practice is guaranteed, and they have laid the groundwork for ending the defilements.” ",
+            "matched": true
+          }
+        },
+        "score": 3.375,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n8. Gesichert\n72. Rechte Ansicht",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.16_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.16_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.16_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.16",
+        "lang": "de",
+        "segMap": {
+          "an3.16:0.3": {
+            "scid": "an3.16:0.3",
+            "pli": "16. Apaṇṇakasutta ",
+            "de": "16. <span class=\"ebt-matched\">Gesichert</span> ",
+            "en": "16. Guaranteed ",
+            "matched": true
+          },
+          "an3.16:1.1": {
+            "scid": "an3.16:1.1",
+            "pli": "“Tīhi, bhikkhave, dhammehi samannāgato bhikkhu apaṇṇakapaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāya. ",
+            "de": "„Mönche und Nonnen, wenn ein Mönch drei Dinge besitzt, ist seine Übung <span class=\"ebt-matched\">gesichert</span>, und er hat den Grundstein für das Auflösen der Befleckungen gelegt. ",
+            "en": "“Mendicants, when a mendicant has three things their practice is guaranteed, and they have laid the groundwork for ending the defilements. ",
+            "matched": true
+          },
+          "an3.16:4.4": {
+            "scid": "an3.16:4.4",
+            "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu apaṇṇakapaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāyā”ti. ",
+            "de": "Wenn ein Mönch oder eine Nonne diese drei Dinge besitzt, ist ihre Übung <span class=\"ebt-matched\">gesichert</span>, und sie haben den Grundstein für das Auflösen der Befleckungen gelegt.“ ",
+            "en": "When a mendicant has these three things their practice is guaranteed, and they have laid the groundwork for ending the defilements.” ",
+            "matched": true
+          }
+        },
+        "score": 3.12,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n2. Der Wagenbauer\n16. Gesichert",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 25,
+          "de": 24,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.74_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.74_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.74_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.74",
+        "lang": "de",
+        "segMap": {
+          "an4.74:0.2": {
+            "scid": "an4.74:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "de": "8. <span class=\"ebt-matched\">Gesichert</span> ",
+            "en": "8. Guaranteed ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n8. Gesichert\n74. Die Besten (1)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.75_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.75_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.75_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.75",
+        "lang": "de",
+        "segMap": {
+          "an4.75:0.2": {
+            "scid": "an4.75:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "de": "8. <span class=\"ebt-matched\">Gesichert</span> ",
+            "en": "8. Guaranteed ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n8. Gesichert\n75. Die Besten (2)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.77_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.77_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.77_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.77",
+        "lang": "de",
+        "segMap": {
+          "an4.77:0.2": {
+            "scid": "an4.77:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "de": "8. <span class=\"ebt-matched\">Gesichert</span> ",
+            "en": "8. Guaranteed ",
+            "matched": true
+          }
+        },
+        "score": 1.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n8. Gesichert\n77. Durch Denken nicht zu fassen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 15,
+          "de": 14,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.80_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.80_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.80_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.80",
+        "lang": "de",
+        "segMap": {
+          "an4.80:0.2": {
+            "scid": "an4.80:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "de": "8. <span class=\"ebt-matched\">Gesichert</span> ",
+            "en": "8. Guaranteed ",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n8. Gesichert\n80. Persien",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "de": 16,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.79_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.79_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.79_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.79",
+        "lang": "de",
+        "segMap": {
+          "an4.79:0.2": {
+            "scid": "an4.79:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "de": "8. <span class=\"ebt-matched\">Gesichert</span> ",
+            "en": "8. Guaranteed ",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n8. Gesichert\n79. Geschäft",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "de": 20,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.78_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.78_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.78_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.78",
+        "lang": "de",
+        "segMap": {
+          "an4.78:0.2": {
+            "scid": "an4.78:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "de": "8. <span class=\"ebt-matched\">Gesichert</span> ",
+            "en": "8. Guaranteed ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n8. Gesichert\n78. Eine religiöse Gabe",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "de": 22,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.76_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.76_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.76_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.76",
+        "lang": "de",
+        "segMap": {
+          "an4.76:0.2": {
+            "scid": "an4.76:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "de": "8. <span class=\"ebt-matched\">Gesichert</span> ",
+            "en": "8. Guaranteed ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n8. Gesichert\n76. In Kusinārā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "de": 27,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.73_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.73_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.73_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.73",
+        "lang": "de",
+        "segMap": {
+          "an4.73:0.2": {
+            "scid": "an4.73:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "de": "8. <span class=\"ebt-matched\">Gesichert</span> ",
+            "en": "8. Guaranteed ",
+            "matched": true
+          }
+        },
+        "score": 1.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n8. Gesichert\n73. Ein guter Mensch",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 43,
+          "de": 42,
+          "en": 42
+        }
+      }
+    ]
+  }
+}

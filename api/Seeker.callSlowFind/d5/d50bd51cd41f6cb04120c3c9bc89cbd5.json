@@ -1,0 +1,232 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "the eye is mine",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "the eye is mine",
+    "method": "phrase",
+    "resultPattern": "\\bthe eye is mine",
+    "segsMatched": 10,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.69_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.69_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.91_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.91_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.90_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.90_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.31_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.31_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.30_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.69/en/sujato",
+      "sn35.91/en/sujato",
+      "sn35.90/en/sujato",
+      "sn35.31/en/sujato",
+      "sn35.30/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.30",
+        "lang": "en",
+        "segMap": {
+          "sn35.30:1.4": {
+            "scid": "sn35.30:1.4",
+            "pli": "Idha, bhikkhave, bhikkhu cakkhuṁ na maññati, cakkhusmiṁ na maññati, cakkhuto na maññati, cakkhuṁ meti na maññati. ",
+            "en": "It’s when a mendicant does not identify with the eye, does not identify regarding the eye, does not identify as the eye, and does not identify ‘<span class=\"ebt-matched\">the eye is mine</span>.’ ",
+            "matched": true
+          },
+          "sn35.30:1.8": {
+            "scid": "sn35.30:1.8",
+            "pli": "Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi na maññati, tasmimpi na maññati, tatopi na maññati, taṁ meti na maññati …pe… ",
+            "en": "They don’t identify with the pleasant, painful, or neutral feeling that arises conditioned by eye contact. They don’t identify regarding that, they don’t identify as that, and they don’t identify ‘that is mine.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n3. All\n30. The Practice Fit for Uprooting",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.31_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.31_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.31",
+        "lang": "en",
+        "segMap": {
+          "sn35.31:1.4": {
+            "scid": "sn35.31:1.4",
+            "pli": "Idha, bhikkhave, bhikkhu cakkhuṁ na maññati, cakkhusmiṁ na maññati, cakkhuto na maññati, cakkhuṁ meti na maññati. ",
+            "en": "It’s when a mendicant does not identify with the eye, does not identify in the eye, does not identify from the eye, and does not identify: ‘<span class=\"ebt-matched\">The eye is mine</span>.’ ",
+            "matched": true
+          },
+          "sn35.31:1.6": {
+            "scid": "sn35.31:1.6",
+            "pli": "cakkhuviññāṇaṁ na maññati, cakkhusamphassaṁ na maññati, yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi na maññati, tasmimpi na maññati, tatopi na maññati, taṁ meti na maññati. ",
+            "en": "eye consciousness … eye contact. And they don’t identify with the pleasant, painful, or neutral feeling that arises conditioned by eye contact. They don’t identify in that, they don’t identify from that, and they don’t identify: ‘That is mine.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.069,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n3. All\n31. The Practice Conducive to Uprooting (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 29,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.90_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.90_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.90",
+        "lang": "en",
+        "segMap": {
+          "sn35.90:1.4": {
+            "scid": "sn35.90:1.4",
+            "pli": "cakkhuṁ na maññeyya, cakkhusmiṁ na maññeyya, cakkhuto na maññeyya, cakkhu meti na maññeyya; ",
+            "en": "So let them not identify with the eye, let them not identify regarding the eye, let them not identify as the eye, let them not identify ‘<span class=\"ebt-matched\">the eye is mine</span>.’ ",
+            "matched": true
+          },
+          "sn35.90:1.8": {
+            "scid": "sn35.90:1.8",
+            "pli": "Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi na maññeyya, tasmimpi na maññeyya, tatopi na maññeyya, taṁ meti na maññeyya. ",
+            "en": "Let them not identify with the pleasant, painful, or neutral feeling that arises conditioned by eye contact. Let them not identify regarding that, let them not identify as that, and let them not identify ‘that is mine.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.069,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n9. With Channa\n90. Turbulence (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 29,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.91_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.91_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.91",
+        "lang": "en",
+        "segMap": {
+          "sn35.91:1.4": {
+            "scid": "sn35.91:1.4",
+            "pli": "cakkhuṁ na maññeyya, cakkhusmiṁ na maññeyya, cakkhuto na maññeyya, cakkhu meti na maññeyya; ",
+            "en": "So let them not identify with the eye, let them not identify in the eye, let them not identify from the eye, let them not identify: ‘<span class=\"ebt-matched\">The eye is mine</span>.’ ",
+            "matched": true
+          },
+          "sn35.91:1.8": {
+            "scid": "sn35.91:1.8",
+            "pli": "yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi na maññeyya, tasmimpi na maññeyya, tatopi na maññeyya, taṁ meti na maññeyya. ",
+            "en": "Let them not identify with the pleasant, painful, or neutral feeling that arises conditioned by eye contact. Let them not identify in that, let them not identify from that, and let them not identify: ‘That is mine.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n9. With Channa\n91. Turbulence (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 30,
+          "en": 29
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.69_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.69_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.69",
+        "lang": "en",
+        "segMap": {
+          "sn35.69:2.8": {
+            "scid": "sn35.69:2.8",
+            "pli": "‘ahaṁ cakkhūti vā mama cakkhūti vā …pe… ",
+            "en": "‘I am the eye’ or ‘<span class=\"ebt-matched\">the eye is mine</span>.’ ",
+            "matched": true
+          },
+          "sn35.69:3.3": {
+            "scid": "sn35.69:3.3",
+            "pli": "“‘ahaṁ cakkhūti vā mama cakkhūti vā …pe… ",
+            "en": "‘I am the eye’ or ‘<span class=\"ebt-matched\">the eye is mine</span>.’ Or ‘I am the ear … ",
+            "matched": true
+          }
+        },
+        "score": 2.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n7. With Migajāla\n69. Upasena and the Viper",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 34,
+          "en": 33
+        }
+      }
+    ]
+  }
+}

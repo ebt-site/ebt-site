@@ -1,0 +1,290 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "ekel vor sünde",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "ekel vor sünde",
+    "method": "phrase",
+    "resultPattern": "\\bekel vor sünde",
+    "segsMatched": 27,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.196_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.196_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn25/de/sabbamitta",
+      "an4.196/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "de",
+        "segMap": {
+          "dn25:7.0": {
+            "scid": "dn25:7.0",
+            "pli": "2. Tapojigucchāvāda ",
+            "de": "2. Die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> ",
+            "en": "2. Mortification in Disgust of Sin ",
+            "matched": true
+          },
+          "dn25:7.16": {
+            "scid": "dn25:7.16",
+            "pli": "Iṅgha tvaṁ maṁ, nigrodha, sake ācariyake adhijegucche pañhaṁ puccha: ",
+            "de": "Bitte stelle mir eine Frage über die hohe Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> aus deiner eigenen Tradition: ",
+            "en": "Please ask me a question about the higher mortification in disgust of sin in your own tradition: ",
+            "matched": true
+          },
+          "dn25:7.17": {
+            "scid": "dn25:7.17",
+            "pli": "‘kathaṁ santā nu kho, bhante, tapojigucchā paripuṇṇā hoti, kathaṁ aparipuṇṇā’”ti? ",
+            "de": "‚Wie sind die Bedingungen für die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> vollständig und wie sind sie unvollständig?‘“ ",
+            "en": "‘How are the conditions for the mortification in disgust of sin completed, and how are they incomplete?’” ",
+            "matched": true
+          },
+          "dn25:8.2": {
+            "scid": "dn25:8.2",
+            "pli": "“mayaṁ kho, bhante, tapojigucchāvādā tapojigucchāsārā tapojigucchāallīnā viharāma. ",
+            "de": "„Herr, wir lehren die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span>, wir sehen sie als wesentlich an und halten daran fest. ",
+            "en": "“Sir, we teach mortification in disgust of sin, regarding it as essential and clinging to it. ",
+            "matched": true
+          },
+          "dn25:8.3": {
+            "scid": "dn25:8.3",
+            "pli": "Kathaṁ santā nu kho, bhante, tapojigucchā paripuṇṇā hoti, kathaṁ aparipuṇṇā”ti? ",
+            "de": "Wie sind die Bedingungen für die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> vollständig und wie sind sie unvollständig?“ ",
+            "en": "How are the conditions for the mortification in disgust of sin completed, and how are they incomplete?” ",
+            "matched": true
+          },
+          "dn25:8.23": {
+            "scid": "dn25:8.23",
+            "pli": "yadi evaṁ sante tapojigucchā paripuṇṇā vā hoti aparipuṇṇā vā”ti? ",
+            "de": "Wenn das so ist, ist die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> vollständig oder unvollständig?“ ",
+            "en": "If this is so, is the mortification in disgust of sin complete, or incomplete?” ",
+            "matched": true
+          },
+          "dn25:8.24": {
+            "scid": "dn25:8.24",
+            "pli": "“Addhā kho, bhante, evaṁ sante tapojigucchā paripuṇṇā hoti, no aparipuṇṇā”ti. ",
+            "de": "„Herr, wenn das so ist, ist die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> offensichtlich vollständig, nicht unvollständig.“ ",
+            "en": "“Clearly, sir, if that is so the mortification in disgust of sin is complete, not incomplete.” ",
+            "matched": true
+          },
+          "dn25:15.15": {
+            "scid": "dn25:15.15",
+            "pli": "yadi evaṁ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti? ",
+            "de": "Wenn das so ist, ist die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> geläutert oder nicht?“ ",
+            "en": "If this is so, is the mortification in disgust of sin purified or not?” ",
+            "matched": true
+          },
+          "dn25:15.16": {
+            "scid": "dn25:15.16",
+            "pli": "“Addhā kho, bhante, evaṁ sante tapojigucchā parisuddhā hoti no aparisuddhā, aggappattā ca sārappattā cā”ti. ",
+            "de": "„Herr, wenn das so ist, ist die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> offensichtlich geläutert. Sie hat den Gipfel und den Kern erreicht.“ ",
+            "en": "“Clearly, sir, it is purified. It has reached the peak and the pith.” ",
+            "matched": true
+          },
+          "dn25:15.17": {
+            "scid": "dn25:15.17",
+            "pli": "“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca; ",
+            "de": "„Nein, Nigrodha, an diesem Punkt hat die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> noch nicht den Gipfel und den Kern erreicht. ",
+            "en": "“No, Nigrodha, at this point the mortification in disgust of sin has not yet reached the peak and the pith. ",
+            "matched": true
+          },
+          "dn25:16.1": {
+            "scid": "dn25:16.1",
+            "pli": "“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca? ",
+            "de": "„Aber an welchem Punkt, Herr, erreicht die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> den Gipfel und den Kern? ",
+            "en": "“But at what point, sir, does the mortification in disgust of sin reach the peak and the pith? ",
+            "matched": true
+          },
+          "dn25:17.7": {
+            "scid": "dn25:17.7",
+            "pli": "Yadi evaṁ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti? ",
+            "de": "Wenn das so ist, ist die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> geläutert oder nicht?“ ",
+            "en": "If this is so, is the mortification in disgust of sin purified or not?” ",
+            "matched": true
+          },
+          "dn25:17.8": {
+            "scid": "dn25:17.8",
+            "pli": "“Addhā kho, bhante, evaṁ sante tapojigucchā parisuddhā hoti no aparisuddhā, aggappattā ca sārappattā cā”ti. ",
+            "de": "„Herr, wenn das so ist, ist die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> offensichtlich geläutert. Sie hat den Gipfel und den Kern erreicht.“ ",
+            "en": "“Clearly, sir, it is purified. It has reached the peak and the pith.” ",
+            "matched": true
+          },
+          "dn25:17.9": {
+            "scid": "dn25:17.9",
+            "pli": "“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca; ",
+            "de": "„Nein, Nigrodha, an diesem Punkt hat die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> noch nicht den Gipfel und den Kern erreicht. ",
+            "en": "“No, Nigrodha, at this point the mortification in disgust of sin has not yet reached the peak and the pith. ",
+            "matched": true
+          },
+          "dn25:18.1": {
+            "scid": "dn25:18.1",
+            "pli": "“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca? ",
+            "de": "„Aber an welchem Punkt, Herr, erreicht die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> den Gipfel und den Kern? ",
+            "en": "“But at what point, sir, does the mortification in disgust of sin reach the peak and the pith? ",
+            "matched": true
+          },
+          "dn25:18.15": {
+            "scid": "dn25:18.15",
+            "pli": "yadi evaṁ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti? ",
+            "de": "Wenn das so ist, ist die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> geläutert oder nicht?“ ",
+            "en": "If this is so, is the mortification in disgust of sin purified or not?” ",
+            "matched": true
+          },
+          "dn25:18.16": {
+            "scid": "dn25:18.16",
+            "pli": "“Addhā kho, bhante, evaṁ sante tapojigucchā parisuddhā hoti, no aparisuddhā, aggappattā ca sārappattā cā”ti. ",
+            "de": "„Herr, wenn das so ist, ist die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> offensichtlich geläutert. Sie hat den Gipfel und den Kern erreicht.“ ",
+            "en": "“Clearly, sir, it is purified. It has reached the peak and the pith.” ",
+            "matched": true
+          },
+          "dn25:18.17": {
+            "scid": "dn25:18.17",
+            "pli": "“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca; ",
+            "de": "„Nein, Nigrodha, an diesem Punkt hat die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> noch nicht den Gipfel und den Kern erreicht. ",
+            "en": "“No, Nigrodha, at this point the mortification in disgust of sin has not yet reached the peak and the pith. ",
+            "matched": true
+          },
+          "dn25:19.1": {
+            "scid": "dn25:19.1",
+            "pli": "“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca? ",
+            "de": "„Aber an welchem Punkt, Herr, erreicht die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> den Gipfel und den Kern? ",
+            "en": "“But at what point, sir, does the mortification in disgust of sin reach the peak and the pith? ",
+            "matched": true
+          },
+          "dn25:19.14": {
+            "scid": "dn25:19.14",
+            "pli": "yadi evaṁ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti? ",
+            "de": "Wenn das so ist, ist die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> geläutert oder nicht?“ ",
+            "en": "If this is so, is the mortification in disgust of sin purified or not?” ",
+            "matched": true
+          },
+          "dn25:19.15": {
+            "scid": "dn25:19.15",
+            "pli": "“Addhā kho, bhante, evaṁ sante tapojigucchā parisuddhā hoti no aparisuddhā, aggappattā ca sārappattā cā”ti. ",
+            "de": "„Herr, wenn das so ist, ist die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> offensichtlich geläutert. Sie hat den Gipfel und den Kern erreicht.“ ",
+            "en": "“Clearly, sir, it is purified. It has reached the peak and the pith.” ",
+            "matched": true
+          },
+          "dn25:19.16": {
+            "scid": "dn25:19.16",
+            "pli": "“Ettāvatā kho, nigrodha, tapojigucchā aggappattā ca hoti sārappattā ca. ",
+            "de": "„Nigrodha, an diesem Punkt hat die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> den Gipfel und den Kern erreicht. ",
+            "en": "“Nigrodha, at this point the mortification in disgust of sin has reached the peak and the pith. ",
+            "matched": true
+          }
+        },
+        "score": 22.057,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 25\nDas Löwengebrüll in Udumbarikās Kloster\n1. Vom Wanderer Nigrodha",
+        "segsMatched": 22,
+        "langSegs": {
+          "pli": 383,
+          "de": 347,
+          "en": 382
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.196_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.196_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.196",
+        "lang": "de",
+        "segMap": {
+          "an4.196:2.2": {
+            "scid": "an4.196:2.2",
+            "pli": "sīlavisuddhihetu ca tapojigucchāhetu ca. ",
+            "de": "mittels Läuterung des sittlichen Verhaltens und mittels der Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span>. ",
+            "en": "purification of ethics, and mortification in disgust of sin. ",
+            "matched": true
+          },
+          "an4.196:3.2": {
+            "scid": "an4.196:3.2",
+            "pli": "Ye te, sāḷha, samaṇabrāhmaṇā tapojigucchāvādā tapojigucchāsārā tapojigucchāallīnā viharanti, abhabbā te oghassa nittharaṇāya. ",
+            "de": "Aber jene Asketen und Brahmanen, die die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> lehren, die sie als wesentlich ansehen und daran festhalten, sind nicht in der Lage, die Flut zu überqueren. ",
+            "en": "But those ascetics and brahmins who teach mortification in disgust of sin—regarding it as essential and clinging to it—are incapable of crossing the flood. ",
+            "matched": true
+          },
+          "an4.196:6.1": {
+            "scid": "an4.196:6.1",
+            "pli": "“Evamevaṁ kho, sāḷha, ye te samaṇabrāhmaṇā tapojigucchāvādā tapojigucchāsārā tapojigucchāallīnā viharanti, abhabbā te oghassa nittharaṇāya. ",
+            "de": "„Ebenso, Sāḷha, sind jene Asketen und Brahmanen, die die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> lehren, die sie als wesentlich ansehen und daran festhalten, nicht in der Lage, die Flut zu überqueren. ",
+            "en": "“In the same way, Sāḷha, those ascetics and brahmins who teach mortification in disgust of sin—regarding it as essential and clinging to it—are incapable of crossing the flood. ",
+            "matched": true
+          },
+          "an4.196:7.1": {
+            "scid": "an4.196:7.1",
+            "pli": "Ye ca kho te, sāḷha, samaṇabrāhmaṇā na tapojigucchāvādā na tapojigucchāsārā na tapojigucchāallīnā viharanti, bhabbā te oghassa nittharaṇāya. ",
+            "de": "Aber jene Asketen und Brahmanen, die nicht die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> lehren, die sie nicht als wesentlich ansehen und nicht daran festhalten, sind in der Lage, die Flut zu überqueren. ",
+            "en": "But those ascetics and brahmins who don’t teach mortification in disgust of sin—not regarding it as essential or clinging to it—are capable of crossing the flood. ",
+            "matched": true
+          },
+          "an4.196:10.1": {
+            "scid": "an4.196:10.1",
+            "pli": "“Evamevaṁ kho, sāḷha, ye te samaṇabrāhmaṇā na tapojigucchāvādā na tapojigucchāsārā na tapojigucchāallīnā viharanti, bhabbā te oghassa nittharaṇāya. ",
+            "de": "„Ebenso, Sāḷha, sind jene Asketen und Brahmanen, die nicht die Bußübung aus <span class=\"ebt-matched\">Ekel vor Sünde</span> lehren, die sie nicht als wesentlich ansehen und nicht daran festhalten, in der Lage, die Flut zu überqueren. ",
+            "en": "“In the same way, Sāḷha, those ascetics and brahmins who don’t teach mortification in disgust of sin—not regarding it as essential or clinging to it—are capable of crossing the flood. ",
+            "matched": true
+          }
+        },
+        "score": 5.07,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n20. Das große Kapitel\n196. Mit Sāḷha",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 71,
+          "de": 70,
+          "en": 70
+        }
+      }
+    ]
+  }
+}

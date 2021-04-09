@@ -1,0 +1,287 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wann immer ich will",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wann immer ich will",
+    "method": "phrase",
+    "resultPattern": "\\bwann immer ich will",
+    "segsMatched": 10,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.63_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.63_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.63_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig3.3_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/thig/thig3.3_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/thig/thig3.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.180_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.180_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.180_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.104_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.104_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.104_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.87_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.87_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.87_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.35_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.35_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.35_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.63/de/sabbamitta",
+      "thig3.3/de/sabbamitta",
+      "an5.180/de/sabbamitta",
+      "an5.104/de/sabbamitta",
+      "an4.87/de/sabbamitta",
+      "an4.35/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.63_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.63_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.63_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.63",
+        "lang": "de",
+        "segMap": {
+          "an3.63:5.1": {
+            "scid": "an3.63:5.1",
+            "pli": "Tīṇi kho, imāni, brāhmaṇa, uccāsayanamahāsayanāni, yesāhaṁ etarahi nikāmalābhī akicchalābhī akasiralābhī. ",
+            "de": "Es gibt, Brahmane, diese drei hohen und üppigen Betten, die mir heutzutage zur Verfügung stehen, <span class=\"ebt-matched\">wann immer ich will</span>, ohne Mühe und Not. ",
+            "en": "There are, brahmin, these three high and luxurious beds that I get these days when I want, without trouble or difficulty. ",
+            "matched": true
+          },
+          "an3.63:5.4": {
+            "scid": "an3.63:5.4",
+            "pli": "Imāni kho, brāhmaṇa, tīṇi uccāsayanamahāsayanāni, yesāhaṁ etarahi nikāmalābhī akicchalābhī akasiralābhī”ti. ",
+            "de": "Das sind die drei hohen und üppigen Betten, die mir heutzutage zur Verfügung stehen, <span class=\"ebt-matched\">wann immer ich will</span>, ohne Mühe und Not.“ ",
+            "en": "These are the three high and luxurious beds that I get these days when I want, without trouble or difficulty.” ",
+            "matched": true
+          },
+          "an3.63:6.13": {
+            "scid": "an3.63:6.13",
+            "pli": "Idaṁ kho, brāhmaṇa, dibbaṁ uccāsayanamahāsayanaṁ, yassāhaṁ etarahi nikāmalābhī akicchalābhī akasiralābhī”ti. ",
+            "de": "Das ist das hohe und üppige Bett der Götter, das mir heutzutage zur Verfügung steht, <span class=\"ebt-matched\">wann immer ich will</span>, ohne Mühe und Not.“ ",
+            "en": "This is the high and luxurious bed of the gods that I get these days when I want, without trouble or difficulty.” ",
+            "matched": true
+          },
+          "an3.63:8.13": {
+            "scid": "an3.63:8.13",
+            "pli": "Idaṁ kho, brāhmaṇa, brahmaṁ uccāsayanamahāsayanaṁ, yassāhaṁ etarahi nikāmalābhī akicchalābhī akasiralābhī”ti. ",
+            "de": "Das ist das hohe und üppige Bett Brahmās, das mir heutzutage zur Verfügung steht, <span class=\"ebt-matched\">wann immer ich will</span>, ohne Mühe und Not.“ ",
+            "en": "This is the high and luxurious bed of Brahmā that I get these days when I want, without trouble or difficulty.” ",
+            "matched": true
+          },
+          "an3.63:10.13": {
+            "scid": "an3.63:10.13",
+            "pli": "Idaṁ kho, brāhmaṇa, ariyaṁ uccāsayanamahāsayanaṁ, yassāhaṁ etarahi nikāmalābhī akicchalābhī akasiralābhī”ti. ",
+            "de": "Das ist das hohe und üppige Bett der Edlen, das mir heutzutage zur Verfügung steht, <span class=\"ebt-matched\">wann immer ich will</span>, ohne Mühe und Not.“ ",
+            "en": "This is the high and luxurious bed of the noble ones that I get these days when I want, without trouble or difficulty.” ",
+            "matched": true
+          }
+        },
+        "score": 5.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n63. In Venāgapura",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 79,
+          "de": 78,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig3.3_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/thig/thig3.3_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/thig/thig3.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig3.3",
+        "lang": "de",
+        "segMap": {
+          "thig3.3:2.2": {
+            "scid": "thig3.3:2.2",
+            "pli": "lābhinīhaṁ yadicchakaṁ;",
+            "de": "und Merkmalslosigkeit, <span class=\"ebt-matched\">wann immer ich will</span>. ",
+            "en": "and signlessness whenever I want.",
+            "matched": true
+          }
+        },
+        "score": 1.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Strophen der altehrwürdigen Nonnen\nDas Dreierbuch\n3.3. Eine andere Uttamā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 16,
+          "de": 15,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.104_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.104_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.104_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.104",
+        "lang": "de",
+        "segMap": {
+          "an5.104:3.6": {
+            "scid": "an5.104:3.6",
+            "pli": "catunnaṁ kho panasmi jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī akicchalābhī akasiralābhī, ",
+            "de": "Ich erlange die vier Vertiefungen <span class=\"ebt-matched\">wann immer ich will</span>, ohne Mühe und Not. ",
+            "en": "I get the four absorptions when I want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n11. Unbeschwert leben\n104. Eine vorzüglicher Asketin unter den Asketen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "de": 20,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.87_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.87_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.87_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.87",
+        "lang": "de",
+        "segMap": {
+          "an4.87:6.5": {
+            "scid": "an4.87:6.5",
+            "pli": "Catunnaṁ kho panasmi jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī akicchalābhī akasiralābhī, ",
+            "de": "Ich erlange die vier Vertiefungen <span class=\"ebt-matched\">wann immer ich will</span>, ohne Mühe und Not. ",
+            "en": "I get the four absorptions when I want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n9. Unbeirrbar\n87. Der Sohn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 35,
+          "de": 34,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.35_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.35_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.35_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.35",
+        "lang": "de",
+        "segMap": {
+          "an4.35:5.7": {
+            "scid": "an4.35:5.7",
+            "pli": "Ahañhi, brāhmaṇa, catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī akicchalābhī akasiralābhī. ",
+            "de": "Ich erlange die vier Vertiefungen … <span class=\"ebt-matched\">wann immer ich will</span>, ohne Mühe und Not. ",
+            "en": "I do get the four absorptions … when I want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n4. Umstände\n35. Mit Vassakāra",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 55,
+          "de": 54,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.180_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.180_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.180_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.180",
+        "lang": "de",
+        "segMap": {
+          "an5.180:9.2": {
+            "scid": "an5.180:9.2",
+            "pli": "‘ahaṁ kho imassa anuttarassa vimuttisukhassa nikāmalābhī homi akicchalābhī akasiralābhī. ",
+            "de": "‚Ich erfahre die unübertreffliche Wonne der Freiheit, <span class=\"ebt-matched\">wann immer ich will</span>, ohne Mühe und Not. ",
+            "en": "‘I get the supreme bliss of freedom whenever I want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n18. Ein Laienschüler\n180. Über Gavesī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 96,
+          "de": 70,
+          "en": 94
+        }
+      }
+    ]
+  }
+}

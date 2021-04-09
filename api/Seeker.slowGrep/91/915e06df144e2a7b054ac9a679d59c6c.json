@@ -1,0 +1,22 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bheart of love",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn21_translation-en-sujato.json:15",
+    "translation/en/sujato/sutta/dn/dn8_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/mn/mn96_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn93_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an9/an9.20_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn20/sn20.4_translation-en-sujato.json:1"
+  ]
+}

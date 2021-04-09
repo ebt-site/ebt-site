@@ -1,0 +1,130 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "those of few wishes",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "those of few wishes",
+    "method": "phrase",
+    "resultPattern": "\\bthose of few wishes",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an8/an8.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.30_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an8.30/en/sujato",
+      "dn34/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.30",
+        "lang": "en",
+        "segMap": {
+          "an8.30:1.4": {
+            "scid": "an8.30:1.4",
+            "pli": "“appicchassāyaṁ dhammo, nāyaṁ dhammo mahicchassa; ",
+            "en": "“This teaching is for <span class=\"ebt-matched\">those of few wishes</span>, not those of many wishes. ",
+            "matched": true
+          },
+          "an8.30:3.3": {
+            "scid": "an8.30:3.3",
+            "pli": "‘appicchassāyaṁ dhammo, nāyaṁ dhammo mahicchassa; ",
+            "en": "‘This teaching is for <span class=\"ebt-matched\">those of few wishes</span>, not those of many wishes. ",
+            "matched": true
+          },
+          "an8.30:13.6": {
+            "scid": "an8.30:13.6",
+            "pli": "Appicchassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo mahicchassa; ",
+            "en": "This teaching is for <span class=\"ebt-matched\">those of few wishes</span>, not those of many wishes. ",
+            "matched": true
+          },
+          "an8.30:14.1": {
+            "scid": "an8.30:14.1",
+            "pli": "‘Appicchassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo mahicchassā’ti, ",
+            "en": "‘This teaching is for <span class=\"ebt-matched\">those of few wishes</span>, not those of many wishes.’ ",
+            "matched": true
+          },
+          "an8.30:14.4": {
+            "scid": "an8.30:14.4",
+            "pli": "‘Appicchassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo mahicchassā’ti, ",
+            "en": "‘This teaching is for <span class=\"ebt-matched\">those of few wishes</span>, not those of many wishes.’ ",
+            "matched": true
+          }
+        },
+        "score": 5.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n3. Householders\n30. Anuruddha and the Great Thoughts",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 119,
+          "en": 117
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:2.1.151": {
+            "scid": "dn34:2.1.151",
+            "pli": "appicchassāyaṁ dhammo, nāyaṁ dhammo mahicchassa. ",
+            "en": "‘This teaching is for <span class=\"ebt-matched\">those of few wishes</span>, not those of many wishes. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

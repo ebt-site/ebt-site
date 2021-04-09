@@ -1,0 +1,128 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "um mehr materiellen besitz",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "um mehr materiellen besitz",
+    "method": "keywords",
+    "resultPattern": "\\bum|\\bmehr|\\bmateriellen|\\bbesitz",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.83_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.83_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.83_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn15_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn15_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.83/de/sabbamitta",
+      "dn28/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.83_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.83_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.83_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.83",
+        "lang": "de",
+        "segMap": {
+          "an5.83:1.3": {
+            "scid": "an5.83:1.3",
+            "pli": "Kuhako ca hoti, lapako ca, nemittiko ca, nippesiko ca, lābhena ca lābhaṁ nijigīsitā—",
+            "de": "Sie betrügt, schmeichelt, macht Andeutungen und wertet andere ab, und sie benutzt <span class=\"ebt-matched\">materiellen</span> <span class=\"ebt-matched\">Besitz</span>, <span class=\"ebt-matched\">um</span> <span class=\"ebt-matched\">mehr</span> materiellem <span class=\"ebt-matched\">Besitz</span> nachzujagen. ",
+            "en": "They use deceit, flattery, hinting, and belittling, and they use material possessions to chase after other material possessions. ",
+            "matched": true
+          },
+          "an5.83:2.3": {
+            "scid": "an5.83:2.3",
+            "pli": "Na ca kuhako hoti, na ca lapako, na ca nemittiko, na ca nippesiko, na ca lābhena lābhaṁ nijigīsitā—",
+            "de": "Sie betrügt nicht, schmeichelt nicht, macht keine Andeutungen und wertet andere nicht ab, und sie benutzt <span class=\"ebt-matched\">materiellen</span> <span class=\"ebt-matched\">Besitz</span> nicht, <span class=\"ebt-matched\">um</span> <span class=\"ebt-matched\">mehr</span> materiellem <span class=\"ebt-matched\">Besitz</span> nachzujagen. ",
+            "en": "They don’t use deceit, flattery, hinting, or belittling, and they don’t use material possessions to chase after other material possessions. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n9. Ordensälteste\n83. Betrügerisch",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn28",
+        "lang": "de",
+        "segMap": {
+          "dn28:12.2": {
+            "scid": "dn28:12.2",
+            "pli": "Idha, bhante, ekacco sacco cassa saddho ca, na ca kuhako, na ca lapako, na ca nemittiko, na ca nippesiko, na ca lābhena lābhaṁ nijigīsanako, indriyesu guttadvāro, bhojane mattaññū, samakārī, jāgariyānuyogamanuyutto, atandito, āraddhavīriyo, jhāyī, satimā, kalyāṇapaṭibhāno, gatimā, dhitimā, matimā, na ca kāmesu giddho, sato ca nipako ca. ",
+            "de": "Da ist jemand aufrichtig und vertrauensvoll. Er betrügt nicht, schmeichelt nicht, macht keine Andeutungen und wertet andere nicht ab, und er benutzt <span class=\"ebt-matched\">materiellen</span> <span class=\"ebt-matched\">Besitz</span> nicht, <span class=\"ebt-matched\">um</span> <span class=\"ebt-matched\">mehr</span> materiellem <span class=\"ebt-matched\">Besitz</span> nachzujagen. Er bewacht die Tore der Sinne und hält beim Essen Maß. Er ist gerecht, weiht sich dem Wachsein, ist unermüdlich und energisch und weiht sich der Meditation. Er hat ein gutes Gedächtnis, gute Wortgewandtheit, eine große Reichweite, Merkfähigkeit und Bedachtsamkeit. Er ist nicht gierig nach Sinnenfreuden. Er ist achtsam und wach. ",
+            "en": "It’s when someone is honest and faithful. They don’t use deceit, flattery, hinting, or belittling, and they don’t use material possessions to chase after other material possessions. They guard the sense doors and eat in moderation. They’re fair, dedicated to wakefulness, tireless, energetic, and meditative. They have good memory, eloquence, range, retention, and thoughtfulness. They’re not greedy for sensual pleasures. They are mindful and alert. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 28\nZuversicht wecken\n1. Sāriputtas Löwengebrüll",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 250,
+          "de": 236,
+          "en": 249
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+#!/bin/bash
+
+DIR=`dirname $0`
+SCRIPT=`basename $0 | tr abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ`
+cd $DIR/..
+
+type rg >& /dev/null
+RC=$?; if [ "$RC" == "0" ]; then
+  echo -e "$SCRIPT: ripgrep installed (ok)"
+else
+  echo -e "$SCRIPT: installing ripgrep... "
+  curl -LO https://github.com/BurntSushi/ripgrep/releases/download/11.0.2/ripgrep_11.0.2_amd64.deb
+  sudo dpkg -i ripgrep_11.0.2_amd64.deb
+fi
+
+ED=local/ebt-data
+if [ -e $ED ]; then
+  pushd $ED > /dev/null
+  git pull
+  popd > /dev/null
+else
+  echo -e "$SCRIPT: cloning $ED"
+  mkdir -p local
+  git clone https://github.com/ebt-site/ebt-data $ED
+fi
+
+npm install --save scv-bilara@latest
+rm -rf api/Seeker*
+$DIR/js/build.js
+
+if [ "$1" == "PUSH" ]; then
+  $DIR/git-commit-version PUSH &&\
+  $DIR/deploy &&\
+  $DIR/publish-npm
+fi

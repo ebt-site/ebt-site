@@ -1,0 +1,106 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "to say to the young monks",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "to say to the young monks",
+    "method": "phrase",
+    "resultPattern": "\\bto say to the young monks",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.95_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.95_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.257_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.257_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.95/en/sujato",
+      "an4.257/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.257_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.257_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.257",
+        "lang": "en",
+        "segMap": {
+          "an4.257:2.2": {
+            "scid": "an4.257:2.2",
+            "pli": "“Ettha idāni, mālukyaputta, kiṁ dahare bhikkhū vakkhāma; ",
+            "en": "“Well now, Māluṅkyaputta, what are we <span class=\"ebt-matched\">to say to the young monks</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n26. Insight\n257. With Māluṅkyaputta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.95_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.95_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.95",
+        "lang": "en",
+        "segMap": {
+          "sn35.95:2.1": {
+            "scid": "sn35.95:2.1",
+            "pli": "“Ettha dāni, mālukyaputta, kiṁ dahare bhikkhū vakkhāma. ",
+            "en": "“Well now, Māluṅkyaputta, what are we <span class=\"ebt-matched\">to say to the young monks</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n10. The Sixes\n95. Māluṅkyaputta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 181,
+          "en": 180
+        }
+      }
+    ]
+  }
+}

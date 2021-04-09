@@ -1,0 +1,1520 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "to the higher mind",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "to the higher mind",
+    "method": "phrase",
+    "resultPattern": "\\bto the higher mind",
+    "segsMatched": 60,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.179_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.179_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.102_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.102_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn53_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn53_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.67_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.67_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga4/ud4.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga4/ud4.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.106_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.106_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn21/sn21.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn21/sn21.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn6_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn6_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn20_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn20_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn119_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn119_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn108_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn108_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga4/ud4.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga4/ud4.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag10.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag10.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.71_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.71_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.58_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.57_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.57_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.30_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.81_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.81_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.80_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.80_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.79_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.79_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.77_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.77_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.76_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.76_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.75_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.75_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.29_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.29_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.87_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.87_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.234_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.234_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.233_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.233_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.232_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.232_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.166_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.166_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.110_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.110_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.109_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.109_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.104_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.104_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.87_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.87_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.35_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.35_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.22_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.22_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.14_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.98_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.98_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.71_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.71_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.30_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.179/en/sujato",
+      "an3.102/en/sujato",
+      "mn53/en/sujato",
+      "an7.67/en/sujato",
+      "ud4.6/en/sujato",
+      "an5.106/en/sujato",
+      "sn21.4/en/sujato",
+      "mn6/en/sujato",
+      "mn20/en/sujato",
+      "mn119/en/sujato",
+      "mn108/en/sujato",
+      "ud4.7/en/sujato",
+      "thag10.7/en/sujato",
+      "dn28/en/sujato",
+      "dn14/en/sujato",
+      "an8.71/en/sujato",
+      "an8.58/en/sujato",
+      "an8.57/en/sujato",
+      "an8.30/en/sujato",
+      "an7.81/en/sujato",
+      "an7.80/en/sujato",
+      "an7.79/en/sujato",
+      "an7.77/en/sujato",
+      "an7.76/en/sujato",
+      "an7.75/en/sujato",
+      "an6.29/en/sujato",
+      "an5.87/en/sujato",
+      "an5.234/en/sujato",
+      "an5.233/en/sujato",
+      "an5.232/en/sujato",
+      "an5.166/en/sujato",
+      "an5.110/en/sujato",
+      "an5.109/en/sujato",
+      "an5.104/en/sujato",
+      "an4.87/en/sujato",
+      "an4.35/en/sujato",
+      "an4.22/en/sujato",
+      "an3.101/en/sujato",
+      "an11.14/en/sujato",
+      "an10.98/en/sujato",
+      "an10.8/en/sujato",
+      "an10.71/en/sujato",
+      "an10.30/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.179_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.179_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.179",
+        "lang": "en",
+        "segMap": {
+          "an5.179:1.3": {
+            "scid": "an5.179:1.3",
+            "pli": "“yaṁ kañci, sāriputta, jāneyyātha gihiṁ odātavasanaṁ pañcasu sikkhāpadesu saṁvutakammantaṁ catunnaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhiṁ akicchalābhiṁ akasiralābhiṁ, so ākaṅkhamāno attanāva attānaṁ byākareyya: ",
+            "en": "“You should know this, Sāriputta, about those white-clothed laypeople whose actions are restrained in the five precepts, and who get four blissful meditations in the present life belonging <span class=\"ebt-matched\">to the higher mind</span> when they want, without trouble or difficulty. They may, if they wish, declare of themselves: ",
+            "matched": true
+          },
+          "an5.179:3.1": {
+            "scid": "an5.179:3.1",
+            "pli": "Katamesaṁ catunnaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī? ",
+            "en": "And what are the four blissful meditations in the present life belonging <span class=\"ebt-matched\">to the higher mind</span> that they get when they want, without trouble or difficulty? ",
+            "matched": true
+          },
+          "an5.179:3.4": {
+            "scid": "an5.179:3.4",
+            "pli": "Ayamassa paṭhamo ābhicetasiko diṭṭhadhammasukhavihāro adhigato hoti avisuddhassa cittassa visuddhiyā apariyodātassa cittassa pariyodapanāya. ",
+            "en": "This is the first blissful meditation in the present life belonging <span class=\"ebt-matched\">to the higher mind</span>, which they achieve in order to purify the unpurified mind and cleanse the unclean mind. ",
+            "matched": true
+          },
+          "an5.179:6.2": {
+            "scid": "an5.179:6.2",
+            "pli": "Ayamassa catuttho ābhicetasiko diṭṭhadhammasukhavihāro adhigato hoti avisuddhassa cittassa visuddhiyā apariyodātassa cittassa pariyodapanāya. ",
+            "en": "This is the fourth blissful meditation in the present life belonging <span class=\"ebt-matched\">to the higher mind</span>, which they achieve in order to purify the unpurified mind and cleanse the unclean mind. ",
+            "matched": true
+          },
+          "an5.179:6.3": {
+            "scid": "an5.179:6.3",
+            "pli": "Imesaṁ catunnaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "These are the four blissful meditations in the present life belonging <span class=\"ebt-matched\">to the higher mind</span> that they get when they want, without trouble or difficulty. ",
+            "matched": true
+          },
+          "an5.179:7.1": {
+            "scid": "an5.179:7.1",
+            "pli": "Yaṁ kañci, sāriputta, jāneyyātha gihiṁ odātavasanaṁ—imesu pañcasu sikkhāpadesu saṁvutakammantaṁ, imesañca catunnaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhiṁ akicchalābhiṁ akasiralābhiṁ, so ākaṅkhamāno attanāva attānaṁ byākareyya: ",
+            "en": "You should know this, Sāriputta, about those white-clothed laypeople whose actions are restrained in the five precepts, and who get four blissful meditations in the present life belonging <span class=\"ebt-matched\">to the higher mind</span> when they want, without trouble or difficulty. They may, if they wish, declare of themselves: ",
+            "matched": true
+          }
+        },
+        "score": 6.07,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n18. A Lay Follower\n179. A Layperson",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 86,
+          "en": 85
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.102_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.102_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.102",
+        "lang": "en",
+        "segMap": {
+          "an3.102:1.1": {
+            "scid": "an3.102:1.1",
+            "pli": "“Adhicittamanuyuttena, bhikkhave, bhikkhunā tīṇi nimittāni kālena kālaṁ manasi kātabbāni—",
+            "en": "“Mendicants, a mendicant committed <span class=\"ebt-matched\">to the higher mind</span> should focus on three foundations from time to time: ",
+            "matched": true
+          },
+          "an3.102:1.3": {
+            "scid": "an3.102:1.3",
+            "pli": "Sace, bhikkhave, adhicittamanuyutto bhikkhu ekantaṁ samādhinimittaṁyeva manasi kareyya, ṭhānaṁ taṁ cittaṁ kosajjāya saṁvatteyya. ",
+            "en": "If a mendicant dedicated <span class=\"ebt-matched\">to the higher mind</span> focuses solely on the foundation of immersion, it’s likely their mind will incline to laziness. ",
+            "matched": true
+          },
+          "an3.102:1.6": {
+            "scid": "an3.102:1.6",
+            "pli": "Yato ca kho, bhikkhave, adhicittamanuyutto bhikkhu kālena kālaṁ samādhinimittaṁ manasi karoti, kālena kālaṁ paggahanimittaṁ manasi karoti, kālena kālaṁ upekkhānimittaṁ manasi karoti, taṁ hoti cittaṁ muduñca kammaniyañca pabhassarañca, na ca pabhaṅgu, sammā samādhiyati āsavānaṁ khayāya. ",
+            "en": "But when a mendicant dedicated <span class=\"ebt-matched\">to the higher mind</span> focuses from time to time on the foundation of immersion, the foundation of exertion, and the foundation of equanimity, their mind becomes pliable, workable, and radiant, not brittle, and has properly entered immersion for the ending of defilements. ",
+            "matched": true
+          },
+          "an3.102:3.1": {
+            "scid": "an3.102:3.1",
+            "pli": "Evamevaṁ kho, bhikkhave, adhicittamanuyuttena bhikkhunā tīṇi nimittāni kālena kālaṁ manasi kātabbāni—",
+            "en": "In the same way, a mendicant committed <span class=\"ebt-matched\">to the higher mind</span> should focus on three foundations from time to time: ",
+            "matched": true
+          },
+          "an3.102:3.6": {
+            "scid": "an3.102:3.6",
+            "pli": "Yato ca kho, bhikkhave, adhicittamanuyutto bhikkhu kālena kālaṁ samādhinimittaṁ manasi karoti, kālena kālaṁ paggahanimittaṁ manasi karoti, kālena kālaṁ upekkhānimittaṁ manasi karoti, taṁ hoti cittaṁ muduñca kammaniyañca pabhassarañca, na ca pabhaṅgu, sammā samādhiyati āsavānaṁ khayāya. ",
+            "en": "When a mendicant dedicated <span class=\"ebt-matched\">to the higher mind</span> focuses from time to time on the foundation of immersion, the foundation of exertion, and the foundation of equanimity, their mind becomes pliable, workable, and radiant, not brittle, and has properly entered immersion for the ending of defilements. ",
+            "matched": true
+          }
+        },
+        "score": 5.139,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n102. Foundations",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 36,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.67_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.67_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.67",
+        "lang": "en",
+        "segMap": {
+          "an7.67:13.3": {
+            "scid": "an7.67:13.3",
+            "pli": "Evamevaṁ kho, bhikkhave, yato ariyasāvako sattahi saddhammehi samannāgato hoti, catunnañca jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "In the same way, when a noble disciple has seven good qualities, and they get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty, ",
+            "matched": true
+          },
+          "an7.67:21.1": {
+            "scid": "an7.67:21.1",
+            "pli": "Katamesaṁ catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī? ",
+            "en": "And what are the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—that they get when they want, without trouble or difficulty? ",
+            "matched": true
+          },
+          "an7.67:24.5": {
+            "scid": "an7.67:24.5",
+            "pli": "Imesaṁ catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "These are the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—which they get when they want, without trouble or difficulty. ",
+            "matched": true
+          },
+          "an7.67:25.1": {
+            "scid": "an7.67:25.1",
+            "pli": "Yato kho, bhikkhave, ariyasāvako imehi sattahi saddhammehi samannāgato hoti, imesañca catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "When a noble disciple has seven good qualities, and they get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty, ",
+            "matched": true
+          }
+        },
+        "score": 4.041,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n7. The Great Chapter\n67. The Simile of the Citadel",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 97,
+          "en": 96
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn53_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn53_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn53",
+        "lang": "en",
+        "segMap": {
+          "mn53:6.2": {
+            "scid": "mn53:6.2",
+            "pli": "“idha, mahānāma, ariyasāvako sīlasampanno hoti, indriyesu guttadvāro hoti, bhojane mattaññū hoti, jāgariyaṁ anuyutto hoti, sattahi saddhammehi samannāgato hoti, catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "“Mahānāma, a noble disciple is accomplished in ethics, guards the sense doors, eats in moderation, and is dedicated to wakefulness. They have seven good qualities, and they get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          },
+          "mn53:18.1": {
+            "scid": "mn53:18.1",
+            "pli": "Kathañca, mahānāma, ariyasāvako catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī? ",
+            "en": "And how does a noble disciple get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty? ",
+            "matched": true
+          },
+          "mn53:18.6": {
+            "scid": "mn53:18.6",
+            "pli": "Evaṁ kho, mahānāma, ariyasāvako catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī.  ",
+            "en": "That’s how a noble disciple gets the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          },
+          "mn53:19.1": {
+            "scid": "mn53:19.1",
+            "pli": "Yato kho, mahānāma, ariyasāvako evaṁ sīlasampanno hoti, evaṁ indriyesu guttadvāro hoti, evaṁ bhojane mattaññū hoti, evaṁ jāgariyaṁ anuyutto hoti, evaṁ sattahi saddhammehi samannāgato hoti, evaṁ catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, ayaṁ vuccati, mahānāma, ariyasāvako sekho pāṭipado apuccaṇḍatāya samāpanno, bhabbo abhinibbhidāya, bhabbo sambodhāya, bhabbo anuttarassa yogakkhemassa adhigamāya. ",
+            "en": "When a noble disciple is accomplished in ethics, guards the sense doors, eats in moderation, and is dedicated to wakefulness; and they have seven good qualities, and they get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty, they are called a noble disciple who is a practicing trainee. Their eggs are unspoiled, and they are capable of breaking out of their shell, becoming awakened, and achieving the supreme sanctuary. ",
+            "matched": true
+          }
+        },
+        "score": 4.04,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 53\nA Trainee",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 100,
+          "en": 99
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga4/ud4.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga4/ud4.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud4.6",
+        "lang": "en",
+        "segMap": {
+          "ud4.6:1.3": {
+            "scid": "ud4.6:1.3",
+            "pli": "Tena kho pana samayena āyasmā piṇḍolabhāradvājo bhagavato avidūre nisinno hoti pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya āraññiko piṇḍapātiko paṁsukūliko tecīvariko appiccho santuṭṭho pavivitto asaṁsaṭṭho āraddhavīriyo dhutavādo adhicittamanuyutto.",
+            "en": "Now at that time Venerable Piṇḍola Bhāradvāja was sitting not far from the Buddha cross-legged, with his body straight. He was one who lived in the wilderness, ate only alms-food, wore rag robes, and owned just three robes. He was of few wishes, content, secluded, aloof, and energetic, an advocate of austerities, dedicated <span class=\"ebt-matched\">to the higher mind</span>.",
+            "matched": true
+          },
+          "ud4.6:4.5": {
+            "scid": "ud4.6:4.5",
+            "pli": "Adhicitte ca āyogo,",
+            "en": "commitment <span class=\"ebt-matched\">to the higher mind</span>—",
+            "matched": true
+          }
+        },
+        "score": 2.143,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n4.6. With Piṇḍola",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.106_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.106_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.106",
+        "lang": "en",
+        "segMap": {
+          "an5.106:5.6": {
+            "scid": "an5.106:5.6",
+            "pli": "catunnañca jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī; ",
+            "en": "And they get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          },
+          "an5.106:6.6": {
+            "scid": "an5.106:6.6",
+            "pli": "catunnañca jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī; ",
+            "en": "And they get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 2.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n11. Living Comfortably\n106. With Ānanda",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 36,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.87_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.87_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.87",
+        "lang": "en",
+        "segMap": {
+          "an5.87:1.6": {
+            "scid": "an5.87:1.6",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī; ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n9. Senior Mendicants\n87. Ethical",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.109_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.109_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.109",
+        "lang": "en",
+        "segMap": {
+          "an5.109:1.6": {
+            "scid": "an5.109:1.6",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī; ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n11. Living Comfortably\n109. All Four Directions",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.232_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.232_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.232",
+        "lang": "en",
+        "segMap": {
+          "an5.232:1.6": {
+            "scid": "an5.232:1.6",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī; ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n24. A Resident Mendicant\n232. Liked",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.233_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.233_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.233",
+        "lang": "en",
+        "segMap": {
+          "an5.233:1.7": {
+            "scid": "an5.233:1.7",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n24. A Resident Mendicant\n233. Beautification",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga4/ud4.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga4/ud4.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud4.7",
+        "lang": "en",
+        "segMap": {
+          "ud4.7:1.3": {
+            "scid": "ud4.7:1.3",
+            "pli": "Tena kho pana samayena āyasmā sāriputto bhagavato avidūre nisinno hoti pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya appiccho santuṭṭho pavivitto asaṁsaṭṭho āraddhavīriyo adhicittamanuyutto.",
+            "en": "Now at that time Venerable Sāriputta was sitting not far from the Buddha cross-legged, with his body straight. He was of few wishes, content, secluded, aloof, energetic, dedicated <span class=\"ebt-matched\">to the higher mind</span>.",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n4.7. With Sāriputta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.234_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.234_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.234",
+        "lang": "en",
+        "segMap": {
+          "an5.234:1.8": {
+            "scid": "an5.234:1.8",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n24. A Resident Mendicant\n234. Very Helpful",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 13,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.75_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.75_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.75",
+        "lang": "en",
+        "segMap": {
+          "an7.75:1.8": {
+            "scid": "an7.75:1.8",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n8. The Monastic Law\n75. An Expert in the Monastic Law (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.76_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.76_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.76",
+        "lang": "en",
+        "segMap": {
+          "an7.76:1.8": {
+            "scid": "an7.76:1.8",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n8. The Monastic Law\n76. An Expert in the Monastic Law (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.77_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.77_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.77",
+        "lang": "en",
+        "segMap": {
+          "an7.77:1.8": {
+            "scid": "an7.77:1.8",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n8. The Monastic Law\n77. An Expert in the Monastic Law (3rd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.79_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.79_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.79",
+        "lang": "en",
+        "segMap": {
+          "an7.79:1.8": {
+            "scid": "an7.79:1.8",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n8. The Monastic Law\n79. Shines as an Expert in the Monastic Law (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.80_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.80_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.80",
+        "lang": "en",
+        "segMap": {
+          "an7.80:1.8": {
+            "scid": "an7.80:1.8",
+            "pli": "catunnaṁ jhānānaṁ …pe… akasiralābhī, ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n8. The Monastic Law\n80. Shines as an Expert in the Monastic Law (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.81_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.81_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.81",
+        "lang": "en",
+        "segMap": {
+          "an7.81:1.8": {
+            "scid": "an7.81:1.8",
+            "pli": "catunnaṁ jhānānaṁ …pe… akasiralābhī, ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n8. The Monastic Law\n81. Shines as an Expert in the Monastic Law (3rd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.57_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.57",
+        "lang": "en",
+        "segMap": {
+          "an8.57:1.7": {
+            "scid": "an8.57:1.7",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī; ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n6. Gotamī\n57. Worthy of Offerings Dedicated to the Gods (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.58_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.58",
+        "lang": "en",
+        "segMap": {
+          "an8.58:1.9": {
+            "scid": "an8.58:1.9",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī; ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n6. Gotamī\n58. Worthy of Offerings Dedicated to the Gods (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.98_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.98_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.98",
+        "lang": "en",
+        "segMap": {
+          "an10.98:1.11": {
+            "scid": "an10.98:1.11",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n98. A Senior Mendicant",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.110_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.110_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.110",
+        "lang": "en",
+        "segMap": {
+          "an5.110:1.6": {
+            "scid": "an5.110:1.6",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī; ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n11. Living Comfortably\n110. Wilderness",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.104_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.104_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.104",
+        "lang": "en",
+        "segMap": {
+          "an5.104:2.6": {
+            "scid": "an5.104:2.6",
+            "pli": "Appābādho hoti, catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n11. Living Comfortably\n104. An Exquisite Ascetic of Ascetics",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.71_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.71_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.71",
+        "lang": "en",
+        "segMap": {
+          "an10.71:11.1": {
+            "scid": "an10.71:11.1",
+            "pli": "Ākaṅkheyya ce, bhikkhave, bhikkhu ‘catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī assaṁ akicchalābhī akasiralābhī’ti, sīlesvevassa …pe… brūhetā suññāgārānaṁ. ",
+            "en": "A mendicant might wish: ‘May I get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when I want, without trouble or difficulty.’ So let them fulfill their precepts … ",
+            "matched": true
+          }
+        },
+        "score": 1.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n8. If You Want\n71. One Might Wish",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.8",
+        "lang": "en",
+        "segMap": {
+          "an10.8:2.7": {
+            "scid": "an10.8:2.7",
+            "pli": "āraññiko ca pantasenāsano, no ca catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī … ",
+            "en": "they don’t get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty … ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n1. Benefits\n8. Inspiring All Around: the Absorptions",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.71_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.71_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.71",
+        "lang": "en",
+        "segMap": {
+          "an8.71:3.4": {
+            "scid": "an8.71:3.4",
+            "pli": "visārado ca parisāya dhammaṁ deseti, no ca catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī …pe… ",
+            "en": "they don’t get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty … ",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n8. Pairs\n71. Inspiring All Around (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn21/sn21.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn21/sn21.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn21.4",
+        "lang": "en",
+        "segMap": {
+          "sn21.4:3.3": {
+            "scid": "sn21.4:3.3",
+            "pli": "Eso kho, bhikkhave, bhikkhu catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī akicchalābhī akasiralābhī, yassa catthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharatī”ti. ",
+            "en": "This monk gets the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when he wants, without trouble or difficulty. He has realized the supreme culmination of the spiritual path in this very life, and lives having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.” ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 21\n1. Monks\n4. A Junior Mendicant",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.87_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.87_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.87",
+        "lang": "en",
+        "segMap": {
+          "an4.87:5.6": {
+            "scid": "an4.87:5.6",
+            "pli": "Catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n9. Confirmed\n87. The Son",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 35,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.22_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.22",
+        "lang": "en",
+        "segMap": {
+          "an4.22:4.5": {
+            "scid": "an4.22:4.5",
+            "pli": "Catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n3. At Uruvelā\n22. At Uruvelā (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 45,
+          "en": 44
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.30",
+        "lang": "en",
+        "segMap": {
+          "an10.30:10.1": {
+            "scid": "an10.30:10.1",
+            "pli": "Puna caparaṁ, bhante, bhagavā catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī akicchalābhī akasiralābhī. ",
+            "en": "Furthermore, the Buddha gets the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when he wants, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n3. The Great Chapter\n30. Kosala (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 49,
+          "en": 47
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn6_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn6",
+        "lang": "en",
+        "segMap": {
+          "mn6:9.1": {
+            "scid": "mn6:9.1",
+            "pli": "Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī assaṁ akicchalābhī akasiralābhī’ti, sīlesvevassa paripūrakārī …pe… brūhetā suññāgārānaṁ. ",
+            "en": "A mendicant might wish: ‘May I get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when I want, without trouble or difficulty.’ So let them fulfill their precepts … ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 6\nOne Might Wish",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 51,
+          "en": 50
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.101",
+        "lang": "en",
+        "segMap": {
+          "an3.101:2.1": {
+            "scid": "an3.101:2.1",
+            "pli": "Evamevaṁ kho, bhikkhave, santi adhicittamanuyuttassa bhikkhuno oḷārikā upakkilesā kāyaduccaritaṁ vacīduccaritaṁ manoduccaritaṁ, tamenaṁ sacetaso bhikkhu dabbajātiko pajahati vinodeti byantīkaroti anabhāvaṁ gameti. ",
+            "en": "In the same way, a mendicant who is committed <span class=\"ebt-matched\">to the higher mind</span> has coarse corruptions: bad bodily, verbal, and mental conduct. A sincere, capable mendicant gives these up, gets rid of, eliminates, and obliterates them. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n101. A Panner",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 52,
+          "en": 51
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.29_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.29",
+        "lang": "en",
+        "segMap": {
+          "an6.29:3.3": {
+            "scid": "an6.29:3.3",
+            "pli": "‘nevāyaṁ udāyī moghapuriso adhicittaṁ anuyutto viharatī’ti. ",
+            "en": "this silly man Udāyī is not committed <span class=\"ebt-matched\">to the higher mind</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n3. Unsurpassable\n29. With Udāyī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 52,
+          "en": 51
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.14_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.14_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.14",
+        "lang": "en",
+        "segMap": {
+          "an11.14:11.1": {
+            "scid": "an11.14:11.1",
+            "pli": "Puna caparaṁ, subhūti, bhikkhu catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "Furthermore, a mendicant gets the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n2. Recollection\n14. With Subhūti",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 54,
+          "en": 53
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag10.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag10.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag10.7",
+        "lang": "en",
+        "segMap": {
+          "thag10.7:5.3": {
+            "scid": "thag10.7:5.3",
+            "pli": "Adhicitte ca āyogo,",
+            "en": "commitment <span class=\"ebt-matched\">to the higher mind</span>—",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Tens\nChapter One\n10.7. Another Gotama",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 54,
+          "en": 44
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.35_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.35_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.35",
+        "lang": "en",
+        "segMap": {
+          "an4.35:3.9": {
+            "scid": "an4.35:3.9",
+            "pli": "Catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n4. Situations\n35. With Vassakāra",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 55,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.166_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.166_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.166",
+        "lang": "en",
+        "segMap": {
+          "an5.166:14.7": {
+            "scid": "an5.166:14.7",
+            "pli": "catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī; ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n17. Resentment\n166. Cessation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 78,
+          "en": 77
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn20_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn20",
+        "lang": "en",
+        "segMap": {
+          "mn20:2.1": {
+            "scid": "mn20:2.1",
+            "pli": "“Adhicittamanuyuttena, bhikkhave, bhikkhunā pañca nimittāni kālena kālaṁ manasi kātabbāni. ",
+            "en": "“Mendicants, a mendicant committed <span class=\"ebt-matched\">to the higher mind</span> should focus on five foundations of meditation from time to time. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 20\nHow to Stop Thinking",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 87,
+          "en": 85
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.30",
+        "lang": "en",
+        "segMap": {
+          "an8.30:8.1": {
+            "scid": "an8.30:8.1",
+            "pli": "Yato kho tvaṁ, anuruddha, ime ca aṭṭha mahāpurisavitakke vitakkessasi, imesañca catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī bhavissasi akicchalābhī akasiralābhī, tato tuyhaṁ, anuruddha, seyyathāpi nāma gahapatissa vā gahapatiputtassa vā nānārattānaṁ dussānaṁ dussakaraṇḍako pūro; ",
+            "en": "First you’ll reflect on these eight thoughts of a great man, and you’ll get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when you want, without trouble or difficulty. Then as you live contented your rag robe will seem to you like a chest full of garments of different colors seems to a householder or householder’s child. ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n3. Householders\n30. Anuruddha and the Great Thoughts",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 119,
+          "en": 117
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn108_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn108_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn108",
+        "lang": "en",
+        "segMap": {
+          "mn108:17.1": {
+            "scid": "mn108:17.1",
+            "pli": "Catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 108\nWith Moggallāna the Guardian",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 160,
+          "en": 159
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn119_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn119_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn119",
+        "lang": "en",
+        "segMap": {
+          "mn119:36.1": {
+            "scid": "mn119:36.1",
+            "pli": "Catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "They get the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when they want, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 119\nMindfulness of the Body",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 190,
+          "en": 173
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn28",
+        "lang": "en",
+        "segMap": {
+          "dn28:19.3": {
+            "scid": "dn28:19.3",
+            "pli": "Catunnañca bhagavā jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī akicchalābhī akasiralābhī. ",
+            "en": "He gets the four absorptions—blissful meditations in the present life that belong <span class=\"ebt-matched\">to the higher mind</span>—when he wants, without trouble or difficulty. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 28\nInspiring Confidence\n1. Sāriputta’s Lion’s Roar",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 250,
+          "en": 249
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn14",
+        "lang": "en",
+        "segMap": {
+          "dn14:3.28.14": {
+            "scid": "dn14:3.28.14",
+            "pli": "Adhicitte ca āyogo, ",
+            "en": "commitment <span class=\"ebt-matched\">to the higher mind</span>—",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 14\nThe Great Discourse on the Harvest of Deeds\n1. On Past Lives",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 851,
+          "en": 850
+        }
+      }
+    ]
+  }
+}

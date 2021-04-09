@@ -1,0 +1,170 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "chop into splinters",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "chop into splinters",
+    "method": "keywords",
+    "resultPattern": "\\bchop|\\binto|\\bsplinters",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.69_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.69_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.195_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.195_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.55_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.55_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.69/en/sujato",
+      "an4.195/en/sujato",
+      "dn23/en/sujato",
+      "sn12.55/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.55_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.55_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.55",
+        "lang": "en",
+        "segMap": {
+          "sn12.55:4.4": {
+            "scid": "sn12.55:4.4",
+            "pli": "So taṁ rukkhaṁ khaṇḍākhaṇḍikaṁ chindeyya, khaṇḍākhaṇḍikaṁ chinditvā phāleyya, phāletvā sakalikaṁ sakalikaṁ kareyya, sakalikaṁ sakalikaṁ karitvā vātātape visoseyya; ",
+            "en": "They’d cut the tree apart, cut up the parts, and <span class=\"ebt-matched\">chop</span> it <span class=\"ebt-matched\">into</span> <span class=\"ebt-matched\">splinters</span>. They’d dry the <span class=\"ebt-matched\">splinters</span> in the wind and sun, burn them with fire, and reduce them to ashes. Then they’d winnow the ashes in a strong wind, or float them away down a swift stream. ",
+            "matched": true
+          }
+        },
+        "score": 1.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n6. Suffering\n55. A Great Tree",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 29,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.69_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.69_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.69",
+        "lang": "en",
+        "segMap": {
+          "an3.69:15.8": {
+            "scid": "an3.69:15.8",
+            "pli": "So taṁ māluvālataṁ khaṇḍākhaṇḍikaṁ chindeyya, khaṇḍākhaṇḍikaṁ chetvā phāleyya, phāletvā sakalikaṁ sakalikaṁ kareyya, sakalikaṁ sakalikaṁ karitvā vātātape visoseyya, vātātape visosetvā agginā ḍaheyya, agginā ḍahitvā masiṁ kareyya, masiṁ karitvā mahāvāte vā ophuṇeyya nadiyā vā sīghasotāya pavāheyya. ",
+            "en": "Then they’d split the creeper apart, cut up the parts, and <span class=\"ebt-matched\">chop</span> it <span class=\"ebt-matched\">into</span> <span class=\"ebt-matched\">splinters</span>. They’d dry the <span class=\"ebt-matched\">splinters</span> in the wind and sun, burn them with fire, and reduce them to ashes. Then they’d sweep away the ashes in a strong wind, or float them away down a swift stream. ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n69. Unskillful Roots",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 79,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.195_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.195_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.195",
+        "lang": "en",
+        "segMap": {
+          "an4.195:11.8": {
+            "scid": "an4.195:11.8",
+            "pli": "Phāletvā sakalikaṁ sakalikaṁ kareyya. ",
+            "en": "and <span class=\"ebt-matched\">chop</span> them <span class=\"ebt-matched\">into</span> <span class=\"ebt-matched\">splinters</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n20. The Great Chapter\n195. With Vappa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 89,
+          "en": 88
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "en",
+        "segMap": {
+          "dn23:21.30": {
+            "scid": "dn23:21.30",
+            "pli": "Araṇisahitaṁ dvidhā phālesi, tidhā phālesi, catudhā phālesi, pañcadhā phālesi, dasadhā phālesi, satadhā phālesi, sakalikaṁ sakalikaṁ akāsi, sakalikaṁ sakalikaṁ karitvā udukkhale koṭṭesi, udukkhale koṭṭetvā mahāvāte opuni: ",
+            "en": "He split the bundle of drill-sticks <span class=\"ebt-matched\">into</span> two, three, four, five, ten, or a hundred parts. He <span class=\"ebt-matched\">chop</span>ped them <span class=\"ebt-matched\">into</span> <span class=\"ebt-matched\">splinters</span>, pounded them in a mortar, and swept them away in a strong wind, thinking, ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 23\nWith Pāyāsi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 715,
+          "en": 713
+        }
+      }
+    ]
+  }
+}

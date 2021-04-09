@@ -1,0 +1,129 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "drei dinge.* entwickelt werden",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "drei dinge.* entwickelt werden",
+    "method": "phrase",
+    "resultPattern": "\\bdrei dinge.* entwickelt werden",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.183-352_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.183-352_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.183-352_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.183-352/de/sabbamitta",
+      "dn34/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.183-352_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.183-352_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.183-352_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.183-352",
+        "lang": "de",
+        "segMap": {
+          "an3.183-352:1.1": {
+            "scid": "an3.183-352:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya tayo dhammā bhāvetabbā. ",
+            "de": "„Um Gier unmittelbar zu erkennen, müssen <span class=\"ebt-matched\">drei Dinge entwickelt werden</span>. ",
+            "en": "“For insight into greed, three things should be developed. ",
+            "matched": true
+          },
+          "an3.183-352:1.4": {
+            "scid": "an3.183-352:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime tayo dhammā bhāvetabbā. (…)",
+            "de": "Um Gier unmittelbar zu erkennen, müssen diese <span class=\"ebt-matched\">drei Dinge entwickelt werden</span>. ",
+            "en": "For insight into greed, these three things should be developed. ",
+            "matched": true
+          },
+          "an3.183-352:3.26": {
+            "scid": "an3.183-352:3.26",
+            "pli": "paṭinissaggāya ime tayo dhammā bhāvetabbā”ti. ",
+            "de": "Um Nachlässigkeit loszulassen müssen diese <span class=\"ebt-matched\">drei Dinge entwickelt werden</span>.“ ",
+            "en": "For the letting go of negligence, these three things should be developed.” ",
+            "matched": true
+          }
+        },
+        "score": 3.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n18. Abgekürzte Texte, die mit Gier beginnen\n183–352",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 66,
+          "de": 65,
+          "en": 65
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.4.5": {
+            "scid": "dn34:1.4.5",
+            "pli": "Katame tayo dhammā bhāvetabbā? ",
+            "de": "Welche <span class=\"ebt-matched\">drei Dinge müssen entwickelt werden</span>? ",
+            "en": "What three things should be developed? ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "hat.* aufgehört",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "hat.* aufgehört",
+    "method": "phrase",
+    "resultPattern": "\\bhat.* aufgehört",
+    "segsMatched": 18,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/de/sabbamitta",
+      "dn33/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:2.2.80": {
+            "scid": "dn34:2.2.80",
+            "pli": "paṭhamaṁ jhānaṁ samāpannassa kāmasaññā niruddhā hoti, ",
+            "de": "Wenn man die erste Vertiefung erreicht <span class=\"ebt-matched\">hat, hat sinnliche Wahrnehmung aufgehört</span>. ",
+            "en": "For someone who has attained the first absorption, sensual perceptions have ceased. ",
+            "matched": true
+          },
+          "dn34:2.2.81": {
+            "scid": "dn34:2.2.81",
+            "pli": "dutiyaṁ jhānaṁ samāpannassa vitakkavicārā niruddhā honti, ",
+            "de": "Wenn man die zweite Vertiefung erreicht <span class=\"ebt-matched\">hat, hat das Ausrichten und Halten des Geistes aufgehört</span>. ",
+            "en": "For someone who has attained the second absorption, the placing of the mind and keeping it connected have ceased. ",
+            "matched": true
+          },
+          "dn34:2.2.82": {
+            "scid": "dn34:2.2.82",
+            "pli": "tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti, ",
+            "de": "Wenn man die dritte Vertiefung erreicht <span class=\"ebt-matched\">hat, hat Ekstase aufgehört</span>. ",
+            "en": "For someone who has attained the third absorption, rapture has ceased. ",
+            "matched": true
+          },
+          "dn34:2.2.83": {
+            "scid": "dn34:2.2.83",
+            "pli": "catutthaṁ jhānaṁ samāpannassa assāsapassāssā niruddhā honti, ",
+            "de": "Wenn man die vierte Vertiefung erreicht <span class=\"ebt-matched\">hat, hat das Atmen aufgehört</span>. ",
+            "en": "For someone who has attained the fourth absorption, breathing has ceased. ",
+            "matched": true
+          },
+          "dn34:2.2.84": {
+            "scid": "dn34:2.2.84",
+            "pli": "ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti, ",
+            "de": "Wenn man die Dimension des unendlichen Raumes erreicht <span class=\"ebt-matched\">hat, hat die Formwahrnehmung aufgehört</span>. ",
+            "en": "For someone who has attained the dimension of infinite space, the perception of form has ceased. ",
+            "matched": true
+          },
+          "dn34:2.2.85": {
+            "scid": "dn34:2.2.85",
+            "pli": "viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti, ",
+            "de": "Wenn man die Dimension des unendlichen Bewusstseins erreicht <span class=\"ebt-matched\">hat, hat die Wahrnehmung der Dimension des unendlichen Raumes aufgehört</span>. ",
+            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space has ceased. ",
+            "matched": true
+          },
+          "dn34:2.2.86": {
+            "scid": "dn34:2.2.86",
+            "pli": "ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti, ",
+            "de": "Wenn man die Dimension des Nichts erreicht <span class=\"ebt-matched\">hat, hat die Wahrnehmung der Dimension des unendlichen Bewusstseins aufgehört</span>. ",
+            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness has ceased. ",
+            "matched": true
+          },
+          "dn34:2.2.87": {
+            "scid": "dn34:2.2.87",
+            "pli": "nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti, ",
+            "de": "Wenn man die Dimension ‚weder Wahrnehmung noch keine Wahrnehmung‘ erreicht <span class=\"ebt-matched\">hat, hat die Wahrnehmung der Dimension des Nichts aufgehört</span>. ",
+            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness has ceased. ",
+            "matched": true
+          },
+          "dn34:2.2.88": {
+            "scid": "dn34:2.2.88",
+            "pli": "saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti. ",
+            "de": "Wenn man das Aufhören von Wahrnehmung und Gefühl erreicht <span class=\"ebt-matched\">hat, haben Wahrnehmung und Gefühl aufgehört</span>. ",
+            "en": "For someone who has attained the cessation of perception and feeling, perception and feeling have ceased. ",
+            "matched": true
+          }
+        },
+        "score": 9.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 9,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:3.2.83": {
+            "scid": "dn33:3.2.83",
+            "pli": "Paṭhamaṁ jhānaṁ samāpannassa kāmasaññā niruddhā hoti. ",
+            "de": "Wenn man die erste Vertiefung erreicht <span class=\"ebt-matched\">hat, hat sinnliche Wahrnehmung aufgehört</span>. ",
+            "en": "For someone who has attained the first absorption, sensual perceptions have ceased. ",
+            "matched": true
+          },
+          "dn33:3.2.84": {
+            "scid": "dn33:3.2.84",
+            "pli": "Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā niruddhā honti. ",
+            "de": "Wenn man die zweite Vertiefung erreicht <span class=\"ebt-matched\">hat, hat das Ausrichten und Halten des Geistes aufgehört</span>. ",
+            "en": "For someone who has attained the second absorption, the placing of the mind and keeping it connected have ceased. ",
+            "matched": true
+          },
+          "dn33:3.2.85": {
+            "scid": "dn33:3.2.85",
+            "pli": "Tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti. ",
+            "de": "Wenn man die dritte Vertiefung erreicht <span class=\"ebt-matched\">hat, hat Ekstase aufgehört</span>. ",
+            "en": "For someone who has attained the third absorption, rapture has ceased. ",
+            "matched": true
+          },
+          "dn33:3.2.86": {
+            "scid": "dn33:3.2.86",
+            "pli": "Catutthaṁ jhānaṁ samāpannassa assāsapassāssā niruddhā honti. ",
+            "de": "Wenn man die vierte Vertiefung erreicht <span class=\"ebt-matched\">hat, hat das Atmen aufgehört</span>. ",
+            "en": "For someone who has attained the fourth absorption, breathing has ceased. ",
+            "matched": true
+          },
+          "dn33:3.2.87": {
+            "scid": "dn33:3.2.87",
+            "pli": "Ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti. ",
+            "de": "Wenn man die Dimension des unendlichen Raumes erreicht <span class=\"ebt-matched\">hat, hat die Formwahrnehmung aufgehört</span>. ",
+            "en": "For someone who has attained the dimension of infinite space, the perception of form has ceased. ",
+            "matched": true
+          },
+          "dn33:3.2.88": {
+            "scid": "dn33:3.2.88",
+            "pli": "Viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti. ",
+            "de": "Wenn man die Dimension des unendlichen Bewusstseins erreicht <span class=\"ebt-matched\">hat, hat die Wahrnehmung der Dimension des unendlichen Raumes aufgehört</span>. ",
+            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space has ceased. ",
+            "matched": true
+          },
+          "dn33:3.2.89": {
+            "scid": "dn33:3.2.89",
+            "pli": "Ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti. ",
+            "de": "Wenn man die Dimension des Nichts erreicht <span class=\"ebt-matched\">hat, hat die Wahrnehmung der Dimension des unendlichen Bewusstseins aufgehört</span>. ",
+            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness has ceased. ",
+            "matched": true
+          },
+          "dn33:3.2.90": {
+            "scid": "dn33:3.2.90",
+            "pli": "Nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti. ",
+            "de": "Wenn man die Dimension ‚weder Wahrnehmung noch keine Wahrnehmung‘ erreicht <span class=\"ebt-matched\">hat, hat die Wahrnehmung der Dimension des Nichts aufgehört</span>. ",
+            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness has ceased. ",
+            "matched": true
+          },
+          "dn33:3.2.91": {
+            "scid": "dn33:3.2.91",
+            "pli": "Saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti. ",
+            "de": "Wenn man das Aufhören von Wahrnehmung und Gefühl erreicht <span class=\"ebt-matched\">hat, haben Wahrnehmung und Gefühl aufgehört</span>. ",
+            "en": "For someone who has attained the cessation of perception and feeling, perception and feeling have ceased. ",
+            "matched": true
+          }
+        },
+        "score": 9.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 9,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

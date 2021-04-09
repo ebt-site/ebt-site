@@ -1,0 +1,226 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "unsurpassable things",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "unsurpassable things",
+    "method": "phrase",
+    "resultPattern": "\\bunsurpassable things",
+    "segsMatched": 9,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.170-187_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.170-187_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.30_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn33/en/sujato",
+      "an1.170-187/en/sujato",
+      "dn34/en/sujato",
+      "an6.8/en/sujato",
+      "an6.30/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.8",
+        "lang": "en",
+        "segMap": {
+          "an6.8:1.1": {
+            "scid": "an6.8:1.1",
+            "pli": "“Chayimāni, bhikkhave, anuttariyāni. ",
+            "en": "“Mendicants, these six things are unsurpassable. ",
+            "matched": true
+          },
+          "an6.8:1.4": {
+            "scid": "an6.8:1.4",
+            "pli": "Imāni kho, bhikkhave, cha anuttariyānī”ti. ",
+            "en": "These are the six <span class=\"ebt-matched\">unsurpassable things</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n1. Worthy of Offerings\n8. Unsurpassable",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.170-187_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.170-187_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.170-187",
+        "lang": "en",
+        "segMap": {
+          "an1.175-186:1.1": {
+            "scid": "an1.175-186:1.1",
+            "pli": "“Ekapuggalassa, bhikkhave, pātubhāvā mahato cakkhussa pātubhāvo hoti, mahato ālokassa pātubhāvo hoti, mahato obhāsassa pātubhāvo hoti, channaṁ anuttariyānaṁ pātubhāvo hoti, catunnaṁ paṭisambhidānaṁ sacchikiriyā hoti, anekadhātupaṭivedho hoti, nānādhātupaṭivedho hoti, vijjāvimuttiphalasacchikiriyā hoti, sotāpattiphalasacchikiriyā hoti, sakadāgāmiphalasacchikiriyā hoti, anāgāmiphalasacchikiriyā hoti, arahattaphalasacchikiriyā hoti. ",
+            "en": "“With the appearance of one person, mendicants, there is the appearance of a great eye, a great light, a great radiance, and the six <span class=\"ebt-matched\">unsurpassable things</span>; the realization of the four kinds of textual analysis; the penetration of many and diverse elements; the realization of the fruit of knowledge and freedom; the realization of the fruits of stream-entry, once-return, non-return, and perfection. ",
+            "matched": true
+          },
+          "an1.175-186:1.4": {
+            "scid": "an1.175-186:1.4",
+            "pli": "Imassa kho, bhikkhave, ekapuggalassa pātubhāvā mahato cakkhussa pātubhāvo hoti, mahato ālokassa pātubhāvo hoti, mahato obhāsassa pātubhāvo hoti, channaṁ anuttariyānaṁ pātubhāvo hoti, catunnaṁ paṭisambhidānaṁ sacchikiriyā hoti, anekadhātupaṭivedho hoti, nānādhātupaṭivedho hoti, vijjāvimuttiphalasacchikiriyā hoti, sotāpattiphalasacchikiriyā hoti, sakadāgāmiphalasacchikiriyā hoti, anāgāmiphalasacchikiriyā hoti, arahattaphalasacchikiriyā hotī”ti. ",
+            "en": "This is the one person whose appearance brings the appearance of a great eye, a great light, a great radiance, and the six <span class=\"ebt-matched\">unsurpassable things</span>; the realization of the four kinds of textual analysis; the penetration of many and diverse elements; the realization of the fruit of knowledge and release; the realization of the fruits of stream-entry, once-return, non-return, and perfection.” ",
+            "matched": true
+          }
+        },
+        "score": 2.054,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 1\n13. One Person\n170–187",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.30",
+        "lang": "en",
+        "segMap": {
+          "an6.30:1.1": {
+            "scid": "an6.30:1.1",
+            "pli": "“Chayimāni, bhikkhave, anuttariyāni. ",
+            "en": "“Mendicants, these six things are unsurpassable. ",
+            "matched": true
+          },
+          "an6.30:8.1": {
+            "scid": "an6.30:8.1",
+            "pli": "Imāni kho, bhikkhave, cha anuttariyānīti. ",
+            "en": "These are the six <span class=\"ebt-matched\">unsurpassable things</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n3. Unsurpassable\n30. Unsurpassable",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 67,
+          "en": 65
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:1.10.118": {
+            "scid": "dn33:1.10.118",
+            "pli": "Tīṇi anuttariyāni—",
+            "en": "Three <span class=\"ebt-matched\">unsurpassable things</span>: ",
+            "matched": true
+          },
+          "dn33:2.2.112": {
+            "scid": "dn33:2.2.112",
+            "pli": "Cha anuttariyāni—",
+            "en": "Six <span class=\"ebt-matched\">unsurpassable things</span>: ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.7.80": {
+            "scid": "dn34:1.7.80",
+            "pli": "Cha anuttariyāni—",
+            "en": "Six <span class=\"ebt-matched\">unsurpassable things</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

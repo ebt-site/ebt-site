@@ -1,0 +1,900 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "kennzeichen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "kennzeichen",
+    "method": "phrase",
+    "resultPattern": "\\bkennzeichen",
+    "segsMatched": 81,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/mn/mn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/mn/mn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.47_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.47_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.47_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.3_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.3_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn22/sn22.59_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.59_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.192_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.192_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.192_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.59_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.59_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.59_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.58_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.58_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.2_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.2_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.2_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn30/de/sabbamitta",
+      "mn33/de/sabbamitta",
+      "an3.47/de/sabbamitta",
+      "dn14/de/sabbamitta",
+      "an3.3/de/sabbamitta",
+      "sn22.59/de/sabbamitta",
+      "an5.192/de/sabbamitta",
+      "an3.59/de/sabbamitta",
+      "an3.58/de/sabbamitta",
+      "an3.2/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn30",
+        "lang": "de",
+        "segMap": {
+          "dn30:0.2": {
+            "scid": "dn30:0.2",
+            "pli": "Lakkhaṇasutta ",
+            "de": "<span class=\"ebt-matched\">Kennzeichen</span> eines großen Mannes ",
+            "en": "The Marks of a Great Man ",
+            "matched": true
+          },
+          "dn30:1.1.7": {
+            "scid": "dn30:1.1.7",
+            "pli": "“Dvattiṁsimāni, bhikkhave, mahāpurisassa mahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā. ",
+            "de": "„Es gibt zweiunddreißig <span class=\"ebt-matched\">Kennzeichen</span> eines großen Mannes. Für einen großen Mann, der diese besitzt, gibt es zwei mögliche Schicksale, kein anderes. ",
+            "en": "“There are thirty-two marks of a great man. A great man who possesses these has only two possible destinies, no other. ",
+            "matched": true
+          },
+          "dn30:1.2.1": {
+            "scid": "dn30:1.2.1",
+            "pli": "Katamāni ca tāni, bhikkhave, dvattiṁsa mahāpurisassa mahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā? ",
+            "de": "Und was sind die zweiunddreißig <span class=\"ebt-matched\">Kennzeichen</span>? ",
+            "en": "And what are the thirty-two marks? ",
+            "matched": true
+          },
+          "dn30:1.3.1": {
+            "scid": "dn30:1.3.1",
+            "pli": "Imāni kho tāni, bhikkhave, dvattiṁsa mahāpurisassa mahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā. ",
+            "de": "Das sind die zweiunddreißig <span class=\"ebt-matched\">Kennzeichen</span> eines großen Mannes. Für einen großen Mann, der diese besitzt, gibt es zwei mögliche Schicksale, kein anderes. ",
+            "en": "These are the thirty-two marks of a great man. A great man who possesses these has only two possible destinies, no other. ",
+            "matched": true
+          },
+          "dn30:1.3.4": {
+            "scid": "dn30:1.3.4",
+            "pli": "Imāni kho, bhikkhave, dvattiṁsa mahāpurisassa mahāpurisalakkhaṇāni bāhirakāpi isayo dhārenti, no ca kho te jānanti: ",
+            "de": "Seher von außenstehenden Lehren erinnern sich an diese <span class=\"ebt-matched\">Kennzeichen</span>, aber sie wissen nicht, ",
+            "en": "Seers who are outsiders remember these marks, but they do not know ",
+            "matched": true
+          },
+          "dn30:1.3.5": {
+            "scid": "dn30:1.3.5",
+            "pli": "‘imassa kammassa kaṭattā idaṁ lakkhaṇaṁ paṭilabhatī’ti. ",
+            "de": "welche Handlungen in der Vergangenheit jeweils dazu führten, ein bestimmtes <span class=\"ebt-matched\">Kennzeichen</span> zu erlangen. ",
+            "en": "the specific deeds performed in the past to obtain each mark. ",
+            "matched": true
+          },
+          "dn30:1.4.4": {
+            "scid": "dn30:1.4.4",
+            "pli": "So tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati. ",
+            "de": "Als er von dort verschied und zu diesem Daseinszustand zurückkam, erlangte er dieses <span class=\"ebt-matched\">Kennzeichen</span> eines großen Mannes: ",
+            "en": "When he passed away from there and came back to this state of existence he obtained this mark of a great man: ",
+            "matched": true
+          },
+          "dn30:1.5.1": {
+            "scid": "dn30:1.5.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
+            "de": "Da er dieses <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.6.13": {
+            "scid": "dn30:1.6.13",
+            "pli": "Taṁ lakkhaṇaṁ bhavati tadatthajotakaṁ. ",
+            "de": "Das ist die Bedeutung, die dieses <span class=\"ebt-matched\">Kennzeichen</span> zeigt. ",
+            "en": "That’s the meaning shown by this mark. ",
+            "matched": true
+          },
+          "dn30:1.7.4": {
+            "scid": "dn30:1.7.4",
+            "pli": "so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er dieses <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained this mark: ",
+            "matched": true
+          },
+          "dn30:1.8.1": {
+            "scid": "dn30:1.8.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.10.4": {
+            "scid": "dn30:1.10.4",
+            "pli": "so tato cuto itthattaṁ āgato samāno imāni tīṇi mahāpurisalakkhaṇāni paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er diese drei <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained these three marks: ",
+            "matched": true
+          },
+          "dn30:1.11.1": {
+            "scid": "dn30:1.11.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.12.7": {
+            "scid": "dn30:1.12.7",
+            "pli": "Paṭilabhati idha tīṇi lakkhaṇāni; ",
+            "de": "erlangte er diese drei <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "he obtained these three marks: ",
+            "matched": true
+          },
+          "dn30:1.12.12": {
+            "scid": "dn30:1.12.12",
+            "pli": "Dīghā tībhi purisavaraggalakkhaṇehi, ",
+            "de": "Aufgrund dieser drei <span class=\"ebt-matched\">Kennzeichen</span> eines ausgezeichneten Mannes ",
+            "en": "By these three marks of an excellent man, ",
+            "matched": true
+          },
+          "dn30:1.13.4": {
+            "scid": "dn30:1.13.4",
+            "pli": "so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati, sattussado hoti, sattassa ussadā honti; ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er dieses <span class=\"ebt-matched\">Kennzeichen</span>: Seine Muskeln sind an sieben Stellen ausgebaucht. ",
+            "en": "When he came back to this state of existence he obtained this mark: he has bulging muscles in seven places. ",
+            "matched": true
+          },
+          "dn30:1.14.1": {
+            "scid": "dn30:1.14.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.16.5": {
+            "scid": "dn30:1.16.5",
+            "pli": "so tato cuto itthattaṁ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er diese beiden <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained these two marks: ",
+            "matched": true
+          },
+          "dn30:1.17.1": {
+            "scid": "dn30:1.17.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.19.4": {
+            "scid": "dn30:1.19.4",
+            "pli": "so tato cuto itthattaṁ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er diese beiden <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained these two marks: ",
+            "matched": true
+          },
+          "dn30:1.20.1": {
+            "scid": "dn30:1.20.1",
+            "pli": "So tehi lakkhaṇehi samannāgato, sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.21.8": {
+            "scid": "dn30:1.21.8",
+            "pli": "Lakkhaṇāni ca duve idhāgato, ",
+            "de": "Bei seiner Rückkehr hierher finden sich zwei <span class=\"ebt-matched\">Kennzeichen</span> ",
+            "en": "On return to here two marks are found, ",
+            "matched": true
+          },
+          "dn30:1.22.5": {
+            "scid": "dn30:1.22.5",
+            "pli": "so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er dieses <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained this mark: ",
+            "matched": true
+          },
+          "dn30:1.23.1": {
+            "scid": "dn30:1.23.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.25.5": {
+            "scid": "dn30:1.25.5",
+            "pli": "so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er dieses <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained this mark: ",
+            "matched": true
+          },
+          "dn30:1.26.1": {
+            "scid": "dn30:1.26.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.28.6": {
+            "scid": "dn30:1.28.6",
+            "pli": "so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er dieses <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained this mark: ",
+            "matched": true
+          },
+          "dn30:1.29.1": {
+            "scid": "dn30:1.29.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.31.5": {
+            "scid": "dn30:1.31.5",
+            "pli": "so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati—",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er dieses <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained this mark: ",
+            "matched": true
+          },
+          "dn30:1.32.1": {
+            "scid": "dn30:1.32.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.33.17": {
+            "scid": "dn30:1.33.17",
+            "pli": "Taṁ lakkhaṇaṁ jāyati tadatthajotakan”ti. ",
+            "de": "das ist die Bedeutung, die dieses <span class=\"ebt-matched\">Kennzeichen</span> anzeigt.“ ",
+            "en": "that’s the meaning shown by this mark.” ",
+            "matched": true
+          },
+          "dn30:2.1.5": {
+            "scid": "dn30:2.1.5",
+            "pli": "so tato cuto itthattaṁ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er diese beiden <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained these two marks: ",
+            "matched": true
+          },
+          "dn30:2.2.1": {
+            "scid": "dn30:2.2.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.3.11": {
+            "scid": "dn30:2.3.11",
+            "pli": "Atinipuṇā manujā byākariṁsu; ",
+            "de": "verschiedenen Zeichen und <span class=\"ebt-matched\">Kennzeichen</span> kennen, sagten voraus: ",
+            "en": "signs and marks prophesied: ",
+            "matched": true
+          },
+          "dn30:2.4.5": {
+            "scid": "dn30:2.4.5",
+            "pli": "so tato cuto itthattaṁ āgato samāno imāni tīṇi mahāpurisalakkhaṇāni paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er diese drei <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained these three marks: ",
+            "matched": true
+          },
+          "dn30:2.5.1": {
+            "scid": "dn30:2.5.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.7.4": {
+            "scid": "dn30:2.7.4",
+            "pli": "so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati, rasaggasaggī hoti, uddhaggāssa rasaharaṇīyo gīvāya jātā honti samābhivāhiniyo. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er dieses <span class=\"ebt-matched\">Kennzeichen</span>: Sein Geschmackssinn ist hervorragend. In der Kehle werden Geschmacksknospen für die Zungenspitze gebildet und gleichmäßig verteilt. ",
+            "en": "When he came back to this state of existence he obtained this mark: he has an excellent sense of taste. Taste-buds are produced in the throat for the tongue-tip and dispersed evenly. ",
+            "matched": true
+          },
+          "dn30:2.8.1": {
+            "scid": "dn30:2.8.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.9.13": {
+            "scid": "dn30:2.9.13",
+            "pli": "Taṁ lakkhaṇaṁ bhavati tadatthajotakan”ti. ",
+            "de": "Das ist die Bedeutung, die dieses <span class=\"ebt-matched\">Kennzeichen</span> anzeigt.“ ",
+            "en": "That’s the meaning shown by this mark.’” ",
+            "matched": true
+          },
+          "dn30:2.10.4": {
+            "scid": "dn30:2.10.4",
+            "pli": "so tato cuto itthattaṁ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er diese beiden <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained these two marks: ",
+            "matched": true
+          },
+          "dn30:2.11.1": {
+            "scid": "dn30:2.11.1",
+            "pli": "So tehi lakkhaṇehi samannāgato, sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.13.4": {
+            "scid": "dn30:2.13.4",
+            "pli": "so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati—",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er dieses <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained this mark: ",
+            "matched": true
+          },
+          "dn30:2.14.1": {
+            "scid": "dn30:2.14.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.16.4": {
+            "scid": "dn30:2.16.4",
+            "pli": "so tato cuto itthattaṁ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er diese beiden <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained these two marks: ",
+            "matched": true
+          },
+          "dn30:2.17.1": {
+            "scid": "dn30:2.17.1",
+            "pli": "So tehi lakkhaṇehi samannāgato, sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.18.10": {
+            "scid": "dn30:2.18.10",
+            "pli": "Taṁ lakkhaṇaññū bahavo samāgatā, ",
+            "de": "Viele Wahrsager, in den <span class=\"ebt-matched\">Kennzeichen</span> bewandert ",
+            "en": "Many soothsayers learned in marks ",
+            "matched": true
+          },
+          "dn30:2.19.4": {
+            "scid": "dn30:2.19.4",
+            "pli": "so tato cuto itthattaṁ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er diese beiden <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained these two marks: ",
+            "matched": true
+          },
+          "dn30:2.20.1": {
+            "scid": "dn30:2.20.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.22.4": {
+            "scid": "dn30:2.22.4",
+            "pli": "so tato cuto itthattaṁ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er diese beiden <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained these two marks: ",
+            "matched": true
+          },
+          "dn30:2.23.1": {
+            "scid": "dn30:2.23.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.25.4": {
+            "scid": "dn30:2.25.4",
+            "pli": "so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati, ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er dieses <span class=\"ebt-matched\">Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained this mark: ",
+            "matched": true
+          },
+          "dn30:2.26.1": {
+            "scid": "dn30:2.26.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein Rad-drehender Herrscher werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.28.5": {
+            "scid": "dn30:2.28.5",
+            "pli": "So tato cuto itthattaṁ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati, samadanto ca hoti susukkadāṭho ca. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er diese beiden <span class=\"ebt-matched\">Kennzeichen</span>: Seine Zähne sind ebenmäßig und von reinstem Weiß. ",
+            "en": "When he came back to this state of existence he obtained these two marks: his teeth are even and perfectly white. ",
+            "matched": true
+          },
+          "dn30:2.29.1": {
+            "scid": "dn30:2.29.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
+            "de": "Da er diese <span class=\"ebt-matched\">Kennzeichen</span> besitzt, wird er, wenn er im Haus bleibt, ein König, ein Rad-drehender Herrscher, ein gerechter König, der sich an Grundsätze hält. Sein Herrschaftsgebiet erstreckt sich nach allen vier Seiten bis zum Ende, er macht das Land sicher und er besitzt die sieben Juwelen. ",
+            "en": "Possessing these marks, if he stays at home he becomes a king, a wheel-turning monarch, a just and principled king. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "matched": true
+          }
+        },
+        "score": 54.075,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 30\nKennzeichen eines großen Mannes",
+        "segsMatched": 54,
+        "langSegs": {
+          "pli": 721,
+          "de": 716,
+          "en": 720
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/mn/mn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/mn/mn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn33",
+        "lang": "de",
+        "segMap": {
+          "mn33:2.3": {
+            "scid": "mn33:2.3",
+            "pli": "Idha, bhikkhave, gopālako na rūpaññū hoti, na lakkhaṇakusalo hoti, na āsāṭikaṁ hāretā hoti, na vaṇaṁ paṭicchādetā hoti, na dhūmaṁ kattā hoti, na titthaṁ jānāti, na pītaṁ jānāti, na vīthiṁ jānāti, na gocarakusalo hoti anavasesadohī ca hoti. Ye te usabhā gopitaro gopariṇāyakā te na atirekapūjāya pūjetā hoti. ",
+            "de": "Da weiß ein Kuhhirte nicht, was Form ist, kennt sich mit den <span class=\"ebt-matched\">Kennzeichen</span> nicht aus, liest Fliegeneier nicht aus, verbindet Wunden nicht, räuchert Schädlinge nicht aus, kennt die Furt nicht, kennt Zufriedenheit nicht, kennt den Weg nicht, kennt sich mit den Weiden nicht aus, melkt trocken und lässt den Bullen, den Vätern und Leitern der Herde, keine besondere Achtung angedeihen. ",
+            "en": "It’s when a cowherd doesn’t know form, is unskilled in characteristics, doesn’t pick out flies’ eggs, doesn’t dress wounds, doesn’t smoke out pests, doesn’t know the ford, doesn’t know satisfaction, doesn’t know the trail, is not skilled in pastures, milks dry, and doesn’t show extra respect to the bulls who are fathers and leaders of the herd. ",
+            "matched": true
+          },
+          "mn33:3.3": {
+            "scid": "mn33:3.3",
+            "pli": "Idha, bhikkhave, bhikkhu na rūpaññū hoti, na lakkhaṇakusalo hoti, na āsāṭikaṁ hāretā hoti, na vaṇaṁ paṭicchādetā hoti, na dhūmaṁ kattā hoti, na titthaṁ jānāti, na pītaṁ jānāti, na vīthiṁ jānāti, na gocarakusalo hoti, anavasesadohī ca hoti. Ye te bhikkhū therā rattaññū cirapabbajitā saṅghapitaro saṅghapariṇāyakā te na atirekapūjāya pūjetā hoti. ",
+            "de": "Da weiß eine Nonne oder ein Mönch nicht, was Form ist, kennt sich mit den <span class=\"ebt-matched\">Kennzeichen</span> nicht aus, liest Fliegeneier nicht aus, verbindet Wunden nicht, räuchert Schädlinge nicht aus, kennt die Furt nicht, kennt Zufriedenheit nicht, kennt den Weg nicht, kennt sich mit den Weiden nicht aus, melkt trocken und lässt langjährigen Ordensältesten, die schon lange fortgezogen sind, den Vätern und Leitern des Saṅgha, keine besondere Achtung angedeihen. ",
+            "en": "It’s when a mendicant doesn’t know form, is unskilled in characteristics, doesn’t pick out flies’ eggs, doesn’t dress wounds, doesn’t smoke out pests, doesn’t know the ford, doesn’t know satisfaction, doesn’t know the trail, is not skilled in pastures, milks dry, and doesn’t show extra respect to senior mendicants of long standing, long gone forth, fathers and leaders of the Saṅgha. ",
+            "matched": true
+          },
+          "mn33:5.1": {
+            "scid": "mn33:5.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu na lakkhaṇakusalo hoti? ",
+            "de": "Und wie kennt sich eine Nonne mit den <span class=\"ebt-matched\">Kennzeichen</span> nicht aus? ",
+            "en": "And how is a mendicant not skilled in characteristics? ",
+            "matched": true
+          },
+          "mn33:5.3": {
+            "scid": "mn33:5.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu na lakkhaṇakusalo hoti. ",
+            "de": "So kennt sich eine Nonne mit den <span class=\"ebt-matched\">Kennzeichen</span> nicht aus. ",
+            "en": "That’s how a mendicant isn’t skilled in characteristics. ",
+            "matched": true
+          },
+          "mn33:15.3": {
+            "scid": "mn33:15.3",
+            "pli": "Idha, bhikkhave, gopālako rūpaññū hoti, lakkhaṇakusalo hoti, āsāṭikaṁ hāretā hoti, vaṇaṁ paṭicchādetā hoti, dhūmaṁ kattā hoti, titthaṁ jānāti, pītaṁ jānāti, vīthiṁ jānāti, gocarakusalo hoti, sāvasesadohī ca hoti. Ye te usabhā gopitaro gopariṇāyakā te atirekapūjāya pūjetā hoti. ",
+            "de": "Da weiß ein Kuhhirte, was Form ist, kennt sich mit den <span class=\"ebt-matched\">Kennzeichen</span> aus, liest Fliegeneier aus, verbindet Wunden, räuchert Schädlinge aus, kennt die Furt, kennt Zufriedenheit, kennt den Weg, kennt sich mit den Weiden aus, melkt nicht trocken und lässt den Bullen, den Vätern und Leitern der Herde, besondere Achtung angedeihen. ",
+            "en": "It’s when a cowherd knows form, is skilled in characteristics, picks out flies’ eggs, dresses wounds, smokes out pests, knows the ford, knows satisfaction, knows the trail, is skilled in pastures, doesn’t milk dry, and shows extra respect to the bulls who are fathers and leaders of the herd. ",
+            "matched": true
+          },
+          "mn33:16.3": {
+            "scid": "mn33:16.3",
+            "pli": "Idha, bhikkhave, bhikkhu rūpaññū hoti, lakkhaṇakusalo hoti, āsāṭikaṁ hāretā hoti, vaṇaṁ paṭicchādetā hoti, dhūmaṁ kattā hoti, titthaṁ jānāti, pītaṁ jānāti, vīthiṁ jānāti, gocarakusalo hoti, sāvasesadohī ca hoti. Ye te bhikkhū therā rattaññū cirapabbajitā saṅghapitaro saṅghapariṇāyakā te atirekapūjāya pūjetā hoti. ",
+            "de": "Da weiß eine Nonne oder ein Mönch, was Form ist, kennt sich mit den <span class=\"ebt-matched\">Kennzeichen</span> aus, liest Fliegeneier aus, verbindet Wunden, räuchert Schädlinge aus, kennt die Furt, kennt Zufriedenheit, kennt den Weg, kennt sich mit den Weiden aus, melkt nicht trocken und lässt ehrwürdigen Ordensältesten, die schon lange fortgezogen sind, den Vätern und Leitern des Saṅgha, besondere Achtung angedeihen. ",
+            "en": "It’s when a mendicant knows form, is skilled in characteristics, picks out flies’ eggs, dresses wounds, smokes out pests, knows the ford, knows satisfaction, knows the trail, is skilled in pastures, doesn’t milk dry, and shows extra respect to senior mendicants of long standing, long gone forth, fathers and leaders of the Saṅgha. ",
+            "matched": true
+          },
+          "mn33:18.1": {
+            "scid": "mn33:18.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu lakkhaṇakusalo hoti? ",
+            "de": "Und wie kennt sich eine Nonne mit den <span class=\"ebt-matched\">Kennzeichen</span> aus? ",
+            "en": "And how is a mendicant skilled in characteristics? ",
+            "matched": true
+          },
+          "mn33:18.3": {
+            "scid": "mn33:18.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu lakkhaṇakusalo hoti. ",
+            "de": "So kennt sich eine Nonne mit den <span class=\"ebt-matched\">Kennzeichen</span> aus. ",
+            "en": "That’s how a mendicant is skilled in characteristics. ",
+            "matched": true
+          }
+        },
+        "score": 8.068,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Mittlere Lehrreden 33\nDie längere Lehrrede vom Kuhhirten",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 118,
+          "de": 117,
+          "en": 117
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.47_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.47_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.47_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.47",
+        "lang": "de",
+        "segMap": {
+          "an3.47:0.3": {
+            "scid": "an3.47:0.3",
+            "pli": "47. Saṅkhatalakkhaṇasutta ",
+            "de": "47. <span class=\"ebt-matched\">Kennzeichen</span> des Bedingten ",
+            "en": "47. Characteristics of the Conditioned ",
+            "matched": true
+          },
+          "an3.47:1.1": {
+            "scid": "an3.47:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, saṅkhatassa saṅkhatalakkhaṇāni. ",
+            "de": "„Mönche und Nonnen, bedingte Erscheinungen haben diese drei <span class=\"ebt-matched\">Kennzeichen</span>. ",
+            "en": "“Mendicants, conditioned phenomena have these three characteristics. ",
+            "matched": true
+          },
+          "an3.47:1.4": {
+            "scid": "an3.47:1.4",
+            "pli": "Imāni kho, bhikkhave, tīṇi saṅkhatassa saṅkhatalakkhaṇānī”ti. ",
+            "de": "Das sind die drei <span class=\"ebt-matched\">Kennzeichen</span> bedingter Erscheinungen.“ ",
+            "en": "These are the three characteristics of conditioned phenomena.” ",
+            "matched": true
+          },
+          "an3.47:2.0": {
+            "scid": "an3.47:2.0",
+            "pli": "Asaṅkhatalakkhaṇasutta ",
+            "de": "<span class=\"ebt-matched\">Kennzeichen</span> des Unbedingten ",
+            "en": "Characteristics of the Unconditioned ",
+            "matched": true
+          },
+          "an3.47:2.1": {
+            "scid": "an3.47:2.1",
+            "pli": "“Tīṇimāni, bhikkhave, asaṅkhatassa asaṅkhatalakkhaṇāni. ",
+            "de": "„Unbedingte Erscheinungen haben diese drei <span class=\"ebt-matched\">Kennzeichen</span>. ",
+            "en": "“Unconditioned phenomena have these three characteristics. ",
+            "matched": true
+          },
+          "an3.47:2.4": {
+            "scid": "an3.47:2.4",
+            "pli": "Imāni kho, bhikkhave, tīṇi asaṅkhatassa asaṅkhatalakkhaṇānī”ti. ",
+            "de": "Das sind die drei <span class=\"ebt-matched\">Kennzeichen</span> unbedingter Erscheinungen.“ ",
+            "en": "These are the three characteristics of unconditioned phenomena.” ",
+            "matched": true
+          }
+        },
+        "score": 6.429,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n5. Das kleinere Kapitel\n47. Kennzeichen des Bedingten",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 14,
+          "de": 13,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.3_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.3_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.3",
+        "lang": "de",
+        "segMap": {
+          "an3.3:1.1": {
+            "scid": "an3.3:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni. ",
+            "de": "„Es gibt diese drei <span class=\"ebt-matched\">Kennzeichen</span>, Merkmale und Anzeichen eines Toren. ",
+            "en": "“There are these three characteristics, signs, and manifestations of a fool. ",
+            "matched": true
+          },
+          "an3.3:1.8": {
+            "scid": "an3.3:1.8",
+            "pli": "Imāni kho, bhikkhave, tīṇi bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni. ",
+            "de": "Das sind die drei <span class=\"ebt-matched\">Kennzeichen</span>, Merkmale und Anzeichen eines Toren. ",
+            "en": "These are the three characteristics, signs, and manifestations of a fool. ",
+            "matched": true
+          },
+          "an3.3:2.1": {
+            "scid": "an3.3:2.1",
+            "pli": "Tīṇimāni, bhikkhave, paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. ",
+            "de": "Es gibt diese drei <span class=\"ebt-matched\">Kennzeichen</span>, Merkmale und Anzeichen eines klugen Menschen. ",
+            "en": "There are these three characteristics, signs, and manifestations of an astute person. ",
+            "matched": true
+          },
+          "an3.3:2.8": {
+            "scid": "an3.3:2.8",
+            "pli": "Imāni kho, bhikkhave, tīṇi paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. ",
+            "de": "Das sind die drei <span class=\"ebt-matched\">Kennzeichen</span>, Merkmale und Anzeichen eines klugen Menschen. ",
+            "en": "These are the three characteristics, signs, and manifestations of an astute person. ",
+            "matched": true
+          }
+        },
+        "score": 4.19,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n1. Toren\n3. Denken",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 21,
+          "de": 20,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn14",
+        "lang": "de",
+        "segMap": {
+          "dn14:1.31.0": {
+            "scid": "dn14:1.31.0",
+            "pli": "3. Dvattiṁsamahāpurisalakkhaṇā ",
+            "de": "3. Die zweiunddreißig <span class=\"ebt-matched\">Kennzeichen</span> eines großen Mannes ",
+            "en": "3. The Thirty-Two Marks of a Great Man ",
+            "matched": true
+          },
+          "dn14:1.31.7": {
+            "scid": "dn14:1.31.7",
+            "pli": "Ayañhi, deva, kumāro dvattiṁsamahāpurisalakkhaṇehi samannāgato, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā. ",
+            "de": "Denn der Prinz besitzt die zweiunddreißig <span class=\"ebt-matched\">Kennzeichen</span> eines großen Mannes. Für einen großen Mann, der diese besitzt, gibt es zwei mögliche Schicksale, kein anderes. ",
+            "en": "For the prince has the thirty-two marks of a great man. A great man who possesses these has only two possible destinies, no other. ",
+            "matched": true
+          },
+          "dn14:1.32.1": {
+            "scid": "dn14:1.32.1",
+            "pli": "Katamehi cāyaṁ, deva, kumāro dvattiṁsamahāpurisalakkhaṇehi samannāgato, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā. ",
+            "de": "Und was sind die <span class=\"ebt-matched\">Kennzeichen</span>, die er besitzt? ",
+            "en": "And what are the marks which he possesses? ",
+            "matched": true
+          },
+          "dn14:1.33.1": {
+            "scid": "dn14:1.33.1",
+            "pli": "Imehi kho ayaṁ, deva, kumāro dvattiṁsamahāpurisalakkhaṇehi samannāgato, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā. ",
+            "de": "Das sind die zweiunddreißig <span class=\"ebt-matched\">Kennzeichen</span> eines großen Mannes, die der Prinz besitzt. Für einen großen Mann, der diese besitzt, gibt es zwei mögliche Schicksale, kein anderes. ",
+            "en": "These are the thirty-two marks of a great man that the prince has. A great man who possesses these has only two possible destinies, no other. ",
+            "matched": true
+          }
+        },
+        "score": 4.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 14\nDie große Lehrrede über die Ernte aus den Taten\n1. Von früheren Leben",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 851,
+          "de": 689,
+          "en": 850
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.2_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.2_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.2",
+        "lang": "de",
+        "segMap": {
+          "an3.2:0.3": {
+            "scid": "an3.2:0.3",
+            "pli": "2. Lakkhaṇasutta ",
+            "de": "2. <span class=\"ebt-matched\">Kennzeichen</span> ",
+            "en": "2. Characteristics ",
+            "matched": true
+          }
+        },
+        "score": 1.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n1. Toren\n2. Kennzeichen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 16,
+          "de": 15,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.59_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.59_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.59_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.59",
+        "lang": "de",
+        "segMap": {
+          "an3.59:1.4": {
+            "scid": "an3.59:1.4",
+            "pli": "“Idha kho, bho gotama, brāhmaṇo ubhato sujāto hoti mātito ca pitito ca saṁsuddhagahaṇiko yāva sattamā pitāmahayugā akkhitto anupakkuṭṭho jātivādena, ajjhāyako mantadharo, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayoti. ",
+            "de": "„Meister Gotama, es ist, wenn ein Brahmane von guter Geburt auf mütterlicher und väterlicher Seite ist, von reiner Abkunft, unwiderlegbar und einwandfrei in Fragen der Abstammung bis zur siebten väterlichen Generation zurück. Er sagt die Hymnen auf und prägt sie sich ein und hat die drei Veden gemeistert, zusammen mit ihrem Wortschatz, den Riten, den Lauten und der Herkunft der Wörter sowie dem Testament als fünftem. Er kennt die Sprachwissenschaft und die Grammatik und ist mit der Kosmologie und mit den <span class=\"ebt-matched\">Kennzeichen</span> eines großen Menschen vertraut. ",
+            "en": "“Master Gotama, it’s when a brahmin is well born on both his mother’s and father’s side, of pure descent, irrefutable and impeccable in questions of ancestry back to the seventh paternal generation. He recites and remembers the hymns, and has mastered the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. He knows philology and grammar, and is well versed in cosmology and the marks of a great man. ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n6. Brahmanen\n59. Mit Jāṇussoṇi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 50,
+          "de": 49,
+          "en": 49
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn22/sn22.59_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.59_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.59",
+        "lang": "de",
+        "segMap": {
+          "sn22.59:0.3": {
+            "scid": "sn22.59:0.3",
+            "pli": "59. Anattalakkhaṇasutta ",
+            "de": "59. <span class=\"ebt-matched\">Kennzeichen</span> des Nicht-selbst ",
+            "en": "59. The Characteristic of Not-Self ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 22\n6. Gebunden\n59. Kennzeichen des Nicht-selbst",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 59,
+          "de": 58,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.58_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.58_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.58",
+        "lang": "de",
+        "segMap": {
+          "an3.58:2.2": {
+            "scid": "an3.58:2.2",
+            "pli": "“Idha, bho gotama, brāhmaṇo ubhato sujāto hoti mātito ca pitito ca, saṁsuddhagahaṇiko yāva sattamā pitāmahayugā, akkhitto anupakkuṭṭho jātivādena, ajjhāyako, mantadharo, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayoti. ",
+            "de": "„Meister Gotama, es ist, wenn ein Brahmane von guter Geburt auf mütterlicher und väterlicher Seite ist, von reiner Abkunft, unwiderlegbar und einwandfrei in Fragen der Abstammung bis zur siebten väterlichen Generation zurück. Er sagt die Hymnen auf und prägt sie sich ein und hat die drei Veden gemeistert, zusammen mit ihrem Wortschatz, den Riten, den Lauten und der Herkunft der Wörter sowie dem Testament als fünftem. Er kennt die Sprachwissenschaft und die Grammatik und ist mit der Kosmologie und mit den <span class=\"ebt-matched\">Kennzeichen</span> eines großen Menschen vertraut. ",
+            "en": "“Master Gotama, it’s when a brahmin is well born on both his mother’s and father’s side, of pure descent, irrefutable and impeccable in questions of ancestry back to the seventh paternal generation. He recites and remembers the hymns, and has mastered the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. He knows philology and grammar, and is well versed in cosmology and the marks of a great man. ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n6. Brahmanen\n58. Mit Tikaṇṇa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 61,
+          "de": 60,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.192_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.192_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.192_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.192",
+        "lang": "de",
+        "segMap": {
+          "an5.192:2.11": {
+            "scid": "an5.192:2.11",
+            "pli": "mātito ca pitito ca, saṁsuddhagahaṇiko, yāva sattamā pitāmahayugā akkhitto anupakkuṭṭho jātivādena, ajjhāyako mantadharo, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako veyyākaraṇo lokāyatamahāpurisalakkhaṇesu anavayo”ti. ",
+            "de": "Denn ich bin von guter Geburt auf mütterlicher und väterlicher Seite, von reiner Abkunft, unwiderlegbar und einwandfrei in Fragen der Abstammung bis zur siebten väterlichen Generation zurück. Ich sage die Hymnen auf und präge sie mir ein und habe die drei Veden gemeistert, zusammen mit ihrem Wortschatz, den Riten, den Lauten und der Herkunft der Wörter sowie dem Testament als fünftem. Ich kenne die Sprachwissenschaft und die Grammatik und bin mit der Kosmologie und mit den <span class=\"ebt-matched\">Kennzeichen</span> eines großen Menschen vertraut.“ ",
+            "en": "For I am well born on both my mother’s and father’s side, of pure descent, irrefutable and impeccable in questions of ancestry back to the seventh paternal generation. I recite and remember the hymns, and have mastered the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. I know philology and grammar, and am well versed in cosmology and the marks of a great man.” ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n20. Brahmanen\n192. Mit dem Brahmanen Doṇa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 120,
+          "de": 98,
+          "en": 119
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "darkness.* destroyed",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "darkness.* destroyed",
+    "method": "phrase",
+    "resultPattern": "\\bdarkness.* destroyed",
+    "segsMatched": 27,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn4_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn4_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn36_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn36_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn19_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn19_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn100_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn100_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga10/iti99_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga10/iti99_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.59_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.59_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.58_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.58_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn85/en/sujato",
+      "mn4/en/sujato",
+      "mn36/en/sujato",
+      "mn19/en/sujato",
+      "mn100/en/sujato",
+      "iti99/en/sujato",
+      "an8.11/en/sujato",
+      "an3.59/en/sujato",
+      "an3.58/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga10/iti99_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga10/iti99_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti99",
+        "lang": "en",
+        "segMap": {
+          "iti99:3.3": {
+            "scid": "iti99:3.3",
+            "pli": "Ayamassa paṭhamā vijjā adhigatā hoti, avijjā vihatā, vijjā uppannā, tamo vihato, āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato.",
+            "en": "This was the first knowledge they achieved. Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "iti99:4.2": {
+            "scid": "iti99:4.2",
+            "pli": "Ayamassa dutiyā vijjā adhigatā hoti, avijjā vihatā, vijjā uppannā, tamo vihato, āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato.",
+            "en": "This was the second knowledge they achieved. Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "iti99:5.2": {
+            "scid": "iti99:5.2",
+            "pli": "Ayamassa tatiyā vijjā adhigatā hoti, avijjā vihatā, vijjā uppannā, tamo vihato, āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato.",
+            "en": "This was the third knowledge which they achieved. Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          }
+        },
+        "score": 3.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Threes\nChapter Five\n99. The Three Knowledges",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 33,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.59_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.59_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.59",
+        "lang": "en",
+        "segMap": {
+          "an3.59:4.4": {
+            "scid": "an3.59:4.4",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance is destroyed and knowledge has arisen; <span class=\"ebt-matched\">darkness is destroyed</span> and light has arisen, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "an3.59:5.4": {
+            "scid": "an3.59:5.4",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance is destroyed and knowledge has arisen; <span class=\"ebt-matched\">darkness is destroyed</span> and light has arisen, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "an3.59:6.8": {
+            "scid": "an3.59:6.8",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṁ appamattassa ātāpino pahitattassa viharatoti. ",
+            "en": "Ignorance is destroyed and knowledge has arisen; <span class=\"ebt-matched\">darkness is destroyed</span>, and light has arisen, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          }
+        },
+        "score": 3.06,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n6. Brahmins\n59. With Jāṇussoṇi",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 50,
+          "en": 49
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.58_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.58",
+        "lang": "en",
+        "segMap": {
+          "an3.58:5.4": {
+            "scid": "an3.58:5.4",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance is destroyed and knowledge has arisen; <span class=\"ebt-matched\">darkness is destroyed</span> and light has arisen, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "an3.58:6.4": {
+            "scid": "an3.58:6.4",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance is destroyed and knowledge has arisen; <span class=\"ebt-matched\">darkness is destroyed</span> and light has arisen, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "an3.58:7.8": {
+            "scid": "an3.58:7.8",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṁ appamattassa ātāpino pahitattassa viharatoti. ",
+            "en": "Ignorance is destroyed and knowledge has arisen; <span class=\"ebt-matched\">darkness is destroyed</span>, and light has arisen, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          }
+        },
+        "score": 3.049,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n6. Brahmins\n58. With Tikaṇṇa",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.11",
+        "lang": "en",
+        "segMap": {
+          "an8.11:15.2": {
+            "scid": "an8.11:15.2",
+            "pli": "avijjā vihatā vijjā uppannā; tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "an8.11:17.2": {
+            "scid": "an8.11:17.2",
+            "pli": "avijjā vihatā vijjā uppannā; tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "an8.11:19.2": {
+            "scid": "an8.11:19.2",
+            "pli": "avijjā vihatā vijjā uppannā; tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          }
+        },
+        "score": 3.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n2. The Great Chapter\n11. At Verañja",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 102,
+          "en": 101
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn19_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn19_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn19",
+        "lang": "en",
+        "segMap": {
+          "mn19:19.2": {
+            "scid": "mn19:19.2",
+            "pli": "avijjā vihatā vijjā uppannā; tamo vihato āloko uppanno; yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "mn19:21.2": {
+            "scid": "mn19:21.2",
+            "pli": "avijjā vihatā vijjā uppannā; tamo vihato āloko uppanno; yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "mn19:24.2": {
+            "scid": "mn19:24.2",
+            "pli": "avijjā vihatā vijjā uppannā; tamo vihato āloko uppanno; yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          }
+        },
+        "score": 3.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 19\nTwo Kinds of Thought",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 123,
+          "en": 122
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn4_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn4",
+        "lang": "en",
+        "segMap": {
+          "mn4:28.2": {
+            "scid": "mn4:28.2",
+            "pli": "avijjā vihatā vijjā uppannā, tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "mn4:30.2": {
+            "scid": "mn4:30.2",
+            "pli": "avijjā vihatā vijjā uppannā, tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "mn4:33.2": {
+            "scid": "mn4:33.2",
+            "pli": "avijjā vihatā vijjā uppannā, tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          }
+        },
+        "score": 3.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 4\nFear and Dread",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 164,
+          "en": 163
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn100_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn100_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn100",
+        "lang": "en",
+        "segMap": {
+          "mn100:35.2": {
+            "scid": "mn100:35.2",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno; yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "mn100:36-38.4": {
+            "scid": "mn100:36-38.4",
+            "pli": "vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno; yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "mn100:41.2": {
+            "scid": "mn100:41.2",
+            "pli": "vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno; yathā taṁ appamattassa ātāpino pahitattassa viharato”ti. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute.” ",
+            "matched": true
+          }
+        },
+        "score": 3.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 100\nWith Saṅgārava",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 306,
+          "en": 303
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn36_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn36_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn36",
+        "lang": "en",
+        "segMap": {
+          "mn36:39.2": {
+            "scid": "mn36:39.2",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno; yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "mn36:41.2": {
+            "scid": "mn36:41.2",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno; yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "mn36:44.2": {
+            "scid": "mn36:44.2",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno; yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          }
+        },
+        "score": 3.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 36\nThe Longer Discourse With Saccaka",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 360,
+          "en": 359
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn85",
+        "lang": "en",
+        "segMap": {
+          "mn85:34-37.8": {
+            "scid": "mn85:34-37.8",
+            "pli": "vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno—yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "mn85:39.1": {
+            "scid": "mn85:39.1",
+            "pli": "ayaṁ kho me, rājakumāra, rattiyā majjhime yāme dutiyā vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno—yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "This was the second knowledge, which I achieved in the middle watch of the night. Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "mn85:42.2": {
+            "scid": "mn85:42.2",
+            "pli": "vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno—yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "en": "Ignorance was destroyed and knowledge arose; <span class=\"ebt-matched\">darkness was destroyed</span> and light arose, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          }
+        },
+        "score": 3.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 85\nWith Prince Bodhi",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 553,
+          "en": 552
+        }
+      }
+    ]
+  }
+}

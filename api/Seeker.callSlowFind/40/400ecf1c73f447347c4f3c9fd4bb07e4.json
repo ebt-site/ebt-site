@@ -1,0 +1,187 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "kräuter, hirse",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "kräuter, hirse",
+    "method": "phrase",
+    "resultPattern": "\\bkräuter, hirse",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.198_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.93_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.93_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.93_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.156-162_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.156-162_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.156-162_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn25/de/sabbamitta",
+      "an4.198/de/sabbamitta",
+      "an3.93/de/sabbamitta",
+      "an3.156-162/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.93_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.93_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.93_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.93",
+        "lang": "de",
+        "segMap": {
+          "an3.93:3.2": {
+            "scid": "an3.93:3.2",
+            "pli": "Sākabhakkhāpi honti, sāmākabhakkhāpi honti, nīvārabhakkhāpi honti, daddulabhakkhāpi honti, haṭabhakkhāpi honti, kaṇabhakkhāpi honti, ācāmabhakkhāpi honti, piññākabhakkhāpi honti, tiṇabhakkhāpi honti, gomayabhakkhāpi honti, vanamūlaphalāhārā yāpenti pavattaphalabhojī. ",
+            "de": "Sie essen <span class=\"ebt-matched\">Kräuter, Hirse</span>, wilden Reis, mageren Reis, Wasserlattich, Reiskleie, Schaum von gekochtem Reis, Sesammehl, Gras oder Kuhfladen. Sie überleben mit Wurzeln und Waldbeeren oder essen herabgefallene Früchte. ",
+            "en": "They eat herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
+            "matched": true
+          }
+        },
+        "score": 1.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n10. Ein Salzklümpchen\n93. Abgeschiedenheit",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 41,
+          "de": 40,
+          "en": 40
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.156-162_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.156-162_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.156-162_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.156-162",
+        "lang": "de",
+        "segMap": {
+          "an3.156:3.1": {
+            "scid": "an3.156:3.1",
+            "pli": "So sākabhakkhopi hoti, sāmākabhakkhopi hoti, nīvārabhakkhopi hoti, daddulabhakkhopi hoti, haṭabhakkhopi hoti, kaṇabhakkhopi hoti, ācāmabhakkhopi hoti, piññākabhakkhopi hoti, tiṇabhakkhopi hoti, gomayabhakkhopi hoti, vanamūlaphalāhāro yāpeti pavattaphalabhojī. ",
+            "de": "Er isst <span class=\"ebt-matched\">Kräuter, Hirse</span>, wilden Reis, mageren Reis, Wasserlattich, Reiskleie, Schaum von gekochtem Reis, Sesammehl, Gras oder Kuhfladen. Er überlebt mit Wurzeln und Waldbeeren oder isst herabgefallene Früchte. ",
+            "en": "They eat herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n16. Nackt\n156–162",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 82,
+          "de": 80,
+          "en": 80
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.198_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.198",
+        "lang": "de",
+        "segMap": {
+          "an4.198:3.1": {
+            "scid": "an4.198:3.1",
+            "pli": "So sākabhakkhopi hoti sāmākabhakkhopi hoti nīvārabhakkhopi hoti daddulabhakkhopi hoti haṭabhakkhopi hoti kaṇabhakkhopi hoti ācāmabhakkhopi hoti piññākabhakkhopi hoti tiṇabhakkhopi hoti gomayabhakkhopi hoti; vanamūlaphalāhāropi yāpeti pavattaphalabhojī. ",
+            "de": "Er isst <span class=\"ebt-matched\">Kräuter, Hirse</span>, wilden Reis, mageren Reis, Wasserlattich, Reiskleie, Schaum von gekochtem Reis, Sesammehl, Gras oder Kuhfladen. Er überlebt mit Wurzeln und Waldbeeren oder isst herabgefallene Früchte. ",
+            "en": "They eat herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n20. Das große Kapitel\n198. Selbstquälerei",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 111,
+          "de": 110,
+          "en": 110
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "de",
+        "segMap": {
+          "dn25:8.8": {
+            "scid": "dn25:8.8",
+            "pli": "So sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, gomayabhakkho vā hoti; vanamūlaphalāhāro yāpeti pavattaphalabhojī. ",
+            "de": "Er isst <span class=\"ebt-matched\">Kräuter, Hirse</span>, wilden Reis, mageren Reis, Wasserlattich, Reiskleie, Schaum von gekochtem Reis, Sesammehl, Gras oder Kuhfladen. Er überlebt mit Wurzeln und Waldbeeren oder isst herabgefallene Früchte. ",
+            "en": "They eat herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survive on forest roots and fruits, or eating fallen fruit. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 25\nDas Löwengebrüll in Udumbarikās Kloster\n1. Vom Wanderer Nigrodha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 383,
+          "de": 347,
+          "en": 382
+        }
+      }
+    ]
+  }
+}

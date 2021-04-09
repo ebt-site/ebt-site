@@ -1,0 +1,150 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "study",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "study",
+    "method": "phrase",
+    "resultPattern": "\\bstudy",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.73_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.73_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.192_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.192_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga3/ud3.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga3/ud3.9_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.73/en/sujato",
+      "an5.192/en/sujato",
+      "ud3.9/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.73_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.73_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.73",
+        "lang": "en",
+        "segMap": {
+          "an5.73:2.3": {
+            "scid": "an5.73:2.3",
+            "pli": "So tāya dhammapariyattiyā divasaṁ atināmeti, riñcati paṭisallānaṁ, nānuyuñjati ajjhattaṁ cetosamathaṁ. ",
+            "en": "They spend their days <span class=\"ebt-matched\">study</span>ing that teaching. But they neglect retreat, and are not committed to internal serenity of heart. ",
+            "matched": true
+          },
+          "an5.73:6.3": {
+            "scid": "an5.73:6.3",
+            "pli": "So tāya dhammapariyattiyā na divasaṁ atināmeti, nāpi riñcati paṭisallānaṁ, anuyuñjati ajjhattaṁ cetosamathaṁ. ",
+            "en": "They don’t spend their days <span class=\"ebt-matched\">study</span>ing that teaching. They don’t neglect retreat, and they’re committed to internal serenity of heart. ",
+            "matched": true
+          }
+        },
+        "score": 2.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n8. Warriors\n73. One Who Lives by the Teaching (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.192_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.192_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.192",
+        "lang": "en",
+        "segMap": {
+          "an5.192:5.4": {
+            "scid": "an5.192:5.4",
+            "pli": "So aṭṭhacattālīsavassāni komārabrahmacariyaṁ carati mante adhīyamāno. ",
+            "en": "For forty-eight years he leads the virginal spiritual life <span class=\"ebt-matched\">study</span>ing the hymns. ",
+            "matched": true
+          },
+          "an5.192:13.4": {
+            "scid": "an5.192:13.4",
+            "pli": "So aṭṭhacattālīsavassāni komārabrahmacariyaṁ carati mante adhīyamāno. ",
+            "en": "For forty-eight years he leads the virginal spiritual life <span class=\"ebt-matched\">study</span>ing the hymns. ",
+            "matched": true
+          }
+        },
+        "score": 2.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n20. Brahmins\n192. With the Brahmin Doṇa",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 120,
+          "en": 119
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga3/ud3.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga3/ud3.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud3.9",
+        "lang": "en",
+        "segMap": {
+          "ud3.9:1.5": {
+            "scid": "ud3.9:1.5",
+            "pli": "Ko kiṁ sippaṁ sikkhi?",
+            "en": "Who is <span class=\"ebt-matched\">study</span>ing which craft?",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n3.9. Professions",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 74,
+          "en": 35
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "by what is not-self",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "by what is not-self",
+    "method": "phrase",
+    "resultPattern": "\\bby what is not-self",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.145_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.145_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.142_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.142_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.20_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.20_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.145/en/sujato",
+      "sn35.142/en/sujato",
+      "sn22.20/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.142_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.142_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.142",
+        "lang": "en",
+        "segMap": {
+          "sn35.142:1.3": {
+            "scid": "sn35.142:1.3",
+            "pli": "Anattasambhūtaṁ, bhikkhave, cakkhu kuto attā bhavissati …pe… ",
+            "en": "Since the eye is produced <span class=\"ebt-matched\">by what is not-self</span>, how could it be self? ",
+            "matched": true
+          },
+          "sn35.142:1.9": {
+            "scid": "sn35.142:1.9",
+            "pli": "Anattasambhūto, bhikkhave, mano kuto attā bhavissati. ",
+            "en": "Since the mind is produced <span class=\"ebt-matched\">by what is not-self</span>, how could it be self? ",
+            "matched": true
+          }
+        },
+        "score": 2.133,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n14. At Devadaha\n142. Interior and Cause Are Not-Self",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.20_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.20",
+        "lang": "en",
+        "segMap": {
+          "sn22.20:1.4": {
+            "scid": "sn22.20:1.4",
+            "pli": "Anattasambhūtaṁ, bhikkhave, rūpaṁ kuto attā bhavissati. ",
+            "en": "Since form is produced <span class=\"ebt-matched\">by what is not-self</span>, how could it be self? ",
+            "matched": true
+          },
+          "sn22.20:1.10": {
+            "scid": "sn22.20:1.10",
+            "pli": "Anattasambhūtaṁ, bhikkhave, viññāṇaṁ kuto attā bhavissati. ",
+            "en": "Since consciousness is produced <span class=\"ebt-matched\">by what is not-self</span>, how could it be self? ",
+            "matched": true
+          }
+        },
+        "score": 2.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n2. Impermanence\n20. Not-Self With Its Cause",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.145_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.145_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.145",
+        "lang": "en",
+        "segMap": {
+          "sn35.145:1.3": {
+            "scid": "sn35.145:1.3",
+            "pli": "Anattasambhūtā, bhikkhave, rūpā kuto attā bhavissanti. ",
+            "en": "Since sights are produced <span class=\"ebt-matched\">by what is not-self</span>, how could they be self? ",
+            "matched": true
+          },
+          "sn35.145:1.10": {
+            "scid": "sn35.145:1.10",
+            "pli": "Anattasambhūtā, bhikkhave, dhammā kuto attā bhavissanti. ",
+            "en": "Since thoughts are produced <span class=\"ebt-matched\">by what is not-self</span>, how could they be self? ",
+            "matched": true
+          }
+        },
+        "score": 2.087,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n14. At Devadaha\n145. Exterior and Cause Are Not-Self",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 23,
+          "en": 21
+        }
+      }
+    ]
+  }
+}

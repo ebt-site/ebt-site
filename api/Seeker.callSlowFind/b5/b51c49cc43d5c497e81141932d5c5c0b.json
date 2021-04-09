@@ -1,0 +1,93 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "ich empfinde ein angenehmes gefühl",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "ich empfinde ein angenehmes gefühl",
+    "method": "phrase",
+    "resultPattern": "\\bich empfinde ein angenehmes gefühl",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/mn/mn10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn10/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/mn/mn10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn10",
+        "lang": "de",
+        "segMap": {
+          "mn10:32.2": {
+            "scid": "mn10:32.2",
+            "pli": "Idha, bhikkhave, bhikkhu sukhaṁ vā vedanaṁ vedayamāno ‘sukhaṁ vedanaṁ vedayāmī’ti pajānāti. ",
+            "de": "Da weiß eine Nonne, wenn sie ein angenehmes Gefühl empfindet: ‚<span class=\"ebt-matched\">Ich empfinde ein angenehmes Gefühl</span>.‘ ",
+            "en": "It’s when a mendicant who feels a pleasant feeling knows: ‘I feel a pleasant feeling.’ ",
+            "matched": true
+          },
+          "mn10:32.5": {
+            "scid": "mn10:32.5",
+            "pli": "Sāmisaṁ vā sukhaṁ vedanaṁ vedayamāno ‘sāmisaṁ sukhaṁ vedanaṁ vedayāmī’ti pajānāti. ",
+            "de": "Wenn sie ein mit dem Körperlichen verbundenes angenehmes Gefühl empfindet, weiß sie: ‚Ich empfinde ein mit dem Körperlichen verbundenes angenehmes Gefühl.‘ ",
+            "en": "When they feel a material pleasant feeling, they know: ‘I feel a material pleasant feeling.’ ",
+            "matched": true
+          },
+          "mn10:32.6": {
+            "scid": "mn10:32.6",
+            "pli": "Nirāmisaṁ vā sukhaṁ vedanaṁ vedayamāno ‘nirāmisaṁ sukhaṁ vedanaṁ vedayāmī’ti pajānāti. ",
+            "de": "Wenn sie ein mit dem Geistlichen verbundenes angenehmes Gefühl empfindet, weiß sie: ‚Ich empfinde ein mit dem Geistlichen verbundenes angenehmes Gefühl.‘ ",
+            "en": "When they feel a spiritual pleasant feeling, they know: ‘I feel a spiritual pleasant feeling.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Mittlere Lehrreden 10\nAchtsamkeitsmeditation",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 235,
+          "de": 204,
+          "en": 233
+        }
+      }
+    ]
+  }
+}

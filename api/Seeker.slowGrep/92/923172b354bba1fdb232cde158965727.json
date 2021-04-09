@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\blost opportunit",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an8/an8.29_translation-en-sujato.json:11",
+    "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json:10",
+    "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json:9"
+  ]
+}

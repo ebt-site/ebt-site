@@ -1,0 +1,1048 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "grausam",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "grausam",
+    "method": "phrase",
+    "resultPattern": "\\bgrausam",
+    "segsMatched": 40,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.184_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.184_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.184_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.11_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.11_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/mn/mn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/mn/mn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.216_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.216_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.216_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.138_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.138_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.138_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.124_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.124_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.124_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn7_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/mn/mn7_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/mn/mn7_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn2_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/mn/mn2_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/mn/mn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn32_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn32_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn32_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.58_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.57_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.140_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.262_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.262_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.262_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.198_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.165_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.165_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.165_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.164_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.164_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.164_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.14_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.14_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.114_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.114_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.114_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.40_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.40_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.40_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.123_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.123_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.123_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.101_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an10/an10.60_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn33/de/sabbamitta",
+      "an4.184/de/sabbamitta",
+      "an4.11/de/sabbamitta",
+      "mn33/de/sabbamitta",
+      "an5.216/de/sabbamitta",
+      "an4.138/de/sabbamitta",
+      "an3.124/de/sabbamitta",
+      "mn7/de/sabbamitta",
+      "mn2/de/sabbamitta",
+      "dn34/de/sabbamitta",
+      "dn32/de/sabbamitta",
+      "dn17/de/sabbamitta",
+      "an6.58/de/sabbamitta",
+      "an6.57/de/sabbamitta",
+      "an5.140/de/sabbamitta",
+      "an4.262/de/sabbamitta",
+      "an4.198/de/sabbamitta",
+      "an4.165/de/sabbamitta",
+      "an4.164/de/sabbamitta",
+      "an4.14/de/sabbamitta",
+      "an4.114/de/sabbamitta",
+      "an3.40/de/sabbamitta",
+      "an3.123/de/sabbamitta",
+      "an3.101/de/sabbamitta",
+      "an10.60/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.10.13": {
+            "scid": "dn33:1.10.13",
+            "pli": "kāmavitakko, byāpādavitakko, vihiṁsāvitakko. ",
+            "de": "Sinnlichkeit, Bosheit und <span class=\"ebt-matched\">Grausam</span>keit. ",
+            "en": "sensuality, malice, and cruelty. ",
+            "matched": true
+          },
+          "dn33:1.10.17": {
+            "scid": "dn33:1.10.17",
+            "pli": "kāmasaṅkappo, byāpādasaṅkappo, vihiṁsāsaṅkappo. ",
+            "de": "Sinnlichkeit, Bosheit und <span class=\"ebt-matched\">Grausam</span>keit. ",
+            "en": "sensuality, malice, and cruelty. ",
+            "matched": true
+          },
+          "dn33:1.10.21": {
+            "scid": "dn33:1.10.21",
+            "pli": "kāmasaññā, byāpādasaññā, vihiṁsāsaññā. ",
+            "de": "Sinnlichkeit, Bosheit und <span class=\"ebt-matched\">Grausam</span>keit. ",
+            "en": "sensuality, malice, and cruelty. ",
+            "matched": true
+          },
+          "dn33:1.10.25": {
+            "scid": "dn33:1.10.25",
+            "pli": "kāmadhātu, byāpādadhātu, vihiṁsādhātu. ",
+            "de": "Sinnlichkeit, Bosheit und <span class=\"ebt-matched\">Grausam</span>keit. ",
+            "en": "sensuality, malice, and cruelty. ",
+            "matched": true
+          },
+          "dn33:1.11.87": {
+            "scid": "dn33:1.11.87",
+            "pli": "uppannaṁ vihiṁsāvitakkaṁ …pe… ",
+            "de": "oder <span class=\"ebt-matched\">grausam</span>en Gedanken, der aufgekommen ist, nicht duldet. ",
+            "en": "or cruel thought that’s arisen, but gives it up, gets rid of it, eliminates it, and obliterates it. ",
+            "matched": true
+          },
+          "dn33:3.3.73": {
+            "scid": "dn33:3.3.73",
+            "pli": "Idhāvuso, bhikkhuno kāmasaṅkappo pahīno hoti, byāpādasaṅkappo pahīno hoti, vihiṁsāsaṅkappo pahīno hoti. ",
+            "de": "Es ist, wenn er sinnliche, boshafte und <span class=\"ebt-matched\">grausam</span>e Absichten abgelegt hat. ",
+            "en": "It’s when they’ve given up sensual, malicious, and cruel intentions. ",
+            "matched": true
+          }
+        },
+        "score": 6.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.11_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.11_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.11",
+        "lang": "de",
+        "segMap": {
+          "an4.11:1.1": {
+            "scid": "an4.11:1.1",
+            "pli": "“Carato cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā. ",
+            "de": "„Mönche und Nonnen, angenommen, eine Nonne hat beim Gehen einen sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken. ",
+            "en": "“Mendicants, suppose a mendicant has a sensual, malicious, or cruel thought while walking. ",
+            "matched": true
+          },
+          "an4.11:4.1": {
+            "scid": "an4.11:4.1",
+            "pli": "Sayānassa cepi, bhikkhave, bhikkhuno jāgarassa uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā. ",
+            "de": "oder beim Liegen einen sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken. ",
+            "en": "or when lying down while awake. ",
+            "matched": true
+          },
+          "an4.11:5.1": {
+            "scid": "an4.11:5.1",
+            "pli": "Carato cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā. ",
+            "de": "Angenommen, eine Nonne hat beim Gehen einen sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken. ",
+            "en": "Suppose a mendicant has a sensual, malicious, or cruel thought while walking. ",
+            "matched": true
+          },
+          "an4.11:8.1": {
+            "scid": "an4.11:8.1",
+            "pli": "Sayānassa cepi, bhikkhave, bhikkhuno jāgarassa uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā. ",
+            "de": "oder beim Liegen einen sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken. ",
+            "en": "or when lying down while awake. ",
+            "matched": true
+          }
+        },
+        "score": 4.095,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n2. Gehen\n11. Gehen",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 42,
+          "de": 39,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.184_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.184_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.184_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.184",
+        "lang": "de",
+        "segMap": {
+          "an4.184:5.1": {
+            "scid": "an4.184:5.1",
+            "pli": "Puna caparaṁ, brāhmaṇa, idhekacco akatakalyāṇo hoti akatakusalo akatabhīruttāṇo katapāpo kataluddo katakibbiso. ",
+            "de": "Dann hat da jemand keine guten und tauglichen Dinge getan, die ihm Sicherheit geben, sondern hat schlechte, <span class=\"ebt-matched\">grausam</span>e und unmoralische Dinge getan. ",
+            "en": "Furthermore, it’s someone who hasn’t done good and skillful things that keep them safe, but has done bad, violent, and depraved things. ",
+            "matched": true
+          },
+          "an4.184:5.5": {
+            "scid": "an4.184:5.5",
+            "pli": "kataṁ pāpaṁ, kataṁ luddaṁ, kataṁ kibbisaṁ. ",
+            "de": "Doch ich habe schlechte, <span class=\"ebt-matched\">grausam</span>e und unmoralische Dinge getan. ",
+            "en": "And I have done bad, violent, and depraved things. ",
+            "matched": true
+          },
+          "an4.184:9.1": {
+            "scid": "an4.184:9.1",
+            "pli": "Puna caparaṁ, brāhmaṇa, idhekacco akatapāpo hoti akataluddo akatakibbiso katakalyāṇo katakusalo katabhīruttāṇo. ",
+            "de": "Dann hat da jemand keine schlechten, <span class=\"ebt-matched\">grausam</span>en und unmoralischen Dinge getan, sondern hat gute und taugliche Dinge getan, die ihm Sicherheit geben. ",
+            "en": "Furthermore, it’s someone who hasn’t done bad, violent, and corrupt deeds, but has done good and skillful deeds that keep them safe. ",
+            "matched": true
+          },
+          "an4.184:9.4": {
+            "scid": "an4.184:9.4",
+            "pli": "‘akataṁ vata me pāpaṁ, akataṁ luddaṁ, akataṁ kibbisaṁ; ",
+            "de": "‚Nun, ich habe keine schlechten, <span class=\"ebt-matched\">grausam</span>en und unmoralischen Dinge getan. ",
+            "en": "‘Well, I haven’t done bad, violent, and depraved things. ",
+            "matched": true
+          }
+        },
+        "score": 4.06,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n19. Brahmanen\n184. Ohne Furcht",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 67,
+          "de": 66,
+          "en": 66
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.216_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.216_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.216_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.216",
+        "lang": "de",
+        "segMap": {
+          "an5.216:1.3": {
+            "scid": "an5.216:1.3",
+            "pli": "Bahuno janassa appiyo hoti amanāpo, luddo ca hoti, vippaṭisārī ca, sammūḷho kālaṁ karoti, kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati. ",
+            "de": "Man ist bei vielen Menschen unerwünscht und unbeliebt. Man ist <span class=\"ebt-matched\">grausam</span> und wird zerknirscht. Wenn man stirbt, fühlt man sich verloren. Und wenn der Körper auseinanderbricht, nach dem Tod, wird man an einem verlorenen Ort wiedergeboren, einem schlechten Ort, in der Unterwelt, der Hölle. ",
+            "en": "Most people find you unlikable and unlovable. You’re cruel and remorseful. You feel lost when you die. And when your body breaks up, after death, you’re reborn in a place of loss, a bad place, the underworld, hell. ",
+            "matched": true
+          },
+          "an5.216:2.3": {
+            "scid": "an5.216:2.3",
+            "pli": "Bahuno janassa piyo hoti manāpo, aluddo ca hoti, avippaṭisārī ca, asammūḷho kālaṁ karoti, kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati. ",
+            "de": "Man ist vielen Menschen lieb und teuer. Man ist nicht <span class=\"ebt-matched\">grausam</span> und wird nicht zerknirscht. Wenn man stirbt, fühlt man sich nicht verloren. Und wenn der Körper auseinanderbricht, nach dem Tod, wird man an einem guten Ort wiedergeboren, in einem himmlischen Bereich. ",
+            "en": "Most people find you likable and lovable. You’re neither cruel nor remorseful. You don’t feel lost when you die. And when your body breaks up, after death, you’re reborn in a good place, a heavenly realm. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n22. Beschimpfung\n216. Jähzorn (2)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.138_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.138_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.138_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.138",
+        "lang": "de",
+        "segMap": {
+          "an4.138:2.3": {
+            "scid": "an4.138:2.3",
+            "pli": "So tattha kāmavitakkampi vitakketi byāpādavitakkampi vitakketi vihiṁsāvitakkampi vitakketi. ",
+            "de": "Doch sie denkt sinnliche, boshafte und <span class=\"ebt-matched\">grausam</span>e Gedanken. ",
+            "en": "But they think sensual, malicious, and cruel thoughts. ",
+            "matched": true
+          },
+          "an4.138:4.3": {
+            "scid": "an4.138:4.3",
+            "pli": "So tattha kāmavitakkampi vitakketi byāpādavitakkampi vitakketi vihiṁsāvitakkampi vitakketi. ",
+            "de": "Und sie denkt sinnliche, boshafte und <span class=\"ebt-matched\">grausam</span>e Gedanken. ",
+            "en": "And they think sensual, malicious, and cruel thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 2.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n14. Menschen\n138. Zurückgezogen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 27,
+          "de": 26,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.124_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.124_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.124_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.124",
+        "lang": "de",
+        "segMap": {
+          "an3.124:1.8": {
+            "scid": "an3.124:1.8",
+            "pli": "Kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ—",
+            "de": "Sinnliche, boshafte und <span class=\"ebt-matched\">grausam</span>e Gedanken. … ",
+            "en": "Sensual, malicious, and cruel thoughts. … ",
+            "matched": true
+          },
+          "an3.124:2.5": {
+            "scid": "an3.124:2.5",
+            "pli": "Kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ—",
+            "de": "Sinnliche, boshafte und <span class=\"ebt-matched\">grausam</span>e Gedanken. ",
+            "en": "Sensual, malicious, and cruel thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 2.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n13. Kusināra\n124. Zank",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 28,
+          "de": 27,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/mn/mn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/mn/mn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn33",
+        "lang": "de",
+        "segMap": {
+          "mn33:6.2": {
+            "scid": "mn33:6.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ adhivāseti, nappajahati na vinodeti na byantī karoti na anabhāvaṁ gameti. Uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ …pe… uppannuppanne pāpake akusale dhamme adhivāseti, nappajahati na vinodeti na byantī karoti na anabhāvaṁ gameti. ",
+            "de": "Da duldet ein Mönch einen sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken, der aufgekommen ist. Er duldet alle schlechten, untauglichen Eigenschaften, die aufgekommen sind. Er räumt sie nicht aus, macht sich nicht von ihnen los, beseitigt sie nicht und merzt sie nicht aus. ",
+            "en": "It’s when a mendicant tolerates a sensual, malicious, or cruel thought that has arisen. They tolerate any bad, unskillful qualities that have arisen. They don’t give them up, get rid of them, eliminate them, and obliterate them. ",
+            "matched": true
+          },
+          "mn33:19.2": {
+            "scid": "mn33:19.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti, pajahati vinodeti byantī karoti anabhāvaṁ gameti. Uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ …pe… uppannuppanne pāpake akusale dhamme nādhivāseti, pajahati vinodeti byantī karoti anabhāvaṁ gameti. ",
+            "de": "Da duldet ein Mönch einen sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken, der aufgekommen ist, nicht. Er duldet keine schlechten, untauglichen Eigenschaften, die aufgekommen sind. Er räumt sie aus, macht sich von ihnen los, beseitigt sie und merzt sie aus. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or cruel thought that has arisen. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 2.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Mittlere Lehrreden 33\nDie längere Lehrrede vom Kuhhirten",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 118,
+          "de": 117,
+          "en": 117
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.262_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.262_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.262_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.262",
+        "lang": "de",
+        "segMap": {
+          "an4.262:1.3": {
+            "scid": "an4.262:1.3",
+            "pli": "Kāmavitakkena, byāpādavitakkena, vihiṁsāvitakkena, duppañño hoti jaḷo elamūgo—",
+            "de": "Sie hat sinnliche, boshafte und <span class=\"ebt-matched\">grausam</span>e Gedanken; und sie ist geistlos, stumpf und dumm. ",
+            "en": "They have sensual, malicious, and cruel thoughts; or they’re witless, dull, and stupid. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n26. Einsicht\n262. Wildnis",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.165_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.165_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.165_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.165",
+        "lang": "de",
+        "segMap": {
+          "an4.165:5.2": {
+            "scid": "an4.165:5.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti pajahati vinodeti sameti byantīkaroti anabhāvaṁ gameti, uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ … uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti sameti byantīkaroti anabhāvaṁ gameti. ",
+            "de": "Es ist, wenn eine Nonne einen sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken, der aufgekommen ist, nicht duldet. Sie duldet keine schlechten, untauglichen Eigenschaften, die aufgekommen sind. Sie räumt sie aus, macht sich von ihnen los, beseitigt sie und merzt sie aus. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or cruel thought. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, calm them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 1.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n17. Übung\n165. Geduldig (2)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 26,
+          "de": 25,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.164_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.164_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.164_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.164",
+        "lang": "de",
+        "segMap": {
+          "an4.164:4.2": {
+            "scid": "an4.164:4.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti pajahati vinodeti sameti byantīkaroti anabhāvaṁ gameti; uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ … uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti sameti byantīkaroti anabhāvaṁ gameti. ",
+            "de": "Es ist, wenn ein Mönch einen sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken, der aufgekommen ist, nicht duldet. Er duldet keine schlechten, untauglichen Eigenschaften, die aufgekommen sind. Er räumt sie aus, macht sich von ihnen los, beseitigt sie und merzt sie aus. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or cruel thought. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, calm them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n17. Übung\n164. Geduldig (1)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "de": 26,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.123_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.123_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.123_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.123",
+        "lang": "de",
+        "segMap": {
+          "an3.123:3.6": {
+            "scid": "an3.123:3.6",
+            "pli": "So tattha kāmavitakkampi vitakketi, byāpādavitakkampi vitakketi, vihiṁsāvitakkampi vitakketi. ",
+            "de": "Er denkt daran mit sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken. ",
+            "en": "They think about it with sensual, malicious, or cruel thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 1.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n13. Kusināra\n123. In Kusināra",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 37,
+          "de": 36,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.114_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.114_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.114_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.114",
+        "lang": "de",
+        "segMap": {
+          "an4.114:8.2": {
+            "scid": "an4.114:8.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti pajahati vinodeti hanati byantīkaroti anabhāvaṁ gameti, uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ …pe… uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti hanati byantīkaroti anabhāvaṁ gameti. ",
+            "de": "Es ist, wenn eine Nonne einen sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken, der aufgekommen ist, nicht duldet. Sie duldet keine schlechten, untauglichen Eigenschaften, die aufgekommen sind. Sie räumt sie aus, macht sich von ihnen los, beseitigt sie und merzt sie aus. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or cruel thought. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 1.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n12. Mit Kesi\n114. Ein königlicher Elefant",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 40,
+          "de": 39,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.14_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.14_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.14_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.14",
+        "lang": "de",
+        "segMap": {
+          "an4.14:2.4": {
+            "scid": "an4.14:2.4",
+            "pli": "uppannaṁ vihiṁsāvitakkaṁ …pe… ",
+            "de": "oder <span class=\"ebt-matched\">grausam</span>en Gedanken, der aufgekommen ist, nicht duldet. ",
+            "en": "or cruel thought that’s arisen, but gives it up, gets rid of it, eliminates it, and obliterates it. ",
+            "matched": true
+          }
+        },
+        "score": 1.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n2. Gehen\n14. Zügelung",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 42,
+          "de": 41,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.101_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.101",
+        "lang": "de",
+        "segMap": {
+          "an3.101:2.2": {
+            "scid": "an3.101:2.2",
+            "pli": "Tasmiṁ pahīne tasmiṁ byantīkate santi adhicittamanuyuttassa bhikkhuno majjhimasahagatā upakkilesā kāmavitakko byāpādavitakko vihiṁsāvitakko, tamenaṁ sacetaso bhikkhu dabbajātiko pajahati vinodeti byantīkaroti anabhāvaṁ gameti. ",
+            "de": "Wenn sie ausgeräumt und beseitigt sind, bleiben mittlere Verunreinigungen: sinnliche, boshafte oder <span class=\"ebt-matched\">grausam</span>e Gedanken. Eine ernsthafte und fähige Nonne räumt diese Dinge aus, macht sich von ihnen los, beseitigt sie und merzt sie aus. ",
+            "en": "When they’ve been given up and eliminated, there are middling corruptions: sensual, malicious, or cruel thoughts. A sincere, capable mendicant gives these up, gets rid of, eliminates, and obliterates them. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n10. Ein Salzklümpchen\n101. Ein Goldwäscher",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 52,
+          "de": 51,
+          "en": 51
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.140_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.140",
+        "lang": "de",
+        "segMap": {
+          "an5.140:10.2": {
+            "scid": "an5.140:10.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti, pajahati vinodeti hanati byantīkaroti anabhāvaṁ gameti; uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ …pe… uppannuppanne pāpake akusale dhamme nādhivāseti, pajahati vinodeti hanati byantīkaroti anabhāvaṁ gameti. ",
+            "de": "Es ist, wenn eine Nonne einen sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken, der aufgekommen ist, nicht duldet. Sie duldet keine schlechten, untauglichen Eigenschaften, die aufgekommen sind. Sie räumt sie aus, macht sich von ihnen los, beseitigt sie und merzt sie aus. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or cruel thought. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, calm them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n14. Könige\n140. Zuhörer",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 59,
+          "de": 50,
+          "en": 57
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.58_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.58",
+        "lang": "de",
+        "segMap": {
+          "an6.58:7.4": {
+            "scid": "an6.58:7.4",
+            "pli": "uppannaṁ vihiṁsāvitakkaṁ …  ",
+            "de": "oder <span class=\"ebt-matched\">grausam</span>en Gedanken, der aufgekommen ist, nicht. ",
+            "en": "or cruel thought that has arisen.  ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n6. Das große Kapitel\n58. Befleckungen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 59,
+          "de": 58,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.57_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.57",
+        "lang": "de",
+        "segMap": {
+          "an6.57:2.1": {
+            "scid": "an6.57:2.1",
+            "pli": "Tatridaṁ, bhante, pūraṇena kassapena kaṇhābhijāti paññattā, orabbhikā sūkarikā sākuṇikā māgavikā luddā macchaghātakā corā coraghātakā bandhanāgārikā ye vā panaññepi keci kurūrakammantā. ",
+            "de": "Die schwarze Wiedergeburtsklasse besteht aus denen, die Schafe, Schweine, Geflügel oder Rotwild schlachten, der Jagd oder Fischerei nachgehen, die Räuber oder Henker, Rindermetzger oder Kerkermeister sind oder ein anderes <span class=\"ebt-matched\">grausam</span>es Geschäft betreiben. ",
+            "en": "The black class of rebirth consists of slaughterers of sheep, pigs, poultry, or deer, hunters or fishers, bandits, executioners, butchers of cattle, jailers, and any others with a cruel livelihood. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n6. Das große Kapitel\n57. Wiedergeburtsklassen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 67,
+          "de": 62,
+          "en": 66
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.40_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.40_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.40_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.40",
+        "lang": "de",
+        "segMap": {
+          "an3.40:2.7": {
+            "scid": "an3.40:2.7",
+            "pli": "Ahañceva kho pana evaṁ pabbajito samāno kāmavitakkaṁ vā vitakkeyyaṁ, byāpādavitakkaṁ vā vitakkeyyaṁ, vihiṁsāvitakkaṁ vā vitakkeyyaṁ, mahā kho panāyaṁ lokasannivāso. ",
+            "de": "Und jetzt, da ich fortgezogen bin, könnte ich sinnliche, boshafte oder <span class=\"ebt-matched\">grausam</span>e Gedanken haben. Doch groß ist die Zahl der Wesen, die in der Welt leben, ",
+            "en": "And now, since I’ve now gone forth, I might have sensual, malicious, or cruel thoughts. But the population of the world is large, ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n4. Götterboten\n40. Sich in die Pflicht nehmen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 75,
+          "de": 73,
+          "en": 73
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an10/an10.60_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.60",
+        "lang": "de",
+        "segMap": {
+          "an10.60:8.2": {
+            "scid": "an10.60:8.2",
+            "pli": "Idhānanda, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti. Uppannaṁ byāpādavitakkaṁ nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti. Uppannaṁ vihiṁsāvitakkaṁ nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti. Uppannuppanne pāpake akusale dhamme nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti. ",
+            "de": "Es ist, wenn ein Mönch einen sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken, der aufgekommen ist, nicht duldet. Er duldet keine schlechten, untauglichen Eigenschaften, die aufgekommen sind. Er räumt sie aus, macht sich von ihnen los, beseitigt sie und merzt sie aus. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or cruel thought that has arisen, and they don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 10\n6. Der eigene Geist\n60. Mit Girimānanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 80,
+          "de": 78,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.198_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.198",
+        "lang": "de",
+        "segMap": {
+          "an4.198:5.2": {
+            "scid": "an4.198:5.2",
+            "pli": "Idha, bhikkhave, ekacco puggalo orabbhiko hoti sūkariko sākuṇiko māgaviko luddo macchaghātako coro coraghātako goghātako bandhanāgāriko, ye vā panaññepi keci kurūrakammantā. ",
+            "de": "Da schlachtet jemand Schafe, Schweine, Geflügel oder Rotwild, geht der Jagd oder Fischerei nach, ist ein Räuber oder Henker, ein Rindermetzger oder Kerkermeister oder betreibt ein anderes <span class=\"ebt-matched\">grausam</span>es Geschäft. ",
+            "en": "It’s when a person is a slaughterer of sheep, pigs, poultry, or deer, a hunter or fisher, a bandit, an executioner, a butcher of cattle, a jailer, or has some other cruel livelihood. ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n20. Das große Kapitel\n198. Selbstquälerei",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 111,
+          "de": 110,
+          "en": 110
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn2_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/mn/mn2_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/mn/mn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn2",
+        "lang": "de",
+        "segMap": {
+          "mn2:20.2": {
+            "scid": "mn2:20.2",
+            "pli": "Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso uppannaṁ kāmavitakkaṁ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṁ gameti, uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ …pe… uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṁ gameti. ",
+            "de": "Es ist, wenn eine Nonne genau nachdenkt und einen sinnlichen, boshaften oder <span class=\"ebt-matched\">grausam</span>en Gedanken, der aufgekommen ist, nicht duldet. Sie duldet keine schlechten, untauglichen Eigenschaften, die aufgekommen sind. Sie räumt sie aus, macht sich von ihnen los, beseitigt sie und merzt sie aus. ",
+            "en": "Take a mendicant who, reflecting properly, doesn’t tolerate a sensual, malicious, or cruel thought that has arisen, but gives it up, gets rid of it, eliminates it, and obliterates it. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Mittlere Lehrreden 2\nAlle Befleckungen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 125,
+          "de": 124,
+          "en": 124
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn7_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/mn/mn7_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/mn/mn7_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn7",
+        "lang": "de",
+        "segMap": {
+          "mn7:20.10": {
+            "scid": "mn7:20.10",
+            "pli": "Veriṁ katakibbisaṁ naraṁ, ",
+            "de": "Sie können einen <span class=\"ebt-matched\">grausam</span>en Verbrecher ",
+            "en": "They can’t cleanse a cruel and criminal person ",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Mittlere Lehrreden 7\nDas Gleichnis vom Tuch",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 147,
+          "de": 146,
+          "en": 146
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn17",
+        "lang": "de",
+        "segMap": {
+          "dn17:2.2.2": {
+            "scid": "dn17:2.2.2",
+            "pli": "‘tiṭṭha, kāmavitakka, tiṭṭha, byāpādavitakka, tiṭṭha, vihiṁsāvitakka. ",
+            "de": "‚Macht Halt, ihr sinnlichen, boshaften und <span class=\"ebt-matched\">grausam</span>en Gedanken! ",
+            "en": "‘Stop here, sensual, malicious, and cruel thoughts—",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 17\nDer König Mahāsudassana",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 444,
+          "de": 359,
+          "en": 443
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn32_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn32_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn32_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn32",
+        "lang": "de",
+        "segMap": {
+          "dn32:9.1": {
+            "scid": "dn32:9.1",
+            "pli": "Santi hi, mārisa, amanussā caṇḍā ruddhā rabhasā, te neva mahārājānaṁ ādiyanti, na mahārājānaṁ purisakānaṁ ādiyanti, na mahārājānaṁ purisakānaṁ purisakānaṁ ādiyanti. ",
+            "de": "Denn, lieber Herr, es gibt nicht-menschliche Wesen, die grimmig, <span class=\"ebt-matched\">grausam</span> und gewalttätig sind. Sie gehorchen den Großen Königen oder ihren Männern oder den Männern ihrer Männer nicht. ",
+            "en": "For there are, dear sir, non-humans who are fierce, cruel, and violent. They don’t obey the Great Kings or their men or their men’s men. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 32\nDer Āṭānāṭiya-Schutz\n1. Der erste Abschnitt zum Aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 574,
+          "de": 291,
+          "en": 573
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:2.3.91": {
+            "scid": "dn34:2.3.91",
+            "pli": "Idhāvuso, bhikkhuno kāmasaṅkappo pahīno hoti, byāpādasaṅkappo pahīno hoti, vihiṁsāsaṅkappo pahīno hoti. ",
+            "de": "Es ist, wenn er sinnliche, boshafte und <span class=\"ebt-matched\">grausam</span>e Absichten abgelegt hat. ",
+            "en": "It’s when they’ve given up sensual, malicious, and cruel intentions. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

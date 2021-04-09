@@ -1,0 +1,342 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "fewness of wishes",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "fewness of wishes",
+    "method": "phrase",
+    "resultPattern": "\\bfewness of wishes",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn122_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn122_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.90_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.90_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga4/ud4.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga4/ud4.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.23_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.23_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.97_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.97_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.69_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.69_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.30_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn122/en/sujato",
+      "an5.90/en/sujato",
+      "ud4.1/en/sujato",
+      "an9.3/en/sujato",
+      "an9.1/en/sujato",
+      "an8.23/en/sujato",
+      "an5.97/en/sujato",
+      "an10.69/en/sujato",
+      "an10.30/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.90_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.90_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.90",
+        "lang": "en",
+        "segMap": {
+          "an5.90:5.2": {
+            "scid": "an5.90:5.2",
+            "pli": "appicchakathā santuṭṭhikathā pavivekakathā asaṁsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya na nikāmalābhī hoti na akicchalābhī na akasiralābhī; ",
+            "en": "talk about <span class=\"ebt-matched\">fewness of wishes</span>, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. ",
+            "matched": true
+          },
+          "an5.90:10.2": {
+            "scid": "an5.90:10.2",
+            "pli": "appicchakathā santuṭṭhikathā pavivekakathā asaṁsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī akasiralābhī; ",
+            "en": "talk about <span class=\"ebt-matched\">fewness of wishes</span>, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. ",
+            "matched": true
+          }
+        },
+        "score": 2.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n9. Senior Mendicants\n90. A Trainee (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 48,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn122_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn122_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn122",
+        "lang": "en",
+        "segMap": {
+          "mn122:12.4": {
+            "scid": "mn122:12.4",
+            "pli": "Yā ca kho ayaṁ, ānanda, kathā abhisallekhikā cetovinīvaraṇasappāyā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati, seyyathidaṁ—appicchakathā santuṭṭhikathā pavivekakathā asaṁsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā iti: ‘evarūpiṁ kathaṁ kathessāmī’ti. ",
+            "en": "‘But I will take part in talk about self-effacement that helps open the heart and leads solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. That is, talk about <span class=\"ebt-matched\">fewness of wishes</span>, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom.’ ",
+            "matched": true
+          },
+          "mn122:20.4": {
+            "scid": "mn122:20.4",
+            "pli": "Yā ca kho ayaṁ, ānanda, kathā abhisallekhikā cetovinīvaraṇasappāyā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati, seyyathidaṁ—appicchakathā santuṭṭhikathā pavivekakathā asaṁsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā—evarūpiyā kho, ānanda, kathāya hetu arahati sāvako satthāraṁ anubandhituṁ api paṇujjamāno. ",
+            "en": "But a disciple should value following the Teacher, even if asked to go away, for the sake of talk about self-effacement that helps open the heart and leads solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. That is, talk about <span class=\"ebt-matched\">fewness of wishes</span>, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. ",
+            "matched": true
+          }
+        },
+        "score": 2.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 122\nThe Longer Discourse on Emptiness",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 172,
+          "en": 171
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.97_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.97_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.97",
+        "lang": "en",
+        "segMap": {
+          "an5.97:1.7": {
+            "scid": "an5.97:1.7",
+            "pli": "appicchakathā …pe… vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī akasiralābhī; ",
+            "en": "talk about <span class=\"ebt-matched\">fewness of wishes</span>, contentment, seclusion, keeping your distance, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. ",
+            "matched": true
+          }
+        },
+        "score": 1.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n10. With Kakudha\n97. Talk",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 13,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.69_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.69_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.69",
+        "lang": "en",
+        "segMap": {
+          "an10.69:4.3": {
+            "scid": "an10.69:4.3",
+            "pli": "Appicchakathā, santuṭṭhikathā, pavivekakathā, asaṁsaggakathā, vīriyārambhakathā, sīlakathā, samādhikathā, paññākathā, vimuttikathā, vimuttiñāṇadassanakathāti—",
+            "en": "Talk about <span class=\"ebt-matched\">fewness of wishes</span>, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n7. Pairs\n69. Topics of Discussion (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.1",
+        "lang": "en",
+        "segMap": {
+          "an9.1:7.1": {
+            "scid": "an9.1:7.1",
+            "pli": "Puna caparaṁ, āvuso, bhikkhu yāyaṁ kathā abhisallekhikā cetovivaraṇasappāyā, seyyathidaṁ—appicchakathā santuṭṭhikathā pavivekakathā asaṁsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "Furthermore, a mendicant gets to take part in talk about self-effacement that helps open the heart, when they want, without trouble or difficulty. That is, talk about <span class=\"ebt-matched\">fewness of wishes</span>, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. ",
+            "matched": true
+          }
+        },
+        "score": 1.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n1. Awakening\n1. Awakening",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.30",
+        "lang": "en",
+        "segMap": {
+          "an10.30:9.1": {
+            "scid": "an10.30:9.1",
+            "pli": "Puna caparaṁ, bhante, bhagavā yāyaṁ kathā abhisallekhikā cetovivaraṇasappāyā, seyyathidaṁ—appicchakathā santuṭṭhikathā pavivekakathā asaṁsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpāya kathāya nikāmalābhī akicchalābhī akasiralābhī. ",
+            "en": "Furthermore, the Buddha gets to take part in talk about self-effacement that helps open the heart, when he wants, without trouble or difficulty. That is, talk about <span class=\"ebt-matched\">fewness of wishes</span>, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n3. The Great Chapter\n30. Kosala (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 49,
+          "en": 47
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.23_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.23",
+        "lang": "en",
+        "segMap": {
+          "an8.23:7.4": {
+            "scid": "an8.23:7.4",
+            "pli": "Tena hi tvaṁ, bhikkhu, imināpi aṭṭhamena acchariyena abbhutena dhammena samannāgataṁ hatthakaṁ āḷavakaṁ dhārehi, yadidaṁ appicchatāyā”ti. ",
+            "en": "Well then, mendicant, you should remember the householder Hatthaka of Āḷavī as someone who has this eighth amazing and incredible quality, that is, <span class=\"ebt-matched\">fewness of wishes</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 1.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n3. Householders\n23. With Hatthaka (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 56,
+          "en": 55
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.3",
+        "lang": "en",
+        "segMap": {
+          "an9.3:12.1": {
+            "scid": "an9.3:12.1",
+            "pli": "Puna caparaṁ, meghiya, yāyaṁ kathā abhisallekhikā cetovivaraṇasappāyā, seyyathidaṁ—appicchakathā santuṭṭhikathā pavivekakathā asaṁsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "en": "Furthermore, a mendicant gets to take part in talk about self-effacement that helps open the heart, when they want, without trouble or difficulty. That is, talk about <span class=\"ebt-matched\">fewness of wishes</span>, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n1. Awakening\n3. With Meghiya",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 74,
+          "en": 73
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga4/ud4.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga4/ud4.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud4.1",
+        "lang": "en",
+        "segMap": {
+          "ud4.1:14.1": {
+            "scid": "ud4.1:14.1",
+            "pli": "Puna caparaṁ, meghiya, bhikkhu yāyaṁ kathā abhisallekhikā cetovivaraṇasappāyā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati, seyyathidaṁ—",
+            "en": "Furthermore, a mendicant gets to take part in talk about self-effacement that helps open the heart and leads solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment when they want, without trouble or difficulty. That is, talk about <span class=\"ebt-matched\">fewness of wishes</span>, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n4.1. With Meghiya",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 91,
+          "en": 68
+        }
+      }
+    ]
+  }
+}

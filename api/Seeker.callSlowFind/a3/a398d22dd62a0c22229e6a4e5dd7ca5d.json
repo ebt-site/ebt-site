@@ -1,0 +1,290 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "puppet",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "puppet",
+    "method": "phrase",
+    "resultPattern": "\\bpuppet",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn5/sn5.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn5/sn5.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig14.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig14.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag17.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag17.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn48/sn48.41_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn48/sn48.41_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn82_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn82_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag20.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag20.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag16.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag16.4_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn5.9/en/sujato",
+      "thig14.1/en/sujato",
+      "thag17.3/en/sujato",
+      "sn48.41/en/sujato",
+      "mn82/en/sujato",
+      "thag20.1/en/sujato",
+      "thag16.4/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn5/sn5.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn5/sn5.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn5.9",
+        "lang": "en",
+        "segMap": {
+          "sn5.9:2.1": {
+            "scid": "sn5.9:2.1",
+            "pli": "“Kenidaṁ pakataṁ bimbaṁ, ",
+            "en": "“Who created this <span class=\"ebt-matched\">puppet</span>? ",
+            "matched": true
+          },
+          "sn5.9:2.3": {
+            "scid": "sn5.9:2.3",
+            "pli": "Kvanu bimbaṁ samuppannaṁ, ",
+            "en": "Where has the <span class=\"ebt-matched\">puppet</span> arisen? ",
+            "matched": true
+          },
+          "sn5.9:4.1": {
+            "scid": "sn5.9:4.1",
+            "pli": "“Nayidaṁ attakataṁ bimbaṁ, ",
+            "en": "“This <span class=\"ebt-matched\">puppet</span> isn’t self-made, ",
+            "matched": true
+          }
+        },
+        "score": 3.1,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 5\n1. Nuns\n9. With Selā",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 30,
+          "en": 30
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig14.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig14.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig14.1",
+        "lang": "en",
+        "segMap": {
+          "thig14.1:25.2": {
+            "scid": "thig14.1:25.2",
+            "pli": "Sombhā dārukapillakāni vā;",
+            "en": "dolls and wooden <span class=\"ebt-matched\">puppet</span>s,",
+            "matched": true
+          },
+          "thig14.1:29.4": {
+            "scid": "thig14.1:29.4",
+            "pli": "Janamajjheriva rupparūpakaṁ.",
+            "en": "like a <span class=\"ebt-matched\">puppet</span> show among the people.",
+            "matched": true
+          }
+        },
+        "score": 2.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Book of the Thirties\n14.1. Subhā of Jīvaka’s Mango Grove",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 142,
+          "en": 140
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag17.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag17.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag17.3",
+        "lang": "en",
+        "segMap": {
+          "thag17.3:3.1": {
+            "scid": "thag17.3:3.1",
+            "pli": "Passa cittakataṁ bimbaṁ,",
+            "en": "“See this fancy <span class=\"ebt-matched\">puppet</span>,",
+            "matched": true
+          },
+          "thag17.3:4.1": {
+            "scid": "thag17.3:4.1",
+            "pli": "Passa cittakataṁ bimbaṁ,",
+            "en": "See this fancy <span class=\"ebt-matched\">puppet</span>,",
+            "matched": true
+          }
+        },
+        "score": 2.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Thirties\nChapter One\n17.3. Ānanda",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 160,
+          "en": 152
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn48/sn48.41_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn48/sn48.41_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn48.41",
+        "lang": "en",
+        "segMap": {
+          "sn48.41:5.3": {
+            "scid": "sn48.41:5.3",
+            "pli": "Tāva manoramaṁ bimbaṁ, ",
+            "en": "That’s how much this delightful <span class=\"ebt-matched\">puppet</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.04,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 48\n5. Old Age\n41. Old Age",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 25,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag16.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag16.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag16.4",
+        "lang": "en",
+        "segMap": {
+          "thag16.4:1.1": {
+            "scid": "thag16.4:1.1",
+            "pli": "“Passa cittakataṁ bimbaṁ,",
+            "en": "“See this fancy <span class=\"ebt-matched\">puppet</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Twenties\nChapter One\n16.4. Raṭṭhapāla",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 105,
+          "en": 104
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag20.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag20.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag20.1",
+        "lang": "en",
+        "segMap": {
+          "thag20.1:12.1": {
+            "scid": "thag20.1:12.1",
+            "pli": "“Passa cittakataṁ bimbaṁ,",
+            "en": "“See this fancy <span class=\"ebt-matched\">puppet</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Sixties\nChapter One\n20.1. Mahāmoggallāna",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 299,
+          "en": 293
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn82_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn82_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn82",
+        "lang": "en",
+        "segMap": {
+          "mn82:25.1": {
+            "scid": "mn82:25.1",
+            "pli": "“Passa cittīkataṁ bimbaṁ, ",
+            "en": "“See this fancy <span class=\"ebt-matched\">puppet</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 82\nWith Raṭṭhapāla",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 434,
+          "en": 433
+        }
+      }
+    ]
+  }
+}

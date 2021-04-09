@@ -1,0 +1,246 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "pools fill up the lakes",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "pools fill up the lakes",
+    "method": "phrase",
+    "resultPattern": "\\bpools fill up the lakes",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an10/an10.62_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.62_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.61_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn55/sn55.38_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.38_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.23_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.23_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.147_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.147_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.95_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.95_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an10.62/en/sujato",
+      "an10.61/en/sujato",
+      "sn55.38/en/sujato",
+      "sn12.23/en/sujato",
+      "an4.147/en/sujato",
+      "an3.95/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.61_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.61",
+        "lang": "en",
+        "segMap": {
+          "an10.61:4.1": {
+            "scid": "an10.61:4.1",
+            "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante (…) taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti. Kusobbhā paripūrā mahāsobbhe paripūrenti, mahāsobbhā paripūrā kunnadiyo paripūrenti, kunnadiyo paripūrā mahānadiyo paripūrenti, mahānadiyo paripūrā mahāsamuddaṁ sāgaraṁ paripūrenti; ",
+            "en": "It’s like when the rain pours down on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The <span class=\"ebt-matched\">pools fill up the lakes</span>, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
+            "matched": true
+          },
+          "an10.61:8.1": {
+            "scid": "an10.61:8.1",
+            "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti, kusobbhā paripūrā mahāsobbhe paripūrenti, mahāsobbhā paripūrā kunnadiyo paripūrenti, kunnadiyo paripūrā mahānadiyo paripūrenti, mahānadiyo paripūrā mahāsamuddaṁ sāgaraṁ paripūrenti; ",
+            "en": "It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The <span class=\"ebt-matched\">pools fill up the lakes</span>, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
+            "matched": true
+          }
+        },
+        "score": 2.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n7. Pairs\n61. Ignorance",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 69,
+          "en": 68
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.62_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.62_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.62",
+        "lang": "en",
+        "segMap": {
+          "an10.62:4.1": {
+            "scid": "an10.62:4.1",
+            "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti, kusobbhā paripūrā mahāsobbhe paripūrenti, mahāsobbhā paripūrā kunnadiyo paripūrenti, kunnadiyo paripūrā mahānadiyo paripūrenti, mahānadiyo paripūrā mahāsamuddaṁ sāgaraṁ paripūrenti; ",
+            "en": "It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The <span class=\"ebt-matched\">pools fill up the lakes</span>, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
+            "matched": true
+          },
+          "an10.62:8.1": {
+            "scid": "an10.62:8.1",
+            "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṁ udakaṁ yathāninnaṁ pavattamānaṁ …pe… ",
+            "en": "It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The <span class=\"ebt-matched\">pools fill up the lakes</span>, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
+            "matched": true
+          }
+        },
+        "score": 2.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n7. Pairs\n62. Craving",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 72,
+          "en": 71
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn55/sn55.38_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn55/sn55.38_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn55.38",
+        "lang": "en",
+        "segMap": {
+          "sn55.38:1.1": {
+            "scid": "sn55.38:1.1",
+            "pli": "“Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti, kusobbhā paripūrā mahāsobbhe paripūrenti, mahāsobbhā paripūrā kunnadiyo paripūrenti, kunnadiyo paripūrā mahānadiyo paripūrenti, mahānadiyo paripūrā mahāsamuddaṁ paripūrenti; ",
+            "en": "“Mendicants, suppose it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The <span class=\"ebt-matched\">pools fill up the lakes</span>, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
+            "matched": true
+          }
+        },
+        "score": 1.143,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 55\n4. Overflowing Merit\n38. Rain",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 7,
+          "en": 6
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.147_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.147_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.147",
+        "lang": "en",
+        "segMap": {
+          "an4.147:2.1": {
+            "scid": "an4.147:2.1",
+            "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti; pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti; kusobbhā paripūrā mahāsobbhe paripūrenti; mahāsobbhā paripūrā kunnadiyo paripūrenti; kunnadiyo paripūrā mahānadiyo paripūrenti; mahānadiyo paripūrā samuddaṁ paripūrenti. ",
+            "en": "It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The <span class=\"ebt-matched\">pools fill up the lakes</span>, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
+            "matched": true
+          }
+        },
+        "score": 1.1,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n15. Brightness\n147. Times (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 10,
+          "en": 9
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.95_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.95_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.95",
+        "lang": "en",
+        "segMap": {
+          "an3.95:6.1": {
+            "scid": "an3.95:6.1",
+            "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti, kusobbhā paripūrā mahāsobbhe paripūrenti, mahāsobbhā paripūrā kunnadiyo paripūrenti, kunnadiyo paripūrā mahānadiyo paripūrenti, mahānadiyo paripūrā samuddaṁ paripūrenti. ",
+            "en": "It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The <span class=\"ebt-matched\">pools fill up the lakes</span>, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n95. Assemblies",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.23_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.23",
+        "lang": "en",
+        "segMap": {
+          "sn12.23:7.1": {
+            "scid": "sn12.23:7.1",
+            "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti. Pabbatakandarapadarasākhāparipūrā kusobbhe paripūrenti. Kusobbhā paripūrā mahāsobbhe paripūrenti. Mahāsobbhā paripūrā kunnadiyo paripūrenti. Kunnadiyo paripūrā mahānadiyo paripūrenti. Mahānadiyo paripūrā mahāsamuddaṁ paripūrenti. ",
+            "en": "It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The <span class=\"ebt-matched\">pools fill up the lakes</span>, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n3. The Ten Powers\n23. Vital Conditions",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 93,
+          "en": 92
+        }
+      }
+    ]
+  }
+}

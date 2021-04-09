@@ -1,0 +1,22 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bmuch suffering and distress",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json:7",
+    "translation/en/sujato/sutta/an/an5/an5.76_translation-en-sujato.json:5",
+    "translation/en/sujato/sutta/sn/sn1/sn1.20_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn54_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn14_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn4/sn4.21_translation-en-sujato.json:1"
+  ]
+}

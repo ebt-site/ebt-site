@@ -1,0 +1,20 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bpañcasikha",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/dn/dn21_translation-de-sabbamitta.json:19",
+    "translation/de/sabbamitta/sutta/dn/dn19_translation-de-sabbamitta.json:5",
+    "translation/de/sabbamitta/sutta/dn/dn20_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn18_translation-de-sabbamitta.json:1"
+  ]
+}

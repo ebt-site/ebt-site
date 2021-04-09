@@ -1,0 +1,208 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "burst out in tears",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "burst out in tears",
+    "method": "phrase",
+    "resultPattern": "\\bburst out in tears",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn57_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn57_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn42/sn42.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn42/sn42.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn42/sn42.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn42/sn42.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn143_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn143_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn57/en/sujato",
+      "sn42.3/en/sujato",
+      "sn42.2/en/sujato",
+      "mn143/en/sujato",
+      "dn17/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn57_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn57_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn57",
+        "lang": "en",
+        "segMap": {
+          "mn57:4.1": {
+            "scid": "mn57:4.1",
+            "pli": "Evaṁ vutte, acelo seniyo kukkuravatiko parodi, assūni pavattesi. ",
+            "en": "When he said this, Seniya cried and <span class=\"ebt-matched\">burst out in tears</span>. ",
+            "matched": true
+          },
+          "mn57:6.1": {
+            "scid": "mn57:6.1",
+            "pli": "Evaṁ vutte, puṇṇo koliyaputto govatiko parodi, assūni pavattesi. ",
+            "en": "When he said this, Puṇṇa cried and <span class=\"ebt-matched\">burst out in tears</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 57\nThe Ascetic Who Behaved Like a Dog",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 114,
+          "en": 113
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn42/sn42.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn42/sn42.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn42.3",
+        "lang": "en",
+        "segMap": {
+          "sn42.3:3.1": {
+            "scid": "sn42.3:3.1",
+            "pli": "Evaṁ vutte, yodhājīvo gāmaṇi parodi, assūni pavattesi. ",
+            "en": "When he said this, Dustin the warrior chief cried and <span class=\"ebt-matched\">burst out in tears</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 42\n1. Chiefs\n3. A Warrior",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn42/sn42.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn42/sn42.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn42.2",
+        "lang": "en",
+        "segMap": {
+          "sn42.2:3.1": {
+            "scid": "sn42.2:3.1",
+            "pli": "Evaṁ vutte, tālapuṭo naṭagāmaṇi parodi assūni pavattesi. ",
+            "en": "When he said this, Tāḷapuṭa cried and <span class=\"ebt-matched\">burst out in tears</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 42\n1. Chiefs\n2. With Tāḷapuṭa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn143_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn143_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn143",
+        "lang": "en",
+        "segMap": {
+          "mn143:15.1": {
+            "scid": "mn143:15.1",
+            "pli": "Evaṁ vutte, anāthapiṇḍiko gahapati parodi, assūni pavattesi. ",
+            "en": "When he said this, Anāthapiṇḍika cried and <span class=\"ebt-matched\">burst out in tears</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 143\nAdvice to Anāthapiṇḍika",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 193,
+          "en": 192
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn17",
+        "lang": "en",
+        "segMap": {
+          "dn17:2.12.1": {
+            "scid": "dn17:2.12.1",
+            "pli": "Evaṁ vutte, ānanda, subhaddā devī parodi assūni pavattesi. ",
+            "en": "When the king had spoken, Queen Subhaddā cried and <span class=\"ebt-matched\">burst out in tears</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 17\nKing Mahāsudassana",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 444,
+          "en": 443
+        }
+      }
+    ]
+  }
+}

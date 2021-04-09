@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\beinäugige schildkröte",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/sn/sn56/sn56.47_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/sn/sn56/sn56.48_translation-de-sabbamitta.json:2"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "das ist allein die wahrheit",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "das ist allein die wahrheit",
+    "method": "phrase",
+    "resultPattern": "\\bdas ist allein die wahrheit",
+    "segsMatched": 12,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn29_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn29_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn29_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.42-51_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.42-51_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.42-51_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn21_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn29/de/sabbamitta",
+      "an2.42-51/de/sabbamitta",
+      "dn21/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn29_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn29_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn29_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn29",
+        "lang": "de",
+        "segMap": {
+          "dn29:30.2": {
+            "scid": "dn29:30.2",
+            "pli": "‘kiṁ nu kho, āvuso, hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti? ",
+            "de": "‚Ist das eure Ansicht: „Ein Klargewordener besteht nach dem Tod. Das allein ist die Wahrheit, alles andere ist dumm“?‘ ",
+            "en": "‘Is this your view: “A Realized One exists after death. This is the only truth, other ideas are silly”?’ ",
+            "matched": true
+          },
+          "dn29:30.7": {
+            "scid": "dn29:30.7",
+            "pli": "‘kiṁ panāvuso, na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti? ",
+            "de": "‚Dann ist das eure Ansicht: „Ein Klargewordener besteht nicht nach dem Tod. Das allein ist die Wahrheit, alles andere ist dumm“?‘ ",
+            "en": "‘Then is this your view: “A Realized One doesn’t exist after death. This is the only truth, other ideas are silly”?’ ",
+            "matched": true
+          },
+          "dn29:30.12": {
+            "scid": "dn29:30.12",
+            "pli": "‘kiṁ panāvuso, hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti? ",
+            "de": "‚Dann ist das eure Ansicht: „Ein Klargewordener besteht nach dem Tod und besteht auch nicht. Das allein ist die Wahrheit, alles andere ist dumm“?‘ ",
+            "en": "‘Then is this your view: “A Realized One both exists and doesn’t exist after death. This is the only truth, other ideas are silly”?’ ",
+            "matched": true
+          },
+          "dn29:30.17": {
+            "scid": "dn29:30.17",
+            "pli": "‘kiṁ panāvuso, neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti? ",
+            "de": "‚Dann ist das eure Ansicht: „Ein Klargewordener besteht weder nach dem Tod, noch besteht er nicht. Das allein ist die Wahrheit, alles andere ist dumm“?‘ ",
+            "en": "‘Then is this your view: “A Realized One neither exists nor doesn’t exist after death. This is the only truth, other ideas are silly”?’ ",
+            "matched": true
+          },
+          "dn29:34.8": {
+            "scid": "dn29:34.8",
+            "pli": "‘sassato attā ca loko ca, idameva saccaṁ moghamaññan’ti. ",
+            "de": "‚‚Das Selbst und das Weltall sind ewig. <span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
+            "en": "‘The self and the cosmos are eternal. This is the only truth, other ideas are silly.’ ",
+            "matched": true
+          },
+          "dn29:34.24": {
+            "scid": "dn29:34.24",
+            "pli": "asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ sukhadukkhaṁ, idameva saccaṁ moghamaññan’ti. ",
+            "de": "oder sie sind durch Zufall entstanden und wurden weder von einem selbst  noch von jemand anderem geschaffen. <span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
+            "en": "or they have arisen by chance, not made by oneself or another. This is the only truth, other ideas are silly.’ ",
+            "matched": true
+          },
+          "dn29:35.7": {
+            "scid": "dn29:35.7",
+            "pli": "‘idameva saccaṁ moghamaññan’ti. ",
+            "de": "<span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm‘, ",
+            "en": "This is the only truth, other ideas are silly,’ ",
+            "matched": true
+          },
+          "dn29:37.12": {
+            "scid": "dn29:37.12",
+            "pli": "attā ucchijjati vinassati na hoti paraṁ maraṇā, idameva saccaṁ moghamaññan’ti. ",
+            "de": "oder das Selbst wird vernichtet und zerstört, wenn der Körper auseinanderbricht, und besteht nach dem Tod nicht. Das allein ist die Wahrheit, alles andere ist dumm.‘ ",
+            "en": "or the self is annihilated and destroyed when the body breaks up, and doesn’t exist after death. This is the only truth, other ideas are silly.’ ",
+            "matched": true
+          },
+          "dn29:38.7": {
+            "scid": "dn29:38.7",
+            "pli": "‘idameva saccaṁ moghamaññan’ti. ",
+            "de": "<span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm‘, ",
+            "en": "This is the only truth, other ideas are silly,’ ",
+            "matched": true
+          }
+        },
+        "score": 9.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 29\nEine beeindruckende Lehrrede",
+        "segsMatched": 9,
+        "langSegs": {
+          "pli": 465,
+          "de": 404,
+          "en": 464
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.42-51_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.42-51_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.42-51_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.42-51",
+        "lang": "de",
+        "segMap": {
+          "an2.51:1.8": {
+            "scid": "an2.51:1.8",
+            "pli": "‘idameva saccaṁ moghamaññan’ti. ",
+            "de": "‚<span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
+            "en": "‘This is the only truth, other ideas are silly.’ ",
+            "matched": true
+          },
+          "an2.51:2.5": {
+            "scid": "an2.51:2.5",
+            "pli": "‘idameva saccaṁ moghamaññan’ti. ",
+            "de": "‚<span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
+            "en": "‘This is the only truth, other ideas are silly.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n5. Versammlungen\n42–51",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 146,
+          "de": 144,
+          "en": 144
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn21_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn21",
+        "lang": "de",
+        "segMap": {
+          "dn21:2.6.7": {
+            "scid": "dn21:2.6.7",
+            "pli": "‘idameva saccaṁ moghamaññan’ti. ",
+            "de": "‚<span class=\"ebt-matched\">Das ist allein die Wahrheit</span>, alles andere ist dumm.‘ ",
+            "en": "‘This is the only truth, other ideas are silly.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 21\nSakkas Fragen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 515,
+          "de": 477,
+          "en": 514
+        }
+      }
+    ]
+  }
+}

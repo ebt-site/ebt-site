@@ -1,0 +1,114 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "frucht des gebens",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "frucht des gebens",
+    "method": "phrase",
+    "resultPattern": "\\bfrucht des gebens",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.34/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.34",
+        "lang": "de",
+        "segMap": {
+          "an5.34:1.3": {
+            "scid": "an5.34:1.3",
+            "pli": "“sakkā nu kho, bhante, bhagavā sandiṭṭhikaṁ dānaphalaṁ paññāpetun”ti? ",
+            "de": "„Herr, kannst du eine <span class=\"ebt-matched\">Frucht des Gebens</span> aufzeigen, die in diesem Leben sichtbar ist?“ ",
+            "en": "“Sir, can you point out a fruit of giving that’s apparent in the present life?” ",
+            "matched": true
+          },
+          "an5.34:2.3": {
+            "scid": "an5.34:2.3",
+            "pli": "Yampi, sīha, dāyako dānapati bahuno janassa piyo hoti manāpo, idampi sandiṭṭhikaṁ dānaphalaṁ. ",
+            "de": "Das ist eine <span class=\"ebt-matched\">Frucht des Gebens</span>, die in diesem Leben sichtbar ist. ",
+            "en": "This is a fruit of giving that’s apparent in the present life. ",
+            "matched": true
+          },
+          "an5.34:3.2": {
+            "scid": "an5.34:3.2",
+            "pli": "Yampi, sīha, dāyakaṁ dānapatiṁ santo sappurisā bhajanti, idampi sandiṭṭhikaṁ dānaphalaṁ. ",
+            "de": "Das ist eine weitere <span class=\"ebt-matched\">Frucht des Gebens</span>, die in diesem Leben sichtbar ist. ",
+            "en": "This is another fruit of giving that’s apparent in the present life. ",
+            "matched": true
+          },
+          "an5.34:4.2": {
+            "scid": "an5.34:4.2",
+            "pli": "Yampi, sīha, dāyakassa dānapatino kalyāṇo kittisaddo abbhuggacchati, idampi sandiṭṭhikaṁ dānaphalaṁ. ",
+            "de": "Das ist eine weitere <span class=\"ebt-matched\">Frucht des Gebens</span>, die in diesem Leben sichtbar ist. ",
+            "en": "This is another fruit of giving that’s apparent in the present life. ",
+            "matched": true
+          },
+          "an5.34:5.2": {
+            "scid": "an5.34:5.2",
+            "pli": "Yampi, sīha, dāyako dānapati yaṁ yadeva parisaṁ upasaṅkamati—yadi khattiyaparisaṁ yadi brāhmaṇaparisaṁ yadi gahapatiparisaṁ yadi samaṇaparisaṁ—visārado upasaṅkamati amaṅkubhūto, idampi sandiṭṭhikaṁ dānaphalaṁ. ",
+            "de": "Das ist eine weitere <span class=\"ebt-matched\">Frucht des Gebens</span>, die in diesem Leben sichtbar ist. ",
+            "en": "This is another fruit of giving that’s apparent in the present life. ",
+            "matched": true
+          },
+          "an5.34:6.2": {
+            "scid": "an5.34:6.2",
+            "pli": "Yampi, sīha, dāyako dānapati kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati, idaṁ samparāyikaṁ dānaphalan”ti. ",
+            "de": "Das ist eine <span class=\"ebt-matched\">Frucht des Gebens</span>, die künftige Leben betrifft.“ ",
+            "en": "This is a fruit of giving to do with lives to come.” ",
+            "matched": true
+          }
+        },
+        "score": 6.14,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n4. Mit Sumanā\n34. Mit dem General Sīha",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 43,
+          "de": 42,
+          "en": 42
+        }
+      }
+    ]
+  }
+}

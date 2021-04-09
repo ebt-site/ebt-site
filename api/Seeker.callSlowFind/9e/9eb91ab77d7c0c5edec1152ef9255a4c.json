@@ -1,0 +1,228 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "lead to distinction",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "lead to distinction",
+    "method": "phrase",
+    "resultPattern": "\\blead to distinction",
+    "segsMatched": 18,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.71_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.71_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.179_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.179_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/en/sujato",
+      "an6.71/en/sujato",
+      "an4.179/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.2.1": {
+            "scid": "dn34:1.2.1",
+            "pli": "Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo. ",
+            "en": "Reverends, one thing is helpful, one thing should be developed, one thing should be completely understood, one thing should be given up, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing should be produced, one thing should be directly known, one thing should be realized. ",
+            "matched": true
+          },
+          "dn34:1.2.17": {
+            "scid": "dn34:1.2.17",
+            "pli": "Katamo eko dhammo visesabhāgiyo? ",
+            "en": "What one thing leads to distinction? ",
+            "matched": true
+          },
+          "dn34:1.3.1": {
+            "scid": "dn34:1.3.1",
+            "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
+            "en": "Two things are helpful, two things should be developed, two things should be completely understood, two things should be given up, two things make things worse, two things <span class=\"ebt-matched\">lead to distinction</span>, two things are hard to comprehend, two things should be produced, two things should be directly known, two things should be realized. ",
+            "matched": true
+          },
+          "dn34:1.3.17": {
+            "scid": "dn34:1.3.17",
+            "pli": "Katame dve dhammā visesabhāgiyā? ",
+            "en": "What two things <span class=\"ebt-matched\">lead to distinction</span>? ",
+            "matched": true
+          },
+          "dn34:1.4.21": {
+            "scid": "dn34:1.4.21",
+            "pli": "Katame tayo dhammā visesabhāgiyā? ",
+            "en": "What three things <span class=\"ebt-matched\">lead to distinction</span>? ",
+            "matched": true
+          },
+          "dn34:1.5.25": {
+            "scid": "dn34:1.5.25",
+            "pli": "Katame cattāro dhammā visesabhāgiyā? ",
+            "en": "What four things <span class=\"ebt-matched\">lead to distinction</span>? ",
+            "matched": true
+          },
+          "dn34:1.5.31": {
+            "scid": "dn34:1.5.31",
+            "pli": "hānabhāgiyo samādhi, ṭhitibhāgiyo samādhi, visesabhāgiyo samādhi, nibbedhabhāgiyo samādhi. ",
+            "en": "immersion liable to decline, stable immersion, immersion that leads to distinction, and immersion that leads to penetration. ",
+            "matched": true
+          },
+          "dn34:1.6.36": {
+            "scid": "dn34:1.6.36",
+            "pli": "Katame pañca dhammā visesabhāgiyā? ",
+            "en": "What five things <span class=\"ebt-matched\">lead to distinction</span>? ",
+            "matched": true
+          },
+          "dn34:1.7.29": {
+            "scid": "dn34:1.7.29",
+            "pli": "Katame cha dhammā visesabhāgiyā? ",
+            "en": "What six things <span class=\"ebt-matched\">lead to distinction</span>? ",
+            "matched": true
+          },
+          "dn34:1.8.35": {
+            "scid": "dn34:1.8.35",
+            "pli": "Katame satta dhammā visesabhāgiyā? ",
+            "en": "What seven things <span class=\"ebt-matched\">lead to distinction</span>? ",
+            "matched": true
+          },
+          "dn34:2.1.84": {
+            "scid": "dn34:2.1.84",
+            "pli": "Katame aṭṭha dhammā visesabhāgiyā? ",
+            "en": "What eight things <span class=\"ebt-matched\">lead to distinction</span>? ",
+            "matched": true
+          },
+          "dn34:2.2.46": {
+            "scid": "dn34:2.2.46",
+            "pli": "Katame nava dhammā visesabhāgiyā? ",
+            "en": "What nine things <span class=\"ebt-matched\">lead to distinction</span>? ",
+            "matched": true
+          },
+          "dn34:2.3.1": {
+            "scid": "dn34:2.3.1",
+            "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
+            "en": "Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things <span class=\"ebt-matched\">lead to distinction</span>, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
+            "matched": true
+          },
+          "dn34:2.3.60": {
+            "scid": "dn34:2.3.60",
+            "pli": "Katame dasa dhammā visesabhāgiyā? ",
+            "en": "What ten things <span class=\"ebt-matched\">lead to distinction</span>? ",
+            "matched": true
+          }
+        },
+        "score": 14.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 14,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.179_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.179_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.179",
+        "lang": "en",
+        "segMap": {
+          "an4.179:2.1": {
+            "scid": "an4.179:2.1",
+            "pli": "“Idhāvuso ānanda, sattā imā hānabhāgiyā saññāti yathābhūtaṁ nappajānanti, imā ṭhitibhāgiyā saññāti yathābhūtaṁ nappajānanti, imā visesabhāgiyā saññāti yathābhūtaṁ nappajānanti, imā nibbedhabhāgiyā saññāti yathābhūtaṁ nappajānanti. ",
+            "en": "“Reverend Ānanda, it’s because some sentient beings don’t really understand which perceptions make things worse, which keep things steady, which <span class=\"ebt-matched\">lead to distinction</span>, and which lead to penetration. ",
+            "matched": true
+          },
+          "an4.179:3.2": {
+            "scid": "an4.179:3.2",
+            "pli": "“Idhāvuso ānanda, sattā imā hānabhāgiyā saññāti yathābhūtaṁ pajānanti, imā ṭhitibhāgiyā saññāti yathābhūtaṁ pajānanti, imā visesabhāgiyā saññāti yathābhūtaṁ pajānanti, imā nibbedhabhāgiyā saññāti yathābhūtaṁ pajānanti. ",
+            "en": "“Reverend Ānanda, it’s because some sentient beings truly understand which perceptions make things worse, which keep things steady, which <span class=\"ebt-matched\">lead to distinction</span>, and which lead to penetration. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n18. Intention\n179. Extinguishment",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.71_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.71_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.71",
+        "lang": "en",
+        "segMap": {
+          "an6.71:1.3": {
+            "scid": "an6.71:1.3",
+            "pli": "Idha, bhikkhave, bhikkhu ‘ime hānabhāgiyā dhammā’ti yathābhūtaṁ nappajānāti, ‘ime ṭhitibhāgiyā dhammā’ti yathābhūtaṁ nappajānāti, ‘ime visesabhāgiyā dhammā’ti yathābhūtaṁ nappajānāti, ‘ime nibbedhabhāgiyā dhammā’ti yathābhūtaṁ nappajānāti, asakkaccakārī ca hoti, asappāyakārī ca. ",
+            "en": "It’s when a mendicant doesn’t truly understand which qualities make things worse, which keep things steady, which <span class=\"ebt-matched\">lead to distinction</span>, and which lead to penetration. And they don’t practice carefully or do what’s suitable. ",
+            "matched": true
+          },
+          "an6.71:2.3": {
+            "scid": "an6.71:2.3",
+            "pli": "Idha, bhikkhave, bhikkhu ‘ime hānabhāgiyā dhammā’ti yathābhūtaṁ pajānāti, ‘ime ṭhitibhāgiyā dhammā’ti yathābhūtaṁ pajānāti, ‘ime visesabhāgiyā dhammā’ti yathābhūtaṁ pajānāti, ‘ime nibbedhabhāgiyā dhammā’ti yathābhūtaṁ pajānāti, sakkaccakārī ca hoti, sappāyakārī ca. ",
+            "en": "It’s when a mendicant truly understands which qualities make things worse, which keep things steady, which <span class=\"ebt-matched\">lead to distinction</span>, and which lead to penetration. And they practice carefully and do what’s suitable. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n7. A God\n71. Capable of Realizing",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      }
+    ]
+  }
+}

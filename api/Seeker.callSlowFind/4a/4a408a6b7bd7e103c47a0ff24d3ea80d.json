@@ -1,0 +1,202 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "one who lacks joy",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "one who lacks joy",
+    "method": "phrase",
+    "resultPattern": "\\bone who lacks joy",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an11/an11.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.3_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an11.5/en/sujato",
+      "an11.4/en/sujato",
+      "an11.3/en/sujato",
+      "an10.5/en/sujato",
+      "an10.3/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.3",
+        "lang": "en",
+        "segMap": {
+          "an10.3:1.3": {
+            "scid": "an10.3:1.3",
+            "pli": "pāmojje asati pāmojjavipannassa hatūpanisā hoti pīti; ",
+            "en": "When there is no joy, <span class=\"ebt-matched\">one who lacks joy</span> has destroyed a vital condition for rapture. ",
+            "matched": true
+          }
+        },
+        "score": 1.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n1. Benefits\n3. Vital Conditions (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 30,
+          "en": 29
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.5",
+        "lang": "en",
+        "segMap": {
+          "an10.5:1.4": {
+            "scid": "an10.5:1.4",
+            "pli": "pāmojje asati pāmojjavipannassa hatūpanisā hoti pīti; ",
+            "en": "When there is no joy, <span class=\"ebt-matched\">one who lacks joy</span> has destroyed a vital condition for rapture. ",
+            "matched": true
+          }
+        },
+        "score": 1.032,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n1. Benefits\n5. Vital Conditions (3rd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 31,
+          "en": 30
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.3",
+        "lang": "en",
+        "segMap": {
+          "an11.3:1.3": {
+            "scid": "an11.3:1.3",
+            "pli": "Pāmojje asati pāmojjavipannassa hatūpanisā hoti pīti. ",
+            "en": "When there is no joy, <span class=\"ebt-matched\">one who lacks joy</span> has destroyed a vital condition for rapture. ",
+            "matched": true
+          }
+        },
+        "score": 1.031,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n1. Dependence\n3. Vital Conditions (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 32,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.5",
+        "lang": "en",
+        "segMap": {
+          "an11.5:1.4": {
+            "scid": "an11.5:1.4",
+            "pli": "pāmojje asati pāmojjavipannassa hatūpanisā hoti pīti, ",
+            "en": "When there is no joy, <span class=\"ebt-matched\">one who lacks joy</span> has destroyed a vital condition for rapture. ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n1. Dependence\n5. Vital Conditions (3rd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.4",
+        "lang": "en",
+        "segMap": {
+          "an11.4:2.3": {
+            "scid": "an11.4:2.3",
+            "pli": "pāmojje asati pāmojjavipannassa hatūpanisā hoti pīti, ",
+            "en": "When there is no joy, <span class=\"ebt-matched\">one who lacks joy</span> has destroyed a vital condition for rapture. ",
+            "matched": true
+          }
+        },
+        "score": 1.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n1. Dependence\n4. Vital Conditions (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 36,
+          "en": 35
+        }
+      }
+    ]
+  }
+}

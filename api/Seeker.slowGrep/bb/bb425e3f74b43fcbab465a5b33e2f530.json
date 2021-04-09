@@ -1,0 +1,24 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\berlösung des herzens durch liebe",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an6/an6.13_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an3/an3.68_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an1/an1.11-20_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an11/an11.15_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an8/an8.63_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an1/an1.394-574_translation-de-sabbamitta.json:1"
+  ]
+}

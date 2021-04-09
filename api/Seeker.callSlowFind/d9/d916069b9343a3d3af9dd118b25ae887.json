@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "meditation eines edlen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "meditation eines edlen",
+    "method": "phrase",
+    "resultPattern": "\\bmeditation eines edlen",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn54/sn54.11_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn54/sn54.11_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn54/sn54.11_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn54.11/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn54/sn54.11_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn54/sn54.11_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn54/sn54.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn54.11",
+        "lang": "de",
+        "segMap": {
+          "sn54.11:3.2": {
+            "scid": "sn54.11:3.2",
+            "pli": "‘ariyavihāro’ itipi, ‘brahmavihāro’ itipi, ‘tathāgatavihāro’ itipi. ",
+            "de": "‚die <span class=\"ebt-matched\">Meditation eines Edlen</span>‘ oder ‚die Meditation eines Brahmā‘ oder ‚die Meditation eines Klargewordenen‘ genannt wird, ",
+            "en": "‘the meditation of a noble one’, or else ‘the meditation of a Brahmā’, or else ‘the meditation of a realized one’, ",
+            "matched": true
+          },
+          "sn54.11:4.2": {
+            "scid": "sn54.11:4.2",
+            "pli": "‘ariyavihāro’ itipi, ‘brahmavihāro’ itipi, ‘tathāgatavihāro’ itipi. ",
+            "de": "‚die <span class=\"ebt-matched\">Meditation eines Edlen</span>‘ oder ‚die Meditation eines Brahmā‘ oder ‚die Meditation eines Klargewordenen‘ genannt wird, ",
+            "en": "‘the meditation of a noble one’, or else ‘the meditation of a Brahmā’, or else ‘the meditation of a realized one’, ",
+            "matched": true
+          }
+        },
+        "score": 2.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 54\nZweites Kapitel\n11. Icchānaṅgala",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 28,
+          "de": 25,
+          "en": 27
+        }
+      }
+    ]
+  }
+}

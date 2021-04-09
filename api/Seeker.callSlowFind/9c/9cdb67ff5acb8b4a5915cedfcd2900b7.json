@@ -1,0 +1,93 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "保証され",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "保証され",
+    "method": "phrase",
+    "resultPattern": "保証され",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.16_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.16_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an3/an3.16_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an3.16/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.16_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.16_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an3/an3.16_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.16",
+        "lang": "jpn",
+        "segMap": {
+          "an3.16:0.3": {
+            "scid": "an3.16:0.3",
+            "pli": "16. Apaṇṇakasutta ",
+            "en": "16. Guaranteed ",
+            "jpn": "16. <span class=\"ebt-matched\">保証され</span>ている事",
+            "matched": true
+          },
+          "an3.16:1.1": {
+            "scid": "an3.16:1.1",
+            "pli": "“Tīhi, bhikkhave, dhammehi samannāgato bhikkhu apaṇṇakapaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāya. ",
+            "en": "“Mendicants, when a mendicant has three things their practice is guaranteed, and they have laid the groundwork for ending the defilements. ",
+            "jpn": "「托鉢僧侶たちよ、托鉢僧侶が三つのものを備えている時、道は<span class=\"ebt-matched\">保証され</span>ていて、穢れを終わらせる基礎作りをすでに始めています。",
+            "matched": true
+          },
+          "an3.16:4.4": {
+            "scid": "an3.16:4.4",
+            "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu apaṇṇakapaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāyā”ti. ",
+            "en": "When a mendicant has these three things their practice is guaranteed, and they have laid the groundwork for ending the defilements.” ",
+            "jpn": "托鉢僧侶が、これら三つのものを備えている時、道は<span class=\"ebt-matched\">保証され</span>ていて、穢れを終わらせる基礎作りをすでに始めているのです。」",
+            "matched": true
+          }
+        },
+        "score": 3.12,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 三集\n第二　二輪馬車工（車匠品）\n16. 保証されている事",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 25,
+          "en": 24,
+          "jpn": 24
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "observing the impermanence of all",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "observing the impermanence of all",
+    "method": "phrase",
+    "resultPattern": "\\bobserving the impermanence of all",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn55/sn55.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn50_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn50_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga9/iti85_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga9/iti85_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn55.3/en/sujato",
+      "mn50/en/sujato",
+      "iti85/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga9/iti85_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga9/iti85_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti85",
+        "lang": "en",
+        "segMap": {
+          "iti85:2.3": {
+            "scid": "iti85:2.3",
+            "pli": "sabbasaṅkhāresu aniccānupassino viharatha.",
+            "en": "Meditate <span class=\"ebt-matched\">observing the impermanence of all</span> conditions.",
+            "matched": true
+          },
+          "iti85:2.6": {
+            "scid": "iti85:2.6",
+            "pli": "Sabbasaṅkhāresu aniccānupassīnaṁ viharataṁ yā avijjā sā pahīyati, yā vijjā sā uppajjatī”ti.",
+            "en": "When you meditate <span class=\"ebt-matched\">observing the impermanence of all</span> conditions, ignorance is given up and knowledge arises.”",
+            "matched": true
+          }
+        },
+        "score": 2.087,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Threes\nChapter Four\n85. Observing Ugliness",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn55/sn55.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn55/sn55.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn55.3",
+        "lang": "en",
+        "segMap": {
+          "sn55.3:3.7": {
+            "scid": "sn55.3:3.7",
+            "pli": "Idha tvaṁ, dīghāvu, sabbasaṅkhāresu aniccānupassī viharāhi, anicce dukkhasaññī, dukkhe anattasaññī pahānasaññī virāgasaññī nirodhasaññīti. ",
+            "en": "You should meditate <span class=\"ebt-matched\">observing the impermanence of all</span> conditions, perceiving suffering in impermanence, perceiving not-self in suffering, perceiving giving up, perceiving fading away, and perceiving cessation. ",
+            "matched": true
+          },
+          "sn55.3:4.2": {
+            "scid": "sn55.3:4.2",
+            "pli": "Ahañhi, bhante, sabbasaṅkhāresu aniccānupassī viharāmi, anicce dukkhasaññī, dukkhe anattasaññī pahānasaññī virāgasaññī nirodhasaññī. ",
+            "en": "For I meditate <span class=\"ebt-matched\">observing the impermanence of all</span> conditions, perceiving suffering in impermanence, perceiving not-self in suffering, perceiving giving up, perceiving fading away, and perceiving cessation. ",
+            "matched": true
+          }
+        },
+        "score": 2.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 55\n1. At Bamboo Gate\n3. With Dīghāvu",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 48,
+          "en": 47
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn50_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn50_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn50",
+        "lang": "en",
+        "segMap": {
+          "mn50:18.5": {
+            "scid": "mn50:18.5",
+            "pli": "Etha, tumhe, bhikkhave, asubhānupassino kāye viharatha, āhāre paṭikūlasaññino, sabbaloke anabhiratisaññino, sabbasaṅkhāresu aniccānupassino’ti. ",
+            "en": "Come, all you mendicants, meditate observing the ugliness of the body, perceiving the repulsiveness of food, perceiving dissatisfaction with the whole world, and <span class=\"ebt-matched\">observing the impermanence of all</span> conditions.’ ",
+            "matched": true
+          },
+          "mn50:19.1": {
+            "scid": "mn50:19.1",
+            "pli": "Atha kho te, pāpima, bhikkhū kakusandhena bhagavatā arahatā sammāsambuddhena evaṁ ovadiyamānā evaṁ anusāsiyamānā araññagatāpi rukkhamūlagatāpi suññāgāragatāpi asubhānupassino kāye vihariṁsu, āhāre paṭikūlasaññino, sabbaloke anabhiratisaññino, sabbasaṅkhāresu aniccānupassino. ",
+            "en": "When those mendicants were instructed and advised by the Buddha Kakusandha in this way, they went to a wilderness, or to the root of a tree, or to an empty hut, where they meditated observing the ugliness of the body, perceiving the repulsiveness of food, perceiving dissatisfaction with the whole world, and <span class=\"ebt-matched\">observing the impermanence of all</span> conditions. ",
+            "matched": true
+          }
+        },
+        "score": 2.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 50\nThe Rebuke of Māra",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 239,
+          "en": 236
+        }
+      }
+    ]
+  }
+}

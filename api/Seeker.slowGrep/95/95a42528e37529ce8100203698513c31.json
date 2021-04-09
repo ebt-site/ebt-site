@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bwarding off the touch of flies",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn2_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/dn/dn29_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json:2"
+  ]
+}

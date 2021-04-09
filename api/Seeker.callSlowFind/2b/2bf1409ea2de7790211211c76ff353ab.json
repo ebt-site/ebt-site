@@ -1,0 +1,150 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "lead the mendicant",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "lead the mendicant",
+    "method": "phrase",
+    "resultPattern": "\\blead the mendicant",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn67_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn67_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn51_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn51_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.100_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.100_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn67/en/sujato",
+      "mn51/en/sujato",
+      "an5.100/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn67_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn67_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn67",
+        "lang": "en",
+        "segMap": {
+          "mn67:13.5": {
+            "scid": "mn67:13.5",
+            "pli": "Appossukko dāni bhagavā diṭṭhadhammasukhavihāraṁ anuyutto viharissati, ahañca dāni āyasmā ca sāriputto bhikkhusaṅghaṁ pariharissāmā’”ti. ",
+            "en": "Now he will remain passive, dwelling in blissful meditation in the present life. Meanwhile, Venerable Sāriputta and I will <span class=\"ebt-matched\">lead the mendicant</span> Saṅgha.’” ",
+            "matched": true
+          },
+          "mn67:13.7": {
+            "scid": "mn67:13.7",
+            "pli": "Ahaṁ vā hi, moggallāna, bhikkhusaṅghaṁ parihareyyaṁ sāriputtamoggallānā vā”ti. ",
+            "en": "For either I should <span class=\"ebt-matched\">lead the mendicant</span> Saṅgha, or else Sāriputta and Moggallāna.” ",
+            "matched": true
+          }
+        },
+        "score": 2.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 67\nAt Cātumā",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 129,
+          "en": 128
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn51_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn51",
+        "lang": "en",
+        "segMap": {
+          "mn51:2.3": {
+            "scid": "mn51:2.3",
+            "pli": "Yepi te, bho gotama, ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā tepi bhagavanto etaparamaṁyeva sammā bhikkhusaṅghaṁ paṭipādesuṁ—",
+            "en": "All the perfected ones, the fully awakened Buddhas in the past or the future who <span class=\"ebt-matched\">lead the mendicant</span> Saṅgha to practice properly will at best do so ",
+            "matched": true
+          },
+          "mn51:3.2": {
+            "scid": "mn51:3.2",
+            "pli": "Yepi te, kandaraka, ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā tepi bhagavanto etaparamaṁyeva sammā bhikkhusaṅghaṁ paṭipādesuṁ—",
+            "en": "All the perfected ones, the fully awakened Buddhas in the past or the future who <span class=\"ebt-matched\">lead the mendicant</span> Saṅgha to practice properly will at best do so ",
+            "matched": true
+          }
+        },
+        "score": 2.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 51\nWith Kandaraka",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 190,
+          "en": 189
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.100_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.100_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.100",
+        "lang": "en",
+        "segMap": {
+          "an5.100:2.3": {
+            "scid": "an5.100:2.3",
+            "pli": "‘ahaṁ bhikkhusaṅghaṁ pariharissāmī’ti. ",
+            "en": "‘I will <span class=\"ebt-matched\">lead the mendicant</span> Saṅgha.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n10. With Kakudha\n100. With Kakudha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 97,
+          "en": 95
+        }
+      }
+    ]
+  }
+}

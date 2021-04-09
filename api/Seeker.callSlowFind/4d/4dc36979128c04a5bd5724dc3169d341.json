@@ -1,0 +1,264 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wenig gelernt",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wenig gelernt",
+    "method": "phrase",
+    "resultPattern": "\\bwenig gelernt",
+    "segsMatched": 15,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.6_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.6_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.157_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.157_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.157_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.158_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.158_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.158_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.101_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.101_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.101_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.6/de/sabbamitta",
+      "an5.157/de/sabbamitta",
+      "an5.158/de/sabbamitta",
+      "an5.101/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.6_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.6_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.6",
+        "lang": "de",
+        "segMap": {
+          "an4.6:0.3": {
+            "scid": "an4.6:0.3",
+            "pli": "6. Appassutasutta ",
+            "de": "6. <span class=\"ebt-matched\">Wenig gelernt</span> ",
+            "en": "6. A Little Learning ",
+            "matched": true
+          },
+          "an4.6:1.3": {
+            "scid": "an4.6:1.3",
+            "pli": "Appassuto sutena anupapanno, ",
+            "de": "Jemand hat <span class=\"ebt-matched\">wenig gelernt</span> und das Gelernte nicht verinnerlicht. ",
+            "en": "Little learning and not get the point of learning. ",
+            "matched": true
+          },
+          "an4.6:1.4": {
+            "scid": "an4.6:1.4",
+            "pli": "appassuto sutena upapanno,",
+            "de": "Jemand hat <span class=\"ebt-matched\">wenig gelernt</span>, doch das Gelernte verinnerlicht. ",
+            "en": "Little learning but get the point of learning. ",
+            "matched": true
+          },
+          "an4.6:1.7": {
+            "scid": "an4.6:1.7",
+            "pli": "Kathañca, bhikkhave, puggalo appassuto hoti sutena anupapanno? ",
+            "de": "Und wie hat jemand <span class=\"ebt-matched\">wenig gelernt</span> und das Gelernte nicht verinnerlicht? ",
+            "en": "And how has a person learned little and not got the point of learning? ",
+            "matched": true
+          },
+          "an4.6:1.10": {
+            "scid": "an4.6:1.10",
+            "pli": "So tassa appakassa sutassa na atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti. ",
+            "de": "Und bei dem Wenigen, das er gelernt hat, versteht er weder die Bedeutung noch die Lehre, noch übt er im Einklang mit der Lehre. ",
+            "en": "And with the little they’ve learned, they understand neither the meaning nor the text, nor do they practice in line with the teaching. ",
+            "matched": true
+          },
+          "an4.6:1.11": {
+            "scid": "an4.6:1.11",
+            "pli": "Evaṁ kho, bhikkhave, puggalo appassuto hoti sutena anupapanno. ",
+            "de": "So hat jemand <span class=\"ebt-matched\">wenig gelernt</span> und das Gelernte nicht verinnerlicht. ",
+            "en": "That’s how a person has learned little and not got the point of learning. ",
+            "matched": true
+          },
+          "an4.6:2.1": {
+            "scid": "an4.6:2.1",
+            "pli": "Kathañca, bhikkhave, puggalo appassuto hoti sutena upapanno? ",
+            "de": "Und wie hat jemand <span class=\"ebt-matched\">wenig gelernt</span>, doch das Gelernte verinnerlicht? ",
+            "en": "And how has a person learned little but has got the point of learning? ",
+            "matched": true
+          },
+          "an4.6:2.4": {
+            "scid": "an4.6:2.4",
+            "pli": "So tassa appakassa sutassa atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti. ",
+            "de": "Doch bei dem Wenigen, das er gelernt hat, versteht er die Bedeutung und die Lehre und übt im Einklang mit der Lehre. ",
+            "en": "But with the little they’ve learned, they understand the meaning and the text, and they practice in line with the teaching. ",
+            "matched": true
+          },
+          "an4.6:2.5": {
+            "scid": "an4.6:2.5",
+            "pli": "Evaṁ kho, bhikkhave, puggalo appassuto hoti sutena upapanno. ",
+            "de": "So hat jemand <span class=\"ebt-matched\">wenig gelernt</span>, doch das Gelernte verinnerlicht. ",
+            "en": "That’s how a person has learned little but has got the point of learning. ",
+            "matched": true
+          }
+        },
+        "score": 9.17,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n1. Beim Dorf Bhaṇḍa\n6. Wenig gelernt",
+        "segsMatched": 9,
+        "langSegs": {
+          "pli": 53,
+          "de": 52,
+          "en": 52
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.157_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.157_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.157_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.157",
+        "lang": "de",
+        "segMap": {
+          "an5.157:1.5": {
+            "scid": "an5.157:1.5",
+            "pli": "appassutassa bāhusaccakathā dukkathā; ",
+            "de": "Es ist unangebracht, zu einem Menschen, der <span class=\"ebt-matched\">wenig gelernt</span> hat, über Gelehrsamkeit zu sprechen. ",
+            "en": "It’s inappropriate to talk to an unlearned person about learning. ",
+            "matched": true
+          },
+          "an5.157:4.1": {
+            "scid": "an5.157:4.1",
+            "pli": "Kasmā ca, bhikkhave, appassutassa bāhusaccakathā dukkathā? ",
+            "de": "Und warum ist es unangebracht, zu einem Menschen, der <span class=\"ebt-matched\">wenig gelernt</span> hat, über Gelehrsamkeit zu sprechen? ",
+            "en": "And why is it inappropriate to talk to an unlearned person about learning? ",
+            "matched": true
+          },
+          "an5.157:4.2": {
+            "scid": "an5.157:4.2",
+            "pli": "Appassuto, bhikkhave, bāhusaccakathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. ",
+            "de": "Wenn man zu einem Menschen, der <span class=\"ebt-matched\">wenig gelernt</span> hat, über Gelehrsamkeit spricht, verliert er die Beherrschung … ",
+            "en": "When an unlearned person is spoken to about learning they lose their temper … ",
+            "matched": true
+          },
+          "an5.157:4.5": {
+            "scid": "an5.157:4.5",
+            "pli": "Tasmā appassutassa bāhusaccakathā dukkathā. ",
+            "de": "Darum ist es unangebracht, zu einem Menschen, der <span class=\"ebt-matched\">wenig gelernt</span> hat, über Gelehrsamkeit zu sprechen. ",
+            "en": "That’s why it’s inappropriate to talk to an unlearned person about learning. ",
+            "matched": true
+          }
+        },
+        "score": 4.057,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n16. Die wahre Lehre\n157. Unangebrachte Rede",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 70,
+          "de": 69,
+          "en": 69
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.158_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.158_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.158_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.158",
+        "lang": "de",
+        "segMap": {
+          "an5.158:1.3": {
+            "scid": "an5.158:1.3",
+            "pli": "Idha, bhikkhave, bhikkhu assaddho hoti, dussīlo hoti, appassuto hoti, kusīto hoti, duppañño hoti. ",
+            "de": "Da ist eine Nonne ohne Vertrauen, unmoralisch, hat <span class=\"ebt-matched\">wenig gelernt</span>, ist faul und geistlos. ",
+            "en": "It’s when a mendicant is faithless, unethical, with little learning, lazy, and witless. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n16. Die wahre Lehre\n158. Unsicherheit",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.101_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.101_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.101_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.101",
+        "lang": "de",
+        "segMap": {
+          "an5.101:4.1": {
+            "scid": "an5.101:4.1",
+            "pli": "Yaṁ, bhikkhave, appassutassa sārajjaṁ hoti, bahussutassa taṁ sārajjaṁ na hoti. ",
+            "de": "Ein gelehrter Mensch hat nicht die Unsicherheit von jemandem, der <span class=\"ebt-matched\">wenig gelernt</span> hat. ",
+            "en": "A learned person doesn’t have the insecurities of a person of little learning. ",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n11. Unbeschwert leben\n101. Selbstvertrauen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "de": 17,
+          "en": 17
+        }
+      }
+    ]
+  }
+}

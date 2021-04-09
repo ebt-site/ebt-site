@@ -1,0 +1,80 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "sadness connected with sensual pleasures",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "sadness connected with sensual pleasures",
+    "method": "phrase",
+    "resultPattern": "\\bsadness connected with sensual pleasures",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.176_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.176_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.176/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.176_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.176_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.176",
+        "lang": "en",
+        "segMap": {
+          "an5.176:3.11": {
+            "scid": "an5.176:3.11",
+            "pli": "Yampissa kāmūpasaṁhitaṁ dukkhaṁ domanassaṁ, tampissa tasmiṁ samaye na hoti. ",
+            "en": "The pain and <span class=\"ebt-matched\">sadness connected with sensual pleasures</span>. ",
+            "matched": true
+          },
+          "an5.176:4.3": {
+            "scid": "an5.176:4.3",
+            "pli": "Yampissa kāmūpasaṁhitaṁ dukkhaṁ domanassaṁ, tampissa tasmiṁ samaye na hoti. ",
+            "en": "The pain and <span class=\"ebt-matched\">sadness connected with sensual pleasures</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.057,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n18. A Lay Follower\n176. Rapture",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 35,
+          "en": 34
+        }
+      }
+    ]
+  }
+}

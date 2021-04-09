@@ -1,0 +1,22 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bverschwinden der wahren lehre",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an5/an5.156_translation-de-sabbamitta.json:7",
+    "translation/de/sabbamitta/sutta/an/an4/an4.160_translation-de-sabbamitta.json:6",
+    "translation/de/sabbamitta/sutta/an/an1/an1.98-139_translation-de-sabbamitta.json:6",
+    "translation/de/sabbamitta/sutta/an/an5/an5.155_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/an/an5/an5.154_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an2/an2.11-20_translation-de-sabbamitta.json:2"
+  ]
+}

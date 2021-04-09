@@ -1,0 +1,106 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "where does that craving arise",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "where does that craving arise",
+    "method": "phrase",
+    "resultPattern": "\\bwhere does that craving arise",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn12/sn12.66_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.66_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn12.66/en/sujato",
+      "dn22/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.66_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.66_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.66",
+        "lang": "en",
+        "segMap": {
+          "sn12.66:5.2": {
+            "scid": "sn12.66:5.2",
+            "pli": "‘taṇhā panāyaṁ kattha uppajjamānā uppajjati, kattha nivisamānā nivisatī’ti? ",
+            "en": "‘But <span class=\"ebt-matched\">where does that craving arise</span> and where does it settle?’ ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n7. The Great Chapter\n66. Self-examination",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 116,
+          "en": 115
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn22",
+        "lang": "en",
+        "segMap": {
+          "dn22:19.4": {
+            "scid": "dn22:19.4",
+            "pli": "Sā kho panesā, bhikkhave, taṇhā kattha uppajjamānā uppajjati, kattha nivisamānā nivisati? ",
+            "en": "But <span class=\"ebt-matched\">where does that craving arise</span> and where does it settle? ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 22\nThe Longer Discourse on Mindfulness Meditation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 454,
+          "en": 453
+        }
+      }
+    ]
+  }
+}

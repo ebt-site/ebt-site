@@ -1,0 +1,230 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "abnehmend",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "abnehmend",
+    "method": "phrase",
+    "resultPattern": "\\babnehmend",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn31_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn31_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn31_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.33_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.2_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.28_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.28_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.28_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.27_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.27_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.27_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn31/de/sabbamitta",
+      "sn12.33/de/sabbamitta",
+      "sn12.2/de/sabbamitta",
+      "sn12.28/de/sabbamitta",
+      "sn12.27/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn31_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn31_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn31_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn31",
+        "lang": "de",
+        "segMap": {
+          "dn31:6.4": {
+            "scid": "dn31:6.4",
+            "pli": "kāḷapakkheva candimā. ",
+            "de": "wie der <span class=\"ebt-matched\">abnehmend</span>e Mond. ",
+            "en": "like the moon in the waning fortnight. ",
+            "matched": true
+          },
+          "dn31:14.20": {
+            "scid": "dn31:14.20",
+            "pli": "Nihīyate kāḷapakkheva cando. ",
+            "de": "Sie schwinden dahin wie der <span class=\"ebt-matched\">abnehmend</span>e Mond. ",
+            "en": "they diminish like the waning moon. ",
+            "matched": true
+          }
+        },
+        "score": 2.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 31\nRat für Sigālaka",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 267,
+          "de": 264,
+          "en": 266
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.27_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.27_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.27_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.27",
+        "lang": "de",
+        "segMap": {
+          "sn12.27:2.2": {
+            "scid": "sn12.27:2.2",
+            "pli": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko—",
+            "de": "Das Alter, das Herunterkommen, bröckelige Zähne, graue Haare, runzelige Haut, <span class=\"ebt-matched\">abnehmend</span>e Lebensenergie und versagende Sinneskräfte bei den verschiedenen Wesen der verschiedenen Gattungen von Wesen; ",
+            "en": "The old age, decrepitude, broken teeth, grey hair, wrinkly skin, diminished vitality, and failing faculties of the various sentient beings in the various orders of sentient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n3. Die zehn Kräfte\n27. Bedingungen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 38,
+          "de": 37,
+          "en": 37
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.28_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.28_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.28_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.28",
+        "lang": "de",
+        "segMap": {
+          "sn12.28:2.2": {
+            "scid": "sn12.28:2.2",
+            "pli": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko—",
+            "de": "Das Alter, das Herunterkommen, bröckelige Zähne, graue Haare, runzelige Haut, <span class=\"ebt-matched\">abnehmend</span>e Lebensenergie und versagende Sinneskräfte bei den verschiedenen Wesen der verschiedenen Gattungen von Wesen; ",
+            "en": "The old age, decrepitude, broken teeth, grey hair, wrinkly skin, diminished vitality, and failing faculties of the various sentient beings in the various orders of sentient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n3. Die zehn Kräfte\n28. Mönch oder Nonne",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 58,
+          "de": 57,
+          "en": 57
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.33",
+        "lang": "de",
+        "segMap": {
+          "sn12.33:3.2": {
+            "scid": "sn12.33:3.2",
+            "pli": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko, ",
+            "de": "Das Alter, das Herunterkommen, bröckelige Zähne, graue Haare, runzelige Haut, <span class=\"ebt-matched\">abnehmend</span>e Lebensenergie und versagende Sinneskräfte bei den verschiedenen Wesen der verschiedenen Gattungen von Wesen; ",
+            "en": "The old age, decrepitude, broken teeth, grey hair, wrinkly skin, diminished vitality, and failing faculties of the various sentient beings in the various orders of sentient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n4. Kaḷāra der Adlige\n33. Grundlagen der Erkenntnis",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 66,
+          "de": 65,
+          "en": 65
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.2_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.2",
+        "lang": "de",
+        "segMap": {
+          "sn12.2:3.2": {
+            "scid": "sn12.2:3.2",
+            "pli": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko; ",
+            "de": "Das Alter, das Herunterkommen, bröckelige Zähne, graue Haare, runzelige Haut, <span class=\"ebt-matched\">abnehmend</span>e Lebensenergie und versagende Sinneskräfte bei den verschiedenen Wesen der verschiedenen Gattungen von Wesen; ",
+            "en": "The old age, decrepitude, broken teeth, grey hair, wrinkly skin, diminished vitality, and failing faculties of the various sentient beings in the various orders of sentient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n1. Die Buddhas\n2. Aufgliederung",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 79,
+          "de": 78,
+          "en": 78
+        }
+      }
+    ]
+  }
+}

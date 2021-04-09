@@ -1,0 +1,118 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "fuel for ignorance",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "fuel for ignorance",
+    "method": "phrase",
+    "resultPattern": "\\bfuel for ignorance",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an10/an10.61_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.62_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.62_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an10.61/en/sujato",
+      "an10.62/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.61_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.61",
+        "lang": "en",
+        "segMap": {
+          "an10.61:2.2": {
+            "scid": "an10.61:2.2",
+            "pli": "Ko cāhāro avijjāya? ",
+            "en": "And what is the <span class=\"ebt-matched\">fuel for ignorance</span>? ",
+            "matched": true
+          },
+          "an10.61:3.2": {
+            "scid": "an10.61:3.2",
+            "pli": "evametissā avijjāya āhāro hoti, evañca pāripūri. ",
+            "en": "That’s the <span class=\"ebt-matched\">fuel for ignorance</span>, and that’s how it’s fulfilled. ",
+            "matched": true
+          },
+          "an10.61:5.2": {
+            "scid": "an10.61:5.2",
+            "pli": "evametissā avijjāya āhāro hoti, evañca pāripūri. ",
+            "en": "That’s the <span class=\"ebt-matched\">fuel for ignorance</span>, and that’s how it’s fulfilled. ",
+            "matched": true
+          }
+        },
+        "score": 3.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n7. Pairs\n61. Ignorance",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 69,
+          "en": 68
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.62_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.62_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.62",
+        "lang": "en",
+        "segMap": {
+          "an10.62:2.5": {
+            "scid": "an10.62:2.5",
+            "pli": "Ko cāhāro avijjāya? ",
+            "en": "And what is the <span class=\"ebt-matched\">fuel for ignorance</span>? ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n7. Pairs\n62. Craving",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 72,
+          "en": 71
+        }
+      }
+    ]
+  }
+}

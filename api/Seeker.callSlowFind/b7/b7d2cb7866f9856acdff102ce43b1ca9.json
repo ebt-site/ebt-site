@@ -1,0 +1,257 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "bauer",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "bauer",
+    "method": "phrase",
+    "resultPattern": "\\bbauer",
+    "segsMatched": 14,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.92_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.92_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.92_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.83_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.83_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.83_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.93_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.93_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.93_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.92/de/sabbamitta",
+      "dn23/de/sabbamitta",
+      "an3.83/de/sabbamitta",
+      "an3.93/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.92_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.92_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.92_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.92",
+        "lang": "de",
+        "segMap": {
+          "an3.92:1.1": {
+            "scid": "an3.92:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, kassakassa gahapatissa accāyikāni karaṇīyāni. ",
+            "de": "„Mönche und Nonnen, ein <span class=\"ebt-matched\">Bauer</span> hat drei dringliche Pflichten. ",
+            "en": "“Mendicants, a farmer has three urgent duties. ",
+            "matched": true
+          },
+          "an3.92:1.3": {
+            "scid": "an3.92:1.3",
+            "pli": "Idha, bhikkhave, kassako gahapati sīghaṁ sīghaṁ khettaṁ sukaṭṭhaṁ karoti sumatikataṁ. ",
+            "de": "Ein <span class=\"ebt-matched\">Bauer</span> stellt eilig sicher, dass sein Acker gut gepflügt und bestellt ist. ",
+            "en": "A farmer swiftly makes sure the field is well ploughed and tilled. ",
+            "matched": true
+          },
+          "an3.92:1.6": {
+            "scid": "an3.92:1.6",
+            "pli": "Imāni kho, bhikkhave, tīṇi kassakassa gahapatissa accāyikāni karaṇīyāni. ",
+            "de": "Das sind die drei dringlichen Pflichten eines <span class=\"ebt-matched\">Bauer</span>n. ",
+            "en": "These are the three urgent duties of a farmer. ",
+            "matched": true
+          },
+          "an3.92:1.7": {
+            "scid": "an3.92:1.7",
+            "pli": "Tassa kho taṁ, bhikkhave, kassakassa gahapatissa natthi sā iddhi vā ānubhāvo vā: ",
+            "de": "Dieser <span class=\"ebt-matched\">Bauer</span> hat keine besondere Macht oder Fähigkeit, um zu sagen: ",
+            "en": "That farmer has no special power or ability to say: ",
+            "matched": true
+          },
+          "an3.92:1.9": {
+            "scid": "an3.92:1.9",
+            "pli": "Atha kho, bhikkhave, hoti so samayo yaṁ tassa kassakassa gahapatissa tāni dhaññāni utupariṇāmīni jāyantipi gabbhīnipi honti paccantipi. ",
+            "de": "Aber es kommt eine Zeit, da die Frucht dieses <span class=\"ebt-matched\">Bauer</span>n mit dem Wechsel der Jahreszeiten keimen, blühen und reif werden wird. ",
+            "en": "But there comes a time when that farmer’s crops germinate, flower, and ripen as the seasons change. ",
+            "matched": true
+          }
+        },
+        "score": 5.217,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n10. Ein Salzklümpchen\n92. Dringlich",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 23,
+          "de": 22,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "de",
+        "segMap": {
+          "dn23:31.2": {
+            "scid": "dn23:31.2",
+            "pli": "Seyyathāpi, rājañña, kassako bījanaṅgalaṁ ādāya vanaṁ paviseyya. ",
+            "de": "Wie wenn ein <span class=\"ebt-matched\">Bauer</span> mit Samen und Pflug in den Wald ginge. ",
+            "en": "Suppose a farmer was to enter a wood taking seed and plough. ",
+            "matched": true
+          },
+          "dn23:31.5": {
+            "scid": "dn23:31.5",
+            "pli": "Api nu tāni bījāni vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyyuṁ, kassako vā vipulaṁ phalaṁ adhigaccheyyā”ti? ",
+            "de": "Würden diese Samen wachsen, größer werden und zur Reife kommen, und würde der <span class=\"ebt-matched\">Bauer</span> überreichliche Frucht erhalten?“ ",
+            "en": "Would those seeds grow, increase, and mature, and would the farmer get abundant fruit?” ",
+            "matched": true
+          },
+          "dn23:31.9": {
+            "scid": "dn23:31.9",
+            "pli": "Seyyathāpi, rājañña, kassako bījanaṅgalaṁ ādāya vanaṁ paviseyya. ",
+            "de": "Wie wenn ein <span class=\"ebt-matched\">Bauer</span> mit Samen und Pflug in den Wald ginge. ",
+            "en": "Suppose a farmer was to enter a wood taking seed and plough. ",
+            "matched": true
+          },
+          "dn23:31.12": {
+            "scid": "dn23:31.12",
+            "pli": "Api nu tāni bījāni vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyyuṁ, kassako vā vipulaṁ phalaṁ adhigaccheyyā”ti? ",
+            "de": "Würden diese Samen wachsen, größer werden und zur Reife kommen, und würde der <span class=\"ebt-matched\">Bauer</span> überreichliche Frucht erhalten?“ ",
+            "en": "Would those seeds grow, increase, and mature, and would the farmer get abundant fruit?” ",
+            "matched": true
+          }
+        },
+        "score": 4.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 23\nMit Pāyāsi",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 715,
+          "de": 636,
+          "en": 713
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.83_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.83_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.83_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.83",
+        "lang": "de",
+        "segMap": {
+          "an3.83:1.1": {
+            "scid": "an3.83:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, kassakassa gahapatissa pubbe karaṇīyāni. ",
+            "de": "„Mönche und Nonnen, ein <span class=\"ebt-matched\">Bauer</span> hat drei Hauptpflichten. ",
+            "en": "“Mendicants, a farmer has three primary duties. ",
+            "matched": true
+          },
+          "an3.83:1.3": {
+            "scid": "an3.83:1.3",
+            "pli": "Idha, bhikkhave, kassako gahapati paṭikacceva khettaṁ sukaṭṭhaṁ karoti sumatikataṁ. ",
+            "de": "Zuerst stellt ein <span class=\"ebt-matched\">Bauer</span> sicher, dass sein Acker gut gepflügt und bestellt ist. ",
+            "en": "A farmer first of all makes sure the field is well ploughed and tilled. ",
+            "matched": true
+          },
+          "an3.83:1.6": {
+            "scid": "an3.83:1.6",
+            "pli": "Imāni kho, bhikkhave, tīṇi kassakassa gahapatissa pubbe karaṇīyāni. ",
+            "de": "Das sind die drei Hauptpflichten eines <span class=\"ebt-matched\">Bauer</span>n. ",
+            "en": "These are the three primary duties of a farmer. ",
+            "matched": true
+          }
+        },
+        "score": 3.176,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n9. Asketen\n83. Äcker",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 17,
+          "de": 16,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.93_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.93_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.93_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.93",
+        "lang": "de",
+        "segMap": {
+          "an3.93:6.1": {
+            "scid": "an3.93:6.1",
+            "pli": "Seyyathāpi, bhikkhave, kassakassa gahapatissa sampannaṁ sālikkhettaṁ. ",
+            "de": "Wenn das Feld eines <span class=\"ebt-matched\">Bauer</span>n reif ist, ",
+            "en": "When a farmer’s rice field is ripe, ",
+            "matched": true
+          },
+          "an3.93:6.13": {
+            "scid": "an3.93:6.13",
+            "pli": "Evamassu tāni, bhikkhave, kassakassa gahapatissa dhaññāni aggappattāni sārappattāni suddhāni sāre patiṭṭhitāni. ",
+            "de": "So erreicht die Ernte des <span class=\"ebt-matched\">Bauer</span>n den Gipfel und den Kern, ist rein und besteht nur aus dem Wesentlichen. ",
+            "en": "In this way that farmer’s crop would reach the peak and the pith, being pure and consisting only of what is essential. ",
+            "matched": true
+          }
+        },
+        "score": 2.049,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n10. Ein Salzklümpchen\n93. Abgeschiedenheit",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 41,
+          "de": 40,
+          "en": 40
+        }
+      }
+    ]
+  }
+}

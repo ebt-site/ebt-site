@@ -1,0 +1,382 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "make things worse",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "make things worse",
+    "method": "phrase",
+    "resultPattern": "\\bmake things worse",
+    "segsMatched": 22,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.71_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.71_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.179_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.179_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn7/sn7.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn7/sn7.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn7/sn7.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn7/sn7.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn11/sn11.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn11/sn11.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn11/sn11.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn11/sn11.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag6.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag6.12_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/en/sujato",
+      "an6.71/en/sujato",
+      "an4.179/en/sujato",
+      "sn7.3/en/sujato",
+      "sn7.2/en/sujato",
+      "sn11.5/en/sujato",
+      "sn11.4/en/sujato",
+      "thag6.12/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.2.1": {
+            "scid": "dn34:1.2.1",
+            "pli": "Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo. ",
+            "en": "Reverends, one thing is helpful, one thing should be developed, one thing should be completely understood, one thing should be given up, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing should be produced, one thing should be directly known, one thing should be realized. ",
+            "matched": true
+          },
+          "dn34:1.2.14": {
+            "scid": "dn34:1.2.14",
+            "pli": "Katamo eko dhammo hānabhāgiyo? ",
+            "en": "What one thing makes things worse? ",
+            "matched": true
+          },
+          "dn34:1.3.1": {
+            "scid": "dn34:1.3.1",
+            "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
+            "en": "Two things are helpful, two things should be developed, two things should be completely understood, two things should be given up, two things <span class=\"ebt-matched\">make things worse</span>, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things should be realized. ",
+            "matched": true
+          },
+          "dn34:1.3.14": {
+            "scid": "dn34:1.3.14",
+            "pli": "Katame dve dhammā hānabhāgiyā? ",
+            "en": "What two things <span class=\"ebt-matched\">make things worse</span>? ",
+            "matched": true
+          },
+          "dn34:1.4.17": {
+            "scid": "dn34:1.4.17",
+            "pli": "Katame tayo dhammā hānabhāgiyā? ",
+            "en": "What three things <span class=\"ebt-matched\">make things worse</span>? ",
+            "matched": true
+          },
+          "dn34:1.5.21": {
+            "scid": "dn34:1.5.21",
+            "pli": "Katame cattāro dhammā hānabhāgiyā? ",
+            "en": "What four things <span class=\"ebt-matched\">make things worse</span>? ",
+            "matched": true
+          },
+          "dn34:1.6.23": {
+            "scid": "dn34:1.6.23",
+            "pli": "Katame pañca dhammā hānabhāgiyā? ",
+            "en": "What five things <span class=\"ebt-matched\">make things worse</span>? ",
+            "matched": true
+          },
+          "dn34:1.7.25": {
+            "scid": "dn34:1.7.25",
+            "pli": "Katame cha dhammā hānabhāgiyā? ",
+            "en": "What six things <span class=\"ebt-matched\">make things worse</span>? ",
+            "matched": true
+          },
+          "dn34:1.8.31": {
+            "scid": "dn34:1.8.31",
+            "pli": "Katame satta dhammā hānabhāgiyā? ",
+            "en": "What seven things <span class=\"ebt-matched\">make things worse</span>? ",
+            "matched": true
+          },
+          "dn34:2.1.42": {
+            "scid": "dn34:2.1.42",
+            "pli": "Katame aṭṭha dhammā hānabhāgiyā? ",
+            "en": "What eight things <span class=\"ebt-matched\">make things worse</span>? ",
+            "matched": true
+          },
+          "dn34:2.2.34": {
+            "scid": "dn34:2.2.34",
+            "pli": "Katame nava dhammā hānabhāgiyā? ",
+            "en": "What nine things <span class=\"ebt-matched\">make things worse</span>? ",
+            "matched": true
+          },
+          "dn34:2.3.1": {
+            "scid": "dn34:2.3.1",
+            "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
+            "en": "Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things <span class=\"ebt-matched\">make things worse</span>, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
+            "matched": true
+          },
+          "dn34:2.3.56": {
+            "scid": "dn34:2.3.56",
+            "pli": "Katame dasa dhammā hānabhāgiyā? ",
+            "en": "What ten things <span class=\"ebt-matched\">make things worse</span>? ",
+            "matched": true
+          }
+        },
+        "score": 13.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 13,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.179_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.179_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.179",
+        "lang": "en",
+        "segMap": {
+          "an4.179:2.1": {
+            "scid": "an4.179:2.1",
+            "pli": "“Idhāvuso ānanda, sattā imā hānabhāgiyā saññāti yathābhūtaṁ nappajānanti, imā ṭhitibhāgiyā saññāti yathābhūtaṁ nappajānanti, imā visesabhāgiyā saññāti yathābhūtaṁ nappajānanti, imā nibbedhabhāgiyā saññāti yathābhūtaṁ nappajānanti. ",
+            "en": "“Reverend Ānanda, it’s because some sentient beings don’t really understand which perceptions <span class=\"ebt-matched\">make things worse</span>, which keep things steady, which lead to distinction, and which lead to penetration. ",
+            "matched": true
+          },
+          "an4.179:3.2": {
+            "scid": "an4.179:3.2",
+            "pli": "“Idhāvuso ānanda, sattā imā hānabhāgiyā saññāti yathābhūtaṁ pajānanti, imā ṭhitibhāgiyā saññāti yathābhūtaṁ pajānanti, imā visesabhāgiyā saññāti yathābhūtaṁ pajānanti, imā nibbedhabhāgiyā saññāti yathābhūtaṁ pajānanti. ",
+            "en": "“Reverend Ānanda, it’s because some sentient beings truly understand which perceptions <span class=\"ebt-matched\">make things worse</span>, which keep things steady, which lead to distinction, and which lead to penetration. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n18. Intention\n179. Extinguishment",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.71_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.71_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.71",
+        "lang": "en",
+        "segMap": {
+          "an6.71:1.3": {
+            "scid": "an6.71:1.3",
+            "pli": "Idha, bhikkhave, bhikkhu ‘ime hānabhāgiyā dhammā’ti yathābhūtaṁ nappajānāti, ‘ime ṭhitibhāgiyā dhammā’ti yathābhūtaṁ nappajānāti, ‘ime visesabhāgiyā dhammā’ti yathābhūtaṁ nappajānāti, ‘ime nibbedhabhāgiyā dhammā’ti yathābhūtaṁ nappajānāti, asakkaccakārī ca hoti, asappāyakārī ca. ",
+            "en": "It’s when a mendicant doesn’t truly understand which qualities <span class=\"ebt-matched\">make things worse</span>, which keep things steady, which lead to distinction, and which lead to penetration. And they don’t practice carefully or do what’s suitable. ",
+            "matched": true
+          },
+          "an6.71:2.3": {
+            "scid": "an6.71:2.3",
+            "pli": "Idha, bhikkhave, bhikkhu ‘ime hānabhāgiyā dhammā’ti yathābhūtaṁ pajānāti, ‘ime ṭhitibhāgiyā dhammā’ti yathābhūtaṁ pajānāti, ‘ime visesabhāgiyā dhammā’ti yathābhūtaṁ pajānāti, ‘ime nibbedhabhāgiyā dhammā’ti yathābhūtaṁ pajānāti, sakkaccakārī ca hoti, sappāyakārī ca. ",
+            "en": "It’s when a mendicant truly understands which qualities <span class=\"ebt-matched\">make things worse</span>, which keep things steady, which lead to distinction, and which lead to penetration. And they practice carefully and do what’s suitable. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n7. A God\n71. Capable of Realizing",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn7/sn7.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn7/sn7.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn7.3",
+        "lang": "en",
+        "segMap": {
+          "sn7.3:3.2": {
+            "scid": "sn7.3:3.2",
+            "pli": "yo kuddhaṁ paṭikujjhati; ",
+            "en": "you just <span class=\"ebt-matched\">make things worse</span> for yourself. ",
+            "matched": true
+          }
+        },
+        "score": 1.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 7\n1. The Perfected Ones\n3. With Bharadvāja the Fiend",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 29,
+          "en": 29
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag6.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag6.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag6.12",
+        "lang": "en",
+        "segMap": {
+          "thag6.12:2.2": {
+            "scid": "thag6.12:2.2",
+            "pli": "yo kuddhaṁ paṭikujjhati;",
+            "en": "you just <span class=\"ebt-matched\">make things worse</span> for yourself.",
+            "matched": true
+          }
+        },
+        "score": 1.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Sixes\nChapter One\n6.12. Brahmadatta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 29,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn7/sn7.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn7/sn7.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn7.2",
+        "lang": "en",
+        "segMap": {
+          "sn7.2:5.2": {
+            "scid": "sn7.2:5.2",
+            "pli": "yo kuddhaṁ paṭikujjhati; ",
+            "en": "you just <span class=\"ebt-matched\">make things worse</span> for yourself. ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 7\n1. The Perfected Ones\n2. The Abuser",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "en": 47
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn11/sn11.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn11/sn11.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn11.4",
+        "lang": "en",
+        "segMap": {
+          "sn11.4:10.2": {
+            "scid": "sn11.4:10.2",
+            "pli": "yo kuddhaṁ paṭikujjhati; ",
+            "en": "you just <span class=\"ebt-matched\">make things worse</span> for yourself. ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 11\nChapter One\n4. With Vepacitti",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 61,
+          "en": 61
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn11/sn11.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn11/sn11.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn11.5",
+        "lang": "en",
+        "segMap": {
+          "sn11.5:11.2": {
+            "scid": "sn11.5:11.2",
+            "pli": "yo kuddhaṁ paṭikujjhati; ",
+            "en": "you just <span class=\"ebt-matched\">make things worse</span> for yourself. ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 11\nChapter One\n5. Victory by Good Speech",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 74,
+          "en": 74
+        }
+      }
+    ]
+  }
+}

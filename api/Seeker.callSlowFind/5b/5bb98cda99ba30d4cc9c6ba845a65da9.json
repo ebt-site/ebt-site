@@ -1,0 +1,387 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "blind",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "blind",
+    "method": "phrase",
+    "resultPattern": "\\bblind",
+    "segsMatched": 16,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.29_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.29_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.29_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.71_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.71_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.71_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig5.9_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/thig/thig5.9_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/thig/thig5.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.66_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.66_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.66_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.123_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.123_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.123_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.42-51_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.42-51_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.42-51_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.29/de/sabbamitta",
+      "dn23/de/sabbamitta",
+      "an3.71/de/sabbamitta",
+      "thig5.9/de/sabbamitta",
+      "dn25/de/sabbamitta",
+      "an4.66/de/sabbamitta",
+      "an3.123/de/sabbamitta",
+      "an2.42-51/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.29_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.29_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.29",
+        "lang": "de",
+        "segMap": {
+          "an3.29:0.3": {
+            "scid": "an3.29:0.3",
+            "pli": "29. Andhasutta ",
+            "de": "29. <span class=\"ebt-matched\">Blind</span> ",
+            "en": "29. <span class=\"ebt-matched\">Blind</span> ",
+            "matched": true
+          },
+          "an3.29:1.3": {
+            "scid": "an3.29:1.3",
+            "pli": "Andho, ekacakkhu, dvicakkhu. ",
+            "de": "Den <span class=\"ebt-matched\">Blind</span>en, den Einäugigen und den Zweiäugigen. ",
+            "en": "The <span class=\"ebt-matched\">blind</span>, the one-eyed, and the two-eyed. ",
+            "matched": true
+          },
+          "an3.29:1.4": {
+            "scid": "an3.29:1.4",
+            "pli": "Katamo ca, bhikkhave, puggalo andho? ",
+            "de": "Welcher Mensch ist <span class=\"ebt-matched\">blind</span>? ",
+            "en": "Who is the <span class=\"ebt-matched\">blind</span> person? ",
+            "matched": true
+          },
+          "an3.29:1.7": {
+            "scid": "an3.29:1.7",
+            "pli": "Ayaṁ vuccati, bhikkhave, puggalo andho. ",
+            "de": "Das nennt man einen <span class=\"ebt-matched\">blind</span>en Menschen. ",
+            "en": "This is called a <span class=\"ebt-matched\">blind</span> person. ",
+            "matched": true
+          },
+          "an3.29:4.4": {
+            "scid": "an3.29:4.4",
+            "pli": "andhassa hatacakkhuno. ",
+            "de": "die <span class=\"ebt-matched\">Blind</span>en mit verdorbenen Augen. ",
+            "en": "those who are <span class=\"ebt-matched\">blind</span>, with ruined eyes. ",
+            "matched": true
+          },
+          "an3.29:9.1": {
+            "scid": "an3.29:9.1",
+            "pli": "Andhañca ekacakkhuñca, ",
+            "de": "Um den <span class=\"ebt-matched\">Blind</span>en und den Einäugigen ",
+            "en": "The <span class=\"ebt-matched\">blind</span> and the one-eyed, ",
+            "matched": true
+          }
+        },
+        "score": 6.128,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n29. Blind",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 47,
+          "de": 46,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "de",
+        "segMap": {
+          "dn23:11.15.0": {
+            "scid": "dn23:11.15.0",
+            "pli": "2.5. Jaccandhaupamā ",
+            "de": "2.5. Das Gleichnis von dem von Geburt an <span class=\"ebt-matched\">Blind</span>en ",
+            "en": "2.5. <span class=\"ebt-matched\">Blind</span> From Birth ",
+            "matched": true
+          },
+          "dn23:11.16": {
+            "scid": "dn23:11.16",
+            "pli": "“Seyyathāpi, rājañña, jaccandho puriso na passeyya kaṇha—sukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakāni rūpāni, na passeyya candimasūriye. ",
+            "de": "„Wie wenn da eine Person von Geburt an <span class=\"ebt-matched\">blind</span> wäre, Stammesfürst. Sie könnte keine dunklen oder hellen, blauen, gelben, roten oder purpurfarbenen Bilder sehen. Sie könnte keinen ebenen oder unebenen Boden erkennen noch Sterne, Mond oder Sonne sehen. ",
+            "en": "“Chieftain, suppose there was a person <span class=\"ebt-matched\">blind</span> from birth. They couldn’t see sights that are dark or bright, or blue, yellow, red, or magenta. They couldn’t see even and uneven ground, or the stars, or the moon and sun. ",
+            "matched": true
+          },
+          "dn23:11.36": {
+            "scid": "dn23:11.36",
+            "pli": "“Evameva kho tvaṁ, rājañña, jaccandhūpamo maññe paṭibhāsi yaṁ maṁ tvaṁ evaṁ vadesi. ",
+            "de": "„Ebenso, Stammesfürst, bist du wie der von Geburt an <span class=\"ebt-matched\">Blind</span>e in dem Gleichnis, wenn du sagst, du glaubst mir nicht. ",
+            "en": "“In the same way, chieftain, when you tell me you don’t believe me you seem like the <span class=\"ebt-matched\">blind</span> man in the simile. ",
+            "matched": true
+          }
+        },
+        "score": 3.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 23\nMit Pāyāsi",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 715,
+          "de": 636,
+          "en": 713
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.71_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.71_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.71_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.71",
+        "lang": "de",
+        "segMap": {
+          "an3.71:3.7": {
+            "scid": "an3.71:3.7",
+            "pli": "Rāgo kho, āvuso, andhakaraṇo acakkhukaraṇo aññāṇakaraṇo paññānirodhiko vighātapakkhiko anibbānasaṁvattaniko. ",
+            "de": "Gier macht <span class=\"ebt-matched\">blind</span>, zerstört das Sehen und Erkennen. Sie blockiert die Weisheit, ist mit Qual verbunden und führt nicht zum Erlöschen. ",
+            "en": "Greed is a destroyer of sight, vision, and knowledge. It blocks wisdom, it’s on the side of anguish, and it doesn’t lead to extinguishment. ",
+            "matched": true
+          },
+          "an3.71:4.8": {
+            "scid": "an3.71:4.8",
+            "pli": "Moho kho, āvuso, andhakaraṇo acakkhukaraṇo aññāṇakaraṇo paññānirodhiko vighātapakkhiko anibbānasaṁvattaniko. ",
+            "de": "Täuschung macht <span class=\"ebt-matched\">blind</span>, zerstört das Sehen und Erkennen. Sie blockiert die Weisheit, ist mit Qual verbunden und führt nicht zum Erlöschen. ",
+            "en": "Delusion is a destroyer of sight, vision, and knowledge; it blocks wisdom, it’s on the side of anguish, and it doesn’t lead to extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 2.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n8. Ānanda\n71. Mit Channa",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 36,
+          "de": 35,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.66_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.66_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.66_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.66",
+        "lang": "de",
+        "segMap": {
+          "an4.66:4.2": {
+            "scid": "an4.66:4.2",
+            "pli": "andhabhūtā acakkhukā; ",
+            "de": "<span class=\"ebt-matched\">blind</span> und ohne Augen: ",
+            "en": "But men hindered by ignorance, ",
+            "matched": true
+          }
+        },
+        "score": 1.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n7. Gute Verwendung\n66. Gierig",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 20,
+          "de": 19,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig5.9_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/thig/thig5.9_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/thig/thig5.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig5.9",
+        "lang": "de",
+        "segMap": {
+          "thig5.9:1.4": {
+            "scid": "thig5.9:1.4",
+            "pli": "vajje cāvajjadassinī.",
+            "de": "und war für wirkliche Fehler <span class=\"ebt-matched\">blind</span>. ",
+            "en": "and was <span class=\"ebt-matched\">blind</span> to the actual fault.",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Strophen der altehrwürdigen Nonnen\nDas Fünferbuch\n5.9. Bhaddā Kuṇḍalakesā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "de": 23,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.123_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.123_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.123_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.123",
+        "lang": "de",
+        "segMap": {
+          "an3.123:3.5": {
+            "scid": "an3.123:3.5",
+            "pli": "So taṁ piṇḍapātaṁ gathito mucchito ajjhosanno anādīnavadassāvī anissaraṇapañño paribhuñjati. ",
+            "de": "Er genießt diese Speise gebunden, betört, anhänglich, <span class=\"ebt-matched\">blind</span> für die nachteiligen Folgen und ohne das Entrinnen zu verstehen. ",
+            "en": "They eat that food tied, infatuated, attached, <span class=\"ebt-matched\">blind</span> to the drawbacks, and not understanding the escape. ",
+            "matched": true
+          }
+        },
+        "score": 1.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n13. Kusināra\n123. In Kusināra",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 37,
+          "de": 36,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.42-51_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.42-51_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.42-51_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.42-51",
+        "lang": "de",
+        "segMap": {
+          "an2.48:1.8": {
+            "scid": "an2.48:1.8",
+            "pli": "Te taṁ lābhaṁ labhitvā gathitā mucchitā ajjhopannā anādīnavadassāvino anissaraṇapaññā paribhuñjanti. ",
+            "de": "Und wenn sie diese Dinge haben, gebrauchen sie sie gebunden, betört, anhänglich, <span class=\"ebt-matched\">blind</span> für die nachteiligen Folgen und ohne das Entrinnen zu verstehen. ",
+            "en": "And when they get these things, they use them tied, infatuated, attached, <span class=\"ebt-matched\">blind</span> to the drawbacks, and not understanding the escape. ",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n5. Versammlungen\n42–51",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 146,
+          "de": 144,
+          "en": 144
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "de",
+        "segMap": {
+          "dn25:10.13": {
+            "scid": "dn25:10.13",
+            "pli": "Yaṁ panassa khamati, taṁ gadhito mucchito ajjhāpanno anādīnavadassāvī anissaraṇapañño paribhuñjati …pe… ",
+            "de": "Aber was ihm zusagt, das genießt er gebunden, betört, anhänglich, <span class=\"ebt-matched\">blind</span> für die nachteiligen Folgen und ohne das Entrinnen zu verstehen. ",
+            "en": "But what does agree with them they eat tied, infatuated, attached, <span class=\"ebt-matched\">blind</span> to the drawbacks, and not understanding the escape. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 25\nDas Löwengebrüll in Udumbarikās Kloster\n1. Vom Wanderer Nigrodha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 383,
+          "de": 347,
+          "en": 382
+        }
+      }
+    ]
+  }
+}

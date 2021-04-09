@@ -1,0 +1,118 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "gained through pleasure",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "gained through pleasure",
+    "method": "phrase",
+    "resultPattern": "\\bgained through pleasure",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn14_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn14_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn85/en/sujato",
+      "mn14/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn14_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn14_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn14",
+        "lang": "en",
+        "segMap": {
+          "mn14:20.1": {
+            "scid": "mn14:20.1",
+            "pli": "‘Na kho, āvuso gotama, sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabbaṁ; ",
+            "en": "‘Reverend Gotama, pleasure is not <span class=\"ebt-matched\">gained through pleasure</span>; pleasure is gained through pain. ",
+            "matched": true
+          },
+          "mn14:20.2": {
+            "scid": "mn14:20.2",
+            "pli": "sukhena cāvuso gotama, sukhaṁ adhigantabbaṁ abhavissa, rājā māgadho seniyo bimbisāro sukhaṁ adhigaccheyya, rājā māgadho seniyo bimbisāro sukhavihāritaro āyasmatā gotamenā’ti. ",
+            "en": "For if pleasure were to be <span class=\"ebt-matched\">gained through pleasure</span>, King Seniya Bimbisāra of Māgadha would gain pleasure, since he lives in greater pleasure than Venerable Gotama.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 14\nThe Shorter Discourse on the Mass of Suffering",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 144,
+          "en": 143
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn85",
+        "lang": "en",
+        "segMap": {
+          "mn85:9.5": {
+            "scid": "mn85:9.5",
+            "pli": "‘na kho sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabban’”ti. ",
+            "en": "‘Pleasure is not <span class=\"ebt-matched\">gained through pleasure</span>; pleasure is gained through pain.’” ",
+            "matched": true
+          },
+          "mn85:10.2": {
+            "scid": "mn85:10.2",
+            "pli": "‘na kho sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabban’ti. ",
+            "en": "‘Pleasure is not <span class=\"ebt-matched\">gained through pleasure</span>; pleasure is gained through pain.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 85\nWith Prince Bodhi",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 553,
+          "en": 552
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "zu studieren",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "zu studieren",
+    "method": "phrase",
+    "resultPattern": "\\bzu studieren",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.73_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.73_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.73_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.73/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.73_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.73_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.73_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.73",
+        "lang": "de",
+        "segMap": {
+          "an5.73:2.3": {
+            "scid": "an5.73:2.3",
+            "pli": "So tāya dhammapariyattiyā divasaṁ atināmeti, riñcati paṭisallānaṁ, nānuyuñjati ajjhattaṁ cetosamathaṁ. ",
+            "de": "Sie verbringt ihre Tage damit, diese Lehre <span class=\"ebt-matched\">zu studieren</span>. Doch sie vernachlässigt die Klausur und weiht sich nicht der inneren Ruhe des Herzens. ",
+            "en": "They spend their days studying that teaching. But they neglect retreat, and are not committed to internal serenity of heart. ",
+            "matched": true
+          },
+          "an5.73:6.3": {
+            "scid": "an5.73:6.3",
+            "pli": "So tāya dhammapariyattiyā na divasaṁ atināmeti, nāpi riñcati paṭisallānaṁ, anuyuñjati ajjhattaṁ cetosamathaṁ. ",
+            "de": "Sie verbringt ihre Tage nicht damit, diese Lehre <span class=\"ebt-matched\">zu studieren</span>. Sie vernachlässigt die Klausur nicht und weiht sich der inneren Ruhe des Herzens. ",
+            "en": "They don’t spend their days studying that teaching. They don’t neglect retreat, and they’re committed to internal serenity of heart. ",
+            "matched": true
+          }
+        },
+        "score": 2.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n8. Krieger\n73. Mit der Lehre leben (1)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 27,
+          "de": 26,
+          "en": 26
+        }
+      }
+    ]
+  }
+}

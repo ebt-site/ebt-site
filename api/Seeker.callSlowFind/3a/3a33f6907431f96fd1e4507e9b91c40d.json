@@ -1,0 +1,200 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "for faith",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "for faith",
+    "method": "phrase",
+    "resultPattern": "\\bfor faith",
+    "segsMatched": 9,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn12/sn12.23_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.23_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga2/ud2.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga2/ud2.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.62_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.62_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.61_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn12.23/en/sujato",
+      "ud2.8/en/sujato",
+      "an10.62/en/sujato",
+      "an10.61/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.62_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.62_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.62",
+        "lang": "en",
+        "segMap": {
+          "an10.62:2.23": {
+            "scid": "an10.62:2.23",
+            "pli": "Ko cāhāro assaddhiyassa? ",
+            "en": "And what is the fuel for lack of faith? ",
+            "matched": true
+          },
+          "an10.62:3.1": {
+            "scid": "an10.62:3.1",
+            "pli": "Iti kho, bhikkhave, asappurisasaṁsevo paripūro assaddhammassavanaṁ paripūreti, assaddhammassavanaṁ paripūraṁ assaddhiyaṁ paripūreti, assaddhiyaṁ paripūraṁ ayonisomanasikāraṁ paripūreti, ayonisomanasikāro paripūro asatāsampajaññaṁ paripūreti, asatāsampajaññaṁ paripūraṁ indriyaasaṁvaraṁ paripūreti, indriyaasaṁvaro paripūro tīṇi duccaritāni paripūreti, tīṇi duccaritāni paripūrāni pañca nīvaraṇe paripūrenti, pañca nīvaraṇā paripūrā avijjaṁ paripūrenti, avijjā paripūrā bhavataṇhaṁ paripūreti; ",
+            "en": "In this way, when the factor of associating with bad people is fulfilled, it fulfills the factor of listening to an untrue teaching. When the factor of listening to an untrue teaching is fulfilled, it fulfills the factor of lack of faith … improper attention … lack of mindfulness and situational awareness … lack of sense restraint …the three kinds of misconduct … the five hindrances … ignorance. When ignorance is fulfilled, it fulfills craving for continued existence. ",
+            "matched": true
+          },
+          "an10.62:5.1": {
+            "scid": "an10.62:5.1",
+            "pli": "Evamevaṁ kho, bhikkhave, asappurisasaṁsevo paripūro assaddhammassavanaṁ paripūreti, assaddhammassavanaṁ paripūraṁ assaddhiyaṁ paripūreti, assaddhiyaṁ paripūraṁ ayonisomanasikāraṁ paripūreti, ayonisomanasikāro paripūro asatāsampajaññaṁ paripūreti, asatāsampajaññaṁ paripūraṁ indriyaasaṁvaraṁ paripūreti, indriyaasaṁvaro paripūro tīṇi duccaritāni paripūreti, tīṇi duccaritāni paripūrāni pañca nīvaraṇe paripūrenti, pañca nīvaraṇā paripūrā avijjaṁ paripūrenti, avijjā paripūrā bhavataṇhaṁ paripūreti; ",
+            "en": "In the same way, when the factor of associating with bad people is fulfilled, it fulfills the factor of listening to an untrue teaching. When the factor of listening to an untrue teaching is fulfilled, it fulfills the factor of lack of faith … improper attention … lack of mindfulness and situational awareness … lack of sense restraint …the three kinds of misconduct … the five hindrances … ignorance. When ignorance is fulfilled, it fulfills craving for continued existence. ",
+            "matched": true
+          },
+          "an10.62:6.23": {
+            "scid": "an10.62:6.23",
+            "pli": "Ko cāhāro saddhāya? ",
+            "en": "And what is the fuel <span class=\"ebt-matched\">for faith</span>? ",
+            "matched": true
+          }
+        },
+        "score": 4.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n7. Pairs\n62. Craving",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 72,
+          "en": 71
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.61_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.61",
+        "lang": "en",
+        "segMap": {
+          "an10.61:2.20": {
+            "scid": "an10.61:2.20",
+            "pli": "Ko cāhāro assaddhiyassa? ",
+            "en": "And what is the fuel for lack of faith? ",
+            "matched": true
+          },
+          "an10.61:6.23": {
+            "scid": "an10.61:6.23",
+            "pli": "Ko cāhāro saddhāya? ",
+            "en": "And what is the fuel <span class=\"ebt-matched\">for faith</span>? ",
+            "matched": true
+          }
+        },
+        "score": 2.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n7. Pairs\n61. Ignorance",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 69,
+          "en": 68
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.23_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.23",
+        "lang": "en",
+        "segMap": {
+          "sn12.23:6.12": {
+            "scid": "sn12.23:6.12",
+            "pli": "dukkhūpanisā saddhā, ",
+            "en": "Suffering is a vital condition <span class=\"ebt-matched\">for faith</span>. ",
+            "matched": true
+          },
+          "sn12.23:6.13": {
+            "scid": "sn12.23:6.13",
+            "pli": "saddhūpanisaṁ pāmojjaṁ, ",
+            "en": "Faith is a vital condition for joy. ",
+            "matched": true
+          }
+        },
+        "score": 2.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n3. The Ten Powers\n23. Vital Conditions",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 93,
+          "en": 92
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga2/ud2.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga2/ud2.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud2.8",
+        "lang": "en",
+        "segMap": {
+          "ud2.8:11.5": {
+            "scid": "ud2.8:11.5",
+            "pli": "Saddhāya pana tvaṁyeva pāṭibhogo”ti.",
+            "en": "But as <span class=\"ebt-matched\">for faith</span>, you alone are the guarantor.”",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n2.8. Suppavāsā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 93,
+          "en": 68
+        }
+      }
+    ]
+  }
+}

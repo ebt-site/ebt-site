@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "die sorgen vieler zerstört",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "die sorgen vieler zerstört",
+    "method": "phrase",
+    "resultPattern": "\\bdie sorgen vieler zerstört",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.21_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.21_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.21_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.21/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.21_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.21_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.21",
+        "lang": "de",
+        "segMap": {
+          "an4.21:9.4": {
+            "scid": "an4.21:9.4",
+            "pli": "bahūnaṁ sokanāsano. ",
+            "de": "der <span class=\"ebt-matched\">die Sorgen vieler zerstört</span>: ",
+            "en": "destroyer of the sorrows of many—",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n3. In Uruvelā\n21. In Uruvelā (1)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 49,
+          "de": 48,
+          "en": 48
+        }
+      }
+    ]
+  }
+}

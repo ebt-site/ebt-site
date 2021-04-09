@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bdestroyer of the sorrows of many",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn6/sn6.2_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an4/an4.21_translation-en-sujato.json:1"
+  ]
+}

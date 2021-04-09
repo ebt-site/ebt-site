@@ -1,0 +1,170 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "devadatta",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "pli",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "pli",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "devadatta",
+    "method": "phrase",
+    "resultPattern": "\\b(d|ḍ)ev(a|ā)(d|ḍ)(a|ā)(t|ṭ)(t|ṭ)(a|ā)",
+    "segsMatched": 10,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.68_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.68_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.68_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.100_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.100_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.100_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.68/pli/ms",
+      "an5.100/pli/ms"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.68_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.68_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.68_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.68",
+        "lang": "de",
+        "segMap": {
+          "an4.68:0.3": {
+            "scid": "an4.68:0.3",
+            "pli": "68. <span class=\"ebt-matched\">Devadatta</span>sutta ",
+            "de": "68. <span class=\"ebt-matched\">Devadatta</span> ",
+            "en": "68. <span class=\"ebt-matched\">Devadatta</span> ",
+            "matched": true
+          },
+          "an4.68:1.2": {
+            "scid": "an4.68:1.2",
+            "pli": "Tatra kho bhagavā <span class=\"ebt-matched\">devadatta</span>ṁ ārabbha bhikkhū āmantesi: ",
+            "de": "Da sprach der Buddha zu den Mönchen und Nonnen über <span class=\"ebt-matched\">Devadatta</span>: ",
+            "en": "There the Buddha spoke to the mendicants about <span class=\"ebt-matched\">Devadatta</span>: ",
+            "matched": true
+          },
+          "an4.68:1.3": {
+            "scid": "an4.68:1.3",
+            "pli": "“attavadhāya, bhikkhave, <span class=\"ebt-matched\">devadatta</span>ssa lābhasakkārasiloko udapādi. ",
+            "de": "„<span class=\"ebt-matched\">Devadatta</span> hat Besitz, Ehre und Beliebtheit zu seinem eigenen Verderben und Untergang erlangt. ",
+            "en": "“Possessions, honor, and popularity came to <span class=\"ebt-matched\">Devadatta</span> for his own ruin and downfall. ",
+            "matched": true
+          },
+          "an4.68:1.4": {
+            "scid": "an4.68:1.4",
+            "pli": "Parābhavāya, bhikkhave, <span class=\"ebt-matched\">devadatta</span>ssa lābhasakkārasiloko udapādi. ",
+            "de": " ",
+            "en": " ",
+            "matched": true
+          },
+          "an4.68:2.2": {
+            "scid": "an4.68:2.2",
+            "pli": "evamevaṁ kho, bhikkhave, attavadhāya <span class=\"ebt-matched\">devadatta</span>ssa lābhasakkārasiloko udapādi, parābhavāya <span class=\"ebt-matched\">devadatta</span>ssa lābhasakkārasiloko udapādi. ",
+            "de": " ",
+            "en": " ",
+            "matched": true
+          },
+          "an4.68:3.2": {
+            "scid": "an4.68:3.2",
+            "pli": "evamevaṁ kho, bhikkhave, attavadhāya <span class=\"ebt-matched\">devadatta</span>ssa lābhasakkārasiloko udapādi, parābhavāya <span class=\"ebt-matched\">devadatta</span>ssa lābhasakkārasiloko udapādi. ",
+            "de": " ",
+            "en": " ",
+            "matched": true
+          },
+          "an4.68:4.2": {
+            "scid": "an4.68:4.2",
+            "pli": "evamevaṁ kho, bhikkhave, attavadhāya <span class=\"ebt-matched\">devadatta</span>ssa lābhasakkārasiloko udapādi, parābhavāya <span class=\"ebt-matched\">devadatta</span>ssa lābhasakkārasiloko udapādi. ",
+            "de": " ",
+            "en": " ",
+            "matched": true
+          },
+          "an4.68:5.2": {
+            "scid": "an4.68:5.2",
+            "pli": "evamevaṁ kho, bhikkhave, attavadhāya <span class=\"ebt-matched\">devadatta</span>ssa lābhasakkārasiloko udapādi, parābhavāya <span class=\"ebt-matched\">devadatta</span>ssa lābhasakkārasiloko udapādīti. ",
+            "de": "Ebenso hat <span class=\"ebt-matched\">Devadatta</span> Besitz, Ehre und Beliebtheit zu seinem eigenen Verderben und Untergang erlangt. ",
+            "en": "In the same way, possessions, honor, and popularity came to <span class=\"ebt-matched\">Devadatta</span> for his own ruin and downfall. ",
+            "matched": true
+          }
+        },
+        "score": 8.4,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n7. Gute Verwendung\n68. Devadatta",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 20,
+          "de": 19,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.100_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.100_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.100_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.100",
+        "lang": "de",
+        "segMap": {
+          "an5.100:2.2": {
+            "scid": "an5.100:2.2",
+            "pli": "“<span class=\"ebt-matched\">devadatta</span>ssa, bhante, evarūpaṁ icchāgataṁ uppajji: ",
+            "de": "„Herr, dieser verfestigte Wunsch kam in <span class=\"ebt-matched\">Devadatta</span> auf: ",
+            "en": "“Sir, this fixed desire arose in <span class=\"ebt-matched\">Devadatta</span>: ",
+            "matched": true
+          },
+          "an5.100:4.5": {
+            "scid": "an5.100:4.5",
+            "pli": "‘<span class=\"ebt-matched\">devadatta</span>ssa, bhante, evarūpaṁ icchāgataṁ uppajji—",
+            "en": " ",
+            "matched": true
+          }
+        },
+        "score": 2.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n10. Mit Kakudha\n100. Mit Kakudha",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 97,
+          "de": 79,
+          "en": 95
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "in harmony and unity",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "in harmony and unity",
+    "method": "phrase",
+    "resultPattern": "\\bin harmony and unity",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an10/an10.50_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.50_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an10.50/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.50_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.50_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.50",
+        "lang": "en",
+        "segMap": {
+          "an10.50:4.1": {
+            "scid": "an10.50:4.1",
+            "pli": "Dasayime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattanti. ",
+            "en": "There are ten warm-hearted qualities that make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. ",
+            "matched": true
+          },
+          "an10.50:4.5": {
+            "scid": "an10.50:4.5",
+            "pli": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati. ",
+            "en": "this warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. ",
+            "matched": true
+          },
+          "an10.50:13.3": {
+            "scid": "an10.50:13.3",
+            "pli": "ayampi dhammo sāraṇīyo …pe… saṁvattati. ",
+            "en": "this warm-hearted quality makes for fondness and respect, helping the Saṅgha to live <span class=\"ebt-matched\">in harmony and unity</span>, without quarreling. ",
+            "matched": true
+          },
+          "an10.50:14.1": {
+            "scid": "an10.50:14.1",
+            "pli": "Ime kho, bhikkhave, dasa dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattantī”ti. ",
+            "en": "These ten warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.” ",
+            "matched": true
+          }
+        },
+        "score": 4.078,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n5. Abuse\n50. Arguments",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 51,
+          "en": 49
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "happiness or sadness or equanimity",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "happiness or sadness or equanimity",
+    "method": "phrase",
+    "resultPattern": "\\bhappiness or sadness or equanimity",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn140_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn140_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn137_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn137_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.61_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.61_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn140/en/sujato",
+      "mn137/en/sujato",
+      "an3.61/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.61_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.61",
+        "lang": "en",
+        "segMap": {
+          "an3.61:12.4": {
+            "scid": "an3.61:12.4",
+            "pli": "Cakkhunā rūpaṁ disvā somanassaṭṭhāniyaṁ rūpaṁ upavicarati domanassaṭṭhāniyaṁ rūpaṁ upavicarati upekkhāṭṭhāniyaṁ rūpaṁ upavicarati, ",
+            "en": "Seeing a sight with the eye, one is preoccupied with a sight that’s a basis for <span class=\"ebt-matched\">happiness or sadness or equanimity</span>. ",
+            "matched": true
+          },
+          "an3.61:12.9": {
+            "scid": "an3.61:12.9",
+            "pli": "manasā dhammaṁ viññāya somanassaṭṭhāniyaṁ dhammaṁ upavicarati domanassaṭṭhāniyaṁ dhammaṁ upavicarati upekkhāṭṭhāniyaṁ dhammaṁ upavicarati. ",
+            "en": "Becoming conscious of a thought with the mind, one is preoccupied with a thought that’s a basis for <span class=\"ebt-matched\">happiness or sadness or equanimity</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n61. Sectarian Tenets",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 117,
+          "en": 116
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn137_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn137_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn137",
+        "lang": "en",
+        "segMap": {
+          "mn137:8.3": {
+            "scid": "mn137:8.3",
+            "pli": "‘Cakkhunā rūpaṁ disvā somanassaṭṭhānīyaṁ rūpaṁ upavicarati, domanassaṭṭhānīyaṁ rūpaṁ upavicarati, upekkhāṭṭhānīyaṁ rūpaṁ upavicarati. ",
+            "en": "Seeing a sight with the eye, one is preoccupied with a sight that’s a basis for <span class=\"ebt-matched\">happiness or sadness or equanimity</span>. ",
+            "matched": true
+          },
+          "mn137:8.8": {
+            "scid": "mn137:8.8",
+            "pli": "manasā dhammaṁ viññāya somanassaṭṭhānīyaṁ dhammaṁ upavicarati, domanassaṭṭhānīyaṁ dhammaṁ upavicarati, upekkhāṭṭhānīyaṁ dhammaṁ upavicarati. ",
+            "en": "Becoming conscious of a thought with the mind, one is preoccupied with a thought that’s a basis for <span class=\"ebt-matched\">happiness or sadness or equanimity</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 137\nThe Analysis of the Six Sense Fields",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 195,
+          "en": 194
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn140_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn140_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn140",
+        "lang": "en",
+        "segMap": {
+          "mn140:10.3": {
+            "scid": "mn140:10.3",
+            "pli": "Cakkhunā rūpaṁ disvā somanassaṭṭhāniyaṁ rūpaṁ upavicarati, domanassaṭṭhāniyaṁ rūpaṁ upavicarati, upekkhāṭṭhāniyaṁ rūpaṁ upavicarati; ",
+            "en": "Seeing a sight with the eye, one is preoccupied with a sight that’s a basis for <span class=\"ebt-matched\">happiness or sadness or equanimity</span>. ",
+            "matched": true
+          },
+          "mn140:10.8": {
+            "scid": "mn140:10.8",
+            "pli": "manasā dhammaṁ viññāya somanassaṭṭhāniyaṁ dhammaṁ upavicarati, domanassaṭṭhāniyaṁ dhammaṁ upavicarati, upekkhāṭṭhāniyaṁ dhammaṁ upavicarati—",
+            "en": "Becoming conscious of a thought with the mind, one is preoccupied with a thought that’s a basis for <span class=\"ebt-matched\">happiness or sadness or equanimity</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 140\nThe Analysis of the Elements",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 239,
+          "en": 238
+        }
+      }
+    ]
+  }
+}

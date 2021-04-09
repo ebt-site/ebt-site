@@ -1,0 +1,136 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "in schulden geraten",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "in schulden geraten",
+    "method": "phrase",
+    "resultPattern": "\\bin schulden geraten",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.45_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.45_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.45_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.45/de/sabbamitta",
+      "dn10/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.45_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.45_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.45_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.45",
+        "lang": "de",
+        "segMap": {
+          "an6.45:3.1": {
+            "scid": "an6.45:3.1",
+            "pli": "“Yampi, bhikkhave, daliddo assako anāḷhiko iṇaṁ ādiyitvā vaḍḍhiṁ paṭissuṇāti, vaḍḍhipi, bhikkhave, dukkhā lokasmiṁ kāmabhogino”ti? ",
+            "de": "„Wenn ein armer Mensch, der <span class=\"ebt-matched\">in Schulden geraten</span> ist, der Zahlung von Zinsen zustimmt, sind dann Zinsen nicht auch Leiden in der Welt für einen Menschen, der Sinnenfreuden genießt?“ ",
+            "en": "“When a poor person who has fallen into debt agrees to pay interest, isn’t the interest also suffering in the world for a person who enjoys sensual pleasures?” ",
+            "matched": true
+          },
+          "an6.45:4.1": {
+            "scid": "an6.45:4.1",
+            "pli": "“Yampi, bhikkhave, daliddo assako anāḷhiko vaḍḍhiṁ paṭissuṇitvā kālābhataṁ vaḍḍhiṁ na deti, codentipi naṁ; ",
+            "de": "„Wenn ein armer Mensch, der <span class=\"ebt-matched\">in Schulden geraten</span> ist und der Zahlung von Zinsen zugestimmt hat, diese nicht zahlen kann, wenn sie fällig sind, bekommt er eine Mahnung. ",
+            "en": "“When a poor person who has fallen into debt and agreed to pay interest fails to pay it when it falls due, they get a warning. ",
+            "matched": true
+          },
+          "an6.45:13.3": {
+            "scid": "an6.45:13.3",
+            "pli": "Daliddo iṇamādāya, ",
+            "de": "Ein armer Mensch, der <span class=\"ebt-matched\">in Schulden geraten</span> ist, ",
+            "en": "A poor person who has fallen into debt ",
+            "matched": true
+          },
+          "an6.45:18.3": {
+            "scid": "an6.45:18.3",
+            "pli": "Daliddo iṇamādāya, ",
+            "de": "ist ein armer Mensch, der <span class=\"ebt-matched\">in Schulden geraten</span> ist, ",
+            "en": "is a poor person who has fallen into debt, ",
+            "matched": true
+          }
+        },
+        "score": 4.04,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n5. Über Dhammika\n45. Schulden",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 100,
+          "de": 99,
+          "en": 99
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn10",
+        "lang": "de",
+        "segMap": {
+          "dn10:2.7.1": {
+            "scid": "dn10:2.7.1",
+            "pli": "Seyyathāpi, māṇava, puriso iṇaṁ ādāya kammante payojeyya. ",
+            "de": "Wie ein Mann, der <span class=\"ebt-matched\">in Schulden geraten</span> wäre und sich der Arbeit widmete ",
+            "en": "Suppose a man who has gotten into debt were to apply himself to work, ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 10\nMit Subha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 284,
+          "de": 226,
+          "en": 281
+        }
+      }
+    ]
+  }
+}

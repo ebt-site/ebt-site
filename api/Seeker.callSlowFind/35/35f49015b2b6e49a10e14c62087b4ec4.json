@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "他の人が贈り物を贈る事を妨げ",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "他の人が贈り物を贈る事を妨げ",
+    "method": "phrase",
+    "resultPattern": "他の人が贈り物を贈る事を妨げ",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.57_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.57_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an3/an3.57_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an3.57/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.57_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.57_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an3/an3.57_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.57",
+        "lang": "jpn",
+        "segMap": {
+          "an3.57:2.6": {
+            "scid": "an3.57:2.6",
+            "pli": "Yo kho, vaccha, paraṁ dānaṁ dadantaṁ vāreti so tiṇṇaṁ antarāyakaro hoti, tiṇṇaṁ pāripanthiko. ",
+            "en": "Anyone who prevents another from giving makes an obstacle and a barrier for three people. ",
+            "jpn": "<span class=\"ebt-matched\">他の人が贈り物を贈る事を妨げ</span>るような者は三人にとっての障害物を作っていて、壁であります。",
+            "matched": true
+          },
+          "an3.57:2.9": {
+            "scid": "an3.57:2.9",
+            "pli": "Yo kho, vaccha, paraṁ dānaṁ dadantaṁ vāreti so imesaṁ tiṇṇaṁ antarāyakaro hoti, tiṇṇaṁ pāripanthiko. ",
+            "en": "Anyone who prevents another from giving makes an obstacle and a barrier for these three people. ",
+            "jpn": "<span class=\"ebt-matched\">他の人が贈り物を贈る事を妨げ</span>るような者は三人にとっての障害物を作っていて、壁であります。",
+            "matched": true
+          }
+        },
+        "score": 2.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 三集\n第六　バラモン（婆羅門品）\n57. ワッチャゴッタ",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 77,
+          "en": 76,
+          "jpn": 68
+        }
+      }
+    ]
+  }
+}

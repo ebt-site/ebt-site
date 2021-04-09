@@ -1,0 +1,1114 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "brutal",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "brutal",
+    "method": "phrase",
+    "resultPattern": "\\bbrutal",
+    "segsMatched": 53,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn17/sn17.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.38-43_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.38-43_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.37_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.37_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.34_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.34_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.33_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.33_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.32_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.32_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.31_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.31_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.29_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.29_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.28_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.28_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.24_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.24_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.23_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.23_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.22_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.22_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.21_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.10_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.36_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.36_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.35_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.35_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.30_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.13-20_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.13-20_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.45_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.45_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn17.9/en/sujato",
+      "sn17.8/en/sujato",
+      "sn17.7/en/sujato",
+      "sn17.6/en/sujato",
+      "sn17.5/en/sujato",
+      "sn17.4/en/sujato",
+      "sn17.3/en/sujato",
+      "sn17.38-43/en/sujato",
+      "sn17.37/en/sujato",
+      "sn17.34/en/sujato",
+      "sn17.33/en/sujato",
+      "sn17.32/en/sujato",
+      "sn17.31/en/sujato",
+      "sn17.2/en/sujato",
+      "sn17.29/en/sujato",
+      "sn17.28/en/sujato",
+      "sn17.24/en/sujato",
+      "sn17.23/en/sujato",
+      "sn17.22/en/sujato",
+      "sn17.21/en/sujato",
+      "sn17.1/en/sujato",
+      "sn17.12/en/sujato",
+      "sn17.11/en/sujato",
+      "sn17.10/en/sujato",
+      "sn17.36/en/sujato",
+      "sn17.35/en/sujato",
+      "sn17.30/en/sujato",
+      "sn17.13-20/en/sujato",
+      "an6.45/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.21_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.21",
+        "lang": "en",
+        "segMap": {
+          "sn17.21:1.2": {
+            "scid": "sn17.21:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.21:1.4": {
+            "scid": "sn17.21:1.4",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.222,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Three\n21. A Female",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 9,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.22_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.22",
+        "lang": "en",
+        "segMap": {
+          "sn17.22:1.2": {
+            "scid": "sn17.22:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.22:1.4": {
+            "scid": "sn17.22:1.4",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.222,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Three\n22. The Finest Lady in the Land",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 9,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.28_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.28",
+        "lang": "en",
+        "segMap": {
+          "sn17.28:1.2": {
+            "scid": "sn17.28:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.28:1.4": {
+            "scid": "sn17.28:1.4",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.222,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Three\n28. Skin",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 9,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.31_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.31_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.31",
+        "lang": "en",
+        "segMap": {
+          "sn17.31:1.2": {
+            "scid": "sn17.31:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.31:1.4": {
+            "scid": "sn17.31:1.4",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.222,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Four\n31. Schism",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 9,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.32_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.32_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.32",
+        "lang": "en",
+        "segMap": {
+          "sn17.32:1.2": {
+            "scid": "sn17.32:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.32:1.4": {
+            "scid": "sn17.32:1.4",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.222,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Four\n32. Skillful Root",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 9,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.33_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.33",
+        "lang": "en",
+        "segMap": {
+          "sn17.33:1.2": {
+            "scid": "sn17.33:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.33:1.4": {
+            "scid": "sn17.33:1.4",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.222,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Four\n33. Skillful Quality",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 9,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.34_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.34",
+        "lang": "en",
+        "segMap": {
+          "sn17.34:1.2": {
+            "scid": "sn17.34:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.34:1.4": {
+            "scid": "sn17.34:1.4",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.222,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Four\n34. Bright Quality",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 9,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.6",
+        "lang": "en",
+        "segMap": {
+          "sn17.6:1.2": {
+            "scid": "sn17.6:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.6:2.2": {
+            "scid": "sn17.6:2.2",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.2,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter One\n6. A Bolt of Lightning",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 10,
+          "en": 9
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.7",
+        "lang": "en",
+        "segMap": {
+          "sn17.7:1.2": {
+            "scid": "sn17.7:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.7:2.2": {
+            "scid": "sn17.7:2.2",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.2,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter One\n7. A Poisoned Arrow",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 10,
+          "en": 9
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.11",
+        "lang": "en",
+        "segMap": {
+          "sn17.11:1.2": {
+            "scid": "sn17.11:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.11:1.6": {
+            "scid": "sn17.11:1.6",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.182,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Two\n11. A Golden Bowl",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 11,
+          "en": 10
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.12",
+        "lang": "en",
+        "segMap": {
+          "sn17.12:1.2": {
+            "scid": "sn17.12:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.12:1.6": {
+            "scid": "sn17.12:1.6",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.182,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Two\n12. A Silver Bowl",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 11,
+          "en": 10
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.4",
+        "lang": "en",
+        "segMap": {
+          "sn17.4:1.2": {
+            "scid": "sn17.4:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.4:1.7": {
+            "scid": "sn17.4:1.7",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter One\n4. A Fleecy Sheep",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.29_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.29",
+        "lang": "en",
+        "segMap": {
+          "sn17.29:1.2": {
+            "scid": "sn17.29:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.29:2.4": {
+            "scid": "sn17.29:2.4",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Three\n29. A Rope",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.1",
+        "lang": "en",
+        "segMap": {
+          "sn17.1:0.3": {
+            "scid": "sn17.1:0.3",
+            "pli": "1. Dāruṇasutta ",
+            "en": "1. <span class=\"ebt-matched\">Brutal</span> ",
+            "matched": true
+          },
+          "sn17.1:2.1": {
+            "scid": "sn17.1:2.1",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span>, bitter, and harsh. They’re an obstacle to reaching the supreme sanctuary. ",
+            "matched": true
+          }
+        },
+        "score": 2.143,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter One\n1. Brutal",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.8",
+        "lang": "en",
+        "segMap": {
+          "sn17.8:1.2": {
+            "scid": "sn17.8:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.8:1.9": {
+            "scid": "sn17.8:1.9",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.143,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter One\n8. A Jackal",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.37_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.37_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.37",
+        "lang": "en",
+        "segMap": {
+          "sn17.37:1.2": {
+            "scid": "sn17.37:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span>, bitter, and harsh. They’re an obstacle to reaching the supreme sanctuary. ",
+            "matched": true
+          },
+          "sn17.37:1.6": {
+            "scid": "sn17.37:1.6",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity—bitter and harsh, an obstacle to reaching the supreme sanctuary. ",
+            "matched": true
+          }
+        },
+        "score": 2.143,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Four\n37. Mother",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.2",
+        "lang": "en",
+        "segMap": {
+          "sn17.2:1.2": {
+            "scid": "sn17.2:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span>, bitter, and harsh. They’re an obstacle to reaching the supreme sanctuary. ",
+            "matched": true
+          },
+          "sn17.2:2.4": {
+            "scid": "sn17.2:2.4",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity—bitter and harsh, an obstacle to reaching the supreme sanctuary. ",
+            "matched": true
+          }
+        },
+        "score": 2.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter One\n2. A Hook",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.9",
+        "lang": "en",
+        "segMap": {
+          "sn17.9:1.2": {
+            "scid": "sn17.9:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.9:1.11": {
+            "scid": "sn17.9:1.11",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter One\n9. Gale-force Winds",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.23_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.23",
+        "lang": "en",
+        "segMap": {
+          "sn17.23:1.2": {
+            "scid": "sn17.23:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.23:1.11": {
+            "scid": "sn17.23:1.11",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Three\n23. An Only Son",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.24_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.24_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.24",
+        "lang": "en",
+        "segMap": {
+          "sn17.24:1.2": {
+            "scid": "sn17.24:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.24:1.11": {
+            "scid": "sn17.24:1.11",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Three\n24. An Only Daughter",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.5",
+        "lang": "en",
+        "segMap": {
+          "sn17.5:1.2": {
+            "scid": "sn17.5:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.5:1.12": {
+            "scid": "sn17.5:1.12",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.118,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter One\n5. A Dung Beetle",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.38-43_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.38-43_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.38-43",
+        "lang": "en",
+        "segMap": {
+          "sn17.38-43:1.2": {
+            "scid": "sn17.38-43:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span>, bitter, and harsh. They’re an obstacle to reaching the supreme sanctuary. ",
+            "matched": true
+          },
+          "sn17.38-43:1.12": {
+            "scid": "sn17.38-43:1.12",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity—bitter and harsh, an obstacle to reaching the supreme sanctuary. ",
+            "matched": true
+          }
+        },
+        "score": 2.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Four\n38–43. Father, Etc.",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 26,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.10",
+        "lang": "en",
+        "segMap": {
+          "sn17.10:1.2": {
+            "scid": "sn17.10:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.10:1.6": {
+            "scid": "sn17.10:1.6",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter One\n10. With Verses",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 27,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.3",
+        "lang": "en",
+        "segMap": {
+          "sn17.3:1.2": {
+            "scid": "sn17.3:1.2",
+            "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. ",
+            "en": "“Possessions, honor, and popularity are <span class=\"ebt-matched\">brutal</span> … ",
+            "matched": true
+          },
+          "sn17.3:2.6": {
+            "scid": "sn17.3:2.6",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter One\n3. A Turtle",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.36_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.36_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.36",
+        "lang": "en",
+        "segMap": {
+          "sn17.36:2.3": {
+            "scid": "sn17.36:2.3",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Four\n36. Five Hundred Carts",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.30",
+        "lang": "en",
+        "segMap": {
+          "sn17.30:1.7": {
+            "scid": "sn17.30:1.7",
+            "pli": "Evaṁ dāruṇo kho, ānanda, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity—bitter and harsh, an obstacle to reaching the supreme sanctuary. ",
+            "matched": true
+          }
+        },
+        "score": 1.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Three\n30. A Mendicant With Defilements Ended",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 20,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.13-20_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.13-20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.13-20",
+        "lang": "en",
+        "segMap": {
+          "sn17.13-20:1.12": {
+            "scid": "sn17.13-20:1.12",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Two\n13–20. A Gold Coin, Etc.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.35_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.35_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.35",
+        "lang": "en",
+        "segMap": {
+          "sn17.35:5.3": {
+            "scid": "sn17.35:5.3",
+            "pli": "Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko. ",
+            "en": "So <span class=\"ebt-matched\">brutal</span> are possessions, honor, and popularity. …” ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter Four\n35. Shortly After He Left",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.45_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.45_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.45",
+        "lang": "en",
+        "segMap": {
+          "an6.45:12.2": {
+            "scid": "an6.45:12.2",
+            "pli": "Nāhaṁ, bhikkhave, aññaṁ ekabandhanampi samanupassāmi evaṁdāruṇaṁ evaṅkaṭukaṁ evaṁantarāyakaraṁ anuttarassa yogakkhemassa adhigamāya, yathayidaṁ, bhikkhave, nirayabandhanaṁ vā tiracchānayonibandhanaṁ vāti. ",
+            "en": "I don’t see a single prison that’s as <span class=\"ebt-matched\">brutal</span>, as vicious, and such an obstacle to reaching the supreme sanctuary as the prison of hell or the animal realm. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n5. About Dhammika\n45. Debt",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 100,
+          "en": 99
+        }
+      }
+    ]
+  }
+}

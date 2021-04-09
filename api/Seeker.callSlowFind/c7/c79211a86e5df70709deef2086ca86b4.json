@@ -1,0 +1,187 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "was ist eine bedingung für alter und tod",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "was ist eine bedingung für alter und tod",
+    "method": "phrase",
+    "resultPattern": "\\bwas ist eine bedingung für alter und tod",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn12/sn12.4_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.4_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.10_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn15_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn15_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn12.4/de/sabbamitta",
+      "sn12.10/de/sabbamitta",
+      "dn15/de/sabbamitta",
+      "dn14/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.10",
+        "lang": "de",
+        "segMap": {
+          "sn12.10:2.2": {
+            "scid": "sn12.10:2.2",
+            "pli": "‘kimhi nu kho sati jarāmaraṇaṁ hoti, kiṁpaccayā jarāmaraṇan’ti? ",
+            "de": "‚Wenn was besteht, gibt es Alter und Tod? <span class=\"ebt-matched\">Was ist eine Bedingung für Alter und Tod</span>?‘ ",
+            "en": "‘When what exists is there old age and death? What is a condition for old age and death?’ ",
+            "matched": true
+          }
+        },
+        "score": 1.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n1. Die Buddhas\n10. Gotama",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 56,
+          "de": 54,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.4_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.4_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.4",
+        "lang": "de",
+        "segMap": {
+          "sn12.4:2.2": {
+            "scid": "sn12.4:2.2",
+            "pli": "‘kimhi nu kho sati jarāmaraṇaṁ hoti, kiṁpaccayā jarāmaraṇan’ti? ",
+            "de": "‚Wenn was besteht, gibt es Alter und Tod? <span class=\"ebt-matched\">Was ist eine Bedingung für Alter und Tod</span>?‘ ",
+            "en": "‘When what exists is there old age and death? What is a condition for old age and death?’ ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n1. Die Buddhas\n4. Über Vipassī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 106,
+          "de": 106,
+          "en": 106
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn15_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn15_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn15",
+        "lang": "de",
+        "segMap": {
+          "dn15:2.2": {
+            "scid": "dn15:2.2",
+            "pli": "‘Kiṁpaccayā jarāmaraṇan’ti iti ce vadeyya, ‘jātipaccayā jarāmaraṇan’ti iccassa vacanīyaṁ. ",
+            "de": "Wenn gesagt wird: ‚<span class=\"ebt-matched\">Was ist eine Bedingung für Alter und Tod</span>?‘, solltest du antworten: ‚Wiedergeburt ist eine Bedingung für Alter und Tod‘. ",
+            "en": "If they say, ‘What is a condition for old age and death?’ you should answer, ‘Rebirth is a condition for old age and death.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 15\nDie große Lehrrede über das Kausalprinzip\n1. Abhängiges Entstehen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 277,
+          "de": 254,
+          "en": 276
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn14",
+        "lang": "de",
+        "segMap": {
+          "dn14:2.18.5": {
+            "scid": "dn14:2.18.5",
+            "pli": "‘kimhi nu kho sati jarāmaraṇaṁ hoti, kiṁpaccayā jarāmaraṇan’ti? ",
+            "de": "‚Wenn was besteht, gibt es Alter und Tod? <span class=\"ebt-matched\">Was ist eine Bedingung für Alter und Tod</span>?‘ ",
+            "en": "‘When what exists is there old age and death? What is a condition for old age and death?’ ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 14\nDie große Lehrrede über die Ernte aus den Taten\n1. Von früheren Leben",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 851,
+          "de": 689,
+          "en": 850
+        }
+      }
+    ]
+  }
+}

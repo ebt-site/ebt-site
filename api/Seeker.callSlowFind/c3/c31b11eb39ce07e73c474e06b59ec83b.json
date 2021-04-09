@@ -1,0 +1,136 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "begrenzte versenkung und weisheit",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "begrenzte versenkung und weisheit",
+    "method": "phrase",
+    "resultPattern": "\\bbegrenzte versenkung und weisheit",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.86_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.86_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.86_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.87_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.87_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.87_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.86/de/sabbamitta",
+      "an3.87/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.86_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.86_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.86_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.86",
+        "lang": "de",
+        "segMap": {
+          "an3.86:2.1": {
+            "scid": "an3.86:2.1",
+            "pli": "Idha, bhikkhave, bhikkhu sīlesu paripūrakārī hoti samādhismiṁ mattaso kārī paññāya mattaso kārī. ",
+            "de": "Nehmen wir an, ein Mönch hat seine Ethik erfüllt und besitzt <span class=\"ebt-matched\">begrenzte Versenkung und Weisheit</span>. ",
+            "en": "Take the case of a mendicant who has fulfilled their ethics, but has limited immersion and wisdom. ",
+            "matched": true
+          },
+          "an3.86:3.1": {
+            "scid": "an3.86:3.1",
+            "pli": "Idha pana, bhikkhave, bhikkhu sīlesu paripūrakārī hoti samādhismiṁ mattaso kārī paññāya mattaso kārī. ",
+            "de": "Nehmen wir weiter an, eine Nonne hat ihre Ethik erfüllt und besitzt <span class=\"ebt-matched\">begrenzte Versenkung und Weisheit</span>. ",
+            "en": "Take another case of a mendicant who has fulfilled their ethics, but has limited immersion and wisdom. ",
+            "matched": true
+          },
+          "an3.86:4.1": {
+            "scid": "an3.86:4.1",
+            "pli": "Idha pana, bhikkhave, bhikkhu sīlesu paripūrakārī hoti samādhismiṁ paripūrakārī paññāya mattaso kārī. ",
+            "de": "Nehmen wir weiter an, ein Mönch hat seine Ethik und Versenkung erfüllt und besitzt begrenzte Weisheit. ",
+            "en": "Take another case of a mendicant who has fulfilled their ethics and immersion, but has limited wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 3.086,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n9. Asketen\n86. Übung (1)",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 35,
+          "de": 34,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.87_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.87_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.87_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.87",
+        "lang": "de",
+        "segMap": {
+          "an3.87:2.1": {
+            "scid": "an3.87:2.1",
+            "pli": "Idha, bhikkhave, bhikkhu sīlesu paripūrakārī hoti samādhismiṁ mattaso kārī paññāya mattaso kārī. ",
+            "de": "Nehmen wir an, ein Mönch hat seine Ethik erfüllt und besitzt <span class=\"ebt-matched\">begrenzte Versenkung und Weisheit</span>. ",
+            "en": "Take the case of a mendicant who has fulfilled their ethics, but has limited immersion and wisdom. ",
+            "matched": true
+          },
+          "an3.87:3.1": {
+            "scid": "an3.87:3.1",
+            "pli": "Idha pana, bhikkhave, bhikkhu sīlesu paripūrakārī hoti samādhismiṁ paripūrakārī paññāya mattaso kārī. ",
+            "de": "Nehmen wir weiter an, eine Nonne hat ihre Ethik und Versenkung erfüllt und besitzt begrenzte Weisheit. ",
+            "en": "Take another case of a mendicant who has fulfilled their ethics and immersion, but has limited wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 2.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n9. Asketen\n87. Übung (2)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 36,
+          "de": 35,
+          "en": 35
+        }
+      }
+    ]
+  }
+}

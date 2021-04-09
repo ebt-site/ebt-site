@@ -1,0 +1,1116 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "ertragen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "ertragen",
+    "method": "phrase",
+    "resultPattern": "\\bertragen",
+    "segsMatched": 87,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.139_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.139_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.139_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.75_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.75_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.75_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn2_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/mn/mn2_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/mn/mn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.58_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.85_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.85_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.85_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.36_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an7/an7.36_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an7/an7.36_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.7_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.7_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.6_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.6_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.5_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.5_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.138_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.138_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.138_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.123_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.123_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.123_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.113_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.113_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.113_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.49_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.49_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.49_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.165_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.165_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.165_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.157_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.157_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.157_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.135_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.135_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.135_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.139/de/sabbamitta",
+      "an5.75/de/sabbamitta",
+      "mn2/de/sabbamitta",
+      "an6.58/de/sabbamitta",
+      "an5.85/de/sabbamitta",
+      "an7.36/de/sabbamitta",
+      "an6.7/de/sabbamitta",
+      "an6.6/de/sabbamitta",
+      "an6.5/de/sabbamitta",
+      "an5.138/de/sabbamitta",
+      "an5.123/de/sabbamitta",
+      "an5.113/de/sabbamitta",
+      "an3.49/de/sabbamitta",
+      "an4.165/de/sabbamitta",
+      "an4.157/de/sabbamitta",
+      "an3.135/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.139_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.139_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.139_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.139",
+        "lang": "de",
+        "segMap": {
+          "an5.139:0.3": {
+            "scid": "an5.139:0.3",
+            "pli": "139. Akkhamasutta ",
+            "de": "139. Kann nicht <span class=\"ebt-matched\">ertragen</span> ",
+            "en": "139. Cannot Endure ",
+            "matched": true
+          },
+          "an5.139:1.3": {
+            "scid": "an5.139:1.3",
+            "pli": "Idha, bhikkhave, rañño nāgo akkhamo hoti rūpānaṁ, akkhamo saddānaṁ, akkhamo gandhānaṁ, akkhamo rasānaṁ, akkhamo phoṭṭhabbānaṁ. ",
+            "de": "Da kann ein königlicher Elefantenbulle Bilder, Töne, Düfte, Geschmäcke oder Berührungen nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "It’s when a royal bull elephant can’t endure sights, sounds, smells, tastes, and touches. ",
+            "matched": true
+          },
+          "an5.139:2.1": {
+            "scid": "an5.139:2.1",
+            "pli": "Kathañca, bhikkhave, rañño nāgo akkhamo hoti rūpānaṁ? ",
+            "de": "Und wie kann ein königlicher Elefantenbulle Bilder nicht <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a royal bull elephant can’t endure sights? ",
+            "matched": true
+          },
+          "an5.139:2.3": {
+            "scid": "an5.139:2.3",
+            "pli": "Evaṁ kho, bhikkhave, rañño nāgo akkhamo hoti rūpānaṁ. ",
+            "de": "So kann ein königlicher Elefantenbulle Bilder nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a royal bull elephant can’t endure sights. ",
+            "matched": true
+          },
+          "an5.139:3.1": {
+            "scid": "an5.139:3.1",
+            "pli": "Kathañca, bhikkhave, rañño nāgo akkhamo hoti saddānaṁ? ",
+            "de": "Und wie kann ein königlicher Elefantenbulle Töne nicht <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a royal bull elephant can’t endure sounds? ",
+            "matched": true
+          },
+          "an5.139:3.3": {
+            "scid": "an5.139:3.3",
+            "pli": "Evaṁ kho, bhikkhave, rañño nāgo akkhamo hoti saddānaṁ. ",
+            "de": "So kann ein königlicher Elefantenbulle Töne nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a royal bull elephant can’t endure sounds. ",
+            "matched": true
+          },
+          "an5.139:4.1": {
+            "scid": "an5.139:4.1",
+            "pli": "Kathañca, bhikkhave, rañño nāgo akkhamo hoti gandhānaṁ? ",
+            "de": "Und wie kann ein königlicher Elefantenbulle Düfte nicht <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a royal bull elephant can’t endure smells? ",
+            "matched": true
+          },
+          "an5.139:4.3": {
+            "scid": "an5.139:4.3",
+            "pli": "Evaṁ kho, bhikkhave, rañño nāgo akkhamo hoti gandhānaṁ. ",
+            "de": "So kann ein königlicher Elefantenbulle Düfte nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a royal bull elephant can’t endure smells. ",
+            "matched": true
+          },
+          "an5.139:5.1": {
+            "scid": "an5.139:5.1",
+            "pli": "Kathañca, bhikkhave, rañño nāgo akkhamo hoti rasānaṁ? ",
+            "de": "Und wie kann ein königlicher Elefantenbulle Geschmäcke nicht <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a royal bull elephant can’t endure tastes? ",
+            "matched": true
+          },
+          "an5.139:5.3": {
+            "scid": "an5.139:5.3",
+            "pli": "Evaṁ kho, bhikkhave, rañño nāgo akkhamo hoti rasānaṁ. ",
+            "de": "So kann ein königlicher Elefantenbulle Geschmäcke nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a royal bull elephant can’t endure tastes. ",
+            "matched": true
+          },
+          "an5.139:6.1": {
+            "scid": "an5.139:6.1",
+            "pli": "Kathañca, bhikkhave, rañño nāgo akkhamo hoti phoṭṭhabbānaṁ? ",
+            "de": "Und wie kann ein königlicher Elefantenbulle Berührungen nicht <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a royal bull elephant can’t endure touches? ",
+            "matched": true
+          },
+          "an5.139:6.3": {
+            "scid": "an5.139:6.3",
+            "pli": "Evaṁ kho, bhikkhave, rañño nāgo akkhamo hoti phoṭṭhabbānaṁ. ",
+            "de": "So kann ein königlicher Elefantenbulle Berührungen nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a royal bull elephant can’t endure touches. ",
+            "matched": true
+          },
+          "an5.139:8.3": {
+            "scid": "an5.139:8.3",
+            "pli": "Idha, bhikkhave, bhikkhu akkhamo hoti rūpānaṁ, akkhamo saddānaṁ, akkhamo gandhānaṁ, akkhamo rasānaṁ, akkhamo phoṭṭhabbānaṁ. ",
+            "de": "Da kann ein Mönch Bilder, Töne, Düfte, Geschmäcke oder Berührungen nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "It’s when a mendicant can’t endure sights, sounds, smells, tastes, and touches. ",
+            "matched": true
+          },
+          "an5.139:9.1": {
+            "scid": "an5.139:9.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu akkhamo hoti rūpānaṁ? ",
+            "de": "Und wie kann ein Mönch Bilder nicht <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a mendicant can’t endure sights? ",
+            "matched": true
+          },
+          "an5.139:9.3": {
+            "scid": "an5.139:9.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu akkhamo hoti rūpānaṁ. ",
+            "de": "So kann ein Mönch Bilder nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a mendicant can’t endure sights. ",
+            "matched": true
+          },
+          "an5.139:10.1": {
+            "scid": "an5.139:10.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu akkhamo hoti saddānaṁ? ",
+            "de": "Und wie kann ein Mönch Töne nicht <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a mendicant can’t endure sounds? ",
+            "matched": true
+          },
+          "an5.139:10.3": {
+            "scid": "an5.139:10.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu akkhamo hoti saddānaṁ. ",
+            "de": "So kann ein Mönch Töne nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a mendicant can’t endure sounds. ",
+            "matched": true
+          },
+          "an5.139:11.1": {
+            "scid": "an5.139:11.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu akkhamo hoti gandhānaṁ? ",
+            "de": "Und wie kann ein Mönch Düfte nicht <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a mendicant can’t endure smells? ",
+            "matched": true
+          },
+          "an5.139:11.3": {
+            "scid": "an5.139:11.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu akkhamo hoti gandhānaṁ. ",
+            "de": "So kann ein Mönch Düfte nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a mendicant can’t endure smells. ",
+            "matched": true
+          },
+          "an5.139:12.1": {
+            "scid": "an5.139:12.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu akkhamo hoti rasānaṁ? ",
+            "de": "Und wie kann ein Mönch Geschmäcke nicht <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a mendicant can’t endure tastes? ",
+            "matched": true
+          },
+          "an5.139:12.3": {
+            "scid": "an5.139:12.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu akkhamo hoti rasānaṁ. ",
+            "de": "So kann ein Mönch Geschmäcke nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a mendicant can’t endure tastes. ",
+            "matched": true
+          },
+          "an5.139:13.1": {
+            "scid": "an5.139:13.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu akkhamo hoti phoṭṭhabbānaṁ? ",
+            "de": "Und wie kann ein Mönch Berührungen nicht <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a mendicant can’t endure touches? ",
+            "matched": true
+          },
+          "an5.139:13.3": {
+            "scid": "an5.139:13.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu akkhamo hoti phoṭṭhabbānaṁ. ",
+            "de": "So kann ein Mönch Berührungen nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a mendicant can’t endure touches. ",
+            "matched": true
+          },
+          "an5.139:15.3": {
+            "scid": "an5.139:15.3",
+            "pli": "Idha, bhikkhave, rañño nāgo khamo hoti rūpānaṁ, khamo saddānaṁ, khamo gandhānaṁ, khamo rasānaṁ, khamo phoṭṭhabbānaṁ. ",
+            "de": "Da kann ein königlicher Elefantenbulle Bilder, Töne, Düfte, Geschmäcke und Berührungen <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "It’s when a royal bull elephant can endure sights, sounds, smells, tastes, and touches. ",
+            "matched": true
+          },
+          "an5.139:16.1": {
+            "scid": "an5.139:16.1",
+            "pli": "Kathañca, bhikkhave, rañño nāgo khamo hoti rūpānaṁ? ",
+            "de": "Und wie kann ein königlicher Elefantenbulle Bilder <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a royal bull elephant can endure sights? ",
+            "matched": true
+          },
+          "an5.139:16.3": {
+            "scid": "an5.139:16.3",
+            "pli": "Evaṁ kho, bhikkhave, rañño nāgo khamo hoti rūpānaṁ. ",
+            "de": "So kann ein königlicher Elefantenbulle Bilder <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a royal bull elephant can endure sights. ",
+            "matched": true
+          },
+          "an5.139:17.1": {
+            "scid": "an5.139:17.1",
+            "pli": "Kathañca, bhikkhave, rañño nāgo khamo hoti saddānaṁ? ",
+            "de": "Und wie kann ein königlicher Elefantenbulle Töne <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a royal bull elephant can endure sounds? ",
+            "matched": true
+          },
+          "an5.139:17.3": {
+            "scid": "an5.139:17.3",
+            "pli": "Evaṁ kho, bhikkhave, rañño nāgo khamo hoti saddānaṁ. ",
+            "de": "So kann ein königlicher Elefantenbulle Töne <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a royal bull elephant can endure sounds. ",
+            "matched": true
+          },
+          "an5.139:18.1": {
+            "scid": "an5.139:18.1",
+            "pli": "Kathañca, bhikkhave, rañño nāgo khamo hoti gandhānaṁ? ",
+            "de": "Und wie kann ein königlicher Elefantenbulle Düfte <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a royal bull elephant can endure smells? ",
+            "matched": true
+          },
+          "an5.139:18.3": {
+            "scid": "an5.139:18.3",
+            "pli": "Evaṁ kho, bhikkhave, rañño nāgo khamo hoti gandhānaṁ. ",
+            "de": "So kann ein königlicher Elefantenbulle Düfte <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a royal bull elephant can endure smells. ",
+            "matched": true
+          },
+          "an5.139:19.1": {
+            "scid": "an5.139:19.1",
+            "pli": "Kathañca, bhikkhave, rañño nāgo khamo hoti rasānaṁ? ",
+            "de": "Und wie kann ein königlicher Elefantenbulle Geschmäcke <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a royal bull elephant can endure tastes? ",
+            "matched": true
+          },
+          "an5.139:19.3": {
+            "scid": "an5.139:19.3",
+            "pli": "Evaṁ kho, bhikkhave, rañño nāgo khamo hoti rasānaṁ. ",
+            "de": "So kann ein königlicher Elefantenbulle Geschmäcke <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a royal bull elephant can endure tastes. ",
+            "matched": true
+          },
+          "an5.139:20.1": {
+            "scid": "an5.139:20.1",
+            "pli": "Kathañca, bhikkhave, rañño nāgo khamo hoti phoṭṭhabbānaṁ? ",
+            "de": "Und wie kann ein königlicher Elefantenbulle Berührungen <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a royal bull elephant can endure touches? ",
+            "matched": true
+          },
+          "an5.139:20.3": {
+            "scid": "an5.139:20.3",
+            "pli": "Evaṁ kho, bhikkhave, rañño nāgo khamo hoti phoṭṭhabbānaṁ. ",
+            "de": "So kann ein königlicher Elefantenbulle Berührungen <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a royal bull elephant can endure touches. ",
+            "matched": true
+          },
+          "an5.139:22.3": {
+            "scid": "an5.139:22.3",
+            "pli": "Idha, bhikkhave, bhikkhu khamo hoti rūpānaṁ, khamo saddānaṁ, khamo gandhānaṁ, khamo rasānaṁ, khamo phoṭṭhabbānaṁ. ",
+            "de": "Da kann ein Mönch Bilder, Töne, Düfte, Geschmäcke und Berührungen <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "It’s when a mendicant can endure sights, sounds, smells, tastes, and touches. ",
+            "matched": true
+          },
+          "an5.139:23.1": {
+            "scid": "an5.139:23.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu khamo hoti rūpānaṁ? ",
+            "de": "Und wie kann ein Mönch Bilder <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a mendicant can endure sights? ",
+            "matched": true
+          },
+          "an5.139:23.3": {
+            "scid": "an5.139:23.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu khamo hoti rūpānaṁ. ",
+            "de": "So kann ein Mönch Bilder <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a mendicant can endure sights. ",
+            "matched": true
+          },
+          "an5.139:24.1": {
+            "scid": "an5.139:24.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu khamo hoti saddānaṁ? ",
+            "de": "Und wie kann ein Mönch Töne <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a mendicant can endure sounds? ",
+            "matched": true
+          },
+          "an5.139:24.3": {
+            "scid": "an5.139:24.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu khamo hoti saddānaṁ. ",
+            "de": "So kann ein Mönch Töne <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a mendicant can endure sounds. ",
+            "matched": true
+          },
+          "an5.139:25.1": {
+            "scid": "an5.139:25.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu khamo hoti gandhānaṁ. ",
+            "de": "Und wie kann ein Mönch Düfte <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a mendicant can endure smells? ",
+            "matched": true
+          },
+          "an5.139:25.3": {
+            "scid": "an5.139:25.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu khamo hoti gandhānaṁ. ",
+            "de": "So kann ein Mönch Düfte <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a mendicant can endure smells. ",
+            "matched": true
+          },
+          "an5.139:26.1": {
+            "scid": "an5.139:26.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu khamo hoti rasānaṁ? ",
+            "de": "Und wie kann ein Mönch Geschmäcke <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a mendicant can endure tastes? ",
+            "matched": true
+          },
+          "an5.139:26.3": {
+            "scid": "an5.139:26.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu khamo hoti rasānaṁ. ",
+            "de": "So ein Mönch Geschmäcke <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a mendicant can endure tastes. ",
+            "matched": true
+          },
+          "an5.139:27.1": {
+            "scid": "an5.139:27.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu khamo hoti phoṭṭhabbānaṁ? ",
+            "de": "Und wie kann ein Mönch Berührungen <span class=\"ebt-matched\">ertragen</span>? ",
+            "en": "And how is it that a mendicant can endure touches? ",
+            "matched": true
+          },
+          "an5.139:27.3": {
+            "scid": "an5.139:27.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu khamo hoti phoṭṭhabbānaṁ. ",
+            "de": "So kann ein Mönch Berührungen <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "That’s how a mendicant can endure touches. ",
+            "matched": true
+          }
+        },
+        "score": 45.563,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n14. Könige\n139. Kann nicht ertragen",
+        "segsMatched": 45,
+        "langSegs": {
+          "pli": 80,
+          "de": 79,
+          "en": 79
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.75_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.75_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.75_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.75",
+        "lang": "de",
+        "segMap": {
+          "an5.75:2.1": {
+            "scid": "an5.75:2.1",
+            "pli": "Puna caparaṁ, bhikkhave, idhekacco yodhājīvo sahati rajaggaṁ; ",
+            "de": "Dann ist da ein Krieger, der eine Staubwolke <span class=\"ebt-matched\">ertragen</span> kann, ",
+            "en": "Furthermore, one warrior can prevail over a cloud of dust, ",
+            "matched": true
+          },
+          "an5.75:3.1": {
+            "scid": "an5.75:3.1",
+            "pli": "Puna caparaṁ, bhikkhave, idhekacco yodhājīvo sahati rajaggaṁ sahati dhajaggaṁ; ",
+            "de": "Dann ist da ein Krieger, der eine Staubwolke und eine Fahnenspitze <span class=\"ebt-matched\">ertragen</span> kann, ",
+            "en": "Furthermore, one warrior can prevail over a cloud of dust and a banner’s crest, ",
+            "matched": true
+          },
+          "an5.75:4.1": {
+            "scid": "an5.75:4.1",
+            "pli": "Puna caparaṁ, bhikkhave, idhekacco yodhājīvo sahati rajaggaṁ, sahati dhajaggaṁ, sahati ussāraṇaṁ; ",
+            "de": "Dann ist da ein Krieger, der eine Staubwolke, eine Fahnenspitze und einen Tumult <span class=\"ebt-matched\">ertragen</span> kann, ",
+            "en": "Furthermore, one warrior can prevail over a cloud of dust and a banner’s crest and turmoil, ",
+            "matched": true
+          },
+          "an5.75:5.1": {
+            "scid": "an5.75:5.1",
+            "pli": "Puna caparaṁ, bhikkhave, idhekacco yodhājīvo sahati rajaggaṁ, sahati dhajaggaṁ, sahati ussāraṇaṁ, sahati sampahāraṁ. ",
+            "de": "Dann ist da ein Krieger, der eine Staubwolke, eine Fahnenspitze, einen Tumult und Hiebe <span class=\"ebt-matched\">ertragen</span> kann. ",
+            "en": "Furthermore, one warrior can prevail over a cloud of dust and a banner’s crest and turmoil and being struck. ",
+            "matched": true
+          },
+          "an5.75:8.1": {
+            "scid": "an5.75:8.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu sahati rajaggaṁ; ",
+            "de": "Dann ist da ein Mönch, der eine Staubwolke <span class=\"ebt-matched\">ertragen</span> kann, ",
+            "en": "Furthermore, one monk can prevail over a cloud of dust, ",
+            "matched": true
+          },
+          "an5.75:9.1": {
+            "scid": "an5.75:9.1",
+            "pli": "Seyyathāpi so, bhikkhave, yodhājīvo sahati rajaggaṁ; ",
+            "de": "Ich sage, dieser Mensch ist wie der Krieger, der eine Staubwolke <span class=\"ebt-matched\">ertragen</span> kann, ",
+            "en": "I say that this person is like the warrior who can prevail over a cloud of dust, ",
+            "matched": true
+          },
+          "an5.75:10.1": {
+            "scid": "an5.75:10.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu sahati rajaggaṁ, sahati dhajaggaṁ; ",
+            "de": "Dann ist da ein Mönch, der eine Staubwolke und eine Fahnenspitze <span class=\"ebt-matched\">ertragen</span> kann, ",
+            "en": "Furthermore, one monk can prevail over a cloud of dust and a banner’s crest, ",
+            "matched": true
+          },
+          "an5.75:11.1": {
+            "scid": "an5.75:11.1",
+            "pli": "Seyyathāpi so, bhikkhave, yodhājīvo sahati rajaggaṁ, sahati dhajaggaṁ; ",
+            "de": "Ich sage, dieser Mensch ist wie der Krieger, der eine Staubwolke und eine Fahnenspitze <span class=\"ebt-matched\">ertragen</span> kann, ",
+            "en": "I say that this person is like the warrior who can prevail over a cloud of dust and a banner’s crest, ",
+            "matched": true
+          },
+          "an5.75:12.1": {
+            "scid": "an5.75:12.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu sahati rajaggaṁ, sahati dhajaggaṁ, sahati ussāraṇaṁ; ",
+            "de": "Dann ist da ein Mönch, der eine Staubwolke, eine Fahnenspitze und einen Tumult <span class=\"ebt-matched\">ertragen</span> kann, ",
+            "en": "Furthermore, one monk can prevail over a cloud of dust and a banner’s crest and turmoil, ",
+            "matched": true
+          },
+          "an5.75:13.1": {
+            "scid": "an5.75:13.1",
+            "pli": "Seyyathāpi so, bhikkhave, yodhājīvo sahati rajaggaṁ, sahati dhajaggaṁ, sahati ussāraṇaṁ, api ca kho sampahāre haññati byāpajjati; ",
+            "de": "Ich sage, dieser Mensch ist wie der Krieger, der eine Staubwolke, eine Fahnenspitze und einen Tumult <span class=\"ebt-matched\">ertragen</span> kann, doch der getötet oder verwundet wird, wenn Hiebe ausgeteilt werden. ",
+            "en": "I say that this person is like the warrior who can prevail over a cloud of dust and a banner’s crest and turmoil, but is killed or injured when blows are struck. ",
+            "matched": true
+          },
+          "an5.75:14.1": {
+            "scid": "an5.75:14.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu sahati rajaggaṁ, sahati dhajaggaṁ, sahati ussāraṇaṁ, sahati sampahāraṁ, so taṁ saṅgāmaṁ abhivijinitvā vijitasaṅgāmo tameva saṅgāmasīsaṁ ajjhāvasati. ",
+            "de": "Dann ist da ein Mönch, der eine Staubwolke, eine Fahnenspitze, einen Tumult und Hiebe <span class=\"ebt-matched\">ertragen</span> kann. Er erringt den Sieg in der Schlacht und beweist sich als der Erste in der Schlacht.",
+            "en": "Furthermore, one monk can prevail over a cloud of dust and a banner’s crest and turmoil, and being struck. He wins victory in battle, establishing himself as foremost in battle. ",
+            "matched": true
+          },
+          "an5.75:17.1": {
+            "scid": "an5.75:17.1",
+            "pli": "Seyyathāpi so, bhikkhave, yodhājīvo sahati rajaggaṁ, sahati dhajaggaṁ, sahati ussāraṇaṁ, sahati sampahāraṁ, so taṁ saṅgāmaṁ abhivijinitvā vijitasaṅgāmo tameva saṅgāmasīsaṁ ajjhāvasati; ",
+            "de": "Ich sage, dieser Mensch ist wie der Krieger, der eine Staubwolke, eine Fahnenspitze, einen Tumult und Hiebe <span class=\"ebt-matched\">ertragen</span> kann. Er erringt den Sieg in der Schlacht und beweist sich als der Erste in der Schlacht.",
+            "en": "I say that this person is like the warrior who can prevail over a cloud of dust and a banner’s crest and turmoil and being struck. He wins victory in battle, establishing himself as foremost in battle. ",
+            "matched": true
+          }
+        },
+        "score": 12.115,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n8. Krieger\n75. Krieger (1)",
+        "segsMatched": 12,
+        "langSegs": {
+          "pli": 104,
+          "de": 98,
+          "en": 103
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn2_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/mn/mn2_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/mn/mn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn2",
+        "lang": "de",
+        "segMap": {
+          "mn2:4.1": {
+            "scid": "mn2:4.1",
+            "pli": "Atthi, bhikkhave, āsavā dassanā pahātabbā, atthi āsavā saṁvarā pahātabbā, atthi āsavā paṭisevanā pahātabbā, atthi āsavā adhivāsanā pahātabbā, atthi āsavā parivajjanā pahātabbā, atthi āsavā vinodanā pahātabbā, atthi āsavā bhāvanā pahātabbā. ",
+            "de": "Manche Befleckungen müssen durch Sehen aufgegeben werden, manche durch Zügelung, manche durch die Art des Gebrauchs, manche durch <span class=\"ebt-matched\">Ertragen</span>, manche durch Meiden, manche durch Beseitigen und manche durch Entwickeln. ",
+            "en": "Some defilements should be given up by seeing, some by restraint, some by using, some by enduring, some by avoiding, some by dispelling, and some by developing. ",
+            "matched": true
+          },
+          "mn2:18.0": {
+            "scid": "mn2:18.0",
+            "pli": "4. Adhivāsanāpahātabbaāsava ",
+            "de": "4. Befleckungen, die durch <span class=\"ebt-matched\">Ertragen</span> aufgegeben werden müssen ",
+            "en": "4. Defilements Given Up by Enduring ",
+            "matched": true
+          },
+          "mn2:18.1": {
+            "scid": "mn2:18.1",
+            "pli": "Katame ca, bhikkhave, āsavā adhivāsanā pahātabbā? ",
+            "de": "Und was sind die Befleckungen, die durch <span class=\"ebt-matched\">Ertragen</span> aufgegeben werden müssen? ",
+            "en": "And what are the defilements that should be given up by enduring? ",
+            "matched": true
+          },
+          "mn2:18.4": {
+            "scid": "mn2:18.4",
+            "pli": "Ime vuccanti, bhikkhave, āsavā adhivāsanā pahātabbā. ",
+            "de": "Das nennt man die Befleckungen, die durch <span class=\"ebt-matched\">Ertragen</span> aufgegeben werden müssen. ",
+            "en": "These are called the defilements that should be given up by enduring. ",
+            "matched": true
+          },
+          "mn2:22.1": {
+            "scid": "mn2:22.1",
+            "pli": "Yato kho, bhikkhave, bhikkhuno ye āsavā dassanā pahātabbā te dassanā pahīnā honti, ye āsavā saṁvarā pahātabbā te saṁvarā pahīnā honti, ye āsavā paṭisevanā pahātabbā te paṭisevanā pahīnā honti, ye āsavā adhivāsanā pahātabbā te adhivāsanā pahīnā honti, ye āsavā parivajjanā pahātabbā te parivajjanā pahīnā honti, ye āsavā vinodanā pahātabbā te vinodanā pahīnā honti, ye āsavā bhāvanā pahātabbā te bhāvanā pahīnā honti; ",
+            "de": "Nehmen wir nun eine Nonne, die die Befleckungen, die durch Sehen aufgegeben werden müssen, durch Sehen aufgegeben hat. Die Befleckungen, die durch Zügelung aufgegeben werden müssen, hat sie durch Zügelung aufgegeben. Die Befleckungen, die durch die Art des Gebrauchs aufgegeben werden müssen, hat sie durch die Art des Gebrauchs aufgegeben. Die Befleckungen, die durch <span class=\"ebt-matched\">Ertragen</span> aufgegeben werden müssen, hat sie durch <span class=\"ebt-matched\">Ertragen</span> aufgegeben. Die Befleckungen, die durch Meiden aufgegeben werden müssen, hat sie durch Meiden aufgegeben. Die Befleckungen, die durch Beseitigen aufgegeben werden müssen, hat sie durch Beseitigen aufgegeben. Die Befleckungen, die durch Entwickeln aufgegeben werden müssen, hat sie durch Entwickeln aufgegeben. ",
+            "en": "Now, take a mendicant who, by seeing, has given up the defilements that should be given up by seeing. By restraint, they’ve given up the defilements that should be given up by restraint. By using, they’ve given up the defilements that should be given up by using. By enduring, they’ve given up the defilements that should be given up by enduring. By avoiding, they’ve given up the defilements that should be given up by avoiding. By dispelling, they’ve given up the defilements that should be given up by dispelling. By developing, they’ve given up the defilements that should be given up by developing. ",
+            "matched": true
+          }
+        },
+        "score": 5.04,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Mittlere Lehrreden 2\nAlle Befleckungen",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 125,
+          "de": 124,
+          "en": 124
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.85_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.85_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.85_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.85",
+        "lang": "de",
+        "segMap": {
+          "an5.85:0.3": {
+            "scid": "an5.85:0.3",
+            "pli": "85. Akkhamasutta ",
+            "de": "85. Kann nicht <span class=\"ebt-matched\">ertragen</span> ",
+            "en": "85. Cannot Endure ",
+            "matched": true
+          },
+          "an5.85:1.3": {
+            "scid": "an5.85:1.3",
+            "pli": "Akkhamo hoti rūpānaṁ, akkhamo saddānaṁ, akkhamo gandhānaṁ, akkhamo rasānaṁ, akkhamo phoṭṭhabbānaṁ—",
+            "de": "Sie kann Bilder, Töne, Düfte, Geschmäcke oder Berührungen nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "They can’t endure sights, sounds, smells, tastes, and touches. ",
+            "matched": true
+          },
+          "an5.85:2.3": {
+            "scid": "an5.85:2.3",
+            "pli": "Khamo hoti rūpānaṁ, khamo saddānaṁ, khamo gandhānaṁ, khamo rasānaṁ, khamo phoṭṭhabbānaṁ—",
+            "de": "Sie kann Bilder, Töne, Düfte, Geschmäcke und Berührungen <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "They can endure sights, sounds, smells, tastes, and touches. ",
+            "matched": true
+          }
+        },
+        "score": 3.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n9. Ordensälteste\n85. Kann nicht ertragen",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.58_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.58",
+        "lang": "de",
+        "segMap": {
+          "an6.58:2.4": {
+            "scid": "an6.58:2.4",
+            "pli": "ye āsavā adhivāsanā pahātabbā te adhivāsanāya pahīnā honti, ",
+            "de": "Die Befleckungen, die durch <span class=\"ebt-matched\">Ertragen</span> aufgegeben werden müssen, hat sie durch <span class=\"ebt-matched\">Ertragen</span> aufgegeben. ",
+            "en": "By enduring, they’ve given up the defilements that should be given up by enduring. ",
+            "matched": true
+          },
+          "an6.58:5.1": {
+            "scid": "an6.58:5.1",
+            "pli": "Katame ca, bhikkhave, āsavā adhivāsanā pahātabbā ye adhivāsanāya pahīnā honti? ",
+            "de": "Und was sind die Befleckungen, die durch <span class=\"ebt-matched\">Ertragen</span> aufgegeben werden müssen? ",
+            "en": "And what are the defilements that should be given up by enduring? ",
+            "matched": true
+          },
+          "an6.58:5.4": {
+            "scid": "an6.58:5.4",
+            "pli": "Ime vuccanti, bhikkhave, āsavā adhivāsanā pahātabbā ye adhivāsanāya pahīnā honti. ",
+            "de": "Das nennt man die Befleckungen, die durch <span class=\"ebt-matched\">Ertragen</span> aufgegeben werden müssen. ",
+            "en": "These are called the defilements that should be given up by enduring. ",
+            "matched": true
+          }
+        },
+        "score": 3.051,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n6. Das große Kapitel\n58. Befleckungen",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 59,
+          "de": 58,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.49_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.49_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.49_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.49",
+        "lang": "de",
+        "segMap": {
+          "an3.49:1.3": {
+            "scid": "an3.49:1.3",
+            "pli": "Anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya ātappaṁ karaṇīyaṁ, anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya ātappaṁ karaṇīyaṁ, uppannānaṁ sārīrikānaṁ vedanānaṁ dukkhānaṁ tibbānaṁ kharānaṁ kaṭukānaṁ asātānaṁ amanāpānaṁ pāṇaharānaṁ adhivāsanāya ātappaṁ karaṇīyaṁ. ",
+            "de": "Ihr sollt eifrig sein, um schlechte, untaugliche Eigenschaften am Entstehen zu hindern. Ihr sollt eifrig sein, um taugliche Eigenschaften entstehen zu lassen. Und ihr sollt eifrig sein, um körperliche Schmerzen zu <span class=\"ebt-matched\">ertragen</span> – scharfe, heftige, brennende, peinliche, unangenehme, lebensbedrohende. ",
+            "en": "You should be keen to prevent bad, unskillful qualities from arising. You should be keen to give rise to skillful qualities. And you should be keen to endure physical pain—sharp, severe, acute, unpleasant, disagreeable, life-threatening. ",
+            "matched": true
+          },
+          "an3.49:2.1": {
+            "scid": "an3.49:2.1",
+            "pli": "Yato kho, bhikkhave, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya ātappaṁ karoti, anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya ātappaṁ karoti, uppannānaṁ sārīrikānaṁ vedanānaṁ dukkhānaṁ tibbānaṁ kharānaṁ kaṭukānaṁ asātānaṁ amanāpānaṁ pāṇaharānaṁ adhivāsanāya ātappaṁ karoti. ",
+            "de": "Das ist ein Mönch oder eine Nonne: eifrig, um schlechte, untaugliche Eigenschaften am Entstehen zu hindern, eifrig, um taugliche Eigenschaften entstehen zu lassen, und eifrig, um körperliche Schmerzen zu <span class=\"ebt-matched\">ertragen</span> – scharfe, heftige, brennende, peinliche, unangenehme, lebensbedrohende. ",
+            "en": "It’s a mendicant who is keen to prevent bad, unskillful qualities from arising. They’re keen to give rise to skillful qualities. And they’re keen to endure physical pain—sharp, severe, acute, unpleasant, disagreeable, life-threatening. ",
+            "matched": true
+          }
+        },
+        "score": 2.2,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n5. Das kleinere Kapitel\n49. Eifrig",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 10,
+          "de": 9,
+          "en": 9
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.113_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.113_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.113_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.113",
+        "lang": "de",
+        "segMap": {
+          "an5.113:1.3": {
+            "scid": "an5.113:1.3",
+            "pli": "Idha, bhikkhave, bhikkhu akkhamo hoti rūpānaṁ, akkhamo saddānaṁ, akkhamo gandhānaṁ, akkhamo rasānaṁ, akkhamo phoṭṭhabbānaṁ. ",
+            "de": "Da kann eine Nonne Bilder, Töne, Düfte, Geschmäcke oder Berührungen nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "It’s when a mendicant can’t endure sights, sounds, smells, tastes, and touches. ",
+            "matched": true
+          },
+          "an5.113:2.3": {
+            "scid": "an5.113:2.3",
+            "pli": "Idha, bhikkhave, bhikkhu khamo hoti rūpānaṁ, khamo saddānaṁ, khamo gandhānaṁ, khamo rasānaṁ, khamo phoṭṭhabbānaṁ. ",
+            "de": "Da kann eine Nonne Bilder, Töne, Düfte, Geschmäcke und Berührungen <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "It’s when a mendicant can endure sights, sounds, smells, tastes, and touches. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n12. In Andhakavinda\n113. Rechte Versenkung",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.123_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.123_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.123_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.123",
+        "lang": "de",
+        "segMap": {
+          "an5.123:1.3": {
+            "scid": "an5.123:1.3",
+            "pli": "Asappāyakārī hoti, sappāye mattaṁ na jānāti, bhesajjaṁ nappaṭisevitā hoti, atthakāmassa gilānupaṭṭhākassa na yathābhūtaṁ ābādhaṁ āvikattā hoti abhikkamantaṁ vā abhikkamatīti paṭikkamantaṁ vā paṭikkamatīti ṭhitaṁ vā ṭhitoti, uppannānaṁ sārīrikānaṁ vedanānaṁ dukkhānaṁ tibbānaṁ kharānaṁ kaṭukānaṁ asātānaṁ amanāpānaṁ pāṇaharānaṁ anadhivāsakajātiko hoti. ",
+            "de": "Sie tut, was unzuträglich ist, und kennt kein Maß bei dem, was zuträglich ist. Sie nimmt ihre Arznei nicht ein. Obwohl ihre Pflegekraft auf ihr Wohl bedacht ist, berichtet sie nicht der Wahrheit gemäß über ihre Krankheit: ob sie schlechter oder besser wird oder gleich bleibt. Und sie kann körperliche Schmerzen nicht <span class=\"ebt-matched\">ertragen</span> – scharfe, heftige, brennende, peinliche, unangenehme, lebensbedrohende. ",
+            "en": "They do what is unsuitable. They don’t know moderation in what is suitable. They don’t take their medicine. Though their carer wants what’s best for them, they don’t accurately report their symptoms by saying when they’re getting worse, getting better, or staying the same. And they cannot endure physical pain—sharp, severe, acute, unpleasant, disagreeable, and life-threatening. ",
+            "matched": true
+          },
+          "an5.123:2.3": {
+            "scid": "an5.123:2.3",
+            "pli": "Sappāyakārī hoti, sappāye mattaṁ jānāti, bhesajjaṁ paṭisevitā hoti, atthakāmassa gilānupaṭṭhākassa yathābhūtaṁ ābādhaṁ āvikattā hoti abhikkamantaṁ vā abhikkamatīti paṭikkamantaṁ vā paṭikkamatīti ṭhitaṁ vā ṭhitoti, uppannānaṁ sārīrikānaṁ vedanānaṁ dukkhānaṁ tibbānaṁ kharānaṁ kaṭukānaṁ asātānaṁ amanāpānaṁ pāṇaharānaṁ adhivāsakajātiko hoti. ",
+            "de": "Sie tut, was zuträglich ist, und kennt dabei das Maß. Sie nimmt ihre Arznei ein. Weil ihre Pflegekraft auf ihr Wohl bedacht ist, berichtet sie der Wahrheit gemäß über ihre Krankheit: ob sie schlechter oder besser wird oder gleich bleibt. Und sie kann körperliche Schmerzen <span class=\"ebt-matched\">ertragen</span> – scharfe, heftige, brennende, peinliche, unangenehme, lebensbedrohende. ",
+            "en": "They do what is suitable. They know moderation in what is suitable. They take their medicine. Because their carer wants what’s best for them, they accurately report their symptoms by saying when they’re getting worse, getting better, or staying the same. And they can endure physical pain—sharp, severe, acute, unpleasant, disagreeable, and life-threatening. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n13. Kranke\n123. Pflegekraft (1)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.138_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.138_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.138_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.138",
+        "lang": "de",
+        "segMap": {
+          "an5.138:1.3": {
+            "scid": "an5.138:1.3",
+            "pli": "Idha, bhikkhave, rañño nāgo akkhamo hoti rūpānaṁ, akkhamo saddānaṁ, akkhamo gandhānaṁ, akkhamo rasānaṁ, akkhamo phoṭṭhabbānaṁ. ",
+            "de": "Da kann ein königlicher Elefantenbulle Bilder, Töne, Düfte, Geschmäcke oder Berührungen nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "It’s when a royal bull elephant can’t endure sights, sounds, smells, tastes, and touches. ",
+            "matched": true
+          },
+          "an5.138:2.3": {
+            "scid": "an5.138:2.3",
+            "pli": "Idha, bhikkhave, bhikkhu akkhamo hoti rūpānaṁ, akkhamo saddānaṁ, akkhamo gandhānaṁ, akkhamo rasānaṁ, akkhamo phoṭṭhabbānaṁ. ",
+            "de": "Da kann eine Nonne Bilder, Töne, Düfte, Geschmäcke oder Berührungen nicht <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "It’s when a mendicant can’t endure sights, sounds, smells, tastes, and touches. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n14. Könige\n138. Das Essen verzehren",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.5_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.5_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.5",
+        "lang": "de",
+        "segMap": {
+          "an6.5:2.2": {
+            "scid": "an6.5:2.2",
+            "pli": "Idha, bhikkhave, rañño bhadro assājānīyo khamo hoti rūpānaṁ, khamo saddānaṁ, khamo gandhānaṁ, khamo rasānaṁ, khamo phoṭṭhabbānaṁ, vaṇṇasampanno ca hoti. ",
+            "de": "Da kann ein erlesener königlicher Vollblüter Bilder, Töne, Düfte, Geschmäcke und Berührungen <span class=\"ebt-matched\">ertragen</span>. Und er ist schön. ",
+            "en": "It’s when a fine royal thoroughbred can endure sights, sounds, smells, tastes, and touches. And it’s beautiful. ",
+            "matched": true
+          },
+          "an6.5:3.3": {
+            "scid": "an6.5:3.3",
+            "pli": "Idha, bhikkhave, bhikkhu khamo hoti rūpānaṁ, khamo saddānaṁ, khamo gandhānaṁ, khamo rasānaṁ, khamo phoṭṭhabbānaṁ, khamo dhammānaṁ. ",
+            "de": "Da kann ein Mönch Bilder, Töne, Düfte, Geschmäcke, Berührungen und Gedanken <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "It’s when a mendicant can endure sights, sounds, smells, tastes, touches, and thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n1. Einer Gabe würdig\n5. Ein Vollblüter (1)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.6_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.6_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.6",
+        "lang": "de",
+        "segMap": {
+          "an6.6:1.3": {
+            "scid": "an6.6:1.3",
+            "pli": "Idha, bhikkhave, rañño bhadro assājānīyo khamo hoti rūpānaṁ, khamo saddānaṁ, khamo gandhānaṁ, khamo rasānaṁ, khamo phoṭṭhabbānaṁ, balasampanno ca hoti. ",
+            "de": "Da kann ein erlesener königlicher Vollblüter Bilder, Töne, Düfte, Geschmäcke und Berührungen <span class=\"ebt-matched\">ertragen</span>. Und er ist stark. ",
+            "en": "It’s when a fine royal thoroughbred can endure sights, sounds, smells, tastes, and touches. And it’s strong. ",
+            "matched": true
+          },
+          "an6.6:2.3": {
+            "scid": "an6.6:2.3",
+            "pli": "Idha, bhikkhave, bhikkhu khamo hoti rūpānaṁ …pe… khamo dhammānaṁ. ",
+            "de": "Da kann eine Nonne Bilder, Töne, Düfte, Geschmäcke, Berührungen und Gedanken <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "It’s when a mendicant can endure sights, sounds, smells, tastes, touches, and thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n1. Einer Gabe würdig\n6. Ein Vollblüter (2)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.7_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.7_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.7",
+        "lang": "de",
+        "segMap": {
+          "an6.7:1.3": {
+            "scid": "an6.7:1.3",
+            "pli": "Idha, bhikkhave, rañño bhadro assājānīyo khamo hoti rūpānaṁ, khamo saddānaṁ, khamo gandhānaṁ, khamo rasānaṁ, khamo phoṭṭhabbānaṁ, javasampanno ca hoti. ",
+            "de": "Da kann ein erlesener königlicher Vollblüter Bilder, Töne, Düfte, Geschmäcke und Berührungen <span class=\"ebt-matched\">ertragen</span>. Und er ist schnell. ",
+            "en": "It’s when a fine royal thoroughbred can endure sights, sounds, smells, tastes, and touches. And it’s fast. ",
+            "matched": true
+          },
+          "an6.7:2.3": {
+            "scid": "an6.7:2.3",
+            "pli": "Idha, bhikkhave, bhikkhu khamo hoti rūpānaṁ …pe… khamo dhammānaṁ. ",
+            "de": "Da kann ein Mönch Bilder, Töne, Düfte, Geschmäcke, Berührungen und Gedanken <span class=\"ebt-matched\">ertragen</span>. ",
+            "en": "It’s when a mendicant can endure sights, sounds, smells, tastes, touches, and thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n1. Einer Gabe würdig\n7. Ein Vollblüter (3)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.36_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an7/an7.36_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an7/an7.36_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.36",
+        "lang": "de",
+        "segMap": {
+          "an7.36:1.3": {
+            "scid": "an7.36:1.3",
+            "pli": "Duddadaṁ dadāti, dukkaraṁ karoti, dukkhamaṁ khamati, guyhamassa āvi karoti, guyhamassa pariguhati, āpadāsu na jahati, khīṇena nātimaññati. ",
+            "de": "Er gibt, was schwer zu geben ist. Er tut, was schwer zu tun ist. Er erträgt, was schwer zu <span class=\"ebt-matched\">ertragen</span> ist. Er vertraut dir seine Geheimnisse an. Er bewahrt deine Geheimnisse. In Zeiten der Not lässt er dich nicht fallen. Bei Verlusten schaut er nicht auf dich herab. ",
+            "en": "They give what is hard to give. They do what is hard to do. They endure what is hard to endure. They reveal their secrets to you. They keep your secrets. They don’t abandon you in times of trouble. They don’t look down on you in times of loss. ",
+            "matched": true
+          },
+          "an7.36:2.4": {
+            "scid": "an7.36:2.4",
+            "pli": "khamati dukkhamāni ca. ",
+            "de": "und Dinge, die schwer zu <span class=\"ebt-matched\">ertragen</span> sind. ",
+            "en": "and with things hard to endure. ",
+            "matched": true
+          }
+        },
+        "score": 2.1,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 7\n4. Gottheiten\n36. Ein Freund (1)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 20,
+          "de": 19,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.135_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.135_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.135_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.135",
+        "lang": "de",
+        "segMap": {
+          "an3.135:1.3": {
+            "scid": "an3.135:1.3",
+            "pli": "Duddadaṁ dadāti, dukkaraṁ karoti, dukkhamaṁ khamati—",
+            "de": "Sie gibt, was schwer zu geben ist. Sie tut, was schwer zu tun ist. Sie erträgt, was schwer zu <span class=\"ebt-matched\">ertragen</span> ist. ",
+            "en": "They give what is hard to give, they do what is hard to do, and they bear what is hard to bear. ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n14. Ein Krieger\n135. Eine Freundin",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.157_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.157_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.157_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.157",
+        "lang": "de",
+        "segMap": {
+          "an4.157:3.2": {
+            "scid": "an4.157:3.2",
+            "pli": "‘na mahicchā bhavissāma vighātavanto asantuṭṭhā itarītaracīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena, na pāpikaṁ icchaṁ paṇidahissāma anavaññappaṭilābhāya lābhasakkārasilokappaṭilābhāya, na uṭṭhahissāma na ghaṭessāma na vāyamissāma anavaññappaṭilābhāya lābhasakkārasilokappaṭilābhāya, khamā bhavissāma sītassa uṇhassa jighacchāya pipāsāya ḍaṁsamakasavātātapasarīsapasamphassānaṁ duruttānaṁ durāgatānaṁ vacanapathānaṁ, uppannānaṁ sārīrikānaṁ vedanānaṁ dukkhānaṁ tibbānaṁ kharānaṁ kaṭukānaṁ asātānaṁ amanāpānaṁ pāṇaharānaṁ adhivāsakajātikā bhavissāmā’ti. ",
+            "de": "‚Wir wollen nicht viele Wünsche haben oder enttäuscht sein. Wir wollen mit jeder Robe, jedem Almosen, jeder Unterkunft und jeder Art von Arznei und Krankenversorgung zufrieden sein. Wir wollen nicht unsere verdorbenen Wünsche darauf richten, bewundert zu werden, nicht auf materiellen Besitz, auf Ehre oder Beliebtheit. Wir wollen uns nicht anstrengen, bemühen und einsetzen, um diese Dinge zu bekommen. Wir wollen Kälte, Hitze, Hunger und Durst <span class=\"ebt-matched\">ertragen</span>. Wir wollen die Berührung von Fliegen, Stechmücken, Wind, Sonne und Kriechtieren <span class=\"ebt-matched\">ertragen</span>. Wir wollen rauen und unlieben Tadel <span class=\"ebt-matched\">ertragen</span>. Wir wollen körperliche Schmerzen <span class=\"ebt-matched\">ertragen</span> – scharfe, heftige, brennende, peinliche, unangenehme, lebensbedrohende.‘ ",
+            "en": "‘We will not have many wishes or be frustrated. We will be content with any kind of robes, alms-food, lodgings, and medicines and supplies for the sick. We won’t focus our corrupt wishes on being looked up to, and on getting material possessions, honor, and popularity. We won’t try hard, strive, and make an effort to get these things. We will endure cold, heat, hunger, and thirst. We will endure the touch of flies, mosquitoes, wind, sun, and reptiles. We will endure rude and unwelcome criticism. We will put up with physical pain—sharp, severe, acute, unpleasant, disagreeable, and life-threatening.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n16. Fähigkeiten\n157. Krankheit",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "de": 18,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.165_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.165_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.165_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.165",
+        "lang": "de",
+        "segMap": {
+          "an4.165:2.2": {
+            "scid": "an4.165:2.2",
+            "pli": "Idha, bhikkhave, ekacco akkhamo hoti sītassa uṇhassa jighacchāya pipāsāya, ḍaṁsamakasavātātapasarīsapasamphassānaṁ duruttānaṁ durāgatānaṁ vacanapathānaṁ uppannānaṁ sārīrikānaṁ vedanānaṁ dukkhānaṁ tibbānaṁ kharānaṁ kaṭukānaṁ asātānaṁ amanāpānaṁ pāṇaharānaṁ anadhivāsakajātiko hoti. ",
+            "de": "Es ist, wenn ein Mönch Kälte, Hitze, Hunger und Durst nicht <span class=\"ebt-matched\">ertragen</span> kann, wenn er die Berührung von Fliegen, Stechmücken, Wind, Sonne und Kriechtieren nicht <span class=\"ebt-matched\">ertragen</span> kann, wenn er rauen und unlieben Tadel nicht <span class=\"ebt-matched\">ertragen</span> kann und wenn er körperliche Schmerzen nicht <span class=\"ebt-matched\">ertragen</span> kann – scharfe, heftige, brennende, peinliche, unangenehme, lebensbedrohende. ",
+            "en": "It’s when a mendicant cannot endure cold, heat, hunger, and thirst. They cannot endure the touch of flies, mosquitoes, wind, sun, and reptiles. They cannot endure rude and unwelcome criticism. And they cannot put up with physical pain—sharp, severe, acute, unpleasant, disagreeable, and life-threatening. ",
+            "matched": true
+          }
+        },
+        "score": 1.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n17. Übung\n165. Geduldig (2)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 26,
+          "de": 25,
+          "en": 25
+        }
+      }
+    ]
+  }
+}

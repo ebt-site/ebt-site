@@ -1,0 +1,684 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "farmer",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "farmer",
+    "method": "phrase",
+    "resultPattern": "\\bfarmer",
+    "segsMatched": 42,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn7/sn7.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn7/sn7.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.92_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.92_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.83_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.83_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn7/sn7.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn7/sn7.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn4/sn4.19_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn4/sn4.19_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn42/sn42.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn42/sn42.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn98_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn98_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn50_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn50_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.93_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.93_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.102_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.102_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn86_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn86_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag10.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag10.1_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn7.11/en/sujato",
+      "an3.92/en/sujato",
+      "dn23/en/sujato",
+      "dn2/en/sujato",
+      "an3.83/en/sujato",
+      "sn7.12/en/sujato",
+      "sn4.19/en/sujato",
+      "sn42.7/en/sujato",
+      "mn98/en/sujato",
+      "mn50/en/sujato",
+      "dn16/en/sujato",
+      "an3.93/en/sujato",
+      "sn22.102/en/sujato",
+      "mn86/en/sujato",
+      "thag10.1/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn7/sn7.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn7/sn7.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn7.11",
+        "lang": "en",
+        "segMap": {
+          "sn7.11:0.3": {
+            "scid": "sn7.11:0.3",
+            "pli": "11. Kasibhāradvājasutta ",
+            "en": "11. With Bhāradvāja the <span class=\"ebt-matched\">Farmer</span> ",
+            "matched": true
+          },
+          "sn7.11:1.3": {
+            "scid": "sn7.11:1.3",
+            "pli": "Tena kho pana samayena kasibhāradvājassa brāhmaṇassa pañcamattāni naṅgalasatāni payuttāni honti vappakāle. ",
+            "en": "Now at that time the brahmin Bhāradvāja the <span class=\"ebt-matched\">Farmer</span> had harnessed around five hundred plows, it being the season for sowing. ",
+            "matched": true
+          },
+          "sn7.11:1.4": {
+            "scid": "sn7.11:1.4",
+            "pli": "Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena kasibhāradvājassa brāhmaṇassa kammanto tenupasaṅkami. ",
+            "en": "Then the Buddha robed up in the morning and, taking his bowl and robe, went to where Bhāradvāja the <span class=\"ebt-matched\">Farmer</span> was working. ",
+            "matched": true
+          },
+          "sn7.11:2.1": {
+            "scid": "sn7.11:2.1",
+            "pli": "Tena kho pana samayena kasibhāradvājassa brāhmaṇassa parivesanā vattati. ",
+            "en": "Now at that time Bhāradvāja the <span class=\"ebt-matched\">Farmer</span> was distributing food. ",
+            "matched": true
+          },
+          "sn7.11:2.3": {
+            "scid": "sn7.11:2.3",
+            "pli": "Addasā kho kasibhāradvājo brāhmaṇo bhagavantaṁ piṇḍāya ṭhitaṁ. ",
+            "en": "Bhāradvāja the <span class=\"ebt-matched\">Farmer</span> saw him standing for alms ",
+            "matched": true
+          },
+          "sn7.11:2.10": {
+            "scid": "sn7.11:2.10",
+            "pli": "Atha kho kasibhāradvājo brāhmaṇo bhagavantaṁ gāthāya ajjhabhāsi: ",
+            "en": "Then Bhāradvāja the <span class=\"ebt-matched\">Farmer</span> addressed the Buddha in verse: ",
+            "matched": true
+          },
+          "sn7.11:3.1": {
+            "scid": "sn7.11:3.1",
+            "pli": "“Kassako paṭijānāsi, ",
+            "en": "“You claim to be a <span class=\"ebt-matched\">farmer</span>, ",
+            "matched": true
+          },
+          "sn7.11:3.3": {
+            "scid": "sn7.11:3.3",
+            "pli": "Kassako pucchito brūhi, ",
+            "en": "If you’re a <span class=\"ebt-matched\">farmer</span>, declare to me: ",
+            "matched": true
+          },
+          "sn7.11:8.2": {
+            "scid": "sn7.11:8.2",
+            "pli": "Kassako bhavaṁ. ",
+            "en": "you are truly a <span class=\"ebt-matched\">farmer</span>. ",
+            "matched": true
+          },
+          "sn7.11:11.1": {
+            "scid": "sn7.11:11.1",
+            "pli": "Evaṁ vutte, kasibhāradvājo brāhmaṇo bhagavantaṁ etadavoca: ",
+            "en": "When he had spoken, the brahmin Bhāradvāja the <span class=\"ebt-matched\">Farmer</span> said to the Buddha, ",
+            "matched": true
+          }
+        },
+        "score": 10.196,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 7\n2. Lay Followers\n11. With Bhāradvāja the Farmer",
+        "segsMatched": 10,
+        "langSegs": {
+          "pli": 51,
+          "en": 51
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.92_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.92_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.92",
+        "lang": "en",
+        "segMap": {
+          "an3.92:1.1": {
+            "scid": "an3.92:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, kassakassa gahapatissa accāyikāni karaṇīyāni. ",
+            "en": "“Mendicants, a <span class=\"ebt-matched\">farmer</span> has three urgent duties. ",
+            "matched": true
+          },
+          "an3.92:1.3": {
+            "scid": "an3.92:1.3",
+            "pli": "Idha, bhikkhave, kassako gahapati sīghaṁ sīghaṁ khettaṁ sukaṭṭhaṁ karoti sumatikataṁ. ",
+            "en": "A <span class=\"ebt-matched\">farmer</span> swiftly makes sure the field is well ploughed and tilled. ",
+            "matched": true
+          },
+          "an3.92:1.6": {
+            "scid": "an3.92:1.6",
+            "pli": "Imāni kho, bhikkhave, tīṇi kassakassa gahapatissa accāyikāni karaṇīyāni. ",
+            "en": "These are the three urgent duties of a <span class=\"ebt-matched\">farmer</span>. ",
+            "matched": true
+          },
+          "an3.92:1.7": {
+            "scid": "an3.92:1.7",
+            "pli": "Tassa kho taṁ, bhikkhave, kassakassa gahapatissa natthi sā iddhi vā ānubhāvo vā: ",
+            "en": "That <span class=\"ebt-matched\">farmer</span> has no special power or ability to say: ",
+            "matched": true
+          },
+          "an3.92:1.9": {
+            "scid": "an3.92:1.9",
+            "pli": "Atha kho, bhikkhave, hoti so samayo yaṁ tassa kassakassa gahapatissa tāni dhaññāni utupariṇāmīni jāyantipi gabbhīnipi honti paccantipi. ",
+            "en": "But there comes a time when that <span class=\"ebt-matched\">farmer</span>’s crops germinate, flower, and ripen as the seasons change. ",
+            "matched": true
+          }
+        },
+        "score": 5.217,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n92. Urgent",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "en",
+        "segMap": {
+          "dn23:31.2": {
+            "scid": "dn23:31.2",
+            "pli": "Seyyathāpi, rājañña, kassako bījanaṅgalaṁ ādāya vanaṁ paviseyya. ",
+            "en": "Suppose a <span class=\"ebt-matched\">farmer</span> was to enter a wood taking seed and plough. ",
+            "matched": true
+          },
+          "dn23:31.5": {
+            "scid": "dn23:31.5",
+            "pli": "Api nu tāni bījāni vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyyuṁ, kassako vā vipulaṁ phalaṁ adhigaccheyyā”ti? ",
+            "en": "Would those seeds grow, increase, and mature, and would the <span class=\"ebt-matched\">farmer</span> get abundant fruit?” ",
+            "matched": true
+          },
+          "dn23:31.9": {
+            "scid": "dn23:31.9",
+            "pli": "Seyyathāpi, rājañña, kassako bījanaṅgalaṁ ādāya vanaṁ paviseyya. ",
+            "en": "Suppose a <span class=\"ebt-matched\">farmer</span> was to enter a wood taking seed and plough. ",
+            "matched": true
+          },
+          "dn23:31.12": {
+            "scid": "dn23:31.12",
+            "pli": "Api nu tāni bījāni vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyyuṁ, kassako vā vipulaṁ phalaṁ adhigaccheyyā”ti? ",
+            "en": "Would those seeds grow, increase, and mature, and would the <span class=\"ebt-matched\">farmer</span> get abundant fruit?” ",
+            "matched": true
+          }
+        },
+        "score": 4.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 23\nWith Pāyāsi",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 715,
+          "en": 713
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.83_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.83_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.83",
+        "lang": "en",
+        "segMap": {
+          "an3.83:1.1": {
+            "scid": "an3.83:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, kassakassa gahapatissa pubbe karaṇīyāni. ",
+            "en": "“Mendicants, a <span class=\"ebt-matched\">farmer</span> has three primary duties. ",
+            "matched": true
+          },
+          "an3.83:1.3": {
+            "scid": "an3.83:1.3",
+            "pli": "Idha, bhikkhave, kassako gahapati paṭikacceva khettaṁ sukaṭṭhaṁ karoti sumatikataṁ. ",
+            "en": "A <span class=\"ebt-matched\">farmer</span> first of all makes sure the field is well ploughed and tilled. ",
+            "matched": true
+          },
+          "an3.83:1.6": {
+            "scid": "an3.83:1.6",
+            "pli": "Imāni kho, bhikkhave, tīṇi kassakassa gahapatissa pubbe karaṇīyāni. ",
+            "en": "These are the three primary duties of a <span class=\"ebt-matched\">farmer</span>. ",
+            "matched": true
+          }
+        },
+        "score": 3.176,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n9. Ascetics\n83. Fields",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn2",
+        "lang": "en",
+        "segMap": {
+          "dn2:37.5": {
+            "scid": "dn2:37.5",
+            "pli": "idha te assa puriso kassako gahapatiko karakārako rāsivaḍḍhako. ",
+            "en": "Suppose you had a person who was a <span class=\"ebt-matched\">farmer</span>, a householder, a hard worker, someone who builds up their capital. ",
+            "matched": true
+          },
+          "dn2:37.10": {
+            "scid": "dn2:37.10",
+            "pli": "Ahaṁ panamhissa kassako gahapatiko karakārako rāsivaḍḍhako. ",
+            "en": "Whereas I’m a <span class=\"ebt-matched\">farmer</span>, a householder, a hard worker, someone who builds up their capital. ",
+            "matched": true
+          },
+          "dn2:37.20": {
+            "scid": "dn2:37.20",
+            "pli": "‘etu me, bho, so puriso, punadeva hotu kassako gahapatiko karakārako rāsivaḍḍhako’”ti? ",
+            "en": "‘Bring that person to me! Let them once more be a <span class=\"ebt-matched\">farmer</span>, a householder, a hard worker, someone who builds up their capital’?” ",
+            "matched": true
+          }
+        },
+        "score": 3.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 2\nThe Fruits of the Ascetic Life\n1. A Discussion With the King’s Ministers",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 649,
+          "en": 632
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn7/sn7.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn7/sn7.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn7.12",
+        "lang": "en",
+        "segMap": {
+          "sn7.12:2.3": {
+            "scid": "sn7.12:2.3",
+            "pli": "Punappunaṁ khettaṁ kasanti kassakā, ",
+            "en": "again and again, <span class=\"ebt-matched\">farmer</span>s plough the field; ",
+            "matched": true
+          },
+          "sn7.12:4.1": {
+            "scid": "sn7.12:4.1",
+            "pli": "Punappunaṁ khīranikā duhanti, ",
+            "en": "Again and again, dairy <span class=\"ebt-matched\">farmer</span>s milk; ",
+            "matched": true
+          }
+        },
+        "score": 2.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 7\n2. Lay Followers\n12. With Udaya",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 28,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn4/sn4.19_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn4/sn4.19_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn4.19",
+        "lang": "en",
+        "segMap": {
+          "sn4.19:0.3": {
+            "scid": "sn4.19:0.3",
+            "pli": "19. Kassakasutta ",
+            "en": "19. A <span class=\"ebt-matched\">Farmer</span> ",
+            "matched": true
+          },
+          "sn4.19:2.4": {
+            "scid": "sn4.19:2.4",
+            "pli": "Atha kho māro pāpimā kassakavaṇṇaṁ abhinimminitvā mahantaṁ naṅgalaṁ khandhe karitvā dīghapācanayaṭṭhiṁ gahetvā haṭahaṭakeso sāṇasāṭinivattho kaddamamakkhitehi pādehi yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ etadavoca: ",
+            "en": "Then Māra the Wicked manifested in the form of a <span class=\"ebt-matched\">farmer</span> carrying a large plough on his shoulder. He held a long goad, his hair was messy, he was clad in sunn hemp, and his feet were muddy. He went up to the Buddha and said to him, ",
+            "matched": true
+          }
+        },
+        "score": 2.051,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 4\n2. Rule\n19. A Farmer",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 39,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.93_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.93_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.93",
+        "lang": "en",
+        "segMap": {
+          "an3.93:6.1": {
+            "scid": "an3.93:6.1",
+            "pli": "Seyyathāpi, bhikkhave, kassakassa gahapatissa sampannaṁ sālikkhettaṁ. ",
+            "en": "When a <span class=\"ebt-matched\">farmer</span>’s rice field is ripe, ",
+            "matched": true
+          },
+          "an3.93:6.13": {
+            "scid": "an3.93:6.13",
+            "pli": "Evamassu tāni, bhikkhave, kassakassa gahapatissa dhaññāni aggappattāni sārappattāni suddhāni sāre patiṭṭhitāni. ",
+            "en": "In this way that <span class=\"ebt-matched\">farmer</span>’s crop would reach the peak and the pith, being pure and consisting only of what is essential. ",
+            "matched": true
+          }
+        },
+        "score": 2.049,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n93. Seclusion",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 41,
+          "en": 40
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn42/sn42.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn42/sn42.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn42.7",
+        "lang": "en",
+        "segMap": {
+          "sn42.7:1.7": {
+            "scid": "sn42.7:1.7",
+            "pli": "Taṁ kiṁ maññasi, gāmaṇi, idhassu kassakassa gahapatino tīṇi khettāni—ekaṁ khettaṁ aggaṁ, ekaṁ khettaṁ majjhimaṁ, ekaṁ khettaṁ hīnaṁ jaṅgalaṁ ūsaraṁ pāpabhūmi. ",
+            "en": "What do you think? Suppose a <span class=\"ebt-matched\">farmer</span> has three fields: one’s good, one’s average, and one’s poor—bad ground of sand and salt. ",
+            "matched": true
+          },
+          "sn42.7:1.8": {
+            "scid": "sn42.7:1.8",
+            "pli": "Taṁ kiṁ maññasi, gāmaṇi, asu kassako gahapati bījāni patiṭṭhāpetukāmo kattha paṭhamaṁ patiṭṭhāpeyya, yaṁ vā aduṁ khettaṁ aggaṁ, yaṁ vā aduṁ khettaṁ majjhimaṁ, yaṁ vā aduṁ khettaṁ hīnaṁ jaṅgalaṁ ūsaraṁ pāpabhūmī”ti? ",
+            "en": "What do you think? When that <span class=\"ebt-matched\">farmer</span> wants to plant seeds, where would he plant them first: the good field, the average one, or the poor one?” ",
+            "matched": true
+          }
+        },
+        "score": 2.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 42\n1. Chiefs\n7. The Simile of the Field",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 47,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn50_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn50_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn50",
+        "lang": "en",
+        "segMap": {
+          "mn50:10.3": {
+            "scid": "mn50:10.3",
+            "pli": "Addasaṁsu kho, pāpima, gopālakā pasupālakā kassakā pathāvino āyasmantaṁ sañjīvaṁ aññatarasmiṁ rukkhamūle saññāvedayitanirodhaṁ samāpannaṁ nisinnaṁ; ",
+            "en": "Some cowherds, shepherds, <span class=\"ebt-matched\">farmer</span>s, and passers-by saw him sitting there ",
+            "matched": true
+          },
+          "mn50:11.2": {
+            "scid": "mn50:11.2",
+            "pli": "Addasaṁsu kho te, pāpima, gopālakā pasupālakā kassakā pathāvino āyasmantaṁ sañjīvaṁ piṇḍāya carantaṁ; ",
+            "en": "Those cowherds, shepherds, <span class=\"ebt-matched\">farmer</span>s, and passers-by saw him wandering for alms ",
+            "matched": true
+          }
+        },
+        "score": 2.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 50\nThe Rebuke of Māra",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 239,
+          "en": 236
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn98_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn98_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn98",
+        "lang": "en",
+        "segMap": {
+          "mn98:10.4": {
+            "scid": "mn98:10.4",
+            "pli": "kassako so na brāhmaṇo. ",
+            "en": "as a <span class=\"ebt-matched\">farmer</span>, not a brahmin. ",
+            "matched": true
+          },
+          "mn98:12.13": {
+            "scid": "mn98:12.13",
+            "pli": "Kassako kammunā hoti, ",
+            "en": "You’re a <span class=\"ebt-matched\">farmer</span> by your deeds, ",
+            "matched": true
+          }
+        },
+        "score": 2.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 98\nWith Vāseṭṭha",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 293,
+          "en": 292
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn16",
+        "lang": "en",
+        "segMap": {
+          "dn16:4.30.2": {
+            "scid": "dn16:4.30.2",
+            "pli": "Tena kho pana samayena deve vassante deve gaḷagaḷāyante vijjullatāsu niccharantīsu asaniyā phalantiyā avidūre bhusāgārassa dve kassakā bhātaro hatā cattāro ca balibaddā. ",
+            "en": "At that time it was raining and pouring, lightning was flashing, and thunder was cracking. And not far from the threshing-hut two <span class=\"ebt-matched\">farmer</span>s who were brothers were killed, as well as four oxen. ",
+            "matched": true
+          },
+          "dn16:4.32.2": {
+            "scid": "dn16:4.32.2",
+            "pli": "‘Idāni, bhante, deve vassante deve gaḷagaḷāyante vijjullatāsu niccharantīsu asaniyā phalantiyā dve kassakā bhātaro hatā cattāro ca balibaddā. ",
+            "en": "‘Just now, sir, it was raining and pouring, lightning was flashing, and thunder was cracking. And two <span class=\"ebt-matched\">farmer</span>s who were brothers were killed, as well as four oxen. ",
+            "matched": true
+          }
+        },
+        "score": 2.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 16\nThe Great Discourse on the Buddha’s Extinguishment",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1665,
+          "en": 1664
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.102_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.102_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.102",
+        "lang": "en",
+        "segMap": {
+          "sn22.102:2.1": {
+            "scid": "sn22.102:2.1",
+            "pli": "Seyyathāpi, bhikkhave, saradasamaye kassako mahānaṅgalena kasanto sabbāni mūlasantānakāni sampadālento kasati; ",
+            "en": "In the autumn, a <span class=\"ebt-matched\">farmer</span> ploughing with a large plough shears through all the root networks. ",
+            "matched": true
+          }
+        },
+        "score": 1.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n10. Flowers\n102. The Perception of Impermanence",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 45,
+          "en": 42
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag10.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag10.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag10.1",
+        "lang": "en",
+        "segMap": {
+          "thag10.1:5.3": {
+            "scid": "thag10.1:5.3",
+            "pli": "Punappunaṁ khettaṁ kasanti kassakā,",
+            "en": "again and again, <span class=\"ebt-matched\">farmer</span>s plow the field;",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Tens\nChapter One\n10.1. Kāḷudāyī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn86_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn86_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn86",
+        "lang": "en",
+        "segMap": {
+          "mn86:3.3": {
+            "scid": "mn86:3.3",
+            "pli": "Addasāsuṁ kho gopālakā pasupālakā kassakā pathāvino bhagavantaṁ yena coro aṅgulimālo tenaddhānamaggapaṭipannaṁ. ",
+            "en": "The cowherds, shepherds, <span class=\"ebt-matched\">farmer</span>s, and travelers saw him on the road, ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 86\nWith Aṅgulimāla",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 208,
+          "en": 207
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "have a lie down",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "have a lie down",
+    "method": "phrase",
+    "resultPattern": "\\bhave a lie down",
+    "segsMatched": 24,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.80_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.80_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/en/sujato",
+      "dn33/en/sujato",
+      "an8.80/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.80_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.80_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.80",
+        "lang": "en",
+        "segMap": {
+          "an8.80:1.5": {
+            "scid": "an8.80:1.5",
+            "pli": "‘kammaṁ kho me kattabbaṁ bhavissati. Kammaṁ kho pana me karontassa kāyo kilamissati. Handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I have some work to do. But while doing it my body will get tired. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "an8.80:2.3": {
+            "scid": "an8.80:2.3",
+            "pli": "‘ahaṁ kho kammaṁ akāsiṁ. Kammaṁ kho pana me karontassa kāyo kilanto. Handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve done some work. But while working my body got tired. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "an8.80:3.3": {
+            "scid": "an8.80:3.3",
+            "pli": "‘maggo me gantabbo bhavissati. Maggaṁ kho pana me gacchantassa kāyo kilamissati. Handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I have to go on a journey. But while walking my body will get tired. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "an8.80:4.3": {
+            "scid": "an8.80:4.3",
+            "pli": "‘ahaṁ kho maggaṁ agamāsiṁ. Maggaṁ kho pana me gacchantassa kāyo kilanto. Handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve gone on a journey. But while walking my body got tired. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "an8.80:5.3": {
+            "scid": "an8.80:5.3",
+            "pli": "‘ahaṁ kho gāmaṁ vā nigamaṁ vā piṇḍāya caranto nālatthaṁ lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ. Tassa me kāyo kilanto akammañño. Handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve wandered for alms, but I didn’t get to fill up on as much food as I like, rough or fine. My body is tired and unfit for work. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "an8.80:6.3": {
+            "scid": "an8.80:6.3",
+            "pli": "‘ahaṁ kho gāmaṁ vā nigamaṁ vā piṇḍāya caranto alatthaṁ lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ. Tassa me kāyo garuko akammañño māsācitaṁ maññe. Handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve wandered for alms, and I got to fill up on as much food as I like, rough or fine. My body is heavy, unfit for work, like I’ve just eaten a load of beans. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "an8.80:7.3": {
+            "scid": "an8.80:7.3",
+            "pli": "‘uppanno kho me ayaṁ appamattako ābādho atthi kappo nipajjituṁ. Handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I feel a little sick. Lying down would be good for me. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "an8.80:8.3": {
+            "scid": "an8.80:8.3",
+            "pli": "‘ahaṁ kho gilānā vuṭṭhito aciravuṭṭhito gelaññā. Tassa me kāyo dubbalo akammañño. Handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve recently recovered from illness. My body is weak and unfit for work. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          }
+        },
+        "score": 8.088,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n8. Pairs\n80. Grounds for Laziness and Arousing Energy",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 91,
+          "en": 89
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:2.1.46": {
+            "scid": "dn34:2.1.46",
+            "pli": "‘kammaṁ kho me kātabbaṁ bhavissati, kammaṁ kho pana me karontassa kāyo kilamissati, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I have some work to do. But while doing it my body will get tired. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "dn34:2.1.51": {
+            "scid": "dn34:2.1.51",
+            "pli": "‘ahaṁ kho kammaṁ akāsiṁ, kammaṁ kho pana me karontassa kāyo kilanto, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve done some work. But while working my body got tired. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "dn34:2.1.56": {
+            "scid": "dn34:2.1.56",
+            "pli": "‘maggo kho me gantabbo bhavissati, maggaṁ kho pana me gacchantassa kāyo kilamissati, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I have to go on a journey. But while walking my body will get tired. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "dn34:2.1.61": {
+            "scid": "dn34:2.1.61",
+            "pli": "‘ahaṁ kho maggaṁ agamāsiṁ, maggaṁ kho pana me gacchantassa kāyo kilanto, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve gone on a journey. But while walking my body got tired. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "dn34:2.1.66": {
+            "scid": "dn34:2.1.66",
+            "pli": "‘ahaṁ kho gāmaṁ vā nigamaṁ vā piṇḍāya caranto nālatthaṁ lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ, tassa me kāyo kilanto akammañño, handāhaṁ nipajjāmī’ti …pe… ",
+            "en": "‘I’ve wandered for alms, but I didn’t get to fill up on as much food as I like, rough or fine. My body is tired and unfit for work. I’d better <span class=\"ebt-matched\">have a lie down</span>.’… ",
+            "matched": true
+          },
+          "dn34:2.1.70": {
+            "scid": "dn34:2.1.70",
+            "pli": "‘ahaṁ kho gāmaṁ vā nigamaṁ vā piṇḍāya caranto alatthaṁ lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ, tassa me kāyo garuko akammañño, māsācitaṁ maññe, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve wandered for alms, and I got to fill up on as much food as I like, rough or fine. My body is heavy, unfit for work, like I’ve just eaten a load of beans. I’d better <span class=\"ebt-matched\">have a lie down</span>.’… ",
+            "matched": true
+          },
+          "dn34:2.1.74": {
+            "scid": "dn34:2.1.74",
+            "pli": "‘uppanno kho me ayaṁ appamattako ābādho atthi kappo nipajjituṁ, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I feel a little sick. Lying down would be good for me. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "dn34:2.1.79": {
+            "scid": "dn34:2.1.79",
+            "pli": "‘ahaṁ kho gilānāvuṭṭhito aciravuṭṭhito gelaññā. ",
+            "en": "‘I’ve recently recovered from illness. My body is weak and unfit for work. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          }
+        },
+        "score": 8.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:3.1.13": {
+            "scid": "dn33:3.1.13",
+            "pli": "‘kammaṁ kho me kātabbaṁ bhavissati, kammaṁ kho pana me karontassa kāyo kilamissati, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I have some work to do. But while doing it my body will get tired. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "dn33:3.1.18": {
+            "scid": "dn33:3.1.18",
+            "pli": "‘ahaṁ kho kammaṁ akāsiṁ, kammaṁ kho pana me karontassa kāyo kilanto, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve done some work. But while working my body got tired. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "dn33:3.1.23": {
+            "scid": "dn33:3.1.23",
+            "pli": "‘maggo kho me gantabbo bhavissati, maggaṁ kho pana me gacchantassa kāyo kilamissati, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I have to go on a journey. But while walking my body will get tired. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "dn33:3.1.28": {
+            "scid": "dn33:3.1.28",
+            "pli": "‘ahaṁ kho maggaṁ agamāsiṁ, maggaṁ kho pana me gacchantassa kāyo kilanto, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve gone on a journey. But while walking my body got tired. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "dn33:3.1.33": {
+            "scid": "dn33:3.1.33",
+            "pli": "‘ahaṁ kho gāmaṁ vā nigamaṁ vā piṇḍāya caranto nālatthaṁ lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ, tassa me kāyo kilanto akammañño, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve wandered for alms, but I didn’t get to fill up on as much food as I like, rough or fine. My body is tired and unfit for work. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "dn33:3.1.38": {
+            "scid": "dn33:3.1.38",
+            "pli": "‘ahaṁ kho gāmaṁ vā nigamaṁ vā piṇḍāya caranto alatthaṁ lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ, tassa me kāyo garuko akammañño, māsācitaṁ maññe, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve wandered for alms, and I got to fill up on as much food as I like, rough or fine. My body is heavy and unfit for work, like I’ve just eaten a load of beans. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "dn33:3.1.43": {
+            "scid": "dn33:3.1.43",
+            "pli": "‘uppanno kho me ayaṁ appamattako ābādho; ",
+            "en": "‘I feel a little sick. Lying down would be good for me. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          },
+          "dn33:3.1.49": {
+            "scid": "dn33:3.1.49",
+            "pli": "‘ahaṁ kho gilānā vuṭṭhito aciravuṭṭhito gelaññā, tassa me kāyo dubbalo akammañño, handāhaṁ nipajjāmī’ti. ",
+            "en": "‘I’ve recently recovered from illness. My body is weak and unfit for work. I’d better <span class=\"ebt-matched\">have a lie down</span>.’ ",
+            "matched": true
+          }
+        },
+        "score": 8.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

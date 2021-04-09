@@ -1,0 +1,508 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "rafter",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "rafter",
+    "method": "phrase",
+    "resultPattern": "\\brafter",
+    "segsMatched": 17,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn48/sn48.52_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn48/sn48.52_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.110_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.110_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.109_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.109_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn46/sn46.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn45/sn45.141-145_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn45/sn45.141-145_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.102_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.102_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn20/sn20.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn20/sn20.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn36_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn36_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn12_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn12_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn100_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn100_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag2.32_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag2.32_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.53_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.53_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.15_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.15_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn48.52/en/sujato",
+      "an3.110/en/sujato",
+      "an3.109/en/sujato",
+      "sn46.7/en/sujato",
+      "sn45.141-145/en/sujato",
+      "sn22.102/en/sujato",
+      "sn20.1/en/sujato",
+      "mn85/en/sujato",
+      "mn36/en/sujato",
+      "mn12/en/sujato",
+      "mn100/en/sujato",
+      "thag2.32/en/sujato",
+      "an6.53/en/sujato",
+      "an10.15/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.110_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.110_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.110",
+        "lang": "en",
+        "segMap": {
+          "an3.110:1.4": {
+            "scid": "an3.110:1.4",
+            "pli": "Seyyathāpi, gahapati, kūṭāgāre ducchanne kūṭampi byāpannaṁ hoti, gopānasiyopi byāpannā honti, bhittipi byāpannā hoti; ",
+            "en": "It’s like a bungalow with a bad roof. The roof peak, <span class=\"ebt-matched\">rafter</span>s, and walls fall in. ",
+            "matched": true
+          },
+          "an3.110:2.3": {
+            "scid": "an3.110:2.3",
+            "pli": "Seyyathāpi, gahapati, kūṭāgāre succhanne kūṭampi abyāpannaṁ hoti, gopānasiyopi abyāpannā honti, bhittipi abyāpannā hoti; ",
+            "en": "It’s like a bungalow with a good roof. The roof peak, <span class=\"ebt-matched\">rafter</span>s, and walls are not fallen in. ",
+            "matched": true
+          }
+        },
+        "score": 2.133,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n11. Awakening\n110. Fallen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn48/sn48.52_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn48/sn48.52_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn48.52",
+        "lang": "en",
+        "segMap": {
+          "sn48.52:2.1": {
+            "scid": "sn48.52:2.1",
+            "pli": "Seyyathāpi, bhikkhave, yāvakīvañca kūṭāgārassa kūṭaṁ na ussitaṁ hoti, neva tāva gopānasīnaṁ saṇṭhiti hoti, neva tāva gopānasīnaṁ avaṭṭhiti hoti. ",
+            "en": "It’s just like in a bungalow. As long as the roof peak is not lifted into place, the <span class=\"ebt-matched\">rafter</span>s are not stable or fixed. ",
+            "matched": true
+          },
+          "sn48.52:2.2": {
+            "scid": "sn48.52:2.2",
+            "pli": "Yato ca kho, bhikkhave, kūṭāgārassa kūṭaṁ ussitaṁ hoti, atha gopānasīnaṁ saṇṭhiti hoti, atha gopānasīnaṁ avaṭṭhiti hoti. ",
+            "en": "But when the roof peak is lifted into place, the <span class=\"ebt-matched\">rafter</span>s become stable and fixed. ",
+            "matched": true
+          }
+        },
+        "score": 2.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 48\n6. The Boar’s Cave\n52. In the Land of the Mallas",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.109_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.109_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.109",
+        "lang": "en",
+        "segMap": {
+          "an3.109:2.1": {
+            "scid": "an3.109:2.1",
+            "pli": "Seyyathāpi, gahapati, kūṭāgāre ducchanne kūṭampi arakkhitaṁ hoti, gopānasiyopi arakkhitā honti, bhittipi arakkhitā hoti; ",
+            "en": "It’s like a bungalow with a bad roof. The roof peak, <span class=\"ebt-matched\">rafter</span>s, and walls are unprotected. ",
+            "matched": true
+          },
+          "an3.109:5.1": {
+            "scid": "an3.109:5.1",
+            "pli": "Seyyathāpi, gahapati, kūṭāgāre succhanne kūṭampi rakkhitaṁ hoti, gopānasiyopi rakkhitā honti, bhittipi rakkhitā hoti; ",
+            "en": "It’s like a bungalow with a good roof. The roof peak, <span class=\"ebt-matched\">rafter</span>s, and walls are protected. ",
+            "matched": true
+          }
+        },
+        "score": 2.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n11. Awakening\n109. Unprotected",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.7",
+        "lang": "en",
+        "segMap": {
+          "sn46.7:1.1": {
+            "scid": "sn46.7:1.1",
+            "pli": "“Seyyathāpi, bhikkhave, kūṭāgārassa yā kāci gopānasiyo, sabbā tā kūṭaninnā kūṭapoṇā kūṭapabbhārā; ",
+            "en": "“Mendicants, the <span class=\"ebt-matched\">rafter</span>s of a bungalow all slant, slope, and incline to the peak. ",
+            "matched": true
+          }
+        },
+        "score": 1.1,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 46\n1. Mountains\n7. A Bungalow",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 10,
+          "en": 9
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn20/sn20.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn20/sn20.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn20.1",
+        "lang": "en",
+        "segMap": {
+          "sn20.1:1.4": {
+            "scid": "sn20.1:1.4",
+            "pli": "“seyyathāpi, bhikkhave, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭasamosaraṇā kūṭasamugghātā sabbā tā samugghātaṁ gacchanti; ",
+            "en": "“Mendicants, the <span class=\"ebt-matched\">rafter</span>s of a bungalow all lean to the peak and meet at the peak, and when the peak is demolished they’re all demolished too. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 20\n1. Similes\n1. A Roof Peak",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag2.32_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag2.32_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag2.32",
+        "lang": "en",
+        "segMap": {
+          "thag2.32:2.3": {
+            "scid": "thag2.32:2.3",
+            "pli": "Sabbā te phāsukā bhaggā,",
+            "en": "Your <span class=\"ebt-matched\">rafter</span>s are all broken,",
+            "matched": true
+          }
+        },
+        "score": 1.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Twos\nChapter Four\n2.32. Sivaka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn45/sn45.141-145_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn45/sn45.141-145_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn45.141-145",
+        "lang": "en",
+        "segMap": {
+          "sn45.141-145:1.1": {
+            "scid": "sn45.141-145:1.1",
+            "pli": "“Seyyathāpi, bhikkhave, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭaninnā kūṭasamosaraṇā; kūṭaṁ tāsaṁ aggamakkhāyati; ",
+            "en": "“Mendicants, the <span class=\"ebt-matched\">rafter</span>s of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 45\n11. Abbreviated Texts on Diligence\n141–145. A Roof Peak",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.15_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.15_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.15",
+        "lang": "en",
+        "segMap": {
+          "an10.15:3.1": {
+            "scid": "an10.15:3.1",
+            "pli": "Seyyathāpi, bhikkhave, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭaninnā kūṭasamosaraṇā, kūṭo tāsaṁ aggamakkhāyati; ",
+            "en": "The <span class=\"ebt-matched\">rafter</span>s of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n2. A Protector\n15. Diligence",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.53_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.53_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.53",
+        "lang": "en",
+        "segMap": {
+          "an6.53:5.1": {
+            "scid": "an6.53:5.1",
+            "pli": "Seyyathāpi, brāhmaṇa, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭaninnā kūṭasamosaraṇā, kūṭaṁ tāsaṁ aggamakkhāyati; ",
+            "en": "The <span class=\"ebt-matched\">rafter</span>s of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
+            "matched": true
+          }
+        },
+        "score": 1.04,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n5. About Dhammika\n53. Diligence",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 25,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.102_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.102_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.102",
+        "lang": "en",
+        "segMap": {
+          "sn22.102:5.1": {
+            "scid": "sn22.102:5.1",
+            "pli": "Seyyathāpi, bhikkhave, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭaninnā kūṭasamosaraṇā, kūṭaṁ tāsaṁ aggamakkhāyati; ",
+            "en": "The <span class=\"ebt-matched\">rafter</span>s of a bungalow all lean to the peak, slope to the peak, and meet at the peak, so the peak is said to be the topmost of them all. ",
+            "matched": true
+          }
+        },
+        "score": 1.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n10. Flowers\n102. The Perception of Impermanence",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 45,
+          "en": 42
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn12_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn12",
+        "lang": "en",
+        "segMap": {
+          "mn12:52.16": {
+            "scid": "mn12:52.16",
+            "pli": "Seyyathāpi nāma jarasālāya gopānasiyo oluggaviluggā bhavanti; evamevassu me phāsuḷiyo oluggaviluggā bhavanti tāyevappāhāratāya. ",
+            "en": "and my ribs were as gaunt as the broken-down <span class=\"ebt-matched\">rafter</span>s on an old barn. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 12\nThe Longer Discourse on the Lion’s Roar",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 372,
+          "en": 371
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn36_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn36_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn36",
+        "lang": "en",
+        "segMap": {
+          "mn36:28.8": {
+            "scid": "mn36:28.8",
+            "pli": "Seyyathāpi nāma jarasālāya gopānasiyo oluggaviluggā bhavanti; evamevassu me phāsuḷiyo oluggaviluggā bhavanti tāyevappāhāratāya. ",
+            "en": "and my ribs were as gaunt as the broken-down <span class=\"ebt-matched\">rafter</span>s on an old barn. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 36\nThe Longer Discourse With Saccaka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 360,
+          "en": 359
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn100_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn100_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn100",
+        "lang": "en",
+        "segMap": {
+          "mn100:25.8": {
+            "scid": "mn100:25.8",
+            "pli": "Seyyathāpi nāma jarasālāya gopānasiyo oluggaviluggā bhavanti; evamevassu me phāsuḷiyo oluggaviluggā bhavanti tāyevappāhāratāya. ",
+            "en": "and my ribs were as gaunt as the broken-down <span class=\"ebt-matched\">rafter</span>s on an old barn. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 100\nWith Saṅgārava",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 306,
+          "en": 303
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn85",
+        "lang": "en",
+        "segMap": {
+          "mn85:28.8": {
+            "scid": "mn85:28.8",
+            "pli": "Seyyathāpi nāma jarasālāya gopānasiyo oluggaviluggā bhavanti; evamevassu me phāsuḷiyo oluggaviluggā bhavanti tāyevappāhāratāya. ",
+            "en": "and my ribs were as gaunt as the broken-down <span class=\"ebt-matched\">rafter</span>s on an old barn. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 85\nWith Prince Bodhi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 553,
+          "en": 552
+        }
+      }
+    ]
+  }
+}

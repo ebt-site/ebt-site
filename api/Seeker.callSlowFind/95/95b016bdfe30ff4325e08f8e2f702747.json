@@ -1,0 +1,227 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "in die pflicht",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "in die pflicht",
+    "method": "phrase",
+    "resultPattern": "\\bin die pflicht",
+    "segsMatched": 18,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.40_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.40_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.40_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.40/de/sabbamitta",
+      "dn33/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.40_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.40_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.40_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.40",
+        "lang": "de",
+        "segMap": {
+          "an3.40:0.3": {
+            "scid": "an3.40:0.3",
+            "pli": "40. Ādhipateyyasutta ",
+            "de": "40. Sich <span class=\"ebt-matched\">in die Pflicht</span> nehmen ",
+            "en": "40. In Charge ",
+            "matched": true
+          },
+          "an3.40:1.1": {
+            "scid": "an3.40:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, ādhipateyyāni. ",
+            "de": "„Es gibt, Mönche und Nonnen, diese drei Dinge, denen gegenüber man sich <span class=\"ebt-matched\">in die Pflicht</span> nehmen soll. ",
+            "en": "“There are, mendicants, these three things to put in charge. ",
+            "matched": true
+          },
+          "an3.40:1.3": {
+            "scid": "an3.40:1.3",
+            "pli": "Attādhipateyyaṁ, lokādhipateyyaṁ, dhammādhipateyyaṁ. ",
+            "de": "Sich selbst, der Welt oder der Lehre gegenüber nimmt man sich <span class=\"ebt-matched\">in die Pflicht</span>. ",
+            "en": "Putting oneself, the world, or the teaching in charge. ",
+            "matched": true
+          },
+          "an3.40:1.4": {
+            "scid": "an3.40:1.4",
+            "pli": "Katamañca, bhikkhave, attādhipateyyaṁ? ",
+            "de": "Und was, Mönche und Nonnen, heißt es, sich sich selbst gegenüber <span class=\"ebt-matched\">in die Pflicht</span> zu nehmen? ",
+            "en": "And what, mendicants, is putting oneself in charge? ",
+            "matched": true
+          },
+          "an3.40:1.13": {
+            "scid": "an3.40:1.13",
+            "pli": "So attānaṁyeva adhipatiṁ karitvā akusalaṁ pajahati, kusalaṁ bhāveti, sāvajjaṁ pajahati, anavajjaṁ bhāveti, suddhaṁ attānaṁ pariharati. ",
+            "de": "Indem sie sich sich selbst gegenüber <span class=\"ebt-matched\">in die Pflicht</span> nimmt, legt sie das Untaugliche ab und entwickelt das Taugliche, legt das Tadelnswerte ab und entwickelt das, was ohne Tadel ist, und ist innerlich rein. ",
+            "en": "Putting themselves in charge, they give up the unskillful and develop the skillful, they give up the blameworthy and develop the blameless, and they keep themselves pure. ",
+            "matched": true
+          },
+          "an3.40:1.14": {
+            "scid": "an3.40:1.14",
+            "pli": "Idaṁ vuccati, bhikkhave, attādhipateyyaṁ. ",
+            "de": "Das nennt man sich sich selbst gegenüber <span class=\"ebt-matched\">in die Pflicht</span> nehmen. ",
+            "en": "This is called putting oneself in charge. ",
+            "matched": true
+          },
+          "an3.40:2.1": {
+            "scid": "an3.40:2.1",
+            "pli": "Katamañca, bhikkhave, lokādhipateyyaṁ? ",
+            "de": "Und was, Mönche und Nonnen, heißt es, sich der Welt gegenüber <span class=\"ebt-matched\">in die Pflicht</span> zu nehmen? ",
+            "en": "And what, mendicants, is putting the world in charge? ",
+            "matched": true
+          },
+          "an3.40:2.18": {
+            "scid": "an3.40:2.18",
+            "pli": "So lokaṁyeva adhipatiṁ karitvā akusalaṁ pajahati, kusalaṁ bhāveti, sāvajjaṁ pajahati, anavajjaṁ bhāveti, suddhaṁ attānaṁ pariharati. ",
+            "de": "Indem sie sich der Welt gegenüber <span class=\"ebt-matched\">in die Pflicht</span> nimmt, legt sie das Untaugliche ab und entwickelt das Taugliche, legt das Tadelnswerte ab und entwickelt das, was ohne Tadel ist, und ist innerlich rein. ",
+            "en": "Putting the world in charge, they give up the unskillful and develop the skillful, they give up the blameworthy and develop the blameless, and they keep themselves pure. ",
+            "matched": true
+          },
+          "an3.40:2.19": {
+            "scid": "an3.40:2.19",
+            "pli": "Idaṁ vuccati, bhikkhave, lokādhipateyyaṁ. ",
+            "de": "Das nennt man sich der Welt gegenüber <span class=\"ebt-matched\">in die Pflicht</span> nehmen. ",
+            "en": "This is called putting the world in charge. ",
+            "matched": true
+          },
+          "an3.40:3.1": {
+            "scid": "an3.40:3.1",
+            "pli": "Katamañca, bhikkhave, dhammādhipateyyaṁ? ",
+            "de": "Und was, Mönche und Nonnen, heißt es, sich der Lehre gegenüber <span class=\"ebt-matched\">in die Pflicht</span> zu nehmen? ",
+            "en": "And what, mendicants, is putting the teaching in charge? ",
+            "matched": true
+          },
+          "an3.40:3.12": {
+            "scid": "an3.40:3.12",
+            "pli": "So dhammaṁyeva adhipatiṁ karitvā akusalaṁ pajahati, kusalaṁ bhāveti, sāvajjaṁ pajahati, anavajjaṁ bhāveti, suddhaṁ attānaṁ pariharati. ",
+            "de": "Indem sie sich der Lehre gegenüber <span class=\"ebt-matched\">in die Pflicht</span> nimmt, legt sie das Untaugliche ab und entwickelt das Taugliche, legt das Tadelnswerte ab und entwickelt das, was ohne Tadel ist, und ist innerlich rein. ",
+            "en": "Putting the teaching in charge, they give up the unskillful and develop the skillful, they give up the blameworthy and develop the blameless, and they keep themselves pure. ",
+            "matched": true
+          },
+          "an3.40:3.13": {
+            "scid": "an3.40:3.13",
+            "pli": "Idaṁ vuccati, bhikkhave, dhammādhipateyyaṁ. ",
+            "de": "Das nennt man sich der Lehre gegenüber <span class=\"ebt-matched\">in die Pflicht</span> nehmen. ",
+            "en": "This is called putting the teaching in charge. ",
+            "matched": true
+          },
+          "an3.40:3.14": {
+            "scid": "an3.40:3.14",
+            "pli": "Imāni kho, bhikkhave, tīṇi ādhipateyyānīti. ",
+            "de": "Das sind die drei Dinge, denen gegenüber man sich <span class=\"ebt-matched\">in die Pflicht</span> nehmen soll. ",
+            "en": "These are the three things to put in charge. ",
+            "matched": true
+          },
+          "an3.40:6.3": {
+            "scid": "an3.40:6.3",
+            "pli": "Tasmā hi attādhipateyyako ca, ",
+            "de": "Daher nimm dich dir selbst gegenüber <span class=\"ebt-matched\">in die Pflicht</span>: Lebe achtsam; ",
+            "en": "So with yourself in charge, live mindfully; ",
+            "matched": true
+          },
+          "an3.40:6.4": {
+            "scid": "an3.40:6.4",
+            "pli": "Lokādhipo ca nipako ca jhāyī; ",
+            "de": "nimm dich der Welt gegenüber <span class=\"ebt-matched\">in die Pflicht</span>: Sei wach und übe Vertiefung; ",
+            "en": "with the world in charge, be alert and practice absorption; ",
+            "matched": true
+          },
+          "an3.40:6.5": {
+            "scid": "an3.40:6.5",
+            "pli": "Dhammādhipo ca anudhammacārī, ",
+            "de": "nimm dich der Lehre gegenüber <span class=\"ebt-matched\">in die Pflicht</span>: Lebe im Einklang mit dieser Lehre! ",
+            "en": "with the teaching in charge, live in line with that teaching: ",
+            "matched": true
+          }
+        },
+        "score": 16.213,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n4. Götterboten\n40. Sich in die Pflicht nehmen",
+        "segsMatched": 16,
+        "langSegs": {
+          "pli": 75,
+          "de": 73,
+          "en": 73
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.10.132": {
+            "scid": "dn33:1.10.132",
+            "pli": "Tīṇi ādhipateyyāni—",
+            "de": "Drei Dinge, denen gegenüber man sich <span class=\"ebt-matched\">in die Pflicht</span> nehmen soll: ",
+            "en": "Three ways of putting something in charge: ",
+            "matched": true
+          },
+          "dn33:1.10.133": {
+            "scid": "dn33:1.10.133",
+            "pli": "attādhipateyyaṁ, lokādhipateyyaṁ, dhammādhipateyyaṁ. ",
+            "de": "Sich selbst, der Welt oder der Lehre gegenüber nimmt man sich <span class=\"ebt-matched\">in die Pflicht</span>. ",
+            "en": "putting oneself, the world, or the teaching in charge. ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

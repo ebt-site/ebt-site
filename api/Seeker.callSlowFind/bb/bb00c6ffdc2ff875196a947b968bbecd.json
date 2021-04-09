@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "basis of immersion",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "basis of immersion",
+    "method": "phrase",
+    "resultPattern": "\\bbasis of immersion",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn122_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn122_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn122/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn122_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn122_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn122",
+        "lang": "en",
+        "segMap": {
+          "mn122:10.1": {
+            "scid": "mn122:10.1",
+            "pli": "Tenānanda, bhikkhunā tasmiṁyeva purimasmiṁ samādhinimitte ajjhattameva cittaṁ saṇṭhapetabbaṁ sannisādetabbaṁ ekodi kātabbaṁ samādahātabbaṁ. ",
+            "en": "Then that mendicant should still, settle, unify, and immerse their mind in samādhi internally using the same meditation subject as a <span class=\"ebt-matched\">basis of immersion</span> that they used before. ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 122\nThe Longer Discourse on Emptiness",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 172,
+          "en": 171
+        }
+      }
+    ]
+  }
+}

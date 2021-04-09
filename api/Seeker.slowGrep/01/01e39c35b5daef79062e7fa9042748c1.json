@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bcreating harmony",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/kn/iti/vagga2/iti19_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.40_translation-en-sujato.json:1"
+  ]
+}

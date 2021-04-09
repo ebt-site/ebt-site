@@ -1,0 +1,92 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "householders of the city",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "householders of the city",
+    "method": "phrase",
+    "resultPattern": "\\bhouseholders of the city",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn122_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn122_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn122/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn122_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn122_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn122",
+        "lang": "en",
+        "segMap": {
+          "mn122:22.3": {
+            "scid": "mn122:22.3",
+            "pli": "Tassa tathāvūpakaṭṭhassa viharato anvāvattanti brāhmaṇagahapatikā negamā ceva jānapadā ca. ",
+            "en": "While meditating withdrawn, they’re visited by a stream of brahmins and <span class=\"ebt-matched\">householders of the city</span> and country. ",
+            "matched": true
+          },
+          "mn122:23.4": {
+            "scid": "mn122:23.4",
+            "pli": "Tassa tathāvūpakaṭṭhassa viharato anvāvattanti brāhmaṇagahapatikā negamā ceva jānapadā ca. ",
+            "en": "While meditating withdrawn, they’re visited by a stream of brahmins and <span class=\"ebt-matched\">householders of the city</span> and country. ",
+            "matched": true
+          },
+          "mn122:24.4": {
+            "scid": "mn122:24.4",
+            "pli": "Tassa tathāvūpakaṭṭhassa viharato anvāvattanti brāhmaṇagahapatikā negamā ceva jānapadā ca. ",
+            "en": "While meditating withdrawn, he’s visited by a stream of brahmins and <span class=\"ebt-matched\">householders of the city</span> and country. ",
+            "matched": true
+          },
+          "mn122:24.8": {
+            "scid": "mn122:24.8",
+            "pli": "Tassa tathāvūpakaṭṭhassa viharato anvāvattanti brāhmaṇagahapatikā negamā ceva jānapadā ca. ",
+            "en": "While meditating withdrawn, they’re visited by a stream of brahmins and <span class=\"ebt-matched\">householders of the city</span> and country. ",
+            "matched": true
+          }
+        },
+        "score": 4.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 122\nThe Longer Discourse on Emptiness",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 172,
+          "en": 171
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wisdom on their lap",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wisdom on their lap",
+    "method": "phrase",
+    "resultPattern": "\\bwisdom on their lap",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.30_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.30/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.30",
+        "lang": "en",
+        "segMap": {
+          "an3.30:1.3": {
+            "scid": "an3.30:1.3",
+            "pli": "Avakujjapañño puggalo, ucchaṅgapañño puggalo, puthupañño puggalo. ",
+            "en": "One with upside-down wisdom, one with <span class=\"ebt-matched\">wisdom on their lap</span>, and one with wide wisdom. ",
+            "matched": true
+          },
+          "an3.30:2.1": {
+            "scid": "an3.30:2.1",
+            "pli": "Katamo ca, bhikkhave, ucchaṅgapañño puggalo? ",
+            "en": "And who is the person with <span class=\"ebt-matched\">wisdom on their lap</span>? ",
+            "matched": true
+          },
+          "an3.30:2.13": {
+            "scid": "an3.30:2.13",
+            "pli": "Ayaṁ vuccati, bhikkhave, ucchaṅgapañño puggalo. ",
+            "en": "This is called a person with <span class=\"ebt-matched\">wisdom on their lap</span>. ",
+            "matched": true
+          },
+          "an3.30:6.1": {
+            "scid": "an3.30:6.1",
+            "pli": "Ucchaṅgapañño puriso, ",
+            "en": "The person with <span class=\"ebt-matched\">wisdom on their lap</span> ",
+            "matched": true
+          }
+        },
+        "score": 4.051,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n3. Persons\n30. Upside-down",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 79,
+          "en": 77
+        }
+      }
+    ]
+  }
+}

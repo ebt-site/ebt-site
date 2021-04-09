@@ -1,0 +1,165 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "bösartige unholde",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "bösartige unholde",
+    "method": "phrase",
+    "resultPattern": "\\bbösartige unholde",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.249_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.249_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.249_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.77_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.77_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.77_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.56_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.56_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.56_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.249/de/sabbamitta",
+      "an5.77/de/sabbamitta",
+      "an3.56/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.249_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.249_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.249_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.249",
+        "lang": "de",
+        "segMap": {
+          "an5.249:1.3": {
+            "scid": "an5.249:1.3",
+            "pli": "Asuci, duggandhā, sappaṭibhayā, vāḷānaṁ amanussānaṁ āvāso, bahuno janassa ārodanā—",
+            "de": "Es ist schmutzig, stinkend, furchteinflößend, ein Versammlungsort für <span class=\"ebt-matched\">bösartige Unholde</span> und ein Ort, an dem viele Menschen weinen. ",
+            "en": "It’s filthy, stinking, frightening, a gathering place for savage monsters, and a weeping place for many people. ",
+            "matched": true
+          },
+          "an5.249:5.2": {
+            "scid": "an5.249:5.2",
+            "pli": "Idamassa vāḷāvāsasmiṁ vadāmi. ",
+            "de": "Auf diese Art trifft sie sich mit bösartigen Unholden, sage ich. ",
+            "en": "This is how they gather with savage monsters, I say. ",
+            "matched": true
+          },
+          "an5.249:5.3": {
+            "scid": "an5.249:5.3",
+            "pli": "Seyyathāpi sā, bhikkhave, sivathikā vāḷānaṁ amanussānaṁ āvāso; ",
+            "de": "Diese Person ist geradeso ein Versammlungsort für <span class=\"ebt-matched\">bösartige Unholde</span> wie ein Leichenfeld. ",
+            "en": "That person is just as much a gathering place of savage monsters as a charnel ground. ",
+            "matched": true
+          }
+        },
+        "score": 3.088,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n25. Schlechtes Verhalten\n249. Ein Leichenfeld",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 34,
+          "de": 26,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.56_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.56_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.56_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.56",
+        "lang": "de",
+        "segMap": {
+          "an3.56:4.2": {
+            "scid": "an3.56:4.2",
+            "pli": "Tesaṁ adhammarāgarattānaṁ visamalobhābhibhūtānaṁ micchādhammaparetānaṁ yakkhā vāḷe amanusse ossajjanti, tena bahū manussā kālaṁ karonti. ",
+            "de": "lassen Naturgeister <span class=\"ebt-matched\">bösartige Unholde</span> los. So kommen viele Menschen um. ",
+            "en": "native spirits let vicious monsters loose. And so many people perish. ",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n6. Brahmanen\n56. Zerfall",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "de": 20,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.77_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.77_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.77_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.77",
+        "lang": "de",
+        "segMap": {
+          "an5.77:6.3": {
+            "scid": "an5.77:6.3",
+            "pli": "Santi kho panāraññe vāḷā amanussā, te maṁ jīvitā voropeyyuṁ,  ",
+            "de": "Doch in der Wildnis gibt es <span class=\"ebt-matched\">bösartige Unholde</span>, die mir das Leben nehmen könnten. ",
+            "en": "But in a wilderness there are savage monsters who might take my life. ",
+            "matched": true
+          }
+        },
+        "score": 1.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n8. Krieger\n77. Künftige Gefahren (1)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 41,
+          "de": 40,
+          "en": 40
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "jegliche art von form",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "jegliche art von form",
+    "method": "phrase",
+    "resultPattern": "\\bjegliche art von form",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn22/sn22.59_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.59_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.196_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.196_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.181_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.181_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.181_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.133_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.133_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.133_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn22.59/de/sabbamitta",
+      "an4.196/de/sabbamitta",
+      "an4.181/de/sabbamitta",
+      "an3.133/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.133_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.133_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.133_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.133",
+        "lang": "de",
+        "segMap": {
+          "an3.133:2.2": {
+            "scid": "an3.133:2.2",
+            "pli": "Idha, bhikkhave, bhikkhu yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "de": "Es ist, wenn ein Mönch <span class=\"ebt-matched\">jegliche Art von Form</span> – vergangen, zukünftig oder gegenwärtig, innen oder außen, grob oder fein, gering oder hochstehend, fern oder nah: *jegliche* Form – wahrhaftig sieht und richtig versteht: ‚Das ist nicht mein, das bin nicht ich, das ist nicht mein Selbst.‘ ",
+            "en": "It’s when a mendicant truly sees any kind of form at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.04,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n14. Ein Krieger\n133. Ein Krieger",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 25,
+          "de": 24,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.181_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.181_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.181_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.181",
+        "lang": "de",
+        "segMap": {
+          "an4.181:3.2": {
+            "scid": "an4.181:3.2",
+            "pli": "Idha, bhikkhave, bhikkhu yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "de": "Es ist, wenn ein Mönch <span class=\"ebt-matched\">jegliche Art von Form</span> – vergangen, zukünftig oder gegenwärtig, innen oder außen, grob oder fein, gering oder hochstehend, fern oder nah: *jegliche* Form – wahrhaftig sieht und richtig versteht: ‚Das ist nicht mein, das bin nicht ich, das ist nicht mein Selbst.‘ ",
+            "en": "It’s when a mendicant truly sees any kind of form at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n19. Brahmanen\n181. Ein Krieger",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "de": 27,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn22/sn22.59_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.59_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.59",
+        "lang": "de",
+        "segMap": {
+          "sn22.59:7.1": {
+            "scid": "sn22.59:7.1",
+            "pli": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. ",
+            "de": "„Daher solltet ihr <span class=\"ebt-matched\">jegliche Art von Form</span> – vergangen, zukünftig oder gegenwärtig, innen oder außen, grob oder fein, gering oder hochstehend, fern oder nah: *jegliche* Form – wahrhaftig sehen und richtig verstehen: ‚Das ist nicht mein, das bin nicht ich, das ist nicht mein Selbst‘ ",
+            "en": "“So you should truly see any kind of form at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 22\n6. Gebunden\n59. Kennzeichen des Nicht-selbst",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 59,
+          "de": 58,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.196_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.196_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.196",
+        "lang": "de",
+        "segMap": {
+          "an4.196:11.3": {
+            "scid": "an4.196:11.3",
+            "pli": "Sammāsamādhi, sāḷha, ariyasāvako yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "de": "Ein edler Schüler, der rechte Versenkung besitzt, sieht <span class=\"ebt-matched\">jegliche Art von Form</span> – vergangen, zukünftig oder gegenwärtig, innen oder außen, grob oder fein, gering oder hochstehend, fern oder nah: *jegliche* Form – er sieht sie wahrhaftig und versteht sie richtig: ‚Das ist nicht mein, das bin nicht ich, das ist nicht mein Selbst.‘ ",
+            "en": "A noble disciple with right immersion truly sees any kind of form at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n20. Das große Kapitel\n196. Mit Sāḷha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 71,
+          "de": 70,
+          "en": 70
+        }
+      }
+    ]
+  }
+}

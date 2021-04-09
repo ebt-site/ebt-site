@@ -1,0 +1,200 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "one-eyed turtle",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "one-eyed turtle",
+    "method": "phrase",
+    "resultPattern": "\\bone-eyed turtle",
+    "segsMatched": 9,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn56/sn56.47_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.47_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn129_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn129_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.48_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.48_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig16.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig16.1_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn56.47/en/sujato",
+      "mn129/en/sujato",
+      "sn56.48/en/sujato",
+      "thig16.1/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.47_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.47_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.47",
+        "lang": "en",
+        "segMap": {
+          "sn56.47:1.1": {
+            "scid": "sn56.47:1.1",
+            "pli": "“Seyyathāpi, bhikkhave, puriso mahāsamudde ekacchiggaḷaṁ yugaṁ pakkhipeyya. Tatrāpissa kāṇo kacchapo. So vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjeyya. ",
+            "en": "“Mendicants, suppose a person was to throw a yoke with a single hole into the ocean. And there was a <span class=\"ebt-matched\">one-eyed turtle</span> who popped up once every hundred years. ",
+            "matched": true
+          },
+          "sn56.47:1.3": {
+            "scid": "sn56.47:1.3",
+            "pli": "api nu kho kāṇo kacchapo vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjanto amusmiṁ ekacchiggaḷe yuge gīvaṁ paveseyyā”ti? ",
+            "en": "Would that <span class=\"ebt-matched\">one-eyed turtle</span>, popping up once every hundred years, still poke its neck through the hole in that yoke?” ",
+            "matched": true
+          },
+          "sn56.47:2.1": {
+            "scid": "sn56.47:2.1",
+            "pli": "“Khippataraṁ kho so, bhikkhave, kāṇo kacchapo vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjanto amusmiṁ ekacchiggaḷe yuge gīvaṁ paveseyya, na tvevāhaṁ, bhikkhave, sakiṁ vinipātagatena bālena manussattaṁ vadāmi. ",
+            "en": "“That <span class=\"ebt-matched\">one-eyed turtle</span> would poke its neck through the hole in that yoke sooner than a fool who has fallen to the underworld would be reborn as a human being, I say. ",
+            "matched": true
+          }
+        },
+        "score": 3.176,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n5. A Cliff\n47. A Yoke With a Hole (1st)",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn129_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn129_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn129",
+        "lang": "en",
+        "segMap": {
+          "mn129:24.3": {
+            "scid": "mn129:24.3",
+            "pli": "Tatrāssa kāṇo kacchapo, so vassasatassa vassasatassa accayena sakiṁ ummujjeyya. ",
+            "en": "And there was a <span class=\"ebt-matched\">one-eyed turtle</span> who popped up once every hundred years. ",
+            "matched": true
+          },
+          "mn129:24.5": {
+            "scid": "mn129:24.5",
+            "pli": "api nu so kāṇo kacchapo amusmiṁ ekacchiggale yuge gīvaṁ paveseyyā”ti? ",
+            "en": "Would that <span class=\"ebt-matched\">one-eyed turtle</span> still poke its neck through the hole in that yoke?” ",
+            "matched": true
+          },
+          "mn129:24.8": {
+            "scid": "mn129:24.8",
+            "pli": "“Khippataraṁ kho so, bhikkhave, kāṇo kacchapo amusmiṁ ekacchiggale yuge gīvaṁ paveseyya, ato dullabhatarāhaṁ, bhikkhave, manussattaṁ vadāmi sakiṁ vinipātagatena bālena. ",
+            "en": "“That <span class=\"ebt-matched\">one-eyed turtle</span> would poke its neck through the hole in that yoke sooner than a fool who has fallen to the underworld would be reborn as a human being, I say. ",
+            "matched": true
+          }
+        },
+        "score": 3.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 129\nThe Foolish and the Astute",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 303,
+          "en": 302
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.48_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.48_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.48",
+        "lang": "en",
+        "segMap": {
+          "sn56.48:1.4": {
+            "scid": "sn56.48:1.4",
+            "pli": "Tatrassa kāṇo kacchapo. So vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjeyya. ",
+            "en": "And there was a <span class=\"ebt-matched\">one-eyed turtle</span> who popped up once every hundred years. ",
+            "matched": true
+          },
+          "sn56.48:1.6": {
+            "scid": "sn56.48:1.6",
+            "pli": "api nu kho kāṇo kacchapo vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjanto amusmiṁ ekacchiggaḷe yuge gīvaṁ paveseyyā”ti? ",
+            "en": "Would that <span class=\"ebt-matched\">one-eyed turtle</span>, popping up once every hundred years, still poke its neck through the hole in that yoke?” ",
+            "matched": true
+          }
+        },
+        "score": 2.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n5. A Cliff\n48. A Yoke With a Hole (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig16.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig16.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig16.1",
+        "lang": "en",
+        "segMap": {
+          "thig16.1:53.1": {
+            "scid": "thig16.1:53.1",
+            "pli": "Sara kāṇakacchapaṁ pubba-",
+            "en": "Remember the <span class=\"ebt-matched\">one-eyed turtle</span> and the yoke with a hole",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Great Book\n16.1. Sumedhā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 311,
+          "en": 306
+        }
+      }
+    ]
+  }
+}

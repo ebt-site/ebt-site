@@ -1,0 +1,198 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "concepts of identity",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "concepts of identity",
+    "method": "phrase",
+    "resultPattern": "\\bconcepts of identity",
+    "segsMatched": 13,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn18_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn18_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga7/ud7.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga7/ud7.7_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn18/en/sujato",
+      "dn21/en/sujato",
+      "ud7.7/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn18_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn18_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn18",
+        "lang": "en",
+        "segMap": {
+          "mn18:8.1": {
+            "scid": "mn18:8.1",
+            "pli": "“Yatonidānaṁ, bhikkhu, purisaṁ papañcasaññāsaṅkhā samudācaranti. ",
+            "en": "“Mendicant, a person is beset by <span class=\"ebt-matched\">concepts of identity</span> that emerge from the proliferation of perceptions. ",
+            "matched": true
+          },
+          "mn18:15.2": {
+            "scid": "mn18:15.2",
+            "pli": "‘yatonidānaṁ, bhikkhu, purisaṁ papañcasaññāsaṅkhā samudācaranti. ",
+            "en": "‘A person is beset by <span class=\"ebt-matched\">concepts of identity</span> that emerge from the proliferation of perceptions. ",
+            "matched": true
+          },
+          "mn18:16.1": {
+            "scid": "mn18:16.1",
+            "pli": "Cakkhuñcāvuso, paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā, yaṁ vedeti taṁ sañjānāti, yaṁ sañjānāti taṁ vitakketi, yaṁ vitakketi taṁ papañceti, yaṁ papañceti tatonidānaṁ purisaṁ papañcasaññāsaṅkhā samudācaranti atītānāgatapaccuppannesu cakkhuviññeyyesu rūpesu. ",
+            "en": "Eye consciousness arises dependent on the eye and sights. The meeting of the three is contact. Contact is a condition for feeling. What you feel, you perceive. What you perceive, you think about. What you think about, you proliferate. What you proliferate about is the source from which a person is beset by <span class=\"ebt-matched\">concepts of identity</span> that emerge from the proliferation of perceptions. This occurs with respect to sights known by the eye in the past, future, and present. ",
+            "matched": true
+          },
+          "mn18:16.6": {
+            "scid": "mn18:16.6",
+            "pli": "manañcāvuso, paṭicca dhamme ca uppajjati manoviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā, yaṁ vedeti taṁ sañjānāti, yaṁ sañjānāti taṁ vitakketi, yaṁ vitakketi taṁ papañceti, yaṁ papañceti tatonidānaṁ purisaṁ papañcasaññāsaṅkhā samudācaranti atītānāgatapaccuppannesu manoviññeyyesu dhammesu. ",
+            "en": "Mind consciousness arises dependent on the mind and thoughts. The meeting of the three is contact. Contact is a condition for feeling. What you feel, you perceive. What you perceive, you think about. What you think about, you proliferate. What you proliferate about is the source from which a person is beset by <span class=\"ebt-matched\">concepts of identity</span> that emerge from the proliferation of perceptions. This occurs with respect to thoughts known by the mind in the past, future, and present. ",
+            "matched": true
+          },
+          "mn18:17.5": {
+            "scid": "mn18:17.5",
+            "pli": "Vitakkapaññattiyā sati papañcasaññāsaṅkhāsamudācaraṇapaññattiṁ paññāpessatīti—ṭhānametaṁ vijjati. ",
+            "en": "When there is what’s known as thought, it’s possible to point out what’s known as ‘being beset by <span class=\"ebt-matched\">concepts of identity</span> that emerge from the proliferation of perceptions’. ",
+            "matched": true
+          },
+          "mn18:17.14": {
+            "scid": "mn18:17.14",
+            "pli": "Vitakkapaññattiyā sati papañcasaññāsaṅkhāsamudācaraṇapaññattiṁ paññāpessatīti—ṭhānametaṁ vijjati. ",
+            "en": "When there is what’s known as thought, it’s possible to point out what’s known as ‘being beset by <span class=\"ebt-matched\">concepts of identity</span> that emerge from the proliferation of perceptions’. ",
+            "matched": true
+          },
+          "mn18:18.5": {
+            "scid": "mn18:18.5",
+            "pli": "Vitakkapaññattiyā asati papañcasaññāsaṅkhāsamudācaraṇapaññattiṁ paññāpessatīti—netaṁ ṭhānaṁ vijjati. ",
+            "en": "When there isn’t what’s known as thought, it’s not possible to point out what’s known as ‘being beset by <span class=\"ebt-matched\">concepts of identity</span> that emerge from the proliferation of perceptions’. ",
+            "matched": true
+          },
+          "mn18:18.14": {
+            "scid": "mn18:18.14",
+            "pli": "Vitakkapaññattiyā asati papañcasaññāsaṅkhāsamudācaraṇapaññattiṁ paññāpessatīti—netaṁ ṭhānaṁ vijjati. ",
+            "en": "When there isn’t what’s known as thought, it’s not possible to point out what’s known as ‘being beset by <span class=\"ebt-matched\">concepts of identity</span> that emerge from the proliferation of perceptions’. ",
+            "matched": true
+          }
+        },
+        "score": 8.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 18\nThe Honey-Cake",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 150,
+          "en": 149
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn21",
+        "lang": "en",
+        "segMap": {
+          "dn21:2.2.23": {
+            "scid": "dn21:2.2.23",
+            "pli": "“Vitakko kho, devānaminda, papañcasaññāsaṅkhānidāno papañcasaññāsaṅkhāsamudayo papañcasaññāsaṅkhājātiko papañcasaññāsaṅkhāpabhavo; ",
+            "en": "“<span class=\"ebt-matched\">Concepts of identity</span> that emerge from the proliferation of perceptions are the source of thoughts.” ",
+            "matched": true
+          },
+          "dn21:2.3.1": {
+            "scid": "dn21:2.3.1",
+            "pli": "“Kathaṁ paṭipanno pana, mārisa, bhikkhu papañcasaññāsaṅkhānirodhasāruppagāminiṁ paṭipadaṁ paṭipanno hotī”ti? ",
+            "en": "“But how does a mendicant fittingly practice for the cessation of <span class=\"ebt-matched\">concepts of identity</span> that emerge from the proliferation of perceptions?” ",
+            "matched": true
+          },
+          "dn21:2.3.33": {
+            "scid": "dn21:2.3.33",
+            "pli": "Evaṁ paṭipanno kho, devānaminda, bhikkhu papañcasaññāsaṅkhānirodhasāruppagāminiṁ paṭipadaṁ paṭipanno hotī”ti. ",
+            "en": "That’s how a mendicant fittlingly practices for the cessation of <span class=\"ebt-matched\">concepts of identity</span> that emerge from the proliferation of perceptions.” ",
+            "matched": true
+          }
+        },
+        "score": 3.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 21\nSakka’s Questions",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 515,
+          "en": 514
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga7/ud7.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga7/ud7.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud7.7",
+        "lang": "en",
+        "segMap": {
+          "ud7.7:1.3": {
+            "scid": "ud7.7:1.3",
+            "pli": "Tena kho pana samayena bhagavā attano papañcasaññāsaṅkhāpahānaṁ paccavekkhamāno nisinno hoti.",
+            "en": "Now at that time the Buddha was sitting reviewing his own giving up of the <span class=\"ebt-matched\">concepts of identity</span> that emerge from the proliferation of perceptions.",
+            "matched": true
+          },
+          "ud7.7:2.1": {
+            "scid": "ud7.7:2.1",
+            "pli": "Atha kho bhagavā attano papañcasaññāsaṅkhāpahānaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:",
+            "en": "Then, understanding his own giving up of the <span class=\"ebt-matched\">concepts of identity</span> that emerge from the proliferation of perceptions, on that occasion the Buddha expressed this heartfelt sentiment: ",
+            "matched": true
+          }
+        },
+        "score": 2.182,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\nThe Ending of Proliferation",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 11,
+          "en": 10
+        }
+      }
+    ]
+  }
+}

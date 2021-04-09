@@ -1,0 +1,610 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "truly understands: ‘this is suffering’",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "truly understands: ‘this is suffering’",
+    "method": "phrase",
+    "resultPattern": "\\btruly understands: ‘this is suffering’",
+    "segsMatched": 21,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.140_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.140_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.40_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.40_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.25_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.25_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.36_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.36_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn48/sn48.53_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn48/sn48.53_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn39_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn39_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.22_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.22_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.76_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.76_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.75_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.75_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.196_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.194_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.194_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.96_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.96_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.20_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.20_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.133_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.133_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.12_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.140/en/sujato",
+      "sn56.40/en/sujato",
+      "an3.25/en/sujato",
+      "sn56.36/en/sujato",
+      "sn48.53/en/sujato",
+      "mn39/en/sujato",
+      "mn10/en/sujato",
+      "dn22/en/sujato",
+      "an9.22/en/sujato",
+      "an5.76/en/sujato",
+      "an5.75/en/sujato",
+      "an4.196/en/sujato",
+      "an4.194/en/sujato",
+      "an3.96/en/sujato",
+      "an3.20/en/sujato",
+      "an3.133/en/sujato",
+      "an3.12/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.140_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.140_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.140",
+        "lang": "en",
+        "segMap": {
+          "an3.140:4.2": {
+            "scid": "an3.140:4.2",
+            "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "It’s when a mendicant <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          },
+          "an3.140:5.2": {
+            "scid": "an3.140:5.2",
+            "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "It’s when a mendicant <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          },
+          "an3.140:6.2": {
+            "scid": "an3.140:6.2",
+            "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "It’s when a mendicant <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          }
+        },
+        "score": 3.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n14. A Warrior\n140. A Wild Colt",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 42,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.25_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.25",
+        "lang": "en",
+        "segMap": {
+          "an3.25:2.2": {
+            "scid": "an3.25:2.2",
+            "pli": "Idha, bhikkhave, ekacco puggalo ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "It’s someone who <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          },
+          "an3.25:2.4": {
+            "scid": "an3.25:2.4",
+            "pli": "evamevaṁ kho, bhikkhave, idhekacco puggalo ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "In the same way, someone <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          }
+        },
+        "score": 2.08,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n3. Persons\n25. Like Diamond",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 25,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.40_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.40_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.40",
+        "lang": "en",
+        "segMap": {
+          "sn56.40:1.1": {
+            "scid": "sn56.40:1.1",
+            "pli": "“Yo hi koci, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ",
+            "en": "“Mendicants, take any mendicant who <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          },
+          "sn56.40:2.6": {
+            "scid": "sn56.40:2.6",
+            "pli": "Evameva kho, bhikkhave, yo hi koci bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti; ",
+            "en": "In the same way, take any mendicant who <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          }
+        },
+        "score": 2.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n4. In a Rosewood Forest\n40. Looking For a Debate",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 32,
+          "en": 30
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.36_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.36_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.36",
+        "lang": "en",
+        "segMap": {
+          "sn56.36:2.6": {
+            "scid": "sn56.36:2.6",
+            "pli": "Evaṁ mahantasmā kho, bhikkhave, apāyasmā parimutto diṭṭhisampanno puggalo ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "A person accomplished in view, exempt from that vast plane of loss, <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          }
+        },
+        "score": 1.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n4. In a Rosewood Forest\n36. Living Creatures",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.12",
+        "lang": "en",
+        "segMap": {
+          "an3.12:5.1": {
+            "scid": "an3.12:5.1",
+            "pli": "Puna caparaṁ, bhikkhave, yasmiṁ padese bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "The place where the mendicant <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          }
+        },
+        "score": 1.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n2. The Chariot-Maker\n12. Commemoration",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.96_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.96_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.96",
+        "lang": "en",
+        "segMap": {
+          "an3.96:4.2": {
+            "scid": "an3.96:4.2",
+            "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti; ",
+            "en": "It’s when a mendicant <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n96. The Thoroughbred (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.133_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.133_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.133",
+        "lang": "en",
+        "segMap": {
+          "an3.133:3.2": {
+            "scid": "an3.133:3.2",
+            "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti; ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti; ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti; ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "It’s when a mendicant <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          }
+        },
+        "score": 1.04,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n14. A Warrior\n133. A Warrior",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 25,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.194_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.194_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.194",
+        "lang": "en",
+        "segMap": {
+          "an4.194:5.2": {
+            "scid": "an4.194:5.2",
+            "pli": "Idha, byagghapajjā, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "Take a mendicant who <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n20. The Great Chapter\n194. At Sāpūga",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn48/sn48.53_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn48/sn48.53_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn48.53",
+        "lang": "en",
+        "segMap": {
+          "sn48.53:3.2": {
+            "scid": "sn48.53:3.2",
+            "pli": "Idha, bhikkhave, sekho bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti—",
+            "en": "It’s when a mendicant who is a trainee <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 48\n6. The Boar’s Cave\n53. A Trainee",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.20_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.20",
+        "lang": "en",
+        "segMap": {
+          "an3.20:4.5": {
+            "scid": "an3.20:4.5",
+            "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "It’s when a mendicant <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          }
+        },
+        "score": 1.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n2. The Chariot-Maker\n20. A Shopkeeper (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 43,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.196_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.196",
+        "lang": "en",
+        "segMap": {
+          "an4.196:12.3": {
+            "scid": "an4.196:12.3",
+            "pli": "Sammādiṭṭhi, sāḷha, ariyasāvako ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "A noble disciple with right view <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n20. The Great Chapter\n196. With Sāḷha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 71,
+          "en": 70
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.22_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.22",
+        "lang": "en",
+        "segMap": {
+          "an9.22:4.2": {
+            "scid": "an9.22:4.2",
+            "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "It’s when a mendicant <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n3. Abodes of Sentient Beings\n22. A Wild Colt",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 74,
+          "en": 73
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.75_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.75_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.75",
+        "lang": "en",
+        "segMap": {
+          "an5.75:16.2": {
+            "scid": "an5.75:16.2",
+            "pli": "So ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti, ",
+            "en": "He <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n8. Warriors\n75. Warriors (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 104,
+          "en": 103
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.76_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.76_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.76",
+        "lang": "en",
+        "segMap": {
+          "an5.76:19.2": {
+            "scid": "an5.76:19.2",
+            "pli": "So ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe…",
+            "en": "He <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. He truly understands: ‘These are defilements’ … ‘This is the origin of defilements’ … ‘This is the cessation of defilements’ … ‘This is the practice that leads to the cessation of defilements’. Knowing and seeing like this, his mind is freed from the defilements of sensuality, desire to be reborn, and ignorance. When freed, he knows ‘it is freed’.",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n8. Warriors\n76. Warriors (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 138,
+          "en": 137
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn39_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn39_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn39",
+        "lang": "en",
+        "segMap": {
+          "mn39:21.11": {
+            "scid": "mn39:21.11",
+            "pli": "Evameva kho, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe… ",
+            "en": "In the same way, a mendicant <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 39\nThe Longer Discourse at Assapura",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 191,
+          "en": 190
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn10",
+        "lang": "en",
+        "segMap": {
+          "mn10:44.3": {
+            "scid": "mn10:44.3",
+            "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "It’s when a mendicant <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 10\nMindfulness Meditation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 235,
+          "en": 233
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn22",
+        "lang": "en",
+        "segMap": {
+          "dn22:17.3": {
+            "scid": "dn22:17.3",
+            "pli": "Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. ",
+            "en": "It’s when a mendicant <span class=\"ebt-matched\">truly understands: ‘This is suffering’</span> … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 22\nThe Longer Discourse on Mindfulness Meditation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 454,
+          "en": 453
+        }
+      }
+    ]
+  }
+}

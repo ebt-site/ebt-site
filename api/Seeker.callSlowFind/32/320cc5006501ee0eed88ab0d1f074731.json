@@ -1,0 +1,115 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "auge der weisheit",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "auge der weisheit",
+    "method": "phrase",
+    "resultPattern": "\\bauge der weisheit",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.333-377_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.333-377_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.333-377_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn33/de/sabbamitta",
+      "an1.333-377/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.333-377_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an1/an1.333-377_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an1/an1.333-377_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.333-377",
+        "lang": "de",
+        "segMap": {
+          "an1.337:1.1": {
+            "scid": "an1.337:1.1",
+            "pli": "… Evamevaṁ kho, bhikkhave, appakā te sattā ye ariyena paññācakkhunā samannāgatā; ",
+            "de": "… ebenso haben wenige Lebewesen das edle <span class=\"ebt-matched\">Auge der Weisheit</span>; ",
+            "en": "… so too the sentient beings who have the noble eye of wisdom are few, ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 1\n27. Viertes\n333–377",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 85,
+          "de": 84,
+          "en": 84
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.10.113": {
+            "scid": "dn33:1.10.113",
+            "pli": "maṁsacakkhu, dibbacakkhu, paññācakkhu. ",
+            "de": "das fleischliche Auge, das hellsichtige Auge und das <span class=\"ebt-matched\">Auge der Weisheit</span>. ",
+            "en": "the eye of the flesh, the eye of clairvoyance, and the eye of wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

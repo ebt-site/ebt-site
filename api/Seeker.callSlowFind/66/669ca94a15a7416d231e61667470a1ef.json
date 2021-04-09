@@ -1,0 +1,115 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wenn die sechs sinnesfelder schwinden",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wenn die sechs sinnesfelder schwinden",
+    "method": "phrase",
+    "resultPattern": "\\bwenn die sechs sinnesfelder schwinden",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn12/sn12.24_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.24_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.24_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.12_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.12_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.12_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn12.24/de/sabbamitta",
+      "sn12.12/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.12_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.12_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.12",
+        "lang": "de",
+        "segMap": {
+          "sn12.12:7.1": {
+            "scid": "sn12.12:7.1",
+            "pli": "Channaṁ tveva, phagguna, phassāyatanānaṁ asesavirāganirodhā phassanirodho; ",
+            "de": "<span class=\"ebt-matched\">Wenn die sechs Sinnesfelder schwinden</span> und restlos aufhören, hört Berührung auf. ",
+            "en": "When the six sense fields fade away and cease with nothing left over, contact ceases. ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n2. Nahrung\n12. Phagguna mit dem Scheitelknoten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 70,
+          "de": 69,
+          "en": 69
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.24_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.24_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.24_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.24",
+        "lang": "de",
+        "segMap": {
+          "sn12.24:21.9": {
+            "scid": "sn12.24:21.9",
+            "pli": "‘Channaṁ tveva, āvuso, phassāyatanānaṁ asesavirāganirodhā phassanirodho; ",
+            "de": "‚<span class=\"ebt-matched\">Wenn die sechs Sinnesfelder schwinden</span> und restlos aufhören, hört Berührung auf. ",
+            "en": "‘When the six sense fields fade away and cease with nothing left over, contact ceases. ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n3. Die zehn Kräfte\n24. Anhänger anderer Lehren",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 107,
+          "de": 106,
+          "en": 106
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,550 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "joy and happiness",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "joy and happiness",
+    "method": "phrase",
+    "resultPattern": "\\bjoy and happiness",
+    "segsMatched": 37,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn39_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn39_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn81_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn81_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.78_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.78_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.239_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.239_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn87_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn87_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga4/iti37_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga4/iti37_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn9_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn9_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.194_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.194_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn21/en/sujato",
+      "mn39/en/sujato",
+      "dn2/en/sujato",
+      "dn10/en/sujato",
+      "mn81/en/sujato",
+      "an6.78/en/sujato",
+      "sn35.239/en/sujato",
+      "mn87/en/sujato",
+      "iti37/en/sujato",
+      "dn9/en/sujato",
+      "an5.194/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn2",
+        "lang": "en",
+        "segMap": {
+          "dn2:14.4": {
+            "scid": "dn2:14.4",
+            "pli": "te tena attānaṁ sukhenti pīṇenti, mātāpitaro sukhenti pīṇenti, puttadāraṁ sukhenti pīṇenti, mittāmacce sukhenti pīṇenti, samaṇabrāhmaṇesu uddhaggikaṁ dakkhiṇaṁ patiṭṭhapenti sovaggikaṁ sukhavipākaṁ saggasaṁvattanikaṁ. ",
+            "en": "With that they bring happiness and joy to themselves, their parents, their children and partners, and their friends and colleagues. And they establish an uplifting religious donation for ascetics and brahmins that’s conducive to heaven, ripens in happiness, and leads to heaven. ",
+            "matched": true
+          },
+          "dn2:34.5": {
+            "scid": "dn2:34.5",
+            "pli": "te tena attānaṁ sukhenti pīṇenti, mātāpitaro sukhenti pīṇenti, puttadāraṁ sukhenti pīṇenti, mittāmacce sukhenti pīṇenti, samaṇabrāhmaṇesu uddhaggikaṁ dakkhiṇaṁ patiṭṭhapenti sovaggikaṁ sukhavipākaṁ saggasaṁvattanikaṁ. ",
+            "en": "With that they bring happiness and joy to themselves, their parents, their children and partners, and their friends and colleagues. And they establish an uplifting religious donation for ascetics and brahmins that’s conducive to heaven, ripens in happiness, and leads to heaven. ",
+            "matched": true
+          },
+          "dn2:69.8": {
+            "scid": "dn2:69.8",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "he’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          },
+          "dn2:70.8": {
+            "scid": "dn2:70.8",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "they’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          },
+          "dn2:71.6": {
+            "scid": "dn2:71.6",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "they’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          },
+          "dn2:72.6": {
+            "scid": "dn2:72.6",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "they’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          },
+          "dn2:73.6": {
+            "scid": "dn2:73.6",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "they’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 7.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 2\nThe Fruits of the Ascetic Life\n1. A Discussion With the King’s Ministers",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 649,
+          "en": 632
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn21",
+        "lang": "en",
+        "segMap": {
+          "dn21:2.7.22": {
+            "scid": "dn21:2.7.22",
+            "pli": "“Abhijānāsi no tvaṁ, devānaminda, ito pubbe evarūpaṁ vedapaṭilābhaṁ somanassapaṭilābhan”ti? ",
+            "en": "“Lord of gods, do you recall ever feeling such <span class=\"ebt-matched\">joy and happiness</span> before?” ",
+            "matched": true
+          },
+          "dn21:2.7.29": {
+            "scid": "dn21:2.7.29",
+            "pli": "So kho pana me, bhante, vedapaṭilābho somanassapaṭilābho sadaṇḍāvacaro sasatthāvacaro na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. ",
+            "en": "But sir, that <span class=\"ebt-matched\">joy and happiness</span> is in the sphere of the rod and the sword. It doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. ",
+            "matched": true
+          },
+          "dn21:2.7.30": {
+            "scid": "dn21:2.7.30",
+            "pli": "Yo kho pana me ayaṁ, bhante, bhagavato dhammaṁ sutvā vedapaṭilābho somanassapaṭilābho, so adaṇḍāvacaro asatthāvacaro ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattatī”ti. ",
+            "en": "But the <span class=\"ebt-matched\">joy and happiness</span> I feel listening to the Buddha’s teaching is not in the sphere of the rod and the sword. It does lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment.” ",
+            "matched": true
+          },
+          "dn21:2.8.1": {
+            "scid": "dn21:2.8.1",
+            "pli": "“Kiṁ pana tvaṁ, devānaminda, atthavasaṁ sampassamāno evarūpaṁ vedapaṭilābhaṁ somanassapaṭilābhaṁ pavedesī”ti? ",
+            "en": "“But lord of gods, what reason do you see for speaking of such <span class=\"ebt-matched\">joy and happiness</span>?” ",
+            "matched": true
+          },
+          "dn21:2.8.2": {
+            "scid": "dn21:2.8.2",
+            "pli": "“Cha kho ahaṁ, bhante, atthavase sampassamāno evarūpaṁ vedapaṭilābhaṁ somanassapaṭilābhaṁ pavedemi. ",
+            "en": "“I see six reasons to speak of such <span class=\"ebt-matched\">joy and happiness</span>, sir. ",
+            "matched": true
+          },
+          "dn21:2.8.33": {
+            "scid": "dn21:2.8.33",
+            "pli": "Ime kho ahaṁ, bhante, cha atthavase sampassamāno evarūpaṁ vedapaṭilābhaṁ somanassapaṭilābhaṁ pavedemi. ",
+            "en": "Seeing these six reasons I speak of such <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 6.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 21\nSakka’s Questions",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 515,
+          "en": 514
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn39_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn39_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn39",
+        "lang": "en",
+        "segMap": {
+          "mn39:14.7": {
+            "scid": "mn39:14.7",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "he’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          },
+          "mn39:14.12": {
+            "scid": "mn39:14.12",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "they’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          },
+          "mn39:14.17": {
+            "scid": "mn39:14.17",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "they’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          },
+          "mn39:14.22": {
+            "scid": "mn39:14.22",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "they’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          },
+          "mn39:14.28": {
+            "scid": "mn39:14.28",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "they’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 5.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 39\nThe Longer Discourse at Assapura",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 191,
+          "en": 190
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn10",
+        "lang": "en",
+        "segMap": {
+          "dn10:2.7.8": {
+            "scid": "dn10:2.7.8",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "he’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          },
+          "dn10:2.8.6": {
+            "scid": "dn10:2.8.6",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "they’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          },
+          "dn10:2.9.6": {
+            "scid": "dn10:2.9.6",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "they’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          },
+          "dn10:2.10.6": {
+            "scid": "dn10:2.10.6",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "they’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          },
+          "dn10:2.11.6": {
+            "scid": "dn10:2.11.6",
+            "pli": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ. ",
+            "en": "they’d be filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 5.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 10\nWith Subha",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 284,
+          "en": 281
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.78_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.78_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.78",
+        "lang": "en",
+        "segMap": {
+          "an6.78:0.3": {
+            "scid": "an6.78:0.3",
+            "pli": "78. Sukhasomanassasutta ",
+            "en": "78. <span class=\"ebt-matched\">Joy and Happiness</span> ",
+            "matched": true
+          },
+          "an6.78:1.1": {
+            "scid": "an6.78:1.1",
+            "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṁ khayāya. ",
+            "en": "“Mendicants, when a mendicant has six things they’re full of <span class=\"ebt-matched\">joy and happiness</span> in the present life, and they have laid the groundwork for ending the defilements. ",
+            "matched": true
+          },
+          "an6.78:1.4": {
+            "scid": "an6.78:1.4",
+            "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṁ khayāyā”ti. ",
+            "en": "When a mendicant has these six things they’re full of <span class=\"ebt-matched\">joy and happiness</span> in the present life, and they have laid the groundwork for ending the defilements.” ",
+            "matched": true
+          }
+        },
+        "score": 3.375,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n8. Perfection\n78. Joy and Happiness",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn81_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn81_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn81",
+        "lang": "en",
+        "segMap": {
+          "mn81:19.12": {
+            "scid": "mn81:19.12",
+            "pli": "Atha kho, mahārāja, ghaṭikāraṁ kumbhakāraṁ aḍḍhamāsaṁ pītisukhaṁ na vijahati, sattāhaṁ mātāpitūnaṁ. ",
+            "en": "Then <span class=\"ebt-matched\">joy and happiness</span> did not leave him for a fortnight, or his parents for a week. ",
+            "matched": true
+          },
+          "mn81:20.12": {
+            "scid": "mn81:20.12",
+            "pli": "Atha kho, mahārāja, ghaṭikāraṁ kumbhakāraṁ aḍḍhamāsaṁ pītisukhaṁ na vijahati, sattāhaṁ mātāpitūnaṁ. ",
+            "en": "Then <span class=\"ebt-matched\">joy and happiness</span> did not leave him for a fortnight, or his parents for a week. ",
+            "matched": true
+          },
+          "mn81:21.19": {
+            "scid": "mn81:21.19",
+            "pli": "Atha kho, mahārāja, ghaṭikāraṁ kumbhakāraṁ aḍḍhamāsaṁ pītisukhaṁ na vijahati, sattāhaṁ mātāpitūnaṁ. ",
+            "en": "Then <span class=\"ebt-matched\">joy and happiness</span> did not leave him for a fortnight, or his parents for a week. ",
+            "matched": true
+          }
+        },
+        "score": 3.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 81\nWith Ghaṭikāra",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 198,
+          "en": 197
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga4/iti37_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga4/iti37_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti37",
+        "lang": "en",
+        "segMap": {
+          "iti37:2.1": {
+            "scid": "iti37:2.1",
+            "pli": "“Dvīhi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṁ khayāya.",
+            "en": "“Mendicants, when a mendicant has two qualities they’re full of <span class=\"ebt-matched\">joy and happiness</span> in the present life, and they have laid the groundwork for ending the defilements. ",
+            "matched": true
+          },
+          "iti37:2.4": {
+            "scid": "iti37:2.4",
+            "pli": "Imehi kho, bhikkhave, dvīhi dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṁ khayāyā”ti.",
+            "en": "When a mendicant has these two qualities they’re full of <span class=\"ebt-matched\">joy and happiness</span> in the present life, and they have laid the groundwork for ending the defilements.” ",
+            "matched": true
+          }
+        },
+        "score": 2.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Twos\nChapter One\n37. Happiness",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 27,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.239_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.239_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.239",
+        "lang": "en",
+        "segMap": {
+          "sn35.239:1.1": {
+            "scid": "sn35.239:1.1",
+            "pli": "“Tīhi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṁ khayāya. ",
+            "en": "“Mendicants, when a mendicant has three qualities they’re full of <span class=\"ebt-matched\">joy and happiness</span> in the present life, and they have laid the groundwork for ending the defilements. ",
+            "matched": true
+          },
+          "sn35.239:4.7": {
+            "scid": "sn35.239:4.7",
+            "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṁ khayāyā”ti. ",
+            "en": "When a mendicant has these three qualities they’re full of <span class=\"ebt-matched\">joy and happiness</span> in the present life, and they have laid the groundwork for ending the defilements.” ",
+            "matched": true
+          }
+        },
+        "score": 2.061,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n19. The Simile of the Vipers\n239. The Simile of the Chariot",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn87_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn87_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn87",
+        "lang": "en",
+        "segMap": {
+          "mn87:3.12": {
+            "scid": "mn87:3.12",
+            "pli": "Piyajātikā hi kho, bhante, ānandasomanassā piyappabhavikā”ti. ",
+            "en": "For our loved ones are a source of <span class=\"ebt-matched\">joy and happiness</span>.” ",
+            "matched": true
+          },
+          "mn87:4.18": {
+            "scid": "mn87:4.18",
+            "pli": "Piyajātikā hi, gahapati, ānandasomanassā piyappabhavikā”ti. ",
+            "en": "For our loved ones are a source of <span class=\"ebt-matched\">joy and happiness</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 2.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 87\nBorn From the Beloved",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 150,
+          "en": 149
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.194_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.194_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.194",
+        "lang": "en",
+        "segMap": {
+          "an5.194:5.8": {
+            "scid": "an5.194:5.8",
+            "pli": "tato tato adhigacchati pāmojjaṁ adhigacchati somanassaṁ. ",
+            "en": "then you become filled with <span class=\"ebt-matched\">joy and happiness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n20. Brahmins\n194. With Kāraṇapālī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 53,
+          "en": 52
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn9_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn9",
+        "lang": "en",
+        "segMap": {
+          "dn9:40.6": {
+            "scid": "dn9:40.6",
+            "pli": "Saṅkilesikā ceva dhammā pahīyissanti, vodāniyā ca dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati, pāmujjañceva bhavissati pīti ca passaddhi ca sati ca sampajaññañca sukho ca vihāro. ",
+            "en": "Corrupting qualities will be given up and cleansing qualities will grow. One will enter and remain in the fullness and abundance of wisdom, having realized it with one’s own insight in this very life. And there will be only <span class=\"ebt-matched\">joy and happiness</span>, tranquility, mindfulness and awareness. Such a life is blissful. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 9\nWith Poṭṭhapāda\n1. On the Wanderer Poṭṭhapāda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 473,
+          "en": 472
+        }
+      }
+    ]
+  }
+}

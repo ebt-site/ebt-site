@@ -1,0 +1,107 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "schönste.* im ganzen land",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "schönste.* im ganzen land",
+    "method": "phrase",
+    "resultPattern": "\\bschönste.* im ganzen land",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn47/sn47.20_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn47/sn47.20_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.20_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn47.20/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.20_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn47/sn47.20_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.20",
+        "lang": "de",
+        "segMap": {
+          "sn47.20:0.3": {
+            "scid": "sn47.20:0.3",
+            "pli": "20. Janapadakalyāṇīsutta ",
+            "de": "20. Die <span class=\"ebt-matched\">Schönste im ganzen Land</span> ",
+            "en": "20. The Finest Lady in the Land ",
+            "matched": true
+          },
+          "sn47.20:2.1": {
+            "scid": "sn47.20:2.1",
+            "pli": "“Seyyathāpi, bhikkhave, ‘janapadakalyāṇī, janapadakalyāṇī’ti kho, bhikkhave, mahājanakāyo sannipateyya. ",
+            "de": "„Mönche und Nonnen, angenommen, auf den Ruf: ‚Die <span class=\"ebt-matched\">Schönste im ganzen Land! Die Schönste im ganzen Land</span>!‘ würde sich eine große Menschenmenge versammeln. ",
+            "en": "“Mendicants, suppose that on hearing, ‘The finest lady in the land! The finest lady in the land!’ a large crowd would gather. ",
+            "matched": true
+          },
+          "sn47.20:2.2": {
+            "scid": "sn47.20:2.2",
+            "pli": "‘Sā kho panassa janapadakalyāṇī paramapāsāvinī nacce, paramapāsāvinī gīte. ",
+            "de": "Und die <span class=\"ebt-matched\">Schönste im ganzen Land</span> würde auf äußerst mitreißende Art tanzen und singen. ",
+            "en": "And the finest lady in the land would dance and sing in a most thrilling way. ",
+            "matched": true
+          },
+          "sn47.20:2.3": {
+            "scid": "sn47.20:2.3",
+            "pli": "Janapadakalyāṇī naccati gāyatī’ti kho, bhikkhave, bhiyyoso mattāya mahājanakāyo sannipateyya. ",
+            "de": "Auf den Ruf: ‚Die <span class=\"ebt-matched\">Schönste im ganzen Land tanzt und singt! Die Schönste im ganzen Land</span> tanzt und singt!‘ würde sich eine noch größere Menschenmenge versammeln. ",
+            "en": "On hearing, ‘The finest lady in the land is dancing and singing! The finest lady in the land is dancing and singing!’ an even larger crowd would gather. ",
+            "matched": true
+          },
+          "sn47.20:2.6": {
+            "scid": "sn47.20:2.6",
+            "pli": "‘ayaṁ te, ambho purisa, samatittiko telapatto antarena ca mahāsamajjaṁ antarena ca janapadakalyāṇiyā pariharitabbo. ",
+            "de": "‚Guter Mann, hier ist eine Schüssel, die bis an den Rand mit Öl gefüllt ist. Du musst sie zwischen dieser großen Menschenmenge und der <span class=\"ebt-matched\">Schönsten im ganzen Land</span> hindurchtragen. ",
+            "en": "‘Mister, this is a bowl full to the brim with oil. You must carry it in between this large crowd and the finest lady in the land. ",
+            "matched": true
+          }
+        },
+        "score": 5.152,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 47\n2. Bei Nālandā\n20. Die Schönste im ganzen Land",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 33,
+          "de": 26,
+          "en": 31
+        }
+      }
+    ]
+  }
+}

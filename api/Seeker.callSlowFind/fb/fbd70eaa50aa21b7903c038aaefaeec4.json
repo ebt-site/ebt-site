@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "four kinds of people",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "four kinds of people",
+    "method": "phrase",
+    "resultPattern": "\\bfour kinds of people",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn94_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn94_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn94/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn94_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn94_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn94",
+        "lang": "en",
+        "segMap": {
+          "mn94:8.9": {
+            "scid": "mn94:8.9",
+            "pli": "Ye ca me bhotā udenena cattāro puggalā saṅkhittena vuttā vitthārena avibhattā, sādhu me bhavaṁ, udeno ime cattāro puggale vitthārena vibhajatu anukampaṁ upādāyā”ti. ",
+            "en": "Now, these <span class=\"ebt-matched\">four kinds of people</span> that you’ve spoken of in a brief summary: please explain them to me in detail, out of compassion.” ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 94\nWith Ghoṭamukha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 203,
+          "en": 202
+        }
+      }
+    ]
+  }
+}

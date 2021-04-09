@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "weltall sich zusammenzieht",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "weltall sich zusammenzieht",
+    "method": "phrase",
+    "resultPattern": "\\bweltall sich zusammenzieht",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn24/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn24",
+        "lang": "de",
+        "segMap": {
+          "dn24:2.14.11": {
+            "scid": "dn24:2.14.11",
+            "pli": "‘Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
+            "de": "‚Es kommt eine Zeit, werte Freunde, nachdem eine sehr lange Zeitspanne vergangen ist, da dieses <span class=\"ebt-matched\">Weltall sich zusammenzieht</span>. ",
+            "en": "‘There comes a time when, reverends, after a very long period has passed, this cosmos contracts. ",
+            "matched": true
+          },
+          "dn24:2.14.12": {
+            "scid": "dn24:2.14.12",
+            "pli": "Saṁvaṭṭamāne loke yebhuyyena sattā ābhassarasaṁvattanikā honti. ",
+            "de": "Wenn das <span class=\"ebt-matched\">Weltall sich zusammenzieht</span>, gehen die Lebewesen zumeist zum Bereich der Götter von strahlendem Glanz. ",
+            "en": "As the cosmos contracts, sentient beings are mostly headed for the realm of streaming radiance. ",
+            "matched": true
+          }
+        },
+        "score": 2.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 24\nÜber Pāṭikaputta\n1. Die Geschichte von Sunakkhatta",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 581,
+          "de": 500,
+          "en": 580
+        }
+      }
+    ]
+  }
+}

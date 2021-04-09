@@ -1,0 +1,106 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "the eye itself",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "the eye itself",
+    "method": "phrase",
+    "resultPattern": "\\bthe eye itself",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.37_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.37_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn23/en/sujato",
+      "an9.37/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.37_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.37_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.37",
+        "lang": "en",
+        "segMap": {
+          "an9.37:2.3": {
+            "scid": "an9.37:2.3",
+            "pli": "Tadeva nāma cakkhuṁ bhavissati te rūpā tañcāyatanaṁ no paṭisaṁvedissati. ",
+            "en": "<span class=\"ebt-matched\">The eye itself</span> is actually present, and so are those sights. Yet one will not experience that sense-field. ",
+            "matched": true
+          }
+        },
+        "score": 1.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n4. The Great Chapter\n37. By Ānanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 36,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "en",
+        "segMap": {
+          "dn23:18.29": {
+            "scid": "dn23:18.29",
+            "pli": "Tassa tadeva cakkhu hoti te rūpā, tañcāyatanaṁ nappaṭisaṁvedeti. ",
+            "en": "For him <span class=\"ebt-matched\">the eye itself</span> is present, and so are those sights. Yet he does not experience that sense-field. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 23\nWith Pāyāsi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 715,
+          "en": 713
+        }
+      }
+    ]
+  }
+}

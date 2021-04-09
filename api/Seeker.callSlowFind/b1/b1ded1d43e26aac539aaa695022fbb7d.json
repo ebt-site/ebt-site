@@ -1,0 +1,118 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "if they abuse",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "if they abuse",
+    "method": "phrase",
+    "resultPattern": "\\bif they abuse",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.88_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.88_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn145_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn145_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.88/en/sujato",
+      "mn145/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.88_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.88_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.88",
+        "lang": "en",
+        "segMap": {
+          "sn35.88:5.3": {
+            "scid": "sn35.88:5.3",
+            "pli": "Sace taṁ, puṇṇa, sunāparantakā manussā akkosissanti paribhāsissanti, tatra te, puṇṇa, kinti bhavissatī”ti? ",
+            "en": "<span class=\"ebt-matched\">If they abuse</span> and insult you, what will you think of them?” ",
+            "matched": true
+          },
+          "sn35.88:6.1": {
+            "scid": "sn35.88:6.1",
+            "pli": "“Sace maṁ, bhante, sunāparantakā manussā akkosissanti paribhāsissanti, tatra me evaṁ bhavissati: ",
+            "en": "“<span class=\"ebt-matched\">If they abuse</span> and insult me, I will think: ",
+            "matched": true
+          }
+        },
+        "score": 2.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n9. With Channa\n88. With Puṇṇa",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 70,
+          "en": 69
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn145_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn145_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn145",
+        "lang": "en",
+        "segMap": {
+          "mn145:5.5": {
+            "scid": "mn145:5.5",
+            "pli": "Sace taṁ, puṇṇa, sunāparantakā manussā akkosissanti paribhāsissanti, tattha te, puṇṇa, kinti bhavissatī”ti? ",
+            "en": "<span class=\"ebt-matched\">If they abuse</span> and insult you, what will you think of them?” ",
+            "matched": true
+          },
+          "mn145:5.6": {
+            "scid": "mn145:5.6",
+            "pli": "“Sace maṁ, bhante, sunāparantakā manussā akkosissanti paribhāsissanti, tattha me evaṁ bhavissati: ",
+            "en": "“<span class=\"ebt-matched\">If they abuse</span> and insult me, I will think: ",
+            "matched": true
+          }
+        },
+        "score": 2.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 145\nAdvice to Puṇṇa",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 83,
+          "en": 82
+        }
+      }
+    ]
+  }
+}

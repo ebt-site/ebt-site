@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "sprich, gutes horn",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "sprich, gutes horn",
+    "method": "phrase",
+    "resultPattern": "\\bsprich, gutes horn",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn23/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "de",
+        "segMap": {
+          "dn23:19.11": {
+            "scid": "dn23:19.11",
+            "pli": "‘vadehi, bho saṅkha, vadehi, bho saṅkhā’ti. ",
+            "de": "‚<span class=\"ebt-matched\">Sprich, gutes Horn</span>! <span class=\"ebt-matched\">Sprich, gutes Horn</span>!‘ ",
+            "en": "‘Speak, good horn! Speak, good horn!’ ",
+            "matched": true
+          },
+          "dn23:19.14": {
+            "scid": "dn23:19.14",
+            "pli": "‘vadehi, bho saṅkha, vadehi, bho saṅkhā’ti. ",
+            "de": "‚<span class=\"ebt-matched\">Sprich, gutes Horn</span>! <span class=\"ebt-matched\">Sprich, gutes Horn</span>!‘ ",
+            "en": "‘Speak, good horn! Speak, good horn!’ ",
+            "matched": true
+          }
+        },
+        "score": 2.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 23\nMit Pāyāsi",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 715,
+          "de": 636,
+          "en": 713
+        }
+      }
+    ]
+  }
+}

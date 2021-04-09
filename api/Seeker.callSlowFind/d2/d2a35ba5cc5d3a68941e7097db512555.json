@@ -1,0 +1,258 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wiedergeburt in der",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wiedergeburt in der",
+    "method": "phrase",
+    "resultPattern": "\\bwiedergeburt in der",
+    "segsMatched": 10,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn19_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn19_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn19_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.54_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.54_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.54_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.179_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.179_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.179_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn19/de/sabbamitta",
+      "an6.54/de/sabbamitta",
+      "an5.179/de/sabbamitta",
+      "dn17/de/sabbamitta",
+      "an7.66/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn19_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn19_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn19_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn19",
+        "lang": "de",
+        "segMap": {
+          "dn19:50.9": {
+            "scid": "dn19:50.9",
+            "pli": "brahmalokūpapattiyā”ti. ",
+            "de": "zur <span class=\"ebt-matched\">Wiedergeburt in der</span> Brahmāwelt.“ ",
+            "en": "leads to rebirth in the Brahmā realm.” ",
+            "matched": true
+          },
+          "dn19:59.5": {
+            "scid": "dn19:59.5",
+            "pli": "Sāvakānañca brahmalokasahabyatāya maggaṁ desesi. ",
+            "de": "Und er lehrte seine Schüler den Weg zur <span class=\"ebt-matched\">Wiedergeburt in der</span> Gemeinschaft mit Brahmā. ",
+            "en": "And he taught his disciples the path to rebirth in the company of Brahmā. ",
+            "matched": true
+          },
+          "dn19:61.3": {
+            "scid": "dn19:61.3",
+            "pli": "Ahaṁ tesaṁ sāvakānaṁ brahmalokasahabyatāya maggaṁ desesiṁ. ",
+            "de": "Ich lehrte diese Schüler und Schülerinnen den Weg zur <span class=\"ebt-matched\">Wiedergeburt in der</span> Gemeinschaft mit Brahmā. ",
+            "en": "And I taught those disciples the path to rebirth in the company of Brahmā. ",
+            "matched": true
+          },
+          "dn19:61.4": {
+            "scid": "dn19:61.4",
+            "pli": "Taṁ kho pana me, pañcasikha, brahmacariyaṁ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati, yāvadeva brahmalokūpapattiyā. ",
+            "de": "Aber jener spirituelle Pfad führt nicht zu Ernüchterung, Sichabwenden, Aufhören, Frieden, Einsicht, Erwachen und Erlöschen. Er führt nur bis zur <span class=\"ebt-matched\">Wiedergeburt in der</span> Brahmāwelt. ",
+            "en": "But that spiritual path of mine doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. It only leads as far as rebirth in the Brahmā realm. ",
+            "matched": true
+          }
+        },
+        "score": 4.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 19\nDer Große Verwalter",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 559,
+          "de": 479,
+          "en": 558
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.179_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.179_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.179_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.179",
+        "lang": "de",
+        "segMap": {
+          "an5.179:1.4": {
+            "scid": "an5.179:1.4",
+            "pli": "‘khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto, sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo’ti. ",
+            "de": "‚Ich habe mit der <span class=\"ebt-matched\">Wiedergeburt in der</span> Hölle, dem Tierreich und dem Geisterreich abgeschlossen. Mit allen verlorenen Orten habe ich abgeschlossen, mit allen schlechten Orten, mit der Unterwelt. Ich bin in die Strömung eingetaucht! Ich muss nicht mehr in der Unterwelt wiedergeboren werden und bin auf dem Weg zum Erwachen.‘ ",
+            "en": "‘I’ve finished with rebirth in hell, the animal realm, and the ghost realm. I’ve finished with all places of loss, bad places, the underworld. I am a stream-enterer! I’m not liable to be reborn in the underworld, and am bound for awakening.’ ",
+            "matched": true
+          },
+          "an5.179:7.2": {
+            "scid": "an5.179:7.2",
+            "pli": "‘khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto, sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo’ti. ",
+            "de": "‚Ich habe mit der <span class=\"ebt-matched\">Wiedergeburt in der</span> Hölle, dem Tierreich und dem Geisterreich abgeschlossen. Mit allen verlorenen Orten habe ich abgeschlossen, mit allen schlechten Orten, mit der Unterwelt. Ich bin in die Strömung eingetaucht! Ich muss nicht mehr in der Unterwelt wiedergeboren werden und bin auf dem Weg zum Erwachen.‘ ",
+            "en": "‘I’ve finished with rebirth in hell, the animal realm, and the ghost realm. I’ve finished with all places of loss, bad places, the underworld. I am a stream-enterer! I’m not liable to be reborn in the underworld, and am bound for awakening.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n18. Ein Laienschüler\n179. Ein Laie",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 86,
+          "de": 85,
+          "en": 85
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.54_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.54_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.54_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.54",
+        "lang": "de",
+        "segMap": {
+          "an6.54:13.9": {
+            "scid": "an6.54:13.9",
+            "pli": "Sunetto satthā sāvakānaṁ brahmalokasahabyatāya dhammaṁ desesi. ",
+            "de": "Er lehrte sie den Weg zur <span class=\"ebt-matched\">Wiedergeburt in der</span> Gemeinschaft mit Brahmā. ",
+            "en": "He taught them the path to rebirth in the company of Brahmā. ",
+            "matched": true
+          },
+          "an6.54:18.3": {
+            "scid": "an6.54:18.3",
+            "pli": "Jotipālo satthā sāvakānaṁ brahmalokasahabyatāya dhammaṁ desesi. ",
+            "de": "Er lehrte sie den Weg zur <span class=\"ebt-matched\">Wiedergeburt in der</span> Gemeinschaft mit Brahmā. ",
+            "en": "He taught them the way to rebirth in the company of Brahmā. ",
+            "matched": true
+          }
+        },
+        "score": 2.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n5. Über Dhammika\n54. Über Dhammika",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 171,
+          "de": 153,
+          "en": 169
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.66",
+        "lang": "de",
+        "segMap": {
+          "an7.66:11.3": {
+            "scid": "an7.66:11.3",
+            "pli": "Sunetto, bhikkhave, satthā sāvakānaṁ brahmalokasahabyatāya dhammaṁ desesi. ",
+            "de": "Er lehrte sie den Weg zur <span class=\"ebt-matched\">Wiedergeburt in der</span> Gemeinschaft mit Brahmā. ",
+            "en": "He taught them the path to rebirth in the company of Brahmā. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 7\n7. Das große Kapitel\n66. Die sieben Sonnen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 95,
+          "de": 89,
+          "en": 94
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn17",
+        "lang": "de",
+        "segMap": {
+          "dn17:2.13.0": {
+            "scid": "dn17:2.13.0",
+            "pli": "8. Brahmalokūpagama ",
+            "de": "8. <span class=\"ebt-matched\">Wiedergeburt in der</span> Brahmāwelt ",
+            "en": "8. Rebirth in the Brahmā Realm ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 17\nDer König Mahāsudassana",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 444,
+          "de": 359,
+          "en": 443
+        }
+      }
+    ]
+  }
+}

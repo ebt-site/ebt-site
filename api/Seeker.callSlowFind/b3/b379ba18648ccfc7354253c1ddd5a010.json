@@ -1,0 +1,112 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "kinds of reproduction",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "kinds of reproduction",
+    "method": "phrase",
+    "resultPattern": "\\bkinds of reproduction",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn12_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn12_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn12/en/sujato",
+      "dn33/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn12_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn12",
+        "lang": "en",
+        "segMap": {
+          "mn12:32.1": {
+            "scid": "mn12:32.1",
+            "pli": "Catasso kho imā, sāriputta, yoniyo. ",
+            "en": "Sāriputta, there are these four <span class=\"ebt-matched\">kinds of reproduction</span>. ",
+            "matched": true
+          },
+          "mn12:33.13": {
+            "scid": "mn12:33.13",
+            "pli": "Imā kho, sāriputta, catasso yoniyo. ",
+            "en": "These are the four <span class=\"ebt-matched\">kinds of reproduction</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 12\nThe Longer Discourse on the Lion’s Roar",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 372,
+          "en": 371
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:1.11.173": {
+            "scid": "dn33:1.11.173",
+            "pli": "Catasso yoniyo—",
+            "en": "Four <span class=\"ebt-matched\">kinds of reproduction</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

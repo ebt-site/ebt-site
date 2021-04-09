@@ -1,0 +1,168 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "craving is given up",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "craving is given up",
+    "method": "phrase",
+    "resultPattern": "\\bcraving is given up",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn46/sn46.26_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.26_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.257_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.257_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn46.26/en/sujato",
+      "dn22/en/sujato",
+      "an4.257/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.26_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.26",
+        "lang": "en",
+        "segMap": {
+          "sn46.26:2.2": {
+            "scid": "sn46.26:2.2",
+            "pli": "Tassa satisambojjhaṅgaṁ bhāvayato vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ vipulaṁ mahaggataṁ appamāṇaṁ abyāpajjaṁ taṇhā pahīyati. ",
+            "en": "As they do so, <span class=\"ebt-matched\">craving is given up</span>. ",
+            "matched": true
+          },
+          "sn46.26:2.3": {
+            "scid": "sn46.26:2.3",
+            "pli": "Taṇhāya pahānā kammaṁ pahīyati. ",
+            "en": "When <span class=\"ebt-matched\">craving is given up</span>, deeds are given up. ",
+            "matched": true
+          },
+          "sn46.26:2.6": {
+            "scid": "sn46.26:2.6",
+            "pli": "Tassa upekkhāsambojjhaṅgaṁ bhāvayato vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ vipulaṁ mahaggataṁ appamāṇaṁ abyāpajjaṁ taṇhā pahīyati ",
+            "en": "As they do so, <span class=\"ebt-matched\">craving is given up</span>. ",
+            "matched": true
+          },
+          "sn46.26:2.7": {
+            "scid": "sn46.26:2.7",
+            "pli": "taṇhāya pahānā kammaṁ pahīyati. ",
+            "en": "When <span class=\"ebt-matched\">craving is given up</span>, deeds are given up. ",
+            "matched": true
+          }
+        },
+        "score": 4.19,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 46\n3. With Udāyī\n26. The Ending of Craving",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn22",
+        "lang": "en",
+        "segMap": {
+          "dn22:20.4": {
+            "scid": "dn22:20.4",
+            "pli": "Yaṁ loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. ",
+            "en": "Whatever in the world seems nice and pleasant, it is there that <span class=\"ebt-matched\">craving is given up</span> and ceases. ",
+            "matched": true
+          },
+          "dn22:20.6": {
+            "scid": "dn22:20.6",
+            "pli": "Cakkhu loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. ",
+            "en": "The eye in the world seems nice and pleasant, and it is there that <span class=\"ebt-matched\">craving is given up</span> and ceases. … ",
+            "matched": true
+          },
+          "dn22:20.65": {
+            "scid": "dn22:20.65",
+            "pli": "dhammavicāro loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. ",
+            "en": "Considerations regarding thoughts in the world seem nice and pleasant, and it is there that <span class=\"ebt-matched\">craving is given up</span> and ceases. ",
+            "matched": true
+          }
+        },
+        "score": 3.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 22\nThe Longer Discourse on Mindfulness Meditation",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 454,
+          "en": 453
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.257_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.257_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.257",
+        "lang": "en",
+        "segMap": {
+          "an4.257:3.8": {
+            "scid": "an4.257:3.8",
+            "pli": "Yato kho, mālukyaputta, bhikkhuno taṇhā pahīnā hoti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā, ayaṁ vuccati, mālukyaputta, ‘bhikkhu acchecchi taṇhaṁ, vivattayi saṁyojanaṁ, sammā mānābhisamayā antamakāsi dukkhassā’”ti. ",
+            "en": "That <span class=\"ebt-matched\">craving is given up</span> by a mendicant, cut off at the root, made like a palm stump, obliterated, and unable to arise in the future. Then they’re called a mendicant who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.” ",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n26. Insight\n257. With Māluṅkyaputta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      }
+    ]
+  }
+}

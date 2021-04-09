@@ -1,0 +1,234 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "letting go of attachments",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "letting go of attachments",
+    "method": "phrase",
+    "resultPattern": "\\bletting go of attachments",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn46/sn46.17_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.17_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn45/sn45.34_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn45/sn45.34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.170_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.170_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.169_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.169_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.118_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.118_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.117_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.117_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn46.17/en/sujato",
+      "sn45.34/en/sujato",
+      "an10.170/en/sujato",
+      "an10.169/en/sujato",
+      "an10.118/en/sujato",
+      "an10.117/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.17_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.17_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.17",
+        "lang": "en",
+        "segMap": {
+          "sn46.17:6.3": {
+            "scid": "sn46.17:6.3",
+            "pli": "Ādānappaṭinissagge, ",
+            "en": "<span class=\"ebt-matched\">letting go of attachments</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 46\n2. Sick\n17. Going to the Far Shore",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 30,
+          "en": 29
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn45/sn45.34_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn45/sn45.34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn45.34",
+        "lang": "en",
+        "segMap": {
+          "sn45.34:7.3": {
+            "scid": "sn45.34:7.3",
+            "pli": "Ādānapaṭinissagge, ",
+            "en": "<span class=\"ebt-matched\">letting go of attachments</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 45\n4. Practice\n34. Going to the Far Shore",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.118_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.118_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.118",
+        "lang": "en",
+        "segMap": {
+          "an10.118:7.3": {
+            "scid": "an10.118:7.3",
+            "pli": "Ādānapaṭinissagge, ",
+            "en": "<span class=\"ebt-matched\">letting go of attachments</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n12. The Ceremony of Descent\n118. The Near Shore",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 34,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.117_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.117_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.117",
+        "lang": "en",
+        "segMap": {
+          "an10.117:6.3": {
+            "scid": "an10.117:6.3",
+            "pli": "Ādānapaṭinissagge, ",
+            "en": "who, <span class=\"ebt-matched\">letting go of attachments</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n12. The Ceremony of Descent\n117. With Saṅgārava",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 40,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.169_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.169_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.169",
+        "lang": "en",
+        "segMap": {
+          "an10.169:7.3": {
+            "scid": "an10.169:7.3",
+            "pli": "Ādānapaṭinissagge, ",
+            "en": "<span class=\"ebt-matched\">letting go of attachments</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n17. With Jāṇussoṇi\n169. With Saṅgārava",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 40,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.170_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.170_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.170",
+        "lang": "en",
+        "segMap": {
+          "an10.170:6.3": {
+            "scid": "an10.170:6.3",
+            "pli": "Ādānapaṭinissagge, ",
+            "en": "<span class=\"ebt-matched\">letting go of attachments</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n17. With Jāṇussoṇi\n170. The Near Shore",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 40,
+          "en": 39
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "half the spiritual life",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "half the spiritual life",
+    "method": "phrase",
+    "resultPattern": "\\bhalf the spiritual life",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn45/sn45.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn45/sn45.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn3/sn3.18_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn3/sn3.18_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn45.2/en/sujato",
+      "sn3.18/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn45/sn45.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn45/sn45.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn45.2",
+        "lang": "en",
+        "segMap": {
+          "sn45.2:0.3": {
+            "scid": "sn45.2:0.3",
+            "pli": "2. Upaḍḍhasutta ",
+            "en": "2. <span class=\"ebt-matched\">Half the Spiritual Life</span> ",
+            "matched": true
+          },
+          "sn45.2:1.4": {
+            "scid": "sn45.2:1.4",
+            "pli": "“upaḍḍhamidaṁ, bhante, brahmacariyaṁ, yadidaṁ—kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā”ti. ",
+            "en": "“Sir, good friends, companions, and associates are <span class=\"ebt-matched\">half the spiritual life</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 2.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 45\n1. Ignorance\n2. Half the Spiritual Life",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn3/sn3.18_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn3/sn3.18_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn3.18",
+        "lang": "en",
+        "segMap": {
+          "sn3.18:3.3": {
+            "scid": "sn3.18:3.3",
+            "pli": "‘upaḍḍhamidaṁ, bhante, brahmacariyassa—yadidaṁ kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā’ti. ",
+            "en": "‘Sir, good friends, companions, and associates are <span class=\"ebt-matched\">half the spiritual life</span>.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 3\n2. Childless\n18. Good Friends",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 52,
+          "en": 52
+        }
+      }
+    ]
+  }
+}

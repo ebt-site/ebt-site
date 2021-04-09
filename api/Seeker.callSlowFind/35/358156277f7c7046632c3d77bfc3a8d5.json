@@ -1,0 +1,288 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "topics for recollection",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "topics for recollection",
+    "method": "phrase",
+    "resultPattern": "\\btopics for recollection",
+    "segsMatched": 15,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.29_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.29_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.25_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.25_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.26_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.26_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.29/en/sujato",
+      "an6.9/en/sujato",
+      "an6.25/en/sujato",
+      "an6.26/en/sujato",
+      "dn34/en/sujato",
+      "dn33/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.29_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.29",
+        "lang": "en",
+        "segMap": {
+          "an6.29:1.2": {
+            "scid": "an6.29:1.2",
+            "pli": "“kati nu kho, udāyi, anussatiṭṭhānānī”ti? ",
+            "en": "“Udāyī, how many <span class=\"ebt-matched\">topics for recollection</span> are there?” ",
+            "matched": true
+          },
+          "an6.29:1.8": {
+            "scid": "an6.29:1.8",
+            "pli": "“kati nu kho, udāyi, anussatiṭṭhānānī”ti? ",
+            "en": "“Udāyī, how many <span class=\"ebt-matched\">topics for recollection</span> are there?” ",
+            "matched": true
+          },
+          "an6.29:3.4": {
+            "scid": "an6.29:3.4",
+            "pli": "Kati nu kho, ānanda, anussatiṭṭhānānī”ti? ",
+            "en": "Ānanda, how many <span class=\"ebt-matched\">topics for recollection</span> are there?” ",
+            "matched": true
+          },
+          "an6.29:4.1": {
+            "scid": "an6.29:4.1",
+            "pli": "“Pañca, bhante, anussatiṭṭhānāni. ",
+            "en": "“Sir, there are five <span class=\"ebt-matched\">topics for recollection</span>. ",
+            "matched": true
+          },
+          "an6.29:10.3": {
+            "scid": "an6.29:10.3",
+            "pli": "Imāni kho, bhante, pañca anussatiṭṭhānānī”ti. ",
+            "en": "These are the five <span class=\"ebt-matched\">topics for recollection</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 5.096,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n3. Unsurpassable\n29. With Udāyī",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 52,
+          "en": 51
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.9",
+        "lang": "en",
+        "segMap": {
+          "an6.9:0.3": {
+            "scid": "an6.9:0.3",
+            "pli": "9. Anussatiṭṭhānasutta ",
+            "en": "9. <span class=\"ebt-matched\">Topics for Recollection</span> ",
+            "matched": true
+          },
+          "an6.9:1.1": {
+            "scid": "an6.9:1.1",
+            "pli": "“Chayimāni, bhikkhave, anussatiṭṭhānāni. ",
+            "en": "“Mendicants, there are these six <span class=\"ebt-matched\">topics for recollection</span>. ",
+            "matched": true
+          },
+          "an6.9:1.4": {
+            "scid": "an6.9:1.4",
+            "pli": "Imāni kho, bhikkhave, cha anussatiṭṭhānānī”ti. ",
+            "en": "These are the six <span class=\"ebt-matched\">topics for recollection</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 3.375,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n1. Worthy of Offerings\n9. Topics for Recollection",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.25_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.25",
+        "lang": "en",
+        "segMap": {
+          "an6.25:0.3": {
+            "scid": "an6.25:0.3",
+            "pli": "25. Anussatiṭṭhānasutta ",
+            "en": "25. <span class=\"ebt-matched\">Topics for Recollection</span> ",
+            "matched": true
+          },
+          "an6.25:1.1": {
+            "scid": "an6.25:1.1",
+            "pli": "“Chayimāni, bhikkhave, anussatiṭṭhānāni. ",
+            "en": "“Mendicants, there are these six <span class=\"ebt-matched\">topics for recollection</span>. ",
+            "matched": true
+          },
+          "an6.25:8.1": {
+            "scid": "an6.25:8.1",
+            "pli": "Imāni kho, bhikkhave, cha anussatiṭṭhānānī”ti. ",
+            "en": "These are the six <span class=\"ebt-matched\">topics for recollection</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 3.065,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n3. Unsurpassable\n25. Topics for Recollection",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 46,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.26_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.26",
+        "lang": "en",
+        "segMap": {
+          "an6.26:1.7": {
+            "scid": "an6.26:1.7",
+            "pli": "Yāvañcidaṁ tena bhagavatā jānatā passatā arahatā sammāsambuddhena sambādhe okāsādhigamo anubuddho sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ cha anussatiṭṭhānāni. ",
+            "en": "How this Blessed One who knows and sees, the perfected one, the fully awakened Buddha, has found an opening in a confined space; that is, the six <span class=\"ebt-matched\">topics for recollection</span>. They are in order to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to end the cycle of suffering, and to realize extinguishment. ",
+            "matched": true
+          },
+          "an6.26:8.2": {
+            "scid": "an6.26:8.2",
+            "pli": "Yāvañcidaṁ tena bhagavatā jānatā passatā arahatā sammāsambuddhena sambādhe okāsādhigamo anubuddho sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ cha anussatiṭṭhānānī”ti. ",
+            "en": "How this Blessed One who knows and sees, the perfected one, the fully awakened Buddha, has found an opening in a confined space; that is, the six <span class=\"ebt-matched\">topics for recollection</span>. They are in order to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to end the cycle of suffering, and to realize extinguishment.” ",
+            "matched": true
+          }
+        },
+        "score": 2.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n3. Unsurpassable\n26. With Mahākaccāna",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 61,
+          "en": 56
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:2.2.114": {
+            "scid": "dn33:2.2.114",
+            "pli": "Cha anussatiṭṭhānāni—",
+            "en": "Six <span class=\"ebt-matched\">topics for recollection</span>:",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.7.14": {
+            "scid": "dn34:1.7.14",
+            "pli": "Cha anussatiṭṭhānāni—",
+            "en": "Six <span class=\"ebt-matched\">topics for recollection</span>:",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

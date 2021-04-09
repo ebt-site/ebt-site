@@ -1,0 +1,180 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "three characteristics",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "three characteristics",
+    "method": "phrase",
+    "resultPattern": "\\bthree characteristics",
+    "segsMatched": 10,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.47_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.47_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn129_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn129_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.47/en/sujato",
+      "an3.3/en/sujato",
+      "mn129/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.47_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.47_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.47",
+        "lang": "en",
+        "segMap": {
+          "an3.47:1.1": {
+            "scid": "an3.47:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, saṅkhatassa saṅkhatalakkhaṇāni. ",
+            "en": "“Mendicants, conditioned phenomena have these <span class=\"ebt-matched\">three characteristics</span>. ",
+            "matched": true
+          },
+          "an3.47:1.4": {
+            "scid": "an3.47:1.4",
+            "pli": "Imāni kho, bhikkhave, tīṇi saṅkhatassa saṅkhatalakkhaṇānī”ti. ",
+            "en": "These are the <span class=\"ebt-matched\">three characteristics</span> of conditioned phenomena.” ",
+            "matched": true
+          },
+          "an3.47:2.1": {
+            "scid": "an3.47:2.1",
+            "pli": "“Tīṇimāni, bhikkhave, asaṅkhatassa asaṅkhatalakkhaṇāni. ",
+            "en": "“Unconditioned phenomena have these <span class=\"ebt-matched\">three characteristics</span>. ",
+            "matched": true
+          },
+          "an3.47:2.4": {
+            "scid": "an3.47:2.4",
+            "pli": "Imāni kho, bhikkhave, tīṇi asaṅkhatassa asaṅkhatalakkhaṇānī”ti. ",
+            "en": "These are the <span class=\"ebt-matched\">three characteristics</span> of unconditioned phenomena.” ",
+            "matched": true
+          }
+        },
+        "score": 4.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n5. The Lesser Chapter\n47. Characteristics of the Conditioned",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.3",
+        "lang": "en",
+        "segMap": {
+          "an3.3:1.1": {
+            "scid": "an3.3:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni. ",
+            "en": "“There are these <span class=\"ebt-matched\">three characteristics</span>, signs, and manifestations of a fool. ",
+            "matched": true
+          },
+          "an3.3:1.8": {
+            "scid": "an3.3:1.8",
+            "pli": "Imāni kho, bhikkhave, tīṇi bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni. ",
+            "en": "These are the <span class=\"ebt-matched\">three characteristics</span>, signs, and manifestations of a fool. ",
+            "matched": true
+          },
+          "an3.3:2.1": {
+            "scid": "an3.3:2.1",
+            "pli": "Tīṇimāni, bhikkhave, paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. ",
+            "en": "There are these <span class=\"ebt-matched\">three characteristics</span>, signs, and manifestations of an astute person. ",
+            "matched": true
+          },
+          "an3.3:2.8": {
+            "scid": "an3.3:2.8",
+            "pli": "Imāni kho, bhikkhave, tīṇi paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. ",
+            "en": "These are the <span class=\"ebt-matched\">three characteristics</span>, signs, and manifestations of an astute person. ",
+            "matched": true
+          }
+        },
+        "score": 4.19,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n1. Fools\n3. Thinking",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn129_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn129_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn129",
+        "lang": "en",
+        "segMap": {
+          "mn129:2.1": {
+            "scid": "mn129:2.1",
+            "pli": "“Tīṇimāni, bhikkhave, bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni. ",
+            "en": "“These are the <span class=\"ebt-matched\">three characteristics</span>, signs, and manifestations of a fool. ",
+            "matched": true
+          },
+          "mn129:27.1": {
+            "scid": "mn129:27.1",
+            "pli": "Tīṇimāni, bhikkhave, paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. ",
+            "en": "There are these <span class=\"ebt-matched\">three characteristics</span>, signs, and manifestations of an astute person. ",
+            "matched": true
+          }
+        },
+        "score": 2.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 129\nThe Foolish and the Astute",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 303,
+          "en": 302
+        }
+      }
+    ]
+  }
+}

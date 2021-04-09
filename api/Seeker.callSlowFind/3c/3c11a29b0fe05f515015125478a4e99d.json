@@ -1,0 +1,276 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "find peace",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "find peace",
+    "method": "phrase",
+    "resultPattern": "\\bfind peace",
+    "segsMatched": 13,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig6.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig6.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig5.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig5.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig3.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig3.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig3.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig3.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig2.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig2.10_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn2/en/sujato",
+      "thig6.8/en/sujato",
+      "thig5.1/en/sujato",
+      "thig3.2/en/sujato",
+      "thig3.1/en/sujato",
+      "thig2.10/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn2",
+        "lang": "en",
+        "segMap": {
+          "dn2:1.6": {
+            "scid": "dn2:1.6",
+            "pli": "Kaṁ nu khvajja samaṇaṁ vā brāhmaṇaṁ vā payirupāseyyāma, yaṁ no payirupāsato cittaṁ pasīdeyyā”ti? ",
+            "en": "Now, what ascetic or brahmin might I pay homage to today, paying homage to whom my mind might <span class=\"ebt-matched\">find peace</span>?” ",
+            "matched": true
+          },
+          "dn2:2.4": {
+            "scid": "dn2:2.4",
+            "pli": "Appeva nāma devassa pūraṇaṁ kassapaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
+            "matched": true
+          },
+          "dn2:3.4": {
+            "scid": "dn2:3.4",
+            "pli": "Appeva nāma devassa makkhaliṁ gosālaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
+            "matched": true
+          },
+          "dn2:4.4": {
+            "scid": "dn2:4.4",
+            "pli": "Appeva nāma devassa ajitaṁ kesakambalaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
+            "matched": true
+          },
+          "dn2:5.4": {
+            "scid": "dn2:5.4",
+            "pli": "Appeva nāma devassa pakudhaṁ kaccāyanaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
+            "matched": true
+          },
+          "dn2:6.4": {
+            "scid": "dn2:6.4",
+            "pli": "Appeva nāma devassa sañcayaṁ belaṭṭhaputtaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
+            "matched": true
+          },
+          "dn2:7.4": {
+            "scid": "dn2:7.4",
+            "pli": "Appeva nāma devassa nigaṇṭhaṁ nāṭaputtaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
+            "matched": true
+          },
+          "dn2:8.8": {
+            "scid": "dn2:8.8",
+            "pli": "Appeva nāma devassa bhagavantaṁ payirupāsato cittaṁ pasīdeyyā”ti. ",
+            "en": "Hopefully in so doing your mind will <span class=\"ebt-matched\">find peace</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 8.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 2\nThe Fruits of the Ascetic Life\n1. A Discussion With the King’s Ministers",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 649,
+          "en": 632
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig2.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig2.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig2.10",
+        "lang": "en",
+        "segMap": {
+          "thig2.10:1.3": {
+            "scid": "thig2.10:1.3",
+            "pli": "Aladdhā cetaso santiṁ,",
+            "en": "I had failed to <span class=\"ebt-matched\">find peace</span> of heart,",
+            "matched": true
+          }
+        },
+        "score": 1.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Book of the Twos\n2.10. Sāmā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 16,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig3.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig3.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig3.1",
+        "lang": "en",
+        "segMap": {
+          "thig3.1:2.1": {
+            "scid": "thig3.1:2.1",
+            "pli": "Aladdhā cetaso santiṁ,",
+            "en": "I had failed to <span class=\"ebt-matched\">find peace</span> of heart,",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Book of the Threes\n3.1. Another Sāmā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig3.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig3.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig3.2",
+        "lang": "en",
+        "segMap": {
+          "thig3.2:1.3": {
+            "scid": "thig3.2:1.3",
+            "pli": "Aladdhā cetaso santiṁ,",
+            "en": "I had failed to <span class=\"ebt-matched\">find peace</span> of heart,",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Book of the Threes\n3.2. Uttamā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig5.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig5.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig5.1",
+        "lang": "en",
+        "segMap": {
+          "thig5.1:2.1": {
+            "scid": "thig5.1:2.1",
+            "pli": "Aladdhā cetaso santiṁ,",
+            "en": "Failing to <span class=\"ebt-matched\">find peace</span> of heart,",
+            "matched": true
+          }
+        },
+        "score": 1.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Book of the Fives\n5.1. An Unnamed Nun (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 26,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig6.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig6.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig6.8",
+        "lang": "en",
+        "segMap": {
+          "thig6.8:1.3": {
+            "scid": "thig6.8:1.3",
+            "pli": "Aladdhā cetaso santiṁ,",
+            "en": "I had failed to <span class=\"ebt-matched\">find peace</span> of heart,",
+            "matched": true
+          }
+        },
+        "score": 1.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Book of the Sixes\n6.8. Vijayā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 30,
+          "en": 28
+        }
+      }
+    ]
+  }
+}

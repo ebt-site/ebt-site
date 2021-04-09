@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "traurigkeit, die mit sinnlichkeit",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "traurigkeit, die mit sinnlichkeit",
+    "method": "phrase",
+    "resultPattern": "\\btraurigkeit, die mit sinnlichkeit",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.176_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.176_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.176_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.176/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.176_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.176_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.176_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.176",
+        "lang": "de",
+        "segMap": {
+          "an5.176:3.11": {
+            "scid": "an5.176:3.11",
+            "pli": "Yampissa kāmūpasaṁhitaṁ dukkhaṁ domanassaṁ, tampissa tasmiṁ samaye na hoti. ",
+            "de": "Schmerz und <span class=\"ebt-matched\">Traurigkeit, die mit Sinnlichkeit</span> verbunden sind. ",
+            "en": "The pain and sadness connected with sensual pleasures. ",
+            "matched": true
+          },
+          "an5.176:4.3": {
+            "scid": "an5.176:4.3",
+            "pli": "Yampissa kāmūpasaṁhitaṁ dukkhaṁ domanassaṁ, tampissa tasmiṁ samaye na hoti. ",
+            "de": "Schmerz und <span class=\"ebt-matched\">Traurigkeit, die mit Sinnlichkeit</span> verbunden sind. ",
+            "en": "The pain and sadness connected with sensual pleasures. ",
+            "matched": true
+          }
+        },
+        "score": 2.057,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n18. Ein Laienschüler\n176. Ekstase",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 35,
+          "de": 32,
+          "en": 34
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "all the suffering that arises",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "all the suffering that arises",
+    "method": "phrase",
+    "resultPattern": "\\ball the suffering that arises",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn42/sn42.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn42/sn42.11_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn42.11/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn42/sn42.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn42/sn42.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn42.11",
+        "lang": "en",
+        "segMap": {
+          "sn42.11:2.16": {
+            "scid": "sn42.11:2.16",
+            "pli": "‘yaṁ kiñci dukkhaṁ uppajjamānaṁ uppajjati, sabbaṁ taṁ chandamūlakaṁ chandanidānaṁ. ",
+            "en": "‘<span class=\"ebt-matched\">All the suffering that arises</span> is rooted and sourced in desire. ",
+            "matched": true
+          },
+          "sn42.11:3.5": {
+            "scid": "sn42.11:3.5",
+            "pli": "‘yaṁ kiñci dukkhaṁ uppajjamānaṁ uppajjati, sabbaṁ taṁ chandamūlakaṁ chandanidānaṁ. ",
+            "en": "‘<span class=\"ebt-matched\">All the suffering that arises</span> is rooted and sourced in desire. ",
+            "matched": true
+          },
+          "sn42.11:5.5": {
+            "scid": "sn42.11:5.5",
+            "pli": "‘yaṁ kiñci dukkhaṁ uppajjamānaṁ uppajjati, sabbaṁ taṁ chandamūlakaṁ chandanidānaṁ. ",
+            "en": "‘<span class=\"ebt-matched\">All the suffering that arises</span> is rooted and sourced in desire. ",
+            "matched": true
+          }
+        },
+        "score": 3.055,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 42\n1. Chiefs\n11. With Bhadraka",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 55,
+          "en": 54
+        }
+      }
+    ]
+  }
+}

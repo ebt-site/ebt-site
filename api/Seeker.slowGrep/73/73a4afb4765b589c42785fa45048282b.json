@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bgain unification of mind",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn51/sn51.13_translation-en-sujato.json:4",
+    "translation/en/sujato/sutta/an/an1/an1.333-377_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn48/sn48.50_translation-en-sujato.json:1"
+  ]
+}

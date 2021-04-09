@@ -1,0 +1,138 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "retreat for three months",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "retreat for three months",
+    "method": "phrase",
+    "resultPattern": "\\bretreat for three months",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn54/sn54.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn54/sn54.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn54/sn54.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn54/sn54.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn45/sn45.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn45/sn45.12_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn54.12/en/sujato",
+      "sn54.11/en/sujato",
+      "sn45.12/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn45/sn45.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn45/sn45.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn45.12",
+        "lang": "en",
+        "segMap": {
+          "sn45.12:1.2": {
+            "scid": "sn45.12:1.2",
+            "pli": "“Icchāmahaṁ, bhikkhave, temāsaṁ paṭisallīyituṁ. ",
+            "en": "“Mendicants, I wish to go on <span class=\"ebt-matched\">retreat for three months</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 45\n2. Meditation\n12. Meditation (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn54/sn54.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn54/sn54.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn54.11",
+        "lang": "en",
+        "segMap": {
+          "sn54.11:1.3": {
+            "scid": "sn54.11:1.3",
+            "pli": "“icchāmahaṁ, bhikkhave, temāsaṁ paṭisallīyituṁ. ",
+            "en": "“Mendicants, I wish to go on <span class=\"ebt-matched\">retreat for three months</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 54\nChapter Two\n11. Icchānaṅgala",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn54/sn54.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn54/sn54.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn54.12",
+        "lang": "en",
+        "segMap": {
+          "sn54.12:6.3": {
+            "scid": "sn54.12:6.3",
+            "pli": "‘icchāmahaṁ, bhikkhave, temāsaṁ paṭisallīyituṁ. ",
+            "en": "‘Mendicants, I wish to go on <span class=\"ebt-matched\">retreat for three months</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 54\nChapter Two\n12. In Doubt",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 50,
+          "en": 49
+        }
+      }
+    ]
+  }
+}

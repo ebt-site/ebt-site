@@ -1,0 +1,176 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "adornment and requisite",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "adornment and requisite",
+    "method": "phrase",
+    "resultPattern": "\\badornment and requisite",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an7/an7.52_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.52_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.33_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.31_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.31_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an7.52/en/sujato",
+      "dn33/en/sujato",
+      "an8.33/en/sujato",
+      "an8.31/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.52_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.52_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.52",
+        "lang": "en",
+        "segMap": {
+          "an7.52:11.2": {
+            "scid": "an7.52:11.2",
+            "pli": "api ca kho cittālaṅkāracittaparikkhāraṁ dānaṁ deti. ",
+            "en": "But they give a gift thinking, ‘This is an <span class=\"ebt-matched\">adornment and requisite</span> for the mind.’ ",
+            "matched": true
+          },
+          "an7.52:12.11": {
+            "scid": "an7.52:12.11",
+            "pli": "api ca kho cittālaṅkāracittaparikkhāraṁ dānaṁ deti. ",
+            "en": "but thinking, ‘This is an <span class=\"ebt-matched\">adornment and requisite</span> for the mind’, ",
+            "matched": true
+          }
+        },
+        "score": 2.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n5. A Great Sacrifice\n52. A Very Fruitful Gift",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 58,
+          "en": 57
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.33_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.33",
+        "lang": "en",
+        "segMap": {
+          "an8.33:1.3": {
+            "scid": "an8.33:1.3",
+            "pli": "Chandā dānaṁ deti, dosā dānaṁ deti, mohā dānaṁ deti, bhayā dānaṁ deti, ‘dinnapubbaṁ katapubbaṁ pitupitāmahehi, nārahāmi porāṇaṁ kulavaṁsaṁ hāpetun’ti dānaṁ deti, ‘imāhaṁ dānaṁ datvā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjissāmī’ti dānaṁ deti, ‘imaṁ me dānaṁ dadato cittaṁ pasīdati, attamanatā somanassaṁ upajāyatī’ti dānaṁ deti, cittālaṅkāracittaparikkhāratthaṁ dānaṁ deti. ",
+            "en": "A person might give a gift out of favoritism or hostility or stupidity or cowardice. Or they give thinking, ‘Giving was practiced by my father and my father’s father. It would not be right for me to abandon this family tradition.’ Or they give thinking, ‘After I’ve given this gift, when my body breaks up, after death, I’ll be reborn in a good place, a heavenly realm.’ Or they give thinking, ‘When giving this gift my mind becomes clear, and I become happy and joyful.’ Or they give a gift thinking, ‘This is an <span class=\"ebt-matched\">adornment and requisite</span> for the mind.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n4. Giving\n33. Reasons to Give",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.31_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.31_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.31",
+        "lang": "en",
+        "segMap": {
+          "an8.31:1.10": {
+            "scid": "an8.31:1.10",
+            "pli": "cittālaṅkāracittaparikkhāratthaṁ dānaṁ deti. ",
+            "en": "Or they give thinking, ‘This is an <span class=\"ebt-matched\">adornment and requisite</span> for the mind.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n4. Giving\n31. Giving (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:3.1.95": {
+            "scid": "dn33:3.1.95",
+            "pli": "Āsajja dānaṁ deti, bhayā dānaṁ deti, ‘adāsi me’ti dānaṁ deti, ‘dassati me’ti dānaṁ deti, ‘sāhu dānan’ti dānaṁ deti, ‘ahaṁ pacāmi, ime na pacanti, nārahāmi pacanto apacantānaṁ dānaṁ na dātun’ti dānaṁ deti, ‘idaṁ me dānaṁ dadato kalyāṇo kittisaddo abbhuggacchatī’ti dānaṁ deti. ",
+            "en": "A person might give a gift after insulting the recipient. Or they give out of fear. Or they give thinking, ‘They gave to me.’ Or they give thinking, ‘They’ll give to me.’ Or they give thinking, ‘It’s good to give.’ Or they give thinking, ‘I cook, they don’t. It wouldn’t be right for me to not give to them.’ Or they give thinking, ‘By giving this gift I’ll get a good reputation.’ Or they give thinking, ‘This is an <span class=\"ebt-matched\">adornment and requisite</span> for the mind.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

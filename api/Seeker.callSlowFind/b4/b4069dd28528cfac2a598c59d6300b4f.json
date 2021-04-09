@@ -1,0 +1,220 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "den gipfel und den kern",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "den gipfel und den kern",
+    "method": "phrase",
+    "resultPattern": "\\bden gipfel und den kern",
+    "segsMatched": 17,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.93_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.93_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.93_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn25/de/sabbamitta",
+      "an3.93/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "de",
+        "segMap": {
+          "dn25:15.16": {
+            "scid": "dn25:15.16",
+            "pli": "“Addhā kho, bhante, evaṁ sante tapojigucchā parisuddhā hoti no aparisuddhā, aggappattā ca sārappattā cā”ti. ",
+            "de": "„Herr, wenn das so ist, ist die Bußübung aus Ekel vor Sünde offensichtlich geläutert. Sie hat <span class=\"ebt-matched\">den Gipfel und den Kern</span> erreicht.“ ",
+            "en": "“Clearly, sir, it is purified. It has reached the peak and the pith.” ",
+            "matched": true
+          },
+          "dn25:15.17": {
+            "scid": "dn25:15.17",
+            "pli": "“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca; ",
+            "de": "„Nein, Nigrodha, an diesem Punkt hat die Bußübung aus Ekel vor Sünde noch nicht <span class=\"ebt-matched\">den Gipfel und den Kern</span> erreicht. ",
+            "en": "“No, Nigrodha, at this point the mortification in disgust of sin has not yet reached the peak and the pith. ",
+            "matched": true
+          },
+          "dn25:16.1": {
+            "scid": "dn25:16.1",
+            "pli": "“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca? ",
+            "de": "„Aber an welchem Punkt, Herr, erreicht die Bußübung aus Ekel vor Sünde <span class=\"ebt-matched\">den Gipfel und den Kern</span>? ",
+            "en": "“But at what point, sir, does the mortification in disgust of sin reach the peak and the pith? ",
+            "matched": true
+          },
+          "dn25:16.2": {
+            "scid": "dn25:16.2",
+            "pli": "Sādhu me, bhante, bhagavā tapojigucchāya aggaññeva pāpetu, sāraññeva pāpetū”ti. ",
+            "de": "Bitte hilf mir, <span class=\"ebt-matched\">den Gipfel und den Kern</span> zu erreichen!“ ",
+            "en": "Please help me reach the peak and the pith!” ",
+            "matched": true
+          },
+          "dn25:17.8": {
+            "scid": "dn25:17.8",
+            "pli": "“Addhā kho, bhante, evaṁ sante tapojigucchā parisuddhā hoti no aparisuddhā, aggappattā ca sārappattā cā”ti. ",
+            "de": "„Herr, wenn das so ist, ist die Bußübung aus Ekel vor Sünde offensichtlich geläutert. Sie hat <span class=\"ebt-matched\">den Gipfel und den Kern</span> erreicht.“ ",
+            "en": "“Clearly, sir, it is purified. It has reached the peak and the pith.” ",
+            "matched": true
+          },
+          "dn25:17.9": {
+            "scid": "dn25:17.9",
+            "pli": "“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca; ",
+            "de": "„Nein, Nigrodha, an diesem Punkt hat die Bußübung aus Ekel vor Sünde noch nicht <span class=\"ebt-matched\">den Gipfel und den Kern</span> erreicht. ",
+            "en": "“No, Nigrodha, at this point the mortification in disgust of sin has not yet reached the peak and the pith. ",
+            "matched": true
+          },
+          "dn25:18.1": {
+            "scid": "dn25:18.1",
+            "pli": "“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca? ",
+            "de": "„Aber an welchem Punkt, Herr, erreicht die Bußübung aus Ekel vor Sünde <span class=\"ebt-matched\">den Gipfel und den Kern</span>? ",
+            "en": "“But at what point, sir, does the mortification in disgust of sin reach the peak and the pith? ",
+            "matched": true
+          },
+          "dn25:18.2": {
+            "scid": "dn25:18.2",
+            "pli": "Sādhu me, bhante, bhagavā tapojigucchāya aggaññeva pāpetu, sāraññeva pāpetū”ti. ",
+            "de": "Bitte hilf mir, <span class=\"ebt-matched\">den Gipfel und den Kern</span> zu erreichen!“ ",
+            "en": "Please help me reach the peak and the pith!” ",
+            "matched": true
+          },
+          "dn25:18.16": {
+            "scid": "dn25:18.16",
+            "pli": "“Addhā kho, bhante, evaṁ sante tapojigucchā parisuddhā hoti, no aparisuddhā, aggappattā ca sārappattā cā”ti. ",
+            "de": "„Herr, wenn das so ist, ist die Bußübung aus Ekel vor Sünde offensichtlich geläutert. Sie hat <span class=\"ebt-matched\">den Gipfel und den Kern</span> erreicht.“ ",
+            "en": "“Clearly, sir, it is purified. It has reached the peak and the pith.” ",
+            "matched": true
+          },
+          "dn25:18.17": {
+            "scid": "dn25:18.17",
+            "pli": "“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca; ",
+            "de": "„Nein, Nigrodha, an diesem Punkt hat die Bußübung aus Ekel vor Sünde noch nicht <span class=\"ebt-matched\">den Gipfel und den Kern</span> erreicht. ",
+            "en": "“No, Nigrodha, at this point the mortification in disgust of sin has not yet reached the peak and the pith. ",
+            "matched": true
+          },
+          "dn25:19.1": {
+            "scid": "dn25:19.1",
+            "pli": "“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca? ",
+            "de": "„Aber an welchem Punkt, Herr, erreicht die Bußübung aus Ekel vor Sünde <span class=\"ebt-matched\">den Gipfel und den Kern</span>? ",
+            "en": "“But at what point, sir, does the mortification in disgust of sin reach the peak and the pith? ",
+            "matched": true
+          },
+          "dn25:19.2": {
+            "scid": "dn25:19.2",
+            "pli": "Sādhu me, bhante, bhagavā tapojigucchāya aggaññeva pāpetu, sāraññeva pāpetū”ti. ",
+            "de": "Bitte hilf mir, <span class=\"ebt-matched\">den Gipfel und den Kern</span> zu erreichen!“ ",
+            "en": "Please help me reach the peak and the pith!” ",
+            "matched": true
+          },
+          "dn25:19.15": {
+            "scid": "dn25:19.15",
+            "pli": "“Addhā kho, bhante, evaṁ sante tapojigucchā parisuddhā hoti no aparisuddhā, aggappattā ca sārappattā cā”ti. ",
+            "de": "„Herr, wenn das so ist, ist die Bußübung aus Ekel vor Sünde offensichtlich geläutert. Sie hat <span class=\"ebt-matched\">den Gipfel und den Kern</span> erreicht.“ ",
+            "en": "“Clearly, sir, it is purified. It has reached the peak and the pith.” ",
+            "matched": true
+          },
+          "dn25:19.16": {
+            "scid": "dn25:19.16",
+            "pli": "“Ettāvatā kho, nigrodha, tapojigucchā aggappattā ca hoti sārappattā ca. ",
+            "de": "„Nigrodha, an diesem Punkt hat die Bußübung aus Ekel vor Sünde <span class=\"ebt-matched\">den Gipfel und den Kern</span> erreicht. ",
+            "en": "“Nigrodha, at this point the mortification in disgust of sin has reached the peak and the pith. ",
+            "matched": true
+          }
+        },
+        "score": 14.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 25\nDas Löwengebrüll in Udumbarikās Kloster\n1. Vom Wanderer Nigrodha",
+        "segsMatched": 14,
+        "langSegs": {
+          "pli": 383,
+          "de": 347,
+          "en": 382
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.93_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.93_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.93_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.93",
+        "lang": "de",
+        "segMap": {
+          "an3.93:5.9": {
+            "scid": "an3.93:5.9",
+            "pli": "Ayaṁ vuccati, bhikkhave, ‘bhikkhu aggappatto sārappatto suddho sāre patiṭṭhito’. ",
+            "de": "nennt man ihn einen Mönch, der <span class=\"ebt-matched\">den Gipfel und den Kern</span> erreicht hat, der rein und im Wesentlichen verankert ist. ",
+            "en": "they’re called a mendicant who has reached the peak and the pith, being pure and grounded in the essential. ",
+            "matched": true
+          },
+          "an3.93:6.13": {
+            "scid": "an3.93:6.13",
+            "pli": "Evamassu tāni, bhikkhave, kassakassa gahapatissa dhaññāni aggappattāni sārappattāni suddhāni sāre patiṭṭhitāni. ",
+            "de": "So erreicht die Ernte des Bauern <span class=\"ebt-matched\">den Gipfel und den Kern</span>, ist rein und besteht nur aus dem Wesentlichen. ",
+            "en": "In this way that farmer’s crop would reach the peak and the pith, being pure and consisting only of what is essential. ",
+            "matched": true
+          },
+          "an3.93:7.4": {
+            "scid": "an3.93:7.4",
+            "pli": "Ayaṁ vuccati, bhikkhave, ‘bhikkhu aggappatto sārappatto suddho sāre patiṭṭhito’”ti. ",
+            "de": "einen Mönch, der <span class=\"ebt-matched\">den Gipfel und den Kern</span> erreicht hat, der rein und im Wesentlichen verankert ist.“ ",
+            "en": "they’re called a mendicant who has reached the peak and the pith, being pure and grounded in the essential.” ",
+            "matched": true
+          }
+        },
+        "score": 3.073,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n10. Ein Salzklümpchen\n93. Abgeschiedenheit",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 41,
+          "de": 40,
+          "en": 40
+        }
+      }
+    ]
+  }
+}

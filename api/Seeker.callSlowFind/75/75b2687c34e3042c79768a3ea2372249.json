@@ -1,0 +1,178 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "weder zustimmen noch.* ablehnen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "weder zustimmen noch.* ablehnen",
+    "method": "phrase",
+    "resultPattern": "\\bweder zustimmen noch.* ablehnen",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.180_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.180_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.180_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn29_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn29_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn29_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.180/de/sabbamitta",
+      "dn29/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.180_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.180_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.180_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.180",
+        "lang": "de",
+        "segMap": {
+          "an4.180:2.5": {
+            "scid": "an4.180:2.5",
+            "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
+            "de": "Dann solltet ihr der Aussage dieses Mönchs <span class=\"ebt-matched\">weder zustimmen noch sie ablehnen</span>. ",
+            "en": "You should neither approve nor dismiss that mendicant’s statement. ",
+            "matched": true
+          },
+          "an4.180:3.4": {
+            "scid": "an4.180:3.4",
+            "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
+            "de": "Dann solltet ihr der Aussage dieses Mönchs <span class=\"ebt-matched\">weder zustimmen noch sie ablehnen</span>. ",
+            "en": "You should neither approve nor dismiss that mendicant’s statement. ",
+            "matched": true
+          },
+          "an4.180:4.5": {
+            "scid": "an4.180:4.5",
+            "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
+            "de": "Dann solltet ihr der Aussage dieser Nonne <span class=\"ebt-matched\">weder zustimmen noch sie ablehnen</span>. ",
+            "en": "You should neither approve nor dismiss that mendicant’s statement. ",
+            "matched": true
+          },
+          "an4.180:5.5": {
+            "scid": "an4.180:5.5",
+            "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
+            "de": "Dann solltet ihr der Aussage dieser Nonne <span class=\"ebt-matched\">weder zustimmen noch sie ablehnen</span>. ",
+            "en": "You should neither approve nor dismiss that mendicant’s statement. ",
+            "matched": true
+          },
+          "an4.180:6.5": {
+            "scid": "an4.180:6.5",
+            "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
+            "de": "Dann solltet ihr der Aussage dieses Mönchs <span class=\"ebt-matched\">weder zustimmen noch sie ablehnen</span>. ",
+            "en": "You should neither approve nor dismiss that mendicant’s statement. ",
+            "matched": true
+          },
+          "an4.180:7.5": {
+            "scid": "an4.180:7.5",
+            "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
+            "de": "Dann solltet ihr der Aussage dieses Mönchs <span class=\"ebt-matched\">weder zustimmen noch sie ablehnen</span>. ",
+            "en": "You should neither approve nor dismiss that mendicant’s statement. ",
+            "matched": true
+          },
+          "an4.180:8.5": {
+            "scid": "an4.180:8.5",
+            "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
+            "de": "Dann solltet ihr der Aussage dieser Nonne <span class=\"ebt-matched\">weder zustimmen noch sie ablehnen</span>. ",
+            "en": "You should neither approve nor dismiss that mendicant’s statement. ",
+            "matched": true
+          },
+          "an4.180:9.5": {
+            "scid": "an4.180:9.5",
+            "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. ",
+            "de": "Dann solltet ihr der Aussage dieser Nonne <span class=\"ebt-matched\">weder zustimmen noch sie ablehnen</span>. ",
+            "en": "You should neither approve nor dismiss that mendicant’s statement. ",
+            "matched": true
+          }
+        },
+        "score": 8.081,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n18. Absicht\n180. Die vier großen Bezugspunkte",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 99,
+          "de": 97,
+          "en": 97
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn29_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn29_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn29_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn29",
+        "lang": "de",
+        "segMap": {
+          "dn29:18.4": {
+            "scid": "dn29:18.4",
+            "pli": "Tassa neva abhinanditabbaṁ na paṭikkositabbaṁ, anabhinanditvā appaṭikkositvā so evamassa vacanīyo: ",
+            "de": "Du solltest dem <span class=\"ebt-matched\">weder zustimmen noch es ablehnen</span>, sondern sagen: ",
+            "en": "You should neither approve nor dismiss them, but say, ",
+            "matched": true
+          },
+          "dn29:19.4": {
+            "scid": "dn29:19.4",
+            "pli": "Tassa neva abhinanditabbaṁ na paṭikkositabbaṁ, anabhinanditvā appaṭikkositvā so evamassa vacanīyo: ",
+            "de": "Du solltest dem <span class=\"ebt-matched\">weder zustimmen noch es ablehnen</span>, sondern sagen: ",
+            "en": "You should neither approve nor dismiss them, but say, ",
+            "matched": true
+          },
+          "dn29:20.4": {
+            "scid": "dn29:20.4",
+            "pli": "Tassa neva abhinanditabbaṁ na paṭikkositabbaṁ; anabhinanditvā appaṭikkositvā so evamassa vacanīyo: ",
+            "de": "Du solltest dem <span class=\"ebt-matched\">weder zustimmen noch es ablehnen</span>, sondern sagen: ",
+            "en": "You should neither approve nor dismiss them, but say, ",
+            "matched": true
+          }
+        },
+        "score": 3.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 29\nEine beeindruckende Lehrrede",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 465,
+          "de": 404,
+          "en": 464
+        }
+      }
+    ]
+  }
+}

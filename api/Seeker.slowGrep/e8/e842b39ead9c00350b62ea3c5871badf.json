@@ -1,0 +1,34 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bfaculty of wisdom",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn48/sn48.9_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn48/sn48.70_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn48/sn48.69_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn48/sn48.68_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn48/sn48.67_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn48/sn48.55_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn48/sn48.54_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn48/sn48.51_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn48/sn48.43_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn48/sn48.11_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn48/sn48.10_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn48/sn48.8_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn48/sn48.50_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn48/sn48.46_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn48/sn48.45_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn117_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an3/an3.21_translation-en-sujato.json:1"
+  ]
+}

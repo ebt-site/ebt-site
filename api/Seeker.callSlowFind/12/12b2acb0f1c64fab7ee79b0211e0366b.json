@@ -1,0 +1,344 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "fünf dinge.* entwickelt werden",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "fünf dinge.* entwickelt werden",
+    "method": "phrase",
+    "resultPattern": "\\bfünf dinge.* entwickelt werden",
+    "segsMatched": 14,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.308-1152_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.308-1152_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.308-1152_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.307_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.307_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.307_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.306_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.306_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.306_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.305_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.305_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.305_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.304_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.304_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.304_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.303_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.303_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.303_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.308-1152/de/sabbamitta",
+      "an5.307/de/sabbamitta",
+      "an5.306/de/sabbamitta",
+      "an5.305/de/sabbamitta",
+      "an5.304/de/sabbamitta",
+      "an5.303/de/sabbamitta",
+      "dn34/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.308-1152_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.308-1152_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.308-1152_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.308-1152",
+        "lang": "de",
+        "segMap": {
+          "an5.308-1152:1.1": {
+            "scid": "an5.308-1152:1.1",
+            "pli": "“Rāgassa, bhikkhave, pariññāya … parikkhayāya … pahānāya … khayāya … vayāya … virāgāya … nirodhāya … cāgāya … paṭinissaggāya pañca dhammā bhāvetabbā. ",
+            "de": "„Um Gier vollständig zu verstehen … um damit aufzuhören … um sie aufzugeben … zu beenden … um sie zum Verschwinden zu bringen … zum Schwinden … zum Aufhören … um sie herzugeben … um Gier loszulassen, müssen diese <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>.“ ",
+            "en": "“For the complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go of greed, five things should be developed.” ",
+            "matched": true
+          },
+          "an5.308-1152:1.2": {
+            "scid": "an5.308-1152:1.2",
+            "pli": "Dosassa … mohassa … kodhassa … upanāhassa … makkhassa … paḷāsassa … issāya … macchariyassa … māyāya … sāṭheyyassa … thambhassa … sārambhassa … mānassa … atimānassa … madassa … pamādassa abhiññāya … pariññāya … parikkhayāya … pahānāya … khayāya … vayāya … virāgāya … nirodhāya … cāgāya … paṭinissaggāya pañca dhammā bhāvetabbā.  ",
+            "de": "„Um Hass … Täuschung … Zorn … Feindseligkeit … Geringschätzung … Verachtung … Eifersucht … Geiz … Betrug … Doppelzüngigkeit … Starrsinn … Angriffslust … Einbildung … Selbstgefälligkeit … Eitelkeit … Nachlässigkeit … um unmittelbar zu erkennen … vollständig zu verstehen … um damit aufzuhören … um sie aufzugeben … zu beenden … um sie zum Verschwinden zu bringen … zum Schwinden … zum Aufhören … um sie herzugeben … um sie loszulassen, müssen <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>. ",
+            "en": "“Of hate … delusion … anger … hostility … disdain … contempt … jealousy … stinginess … deceit … deviousness … obstinacy … aggression … conceit … arrogance … vanity … negligence … for insight … complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go … five things should be developed. ",
+            "matched": true
+          },
+          "an5.308-1152:2.3": {
+            "scid": "an5.308-1152:2.3",
+            "pli": "pamādassa, bhikkhave, paṭinissaggāya ime pañca dhammā bhāvetabbā”ti. ",
+            "de": "Um Nachlässigkeit loszulassen müssen diese <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>.“ ",
+            "en": "For the letting go of negligence, these five things should be developed.” ",
+            "matched": true
+          }
+        },
+        "score": 3.103,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n29. Abgekürzte Texte, die mit Gier beginnen\n308–1152",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 29,
+          "de": 9,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.303_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.303_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.303_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.303",
+        "lang": "de",
+        "segMap": {
+          "an5.303:1.1": {
+            "scid": "an5.303:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. ",
+            "de": "„Um Gier unmittelbar zu erkennen, müssen <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>. ",
+            "en": "“For insight into greed, five things should be developed. ",
+            "matched": true
+          },
+          "an5.303:1.4": {
+            "scid": "an5.303:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā”ti. ",
+            "de": "Um Gier unmittelbar zu erkennen, müssen diese <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>.“ ",
+            "en": "For insight into greed, these five things should be developed.”",
+            "matched": true
+          }
+        },
+        "score": 2.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n29. Abgekürzte Texte, die mit Gier beginnen\n303",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 7,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.304_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.304_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.304_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.304",
+        "lang": "de",
+        "segMap": {
+          "an5.304:1.1": {
+            "scid": "an5.304:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. ",
+            "de": "„Um Gier unmittelbar zu erkennen, müssen <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>. ",
+            "en": "“For insight into greed, five things should be developed. ",
+            "matched": true
+          },
+          "an5.304:1.4": {
+            "scid": "an5.304:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā”ti. ",
+            "de": "Um Gier unmittelbar zu erkennen, müssen diese <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>.“ ",
+            "en": "For insight into greed, these five things should be developed.”",
+            "matched": true
+          }
+        },
+        "score": 2.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n29. Abgekürzte Texte, die mit Gier beginnen\n304",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 7,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.305_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.305_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.305_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.305",
+        "lang": "de",
+        "segMap": {
+          "an5.305:1.1": {
+            "scid": "an5.305:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. ",
+            "de": "„Um Gier unmittelbar zu erkennen, müssen <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>. ",
+            "en": "“For insight into greed, five things should be developed. ",
+            "matched": true
+          },
+          "an5.305:1.4": {
+            "scid": "an5.305:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā”ti. ",
+            "de": "Um Gier unmittelbar zu erkennen, müssen diese <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>.“ ",
+            "en": "For insight into greed, these five things should be developed.”",
+            "matched": true
+          }
+        },
+        "score": 2.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n29. Abgekürzte Texte, die mit Gier beginnen\n305",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 7,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.306_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.306_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.306_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.306",
+        "lang": "de",
+        "segMap": {
+          "an5.306:1.1": {
+            "scid": "an5.306:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. ",
+            "de": "„Um Gier unmittelbar zu erkennen, müssen <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>. ",
+            "en": "“For insight into greed, five things should be developed. ",
+            "matched": true
+          },
+          "an5.306:1.4": {
+            "scid": "an5.306:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā”ti. ",
+            "de": "Um Gier unmittelbar zu erkennen, müssen diese <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>.“ ",
+            "en": "For insight into greed, these five things should be developed.”",
+            "matched": true
+          }
+        },
+        "score": 2.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n29. Abgekürzte Texte, die mit Gier beginnen\n306",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 7,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.307_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.307_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.307_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.307",
+        "lang": "de",
+        "segMap": {
+          "an5.307:1.1": {
+            "scid": "an5.307:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. ",
+            "de": "„Um Gier unmittelbar zu erkennen, müssen <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>. ",
+            "en": "“For insight into greed, five things should be developed. ",
+            "matched": true
+          },
+          "an5.307:1.4": {
+            "scid": "an5.307:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā”ti. ",
+            "de": "Um Gier unmittelbar zu erkennen, müssen diese <span class=\"ebt-matched\">fünf Dinge entwickelt werden</span>.“ ",
+            "en": "For insight into greed, these five things should be developed.”",
+            "matched": true
+          }
+        },
+        "score": 2.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n29. Abgekürzte Texte, die mit Gier beginnen\n307",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 7,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.6.11": {
+            "scid": "dn34:1.6.11",
+            "pli": "Katame pañca dhammā bhāvetabbā? ",
+            "de": "Welche <span class=\"ebt-matched\">fünf Dinge müssen entwickelt werden</span>? ",
+            "en": "What five things should be developed? ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

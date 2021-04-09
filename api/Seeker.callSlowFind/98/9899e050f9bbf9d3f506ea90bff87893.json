@@ -1,0 +1,250 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "dunkelheit.* und licht",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "dunkelheit.* und licht",
+    "method": "phrase",
+    "resultPattern": "\\bdunkelheit.* und licht",
+    "segsMatched": 13,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn10/sn10.8_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn10/sn10.8_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn10/sn10.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.59_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.59_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.59_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.58_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.58_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn21_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn10.8/de/sabbamitta",
+      "an3.59/de/sabbamitta",
+      "an3.58/de/sabbamitta",
+      "dn21/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn10/sn10.8_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn10/sn10.8_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn10/sn10.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn10.8",
+        "lang": "de",
+        "segMap": {
+          "sn10.8:1.11": {
+            "scid": "sn10.8:1.11",
+            "pli": "Atha kho anāthapiṇḍikassa gahapatissa nagaramhā nikkhamantassa āloko antaradhāyi, andhakāro pāturahosi, bhayaṁ chambhitattaṁ lomahaṁso udapādi, tatova puna nivattitukāmo ahosi. ",
+            "de": "Aber als er die Stadt verließ, verschwand das Licht, und Dunkelheit erschien ihm. Furcht und Entsetzen packten ihn, die Haare standen ihm zu Berge und er wollte umkehren. ",
+            "en": "But as he was leaving the city, light vanished and darkness appeared to him. He felt fear, terror, and goosebumps, and wanted to turn back. ",
+            "matched": true
+          },
+          "sn10.8:4.1": {
+            "scid": "sn10.8:4.1",
+            "pli": "Atha kho anāthapiṇḍikassa gahapatissa andhakāro antaradhāyi, āloko pāturahosi, yaṁ ahosi bhayaṁ chambhitattaṁ lomahaṁso, so paṭippassambhi. ",
+            "de": "Da verschwand die <span class=\"ebt-matched\">Dunkelheit, und Licht</span> erschien Anāthapiṇḍika. Seine Furcht, sein Entsetzen und seine gesträubten Haare legten sich. ",
+            "en": "Then darkness vanished and light appeared to Anāthapiṇḍika. His fear, terror, and goosebumps settled down. ",
+            "matched": true
+          },
+          "sn10.8:4.2": {
+            "scid": "sn10.8:4.2",
+            "pli": "Dutiyampi kho anāthapiṇḍikassa gahapatissa āloko antaradhāyi, andhakāro pāturahosi, bhayaṁ chambhitattaṁ lomahaṁso udapādi, tatova puna nivattitukāmo ahosi. ",
+            "de": "Aber zum zweiten Mal verschwand das Licht, und Dunkelheit erschien ihm. … ",
+            "en": "But for a second time, light vanished and darkness appeared to him. … ",
+            "matched": true
+          },
+          "sn10.8:7.1": {
+            "scid": "sn10.8:7.1",
+            "pli": "Atha kho anāthapiṇḍikassa gahapatissa andhakāro antaradhāyi, āloko pāturahosi, yaṁ ahosi bhayaṁ chambhitattaṁ lomahaṁso, so paṭippassambhi. ",
+            "de": "Da verschwand die <span class=\"ebt-matched\">Dunkelheit, und Licht</span> erschien Anāthapiṇḍika. Seine Furcht, sein Entsetzen und seine gesträubten Haare legten sich. ",
+            "en": "Then darkness vanished and light appeared to Anāthapiṇḍika. His fear, terror, and goosebumps settled down. ",
+            "matched": true
+          },
+          "sn10.8:7.2": {
+            "scid": "sn10.8:7.2",
+            "pli": "Tatiyampi kho anāthapiṇḍikassa gahapatissa āloko antaradhāyi, andhakāro pāturahosi, bhayaṁ chambhitattaṁ lomahaṁso udapādi, tatova puna nivattitukāmo ahosi. ",
+            "de": "Aber zum dritten Mal verschwand das Licht, und Dunkelheit erschien ihm. … ",
+            "en": "But for a third time, light vanished and darkness appeared to him. … ",
+            "matched": true
+          },
+          "sn10.8:10.1": {
+            "scid": "sn10.8:10.1",
+            "pli": "Atha kho anāthapiṇḍikassa gahapatissa andhakāro antaradhāyi, āloko pāturahosi, yaṁ ahosi bhayaṁ chambhitattaṁ lomahaṁso, so paṭippassambhi. ",
+            "de": "Da verschwand die <span class=\"ebt-matched\">Dunkelheit, und Licht</span> erschien Anāthapiṇḍika. Seine Furcht, sein Entsetzen und seine gesträubten Haare legten sich. ",
+            "en": "Then darkness vanished and light appeared to Anāthapiṇḍika. His fear, terror, and goosebumps settled down. ",
+            "matched": true
+          }
+        },
+        "score": 6.097,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 10\n1. Mit Indaka\n8. Mit Sudatta",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 62,
+          "de": 62,
+          "en": 62
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.59_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.59_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.59_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.59",
+        "lang": "de",
+        "segMap": {
+          "an3.59:4.4": {
+            "scid": "an3.59:4.4",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "de": "Unwissenheit ist zerstört und Wissen ist aufgegangen; <span class=\"ebt-matched\">Dunkelheit ist zerstört und Licht</span> ist aufgegangen, wie es bei jemandem geschieht, der beflissen, eifrig und entschlossen meditiert. ",
+            "en": "Ignorance is destroyed and knowledge has arisen; darkness is destroyed and light has arisen, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "an3.59:5.4": {
+            "scid": "an3.59:5.4",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "de": "Unwissenheit ist zerstört und Wissen ist aufgegangen; <span class=\"ebt-matched\">Dunkelheit ist zerstört und Licht</span> ist aufgegangen, wie es bei jemandem geschieht, der beflissen, eifrig und entschlossen meditiert. ",
+            "en": "Ignorance is destroyed and knowledge has arisen; darkness is destroyed and light has arisen, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "an3.59:6.8": {
+            "scid": "an3.59:6.8",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṁ appamattassa ātāpino pahitattassa viharatoti. ",
+            "de": "Unwissenheit ist zerstört und Wissen ist aufgegangen; <span class=\"ebt-matched\">Dunkelheit ist zerstört und Licht</span> ist aufgegangen, wie es bei jemandem geschieht, der beflissen, eifrig und entschlossen meditiert. ",
+            "en": "Ignorance is destroyed and knowledge has arisen; darkness is destroyed, and light has arisen, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          }
+        },
+        "score": 3.06,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n6. Brahmanen\n59. Mit Jāṇussoṇi",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 50,
+          "de": 49,
+          "en": 49
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.58_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.58_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.58",
+        "lang": "de",
+        "segMap": {
+          "an3.58:5.4": {
+            "scid": "an3.58:5.4",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "de": "Unwissenheit ist zerstört und Wissen ist aufgegangen; <span class=\"ebt-matched\">Dunkelheit ist zerstört und Licht</span> ist aufgegangen, wie es bei jemandem geschieht, der beflissen, eifrig und entschlossen meditiert. ",
+            "en": "Ignorance is destroyed and knowledge has arisen; darkness is destroyed and light has arisen, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "an3.58:6.4": {
+            "scid": "an3.58:6.4",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṁ appamattassa ātāpino pahitattassa viharato. ",
+            "de": "Unwissenheit ist zerstört und Wissen ist aufgegangen; <span class=\"ebt-matched\">Dunkelheit ist zerstört und Licht</span> ist aufgegangen, wie es bei jemandem geschieht, der beflissen, eifrig und entschlossen meditiert. ",
+            "en": "Ignorance is destroyed and knowledge has arisen; darkness is destroyed and light has arisen, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          },
+          "an3.58:7.8": {
+            "scid": "an3.58:7.8",
+            "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṁ appamattassa ātāpino pahitattassa viharatoti. ",
+            "de": "Unwissenheit ist zerstört und Wissen ist aufgegangen; <span class=\"ebt-matched\">Dunkelheit ist zerstört und Licht</span> ist aufgegangen, wie es bei jemandem geschieht, der beflissen, eifrig und entschlossen meditiert. ",
+            "en": "Ignorance is destroyed and knowledge has arisen; darkness is destroyed, and light has arisen, as happens for a meditator who is diligent, keen, and resolute. ",
+            "matched": true
+          }
+        },
+        "score": 3.049,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n6. Brahmanen\n58. Mit Tikaṇṇa",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 61,
+          "de": 60,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn21_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn21",
+        "lang": "de",
+        "segMap": {
+          "dn21:1.9.1": {
+            "scid": "dn21:1.9.1",
+            "pli": "Tena kho pana samayena indasālaguhā visamā santī samā samapādi, sambādhā santī urundā samapādi, andhakāro guhāyaṁ antaradhāyi, āloko udapādi yathā taṁ devānaṁ devānubhāvena. ",
+            "de": "Und da wurden die unebenen Stellen in der Höhle eben, die engen Stellen öffneten sich, und die <span class=\"ebt-matched\">Dunkelheit verschwand und Licht</span> erschien, wie es durch die Pracht der Götter geschieht. ",
+            "en": "And at that time the uneven places were evened out, the cramped places were opened up, the darkness vanished and light appeared, as happens through the glory of the gods. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 21\nSakkas Fragen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 515,
+          "de": 477,
+          "en": 514
+        }
+      }
+    ]
+  }
+}

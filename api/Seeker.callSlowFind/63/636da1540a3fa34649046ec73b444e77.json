@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "bloßem vertrauen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "bloßem vertrauen",
+    "method": "phrase",
+    "resultPattern": "\\bbloßem vertrauen",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.55_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.55_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.55_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.55/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.55_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.55_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.55_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.55",
+        "lang": "de",
+        "segMap": {
+          "an6.55:11.2": {
+            "scid": "an6.55:11.2",
+            "pli": "‘kevalaṁsaddhāmattakaṁ nūna ayamāyasmā nissāya nekkhammādhimutto’ti. ",
+            "de": "‚Vielleicht weiht sich dieser Ehrwürdige der Entsagung nur aus <span class=\"ebt-matched\">bloßem Vertrauen</span>.‘ ",
+            "en": "‘Maybe this venerable is dedicated to renunciation solely out of mere faith.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n6. Das große Kapitel\n55. Mit Soṇa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 97,
+          "de": 87,
+          "en": 96
+        }
+      }
+    ]
+  }
+}

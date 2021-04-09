@@ -1,0 +1,80 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "vanishing of craving",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "vanishing of craving",
+    "method": "phrase",
+    "resultPattern": "\\bvanishing of craving",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn148_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn148/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn148_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn148",
+        "lang": "en",
+        "segMap": {
+          "mn148:10.32": {
+            "scid": "mn148:10.32",
+            "pli": "Taṇhāya uppādopi vayopi paññāyati. ",
+            "en": "The arising and <span class=\"ebt-matched\">vanishing of craving</span> is evident, ",
+            "matched": true
+          },
+          "mn148:15.8": {
+            "scid": "mn148:15.8",
+            "pli": "Taṇhāya uppādopi vayopi paññāyati. ",
+            "en": "The arising and <span class=\"ebt-matched\">vanishing of craving</span> is evident, ",
+            "matched": true
+          }
+        },
+        "score": 2.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 148\nSix By Six",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 227,
+          "en": 226
+        }
+      }
+    ]
+  }
+}

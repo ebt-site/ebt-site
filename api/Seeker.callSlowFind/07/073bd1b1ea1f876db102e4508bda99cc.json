@@ -1,0 +1,176 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "on love",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "on love",
+    "method": "phrase",
+    "resultPattern": "\\bon love",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn62_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn62_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn118_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn118_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/kp/kp9_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/kp/kp9_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga3/iti27_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga3/iti27_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn62/en/sujato",
+      "mn118/en/sujato",
+      "kp9/en/sujato",
+      "iti27/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn62_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn62_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn62",
+        "lang": "en",
+        "segMap": {
+          "mn62:18.1": {
+            "scid": "mn62:18.1",
+            "pli": "Mettaṁ, rāhula, bhāvanaṁ bhāvehi. ",
+            "en": "Meditate <span class=\"ebt-matched\">on love</span>. ",
+            "matched": true
+          },
+          "mn62:18.2": {
+            "scid": "mn62:18.2",
+            "pli": "Mettañhi te, rāhula, bhāvanaṁ bhāvayato yo byāpādo so pahīyissati. ",
+            "en": "For when you meditate <span class=\"ebt-matched\">on love</span> any ill will will be given up. ",
+            "matched": true
+          }
+        },
+        "score": 2.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 62\nThe Longer Advice to Rāhula",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 122,
+          "en": 121
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/kp/kp9_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/kp/kp9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "kp9",
+        "lang": "en",
+        "segMap": {
+          "kp9:0.2": {
+            "scid": "kp9:0.2",
+            "pli": "9. Mettasutta",
+            "en": "The Discourse <span class=\"ebt-matched\">on Love</span>",
+            "matched": true
+          }
+        },
+        "score": 1.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Minor Passages\nThe Discourse on Love",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 44,
+          "en": 42
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga3/iti27_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga3/iti27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti27",
+        "lang": "en",
+        "segMap": {
+          "iti27:0.4": {
+            "scid": "iti27:0.4",
+            "pli": "Mettābhāvanāsutta",
+            "en": "27. The Meditation <span class=\"ebt-matched\">on Love</span>",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Ones\nChapter Three\n27. The Meditation on Love",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn118_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn118_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn118",
+        "lang": "en",
+        "segMap": {
+          "mn118:14.8": {
+            "scid": "mn118:14.8",
+            "pli": "Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe mettābhāvanānuyogamanuyuttā viharanti … ",
+            "en": "In this Saṅgha there are mendicants who are committed to developing the meditation <span class=\"ebt-matched\">on love</span> … ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 118\nMindfulness of Breathing",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 154,
+          "en": 153
+        }
+      }
+    ]
+  }
+}

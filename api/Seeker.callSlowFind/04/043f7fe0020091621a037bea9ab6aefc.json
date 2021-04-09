@@ -1,0 +1,107 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "mangel an vertrauen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "mangel an vertrauen",
+    "method": "phrase",
+    "resultPattern": "\\bmangel an vertrauen",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an10/an10.61_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an10/an10.61_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an10.61/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.61_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an10/an10.61_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.61",
+        "lang": "de",
+        "segMap": {
+          "an10.61:2.18": {
+            "scid": "an10.61:2.18",
+            "pli": "‘Assaddhiyan’tissa vacanīyaṁ. ",
+            "de": "Ihr solltet sagen: ‚<span class=\"ebt-matched\">Mangel an Vertrauen</span>.‘ ",
+            "en": "You should say: ‘Lack of faith.’ ",
+            "matched": true
+          },
+          "an10.61:2.19": {
+            "scid": "an10.61:2.19",
+            "pli": "Assaddhiyampāhaṁ, bhikkhave, sāhāraṁ vadāmi, no anāhāraṁ. ",
+            "de": "Ich sage, <span class=\"ebt-matched\">Mangel an Vertrauen</span> wird von etwas mit Nahrung versorgt, er ist nicht ohne Nahrung. ",
+            "en": "I say that lack of faith is fueled by something, it’s not unfueled. ",
+            "matched": true
+          },
+          "an10.61:2.20": {
+            "scid": "an10.61:2.20",
+            "pli": "Ko cāhāro assaddhiyassa? ",
+            "de": "Und was ist die Nahrung für <span class=\"ebt-matched\">Mangel an Vertrauen</span>? ",
+            "en": "And what is the fuel for lack of faith? ",
+            "matched": true
+          },
+          "an10.61:3.1": {
+            "scid": "an10.61:3.1",
+            "pli": "Iti kho, bhikkhave, asappurisasaṁsevo paripūro asaddhammassavanaṁ paripūreti, asaddhammassavanaṁ paripūraṁ assaddhiyaṁ paripūreti, assaddhiyaṁ paripūraṁ ayonisomanasikāraṁ paripūreti, ayonisomanasikāro paripūro asatāsampajaññaṁ paripūreti, asatāsampajaññaṁ paripūraṁ indriyaasaṁvaraṁ paripūreti, indriyaasaṁvaro paripūro tīṇi duccaritāni paripūreti, tīṇi duccaritāni paripūrāni pañca nīvaraṇe paripūrenti, pañca nīvaraṇā paripūrā avijjaṁ paripūrenti; ",
+            "de": "So füllt der Faktor des Umgangs mit schlechten Menschen, wenn er voll wird, den Faktor auf, einer falschen Lehre zuzuhören. Wenn der Faktor, einer falschen Lehre zuzuhören, voll wird, füllt er den Faktor <span class=\"ebt-matched\">Mangel an Vertrauen</span> auf … den Faktor ungenaue Aufmerksamkeit … den Faktor Mangel an Achtsamkeit und Umsicht … den Faktor Mangel an Zügelung der Sinne … den Faktor der drei Arten von schlechtem Verhalten … den Faktor der fünf Hindernisse. Wenn die fünf Hindernisse voll werden, füllen sie die Unwissenheit auf. ",
+            "en": "In this way, when the factor of associating with bad people is fulfilled, it fulfills the factor of listening to an untrue teaching. When the factor of listening to an untrue teaching is fulfilled, it fulfills the factor of lack of faith … improper attention … lack of mindfulness and situational awareness … lack of sense restraint …the three kinds of misconduct … the five hindrances. When the five hindrances are fulfilled, they fulfill ignorance. ",
+            "matched": true
+          },
+          "an10.61:5.1": {
+            "scid": "an10.61:5.1",
+            "pli": "Evamevaṁ kho, bhikkhave, asappurisasaṁsevo paripūro asaddhammassavanaṁ paripūreti, asaddhammassavanaṁ paripūraṁ assaddhiyaṁ paripūreti, assaddhiyaṁ paripūraṁ ayonisomanasikāraṁ paripūreti, ayonisomanasikāro paripūro asatāsampajaññaṁ paripūreti, asatāsampajaññaṁ paripūraṁ indriyaasaṁvaraṁ paripūreti, indriyaasaṁvaro paripūro tīṇi duccaritāni paripūreti, tīṇi duccaritāni paripūrāni pañca nīvaraṇe paripūrenti, pañca nīvaraṇā paripūrā avijjaṁ paripūrenti; ",
+            "de": "Ebenso füllt der Faktor des Umgangs mit schlechten Menschen, wenn er voll wird, den Faktor auf, einer falschen Lehre zuzuhören. Wenn der Faktor, einer falschen Lehre zuzuhören, voll wird, füllt er den Faktor <span class=\"ebt-matched\">Mangel an Vertrauen</span> auf … den Faktor ungenaue Aufmerksamkeit … den Faktor Mangel an Achtsamkeit und Umsicht … den Faktor Mangel an Zügelung der Sinne … den Faktor der drei Arten von schlechtem Verhalten … den Faktor der fünf Hindernisse. Wenn die fünf Hindernisse voll werden, füllen sie die Unwissenheit auf. ",
+            "en": "In the same way, when the factor of associating with bad people is fulfilled, it fulfills the factor of listening to an untrue teaching. When the factor of listening to an untrue teaching is fulfilled, it fulfills the factor of lack of faith … improper attention … lack of mindfulness and situational awareness … lack of sense restraint …the three kinds of misconduct … the five hindrances. When the five hindrances are fulfilled, they fulfill ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 5.072,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 10\n7. Paare\n61. Unwissenheit",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 69,
+          "de": 68,
+          "en": 68
+        }
+      }
+    ]
+  }
+}

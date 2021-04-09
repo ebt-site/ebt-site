@@ -1,0 +1,130 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "noble search",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "noble search",
+    "method": "phrase",
+    "resultPattern": "\\bnoble search",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn26_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn26_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.255_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.255_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn26/en/sujato",
+      "an4.255/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn26_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn26",
+        "lang": "en",
+        "segMap": {
+          "mn26:0.2": {
+            "scid": "mn26:0.2",
+            "pli": "Pāsarāsisutta ",
+            "en": "The <span class=\"ebt-matched\">Noble Search</span> ",
+            "matched": true
+          },
+          "mn26:5.2": {
+            "scid": "mn26:5.2",
+            "pli": "ariyā ca pariyesanā, anariyā ca pariyesanā. ",
+            "en": "the <span class=\"ebt-matched\">noble search</span> and the ignoble search. ",
+            "matched": true
+          },
+          "mn26:12.1": {
+            "scid": "mn26:12.1",
+            "pli": "Katamā ca, bhikkhave, ariyā pariyesanā? ",
+            "en": "And what is the <span class=\"ebt-matched\">noble search</span>? ",
+            "matched": true
+          },
+          "mn26:12.3": {
+            "scid": "mn26:12.3",
+            "pli": "Ayaṁ, bhikkhave, ariyā pariyesanā. ",
+            "en": "This is the <span class=\"ebt-matched\">noble search</span>. ",
+            "matched": true
+          }
+        },
+        "score": 4.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 26\nThe Noble Search",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 365,
+          "en": 364
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.255_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.255_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.255",
+        "lang": "en",
+        "segMap": {
+          "an4.255:2.1": {
+            "scid": "an4.255:2.1",
+            "pli": "Catasso imā, bhikkhave, ariyapariyesanā. ",
+            "en": "There are these four <span class=\"ebt-matched\">noble search</span>es. ",
+            "matched": true
+          },
+          "an4.255:2.7": {
+            "scid": "an4.255:2.7",
+            "pli": "Imā kho, bhikkhave, catasso ariyapariyesanā”ti. ",
+            "en": "These are the four <span class=\"ebt-matched\">noble search</span>es.” ",
+            "matched": true
+          }
+        },
+        "score": 2.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n26. Insight\n255. Searches",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      }
+    ]
+  }
+}

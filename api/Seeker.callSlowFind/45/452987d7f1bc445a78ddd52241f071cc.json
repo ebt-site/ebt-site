@@ -1,0 +1,118 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "not skilled in immersion",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "not skilled in immersion",
+    "method": "phrase",
+    "resultPattern": "\\bnot skilled in immersion",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn34/sn34.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn34/sn34.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn34/sn34.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn34/sn34.1_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn34.2/en/sujato",
+      "sn34.1/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn34/sn34.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn34/sn34.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn34.1",
+        "lang": "en",
+        "segMap": {
+          "sn34.1:1.4": {
+            "scid": "sn34.1:1.4",
+            "pli": "Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ samāpattikusalo. ",
+            "en": "One meditator is skilled in immersion but not in entering it. ",
+            "matched": true
+          },
+          "sn34.1:1.5": {
+            "scid": "sn34.1:1.5",
+            "pli": "Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ samādhikusalo. ",
+            "en": "One meditator is <span class=\"ebt-matched\">not skilled in immersion</span> but is skilled in entering it. ",
+            "matched": true
+          }
+        },
+        "score": 2.143,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 34\n1. Absorption\n1. Entering Immersion",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn34/sn34.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn34/sn34.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn34.2",
+        "lang": "en",
+        "segMap": {
+          "sn34.2:1.4": {
+            "scid": "sn34.2:1.4",
+            "pli": "Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ ṭhitikusalo. ",
+            "en": "One meditator is skilled in immersion but not in remaining in it. ",
+            "matched": true
+          },
+          "sn34.2:1.5": {
+            "scid": "sn34.2:1.5",
+            "pli": "Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ ṭhitikusalo hoti, na samādhismiṁ samādhikusalo. ",
+            "en": "One meditator is skilled in remaining in immersion but is <span class=\"ebt-matched\">not skilled in immersion</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.143,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 34\n1. Absorption\n2. Remaining in Immersion",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      }
+    ]
+  }
+}

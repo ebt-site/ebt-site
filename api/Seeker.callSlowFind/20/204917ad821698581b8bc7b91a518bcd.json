@@ -1,0 +1,198 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "correctly memorized",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "correctly memorized",
+    "method": "phrase",
+    "resultPattern": "\\bcorrectly memorized",
+    "segsMatched": 13,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn103_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn103_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.180_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.180_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn16/en/sujato",
+      "mn103/en/sujato",
+      "an4.180/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn16",
+        "lang": "en",
+        "segMap": {
+          "dn16:4.8.12": {
+            "scid": "dn16:4.8.12",
+            "pli": "imassa ca bhikkhuno suggahitan’ti. ",
+            "en": "It has been <span class=\"ebt-matched\">correctly memorized</span> by that mendicant.’ ",
+            "matched": true
+          },
+          "dn16:4.9.13": {
+            "scid": "dn16:4.9.13",
+            "pli": "tassa ca saṅghassa suggahitan’ti. ",
+            "en": "It has been <span class=\"ebt-matched\">correctly memorized</span> by that Saṅgha.’ ",
+            "matched": true
+          },
+          "dn16:4.10.9": {
+            "scid": "dn16:4.10.9",
+            "pli": "tesañca therānaṁ duggahitan’ti. ",
+            "en": "It has not been <span class=\"ebt-matched\">correctly memorized</span> by those senior mendicants.’ ",
+            "matched": true
+          },
+          "dn16:4.10.14": {
+            "scid": "dn16:4.10.14",
+            "pli": "tesañca therānaṁ suggahitan’ti. ",
+            "en": "It has been <span class=\"ebt-matched\">correctly memorized</span> by those senior mendicants.’ ",
+            "matched": true
+          },
+          "dn16:4.11.13": {
+            "scid": "dn16:4.11.13",
+            "pli": "tassa ca therassa suggahitan’ti. ",
+            "en": "It has been <span class=\"ebt-matched\">correctly memorized</span> by that senior mendicant.’ ",
+            "matched": true
+          }
+        },
+        "score": 5.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 16\nThe Great Discourse on the Buddha’s Extinguishment",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 1665,
+          "en": 1664
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.180_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.180_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.180",
+        "lang": "en",
+        "segMap": {
+          "an4.180:3.8": {
+            "scid": "an4.180:3.8",
+            "pli": "imassa ca bhikkhuno suggahitan’ti. ",
+            "en": "It has been <span class=\"ebt-matched\">correctly memorized</span> by that mendicant.’ ",
+            "matched": true
+          },
+          "an4.180:5.9": {
+            "scid": "an4.180:5.9",
+            "pli": "tassa ca saṅghassa suggahitan’ti. ",
+            "en": "It has been <span class=\"ebt-matched\">correctly memorized</span> by that Saṅgha.’ ",
+            "matched": true
+          },
+          "an4.180:7.9": {
+            "scid": "an4.180:7.9",
+            "pli": "tesañca therānaṁ suggahitan’ti. ",
+            "en": "It has been <span class=\"ebt-matched\">correctly memorized</span> by those senior mendicants.’ ",
+            "matched": true
+          },
+          "an4.180:9.9": {
+            "scid": "an4.180:9.9",
+            "pli": "tassa ca therassa suggahitan’ti. ",
+            "en": "It has been <span class=\"ebt-matched\">correctly memorized</span> by that senior mendicant.’ ",
+            "matched": true
+          }
+        },
+        "score": 4.04,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n18. Intention\n180. The Four Great References",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 99,
+          "en": 97
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn103_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn103_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn103",
+        "lang": "en",
+        "segMap": {
+          "mn103:5.12": {
+            "scid": "mn103:5.12",
+            "pli": "Iti duggahitaṁ duggahitato dhāretabbaṁ, suggahitaṁ suggahitato dhāretabbaṁ. ",
+            "en": "So you should remember what has been incorrectly memorized as incorrectly memorized and what has been <span class=\"ebt-matched\">correctly memorized</span> as <span class=\"ebt-matched\">correctly memorized</span>. ",
+            "matched": true
+          },
+          "mn103:6.12": {
+            "scid": "mn103:6.12",
+            "pli": "Iti duggahitaṁ duggahitato dhāretabbaṁ, suggahitaṁ suggahitato dhāretabbaṁ. ",
+            "en": "So you should remember what has been incorrectly memorized as incorrectly memorized and what has been <span class=\"ebt-matched\">correctly memorized</span> as <span class=\"ebt-matched\">correctly memorized</span>. ",
+            "matched": true
+          },
+          "mn103:7.14": {
+            "scid": "mn103:7.14",
+            "pli": "Iti suggahitaṁ suggahitato dhāretabbaṁ, duggahitaṁ duggahitato dhāretabbaṁ. ",
+            "en": "So you should remember what has been <span class=\"ebt-matched\">correctly memorized</span> as <span class=\"ebt-matched\">correctly memorized</span> and what has been incorrectly memorized as incorrectly memorized. ",
+            "matched": true
+          },
+          "mn103:8.12": {
+            "scid": "mn103:8.12",
+            "pli": "Iti suggahitaṁ suggahitato dhāretabbaṁ. ",
+            "en": "So you should remember what has been <span class=\"ebt-matched\">correctly memorized</span> as <span class=\"ebt-matched\">correctly memorized</span>. ",
+            "matched": true
+          }
+        },
+        "score": 4.031,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 103\nIs This What You Think Of Me?",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 128,
+          "en": 127
+        }
+      }
+    ]
+  }
+}

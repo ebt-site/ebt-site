@@ -1,0 +1,538 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "auf beiden seiten",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "auf beiden seiten",
+    "method": "phrase",
+    "resultPattern": "\\bauf beiden seiten",
+    "segsMatched": 21,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.51_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.51_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.51_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.52-63_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.52-63_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.52-63_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.45_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.45_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.45_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.44_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.44_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.44_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.43_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.43_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.43_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.65_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.65_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.65_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.63_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.63_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.63_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.35_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.35_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.35_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/de/sabbamitta",
+      "dn33/de/sabbamitta",
+      "dn28/de/sabbamitta",
+      "an5.51/de/sabbamitta",
+      "an2.52-63/de/sabbamitta",
+      "dn17/de/sabbamitta",
+      "an6.45/de/sabbamitta",
+      "an5.44/de/sabbamitta",
+      "an5.43/de/sabbamitta",
+      "an3.65/de/sabbamitta",
+      "an3.63/de/sabbamitta",
+      "an3.35/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:2.1.174": {
+            "scid": "dn34:2.1.174",
+            "pli": "Seyyathāpi nāma umāpupphaṁ nīlaṁ nīlavaṇṇaṁ nīlanidassanaṁ nīlanibhāsaṁ, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ nīlaṁ nīlavaṇṇaṁ nīlanidassanaṁ nīlanibhāsaṁ; ",
+            "de": "Wie eine Flachsblüte, blau, von blauer Farbe, in blauer Schattierung, blauem Ton. Oder wie Stoff aus Bāraṇasī, <span class=\"ebt-matched\">auf beiden Seiten</span> geglättet, blau, von blauer Farbe, in blauer Schattierung, blauem Ton. ",
+            "en": "They’re like a flax flower that’s blue, with blue color, blue hue, and blue tint. Or a cloth from Bāraṇasī that’s smoothed on both sides, blue, with blue color, blue hue, and blue tint. ",
+            "matched": true
+          },
+          "dn34:2.1.178": {
+            "scid": "dn34:2.1.178",
+            "pli": "Seyyathāpi nāma kaṇikārapupphaṁ pītaṁ pītavaṇṇaṁ pītanidassanaṁ pītanibhāsaṁ, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ pītaṁ pītavaṇṇaṁ pītanidassanaṁ pītanibhāsaṁ; ",
+            "de": "Wie eine Kaṇikārablüte, gelb, von gelber Farbe, in gelber Schattierung, gelbem Ton. Oder wie Stoff aus Bāraṇasī, <span class=\"ebt-matched\">auf beiden Seiten</span> geglättet, gelb, von gelber Farbe, in gelber Schattierung, gelbem Ton. ",
+            "en": "They’re like a champak flower that’s yellow, with yellow color, yellow hue, and yellow tint. Or a cloth from Bāraṇasī that’s smoothed on both sides, yellow, with yellow color, yellow hue, and yellow tint. ",
+            "matched": true
+          },
+          "dn34:2.1.182": {
+            "scid": "dn34:2.1.182",
+            "pli": "Seyyathāpi nāma bandhujīvakapupphaṁ lohitakaṁ lohitakavaṇṇaṁ lohitakanidassanaṁ lohitakanibhāsaṁ, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ lohitakaṁ lohitakavaṇṇaṁ lohitakanidassanaṁ lohitakanibhāsaṁ; ",
+            "de": "Wie eine scharlachrote Malvenblüte, rot, von roter Farbe, in roter Schattierung, rotem Ton. Oder wie Stoff aus Bāraṇasī, <span class=\"ebt-matched\">auf beiden Seiten</span> geglättet, rot, von roter Farbe, in roter Schattierung, rotem Ton. ",
+            "en": "They’re like a scarlet mallow flower that’s red, with red color, red hue, and red tint. Or a cloth from Bāraṇasī that’s smoothed on both sides, red, with red color, red hue, and red tint. ",
+            "matched": true
+          },
+          "dn34:2.1.186": {
+            "scid": "dn34:2.1.186",
+            "pli": "Seyyathāpi nāma osadhitārakā odātā odātavaṇṇā odātanidassanā odātanibhāsā, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ odātaṁ odātavaṇṇaṁ odātanidassanaṁ odātanibhāsaṁ; ",
+            "de": "Wie der Morgenstern, weiß, von weißer Farbe, in weißer Schattierung, weißem Ton. Oder wie Stoff aus Bāraṇasī, <span class=\"ebt-matched\">auf beiden Seiten</span> geglättet, weiß, von weißer Farbe, in weißer Schattierung, weißem Ton. ",
+            "en": "They’re like the morning star that’s white, with white color, white hue, and white tint. Or a cloth from Bāraṇasī that’s smoothed on both sides, white, with white color, white hue, and white tint. ",
+            "matched": true
+          }
+        },
+        "score": 4.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:3.1.153": {
+            "scid": "dn33:3.1.153",
+            "pli": "Seyyathāpi nāma umāpupphaṁ nīlaṁ nīlavaṇṇaṁ nīlanidassanaṁ nīlanibhāsaṁ, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ nīlaṁ nīlavaṇṇaṁ nīlanidassanaṁ nīlanibhāsaṁ; ",
+            "de": "Wie eine Flachsblüte, blau, von blauer Farbe, in blauer Schattierung, blauem Ton. Oder wie Stoff aus Bāraṇasī, <span class=\"ebt-matched\">auf beiden Seiten</span> geglättet, blau, von blauer Farbe, in blauer Schattierung, blauem Ton. ",
+            "en": "They’re like a flax flower that’s blue, with blue color, blue hue, and blue tint. Or a cloth from Bāraṇasī that’s smoothed on both sides, blue, with blue color, blue hue, and blue tint. ",
+            "matched": true
+          },
+          "dn33:3.1.157": {
+            "scid": "dn33:3.1.157",
+            "pli": "Seyyathāpi nāma kaṇikārapupphaṁ pītaṁ pītavaṇṇaṁ pītanidassanaṁ pītanibhāsaṁ, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ pītaṁ pītavaṇṇaṁ pītanidassanaṁ pītanibhāsaṁ; ",
+            "de": "Wie eine Kaṇikārablüte, gelb, von gelber Farbe, in gelber Schattierung, gelbem Ton. Oder wie Stoff aus Bāraṇasī, <span class=\"ebt-matched\">auf beiden Seiten</span> geglättet, gelb, von gelber Farbe, in gelber Schattierung, gelbem Ton. ",
+            "en": "They’re like a champak flower that’s yellow, with yellow color, yellow hue, and yellow tint. Or a cloth from Bāraṇasī that’s smoothed on both sides, yellow, with yellow color, yellow hue, and yellow tint. ",
+            "matched": true
+          },
+          "dn33:3.1.161": {
+            "scid": "dn33:3.1.161",
+            "pli": "Seyyathāpi nāma bandhujīvakapupphaṁ lohitakaṁ lohitakavaṇṇaṁ lohitakanidassanaṁ lohitakanibhāsaṁ, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ lohitakaṁ lohitakavaṇṇaṁ lohitakanidassanaṁ lohitakanibhāsaṁ; ",
+            "de": "Wie eine scharlachrote Malvenblüte, rot, von roter Farbe, in roter Schattierung, rotem Ton. Oder wie Stoff aus Bāraṇasī, <span class=\"ebt-matched\">auf beiden Seiten</span> geglättet, rot, von roter Farbe, in roter Schattierung, rotem Ton. ",
+            "en": "They’re like a scarlet mallow flower that’s red, with red color, red hue, and red tint. Or a cloth from Bāraṇasī that’s smoothed on both sides, red, with red color, red hue, and red tint. ",
+            "matched": true
+          },
+          "dn33:3.1.165": {
+            "scid": "dn33:3.1.165",
+            "pli": "Seyyathāpi nāma osadhitārakā odātā odātavaṇṇā odātanidassanā odātanibhāsā, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ odātaṁ odātavaṇṇaṁ odātanidassanaṁ odātanibhāsaṁ; ",
+            "de": "Wie der Morgenstern, weiß, von weißer Farbe, in weißer Schattierung, weißem Ton. Oder wie Stoff aus Bāraṇasī, <span class=\"ebt-matched\">auf beiden Seiten</span> geglättet, weiß, von weißer Farbe, in weißer Schattierung, weißem Ton. ",
+            "en": "They’re like the morning star that’s white, with white color, white hue, and white tint. Or a cloth from Bāraṇasī that’s smoothed on both sides, white, with white color, white hue, and white tint. ",
+            "matched": true
+          }
+        },
+        "score": 4.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.51_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.51_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.51_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.51",
+        "lang": "de",
+        "segMap": {
+          "an5.51:3.3": {
+            "scid": "an5.51:3.3",
+            "pli": "Tassā puriso ubhato naṅgalamukhāni vivareyya. ",
+            "de": "und dann würde ein Mann <span class=\"ebt-matched\">auf beiden Seiten</span> Kanäle öffnen, ",
+            "en": "But then a man would open channels on both sides, ",
+            "matched": true
+          },
+          "an5.51:4.3": {
+            "scid": "an5.51:4.3",
+            "pli": "Tassā puriso ubhato naṅgalamukhāni pidaheyya. ",
+            "de": "und dann würde ein Mann die Kanäle <span class=\"ebt-matched\">auf beiden Seiten</span> schließen, ",
+            "en": "But then a man would close up the channels on both sides, ",
+            "matched": true
+          }
+        },
+        "score": 2.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n6. Hindernisse\n51. Hemmnisse",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 28,
+          "de": 27,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.52-63_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.52-63_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.52-63_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.52-63",
+        "lang": "de",
+        "segMap": {
+          "an2.63:1.1": {
+            "scid": "an2.63:1.1",
+            "pli": "“Yasmiṁ, bhikkhave, adhikaraṇe ubhato vacīsaṁsāro diṭṭhipaḷāso cetaso āghāto appaccayo anabhiraddhi ajjhattaṁ avūpasantaṁ hoti, tasmetaṁ, bhikkhave, adhikaraṇe pāṭikaṅkhaṁ: ",
+            "de": "„Wenn in einer disziplinarischen Angelegenheit der Tratsch <span class=\"ebt-matched\">auf beiden Seiten</span> nicht zwischen den Beteiligten beigelegt werden kann – Tratsch mit Geringschätzung der Meinung der anderen Seite, grollend, verdrießlich und ärgerlich –, ",
+            "en": "“In a disciplinary issue, when the tale-bearing on both sides—with contempt for each other’s views, resentful, bitter, and exasperated—is not settled internally, you can expect that this disciplinary issue will be ",
+            "matched": true
+          },
+          "an2.63:2.1": {
+            "scid": "an2.63:2.1",
+            "pli": "Yasmiñca kho, bhikkhave, adhikaraṇe ubhato vacīsaṁsāro diṭṭhipaḷāso cetaso āghāto appaccayo anabhiraddhi ajjhattaṁ suvūpasantaṁ hoti, tasmetaṁ, bhikkhave, adhikaraṇe pāṭikaṅkhaṁ: ",
+            "de": "Wenn in einer disziplinarischen Angelegenheit der Tratsch <span class=\"ebt-matched\">auf beiden Seiten</span> zwischen den Beteiligten ganz beigelegt werden kann – Tratsch mit Geringschätzung der Meinung der anderen Seite, grollend, verdrießlich und ärgerlich –, ",
+            "en": "In a disciplinary issue, when the tale-bearing on both sides—with contempt for each other’s views, resentful, bitter, and exasperated—is well settled internally, you can expect that this disciplinary issue ",
+            "matched": true
+          }
+        },
+        "score": 2.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n6. Menschen\n52–63",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 88,
+          "de": 87,
+          "en": 87
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn28",
+        "lang": "de",
+        "segMap": {
+          "dn28:7.13": {
+            "scid": "dn28:7.13",
+            "pli": "Purisassa ca viññāṇasotaṁ pajānāti, ubhayato abbocchinnaṁ idha loke patiṭṭhitañca paraloke patiṭṭhitañca. ",
+            "de": "Er versteht den Bewusstseinsstrom eines Menschen, der <span class=\"ebt-matched\">auf beiden Seiten</span> ununterbrochen ist, sowohl in dieser als auch in der nächsten Welt verankert. ",
+            "en": "They understand a person’s stream of consciousness, unbroken on both sides, established in both this world and the next. ",
+            "matched": true
+          },
+          "dn28:7.18": {
+            "scid": "dn28:7.18",
+            "pli": "Purisassa ca viññāṇasotaṁ pajānāti, ubhayato abbocchinnaṁ idha loke appatiṭṭhitañca paraloke appatiṭṭhitañca. ",
+            "de": "Er versteht den Bewusstseinsstrom eines Menschen, der <span class=\"ebt-matched\">auf beiden Seiten</span> ununterbrochen ist, weder in dieser noch in der nächsten Welt verankert. ",
+            "en": "They understand a person’s stream of consciousness, unbroken on both sides, not established in either this world or the next. ",
+            "matched": true
+          }
+        },
+        "score": 2.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 28\nZuversicht wecken\n1. Sāriputtas Löwengebrüll",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 250,
+          "de": 236,
+          "en": 249
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.35_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.35_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.35_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.35",
+        "lang": "de",
+        "segMap": {
+          "an3.35:3.3": {
+            "scid": "an3.35:3.3",
+            "pli": "Tatrassa pallaṅko gonakatthato paṭikatthato paṭalikatthato kadalimigapavarapaccattharaṇo sauttaracchado ubhato lohitakūpadhāno; ",
+            "de": "Seine Liege ist mit flauschigen, rein weißen und mit Blumen bestickten wollenen Decken gepolstert und mit einer Decke aus feinem Hirschleder überzogen, sie hat einen Baldachin und rote Kissen <span class=\"ebt-matched\">auf beiden Seiten</span>. ",
+            "en": "His couch is spread with woolen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide. It has a canopy above and red pillows at both ends. ",
+            "matched": true
+          }
+        },
+        "score": 1.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n4. Götterboten\n35. Mit Hatthaka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 43,
+          "de": 42,
+          "en": 42
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.43_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.43_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.43_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.43",
+        "lang": "de",
+        "segMap": {
+          "an5.43:10.4": {
+            "scid": "an5.43:10.4",
+            "pli": "adhigaṇhāti paṇḍito. ",
+            "de": "den Nutzen <span class=\"ebt-matched\">auf beiden Seiten</span>: ",
+            "en": "secures both benefits: ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n5. Mit König Muṇḍa\n43. Erwünscht",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "de": 46,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.44_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.44_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.44_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.44",
+        "lang": "de",
+        "segMap": {
+          "an5.44:7.3": {
+            "scid": "an5.44:7.3",
+            "pli": "Manāpo me, bhante, pallaṅko gonakatthato paṭalikatthato kadalimigapavarapaccattharaṇo sauttaracchado ubhatolohitakūpadhāno. ",
+            "de": "„… Meine Liege ist angenehm: Sie ist mit flauschigen, mit Blumen bestickten wollenen Decken gepolstert und mit einer Decke aus feinem Hirschleder überzogen, sie hat einen Baldachin und rote Kissen <span class=\"ebt-matched\">auf beiden Seiten</span>. ",
+            "en": "“… My couch spread with woolen covers—shag-piled or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at both ends is agreeable. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n5. Mit König Muṇḍa\n44. Angenehm",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 65,
+          "de": 56,
+          "en": 64
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.63_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.63_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.63_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.63",
+        "lang": "de",
+        "segMap": {
+          "an3.63:3.10": {
+            "scid": "an3.63:3.10",
+            "pli": "āsandi pallaṅko gonako cittako paṭikā paṭalikā tūlikā vikatikā uddalomī ekantalomī kaṭṭissaṁ koseyyaṁ kuttakaṁ hatthattharaṁ assattharaṁ rathattharaṁ ajinappaveṇī kadalimigapavarapaccattharaṇaṁ sauttaracchadaṁ ubhatolohitakūpadhānaṁ, evarūpānaṁ nūna bhavaṁ gotamo uccāsayanamahāsayanānaṁ nikāmalābhī akicchalābhī akasiralābhī”ti. ",
+            "de": "wie ein Chaiselongue oder ein Sofa mit flauschigen, bunten, weißen, blumenbestickten, wattierten, mit Tieren bestickten, mit doppelten oder einfachen Fransen versehenen Wolldecken, mit perlenbestickten Seidendecken und seidenen Laken, Webteppichen, Elefanten-, Pferde- oder Kutschendecken, Teppichen aus Antilopenhaut und Decken aus feinem Hirschleder, darüber ein Baldachin und rote Kissen <span class=\"ebt-matched\">auf beiden Seiten</span>.“ ",
+            "en": "sofas, couches, woolen covers—shag-piled, colorful, white, embroidered with flowers, quilted, embroidered with animals, double-or single-fringed—and silk covers studded with gems, as well as silken sheets, woven carpets, rugs for elephants, horses, or chariots, antelope hide rugs, and spreads of fine deer hide, with a canopy above and red cushions at both ends.” ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n63. In Venāgapura",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 79,
+          "de": 78,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.45_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.45_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.45_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.45",
+        "lang": "de",
+        "segMap": {
+          "an6.45:22.2": {
+            "scid": "an6.45:22.2",
+            "pli": "saddhassa gharamesino; ",
+            "de": "gewinnt <span class=\"ebt-matched\">auf beiden Seiten</span>: ",
+            "en": "wins both ways: ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n5. Über Dhammika\n45. Schulden",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 100,
+          "de": 99,
+          "en": 99
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.65_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.65_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.65_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.65",
+        "lang": "de",
+        "segMap": {
+          "an3.65:46.1": {
+            "scid": "an3.65:46.1",
+            "pli": "‘Sace kho pana karoto na karīyati pāpaṁ, athāhaṁ ubhayeneva visuddhaṁ attānaṁ samanupassāmī’ti, ayamassa catuttho assāso adhigato hoti. ",
+            "de": "‚Wenn sich herausstellt, dass schlechte Dinge nicht denen widerfahren, die Schlechtes tun, dann sehe ich mich dennoch <span class=\"ebt-matched\">auf beiden Seiten</span> rein.‘ Das ist der vierte Trost, den sie gewonnen hat. ",
+            "en": "‘If it turns out that bad things don’t happen to people who do bad things, then I still see myself pure on both sides.’ This is the fourth consolation they’ve won. ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n65. Mit den Kālāmern von Kesamutta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 108,
+          "de": 107,
+          "en": 107
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn17",
+        "lang": "de",
+        "segMap": {
+          "dn17:2.5.4": {
+            "scid": "dn17:2.5.4",
+            "pli": "caturāsīti pallaṅkasahassāni ahesuṁ sovaṇṇamayāni rūpiyamayāni dantamayāni sāramayāni gonakatthatāni paṭikatthatāni paṭalikatthatāni kadalimigapavarapaccattharaṇāni sauttaracchadāni ubhatolohitakūpadhānāni; ",
+            "de": "Er hatte 84.000 Liegen aus Gold, Silber, Elfenbein und Hartholz. Sie waren mit flauschigen, rein weißen und mit Blumen bestickten wollenen Decken gepolstert und mit einer Decke aus feinem Hirschleder überzogen, sie hatten einen Baldachin und rote Kissen <span class=\"ebt-matched\">auf beiden Seiten</span>. ",
+            "en": "He had 84,000 couches made of gold, silver, ivory, and hardwood. They were spread with woollen covers—shag-piled, pure white, or embroidered with flowers—and spread with a fine deer hide, with a canopy above and red pillows at both ends. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 17\nDer König Mahāsudassana",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 444,
+          "de": 359,
+          "en": 443
+        }
+      }
+    ]
+  }
+}

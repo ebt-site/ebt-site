@@ -1,0 +1,112 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "whatever sight you see with your eye is unlikable",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "whatever sight you see with your eye is unlikable",
+    "method": "phrase",
+    "resultPattern": "\\bwhatever sight you see with your eye is unlikable",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn56/sn56.43_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.43_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.135_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.135_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn56.43/en/sujato",
+      "sn35.135/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.135_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.135_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.135",
+        "lang": "en",
+        "segMap": {
+          "sn35.135:1.4": {
+            "scid": "sn35.135:1.4",
+            "pli": "Tattha yaṁ kiñci cakkhunā rūpaṁ passati aniṭṭharūpaṁyeva passati, no iṭṭharūpaṁ; akantarūpaṁyeva passati, no kantarūpaṁ; amanāparūpaṁyeva passati, no manāparūpaṁ. ",
+            "en": "There, <span class=\"ebt-matched\">whatever sight you see with your eye is unlikable</span>, not likable; undesirable, not desirable; unpleasant, not pleasant. ",
+            "matched": true
+          },
+          "sn35.135:1.13": {
+            "scid": "sn35.135:1.13",
+            "pli": "Tattha yaṁ kiñci cakkhunā rūpaṁ passati iṭṭharūpaṁyeva passati, no aniṭṭharūpaṁ; kantarūpaṁyeva passati, no akantarūpaṁ; manāparūpaṁyeva passati, no amanāparūpaṁ …pe… ",
+            "en": "There, whatever sight you see with your eye is likable, not unlikable; desirable, not undesirable; pleasant, not unpleasant. ",
+            "matched": true
+          }
+        },
+        "score": 2.095,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n14. At Devadaha\n135. Opportunity",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.43_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.43_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.43",
+        "lang": "en",
+        "segMap": {
+          "sn56.43:1.2": {
+            "scid": "sn56.43:1.2",
+            "pli": "Tattha yaṁ kiñci cakkhunā rūpaṁ passati, aniṭṭharūpaññeva passati no iṭṭharūpaṁ; akantarūpaññeva passati no kantarūpaṁ; amanāparūpaññeva passati no manāparūpaṁ. ",
+            "en": "There, <span class=\"ebt-matched\">whatever sight you see with your eye is unlikable</span>, not likable; undesirable, not desirable; unpleasant, not pleasant. ",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n5. A Cliff\n43. The Mighty Fever",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      }
+    ]
+  }
+}

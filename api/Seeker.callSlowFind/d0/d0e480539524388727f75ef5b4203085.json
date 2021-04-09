@@ -1,0 +1,207 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "unfruchtbarkeit des gemüts",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "unfruchtbarkeit des gemüts",
+    "method": "phrase",
+    "resultPattern": "\\bunfruchtbarkeit des gemüts",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.205_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.205_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.205_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.205/de/sabbamitta",
+      "dn34/de/sabbamitta",
+      "dn33/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.205_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.205_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.205_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.205",
+        "lang": "de",
+        "segMap": {
+          "an5.205:0.3": {
+            "scid": "an5.205:0.3",
+            "pli": "205. Cetokhilasutta ",
+            "de": "205. <span class=\"ebt-matched\">Unfruchtbarkeit des Gemüts</span> ",
+            "en": "205. Emotional Barrenness ",
+            "matched": true
+          },
+          "an5.205:1.1": {
+            "scid": "an5.205:1.1",
+            "pli": "“Pañcime, bhikkhave, cetokhilā. ",
+            "de": "„Mönche und Nonnen, es gibt fünf Arten von <span class=\"ebt-matched\">Unfruchtbarkeit des Gemüts</span>. ",
+            "en": "“Mendicants, there are these five kinds of emotional barrenness. ",
+            "matched": true
+          },
+          "an5.205:1.5": {
+            "scid": "an5.205:1.5",
+            "pli": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, ayaṁ paṭhamo cetokhilo. ",
+            "de": "Das ist die erste Art von <span class=\"ebt-matched\">Unfruchtbarkeit des Gemüts</span>. ",
+            "en": "This is the first kind of emotional barrenness. ",
+            "matched": true
+          },
+          "an5.205:2.6": {
+            "scid": "an5.205:2.6",
+            "pli": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, ayaṁ pañcamo cetokhilo. ",
+            "de": "Das ist die fünfte Art von <span class=\"ebt-matched\">Unfruchtbarkeit des Gemüts</span>. ",
+            "en": "This is the fifth kind of emotional barrenness. ",
+            "matched": true
+          },
+          "an5.205:2.7": {
+            "scid": "an5.205:2.7",
+            "pli": "Ime kho, bhikkhave, pañca cetokhilā”ti. ",
+            "de": "Das sind die fünf Arten von <span class=\"ebt-matched\">Unfruchtbarkeit des Gemüts</span>.“ ",
+            "en": "These are the five kinds of emotional barrenness.” ",
+            "matched": true
+          }
+        },
+        "score": 5.313,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n21. Mit Kimbila\n205. Unfruchtbarkeit des Gemüts",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 16,
+          "de": 15,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:2.1.76": {
+            "scid": "dn33:2.1.76",
+            "pli": "Pañca cetokhilā. ",
+            "de": "Fünf Arten von <span class=\"ebt-matched\">Unfruchtbarkeit des Gemüts</span>: ",
+            "en": "Five kinds of emotional barrenness. ",
+            "matched": true
+          },
+          "dn33:2.1.78": {
+            "scid": "dn33:2.1.78",
+            "pli": "Yo so, āvuso, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na sampasīdati, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, ayaṁ paṭhamo cetokhilo. ",
+            "de": "Wenn das so ist, neigt sein Geist nicht zu Ehrgeiz, Hingabe, Ausdauer und Mühe. Das ist die erste Art von <span class=\"ebt-matched\">Unfruchtbarkeit des Gemüts</span>. ",
+            "en": "This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the first kind of emotional barrenness. ",
+            "matched": true
+          },
+          "dn33:2.1.83": {
+            "scid": "dn33:2.1.83",
+            "pli": "Yo so, āvuso, bhikkhu sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, ayaṁ pañcamo cetokhilo. ",
+            "de": "Wenn das so ist, neigt sein Geist nicht zu Ehrgeiz, Hingabe, Ausdauer und Mühe. Das ist die fünfte Art von <span class=\"ebt-matched\">Unfruchtbarkeit des Gemüts</span>. ",
+            "en": "This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the fifth kind of emotional barrenness. ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.6.24": {
+            "scid": "dn34:1.6.24",
+            "pli": "Pañca cetokhilā—",
+            "de": "Fünf Arten von <span class=\"ebt-matched\">Unfruchtbarkeit des Gemüts</span>: ",
+            "en": "Five kinds of emotional barrenness. ",
+            "matched": true
+          },
+          "dn34:1.6.28": {
+            "scid": "dn34:1.6.28",
+            "pli": "Ayaṁ paṭhamo cetokhilo. ",
+            "de": "Das ist die erste Art von <span class=\"ebt-matched\">Unfruchtbarkeit des Gemüts</span>. ",
+            "en": "This is the first kind of emotional barrenness. ",
+            "matched": true
+          },
+          "dn34:1.6.34": {
+            "scid": "dn34:1.6.34",
+            "pli": "Ayaṁ pañcamo cetokhilo. ",
+            "de": "Das ist die fünfte Art von <span class=\"ebt-matched\">Unfruchtbarkeit des Gemüts</span>. ",
+            "en": "This is the fifth kind of emotional barrenness. ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

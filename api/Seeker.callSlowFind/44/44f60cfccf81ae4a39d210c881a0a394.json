@@ -1,0 +1,234 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "a deep lake fed by spring water",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "a deep lake fed by spring water",
+    "method": "phrase",
+    "resultPattern": "\\ba deep lake fed by spring water",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn77_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn77_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn39_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn39_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn119_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn119_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.28_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.28_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn77/en/sujato",
+      "mn39/en/sujato",
+      "mn119/en/sujato",
+      "dn2/en/sujato",
+      "dn10/en/sujato",
+      "an5.28/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.28_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.28",
+        "lang": "en",
+        "segMap": {
+          "an5.28:3.4": {
+            "scid": "an5.28:3.4",
+            "pli": "Seyyathāpi, bhikkhave, udakarahado gambhīro ubbhidodako. Tassa nevassa puratthimāya disāya udakassa āyamukhaṁ, na pacchimāya disāya udakassa āyamukhaṁ, na uttarāya disāya udakassa āyamukhaṁ, na dakkhiṇāya disāya udakassa āyamukhaṁ, devo ca kālena kālaṁ sammā dhāraṁ nānuppaveccheyya. ",
+            "en": "It’s like <span class=\"ebt-matched\">a deep lake fed by spring water</span>. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n3. With Five Factors\n28. With Five Factors",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 85,
+          "en": 84
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn39_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn39_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn39",
+        "lang": "en",
+        "segMap": {
+          "mn39:16.3": {
+            "scid": "mn39:16.3",
+            "pli": "Seyyathāpi, bhikkhave, udakarahado ubbhidodako. Tassa nevassa puratthimāya disāya udakassa āyamukhaṁ, na pacchimāya disāya udakassa āyamukhaṁ, na uttarāya disāya udakassa āyamukhaṁ, na dakkhiṇāya disāya udakassa āyamukhaṁ, devo ca na kālena kālaṁ sammādhāraṁ anuppaveccheyya. Atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṁ sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya, nāssa kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṁ assa. ",
+            "en": "It’s like <span class=\"ebt-matched\">a deep lake fed by spring water</span>. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. But the stream of cool water welling up in the lake drenches, steeps, fills, and spreads throughout the lake. There’s no part of the lake that’s not spread through with cool water. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 39\nThe Longer Discourse at Assapura",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 191,
+          "en": 190
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn119_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn119_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn119",
+        "lang": "en",
+        "segMap": {
+          "mn119:19.3": {
+            "scid": "mn119:19.3",
+            "pli": "Seyyathāpi, bhikkhave, udakarahado gambhīro ubbhidodako. Tassa nevassa puratthimāya disāya udakassa āyamukhaṁ na pacchimāya disāya udakassa āyamukhaṁ na uttarāya disāya udakassa āyamukhaṁ na dakkhiṇāya disāya udakassa āyamukhaṁ; devo ca na kālena kālaṁ sammā dhāraṁ anuppaveccheyya; atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṁ sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya, nāssa kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṁ assa; ",
+            "en": "It’s like <span class=\"ebt-matched\">a deep lake fed by spring water</span>. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. But the stream of cool water welling up in the lake drenches, steeps, fills, and spreads throughout the lake. There’s no part of the lake that’s not spread through with cool water. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 119\nMindfulness of the Body",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 190,
+          "en": 173
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn10",
+        "lang": "en",
+        "segMap": {
+          "dn10:2.16.1": {
+            "scid": "dn10:2.16.1",
+            "pli": "Seyyathāpi, māṇava, udakarahado gambhīro ubbhidodako. Tassa nevassa puratthimāya disāya udakassa āyamukhaṁ, na dakkhiṇāya disāya udakassa āyamukhaṁ, na pacchimāya disāya udakassa āyamukhaṁ, na uttarāya disāya udakassa āyamukhaṁ, devo ca na kālena kālaṁ sammā dhāraṁ anupaveccheyya. Atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṁ sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya, nāssa kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṁ assa. ",
+            "en": "It’s like <span class=\"ebt-matched\">a deep lake fed by spring water</span>. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. But the stream of cool water welling up in the lake drenches, steeps, fills, and spreads throughout the lake. There’s no part of the lake that’s not spread through with cool water. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 10\nWith Subha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 284,
+          "en": 281
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn77_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn77_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn77",
+        "lang": "en",
+        "segMap": {
+          "mn77:26.3": {
+            "scid": "mn77:26.3",
+            "pli": "Seyyathāpi, udāyi, udakarahado gambhīro ubbhidodako. Tassa nevassa puratthimāya disāya udakassa āyamukhaṁ, na pacchimāya disāya udakassa āyamukhaṁ, na uttarāya disāya udakassa āyamukhaṁ, na dakkhiṇāya disāya udakassa āyamukhaṁ, devo ca na kālena kālaṁ sammā dhāraṁ anuppaveccheyya; ",
+            "en": "It’s like <span class=\"ebt-matched\">a deep lake fed by spring water</span>. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 77\nThe Longer Discourse with Sakuludāyī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 390,
+          "en": 373
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn2",
+        "lang": "en",
+        "segMap": {
+          "dn2:78.1": {
+            "scid": "dn2:78.1",
+            "pli": "Seyyathāpi, mahārāja, udakarahado gambhīro ubbhidodako tassa nevassa puratthimāya disāya udakassa āyamukhaṁ, na dakkhiṇāya disāya udakassa āyamukhaṁ, na pacchimāya disāya udakassa āyamukhaṁ, na uttarāya disāya udakassa āyamukhaṁ, devo ca na kālena kālaṁ sammādhāraṁ anuppaveccheyya. ",
+            "en": "It’s like <span class=\"ebt-matched\">a deep lake fed by spring water</span>. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 2\nThe Fruits of the Ascetic Life\n1. A Discussion With the King’s Ministers",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 649,
+          "en": 632
+        }
+      }
+    ]
+  }
+}

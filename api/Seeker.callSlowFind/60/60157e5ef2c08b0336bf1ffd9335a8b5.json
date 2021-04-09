@@ -1,0 +1,482 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "has ceased",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "has ceased",
+    "method": "phrase",
+    "resultPattern": "\\bhas ceased",
+    "segsMatched": 43,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn36/sn36.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn36/sn36.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.31_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.31_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.85_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.85_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn36/sn36.15_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn36/sn36.15_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga8/ud8.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga8/ud8.9_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn36.11/en/sujato",
+      "dn34/en/sujato",
+      "dn33/en/sujato",
+      "an9.31/en/sujato",
+      "sn22.85/en/sujato",
+      "sn36.15/en/sujato",
+      "ud8.9/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn36/sn36.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn36/sn36.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn36.11",
+        "lang": "en",
+        "segMap": {
+          "sn36.11:2.16": {
+            "scid": "sn36.11:2.16",
+            "pli": "Paṭhamaṁ jhānaṁ samāpannassa vācā niruddhā hoti. ",
+            "en": "For someone who has attained the first absorption, speech <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "sn36.11:2.17": {
+            "scid": "sn36.11:2.17",
+            "pli": "Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā niruddhā honti. ",
+            "en": "For someone who has attained the second absorption, the placing of the mind and keeping it connected have ceased. ",
+            "matched": true
+          },
+          "sn36.11:2.18": {
+            "scid": "sn36.11:2.18",
+            "pli": "Tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti. ",
+            "en": "For someone who has attained the third absorption, rapture <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "sn36.11:2.19": {
+            "scid": "sn36.11:2.19",
+            "pli": "Catutthaṁ jhānaṁ samāpannassa assāsapassāsā niruddhā honti. ",
+            "en": "For someone who has attained the fourth absorption, breathing <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "sn36.11:2.20": {
+            "scid": "sn36.11:2.20",
+            "pli": "Ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti. ",
+            "en": "For someone who has attained the dimension of infinite space, the perception of form <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "sn36.11:2.21": {
+            "scid": "sn36.11:2.21",
+            "pli": "Viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti. ",
+            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "sn36.11:2.22": {
+            "scid": "sn36.11:2.22",
+            "pli": "Ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti. ",
+            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "sn36.11:2.23": {
+            "scid": "sn36.11:2.23",
+            "pli": "Nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti. ",
+            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "sn36.11:2.24": {
+            "scid": "sn36.11:2.24",
+            "pli": "Saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti. ",
+            "en": "For someone who has attained the cessation of perception and feeling, perception and feeling have ceased. ",
+            "matched": true
+          },
+          "sn36.11:2.25": {
+            "scid": "sn36.11:2.25",
+            "pli": "Khīṇāsavassa bhikkhuno rāgo niruddho hoti, doso niruddho hoti, moho niruddho hoti. ",
+            "en": "For a mendicant who has ended the defilements, greed, hate, and delusion have ceased. ",
+            "matched": true
+          }
+        },
+        "score": 10.2,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 36\n2. In Private\n11. In Private",
+        "segsMatched": 10,
+        "langSegs": {
+          "pli": 50,
+          "en": 49
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.31_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.31_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.31",
+        "lang": "en",
+        "segMap": {
+          "an9.31:1.3": {
+            "scid": "an9.31:1.3",
+            "pli": "Paṭhamaṁ jhānaṁ samāpannassa kāmasaññā niruddhā hoti; ",
+            "en": "For someone who has attained the first absorption, sensual perceptions have ceased. ",
+            "matched": true
+          },
+          "an9.31:1.4": {
+            "scid": "an9.31:1.4",
+            "pli": "dutiyaṁ jhānaṁ samāpannassa vitakkavicārā niruddhā honti; ",
+            "en": "For someone who has attained the second absorption, the placing of the mind and keeping it connected have ceased. ",
+            "matched": true
+          },
+          "an9.31:1.5": {
+            "scid": "an9.31:1.5",
+            "pli": "tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti; ",
+            "en": "For someone who has attained the third absorption, rapture <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "an9.31:1.6": {
+            "scid": "an9.31:1.6",
+            "pli": "catutthaṁ jhānaṁ samāpannassa assāsapassāsā niruddhā honti; ",
+            "en": "For someone who has attained the fourth absorption, breathing <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "an9.31:1.7": {
+            "scid": "an9.31:1.7",
+            "pli": "ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti; ",
+            "en": "For someone who has attained the dimension of infinite space, the perception of form <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "an9.31:1.8": {
+            "scid": "an9.31:1.8",
+            "pli": "viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti; ",
+            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "an9.31:1.9": {
+            "scid": "an9.31:1.9",
+            "pli": "ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti; ",
+            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "an9.31:1.10": {
+            "scid": "an9.31:1.10",
+            "pli": "nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti; ",
+            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "an9.31:1.11": {
+            "scid": "an9.31:1.11",
+            "pli": "saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti. ",
+            "en": "For someone who has attained the cessation of perception and feeling, perception and feeling have ceased. ",
+            "matched": true
+          }
+        },
+        "score": 9.409,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n3. Abodes of Sentient Beings\n31. Progressive Cessations",
+        "segsMatched": 9,
+        "langSegs": {
+          "pli": 22,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:2.2.80": {
+            "scid": "dn34:2.2.80",
+            "pli": "paṭhamaṁ jhānaṁ samāpannassa kāmasaññā niruddhā hoti, ",
+            "en": "For someone who has attained the first absorption, sensual perceptions have ceased. ",
+            "matched": true
+          },
+          "dn34:2.2.81": {
+            "scid": "dn34:2.2.81",
+            "pli": "dutiyaṁ jhānaṁ samāpannassa vitakkavicārā niruddhā honti, ",
+            "en": "For someone who has attained the second absorption, the placing of the mind and keeping it connected have ceased. ",
+            "matched": true
+          },
+          "dn34:2.2.82": {
+            "scid": "dn34:2.2.82",
+            "pli": "tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti, ",
+            "en": "For someone who has attained the third absorption, rapture <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "dn34:2.2.83": {
+            "scid": "dn34:2.2.83",
+            "pli": "catutthaṁ jhānaṁ samāpannassa assāsapassāssā niruddhā honti, ",
+            "en": "For someone who has attained the fourth absorption, breathing <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "dn34:2.2.84": {
+            "scid": "dn34:2.2.84",
+            "pli": "ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti, ",
+            "en": "For someone who has attained the dimension of infinite space, the perception of form <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "dn34:2.2.85": {
+            "scid": "dn34:2.2.85",
+            "pli": "viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti, ",
+            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "dn34:2.2.86": {
+            "scid": "dn34:2.2.86",
+            "pli": "ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti, ",
+            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "dn34:2.2.87": {
+            "scid": "dn34:2.2.87",
+            "pli": "nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti, ",
+            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "dn34:2.2.88": {
+            "scid": "dn34:2.2.88",
+            "pli": "saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti. ",
+            "en": "For someone who has attained the cessation of perception and feeling, perception and feeling have ceased. ",
+            "matched": true
+          }
+        },
+        "score": 9.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 9,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:3.2.83": {
+            "scid": "dn33:3.2.83",
+            "pli": "Paṭhamaṁ jhānaṁ samāpannassa kāmasaññā niruddhā hoti. ",
+            "en": "For someone who has attained the first absorption, sensual perceptions have ceased. ",
+            "matched": true
+          },
+          "dn33:3.2.84": {
+            "scid": "dn33:3.2.84",
+            "pli": "Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā niruddhā honti. ",
+            "en": "For someone who has attained the second absorption, the placing of the mind and keeping it connected have ceased. ",
+            "matched": true
+          },
+          "dn33:3.2.85": {
+            "scid": "dn33:3.2.85",
+            "pli": "Tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti. ",
+            "en": "For someone who has attained the third absorption, rapture <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "dn33:3.2.86": {
+            "scid": "dn33:3.2.86",
+            "pli": "Catutthaṁ jhānaṁ samāpannassa assāsapassāssā niruddhā honti. ",
+            "en": "For someone who has attained the fourth absorption, breathing <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "dn33:3.2.87": {
+            "scid": "dn33:3.2.87",
+            "pli": "Ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti. ",
+            "en": "For someone who has attained the dimension of infinite space, the perception of form <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "dn33:3.2.88": {
+            "scid": "dn33:3.2.88",
+            "pli": "Viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti. ",
+            "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "dn33:3.2.89": {
+            "scid": "dn33:3.2.89",
+            "pli": "Ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti. ",
+            "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "dn33:3.2.90": {
+            "scid": "dn33:3.2.90",
+            "pli": "Nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti. ",
+            "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness <span class=\"ebt-matched\">has ceased</span>. ",
+            "matched": true
+          },
+          "dn33:3.2.91": {
+            "scid": "dn33:3.2.91",
+            "pli": "Saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti. ",
+            "en": "For someone who has attained the cessation of perception and feeling, perception and feeling have ceased. ",
+            "matched": true
+          }
+        },
+        "score": 9.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 9,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn36/sn36.15_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn36/sn36.15_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn36.15",
+        "lang": "en",
+        "segMap": {
+          "sn36.15:1.15": {
+            "scid": "sn36.15:1.15",
+            "pli": "Paṭhamaṁ jhānaṁ samāpannassa vācā niruddhā hoti …pe… ",
+            "en": "For someone who has attained the first absorption, speech <span class=\"ebt-matched\">has ceased</span>. … ",
+            "matched": true
+          },
+          "sn36.15:1.16": {
+            "scid": "sn36.15:1.16",
+            "pli": "saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti. ",
+            "en": "For someone who has attained the cessation of perception and feeling, perception and feeling have ceased. ",
+            "matched": true
+          },
+          "sn36.15:1.17": {
+            "scid": "sn36.15:1.17",
+            "pli": "Khīṇāsavassa bhikkhuno rāgo niruddho hoti, doso niruddho hoti, moho niruddho hoti. ",
+            "en": "For a mendicant who has ended the defilements, greed, hate, and delusion have ceased. ",
+            "matched": true
+          }
+        },
+        "score": 3.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 36\n2. In Private\n15. With Ānanda (1st)",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.85_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.85_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.85",
+        "lang": "en",
+        "segMap": {
+          "sn22.85:13.9": {
+            "scid": "sn22.85:13.9",
+            "pli": "yaṁ dukkhaṁ taṁ niruddhaṁ tadatthaṅgataṁ. ",
+            "en": "What’s suffering <span class=\"ebt-matched\">has ceased</span> and ended. ",
+            "matched": true
+          },
+          "sn22.85:13.15": {
+            "scid": "sn22.85:13.15",
+            "pli": "yaṁ dukkhaṁ taṁ niruddhaṁ tadatthaṅgatan’ti. ",
+            "en": "What’s suffering <span class=\"ebt-matched\">has ceased</span> and ended.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n9. Senior Mendicants\n85. With Yamaka",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 197,
+          "en": 196
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga8/ud8.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga8/ud8.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud8.9",
+        "lang": "en",
+        "segMap": {
+          "ud8.9:5.1": {
+            "scid": "ud8.9:5.1",
+            "pli": "“Abhedi kāyo nirodhi saññā,",
+            "en": "“The body is broken up, perception <span class=\"ebt-matched\">has ceased</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\nWith Dabba (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "en": 15
+        }
+      }
+    ]
+  }
+}

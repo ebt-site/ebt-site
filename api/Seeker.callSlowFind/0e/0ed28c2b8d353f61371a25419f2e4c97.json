@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "geschlossene faust eines lehrers",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "geschlossene faust eines lehrers",
+    "method": "phrase",
+    "resultPattern": "\\bgeschlossene faust eines lehrers",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn47/sn47.9_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn47/sn47.9_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.9_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn47.9/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.9_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn47/sn47.9_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.9",
+        "lang": "de",
+        "segMap": {
+          "sn47.9:4.3": {
+            "scid": "sn47.9:4.3",
+            "pli": "Natthānanda, tathāgatassa dhammesu ācariyamuṭṭhi. ",
+            "de": "Der Klargewordene hat nicht die <span class=\"ebt-matched\">geschlossene Faust eines Lehrers</span>, wenn es um die Lehren geht. ",
+            "en": "The Realized One doesn’t have the closed fist of a teacher when it comes to the teachings. ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 47\n1. In Ambapālīs Wald\n9. Krank",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "de": 45,
+          "en": 46
+        }
+      }
+    ]
+  }
+}

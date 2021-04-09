@@ -1,0 +1,492 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wild colt",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wild colt",
+    "method": "phrase",
+    "resultPattern": "\\bwild colt",
+    "segsMatched": 49,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an8/an8.14_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.22_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.22_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.140_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.140_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag17.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag17.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.87_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.87_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an8.14/en/sujato",
+      "an9.22/en/sujato",
+      "an3.140/en/sujato",
+      "an11.9/en/sujato",
+      "thag17.1/en/sujato",
+      "an10.87/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.14_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.14_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.14",
+        "lang": "en",
+        "segMap": {
+          "an8.14:0.3": {
+            "scid": "an8.14:0.3",
+            "pli": "14. Assakhaḷuṅkasutta ",
+            "en": "14. A <span class=\"ebt-matched\">Wild Colt</span> ",
+            "matched": true
+          },
+          "an8.14:1.1": {
+            "scid": "an8.14:1.1",
+            "pli": "“Aṭṭha ca, bhikkhave, assakhaḷuṅke desessāmi aṭṭha ca assadose, aṭṭha ca purisakhaḷuṅke aṭṭha ca purisadose. ",
+            "en": "“Mendicants, I will teach you about eight <span class=\"ebt-matched\">wild colt</span>s and eight defects in horses, and about eight wild people and eight defects in people. ",
+            "matched": true
+          },
+          "an8.14:2.1": {
+            "scid": "an8.14:2.1",
+            "pli": "“Katame ca, bhikkhave, aṭṭha assakhaḷuṅkā aṭṭha ca assadosā? ",
+            "en": "“And what, mendicants, are the eight <span class=\"ebt-matched\">wild colt</span>s and eight defects in horses? ",
+            "matched": true
+          },
+          "an8.14:2.2": {
+            "scid": "an8.14:2.2",
+            "pli": "Idha, bhikkhave, ekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā pacchato paṭikkamati, piṭṭhito rathaṁ pavatteti. ",
+            "en": "Firstly, when the trainer says ‘giddyup!’ and spurs and goads them on, some <span class=\"ebt-matched\">wild colt</span>s back right up and spin the chariot behind them. ",
+            "matched": true
+          },
+          "an8.14:2.3": {
+            "scid": "an8.14:2.3",
+            "pli": "Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. ",
+            "en": "Some <span class=\"ebt-matched\">wild colt</span>s are like that. ",
+            "matched": true
+          },
+          "an8.14:3.1": {
+            "scid": "an8.14:3.1",
+            "pli": "Puna caparaṁ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā pacchā laṅghati, kubbaraṁ hanati, tidaṇḍaṁ bhañjati. ",
+            "en": "Furthermore, when the trainer says ‘giddyup!’ and spurs and goads them on, some <span class=\"ebt-matched\">wild colt</span>s jump back, wreck the hub, and break the triple rod. ",
+            "matched": true
+          },
+          "an8.14:3.2": {
+            "scid": "an8.14:3.2",
+            "pli": "Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. ",
+            "en": "Some <span class=\"ebt-matched\">wild colt</span>s are like that. ",
+            "matched": true
+          },
+          "an8.14:4.1": {
+            "scid": "an8.14:4.1",
+            "pli": "Puna caparaṁ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā rathīsāya satthiṁ ussajjitvā rathīsaṁyeva ajjhomaddati. ",
+            "en": "Furthermore, when the trainer says ‘giddyup!’ and spurs and goads them on, some <span class=\"ebt-matched\">wild colt</span>s shake the cart-pole off their thigh and trample it. ",
+            "matched": true
+          },
+          "an8.14:4.2": {
+            "scid": "an8.14:4.2",
+            "pli": "Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. ",
+            "en": "Some <span class=\"ebt-matched\">wild colt</span>s are like that. ",
+            "matched": true
+          },
+          "an8.14:5.1": {
+            "scid": "an8.14:5.1",
+            "pli": "Puna caparaṁ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā ummaggaṁ gaṇhati, ubbaṭumaṁ rathaṁ karoti. ",
+            "en": "Furthermore, when the trainer says ‘giddyup!’ and spurs and goads them on, some <span class=\"ebt-matched\">wild colt</span>s take a wrong turn, sending the chariot off track. ",
+            "matched": true
+          },
+          "an8.14:5.2": {
+            "scid": "an8.14:5.2",
+            "pli": "Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. ",
+            "en": "Some <span class=\"ebt-matched\">wild colt</span>s are like that. ",
+            "matched": true
+          },
+          "an8.14:6.1": {
+            "scid": "an8.14:6.1",
+            "pli": "Puna caparaṁ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā laṅghati purimakāyaṁ paggaṇhati purime pāde. ",
+            "en": "Furthermore, when the trainer says ‘giddyup!’ and spurs and goads them on, some <span class=\"ebt-matched\">wild colt</span>s rear up and strike out with their fore-legs. ",
+            "matched": true
+          },
+          "an8.14:6.2": {
+            "scid": "an8.14:6.2",
+            "pli": "Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. ",
+            "en": "Some <span class=\"ebt-matched\">wild colt</span>s are like that. ",
+            "matched": true
+          },
+          "an8.14:7.1": {
+            "scid": "an8.14:7.1",
+            "pli": "Puna caparaṁ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā anādiyitvā sārathiṁ anādiyitvā patodalaṭṭhiṁ dantehi mukhādhānaṁ vidhaṁsitvā yena kāmaṁ pakkamati. ",
+            "en": "Furthermore, when the trainer says ‘giddyup!’ and spurs and goads them on, some <span class=\"ebt-matched\">wild colt</span>s ignore the trainer and the goad, spit out the bit, and go wherever they want. ",
+            "matched": true
+          },
+          "an8.14:7.2": {
+            "scid": "an8.14:7.2",
+            "pli": "Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. ",
+            "en": "Some <span class=\"ebt-matched\">wild colt</span>s are like that. ",
+            "matched": true
+          },
+          "an8.14:8.1": {
+            "scid": "an8.14:8.1",
+            "pli": "Puna caparaṁ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā neva abhikkamati no paṭikkamati tattheva khīlaṭṭhāyī ṭhito hoti. ",
+            "en": "Furthermore, when the trainer says ‘giddyup!’ and spurs and goads them on, some <span class=\"ebt-matched\">wild colt</span>s don’t step forward or turn back but stand right there still as a post. ",
+            "matched": true
+          },
+          "an8.14:8.2": {
+            "scid": "an8.14:8.2",
+            "pli": "Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. ",
+            "en": "Some <span class=\"ebt-matched\">wild colt</span>s are like that. ",
+            "matched": true
+          },
+          "an8.14:9.1": {
+            "scid": "an8.14:9.1",
+            "pli": "Puna caparaṁ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā purime ca pāde saṁharitvā pacchime ca pāde saṁharitvā tattheva cattāro pāde abhinisīdati. ",
+            "en": "Furthermore, when the trainer says ‘giddyup!’ and spurs and goads them on, some <span class=\"ebt-matched\">wild colt</span>s tuck in their fore-legs and hind-legs, and sit right down on their four legs. ",
+            "matched": true
+          },
+          "an8.14:9.2": {
+            "scid": "an8.14:9.2",
+            "pli": "Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. ",
+            "en": "Some <span class=\"ebt-matched\">wild colt</span>s are like that. ",
+            "matched": true
+          },
+          "an8.14:9.4": {
+            "scid": "an8.14:9.4",
+            "pli": "Ime kho, bhikkhave, aṭṭha assakhaḷuṅkā aṭṭha ca assadosā. ",
+            "en": "These are the eight <span class=\"ebt-matched\">wild colt</span>s and the eight defects in horses. ",
+            "matched": true
+          },
+          "an8.14:10.4": {
+            "scid": "an8.14:10.4",
+            "pli": "Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā pacchato paṭikkamati, piṭṭhito rathaṁ vatteti; ",
+            "en": "I say that this person is comparable to the <span class=\"ebt-matched\">wild colt</span>s who, when the trainer says ‘giddyup!’ and spurs and goads them on, back right up and spin the chariot behind them. ",
+            "matched": true
+          },
+          "an8.14:11.5": {
+            "scid": "an8.14:11.5",
+            "pli": "Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā pacchā laṅghati, kubbaraṁ hanati, tidaṇḍaṁ bhañjati; ",
+            "en": "I say that this person is comparable to the <span class=\"ebt-matched\">wild colt</span>s who, when the trainer says ‘giddyup!’ and spurs and goads them on, jump back, wreck the hub, and break the triple rod. ",
+            "matched": true
+          },
+          "an8.14:12.4": {
+            "scid": "an8.14:12.4",
+            "pli": "Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā rathīsāya satthiṁ ussajjitvā rathīsaṁyeva ajjhomaddati; ",
+            "en": "I say that this person is comparable to the <span class=\"ebt-matched\">wild colt</span>s who, when the trainer says ‘giddyup!’ and spurs and goads them on, shake the cart-pole off their thigh and trample it. ",
+            "matched": true
+          },
+          "an8.14:13.3": {
+            "scid": "an8.14:13.3",
+            "pli": "Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā ummaggaṁ gaṇhati, ubbaṭumaṁ rathaṁ karoti; ",
+            "en": "I say that this person is comparable to the <span class=\"ebt-matched\">wild colt</span>s who, when the trainer says ‘giddyup!’ and spurs and goads them on, take a wrong turn, sending the chariot off track. ",
+            "matched": true
+          },
+          "an8.14:14.3": {
+            "scid": "an8.14:14.3",
+            "pli": "Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā laṅghati, purimakāyaṁ paggaṇhati purime pāde; ",
+            "en": "I say that this person is comparable to the <span class=\"ebt-matched\">wild colt</span>s who, when the trainer says ‘giddyup!’ and spurs and goads them on, rear up and strike out with their fore-legs. ",
+            "matched": true
+          },
+          "an8.14:15.3": {
+            "scid": "an8.14:15.3",
+            "pli": "Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā anādiyitvā sārathiṁ anādiyitvā patodalaṭṭhiṁ dantehi mukhādhānaṁ vidhaṁsitvā yena kāmaṁ pakkamati; ",
+            "en": "I say that this person is comparable to the <span class=\"ebt-matched\">wild colt</span>s who, when the trainer says ‘giddyup!’ and spurs and goads them on, ignore the trainer and the goad, spit out the bit, and go wherever they want. ",
+            "matched": true
+          },
+          "an8.14:16.3": {
+            "scid": "an8.14:16.3",
+            "pli": "Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā neva abhikkamati no paṭikkamati tattheva khīlaṭṭhāyī ṭhito hoti; ",
+            "en": "I say that this person is comparable to the <span class=\"ebt-matched\">wild colt</span>s who, when the trainer says ‘giddyup!’ and spurs and goads them on, don’t step forward or turn back but stand right there still as a post. ",
+            "matched": true
+          },
+          "an8.14:17.6": {
+            "scid": "an8.14:17.6",
+            "pli": "Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā purime ca pāde saṁharitvā pacchime ca pāde saṁharitvā tattheva cattāro pāde abhinisīdati; ",
+            "en": "I say that this person is comparable to the <span class=\"ebt-matched\">wild colt</span>s who, when the trainer says ‘giddyup!’ and spurs and goads them on, tuck in their fore-legs and hind-legs, and sit right down on their four legs. ",
+            "matched": true
+          }
+        },
+        "score": 28.311,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n2. The Great Chapter\n14. A Wild Colt",
+        "segsMatched": 28,
+        "langSegs": {
+          "pli": 90,
+          "en": 89
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.140_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.140_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.140",
+        "lang": "en",
+        "segMap": {
+          "an3.140:0.3": {
+            "scid": "an3.140:0.3",
+            "pli": "140. Assakhaḷuṅkasutta ",
+            "en": "140. A <span class=\"ebt-matched\">Wild Colt</span> ",
+            "matched": true
+          },
+          "an3.140:1.1": {
+            "scid": "an3.140:1.1",
+            "pli": "“Tayo ca, bhikkhave, assakhaḷuṅke desessāmi tayo ca purisakhaḷuṅke. ",
+            "en": "“Mendicants, I will teach you about three <span class=\"ebt-matched\">wild colt</span>s and three wild people. ",
+            "matched": true
+          },
+          "an3.140:2.1": {
+            "scid": "an3.140:2.1",
+            "pli": "“Katame ca, bhikkhave, tayo assakhaḷuṅkā? ",
+            "en": "“What are the three <span class=\"ebt-matched\">wild colt</span>s? ",
+            "matched": true
+          },
+          "an3.140:2.2": {
+            "scid": "an3.140:2.2",
+            "pli": "Idha, bhikkhave, ekacco assakhaḷuṅko javasampanno hoti; na vaṇṇasampanno, na ārohapariṇāhasampanno. ",
+            "en": "One <span class=\"ebt-matched\">wild colt</span> is fast, but not beautiful or well proportioned. ",
+            "matched": true
+          },
+          "an3.140:2.3": {
+            "scid": "an3.140:2.3",
+            "pli": "Idha pana, bhikkhave, ekacco assakhaḷuṅko javasampanno ca hoti vaṇṇasampanno ca; na ārohapariṇāhasampanno. ",
+            "en": "Another <span class=\"ebt-matched\">wild colt</span> is fast and beautiful, but not well proportioned. ",
+            "matched": true
+          },
+          "an3.140:2.4": {
+            "scid": "an3.140:2.4",
+            "pli": "Idha pana, bhikkhave, ekacco assakhaḷuṅko javasampanno ca hoti vaṇṇasampanno ca ārohapariṇāhasampanno ca. ",
+            "en": "While another <span class=\"ebt-matched\">wild colt</span> is fast, beautiful, and well proportioned. ",
+            "matched": true
+          },
+          "an3.140:2.5": {
+            "scid": "an3.140:2.5",
+            "pli": "Ime kho, bhikkhave, tayo assakhaḷuṅkā. ",
+            "en": "These are the three <span class=\"ebt-matched\">wild colt</span>s. ",
+            "matched": true
+          }
+        },
+        "score": 7.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n14. A Warrior\n140. A Wild Colt",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 42,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.22_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.22",
+        "lang": "en",
+        "segMap": {
+          "an9.22:0.3": {
+            "scid": "an9.22:0.3",
+            "pli": "22. Assakhaḷuṅkasutta ",
+            "en": "22. A <span class=\"ebt-matched\">Wild Colt</span> ",
+            "matched": true
+          },
+          "an9.22:1.1": {
+            "scid": "an9.22:1.1",
+            "pli": "“Tayo ca, bhikkhave, assakhaḷuṅke desessāmi tayo ca purisakhaḷuṅke tayo ca assaparasse tayo ca purisaparasse tayo ca bhadde assājānīye tayo ca bhadde purisājānīye. ",
+            "en": "“Mendicants, I will teach you about three <span class=\"ebt-matched\">wild colt</span>s and three wild people; three excellent horses and three excellent people; and three fine thoroughbred horses and three fine thoroughbred people. ",
+            "matched": true
+          },
+          "an9.22:2.1": {
+            "scid": "an9.22:2.1",
+            "pli": "Katame ca, bhikkhave, tayo assakhaḷuṅkā? ",
+            "en": "And what are the three <span class=\"ebt-matched\">wild colt</span>s? ",
+            "matched": true
+          },
+          "an9.22:2.2": {
+            "scid": "an9.22:2.2",
+            "pli": "Idha, bhikkhave, ekacco assakhaḷuṅko javasampanno hoti, na vaṇṇasampanno, na ārohapariṇāhasampanno. ",
+            "en": "One <span class=\"ebt-matched\">wild colt</span> is fast, but not beautiful or well proportioned. ",
+            "matched": true
+          },
+          "an9.22:2.3": {
+            "scid": "an9.22:2.3",
+            "pli": "Idha pana, bhikkhave, ekacco assakhaḷuṅko javasampanno ca hoti vaṇṇasampanno ca, na ārohapariṇāhasampanno. ",
+            "en": "Another <span class=\"ebt-matched\">wild colt</span> is fast and beautiful, but not well proportioned. ",
+            "matched": true
+          },
+          "an9.22:2.4": {
+            "scid": "an9.22:2.4",
+            "pli": "Idha pana, bhikkhave, ekacco assakhaḷuṅko javasampanno ca hoti vaṇṇasampanno ca ārohapariṇāhasampanno ca. ",
+            "en": "While another <span class=\"ebt-matched\">wild colt</span> is fast, beautiful, and well proportioned. ",
+            "matched": true
+          },
+          "an9.22:2.5": {
+            "scid": "an9.22:2.5",
+            "pli": "Ime kho, bhikkhave, tayo assakhaḷuṅkā. ",
+            "en": "These are the three <span class=\"ebt-matched\">wild colt</span>s. ",
+            "matched": true
+          }
+        },
+        "score": 7.095,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n3. Abodes of Sentient Beings\n22. A Wild Colt",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 74,
+          "en": 73
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.9",
+        "lang": "en",
+        "segMap": {
+          "an11.9:2.2": {
+            "scid": "an11.9:2.2",
+            "pli": "mā khaḷuṅkajhāyitaṁ. ",
+            "en": "not like a <span class=\"ebt-matched\">wild colt</span>. ",
+            "matched": true
+          },
+          "an11.9:2.3": {
+            "scid": "an11.9:2.3",
+            "pli": "Kathañca, khaḷuṅkajhāyitaṁ hoti? ",
+            "en": "And how does a <span class=\"ebt-matched\">wild colt</span> meditate? ",
+            "matched": true
+          },
+          "an11.9:2.4": {
+            "scid": "an11.9:2.4",
+            "pli": "Assakhaḷuṅko hi, saddha, doṇiyā baddho ‘yavasaṁ yavasan’ti jhāyati. ",
+            "en": "A <span class=\"ebt-matched\">wild colt</span>, tied up by the feeding trough, meditates: ‘Fodder, fodder!’ ",
+            "matched": true
+          },
+          "an11.9:2.6": {
+            "scid": "an11.9:2.6",
+            "pli": "Na hi, saddha, assakhaḷuṅkassa doṇiyā baddhassa evaṁ hoti: ",
+            "en": "Because it doesn’t occur to the <span class=\"ebt-matched\">wild colt</span> tied up by the feeding trough: ",
+            "matched": true
+          },
+          "an11.9:2.17": {
+            "scid": "an11.9:2.17",
+            "pli": "Evaṁ kho, saddha, purisakhaḷuṅkajhāyitaṁ hoti. ",
+            "en": "That’s how a <span class=\"ebt-matched\">wild colt</span> meditates. ",
+            "matched": true
+          }
+        },
+        "score": 5.085,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n1. Dependence\n9. With Sandha",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 59,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.87_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.87_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.87",
+        "lang": "en",
+        "segMap": {
+          "an10.87:13.1": {
+            "scid": "an10.87:13.1",
+            "pli": "Seyyathāpi, bhikkhave, assakhaḷuṅkassa kiñcāpi evaṁ icchā uppajjeyya: ",
+            "en": "Suppose a <span class=\"ebt-matched\">wild colt</span> was to wish: ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n9. Senior Mendicants\n87. Disciplinary Issues",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 72,
+          "en": 71
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag17.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag17.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag17.1",
+        "lang": "en",
+        "segMap": {
+          "thag17.1:28.4": {
+            "scid": "thag17.1:28.4",
+            "pli": "khaḷuṅko viya sārathiṁ.",
+            "en": "like a <span class=\"ebt-matched\">wild colt</span> with its charioteer.",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Thirties\nChapter One\n17.1. Phussa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 133,
+          "en": 133
+        }
+      }
+    ]
+  }
+}

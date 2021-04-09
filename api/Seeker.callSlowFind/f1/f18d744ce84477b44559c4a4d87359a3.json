@@ -1,0 +1,112 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "ultimate purity",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "ultimate purity",
+    "method": "phrase",
+    "resultPattern": "\\bultimate purity",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an10/an10.29_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.29_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn4/sn4.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn4/sn4.1_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an10.29/en/sujato",
+      "sn4.1/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.29_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.29",
+        "lang": "en",
+        "segMap": {
+          "an10.29:20.1": {
+            "scid": "an10.29:20.1",
+            "pli": "Santi, bhikkhave, eke samaṇabrāhmaṇā paramatthavisuddhiṁ paññāpenti. ",
+            "en": "There are some ascetics and brahmins who advocate <span class=\"ebt-matched\">ultimate purity</span>. ",
+            "matched": true
+          },
+          "an10.29:20.2": {
+            "scid": "an10.29:20.2",
+            "pli": "Etadaggaṁ, bhikkhave, paramatthavisuddhiṁ paññapentānaṁ yadidaṁ sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati. ",
+            "en": "This is the best of the advocates of <span class=\"ebt-matched\">ultimate purity</span>, that is, when someone, going totally beyond the dimension of nothingness, enters and remains in the dimension of neither perception nor non-perception. ",
+            "matched": true
+          }
+        },
+        "score": 2.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n3. The Great Chapter\n29. Kosala (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 124,
+          "en": 123
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn4/sn4.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn4/sn4.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn4.1",
+        "lang": "en",
+        "segMap": {
+          "sn4.1:6.3": {
+            "scid": "sn4.1:6.3",
+            "pli": "Pattosmi paramaṁ suddhiṁ, ",
+            "en": "I attained <span class=\"ebt-matched\">ultimate purity</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 4\n1. Life Span\n1. Mortification",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "en": 24
+        }
+      }
+    ]
+  }
+}

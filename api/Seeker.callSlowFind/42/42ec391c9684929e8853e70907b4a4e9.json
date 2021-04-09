@@ -1,0 +1,138 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "that was my ordination",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "that was my ordination",
+    "method": "phrase",
+    "resultPattern": "\\bthat was my ordination",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/kn/thig/thig5.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig5.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag7.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag7.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag12.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag12.2_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "thig5.9/en/sujato",
+      "thag7.3/en/sujato",
+      "thag12.2/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig5.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig5.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig5.9",
+        "lang": "en",
+        "segMap": {
+          "thig5.9:3.4": {
+            "scid": "thig5.9:3.4",
+            "pli": "sā me āsūpasampadā.",
+            "en": "<span class=\"ebt-matched\">that was my ordination</span>.",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Book of the Fives\n5.9. Bhaddā Kuṇḍalakesā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag7.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag7.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag7.3",
+        "lang": "en",
+        "segMap": {
+          "thag7.3:6.4": {
+            "scid": "thag7.3:6.4",
+            "pli": "sā me āsūpasampadā.",
+            "en": "<span class=\"ebt-matched\">That was my ordination</span>.",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Sevens\nChapter One\n7.3. Bhadda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag12.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag12.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag12.2",
+        "lang": "en",
+        "segMap": {
+          "thag12.2:6.4": {
+            "scid": "thag12.2:6.4",
+            "pli": "sā me āsūpasampadā.",
+            "en": "<span class=\"ebt-matched\">That was my ordination</span>.",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Twelves\nChapter One\n12.2. Sunīta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 62,
+          "en": 54
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "craving for touches",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "craving for touches",
+    "method": "phrase",
+    "resultPattern": "\\bcraving for touches",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn27/sn27.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn27/sn27.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn25/sn25.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn25/sn25.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn18/sn18.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn18/sn18.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn18/sn18.12-20_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn18/sn18.12-20_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.96-614_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.96-614_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.358-405_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.358-405_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn27.8/en/sujato",
+      "sn25.8/en/sujato",
+      "sn18.8/en/sujato",
+      "sn18.12-20/en/sujato",
+      "dn22/en/sujato",
+      "an7.96-614/en/sujato",
+      "an11.358-405/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn18/sn18.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn18/sn18.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn18.8",
+        "lang": "en",
+        "segMap": {
+          "sn18.8:1.8": {
+            "scid": "sn18.8:1.8",
+            "pli": "phoṭṭhabbataṇhā … ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span> … ",
+            "matched": true
+          },
+          "sn18.8:1.11": {
+            "scid": "sn18.8:1.11",
+            "pli": "“evaṁ passaṁ, rāhula, sutavā ariyasāvako rūpataṇhāyapi nibbindati …pe… saddataṇhāyapi nibbindati … gandhataṇhāyapi nibbindati … rasataṇhāyapi nibbindati … phoṭṭhabbataṇhāyapi nibbindati … dhammataṇhāyapi nibbindati …pe… ",
+            "en": "“Seeing this, a learned noble disciple grows disillusioned with craving for sights, sounds, smells, tastes, touches, and thoughts. …” ",
+            "matched": true
+          }
+        },
+        "score": 2.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 18\nChapter One\n8. Craving",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.358-405_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.358-405_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.358-405",
+        "lang": "en",
+        "segMap": {
+          "an11.358-405:1.6": {
+            "scid": "an11.358-405:1.6",
+            "pli": "phoṭṭhabbataṇhāya… ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span> … ",
+            "matched": true
+          }
+        },
+        "score": 1.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\nThe First Fifty\n3. Similarity\n358–405",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn25/sn25.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn25/sn25.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn25.8",
+        "lang": "en",
+        "segMap": {
+          "sn25.8:1.6": {
+            "scid": "sn25.8:1.6",
+            "pli": "phoṭṭhabbataṇhā … ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 25\n1. The Eye\n8. Craving For Sights",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 13,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn27/sn27.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn27/sn27.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn27.8",
+        "lang": "en",
+        "segMap": {
+          "sn27.8:1.6": {
+            "scid": "sn27.8:1.6",
+            "pli": "yo phoṭṭhabbataṇhāya … ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 27\n1. Corruptions\n8. Craving",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 13,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn18/sn18.12-20_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn18/sn18.12-20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn18.12-20",
+        "lang": "en",
+        "segMap": {
+          "sn18.12-20:7.5": {
+            "scid": "sn18.12-20:7.5",
+            "pli": "phoṭṭhabbataṇhā … ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span> … ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 18\nChapter Two\n12–20. The Nine Discourses on Sights, Etc.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 63,
+          "en": 62
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.96-614_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.96-614_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.96-614",
+        "lang": "en",
+        "segMap": {
+          "an7.96-614:9.5": {
+            "scid": "an7.96-614:9.5",
+            "pli": "phoṭṭhabbataṇhāya … ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span> … ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n10. Worthy of Offerings\n96–614",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 104,
+          "en": 103
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn22",
+        "lang": "en",
+        "segMap": {
+          "dn22:19.53": {
+            "scid": "dn22:19.53",
+            "pli": "phoṭṭhabbataṇhā loke … ",
+            "en": "<span class=\"ebt-matched\">craving for touches</span> … ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 22\nThe Longer Discourse on Mindfulness Meditation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 454,
+          "en": 453
+        }
+      }
+    ]
+  }
+}

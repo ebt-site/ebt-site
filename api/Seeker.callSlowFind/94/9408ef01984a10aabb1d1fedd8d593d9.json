@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "lernt die hymnen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "lernt die hymnen",
+    "method": "phrase",
+    "resultPattern": "\\blernt die hymnen",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.192_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.192_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.192_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.192/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.192_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.192_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.192_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.192",
+        "lang": "de",
+        "segMap": {
+          "an5.192:5.4": {
+            "scid": "an5.192:5.4",
+            "pli": "So aṭṭhacattālīsavassāni komārabrahmacariyaṁ carati mante adhīyamāno. ",
+            "de": "Achtundvierzig Jahre lang führt er das jungfräuliche geistliche Leben und <span class=\"ebt-matched\">lernt die Hymnen</span>. ",
+            "en": "For forty-eight years he leads the virginal spiritual life studying the hymns. ",
+            "matched": true
+          },
+          "an5.192:13.4": {
+            "scid": "an5.192:13.4",
+            "pli": "So aṭṭhacattālīsavassāni komārabrahmacariyaṁ carati mante adhīyamāno. ",
+            "de": "Achtundvierzig Jahre lang führt er das jungfräuliche geistliche Leben und <span class=\"ebt-matched\">lernt die Hymnen</span>. ",
+            "en": "For forty-eight years he leads the virginal spiritual life studying the hymns. ",
+            "matched": true
+          }
+        },
+        "score": 2.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n20. Brahmanen\n192. Mit dem Brahmanen Doṇa",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 120,
+          "de": 98,
+          "en": 119
+        }
+      }
+    ]
+  }
+}

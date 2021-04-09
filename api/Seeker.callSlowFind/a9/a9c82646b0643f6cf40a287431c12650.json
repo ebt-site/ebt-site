@@ -1,0 +1,247 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "dinge sind eine hilfe",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "dinge sind eine hilfe",
+    "method": "keywords",
+    "resultPattern": "\\bdinge|\\bsind|\\beine|\\bhilfe",
+    "segsMatched": 20,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.249_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.249_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.249_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.32-41_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.32-41_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.32-41_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/de/sabbamitta",
+      "an4.249/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.3.1": {
+            "scid": "dn34:1.3.1",
+            "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
+            "de": "Zwei <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span>, zwei <span class=\"ebt-matched\">Dinge</span> müssen entwickelt werden, zwei <span class=\"ebt-matched\">Dinge</span> müssen vollständig verstanden werden, zwei <span class=\"ebt-matched\">Dinge</span> müssen aufgegeben werden, zwei <span class=\"ebt-matched\">Dinge</span> führen zum Rückschritt, zwei <span class=\"ebt-matched\">Dinge</span> führen zu Erhabenheit, zwei <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> schwer zu erfassen, zwei <span class=\"ebt-matched\">Dinge</span> müssen erzeugt werden, zwei <span class=\"ebt-matched\">Dinge</span> müssen unmittelbar erkannt werden und zwei <span class=\"ebt-matched\">Dinge</span> müssen verwirklicht werden. ",
+            "en": "Two things are helpful, two things should be developed, two things should be completely understood, two things should be given up, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things should be realized. ",
+            "matched": true
+          },
+          "dn34:1.3.2": {
+            "scid": "dn34:1.3.2",
+            "pli": "Katame dve dhammā bahukārā? ",
+            "de": "Welche zwei <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span>? ",
+            "en": "What two things are helpful? ",
+            "matched": true
+          },
+          "dn34:1.4.1": {
+            "scid": "dn34:1.4.1",
+            "pli": "Tayo dhammā bahukārā, tayo dhammā bhāvetabbā …pe… tayo dhammā sacchikātabbā. ",
+            "de": "Drei <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span> usw. ",
+            "en": "Three things are helpful, etc. ",
+            "matched": true
+          },
+          "dn34:1.4.2": {
+            "scid": "dn34:1.4.2",
+            "pli": "Katame tayo dhammā bahukārā? ",
+            "de": "Welche drei <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span>? ",
+            "en": "What three things are helpful? ",
+            "matched": true
+          },
+          "dn34:1.5.1": {
+            "scid": "dn34:1.5.1",
+            "pli": "Cattāro dhammā bahukārā, cattāro dhammā bhāvetabbā …pe… cattāro dhammā sacchikātabbā. ",
+            "de": "Vier <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span> usw. ",
+            "en": "Four things are helpful, etc. ",
+            "matched": true
+          },
+          "dn34:1.5.2": {
+            "scid": "dn34:1.5.2",
+            "pli": "Katame cattāro dhammā bahukārā? ",
+            "de": "Welche vier <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span>? ",
+            "en": "What four things are helpful? ",
+            "matched": true
+          },
+          "dn34:1.6.1": {
+            "scid": "dn34:1.6.1",
+            "pli": "Pañca dhammā bahukārā …pe… pañca dhammā sacchikātabbā. ",
+            "de": "Fünf <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span> usw. ",
+            "en": "Five things are helpful, etc. ",
+            "matched": true
+          },
+          "dn34:1.6.2": {
+            "scid": "dn34:1.6.2",
+            "pli": "Katame pañca dhammā bahukārā? ",
+            "de": "Welche fünf <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span>? ",
+            "en": "What five things are helpful? ",
+            "matched": true
+          },
+          "dn34:1.7.1": {
+            "scid": "dn34:1.7.1",
+            "pli": "Cha dhammā bahukārā …pe… cha dhammā sacchikātabbā. ",
+            "de": "Sechs <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span> usw. ",
+            "en": "Six things are helpful, etc. ",
+            "matched": true
+          },
+          "dn34:1.7.2": {
+            "scid": "dn34:1.7.2",
+            "pli": "Katame cha dhammā bahukārā? ",
+            "de": "Welche sechs <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span>? ",
+            "en": "What six things are helpful? ",
+            "matched": true
+          },
+          "dn34:1.8.1": {
+            "scid": "dn34:1.8.1",
+            "pli": "Satta dhammā bahukārā …pe… satta dhammā sacchikātabbā. ",
+            "de": "Sieben <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span> usw. ",
+            "en": "Seven things are helpful, etc. ",
+            "matched": true
+          },
+          "dn34:1.8.2": {
+            "scid": "dn34:1.8.2",
+            "pli": "Katame satta dhammā bahukārā? ",
+            "de": "Welche sieben <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span>? ",
+            "en": "What seven things are helpful? ",
+            "matched": true
+          },
+          "dn34:2.1.1": {
+            "scid": "dn34:2.1.1",
+            "pli": "Aṭṭha dhammā bahukārā …pe… aṭṭha dhammā sacchikātabbā. ",
+            "de": "Acht <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span> usw. ",
+            "en": "Eight things are helpful, etc. ",
+            "matched": true
+          },
+          "dn34:2.1.2": {
+            "scid": "dn34:2.1.2",
+            "pli": "Katame aṭṭha dhammā bahukārā? ",
+            "de": "Welche acht <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span>? ",
+            "en": "What eight things are helpful? ",
+            "matched": true
+          },
+          "dn34:2.2.1": {
+            "scid": "dn34:2.2.1",
+            "pli": "Nava dhammā bahukārā …pe… nava dhammā sacchikātabbā. ",
+            "de": "Neun <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span> usw. ",
+            "en": "Nine things are helpful, etc. ",
+            "matched": true
+          },
+          "dn34:2.2.2": {
+            "scid": "dn34:2.2.2",
+            "pli": "Katame nava dhammā bahukārā? ",
+            "de": "Welche neun <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span>? ",
+            "en": "What nine things are helpful? ",
+            "matched": true
+          },
+          "dn34:2.3.1": {
+            "scid": "dn34:2.3.1",
+            "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
+            "de": "Zehn <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span>, zehn <span class=\"ebt-matched\">Dinge</span> müssen entwickelt werden, zehn <span class=\"ebt-matched\">Dinge</span> müssen vollständig verstanden werden, zehn <span class=\"ebt-matched\">Dinge</span> müssen aufgegeben werden, zehn <span class=\"ebt-matched\">Dinge</span> führen zum Rückschritt, zehn <span class=\"ebt-matched\">Dinge</span> führen zu Erhabenheit, zehn <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> schwer zu erfassen, zehn <span class=\"ebt-matched\">Dinge</span> müssen erzeugt werden, zehn <span class=\"ebt-matched\">Dinge</span> müssen unmittelbar erkannt werden und zehn <span class=\"ebt-matched\">Dinge</span> müssen verwirklicht werden. ",
+            "en": "Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
+            "matched": true
+          },
+          "dn34:2.3.2": {
+            "scid": "dn34:2.3.2",
+            "pli": "Katame dasa dhammā bahukārā? ",
+            "de": "Welche zehn <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span>? ",
+            "en": "What ten things are helpful? ",
+            "matched": true
+          }
+        },
+        "score": 18.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 18,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.249_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.249_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.249_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.249",
+        "lang": "de",
+        "segMap": {
+          "an4.249:1.1": {
+            "scid": "an4.249:1.1",
+            "pli": "“Cattārome, bhikkhave, dhammā manussabhūtassa bahukārā honti. ",
+            "de": "„Mönche und Nonnen, diese vier <span class=\"ebt-matched\">Dinge</span> <span class=\"ebt-matched\">sind</span> <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span> für <span class=\"ebt-matched\">eine</span>n Menschen. ",
+            "en": "“Mendicants, these four things are very helpful to a human being. ",
+            "matched": true
+          },
+          "an4.249:1.4": {
+            "scid": "an4.249:1.4",
+            "pli": "Ime kho, bhikkhave, cattāro dhammā manussabhūtassa bahukārā hontī”ti. ",
+            "de": "Das <span class=\"ebt-matched\">sind</span> die vier <span class=\"ebt-matched\">Dinge</span>, die <span class=\"ebt-matched\">eine</span> große <span class=\"ebt-matched\">Hilfe</span> für <span class=\"ebt-matched\">eine</span>n Menschen <span class=\"ebt-matched\">sind</span>.“ ",
+            "en": "These four things are very helpful to a human being.” ",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n25. Gefahren bei Verstößen\n249. Eine große Hilfe",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      }
+    ]
+  }
+}

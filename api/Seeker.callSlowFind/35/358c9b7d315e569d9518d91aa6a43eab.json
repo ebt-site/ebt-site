@@ -1,0 +1,112 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "land-spotting bird",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "land-spotting bird",
+    "method": "phrase",
+    "resultPattern": "\\bland-spotting bird",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn11_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn11_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.54_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.54_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn11/en/sujato",
+      "an6.54/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn11_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn11",
+        "lang": "en",
+        "segMap": {
+          "dn11:85.0": {
+            "scid": "dn11:85.0",
+            "pli": "4.1. Tīradassisakuṇupamā ",
+            "en": "4.1. The Simile of the <span class=\"ebt-matched\">Land-Spotting Bird</span> ",
+            "matched": true
+          },
+          "dn11:85.2": {
+            "scid": "dn11:85.2",
+            "pli": "bhūtapubbaṁ, bhikkhu, sāmuddikā vāṇijā tīradassiṁ sakuṇaṁ gahetvā nāvāya samuddaṁ ajjhogāhanti. ",
+            "en": "‘Once upon a time, mendicant, some sea-merchants set sail for the ocean deeps, taking with them a <span class=\"ebt-matched\">land-spotting bird</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 11\nWith Kevaddha",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 199,
+          "en": 198
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.54_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.54_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.54",
+        "lang": "en",
+        "segMap": {
+          "an6.54:8.1": {
+            "scid": "an6.54:8.1",
+            "pli": "Bhūtapubbaṁ, brāhmaṇa dhammika, sāmuddikā vāṇijā tīradassiṁ sakuṇaṁ gahetvā nāvāya samuddaṁ ajjhogāhanti. ",
+            "en": "Once upon a time, some sea-merchants set sail for the ocean deeps, taking with them a <span class=\"ebt-matched\">land-spotting bird</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n5. About Dhammika\n54. About Dhammika",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 171,
+          "en": 169
+        }
+      }
+    ]
+  }
+}

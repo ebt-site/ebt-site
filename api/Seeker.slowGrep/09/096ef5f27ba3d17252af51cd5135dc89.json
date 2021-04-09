@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bfür wert, sie zu hören",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an2/an2.42-51_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/an/an5/an5.79_translation-de-sabbamitta.json:2"
+  ]
+}

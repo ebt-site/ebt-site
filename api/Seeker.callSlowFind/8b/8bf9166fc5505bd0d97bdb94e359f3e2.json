@@ -1,0 +1,138 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "investigate principles",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "investigate principles",
+    "method": "phrase",
+    "resultPattern": "\\binvestigate principles",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn54/sn54.13_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn54/sn54.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn46/sn46.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn118_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn118_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn54.13/en/sujato",
+      "sn46.3/en/sujato",
+      "mn118/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.3",
+        "lang": "en",
+        "segMap": {
+          "sn46.3:3.4": {
+            "scid": "sn46.3:3.4",
+            "pli": "Tassa taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ. ",
+            "en": "As they <span class=\"ebt-matched\">investigate principles</span> with wisdom in this way their energy is roused up and unflagging. ",
+            "matched": true
+          }
+        },
+        "score": 1.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 46\n1. Mountains\n3. Ethics",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 40,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn54/sn54.13_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn54/sn54.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn54.13",
+        "lang": "en",
+        "segMap": {
+          "sn54.13:12.1": {
+            "scid": "sn54.13:12.1",
+            "pli": "Tassa taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ. ",
+            "en": "As they <span class=\"ebt-matched\">investigate principles</span> with wisdom in this way their energy is roused up and unflagging. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 54\nChapter Two\n13. With Ānanda (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 84,
+          "en": 83
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn118_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn118_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn118",
+        "lang": "en",
+        "segMap": {
+          "mn118:32.1": {
+            "scid": "mn118:32.1",
+            "pli": "Tassa taṁ dhammaṁ paññāya pavicinato pavicayato parivīmaṁsaṁ āpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ. ",
+            "en": "As they <span class=\"ebt-matched\">investigate principles</span> with wisdom in this way their energy is roused up and unflagging. ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 118\nMindfulness of Breathing",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 154,
+          "en": 153
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\blike lightning",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an3/an3.25_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn4/sn4.6_translation-en-sujato.json:1"
+  ]
+}

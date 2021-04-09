@@ -1,0 +1,106 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "causes for happiness",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "causes for happiness",
+    "method": "phrase",
+    "resultPattern": "\\bcauses for happiness",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/kn/thag/thag3.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag3.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag3.15_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag3.15_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "thag3.3/en/sujato",
+      "thag3.15/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag3.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag3.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag3.3",
+        "lang": "en",
+        "segMap": {
+          "thag3.3:1.3": {
+            "scid": "thag3.3:1.3",
+            "pli": "Sukhā so dhaṁsate ṭhānā,",
+            "en": "has lost the <span class=\"ebt-matched\">causes for happiness</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Threes\nChapter One\n3.3. Bākula",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag3.15_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag3.15_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag3.15",
+        "lang": "en",
+        "segMap": {
+          "thag3.15:1.3": {
+            "scid": "thag3.15:1.3",
+            "pli": "Sukhā so dhaṁsate ṭhānā,",
+            "en": "has lost the <span class=\"ebt-matched\">causes for happiness</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Threes\nChapter One\n3.15. Hārita (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      }
+    ]
+  }
+}

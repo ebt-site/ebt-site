@@ -1,0 +1,412 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "six elements",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "six elements",
+    "method": "phrase",
+    "resultPattern": "\\bsix elements",
+    "segsMatched": 27,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn140_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn140_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn115_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn115_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.61_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.61_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn112_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn112_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.13_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.28_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.28_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn140/en/sujato",
+      "mn115/en/sujato",
+      "an3.61/en/sujato",
+      "mn112/en/sujato",
+      "dn33/en/sujato",
+      "an6.13/en/sujato",
+      "dn34/en/sujato",
+      "an10.28/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn115_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn115_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn115",
+        "lang": "en",
+        "segMap": {
+          "mn115:5.3": {
+            "scid": "mn115:5.3",
+            "pli": "Chayimā, ānanda, dhātuyo—",
+            "en": "There are these <span class=\"ebt-matched\">six elements</span>: ",
+            "matched": true
+          },
+          "mn115:5.5": {
+            "scid": "mn115:5.5",
+            "pli": "Imā kho, ānanda, cha dhātuyo yato jānāti passati—",
+            "en": "When a mendicant knows and sees these <span class=\"ebt-matched\">six elements</span>, ",
+            "matched": true
+          },
+          "mn115:6.3": {
+            "scid": "mn115:6.3",
+            "pli": "Chayimā, ānanda, dhātuyo—",
+            "en": "There are these <span class=\"ebt-matched\">six elements</span>: ",
+            "matched": true
+          },
+          "mn115:6.5": {
+            "scid": "mn115:6.5",
+            "pli": "Imā kho, ānanda, cha dhātuyo yato jānāti passati—",
+            "en": "When a mendicant knows and sees these <span class=\"ebt-matched\">six elements</span>, ",
+            "matched": true
+          },
+          "mn115:7.3": {
+            "scid": "mn115:7.3",
+            "pli": "Chayimā, ānanda, dhātuyo—",
+            "en": "There are these <span class=\"ebt-matched\">six elements</span>: ",
+            "matched": true
+          },
+          "mn115:7.5": {
+            "scid": "mn115:7.5",
+            "pli": "Imā kho, ānanda, cha dhātuyo yato jānāti passati—",
+            "en": "When a mendicant knows and sees these <span class=\"ebt-matched\">six elements</span>, ",
+            "matched": true
+          }
+        },
+        "score": 6.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 115\nMany Elements",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 158,
+          "en": 157
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn140_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn140_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn140",
+        "lang": "en",
+        "segMap": {
+          "mn140:7.1": {
+            "scid": "mn140:7.1",
+            "pli": "“‘Cha dhāturo ayaṁ, bhikkhu, puriso cha phassāyatano aṭṭhārasa manopavicāro caturādhiṭṭhāno; ",
+            "en": "“‘This person has <span class=\"ebt-matched\">six elements</span>, six fields of contact, and eighteen mental preoccupations. ",
+            "matched": true
+          },
+          "mn140:8.1": {
+            "scid": "mn140:8.1",
+            "pli": "‘Cha dhāturo ayaṁ, bhikkhu, puriso’ti—",
+            "en": "‘This person has <span class=\"ebt-matched\">six elements</span>.’ ",
+            "matched": true
+          },
+          "mn140:8.3": {
+            "scid": "mn140:8.3",
+            "pli": "Chayimā, bhikkhu, dhātuyo—",
+            "en": "There are these <span class=\"ebt-matched\">six elements</span>: ",
+            "matched": true
+          },
+          "mn140:8.5": {
+            "scid": "mn140:8.5",
+            "pli": "‘Cha dhāturo ayaṁ, bhikkhu, puriso’ti—",
+            "en": "‘This person has <span class=\"ebt-matched\">six elements</span>.’ ",
+            "matched": true
+          },
+          "mn140:13.2": {
+            "scid": "mn140:13.2",
+            "pli": "Chayimā, bhikkhu, dhātuyo—",
+            "en": "There are these <span class=\"ebt-matched\">six elements</span>: ",
+            "matched": true
+          },
+          "mn140:32.3": {
+            "scid": "mn140:32.3",
+            "pli": "Imaṁ kho me tvaṁ, bhikkhu, saṅkhittena chadhātuvibhaṅgaṁ dhārehī”ti. ",
+            "en": "Mendicant, you should remember this brief analysis of the <span class=\"ebt-matched\">six elements</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 6.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 140\nThe Analysis of the Elements",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 239,
+          "en": 238
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.61_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.61",
+        "lang": "en",
+        "segMap": {
+          "an3.61:9.3": {
+            "scid": "an3.61:9.3",
+            "pli": "Imā cha dhātuyoti, bhikkhave, mayā dhammo desito aniggahito asaṅkiliṭṭho anupavajjo appaṭikuṭṭho samaṇehi brāhmaṇehi viññūhi. ",
+            "en": "‘These are the <span class=\"ebt-matched\">six elements</span>’: this is the Dhamma I’ve taught … ",
+            "matched": true
+          },
+          "an3.61:10.1": {
+            "scid": "an3.61:10.1",
+            "pli": "Imā cha dhātuyoti, bhikkhave, mayā dhammo desito aniggahito asaṅkiliṭṭho anupavajjo appaṭikuṭṭho samaṇehi brāhmaṇehi viññūhīti. ",
+            "en": "‘“These are the <span class=\"ebt-matched\">six elements</span>”: this is the Dhamma I’ve taught …’ ",
+            "matched": true
+          },
+          "an3.61:10.4": {
+            "scid": "an3.61:10.4",
+            "pli": "Chayimā, bhikkhave, dhātuyo—",
+            "en": "There are these <span class=\"ebt-matched\">six elements</span>: ",
+            "matched": true
+          },
+          "an3.61:10.6": {
+            "scid": "an3.61:10.6",
+            "pli": "Imā cha dhātuyoti, bhikkhave, mayā dhammo desito aniggahito asaṅkiliṭṭho anupavajjo appaṭikuṭṭho samaṇehi brāhmaṇehi viññūhīti. ",
+            "en": "‘“These are the <span class=\"ebt-matched\">six elements</span>”: this is the Dhamma I’ve taught …’ ",
+            "matched": true
+          },
+          "an3.61:13.4": {
+            "scid": "an3.61:13.4",
+            "pli": "Channaṁ, bhikkhave, dhātūnaṁ upādāya gabbhassāvakkanti hoti; ",
+            "en": "Supported by the <span class=\"ebt-matched\">six elements</span>, an embryo is conceived. ",
+            "matched": true
+          }
+        },
+        "score": 5.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n61. Sectarian Tenets",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 117,
+          "en": 116
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn112_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn112_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn112",
+        "lang": "en",
+        "segMap": {
+          "mn112:7.3": {
+            "scid": "mn112:7.3",
+            "pli": "‘Chayimā, āvuso, dhātuyo tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā. ",
+            "en": "‘Reverend, these <span class=\"ebt-matched\">six elements</span> have been rightly explained by the Buddha. ",
+            "matched": true
+          },
+          "mn112:7.6": {
+            "scid": "mn112:7.6",
+            "pli": "imā kho, āvuso, cha dhātuyo tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā. ",
+            "en": "These are the <span class=\"ebt-matched\">six elements</span> that have been rightly explained by the Buddha. ",
+            "matched": true
+          },
+          "mn112:7.7": {
+            "scid": "mn112:7.7",
+            "pli": "Kathaṁ jānato panāyasmato, kathaṁ passato imāsu chasu dhātūsu anupādāya āsavehi cittaṁ vimuttan’ti? ",
+            "en": "How does the venerable know and see regarding these <span class=\"ebt-matched\">six elements</span> so that your mind is freed from defilements by not grasping?’ ",
+            "matched": true
+          },
+          "mn112:8.10": {
+            "scid": "mn112:8.10",
+            "pli": "Evaṁ kho me, āvuso, jānato, evaṁ passato imāsu chasu dhātūsu anupādāya āsavehi cittaṁ vimuttan’ti. ",
+            "en": "That is how I know and see regarding these <span class=\"ebt-matched\">six elements</span> so that my mind is freed from defilements by not grasping.’ ",
+            "matched": true
+          }
+        },
+        "score": 4.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 112\nThe Sixfold Purification",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 147,
+          "en": 146
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.13_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.13",
+        "lang": "en",
+        "segMap": {
+          "an6.13:1.1": {
+            "scid": "an6.13:1.1",
+            "pli": "“Chayimā, bhikkhave, nissāraṇīyā dhātuyo. ",
+            "en": "“Mendicants, there are these <span class=\"ebt-matched\">six elements</span> of escape. ",
+            "matched": true
+          },
+          "an6.13:7.1": {
+            "scid": "an6.13:7.1",
+            "pli": "Imā kho, bhikkhave, cha nissāraṇīyā dhātuyo”ti. ",
+            "en": "These are the <span class=\"ebt-matched\">six elements</span> of escape.” ",
+            "matched": true
+          }
+        },
+        "score": 2.041,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n2. Warm-hearted\n13. Elements of Escape",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 49,
+          "en": 48
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:2.2.67": {
+            "scid": "dn33:2.2.67",
+            "pli": "Cha dhātuyo—",
+            "en": "<span class=\"ebt-matched\">Six elements</span>: ",
+            "matched": true
+          },
+          "dn33:2.2.69": {
+            "scid": "dn33:2.2.69",
+            "pli": "Cha nissaraṇiyā dhātuyo. ",
+            "en": "<span class=\"ebt-matched\">Six elements</span> of escape. ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.28_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.28",
+        "lang": "en",
+        "segMap": {
+          "an10.28:7.7": {
+            "scid": "an10.28:7.7",
+            "pli": "Chasu nissaraṇīyāsu dhātūsu …pe… ",
+            "en": "The <span class=\"ebt-matched\">six elements</span> of escape. … ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n3. The Great Chapter\n28. The Great Questions (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 75,
+          "en": 74
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.7.34": {
+            "scid": "dn34:1.7.34",
+            "pli": "Cha nissaraṇiyā dhātuyo—",
+            "en": "<span class=\"ebt-matched\">Six elements</span> of escape. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

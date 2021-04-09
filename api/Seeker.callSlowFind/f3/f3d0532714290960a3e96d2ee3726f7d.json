@@ -1,0 +1,258 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "ten things should be developed",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "ten things should be developed",
+    "method": "phrase",
+    "resultPattern": "\\bten things should be developed",
+    "segsMatched": 10,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.239_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.239_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.238_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.238_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.237_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.237_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.267-746_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.267-746_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.240-266_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.240-266_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/en/sujato",
+      "an10.239/en/sujato",
+      "an10.238/en/sujato",
+      "an10.237/en/sujato",
+      "an10.267-746/en/sujato",
+      "an10.240-266/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.237_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.237_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.237",
+        "lang": "en",
+        "segMap": {
+          "an10.237:1.1": {
+            "scid": "an10.237:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya dasa dhammā bhāvetabbā. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">ten things should be developed</span>. ",
+            "matched": true
+          },
+          "an10.237:1.4": {
+            "scid": "an10.237:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime dasa dhammā bhāvetabbā”ti. ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">ten things should be developed</span>.”",
+            "matched": true
+          }
+        },
+        "score": 2.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n23. Abbreviated Texts Beginning With Greed\n237.",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.238_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.238_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.238",
+        "lang": "en",
+        "segMap": {
+          "an10.238:1.1": {
+            "scid": "an10.238:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya dasa dhammā bhāvetabbā. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">ten things should be developed</span>. ",
+            "matched": true
+          },
+          "an10.238:1.4": {
+            "scid": "an10.238:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime dasa dhammā bhāvetabbā”ti. ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">ten things should be developed</span>.”",
+            "matched": true
+          }
+        },
+        "score": 2.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n23. Abbreviated Texts Beginning With Greed\n238.",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.239_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.239_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.239",
+        "lang": "en",
+        "segMap": {
+          "an10.239:1.1": {
+            "scid": "an10.239:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya dasa dhammā bhāvetabbā. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">ten things should be developed</span>. ",
+            "matched": true
+          },
+          "an10.239:1.4": {
+            "scid": "an10.239:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime dasa dhammā bhāvetabbā”ti. ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">ten things should be developed</span>.”",
+            "matched": true
+          }
+        },
+        "score": 2.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n23. Abbreviated Texts Beginning With Greed\n239.",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:2.3.1": {
+            "scid": "dn34:2.3.1",
+            "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
+            "en": "Ten things are helpful, <span class=\"ebt-matched\">ten things should be developed</span>, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
+            "matched": true
+          },
+          "dn34:2.3.35": {
+            "scid": "dn34:2.3.35",
+            "pli": "Katame dasa dhammā bhāvetabbā? ",
+            "en": "What <span class=\"ebt-matched\">ten things should be developed</span>? ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.240-266_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.240-266_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.240-266",
+        "lang": "en",
+        "segMap": {
+          "an10.240-266:1.10": {
+            "scid": "an10.240-266:1.10",
+            "pli": "ime dasa dhammā bhāvetabbā”. ",
+            "en": "these <span class=\"ebt-matched\">ten things should be developed</span>.”",
+            "matched": true
+          }
+        },
+        "score": 1.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n23. Abbreviated Texts Beginning With Greed\n240–266.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 13,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.267-746_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.267-746_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.267-746",
+        "lang": "en",
+        "segMap": {
+          "an10.267-746:1.25": {
+            "scid": "an10.267-746:1.25",
+            "pli": "ime dasa dhammā bhāvetabbā”ti. ",
+            "en": "these <span class=\"ebt-matched\">ten things should be developed</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 1.032,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n23. Abbreviated Texts Beginning With Greed\n267–746.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 31,
+          "en": 31
+        }
+      }
+    ]
+  }
+}

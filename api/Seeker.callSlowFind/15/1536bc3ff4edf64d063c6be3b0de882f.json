@@ -1,0 +1,232 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "not possible to know",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "not possible to know",
+    "method": "phrase",
+    "resultPattern": "\\bnot possible to know",
+    "segsMatched": 10,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.116_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.116_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn2/sn2.26_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn2/sn2.26_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn64_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn64_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.45_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.45_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.38_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.38_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.116/en/sujato",
+      "sn2.26/en/sujato",
+      "mn64/en/sujato",
+      "an4.45/en/sujato",
+      "an9.38/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.116_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.116_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.116",
+        "lang": "en",
+        "segMap": {
+          "sn35.116:1.1": {
+            "scid": "sn35.116:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, gamanena lokassa antaṁ ñāteyyaṁ, daṭṭheyyaṁ, patteyyanti vadāmi. ",
+            "en": "“Mendicants, I say it’s <span class=\"ebt-matched\">not possible to know</span> or see or reach the end of the world by traveling. ",
+            "matched": true
+          },
+          "sn35.116:8.2": {
+            "scid": "sn35.116:8.2",
+            "pli": "‘nāhaṁ, bhikkhave, gamanena lokassa antaṁ ñāteyyaṁ, daṭṭheyyaṁ, patteyyanti vadāmi. ",
+            "en": "‘Mendicants, I say it’s <span class=\"ebt-matched\">not possible to know</span> or see or reach the end of the world by traveling. ",
+            "matched": true
+          },
+          "sn35.116:8.17": {
+            "scid": "sn35.116:8.17",
+            "pli": "‘nāhaṁ, bhikkhave, gamanena lokassa antaṁ ñāteyyaṁ, daṭṭheyyaṁ, patteyyanti vadāmi. ",
+            "en": "‘Mendicants, I say it’s <span class=\"ebt-matched\">not possible to know</span> or see or reach the end of the world by traveling. ",
+            "matched": true
+          }
+        },
+        "score": 3.035,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n12. The World and the Kinds of Sensual Stimulation\n116. Traveling to the End of the World",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 86,
+          "en": 85
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn2/sn2.26_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn2/sn2.26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn2.26",
+        "lang": "en",
+        "segMap": {
+          "sn2.26:1.4": {
+            "scid": "sn2.26:1.4",
+            "pli": "“Yattha kho, āvuso, na jāyati na jīyati na mīyati na cavati na upapajjati, nāhaṁ taṁ gamanena lokassa antaṁ ñāteyyaṁ daṭṭheyyaṁ patteyyanti vadāmī”ti. ",
+            "en": "“Reverend, I say it’s <span class=\"ebt-matched\">not possible to know</span> or see or reach the end of the world by traveling to a place where there’s no being born, growing old, dying, passing away, or being reborn.” ",
+            "matched": true
+          },
+          "sn2.26:4.3": {
+            "scid": "sn2.26:4.3",
+            "pli": "‘yattha kho, āvuso, na jāyati na jīyati na mīyati na cavati na upapajjati, nāhaṁ taṁ gamanena lokassa antaṁ ñāteyyaṁ daṭṭheyyaṁ patteyyanti vadāmī’”ti. ",
+            "en": "‘Reverend, I say it’s <span class=\"ebt-matched\">not possible to know</span> or see or reach the end of the world by traveling to a place where there’s no being born, growing old, dying, passing away, or being reborn.’” ",
+            "matched": true
+          }
+        },
+        "score": 2.069,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 2\n3. Various Sectarians\n26. With Rohitassa",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 29,
+          "en": 29
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.45_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.45_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.45",
+        "lang": "en",
+        "segMap": {
+          "an4.45:2.2": {
+            "scid": "an4.45:2.2",
+            "pli": "“Yattha kho, āvuso, na jāyati na jīyati na mīyati na cavati na upapajjati, nāhaṁ taṁ gamanena lokassa antaṁ ñāteyyaṁ daṭṭheyyaṁ patteyyanti vadāmī”ti. ",
+            "en": "“Reverend, I say it’s <span class=\"ebt-matched\">not possible to know</span> or see or reach the end of the world by traveling to a place where there’s no being born, growing old, dying, passing away, or being reborn.” ",
+            "matched": true
+          },
+          "an4.45:6.1": {
+            "scid": "an4.45:6.1",
+            "pli": "“‘Yattha kho, āvuso, na jāyati na jīyati na mīyati na cavati na upapajjati, nāhaṁ taṁ gamanena lokassa antaṁ ñāteyyaṁ daṭṭheyyaṁ patteyyan’ti vadāmi. ",
+            "en": "“Reverend, I say it’s <span class=\"ebt-matched\">not possible to know</span> or see or reach the end of the world by traveling to a place where there’s no being born, growing old, dying, passing away, or being reborn. ",
+            "matched": true
+          }
+        },
+        "score": 2.065,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n5. With Rohitassa\n45. With Rohitassa",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 31,
+          "en": 30
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn64_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn64_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn64",
+        "lang": "en",
+        "segMap": {
+          "mn64:6.16": {
+            "scid": "mn64:6.16",
+            "pli": "Yo, ānanda, maggo yā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya taṁ maggaṁ taṁ paṭipadaṁ anāgamma pañcorambhāgiyāni saṁyojanāni ñassati vā dakkhati vā pajahissati vāti—netaṁ ṭhānaṁ vijjati. ",
+            "en": "There is a path and a practice for giving up the five lower fetters. It’s <span class=\"ebt-matched\">not possible to know</span> or see or give up the five lower fetters without relying on that path and that practice. ",
+            "matched": true
+          },
+          "mn64:6.19": {
+            "scid": "mn64:6.19",
+            "pli": "evameva kho, ānanda, yo maggo yā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya taṁ maggaṁ taṁ paṭipadaṁ anāgamma pañcorambhāgiyāni saṁyojanāni ñassati vā dakkhati vā pajahissati vāti—netaṁ ṭhānaṁ vijjati. ",
+            "en": "In the same way, there is a path and a practice for giving up the five lower fetters. It’s <span class=\"ebt-matched\">not possible to know</span> or see or give up the five lower fetters without relying on that path and that practice. ",
+            "matched": true
+          }
+        },
+        "score": 2.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 64\nThe Longer Discourse With Māluṅkya",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 123,
+          "en": 122
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.38_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.38_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.38",
+        "lang": "en",
+        "segMap": {
+          "an9.38:4.13": {
+            "scid": "an9.38:4.13",
+            "pli": "Nāhaṁ, brāhmaṇā, evarūpāya sandhāvanikāya lokassa antaṁ ñāteyyaṁ daṭṭheyyaṁ patteyyanti vadāmi. ",
+            "en": "I say it’s <span class=\"ebt-matched\">not possible to know</span> or see or reach the end of the world by running like this. ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n4. The Great Chapter\n38. Brahmin Cosmologists",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 74,
+          "en": 73
+        }
+      }
+    ]
+  }
+}

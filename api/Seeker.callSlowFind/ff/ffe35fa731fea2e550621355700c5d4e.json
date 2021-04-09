@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "i will give gifts",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "i will give gifts",
+    "method": "phrase",
+    "resultPattern": "\\bi will give gifts",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.59_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.59_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.59/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.59_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.59_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.59",
+        "lang": "en",
+        "segMap": {
+          "an6.59:9.4": {
+            "scid": "an6.59:9.4",
+            "pli": "“Esāhaṁ, bhante, ajjatagge saṅghe dānaṁ dassāmī”ti. ",
+            "en": "“Sir, from this day forth <span class=\"ebt-matched\">I will give gifts</span> to the Saṅgha.” ",
+            "matched": true
+          }
+        },
+        "score": 1.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n6. The Great Chapter\n59. With Dārukammika",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 39,
+          "en": 38
+        }
+      }
+    ]
+  }
+}

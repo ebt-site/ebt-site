@@ -1,0 +1,172 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "願望が少ない",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "願望が少ない",
+    "method": "phrase",
+    "resultPattern": "願望が少ない",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an1/an1.98-139_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.98-139_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an1/an1.98-139_translation-jpn-kaz.json",
+      "root/pli/ms/sutta/an/an1/an1.82-97_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.82-97_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an1/an1.82-97_translation-jpn-kaz.json",
+      "root/pli/ms/sutta/an/an1/an1.61-70_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.61-70_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an1/an1.61-70_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an1.98-139/jpn/kaz",
+      "an1.82-97/jpn/kaz",
+      "an1.61-70/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.61-70_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.61-70_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an1/an1.61-70_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.61-70",
+        "lang": "jpn",
+        "segMap": {
+          "an1.63:1.1": {
+            "scid": "an1.63:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannā vā kusalā dhammā uppajjanti uppannā vā akusalā dhammā parihāyanti yathayidaṁ, bhikkhave, appicchatā. ",
+            "en": "“Mendicants, I do not see a single thing that gives rise to skillful qualities, or makes unskillful qualities decline like having few wishes. ",
+            "jpn": "「托鉢僧侶たちよ、<span class=\"ebt-matched\">願望が少ない</span>事ほど、技量があると言える性質を起こし、技量がないと言える性質を減らすものは他に一つも見ることはありません。  ",
+            "matched": true
+          },
+          "an1.63:1.2": {
+            "scid": "an1.63:1.2",
+            "pli": "Appicchassa, bhikkhave, anuppannā ceva kusalā dhammā uppajjanti uppannā ca akusalā dhammā parihāyantī”ti. ",
+            "en": "When you have few wishes, skillful qualities arise and unskillful qualities decline.” ",
+            "jpn": "<span class=\"ebt-matched\">願望が少ない</span>と、技量があると言える性質が起こり、技量がないと言える性質が減ります。」 ",
+            "matched": true
+          }
+        },
+        "score": 2.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 一集\n第七　活力を呼び起こす（発精進等品）\n61–70",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 44,
+          "en": 43,
+          "jpn": 43
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.82-97_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.82-97_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an1/an1.82-97_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.82-97",
+        "lang": "jpn",
+        "segMap": {
+          "an1.87:1.1": {
+            "scid": "an1.87:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ mahato atthāya saṁvattati yathayidaṁ, bhikkhave, appicchatā. ",
+            "en": "“Mendicants, I do not see a single thing that is so very beneficial as having few wishes. ",
+            "jpn": "「托鉢僧侶たちよ、<span class=\"ebt-matched\">願望が少ない</span>事ほど大きな利益を及ぼすものは他に一つも見ることはありません。  ",
+            "matched": true
+          },
+          "an1.87:1.2": {
+            "scid": "an1.87:1.2",
+            "pli": "Appicchatā, bhikkhave, mahato atthāya saṁvattatī”ti. ",
+            "en": "Having few wishes is very beneficial.” ",
+            "jpn": "<span class=\"ebt-matched\">願望が少ない</span>事は大きな利益を及ぼします。」 ",
+            "matched": true
+          }
+        },
+        "score": 2.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 一集\n第九　怠慢さ（放逸等品）\n82–97",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 68,
+          "en": 67,
+          "jpn": 67
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.98-139_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.98-139_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an1/an1.98-139_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.98-139",
+        "lang": "jpn",
+        "segMap": {
+          "an1.102-109:1.1": {
+            "scid": "an1.102-109:1.1",
+            "pli": "“Ajjhattikaṁ, bhikkhave, aṅganti karitvā nāññaṁ ekaṅgampi samanupassāmi yaṁ evaṁ mahato anatthāya saṁvattati yathayidaṁ, bhikkhave, mahicchatā …pe… appicchatā … asantuṭṭhitā … santuṭṭhitā … ayonisomanasikāro … yonisomanasikāro … asampajaññaṁ … sampajaññaṁ … dvādasamaṁ. ",
+            "en": "“Taking into account interior factors, mendicants, I do not see a single one that is so very harmful as having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness …” ",
+            "jpn": "「托鉢僧侶たちよ、自分の内側の要素を考えた時、願望が多い事ほど大きな害を及ぼす物は他には一つも見ません…　<span class=\"ebt-matched\">願望が少ない</span>事…　不満足である事…　満足である事…　不適正な注意…　適正な注意…　状況認識力がない事…　状況認識力がある事…」 ",
+            "matched": true
+          },
+          "an1.118-128:1.1": {
+            "scid": "an1.118-128:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa sammosāya antaradhānāya saṁvattati yathayidaṁ, bhikkhave, mahicchatā …pe… appicchatā … asantuṭṭhitā … santuṭṭhitā … ayonisomanasikāro … yonisomanasikāro … asampajaññaṁ … sampajaññaṁ … pāpamittatā … kalyāṇamittatā … anuyogo akusalānaṁ dhammānaṁ, ananuyogo kusalānaṁ dhammānaṁ. ",
+            "en": "“Mendicants, I do not see a single thing that leads to the decline and disappearance of the true teaching like having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness … bad friends … good friends … pursuing bad habits and not good habits. ",
+            "jpn": "「托鉢僧侶たちよ、願望が多い事ほど真の教えを下落させ消滅させる物は他には一つも見ません…　<span class=\"ebt-matched\">願望が少ない</span>事…　不満足である事…　満足である事…　不適正な注意…　適正な注意…　状況認識力がない事…　状況認識力がある事…　悪い友達…　良い友達…　悪い習慣を続けて良い習慣を続けない事…」 ",
+            "matched": true
+          }
+        },
+        "score": 2.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 一集\n第十　怠慢さ（第二）（第二放逸等品）\n98–139",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 76,
+          "en": 75,
+          "jpn": 75
+        }
+      }
+    ]
+  }
+}

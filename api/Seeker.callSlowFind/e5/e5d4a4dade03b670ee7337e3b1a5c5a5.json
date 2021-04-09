@@ -1,0 +1,194 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "gewissenhaft und gütig",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "gewissenhaft und gütig",
+    "method": "phrase",
+    "resultPattern": "\\bgewissenhaft und gütig",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.70_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.70_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.198_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.70/de/sabbamitta",
+      "dn30/de/sabbamitta",
+      "dn10/de/sabbamitta",
+      "an4.198/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.70_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.70_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.70",
+        "lang": "de",
+        "segMap": {
+          "an3.70:19.2": {
+            "scid": "an3.70:19.2",
+            "pli": "‘yāvajīvaṁ arahanto pāṇātipātaṁ pahāya pāṇātipātā paṭiviratā nihitadaṇḍā nihitasatthā lajjī dayāpannā sabbapāṇabhūtahitānukampī viharanti; ",
+            "de": "‚Solange sie leben, geben die Vollendeten das Töten lebender Geschöpfe auf und verzichten auf Stock und Schwert. Sie sind <span class=\"ebt-matched\">gewissenhaft und gütig</span> und leben voller Anteilnahme für alle Lebewesen. ",
+            "en": "‘As long as they live, the perfected ones give up killing living creatures, renouncing the rod and the sword. They are scrupulous and kind, and live full of compassion for all living beings. ",
+            "matched": true
+          },
+          "an3.70:19.3": {
+            "scid": "an3.70:19.3",
+            "pli": "ahampajja imañca rattiṁ imañca divasaṁ pāṇātipātaṁ pahāya pāṇātipātā paṭivirato nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharāmi. ",
+            "de": "Auch ich will für diesen Tag und diese Nacht das Töten lebender Geschöpfe aufgeben und auf Stock und Schwert verzichten. Ich will <span class=\"ebt-matched\">gewissenhaft und gütig</span> sein und voller Anteilnahme für alle Lebewesen leben. ",
+            "en": "I, too, for this day and night will give up killing living creatures, renouncing the rod and the sword. I’ll be scrupulous and kind, and live full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 2.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n70. Besinnungstag",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 238,
+          "de": 232,
+          "en": 232
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.198_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.198",
+        "lang": "de",
+        "segMap": {
+          "an4.198:8.1": {
+            "scid": "an4.198:8.1",
+            "pli": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. ",
+            "de": "Wenn sie fortgezogen ist, nimmt sie die Übung und die Lebensweise der Mönche und Nonnen auf. Sie gibt das Töten lebender Geschöpfe auf und verzichtet auf Stock und Schwert. Sie ist <span class=\"ebt-matched\">gewissenhaft und gütig</span> und lebt voller Anteilnahme für alle Lebewesen. ",
+            "en": "Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n20. Das große Kapitel\n198. Selbstquälerei",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 111,
+          "de": 110,
+          "en": 110
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn10",
+        "lang": "de",
+        "segMap": {
+          "dn10:1.11.2": {
+            "scid": "dn10:1.11.2",
+            "pli": "Idha, māṇava, bhikkhu pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. ",
+            "de": "Da gibt eine Nonne das Töten lebender Geschöpfe auf. Sie verzichtet auf Stock und Schwert. Sie ist <span class=\"ebt-matched\">gewissenhaft und gütig</span> und lebt voller Anteilnahme für alle Lebewesen … ",
+            "en": "It’s when a mendicant gives up killing living creatures. They renounce the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. … ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 10\nMit Subha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 284,
+          "de": 226,
+          "en": 281
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn30",
+        "lang": "de",
+        "segMap": {
+          "dn30:1.10.2": {
+            "scid": "dn30:1.10.2",
+            "pli": "pāṇātipātaṁ pahāya pāṇātipātā paṭivirato ahosi nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī vihāsi. ",
+            "de": "Er gab das Töten lebender Geschöpfe auf und verzichtete auf Stock und Schwert. Er war <span class=\"ebt-matched\">gewissenhaft und gütig</span> und lebte voller Anteilnahme für alle Lebewesen. ",
+            "en": "He gave up killing living creatures, renouncing the rod and the sword. He was scrupulous and kind, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 30\nKennzeichen eines großen Mannes",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 721,
+          "de": 716,
+          "en": 720
+        }
+      }
+    ]
+  }
+}

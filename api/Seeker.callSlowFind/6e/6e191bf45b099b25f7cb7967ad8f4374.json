@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "make a refuge for themselves",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "make a refuge for themselves",
+    "method": "phrase",
+    "resultPattern": "\\bmake a refuge for themselves",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn22/sn22.95_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.95_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn22.95/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.95_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.95_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.95",
+        "lang": "en",
+        "segMap": {
+          "sn22.95:15.2": {
+            "scid": "sn22.95:15.2",
+            "pli": "kareyya saraṇattano; ",
+            "en": "and <span class=\"ebt-matched\">make a refuge for themselves</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n10. Flowers\n95. A Lump of Foam",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 51,
+          "en": 50
+        }
+      }
+    ]
+  }
+}

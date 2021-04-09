@@ -1,0 +1,20 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bovercome by anger",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn15_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/kn/iti/vagga2/iti12_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/kn/iti/vagga1/iti4_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an7/an7.64_translation-en-sujato.json:1"
+  ]
+}

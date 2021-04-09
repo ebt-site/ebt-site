@@ -1,0 +1,380 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "disappearance of the true teaching",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "disappearance of the true teaching",
+    "method": "phrase",
+    "resultPattern": "\\bdisappearance of the true teaching",
+    "segsMatched": 26,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.160_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.160_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.98-139_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.98-139_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.156_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.156_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.155_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.155_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn16/sn16.13_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn16/sn16.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.154_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.154_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.11-20_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an2/an2.11-20_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.160/en/sujato",
+      "an1.98-139/en/sujato",
+      "an5.156/en/sujato",
+      "an5.155/en/sujato",
+      "sn16.13/en/sujato",
+      "an5.154/en/sujato",
+      "an2.11-20/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.160_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.160_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.160",
+        "lang": "en",
+        "segMap": {
+          "an4.160:4.1": {
+            "scid": "an4.160:4.1",
+            "pli": "Cattārome, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
+            "en": "These four things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an4.160:4.5": {
+            "scid": "an4.160:4.5",
+            "pli": "Ayaṁ, bhikkhave, paṭhamo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
+            "en": "This is the first thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an4.160:5.2": {
+            "scid": "an4.160:5.2",
+            "pli": "Ayaṁ, bhikkhave, dutiyo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
+            "en": "This is the second thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an4.160:6.3": {
+            "scid": "an4.160:6.3",
+            "pli": "Ayaṁ, bhikkhave, tatiyo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
+            "en": "This is the third thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an4.160:7.4": {
+            "scid": "an4.160:7.4",
+            "pli": "Ayaṁ, bhikkhave, catuttho dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
+            "en": "This is the fourth thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an4.160:7.5": {
+            "scid": "an4.160:7.5",
+            "pli": "Ime kho, bhikkhave, cattāro dhammā saddhammassa sammosāya antaradhānāya saṁvattantīti. ",
+            "en": "These are four things that lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          }
+        },
+        "score": 6.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n16. Faculties\n160. The Training of a Holy One",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 48,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.98-139_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.98-139_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.98-139",
+        "lang": "en",
+        "segMap": {
+          "an1.114:1.1": {
+            "scid": "an1.114:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa sammosāya antaradhānāya saṁvattati yathayidaṁ, bhikkhave, pamādo. ",
+            "en": "“Mendicants, I do not see a single thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span> like negligence. ",
+            "matched": true
+          },
+          "an1.114:1.2": {
+            "scid": "an1.114:1.2",
+            "pli": "Pamādo, bhikkhave, saddhammassa sammosāya antaradhānāya saṁvattatī”ti. ",
+            "en": "Negligence leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>.” ",
+            "matched": true
+          },
+          "an1.116:1.1": {
+            "scid": "an1.116:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa sammosāya antaradhānāya saṁvattati yathayidaṁ, bhikkhave, kosajjaṁ. ",
+            "en": "“Mendicants, I do not see a single thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span> like laziness. ",
+            "matched": true
+          },
+          "an1.116:1.2": {
+            "scid": "an1.116:1.2",
+            "pli": "Kosajjaṁ, bhikkhave, saddhammassa sammosāya antaradhānāya saṁvattatī”ti. ",
+            "en": "Laziness leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>.” ",
+            "matched": true
+          },
+          "an1.118-128:1.1": {
+            "scid": "an1.118-128:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa sammosāya antaradhānāya saṁvattati yathayidaṁ, bhikkhave, mahicchatā …pe… appicchatā … asantuṭṭhitā … santuṭṭhitā … ayonisomanasikāro … yonisomanasikāro … asampajaññaṁ … sampajaññaṁ … pāpamittatā … kalyāṇamittatā … anuyogo akusalānaṁ dhammānaṁ, ananuyogo kusalānaṁ dhammānaṁ. ",
+            "en": "“Mendicants, I do not see a single thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span> like having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness … bad friends … good friends … pursuing bad habits and not good habits. ",
+            "matched": true
+          },
+          "an1.118-128:1.2": {
+            "scid": "an1.118-128:1.2",
+            "pli": "Anuyogo, bhikkhave, akusalānaṁ dhammānaṁ, ananuyogo kusalānaṁ dhammānaṁ saddhammassa sammosāya antaradhānāya saṁvattatī”ti. ",
+            "en": "Pursuing bad habits and not good habits leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 6.079,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 1\n10. Negligence (2nd)\n98–139",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 76,
+          "en": 75
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.155_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.155_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.155",
+        "lang": "en",
+        "segMap": {
+          "an5.155:1.1": {
+            "scid": "an5.155:1.1",
+            "pli": "“Pañcime, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
+            "en": "“Mendicants, these five things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an5.155:1.5": {
+            "scid": "an5.155:1.5",
+            "pli": "Ayaṁ, bhikkhave, paṭhamo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
+            "en": "This is the first thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an5.155:5.2": {
+            "scid": "an5.155:5.2",
+            "pli": "Ayaṁ, bhikkhave, pañcamo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
+            "en": "This is the fifth thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an5.155:5.3": {
+            "scid": "an5.155:5.3",
+            "pli": "Ime kho, bhikkhave, pañca dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
+            "en": "These five things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          }
+        },
+        "score": 4.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n16. The True Teaching\n155. The Decline of the True Teaching (2nd)",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 32,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.156_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.156_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.156",
+        "lang": "en",
+        "segMap": {
+          "an5.156:1.1": {
+            "scid": "an5.156:1.1",
+            "pli": "“Pañcime, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
+            "en": "“Mendicants, these five things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an5.156:1.5": {
+            "scid": "an5.156:1.5",
+            "pli": "Ayaṁ, bhikkhave, paṭhamo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
+            "en": "This is the first thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an5.156:5.4": {
+            "scid": "an5.156:5.4",
+            "pli": "Ayaṁ, bhikkhave, pañcamo dhammo saddhammassa sammosāya antaradhānāya saṁvattati. ",
+            "en": "This is the fifth thing that leads to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an5.156:5.5": {
+            "scid": "an5.156:5.5",
+            "pli": "Ime kho, bhikkhave, pañca dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
+            "en": "These five things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          }
+        },
+        "score": 4.095,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n16. The True Teaching\n156. The Decline of the True Teaching (3rd)",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 42,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.154_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.154_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.154",
+        "lang": "en",
+        "segMap": {
+          "an5.154:1.1": {
+            "scid": "an5.154:1.1",
+            "pli": "“Pañcime, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
+            "en": "“Mendicants, these five things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an5.154:1.4": {
+            "scid": "an5.154:1.4",
+            "pli": "Ime kho, bhikkhave, pañca dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
+            "en": "These five things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n16. The True Teaching\n154. The Decline of the True Teaching (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn16/sn16.13_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn16/sn16.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn16.13",
+        "lang": "en",
+        "segMap": {
+          "sn16.13:4.1": {
+            "scid": "sn16.13:4.1",
+            "pli": "Pañca khome, kassapa, okkamaniyā dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
+            "en": "There are five detrimental things that lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "sn16.13:4.4": {
+            "scid": "sn16.13:4.4",
+            "pli": "ime kho, kassapa, pañca okkamaniyā dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
+            "en": "These five detrimental things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.054,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 16\n1. Kassapa\n13. The Counterfeit of the True Teaching",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.11-20_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an2/an2.11-20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.11-20",
+        "lang": "en",
+        "segMap": {
+          "an2.20:1.1": {
+            "scid": "an2.20:1.1",
+            "pli": "“Dveme, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. ",
+            "en": "“These two things, mendicants, lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          },
+          "an2.20:1.5": {
+            "scid": "an2.20:1.5",
+            "pli": "Ime kho, bhikkhave, dve dhammā saddhammassa sammosāya antaradhānāya saṁvattantī”ti. ",
+            "en": "These two things lead to the decline and <span class=\"ebt-matched\">disappearance of the true teaching</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 2\n2. Issues\n11–20",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 176,
+          "en": 175
+        }
+      }
+    ]
+  }
+}

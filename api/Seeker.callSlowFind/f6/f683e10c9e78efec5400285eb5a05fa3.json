@@ -1,0 +1,266 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "stillen aller vorgänge",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "stillen aller vorgänge",
+    "method": "phrase",
+    "resultPattern": "\\bstillen aller vorgänge",
+    "segsMatched": 7,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an10/an10.60_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn6/sn6.1_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn6/sn6.1_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn6/sn6.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.140_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.114_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.114_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.114_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.32_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.32_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.32_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an10.60/de/sabbamitta",
+      "sn6.1/de/sabbamitta",
+      "dn14/de/sabbamitta",
+      "an5.140/de/sabbamitta",
+      "an4.114/de/sabbamitta",
+      "an3.32/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an10/an10.60_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.60",
+        "lang": "de",
+        "segMap": {
+          "an10.60:9.3": {
+            "scid": "an10.60:9.3",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhippaṭinissaggo taṇhākkhayo virāgo nibbānan’ti. ",
+            "de": "‚Das ist friedvoll, das ist erhaben: nämlich das <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, das Erlöschen.‘ ",
+            "en": "‘This is peaceful; this is sublime—that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, extinguishment.’ ",
+            "matched": true
+          },
+          "an10.60:10.3": {
+            "scid": "an10.60:10.3",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhippaṭinissaggo taṇhākkhayo nirodho nibbānan’ti. ",
+            "de": "‚Das ist friedvoll, das ist erhaben: nämlich das <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Aufhören, das Erlöschen.‘ ",
+            "en": "‘This is peaceful; this is sublime—that is, the stilling of all activities, the letting go of all attachments, the ending of craving, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 10\n6. Der eigene Geist\n60. Mit Girimānanda",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 80,
+          "de": 78,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.32_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.32_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.32_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.32",
+        "lang": "de",
+        "segMap": {
+          "an3.32:4.2": {
+            "scid": "an3.32:4.2",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "de": "‚Das ist friedvoll, das ist erhaben: nämlich das <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen.‘ ",
+            "en": "‘This is peaceful; this is sublime—that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n4. Götterboten\n32. Mit Ānanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 20,
+          "de": 19,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.114_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.114_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.114_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.114",
+        "lang": "de",
+        "segMap": {
+          "an4.114:10.2": {
+            "scid": "an4.114:10.2",
+            "pli": "Idha, bhikkhave, bhikkhu yāyaṁ disā agatapubbā iminā dīghena addhunā yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ, taṁ khippaññeva gantā hoti. ",
+            "de": "Es ist, wenn eine Nonne in die Richtung, in die sie in dieser ganzen langen Zeit nie zuvor gegangen ist, rasch vorwärtsgeht: nämlich zum <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, zum Loslassen aller Bindungen, zum Beenden des Verlangens, zum Schwinden, Aufhören, Erlöschen. ",
+            "en": "It’s when a mendicant swiftly goes in the direction they’ve never gone before in all this long time; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 1.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n12. Mit Kesi\n114. Ein königlicher Elefant",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 40,
+          "de": 39,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn6/sn6.1_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn6/sn6.1_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn6/sn6.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn6.1",
+        "lang": "de",
+        "segMap": {
+          "sn6.1:1.7": {
+            "scid": "sn6.1:1.7",
+            "pli": "Idampi kho ṭhānaṁ duddasaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. ",
+            "de": "Und es ist schwer für sie, dieses Ding zu sehen: nämlich das <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen. ",
+            "en": "It’s also hard for them to see this thing; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 6\n1. Die Aufforderung\n1. Die Aufforderung des Brahmā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 53,
+          "de": 53,
+          "en": 53
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.140_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.140",
+        "lang": "de",
+        "segMap": {
+          "an5.140:13.2": {
+            "scid": "an5.140:13.2",
+            "pli": "Idha, bhikkhave, bhikkhu yā sā disā agatapubbā iminā dīghena addhunā, yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ, taṁ khippaññeva gantā hoti. ",
+            "de": "Es ist, wenn eine Nonne in die Richtung, in die sie in dieser ganzen langen Zeit nie zuvor gegangen ist, rasch vorwärtsgeht: nämlich zum <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, zum Loslassen aller Bindungen, zum Beenden des Verlangens, zum Schwinden, Aufhören, Erlöschen. ",
+            "en": "It’s when a mendicant swiftly goes in the direction they’ve never gone before in all this long time; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n14. Könige\n140. Zuhörer",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 59,
+          "de": 50,
+          "en": 57
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn14",
+        "lang": "de",
+        "segMap": {
+          "dn14:3.1.7": {
+            "scid": "dn14:3.1.7",
+            "pli": "Idampi kho ṭhānaṁ duddasaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. ",
+            "de": "Und es ist schwer für sie, dieses Ding zu sehen: nämlich das <span class=\"ebt-matched\">Stillen aller Vorgänge</span>, das Loslassen aller Bindungen, das Beenden des Verlangens, das Schwinden, Aufhören, Erlöschen. ",
+            "en": "It’s also hard for them to see this thing; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 14\nDie große Lehrrede über die Ernte aus den Taten\n1. Von früheren Leben",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 851,
+          "de": 689,
+          "en": 850
+        }
+      }
+    ]
+  }
+}

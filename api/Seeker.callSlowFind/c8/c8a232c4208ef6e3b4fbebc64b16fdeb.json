@@ -1,0 +1,484 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "experiencing bliss",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "experiencing bliss",
+    "method": "phrase",
+    "resultPattern": "\\bexperiencing bliss",
+    "segsMatched": 26,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn94_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn94_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn51_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn51_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn60_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn60_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn118_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn118_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn54/sn54.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn54/sn54.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn54/sn54.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn54/sn54.10_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn62_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn62_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.66_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.66_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn94/en/sujato",
+      "mn51/en/sujato",
+      "mn60/en/sujato",
+      "an4.198/en/sujato",
+      "mn118/en/sujato",
+      "sn54.1/en/sujato",
+      "sn54.10/en/sujato",
+      "mn62/en/sujato",
+      "dn33/en/sujato",
+      "an3.66/en/sujato",
+      "an10.60/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn51_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn51",
+        "lang": "en",
+        "segMap": {
+          "mn51:5.10": {
+            "scid": "mn51:5.10",
+            "pli": "So anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati. ",
+            "en": "They live without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves. ",
+            "matched": true
+          },
+          "mn51:6.8": {
+            "scid": "mn51:6.8",
+            "pli": "Yo ca kho ayaṁ, bhante, puggalo nevattantapo nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto so anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati; ",
+            "en": "The person who doesn’t mortify either themselves or others—living without wishes, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves—does not torment themselves or others, both of whom want to be happy and recoil from pain. ",
+            "matched": true
+          },
+          "mn51:11.1": {
+            "scid": "mn51:11.1",
+            "pli": "Katamo ca, bhikkhave, puggalo nevattantapo nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto, so anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati? ",
+            "en": "And what person doesn’t mortify either themselves or others, but lives without wishes, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves? ",
+            "matched": true
+          },
+          "mn51:22.1": {
+            "scid": "mn51:22.1",
+            "pli": "pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati; ",
+            "en": "And with the fading away of rapture, they enter and remain in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ ",
+            "matched": true
+          },
+          "mn51:28.2": {
+            "scid": "mn51:28.2",
+            "pli": "So attantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharatī”ti. ",
+            "en": "They live without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves.” ",
+            "matched": true
+          }
+        },
+        "score": 5.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 51\nWith Kandaraka",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 190,
+          "en": 189
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn94_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn94_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn94",
+        "lang": "en",
+        "segMap": {
+          "mn94:5.7": {
+            "scid": "mn94:5.7",
+            "pli": "So anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati. ",
+            "en": "They live without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves. ",
+            "matched": true
+          },
+          "mn94:6.8": {
+            "scid": "mn94:6.8",
+            "pli": "Yo ca kho ayaṁ, bho udena, puggalo nevattantapo nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto so anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati, so attānañca parañca sukhakāmaṁ dukkhapaṭikkūlaṁ neva ātāpeti na paritāpeti; ",
+            "en": "The person who doesn’t mortify either themselves or others—living without wishes, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves—does not torment themselves or others, both of whom want to be happy and recoil from pain. ",
+            "matched": true
+          },
+          "mn94:13.2": {
+            "scid": "mn94:13.2",
+            "pli": "so anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati? ",
+            "en": "living without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves? ",
+            "matched": true
+          },
+          "mn94:24.1": {
+            "scid": "mn94:24.1",
+            "pli": "Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati. ",
+            "en": "And with the fading away of rapture, they enter and remain in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ ",
+            "matched": true
+          },
+          "mn94:30.2": {
+            "scid": "mn94:30.2",
+            "pli": "So anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharatī”ti. ",
+            "en": "They live without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves.” ",
+            "matched": true
+          }
+        },
+        "score": 5.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 94\nWith Ghoṭamukha",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 203,
+          "en": 202
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.198",
+        "lang": "en",
+        "segMap": {
+          "an4.198:1.7": {
+            "scid": "an4.198:1.7",
+            "pli": "So neva attantapo na parantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati. ",
+            "en": "They live without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves. ",
+            "matched": true
+          },
+          "an4.198:7.2": {
+            "scid": "an4.198:7.2",
+            "pli": "So anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati. ",
+            "en": "living without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves? ",
+            "matched": true
+          },
+          "an4.198:15.5": {
+            "scid": "an4.198:15.5",
+            "pli": "So na attantapo na parantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati. ",
+            "en": "living without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves. ",
+            "matched": true
+          }
+        },
+        "score": 3.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n20. The Great Chapter\n198. Self-mortification",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 111,
+          "en": 110
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn60_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn60_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn60",
+        "lang": "en",
+        "segMap": {
+          "mn60:35.7": {
+            "scid": "mn60:35.7",
+            "pli": "so anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati. ",
+            "en": "They live without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves. ",
+            "matched": true
+          },
+          "mn60:39.2": {
+            "scid": "mn60:39.2",
+            "pli": "so anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati? ",
+            "en": "living without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves? ",
+            "matched": true
+          },
+          "mn60:56.2": {
+            "scid": "mn60:56.2",
+            "pli": "so anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharatī”ti. ",
+            "en": "They live without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves.” ",
+            "matched": true
+          }
+        },
+        "score": 3.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 60\nGuaranteed",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 294,
+          "en": 292
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:1.11.22": {
+            "scid": "dn33:1.11.22",
+            "pli": "Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati. ",
+            "en": "And with the fading away of rapture, they enter and remain in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ ",
+            "matched": true
+          },
+          "dn33:1.11.209": {
+            "scid": "dn33:1.11.209",
+            "pli": "So anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati. ",
+            "en": "They live without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves. ",
+            "matched": true
+          },
+          "dn33:3.2.75": {
+            "scid": "dn33:3.2.75",
+            "pli": "Pītiyā ca virāgā …pe… tatiyaṁ jhānaṁ upasampajja viharati. ",
+            "en": "And with the fading away of rapture, they enter and remain in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn118_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn118_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn118",
+        "lang": "en",
+        "segMap": {
+          "mn118:19.2": {
+            "scid": "mn118:19.2",
+            "pli": "‘sukhapaṭisaṁvedī assasissāmī’ti sikkhati, ‘sukhapaṭisaṁvedī passasissāmī’ti sikkhati; ",
+            "en": "They practice breathing in <span class=\"ebt-matched\">experiencing bliss</span>. They practice breathing out <span class=\"ebt-matched\">experiencing bliss</span>. ",
+            "matched": true
+          },
+          "mn118:25.2": {
+            "scid": "mn118:25.2",
+            "pli": "‘sukhapaṭisaṁvedī assasissāmī’ti sikkhati, ‘sukhapaṭisaṁvedī passasissāmī’ti sikkhati; ",
+            "en": "or <span class=\"ebt-matched\">experiencing bliss</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 118\nMindfulness of Breathing",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 154,
+          "en": 153
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn54/sn54.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn54/sn54.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn54.1",
+        "lang": "en",
+        "segMap": {
+          "sn54.1:3.2": {
+            "scid": "sn54.1:3.2",
+            "pli": "‘sukhappaṭisaṁvedī assasissāmī’ti sikkhati, ‘sukhappaṭisaṁvedī passasissāmī’ti sikkhati; ",
+            "en": "They practice like this: ‘I’ll breathe in <span class=\"ebt-matched\">experiencing bliss</span>.’ They practice like this: ‘I’ll breathe out <span class=\"ebt-matched\">experiencing bliss</span>.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 54\n1. One Thing\n1. One Thing",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 30,
+          "en": 29
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn54/sn54.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn54/sn54.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn54.10",
+        "lang": "en",
+        "segMap": {
+          "sn54.10:6.2": {
+            "scid": "sn54.10:6.2",
+            "pli": "‘sukhappaṭisaṁvedī assasissāmī’ti sikkhati, ‘sukhappaṭisaṁvedī passasissāmī’ti sikkhati; ",
+            "en": "They practice like this: ‘I’ll breathe in <span class=\"ebt-matched\">experiencing bliss</span>.’ They practice like this: ‘I’ll breathe out <span class=\"ebt-matched\">experiencing bliss</span>.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 54\n1. One Thing\n10. With Kimbila",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 70,
+          "en": 68
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.60",
+        "lang": "en",
+        "segMap": {
+          "an10.60:13.9": {
+            "scid": "an10.60:13.9",
+            "pli": "‘Sukhapaṭisaṁvedī assasissāmī’ti sikkhati. ‘Sukhapaṭisaṁvedī passasissāmī’ti sikkhati. ",
+            "en": "They practice breathing in <span class=\"ebt-matched\">experiencing bliss</span>. They practice breathing out <span class=\"ebt-matched\">experiencing bliss</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n60. With Girimānanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 80,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.66_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.66_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.66",
+        "lang": "en",
+        "segMap": {
+          "an3.66:47.5": {
+            "scid": "an3.66:47.5",
+            "pli": "So diṭṭheva dhamme nicchāto nibbuto sītibhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharatī”ti. ",
+            "en": "So they live without wishes in the present life, extinguished, cooled, <span class=\"ebt-matched\">experiencing bliss</span>, having become holy in themselves.” ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n66. With Sāḷha and His Friend",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 90,
+          "en": 89
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn62_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn62_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn62",
+        "lang": "en",
+        "segMap": {
+          "mn62:27.2": {
+            "scid": "mn62:27.2",
+            "pli": "‘sukhappaṭisaṁvedī assasissāmī’ti sikkhati; ‘sukhappaṭisaṁvedī passasissāmī’ti sikkhati; ",
+            "en": "They practice breathing in <span class=\"ebt-matched\">experiencing bliss</span>. They practice breathing out <span class=\"ebt-matched\">experiencing bliss</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 62\nThe Longer Advice to Rāhula",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 122,
+          "en": 121
+        }
+      }
+    ]
+  }
+}

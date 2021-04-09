@@ -1,0 +1,416 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "my lasting welfare and happiness",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "my lasting welfare and happiness",
+    "method": "phrase",
+    "resultPattern": "\\bmy lasting welfare and happiness",
+    "segsMatched": 19,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn5_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn5_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga1/ud1.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga1/ud1.10_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn135_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn135_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.47_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.47_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn16/sn16.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn16/sn16.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn26_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn26_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn5/en/sujato",
+      "ud1.10/en/sujato",
+      "mn85/en/sujato",
+      "mn135/en/sujato",
+      "an7.47/en/sujato",
+      "sn22.1/en/sujato",
+      "sn16.11/en/sujato",
+      "dn30/en/sujato",
+      "dn26/en/sujato",
+      "dn23/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn5_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn5",
+        "lang": "en",
+        "segMap": {
+          "dn5:10.3": {
+            "scid": "dn5:10.3",
+            "pli": "‘adhigatā kho me vipulā mānusakā bhogā, mahantaṁ pathavimaṇḍalaṁ abhivijiya ajjhāvasāmi, yannūnāhaṁ mahāyaññaṁ yajeyyaṁ, yaṁ mama assa dīgharattaṁ hitāya sukhāyā’ti. ",
+            "en": "‘I have achieved human wealth, and reign after conquering this vast territory. Why don’t I hold a large sacrifice? That will be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.’ ",
+            "matched": true
+          },
+          "dn5:10.6": {
+            "scid": "dn5:10.6",
+            "pli": "“adhigatā kho me vipulā mānusakā bhogā, mahantaṁ pathavimaṇḍalaṁ abhivijiya ajjhāvasāmi. Yannūnāhaṁ mahāyaññaṁ yajeyyaṁ yaṁ mama assa dīgharattaṁ hitāya sukhāyā”ti. ",
+            "en": "“I have achieved human wealth, and reign after conquering this vast territory. Why don’t I perform a great sacrifice? That will be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.” ",
+            "matched": true
+          },
+          "dn5:10.8": {
+            "scid": "dn5:10.8",
+            "pli": "Anusāsatu maṁ bhavaṁ yaṁ mama assa dīgharattaṁ hitāya sukhāyā’ti. ",
+            "en": "Please instruct me. It will be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.’ ",
+            "matched": true
+          },
+          "dn5:11.23": {
+            "scid": "dn5:11.23",
+            "pli": "Anusāsatu maṁ bhavaṁ yaṁ mama assa dīgharattaṁ hitāya sukhāyā’ti. ",
+            "en": "Please instruct me. It will be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.’ ",
+            "matched": true
+          },
+          "dn5:12.2": {
+            "scid": "dn5:12.2",
+            "pli": "‘icchāmahaṁ, bho, mahāyaññaṁ yajituṁ, anujānantu me bhavanto yaṁ mama assa dīgharattaṁ hitāya sukhāyā’ti. ",
+            "en": "“I wish to perform a great sacrifice. Please grant your approval, gentlemen; it will be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 5.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 5\nWith Kūṭadanta\n1. The Brahmins and Householders of Khāṇumata",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 375,
+          "en": 374
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga1/ud1.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga1/ud1.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud1.10",
+        "lang": "en",
+        "segMap": {
+          "ud1.10:5.4": {
+            "scid": "ud1.10:5.4",
+            "pli": "desetu sugato dhammaṁ, yaṁ mamassa dīgharattaṁ hitāya sukhāyā”ti.",
+            "en": "That would be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.”",
+            "matched": true
+          },
+          "ud1.10:6.4": {
+            "scid": "ud1.10:6.4",
+            "pli": "desetu sugato dhammaṁ, yaṁ mamassa dīgharattaṁ hitāya sukhāyā”ti.",
+            "en": "That would be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.”",
+            "matched": true
+          },
+          "ud1.10:7.4": {
+            "scid": "ud1.10:7.4",
+            "pli": "desetu sugato dhammaṁ, yaṁ mamassa dīgharattaṁ hitāya sukhāyā”ti.",
+            "en": "That would be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.”",
+            "matched": true
+          }
+        },
+        "score": 3.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n1.10. With Bāhiya",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 79,
+          "en": 70
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.47_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.47_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.47",
+        "lang": "en",
+        "segMap": {
+          "an7.47:3.7": {
+            "scid": "an7.47:3.7",
+            "pli": "Anusāsatu maṁ, bhante, bhagavā yaṁ mama assa dīgharattaṁ hitāya sukhāyā’”ti. ",
+            "en": "and instruct me. It will be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.’” ",
+            "matched": true
+          },
+          "an7.47:4.4": {
+            "scid": "an7.47:4.4",
+            "pli": "Anusāsatu maṁ bhavaṁ gotamo yaṁ mama assa dīgharattaṁ hitāya sukhāyā”ti. ",
+            "en": "and instruct me. It will be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 2.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n5. A Great Sacrifice\n47. Fires (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 77,
+          "en": 76
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn135_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn135_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn135",
+        "lang": "en",
+        "segMap": {
+          "mn135:17.5": {
+            "scid": "mn135:17.5",
+            "pli": "kiṁ me karīyamānaṁ dīgharattaṁ ahitāya dukkhāya hoti, kiṁ vā pana me karīyamānaṁ dīgharattaṁ hitāya sukhāya hotī’ti? ",
+            "en": "What kind of action will lead to my lasting harm and suffering? Or what kind of action will lead to <span class=\"ebt-matched\">my lasting welfare and happiness</span>?’ ",
+            "matched": true
+          },
+          "mn135:18.5": {
+            "scid": "mn135:18.5",
+            "pli": "kiṁ me karīyamānaṁ dīgharattaṁ ahitāya dukkhāya hoti, kiṁ vā pana me karīyamānaṁ dīgharattaṁ hitāya sukhāya hotī’ti? ",
+            "en": "What kind of action will lead to my lasting harm and suffering? Or what kind of action will lead to <span class=\"ebt-matched\">my lasting welfare and happiness</span>?’ ",
+            "matched": true
+          }
+        },
+        "score": 2.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 135\nThe Shorter Analysis of Deeds",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 137,
+          "en": 136
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn85",
+        "lang": "en",
+        "segMap": {
+          "mn85:7.7": {
+            "scid": "mn85:7.7",
+            "pli": "yaṁ mama assa dīgharattaṁ hitāya sukhāyā”ti. ",
+            "en": "It will be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.” ",
+            "matched": true
+          },
+          "mn85:7.12": {
+            "scid": "mn85:7.12",
+            "pli": "yaṁ mama assa dīgharattaṁ hitāya sukhāyā”ti. ",
+            "en": "It will be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 2.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 85\nWith Prince Bodhi",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 553,
+          "en": 552
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn16/sn16.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn16/sn16.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn16.11",
+        "lang": "en",
+        "segMap": {
+          "sn16.11:14.3": {
+            "scid": "sn16.11:14.3",
+            "pli": "‘idha, bhante, bhagavā nisīdatu, yaṁ mamassa dīgharattaṁ hitāya sukhāyā’ti. ",
+            "en": "‘Sir, sit here. That would be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 16\n1. Kassapa\n11. Robes",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 79,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.1",
+        "lang": "en",
+        "segMap": {
+          "sn22.1:2.5": {
+            "scid": "sn22.1:2.5",
+            "pli": "yaṁ mamassa dīgharattaṁ hitāya sukhāyā”ti. ",
+            "en": "It will be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n1. Nakula’s Father\n1. Nakula’s Father",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 94,
+          "en": 93
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn26_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn26",
+        "lang": "en",
+        "segMap": {
+          "dn26:5.6": {
+            "scid": "dn26:5.6",
+            "pli": "“kiṁ, bhante, kusalaṁ, kiṁ akusalaṁ, kiṁ sāvajjaṁ, kiṁ anavajjaṁ, kiṁ sevitabbaṁ, kiṁ na sevitabbaṁ, kiṁ me karīyamānaṁ dīgharattaṁ ahitāya dukkhāya assa, kiṁ vā pana me karīyamānaṁ dīgharattaṁ hitāya sukhāya assā”ti? ",
+            "en": "“Sirs, what is skillful? What is unskillful? What is blameworthy? What is blameless? What should be cultivated? What should not be cultivated? Doing what leads to my lasting harm and suffering? Doing what leads to <span class=\"ebt-matched\">my lasting welfare and happiness</span>?” ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 26\nThe Wheel-Turning Monarch\n1. Taking Refuge in Oneself",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 355,
+          "en": 354
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "en",
+        "segMap": {
+          "dn23:30.7": {
+            "scid": "dn23:30.7",
+            "pli": "Icchāmi cāhaṁ, bho kassapa, mahāyaññaṁ yajituṁ, anusāsatu maṁ bhavaṁ kassapo, yaṁ mamassa dīgharattaṁ hitāya sukhāyā”ti. ",
+            "en": "Master Kassapa, I wish to perform a great sacrifice. Please instruct me so it will be for <span class=\"ebt-matched\">my lasting welfare and happiness</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 23\nWith Pāyāsi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 715,
+          "en": 713
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn30",
+        "lang": "en",
+        "segMap": {
+          "dn30:1.25.3": {
+            "scid": "dn30:1.25.3",
+            "pli": "‘kiṁ, bhante, kusalaṁ, kiṁ akusalaṁ, kiṁ sāvajjaṁ, kiṁ anavajjaṁ, kiṁ sevitabbaṁ, kiṁ na sevitabbaṁ, kiṁ me karīyamānaṁ dīgharattaṁ ahitāya dukkhāya assa, kiṁ vā pana me karīyamānaṁ dīgharattaṁ hitāya sukhāya assā’ti. ",
+            "en": "‘Sirs, what is skillful? What is unskillful? What is blameworthy? What is blameless? What should be cultivated? What should not be cultivated? Doing what leads to my lasting harm and suffering? Doing what leads to <span class=\"ebt-matched\">my lasting welfare and happiness</span>?’ ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 30\nThe Marks of a Great Man",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 721,
+          "en": 720
+        }
+      }
+    ]
+  }
+}

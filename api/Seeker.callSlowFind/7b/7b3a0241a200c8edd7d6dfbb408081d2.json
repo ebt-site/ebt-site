@@ -1,0 +1,151 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "auf die mittlere art",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "auf die mittlere art",
+    "method": "phrase",
+    "resultPattern": "\\bauf die mittlere art",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn12/sn12.18_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.18_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.18_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.17_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.17_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.17_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.15_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.15_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.15_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn12.18/de/sabbamitta",
+      "sn12.17/de/sabbamitta",
+      "sn12.15/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.15_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.15_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.15_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.15",
+        "lang": "de",
+        "segMap": {
+          "sn12.15:3.3": {
+            "scid": "sn12.15:3.3",
+            "pli": "Ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṁ deseti: ",
+            "de": "Der Klargewordene vermeidet diese beiden Extreme und lehrt den Dhamma <span class=\"ebt-matched\">auf die mittlere Art</span>: ",
+            "en": "Avoiding these two extremes, the Realized One teaches by the middle way: ",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n2. Nahrung\n15. Kaccānagotta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "de": 23,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.18_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.18_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.18_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.18",
+        "lang": "de",
+        "segMap": {
+          "sn12.18:4.3": {
+            "scid": "sn12.18:4.3",
+            "pli": "Ete te, timbaruka, ubho ante anupagamma majjhena tathāgato dhammaṁ deseti: ",
+            "de": "Der Klargewordene vermeidet diese beiden Extreme und lehrt den Dhamma <span class=\"ebt-matched\">auf die mittlere Art</span>: ",
+            "en": "Avoiding these two extremes, the Realized One teaches by the middle way: ",
+            "matched": true
+          }
+        },
+        "score": 1.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n2. Nahrung\n18. Mit Timbaruka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 46,
+          "de": 45,
+          "en": 45
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.17_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.17_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.17_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.17",
+        "lang": "de",
+        "segMap": {
+          "sn12.17:5.3": {
+            "scid": "sn12.17:5.3",
+            "pli": "Ete te, kassapa, ubho ante anupagamma majjhena tathāgato dhammaṁ deseti: ",
+            "de": "Der Klargewordene vermeidet diese beiden Extreme und lehrt den Dhamma <span class=\"ebt-matched\">auf die mittlere Art</span>: ",
+            "en": "Avoiding these two extremes, the Realized One teaches by the middle way: ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n2. Nahrung\n17. Mit Kassapa, dem nackten Asketen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 68,
+          "de": 67,
+          "en": 67
+        }
+      }
+    ]
+  }
+}

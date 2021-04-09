@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wenn das vertrauen verschwindet",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wenn das vertrauen verschwindet",
+    "method": "phrase",
+    "resultPattern": "\\bwenn das vertrauen verschwindet",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.6_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.6_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.6_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.6/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.6_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.6_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.6",
+        "lang": "de",
+        "segMap": {
+          "an5.6:1.2": {
+            "scid": "an5.6:1.2",
+            "pli": "Yato ca kho, bhikkhave, saddhā antarahitā hoti, assaddhiyaṁ pariyuṭṭhāya tiṭṭhati; ",
+            "de": "Aber <span class=\"ebt-matched\">wenn das Vertrauen verschwindet</span> und der Mangel daran überhandnimmt, ",
+            "en": "But when faith vanishes and faithlessness takes over, ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n1. Kräfte eines Übenden\n6. Werden",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "de": 18,
+          "en": 18
+        }
+      }
+    ]
+  }
+}

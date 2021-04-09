@@ -1,0 +1,92 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "cause of good deeds",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "cause of good deeds",
+    "method": "phrase",
+    "resultPattern": "\\bcause of good deeds",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an10/an10.47_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.47_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an10.47/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.47_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.47_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.47",
+        "lang": "en",
+        "segMap": {
+          "an10.47:2.3": {
+            "scid": "an10.47:2.3",
+            "pli": "Adoso kho, mahāli, hetu, adoso paccayo kalyāṇassa kammassa kiriyāya kalyāṇassa kammassa pavattiyā. ",
+            "en": "Love is a <span class=\"ebt-matched\">cause of good deeds</span> … ",
+            "matched": true
+          },
+          "an10.47:2.4": {
+            "scid": "an10.47:2.4",
+            "pli": "Amoho kho, mahāli, hetu, amoho paccayo kalyāṇassa kammassa kiriyāya kalyāṇassa kammassa pavattiyā. ",
+            "en": "Understanding is a <span class=\"ebt-matched\">cause of good deeds</span> … ",
+            "matched": true
+          },
+          "an10.47:2.5": {
+            "scid": "an10.47:2.5",
+            "pli": "Yoniso manasikāro kho, mahāli, hetu, yoniso manasikāro paccayo kalyāṇassa kammassa kiriyāya kalyāṇassa kammassa pavattiyā. ",
+            "en": "Proper attention is a <span class=\"ebt-matched\">cause of good deeds</span> … ",
+            "matched": true
+          },
+          "an10.47:2.6": {
+            "scid": "an10.47:2.6",
+            "pli": "Sammāpaṇihitaṁ kho, mahāli, cittaṁ hetu, sammāpaṇihitaṁ cittaṁ paccayo kalyāṇassa kammassa kiriyāya kalyāṇassa kammassa pavattiyā. ",
+            "en": "A rightly directed mind is a <span class=\"ebt-matched\">cause of good deeds</span> … ",
+            "matched": true
+          }
+        },
+        "score": 4.182,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n5. Abuse\n47. With Mahāli",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      }
+    ]
+  }
+}

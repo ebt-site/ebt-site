@@ -1,0 +1,478 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "gewissen und zurückhaltung",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "gewissen und zurückhaltung",
+    "method": "phrase",
+    "resultPattern": "\\bgewissen und zurückhaltung",
+    "segsMatched": 29,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an2/an2.180-229_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.180-229_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.180-229_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.73_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.73_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.73_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.1-10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.1-10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.1-10_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.45_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.45_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.45_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.87-97_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.87-97_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.87-97_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.230-279_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.230-279_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.230-279_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an2.180-229/de/sabbamitta",
+      "an4.73/de/sabbamitta",
+      "an2.1-10/de/sabbamitta",
+      "dn34/de/sabbamitta",
+      "dn33/de/sabbamitta",
+      "an6.45/de/sabbamitta",
+      "an2.87-97/de/sabbamitta",
+      "an2.230-279/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.180-229_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.180-229_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.180-229_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.180-229",
+        "lang": "de",
+        "segMap": {
+          "an2.180-184:1.3": {
+            "scid": "an2.180-184:1.3",
+            "pli": "Kodho ca upanāho ca … makkho ca paḷāso ca … issā ca macchariyañca … māyā ca sāṭheyyañca … ahirikañca anottappañca. ",
+            "de": "Zorn und Feindseligkeit … Geringschätzung und Verachtung … Eifersucht und Geiz … Betrug und Doppelzüngigkeit … Gewissenlosigkeit und fehlende Zurückhaltung. ",
+            "en": "Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of conscience and prudence. ",
+            "matched": true
+          },
+          "an2.185-189:1.3": {
+            "scid": "an2.185-189:1.3",
+            "pli": "Akkodho ca anupanāho ca … amakkho ca apaḷāso ca … anissā ca amacchariyañca … amāyā ca asāṭheyyañca … hirī ca ottappañca. ",
+            "de": "Freiheit von Zorn und Feindseligkeit … Freiheit von Geringschätzung und Verachtung … Freiheit von Eifersucht und Geiz … Freiheit von Betrug und Doppelzüngigkeit … <span class=\"ebt-matched\">Gewissen und Zurückhaltung</span>. ",
+            "en": "Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … conscience and prudence. ",
+            "matched": true
+          },
+          "an2.190-194:1.3": {
+            "scid": "an2.190-194:1.3",
+            "pli": "Kodhena ca upanāhena ca … makkhena ca paḷāsena ca … issāya ca macchariyena ca … māyāya ca sāṭheyyena ca … ahirikena ca anottappena ca. ",
+            "de": "Zorn und Feindseligkeit … Geringschätzung und Verachtung … Eifersucht und Geiz … Betrug und Doppelzüngigkeit … Gewissenlosigkeit und fehlende Zurückhaltung. ",
+            "en": "Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of conscience and prudence. ",
+            "matched": true
+          },
+          "an2.195-199:1.3": {
+            "scid": "an2.195-199:1.3",
+            "pli": "Akkodhena ca anupanāhena ca … amakkhena ca apaḷāsena ca … anissāya ca amacchariyena ca … amāyāya ca asāṭheyyena ca … hiriyā ca ottappena ca. ",
+            "de": "Freiheit von Zorn und Feindseligkeit … Freiheit von Geringschätzung und Verachtung … Freiheit von Eifersucht und Geiz … Freiheit von Betrug und Doppelzüngigkeit … <span class=\"ebt-matched\">Gewissen und Zurückhaltung</span>. ",
+            "en": "Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … conscience and prudence. ",
+            "matched": true
+          },
+          "an2.200-204:1.3": {
+            "scid": "an2.200-204:1.3",
+            "pli": "Kodho ca upanāho ca … makkho ca paḷāso ca … issā ca macchariyañca … māyā ca sāṭheyyañca … ahirikañca anottappañca. ",
+            "de": "Zorn und Feindseligkeit … Geringschätzung und Verachtung … Eifersucht und Geiz … Betrug und Doppelzüngigkeit … Gewissenlosigkeit und fehlende Zurückhaltung. ",
+            "en": "Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of conscience and prudence. ",
+            "matched": true
+          },
+          "an2.205-209:1.3": {
+            "scid": "an2.205-209:1.3",
+            "pli": "Akkodho ca anupanāho ca … amakkho ca apaḷāso ca … anissā ca amacchariyañca … amāyā ca asāṭheyyañca … hirī ca ottappañca. ",
+            "de": "Freiheit von Zorn und Feindseligkeit … Freiheit von Geringschätzung und Verachtung … Freiheit von Eifersucht und Geiz … Freiheit von Betrug und Doppelzüngigkeit … <span class=\"ebt-matched\">Gewissen und Zurückhaltung</span>. ",
+            "en": "Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … conscience and prudence. ",
+            "matched": true
+          },
+          "an2.210-214:1.3": {
+            "scid": "an2.210-214:1.3",
+            "pli": "Kodhena ca upanāhena ca … makkhena ca paḷāsena ca … issāya ca macchariyena ca … māyāya ca sāṭheyyena ca … ahirikena ca anottappena ca. ",
+            "de": "Zorn und Feindseligkeit … Geringschätzung und Verachtung … Eifersucht und Geiz … Betrug und Doppelzüngigkeit … Gewissenlosigkeit und fehlende Zurückhaltung. ",
+            "en": "Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of conscience and prudence. ",
+            "matched": true
+          },
+          "an2.215-219:1.3": {
+            "scid": "an2.215-219:1.3",
+            "pli": "Akkodhena ca anupanāhena ca … amakkhena ca apaḷāsena ca … anissāya ca amacchariyena ca … amāyāya ca asāṭheyyena ca … hiriyā ca ottappena ca. ",
+            "de": "Freiheit von Zorn und Feindseligkeit … Freiheit von Geringschätzung und Verachtung … Freiheit von Eifersucht und Geiz … Freiheit von Betrug und Doppelzüngigkeit … <span class=\"ebt-matched\">Gewissen und Zurückhaltung</span>. ",
+            "en": "Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … conscience and prudence. ",
+            "matched": true
+          },
+          "an2.220-224:1.3": {
+            "scid": "an2.220-224:1.3",
+            "pli": "Kodhena ca upanāhena ca … makkhena ca paḷāsena ca … issāya ca macchariyena ca … māyāya ca sāṭheyyena ca … ahirikena ca anottappena ca. ",
+            "de": "Zorn und Feindseligkeit … Geringschätzung und Verachtung … Eifersucht und Geiz … Betrug und Doppelzüngigkeit … Gewissenlosigkeit und fehlende Zurückhaltung. ",
+            "en": "Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of conscience and prudence. ",
+            "matched": true
+          },
+          "an2.225-229:1.3": {
+            "scid": "an2.225-229:1.3",
+            "pli": "Akkodhena ca anupanāhena ca … amakkhena ca apaḷāsena ca … anissāya ca amacchariyena ca … amāyāya ca asāṭheyyena ca … hiriyā ca ottappena ca. ",
+            "de": "Freiheit von Zorn und Feindseligkeit … Freiheit von Geringschätzung und Verachtung … Freiheit von Eifersucht und Geiz … Freiheit von Betrug und Doppelzüngigkeit … <span class=\"ebt-matched\">Gewissen und Zurückhaltung</span>. ",
+            "en": "Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … conscience and prudence. ",
+            "matched": true
+          }
+        },
+        "score": 10.185,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n16. Abgekürzte Texte, die mit Zorn beginnen\n180–229",
+        "segsMatched": 10,
+        "langSegs": {
+          "pli": 54,
+          "de": 53,
+          "en": 53
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.9.7": {
+            "scid": "dn33:1.9.7",
+            "pli": "Ahirikañca anottappañca. ",
+            "de": "Gewissenlosigkeit und fehlende Zurückhaltung. ",
+            "en": "Lack of conscience and prudence. ",
+            "matched": true
+          },
+          "dn33:1.9.8": {
+            "scid": "dn33:1.9.8",
+            "pli": "Hirī ca ottappañca. ",
+            "de": "<span class=\"ebt-matched\">Gewissen und Zurückhaltung</span>. ",
+            "en": "Conscience and prudence. ",
+            "matched": true
+          },
+          "dn33:2.3.5": {
+            "scid": "dn33:2.3.5",
+            "pli": "saddhādhanaṁ, sīladhanaṁ, hiridhanaṁ, ottappadhanaṁ, sutadhanaṁ, cāgadhanaṁ, paññādhanaṁ. ",
+            "de": "Reichtum an Vertrauen, sittlichem Verhalten, Gewissen, Zurückhaltung, Gelehrsamkeit, Großzügigkeit und Weisheit. ",
+            "en": "the wealth of faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom. ",
+            "matched": true
+          },
+          "dn33:2.3.11": {
+            "scid": "dn33:2.3.11",
+            "pli": "idhāvuso, bhikkhu assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti. ",
+            "de": "Ein Mönch oder eine Nonne ist ohne Vertrauen, gewissenlos, ohne Zurückhaltung, ungebildet, faul, unachtsam und geistlos. ",
+            "en": "a mendicant is faithless, shameless, imprudent, uneducated, lazy, unmindful, and witless. ",
+            "matched": true
+          },
+          "dn33:2.3.27": {
+            "scid": "dn33:2.3.27",
+            "pli": "saddhābalaṁ, vīriyabalaṁ, hiribalaṁ, ottappabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ. ",
+            "de": "Vertrauen, Energie, Gewissen, Zurückhaltung, Achtsamkeit, Versenkung und Weisheit. ",
+            "en": "faith, energy, conscience, prudence, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 5.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.45_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.45_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.45_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.45",
+        "lang": "de",
+        "segMap": {
+          "an6.45:7.2": {
+            "scid": "an6.45:7.2",
+            "pli": "evamevaṁ kho, bhikkhave, yassa kassaci saddhā natthi kusalesu dhammesu, hirī natthi kusalesu dhammesu, ottappaṁ natthi kusalesu dhammesu, vīriyaṁ natthi kusalesu dhammesu, paññā natthi kusalesu dhammesu—",
+            "de": "Ebenso gilt jeder, der kein Vertrauen, kein Gewissen, keine Zurückhaltung, keine Energie und keine Weisheit besitzt, wenn es um taugliche Eigenschaften geht, ",
+            "en": "In the same way, whoever has no faith, conscience, prudence, energy, and wisdom when it comes to skillful qualities ",
+            "matched": true
+          },
+          "an6.45:8.1": {
+            "scid": "an6.45:8.1",
+            "pli": "Sa kho so, bhikkhave, daliddo assako anāḷhiko saddhāya asati kusalesu dhammesu, hiriyā asati kusalesu dhammesu, ottappe asati kusalesu dhammesu, vīriye asati kusalesu dhammesu, paññāya asati kusalesu dhammesu, kāyena duccaritaṁ carati, vācāya duccaritaṁ carati, manasā duccaritaṁ carati. ",
+            "de": "Weil dieser Mensch kein Vertrauen, kein Gewissen, keine Zurückhaltung, keine Energie und keine Weisheit besitzt, wenn es um taugliche Eigenschaften geht, tut er Schlechtes mit dem Körper, der Sprache und dem Geist. ",
+            "en": "Since they have no faith, conscience, prudence, energy, or wisdom when it comes to skillful qualities, they do bad things by way of body, speech, and mind. ",
+            "matched": true
+          },
+          "an6.45:23.3": {
+            "scid": "an6.45:23.3",
+            "pli": "Hirīmano ca ottappī, ",
+            "de": "der <span class=\"ebt-matched\">Gewissen und Zurückhaltung</span> besitzt, ",
+            "en": "with conscience and prudence, ",
+            "matched": true
+          }
+        },
+        "score": 3.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n5. Über Dhammika\n45. Schulden",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 100,
+          "de": 99,
+          "en": 99
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.1-10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.1-10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.1-10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.1-10",
+        "lang": "de",
+        "segMap": {
+          "an2.7:1.3": {
+            "scid": "an2.7:1.3",
+            "pli": "Ahirikañca anottappañca. ",
+            "de": "Gewissenlosigkeit und fehlende Zurückhaltung. ",
+            "en": "Lack of conscience and prudence. ",
+            "matched": true
+          },
+          "an2.8:1.3": {
+            "scid": "an2.8:1.3",
+            "pli": "Hirī ca ottappañca. ",
+            "de": "<span class=\"ebt-matched\">Gewissen und Zurückhaltung</span>. ",
+            "en": "Conscience and prudence. ",
+            "matched": true
+          },
+          "an2.9:1.3": {
+            "scid": "an2.9:1.3",
+            "pli": "Hirī ca ottappañca. ",
+            "de": "<span class=\"ebt-matched\">Gewissen und Zurückhaltung</span>. ",
+            "en": "Conscience and prudence. ",
+            "matched": true
+          }
+        },
+        "score": 3.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n1. Strafen\n1–10",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 126,
+          "de": 124,
+          "en": 124
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.8.4": {
+            "scid": "dn34:1.8.4",
+            "pli": "saddhādhanaṁ, sīladhanaṁ, hiridhanaṁ, ottappadhanaṁ, sutadhanaṁ, cāgadhanaṁ, paññādhanaṁ. ",
+            "de": "Reichtum an Vertrauen, sittlichem Verhalten, Gewissen, Zurückhaltung, Gelehrsamkeit, Großzügigkeit und Weisheit. ",
+            "en": "the wealth of faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom. ",
+            "matched": true
+          },
+          "dn34:1.8.33": {
+            "scid": "dn34:1.8.33",
+            "pli": "idhāvuso, bhikkhu assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti. ",
+            "de": "Ein Mönch oder eine Nonne ist ohne Vertrauen, gewissenlos, ohne Zurückhaltung, ungebildet, faul, unachtsam und geistlos. ",
+            "en": "a mendicant is faithless, shameless, imprudent, uneducated, lazy, unmindful, and witless. ",
+            "matched": true
+          },
+          "dn34:2.1.5": {
+            "scid": "dn34:2.1.5",
+            "pli": "Idhāvuso, bhikkhu satthāraṁ upanissāya viharati aññataraṁ vā garuṭṭhāniyaṁ sabrahmacāriṁ, yatthassa tibbaṁ hirottappaṁ paccupaṭṭhitaṁ hoti pemañca gāravo ca. ",
+            "de": "Da lebt eine Nonne, indem sie sich auf den Lehrer oder eine geistliche Gefährtin in der Lehrerrolle stützt. Und sie entwickelt ihnen gegenüber einen ausgeprägten Sinn für <span class=\"ebt-matched\">Gewissen und Zurückhaltung</span> mit Zuneigung und Respekt. ",
+            "en": "It’s when a mendicant lives relying on the Teacher or a spiritual companion in a teacher’s role. And they set up a keen sense of conscience and prudence for them, with warmth and respect. ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.73_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.73_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.73_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.73",
+        "lang": "de",
+        "segMap": {
+          "an4.73:9.1": {
+            "scid": "an4.73:9.1",
+            "pli": "Seyyathāpi, bhikkhave, vadhukā yaññadeva rattiṁ vā divaṁ vā ānītā hoti, tāvadevassā tibbaṁ hirottappaṁ paccupaṭṭhitaṁ hoti sassuyāpi sasurepi sāmikepi antamaso dāsakammakaraporisesu. ",
+            "de": "Wie eine Braut an dem Abend oder Tag, an dem sie zum ersten Mal zum Heim ihres Mannes gebracht wird: Sie entwickelt unmittelbar einen ausgeprägten Sinn für <span class=\"ebt-matched\">Gewissen und Zurückhaltung</span> gegenüber ihrer Schwiegermutter, ihrem Schwiegervater, ihrem Mann und sogar den Leibeigenen, Arbeitern und Angestellten. ",
+            "en": "It’s like a bride on the day or night she’s first brought to her husband’s home. Right away she sets up a keen sense of conscience and prudence for her mother and father in law, her husband, and even the bondservants, workers, and staff. ",
+            "matched": true
+          },
+          "an4.73:9.4": {
+            "scid": "an4.73:9.4",
+            "pli": "Evamevaṁ kho, bhikkhave, idhekacco bhikkhu yaññadeva rattiṁ vā divaṁ vā agārasmā anagāriyaṁ pabbajito hoti, tāvadevassa tibbaṁ hirottappaṁ paccupaṭṭhitaṁ hoti bhikkhūsu bhikkhunīsu upāsakesu upāsikāsu antamaso ārāmikasamaṇuddesesu. ",
+            "de": "Ebenso entwickelt eine Nonne an dem Abend oder Tag, an dem sie zuerst aus dem Haus fortzieht ins hauslose Leben, unmittelbar einen ausgeprägten Sinn für <span class=\"ebt-matched\">Gewissen und Zurückhaltung</span> gegenüber den Mönchen, Nonnen, Laienmännern und -frauen und sogar den Klosterarbeitern und Novizinnen. ",
+            "en": "In the same way, on the day or night a mendicant first goes forth from the lay life to homelessness, right away they set up a keen sense of conscience and prudence for the monks, nuns, laymen, and laywomen, and even the monastery workers and novices. ",
+            "matched": true
+          }
+        },
+        "score": 2.047,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n8. Gesichert\n73. Ein guter Mensch",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 43,
+          "de": 42,
+          "en": 42
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.87-97_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.87-97_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.87-97_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.87-97",
+        "lang": "de",
+        "segMap": {
+          "an2.92:1.3": {
+            "scid": "an2.92:1.3",
+            "pli": "Ahirikañca anottappañca. ",
+            "de": "Gewissenlosigkeit und fehlende Zurückhaltung. ",
+            "en": "Lack of conscience and prudence. ",
+            "matched": true
+          },
+          "an2.93:1.3": {
+            "scid": "an2.93:1.3",
+            "pli": "Hirī ca ottappañca. ",
+            "de": "<span class=\"ebt-matched\">Gewissen und Zurückhaltung</span>. ",
+            "en": "Conscience and prudence. ",
+            "matched": true
+          }
+        },
+        "score": 2.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n9. Zwei Dinge\n87–97",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 59,
+          "de": 58,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.230-279_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.230-279_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.230-279_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.230-279",
+        "lang": "de",
+        "segMap": {
+          "an2.230-279:1.3": {
+            "scid": "an2.230-279:1.3",
+            "pli": "Akkodho ca anupanāho ca … amakkho ca apaḷāso ca … anissā ca amacchariyañca … amāyā ca asāṭheyyañca … hirī ca ottappañca. ",
+            "de": "Freiheit von Zorn und Feindseligkeit … Freiheit von Geringschätzung und Verachtung … Freiheit von Eifersucht und Geiz … Freiheit von Betrug und Doppelzüngigkeit … <span class=\"ebt-matched\">Gewissen und Zurückhaltung</span>. ",
+            "en": "Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … conscience and prudence. ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n17. Abgekürzte Texte, die mit untauglich beginnen\n230–279",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      }
+    ]
+  }
+}

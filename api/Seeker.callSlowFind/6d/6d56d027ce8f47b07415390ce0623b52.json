@@ -1,0 +1,354 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "but not themselves",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "but not themselves",
+    "method": "phrase",
+    "resultPattern": "\\bbut not themselves",
+    "segsMatched": 26,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.99_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.99_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.97_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.97_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.96_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.96_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.95_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.95_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.98_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.98_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.99/en/sujato",
+      "an4.97/en/sujato",
+      "an4.96/en/sujato",
+      "an4.95/en/sujato",
+      "dn33/en/sujato",
+      "an4.98/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.97_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.97_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.97",
+        "lang": "en",
+        "segMap": {
+          "an4.97:1.3": {
+            "scid": "an4.97:1.3",
+            "pli": "attahitāya paṭipanno no parahitāya, ",
+            "en": "One who practices to benefit themselves, but not others; ",
+            "matched": true
+          },
+          "an4.97:1.4": {
+            "scid": "an4.97:1.4",
+            "pli": "parahitāya paṭipanno no attahitāya,",
+            "en": "one who practices to benefit others, <span class=\"ebt-matched\">but not themselves</span>; ",
+            "matched": true
+          },
+          "an4.97:2.1": {
+            "scid": "an4.97:2.1",
+            "pli": "Kathañca, bhikkhave, puggalo attahitāya paṭipanno hoti, no parahitāya? ",
+            "en": "And how does a person practice to benefit themselves, but not others? ",
+            "matched": true
+          },
+          "an4.97:2.4": {
+            "scid": "an4.97:2.4",
+            "pli": "Evaṁ kho, bhikkhave, puggalo attahitāya paṭipanno hoti, no parahitāya. ",
+            "en": "That’s how a person practices to benefit themselves, but not others. ",
+            "matched": true
+          },
+          "an4.97:3.1": {
+            "scid": "an4.97:3.1",
+            "pli": "Kathañca, bhikkhave, puggalo parahitāya paṭipanno hoti, no attahitāya? ",
+            "en": "And how does a person practice to benefit others, <span class=\"ebt-matched\">but not themselves</span>? ",
+            "matched": true
+          },
+          "an4.97:3.4": {
+            "scid": "an4.97:3.4",
+            "pli": "Evaṁ kho, bhikkhave, puggalo parahitāya paṭipanno hoti, no attahitāya. ",
+            "en": "That’s how a person practices to benefit others, <span class=\"ebt-matched\">but not themselves</span>. ",
+            "matched": true
+          }
+        },
+        "score": 6.222,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n10. Demons\n97. Quick-witted",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.96_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.96_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.96",
+        "lang": "en",
+        "segMap": {
+          "an4.96:1.3": {
+            "scid": "an4.96:1.3",
+            "pli": "Attahitāya paṭipanno no parahitāya,",
+            "en": "One who practices to benefit themselves, but not others; ",
+            "matched": true
+          },
+          "an4.96:1.4": {
+            "scid": "an4.96:1.4",
+            "pli": "parahitāya paṭipanno no attahitāya, ",
+            "en": "one who practices to benefit others, <span class=\"ebt-matched\">but not themselves</span>; ",
+            "matched": true
+          },
+          "an4.96:2.1": {
+            "scid": "an4.96:2.1",
+            "pli": "Kathañca, bhikkhave, puggalo attahitāya paṭipanno hoti no parahitāya? ",
+            "en": "And how does a person practice to benefit themselves, but not others? ",
+            "matched": true
+          },
+          "an4.96:2.5": {
+            "scid": "an4.96:2.5",
+            "pli": "Evaṁ kho, bhikkhave, puggalo attahitāya paṭipanno hoti, no parahitāya. ",
+            "en": "That’s how a person practices to benefit themselves, but not others. ",
+            "matched": true
+          },
+          "an4.96:3.1": {
+            "scid": "an4.96:3.1",
+            "pli": "Kathañca, bhikkhave, puggalo parahitāya paṭipanno hoti, no attahitāya? ",
+            "en": "And how does a person practice to benefit others, <span class=\"ebt-matched\">but not themselves</span>? ",
+            "matched": true
+          },
+          "an4.96:3.5": {
+            "scid": "an4.96:3.5",
+            "pli": "Evaṁ kho, bhikkhave, puggalo parahitāya paṭipanno hoti, no attahitāya. ",
+            "en": "That’s how a person practices to benefit others, <span class=\"ebt-matched\">but not themselves</span>. ",
+            "matched": true
+          }
+        },
+        "score": 6.194,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n10. Demons\n96. Removing Greed",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 31,
+          "en": 30
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.99_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.99_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.99",
+        "lang": "en",
+        "segMap": {
+          "an4.99:1.3": {
+            "scid": "an4.99:1.3",
+            "pli": "attahitāya paṭipanno no parahitāya, ",
+            "en": "One who practices to benefit themselves, but not others; ",
+            "matched": true
+          },
+          "an4.99:1.4": {
+            "scid": "an4.99:1.4",
+            "pli": "parahitāya paṭipanno no attahitāya, ",
+            "en": "one who practices to benefit others, <span class=\"ebt-matched\">but not themselves</span>; ",
+            "matched": true
+          },
+          "an4.99:2.1": {
+            "scid": "an4.99:2.1",
+            "pli": "Kathañca, bhikkhave, puggalo attahitāya paṭipanno hoti, no parahitāya? ",
+            "en": "And how does a person practice to benefit themselves, but not others? ",
+            "matched": true
+          },
+          "an4.99:2.7": {
+            "scid": "an4.99:2.7",
+            "pli": "Evaṁ kho, bhikkhave, puggalo attahitāya paṭipanno hoti, no parahitāya. ",
+            "en": "That’s how a person practices to benefit themselves, but not others. ",
+            "matched": true
+          },
+          "an4.99:3.1": {
+            "scid": "an4.99:3.1",
+            "pli": "Kathañca, bhikkhave, puggalo parahitāya paṭipanno hoti, no attahitāya? ",
+            "en": "And how does a person practice to benefit others, <span class=\"ebt-matched\">but not themselves</span>? ",
+            "matched": true
+          },
+          "an4.99:3.7": {
+            "scid": "an4.99:3.7",
+            "pli": "Evaṁ kho, bhikkhave, puggalo parahitāya paṭipanno hoti, no attahitāya. ",
+            "en": "That’s how a person practices to benefit others, <span class=\"ebt-matched\">but not themselves</span>. ",
+            "matched": true
+          }
+        },
+        "score": 6.194,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n10. Demons\n99. Training Rules",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 31,
+          "en": 30
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.95_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.95_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.95",
+        "lang": "en",
+        "segMap": {
+          "an4.95:1.4": {
+            "scid": "an4.95:1.4",
+            "pli": "parahitāya paṭipanno no attahitāya, ",
+            "en": "one who practices to benefit others, <span class=\"ebt-matched\">but not themselves</span>; ",
+            "matched": true
+          },
+          "an4.95:1.5": {
+            "scid": "an4.95:1.5",
+            "pli": "attahitāya paṭipanno no parahitāya, ",
+            "en": "one who practices to benefit themselves, but not others; and ",
+            "matched": true
+          },
+          "an4.95:3.1": {
+            "scid": "an4.95:3.1",
+            "pli": "Tatra, bhikkhave, yvāyaṁ puggalo parahitāya paṭipanno no attahitāya, ayaṁ imesaṁ dvinnaṁ puggalānaṁ abhikkantataro ca paṇītataro ca. ",
+            "en": "The person who practices to benefit others, <span class=\"ebt-matched\">but not themselves</span>, is better than that. ",
+            "matched": true
+          },
+          "an4.95:3.2": {
+            "scid": "an4.95:3.2",
+            "pli": "Tatra, bhikkhave, yvāyaṁ puggalo attahitāya paṭipanno no parahitāya, ayaṁ imesaṁ tiṇṇaṁ puggalānaṁ abhikkantataro ca paṇītataro ca. ",
+            "en": "The person who practices to benefit themselves, but not others, is better than both of those. ",
+            "matched": true
+          }
+        },
+        "score": 4.222,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n10. Demons\n95. A Firebrand",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.98_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.98_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.98",
+        "lang": "en",
+        "segMap": {
+          "an4.98:1.3": {
+            "scid": "an4.98:1.3",
+            "pli": "Attahitāya paṭipanno no parahitāya, ",
+            "en": "One who practices to benefit themselves, but not others; ",
+            "matched": true
+          },
+          "an4.98:1.4": {
+            "scid": "an4.98:1.4",
+            "pli": "parahitāya paṭipanno no attahitāya, ",
+            "en": "one who practices to benefit others, <span class=\"ebt-matched\">but not themselves</span>; ",
+            "matched": true
+          }
+        },
+        "score": 2.182,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n10. Demons\n98. To Benefit Oneself",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 11,
+          "en": 10
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:1.11.211": {
+            "scid": "dn33:1.11.211",
+            "pli": "Idhāvuso, ekacco puggalo attahitāya paṭipanno hoti no parahitāya. ",
+            "en": "One person practices to benefit themselves, but not others. ",
+            "matched": true
+          },
+          "dn33:1.11.212": {
+            "scid": "dn33:1.11.212",
+            "pli": "Idhāvuso, ekacco puggalo parahitāya paṭipanno hoti no attahitāya. ",
+            "en": "One person practices to benefit others, <span class=\"ebt-matched\">but not themselves</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

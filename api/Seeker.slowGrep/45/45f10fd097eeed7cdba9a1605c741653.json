@@ -1,0 +1,22 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bdoor to the deathless",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn6/sn6.1_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn52_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn26_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/kn/iti/vagga9/iti84_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an11/an11.16_translation-en-sujato.json:1"
+  ]
+}

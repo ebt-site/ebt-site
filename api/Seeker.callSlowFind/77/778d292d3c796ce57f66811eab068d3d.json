@@ -1,0 +1,93 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "dieses verdammte ding",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "dieses verdammte ding",
+    "method": "phrase",
+    "resultPattern": "\\bdieses verdammte ding",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn14/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn14",
+        "lang": "de",
+        "segMap": {
+          "dn14:2.2.13": {
+            "scid": "dn14:2.2.13",
+            "pli": "‘dhiratthu kira, bho, jāti nāma, yatra hi nāma jātassa jarā paññāyissatī’ti. ",
+            "de": "‚<span class=\"ebt-matched\">Dieses verdammte Ding</span> namens Wiedergeburt! Denn das Alter kommt zu jedem, der geboren ist.‘ ",
+            "en": "‘Damn this thing called rebirth, since old age will come to anyone who’s born.’ ",
+            "matched": true
+          },
+          "dn14:2.6.13": {
+            "scid": "dn14:2.6.13",
+            "pli": "‘dhiratthu kira, bho, jāti nāma, yatra hi nāma jātassa jarā paññāyissati, byādhi paññāyissatī’ti. ",
+            "de": "‚<span class=\"ebt-matched\">Dieses verdammte Ding</span> namens Wiedergeburt! Denn Alter und Krankheit kommen zu jedem, der geboren ist.‘ ",
+            "en": "‘Damn this thing called rebirth, since old age and sickness will come to anyone who’s born.’ ",
+            "matched": true
+          },
+          "dn14:2.10.19": {
+            "scid": "dn14:2.10.19",
+            "pli": "‘dhiratthu kira, bho, jāti nāma, yatra hi nāma jātassa jarā paññāyissati, byādhi paññāyissati, maraṇaṁ paññāyissatī’ti. ",
+            "de": "‚<span class=\"ebt-matched\">Dieses verdammte Ding</span> namens Wiedergeburt! Denn Alter, Krankheit und Tod kommen zu jedem, der geboren ist.‘ ",
+            "en": "‘Damn this thing called rebirth, since old age, sickness, and death will come to anyone who’s born.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 14\nDie große Lehrrede über die Ernte aus den Taten\n1. Von früheren Leben",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 851,
+          "de": 689,
+          "en": 850
+        }
+      }
+    ]
+  }
+}

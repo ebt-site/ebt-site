@@ -1,0 +1,93 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "alles leiden, das zustande kommt",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "alles leiden, das zustande kommt",
+    "method": "phrase",
+    "resultPattern": "\\balles leiden, das zustande kommt",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn42/sn42.11_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn42/sn42.11_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn42/sn42.11_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn42.11/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn42/sn42.11_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn42/sn42.11_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn42/sn42.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn42.11",
+        "lang": "de",
+        "segMap": {
+          "sn42.11:2.16": {
+            "scid": "sn42.11:2.16",
+            "pli": "‘yaṁ kiñci dukkhaṁ uppajjamānaṁ uppajjati, sabbaṁ taṁ chandamūlakaṁ chandanidānaṁ. ",
+            "de": "‚<span class=\"ebt-matched\">Alles Leiden, das zustande kommt</span>, wurzelt im Sehnen und entspringt vom Sehnen. ",
+            "en": "‘All the suffering that arises is rooted and sourced in desire. ",
+            "matched": true
+          },
+          "sn42.11:3.5": {
+            "scid": "sn42.11:3.5",
+            "pli": "‘yaṁ kiñci dukkhaṁ uppajjamānaṁ uppajjati, sabbaṁ taṁ chandamūlakaṁ chandanidānaṁ. ",
+            "de": "‚<span class=\"ebt-matched\">Alles Leiden, das zustande kommt</span>, wurzelt im Sehnen und entspringt vom Sehnen. ",
+            "en": "‘All the suffering that arises is rooted and sourced in desire. ",
+            "matched": true
+          },
+          "sn42.11:5.5": {
+            "scid": "sn42.11:5.5",
+            "pli": "‘yaṁ kiñci dukkhaṁ uppajjamānaṁ uppajjati, sabbaṁ taṁ chandamūlakaṁ chandanidānaṁ. ",
+            "de": "‚<span class=\"ebt-matched\">Alles Leiden, das zustande kommt</span>, wurzelt im Sehnen und entspringt vom Sehnen. ",
+            "en": "‘All the suffering that arises is rooted and sourced in desire. ",
+            "matched": true
+          }
+        },
+        "score": 3.055,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 42\n1. Ortsvorsteher\n11. Mit Bhadraka",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 55,
+          "de": 54,
+          "en": 54
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "geheimen und öffentlichen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "geheimen und öffentlichen",
+    "method": "phrase",
+    "resultPattern": "\\bgeheimen und öffentlichen",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn47/sn47.9_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn47/sn47.9_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.9_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn47.9/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.9_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn47/sn47.9_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.9",
+        "lang": "de",
+        "segMap": {
+          "sn47.9:4.2": {
+            "scid": "sn47.9:4.2",
+            "pli": "Desito, ānanda, mayā dhammo anantaraṁ abāhiraṁ karitvā. ",
+            "de": "Ich habe den Dhamma gelehrt, ohne zwischen <span class=\"ebt-matched\">geheimen und öffentlichen</span> Lehren zu unterscheiden. ",
+            "en": "I’ve taught the Dhamma without making any distinction between secret and public teachings. ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 47\n1. In Ambapālīs Wald\n9. Krank",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "de": 45,
+          "en": 46
+        }
+      }
+    ]
+  }
+}

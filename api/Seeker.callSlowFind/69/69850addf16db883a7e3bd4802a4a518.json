@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "struck in the eye",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "struck in the eye",
+    "method": "phrase",
+    "resultPattern": "\\bstruck in the eye",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.248_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.248_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.248/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.248_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.248_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.248",
+        "lang": "en",
+        "segMap": {
+          "sn35.248:1.8": {
+            "scid": "sn35.248:1.8",
+            "pli": "Evameva kho, bhikkhave, assutavā puthujjano cakkhusmiṁ haññati manāpāmanāpehi rūpehi …pe… ",
+            "en": "In the same way, an uneducated ordinary person is <span class=\"ebt-matched\">struck in the eye</span> by both pleasant and unpleasant sights. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n19. The Simile of the Vipers\n248. The Sheaf of Barley",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 65,
+          "en": 63
+        }
+      }
+    ]
+  }
+}

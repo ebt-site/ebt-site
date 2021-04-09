@@ -1,0 +1,93 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "von keiner seite etwas zu befürchten",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "von keiner seite etwas zu befürchten",
+    "method": "phrase",
+    "resultPattern": "\\bvon keiner seite etwas zu befürchten",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn10/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn10",
+        "lang": "de",
+        "segMap": {
+          "dn10:1.29.1": {
+            "scid": "dn10:1.29.1",
+            "pli": "Sa kho so, māṇava, bhikkhu evaṁ sīlasampanno na kutoci bhayaṁ samanupassati, yadidaṁ sīlasaṁvarato. ",
+            "de": "Eine Nonne, die so im sittlichen Verhalten vollendet ist, hat in Bezug auf ihre sittliche Zügelung <span class=\"ebt-matched\">von keiner Seite etwas zu befürchten</span>. ",
+            "en": "A mendicant thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. ",
+            "matched": true
+          },
+          "dn10:1.29.2": {
+            "scid": "dn10:1.29.2",
+            "pli": "Seyyathāpi, māṇava, rājā khattiyo muddhāvasitto nihatapaccāmitto na kutoci bhayaṁ samanupassati, yadidaṁ paccatthikato; ",
+            "de": "Wie ein König, der seine Feinde besiegt hat: Er hat von seinen Feinden <span class=\"ebt-matched\">von keiner Seite etwas zu befürchten</span>. ",
+            "en": "It’s like a king who has defeated his enemies. He sees no danger from his foes in any quarter. ",
+            "matched": true
+          },
+          "dn10:1.29.3": {
+            "scid": "dn10:1.29.3",
+            "pli": "evameva kho, māṇava, bhikkhu evaṁ sīlasampanno na kutoci bhayaṁ samanupassati, yadidaṁ sīlasaṁvarato. ",
+            "de": "Ebenso hat eine Nonne, die so im sittlichen Verhalten vollendet ist, in Bezug auf ihre sittliche Zügelung <span class=\"ebt-matched\">von keiner Seite etwas zu befürchten</span>. ",
+            "en": "A mendicant thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. ",
+            "matched": true
+          }
+        },
+        "score": 3.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 10\nMit Subha",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 284,
+          "de": 226,
+          "en": 281
+        }
+      }
+    ]
+  }
+}

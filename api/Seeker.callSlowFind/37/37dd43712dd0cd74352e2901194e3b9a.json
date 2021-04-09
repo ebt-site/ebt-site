@@ -1,0 +1,112 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "is eye contact permanent",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "is eye contact permanent",
+    "method": "phrase",
+    "resultPattern": "\\bis eye contact permanent",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn18/sn18.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn18/sn18.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn147_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn147_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn18.4/en/sujato",
+      "mn147/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn147_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn147_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn147",
+        "lang": "en",
+        "segMap": {
+          "mn147:3.18": {
+            "scid": "mn147:3.18",
+            "pli": "cakkhusamphasso nicco vā anicco vā”ti? ",
+            "en": "<span class=\"ebt-matched\">Is eye contact permanent</span> or impermanent?” ",
+            "matched": true
+          },
+          "mn147:3.26": {
+            "scid": "mn147:3.26",
+            "pli": "yamidaṁ cakkhusamphassapaccayā uppajjati vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ tampi niccaṁ vā aniccaṁ vā”ti? ",
+            "en": "Anything included in feeling, perception, choices, and consciousness that arises conditioned by eye contact: is that permanent or impermanent?” ",
+            "matched": true
+          }
+        },
+        "score": 2.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 147\nThe Shorter Advice to Rāhula",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 115,
+          "en": 114
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn18/sn18.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn18/sn18.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn18.4",
+        "lang": "en",
+        "segMap": {
+          "sn18.4:1.3": {
+            "scid": "sn18.4:1.3",
+            "pli": "cakkhusamphasso nicco vā anicco vā”ti? ",
+            "en": "<span class=\"ebt-matched\">Is eye contact permanent</span> or impermanent?” ",
+            "matched": true
+          }
+        },
+        "score": 1.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 18\nChapter One\n4. Contact",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      }
+    ]
+  }
+}

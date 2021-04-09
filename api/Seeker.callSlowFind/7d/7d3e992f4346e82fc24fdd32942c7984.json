@@ -1,0 +1,158 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "die tore zur unsterblichkeit",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "die tore zur unsterblichkeit",
+    "method": "phrase",
+    "resultPattern": "\\bdie tore zur unsterblichkeit",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn18_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn18_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn18_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn6/sn6.1_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn6/sn6.1_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn6/sn6.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn18/de/sabbamitta",
+      "sn6.1/de/sabbamitta",
+      "dn14/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn18_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn18_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn18_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn18",
+        "lang": "de",
+        "segMap": {
+          "dn18:27.10": {
+            "scid": "dn18:27.10",
+            "pli": "‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhi apārutā amatassa dvārā’ti idameva taṁ sammā vadamāno vadeyya. ",
+            "de": "die ‚vom Buddha gut erklärt ist, in diesem Leben sichtbar, unmittelbar wirksam, die zum Überprüfen einlädt, die sachdienlich ist, so dass vernünftige Menschen sie selbst erkennen können‘; und wovon es heißt, dass ‚<span class=\"ebt-matched\">die Tore zur Unsterblichkeit</span> aufgestoßen sind‘, dann ist es das. ",
+            "en": "‘a teaching that’s well explained by the Buddha, visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves; and the doors to the deathless are flung open,’ it’s this. ",
+            "matched": true
+          },
+          "dn18:27.11": {
+            "scid": "dn18:27.11",
+            "pli": "Svākkhāto hi, bho, bhagavatā dhammo sandiṭṭhiko, akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhi apārutā amatassa dvārā. ",
+            "de": "Denn die Lehre ist vom Buddha gut erklärt – in diesem Leben sichtbar, unmittelbar wirksam, sie lädt zum Überprüfen ein, ist sachdienlich, sodass vernünftige Menschen sie selbst erkennen können. Und <span class=\"ebt-matched\">die Tore zur Unsterblichkeit</span> sind aufgestoßen. ",
+            "en": "For the teaching is well explained by the Buddha—visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves—and the doors of the deathless are flung open. ",
+            "matched": true
+          }
+        },
+        "score": 2.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 18\nMit Janavasabha\n1. Bekanntgabe, wo Menschen aus Nādika und anderen Orten wiedergeboren wurden",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 299,
+          "de": 255,
+          "en": 298
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn6/sn6.1_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn6/sn6.1_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn6/sn6.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn6.1",
+        "lang": "de",
+        "segMap": {
+          "sn6.1:10.1": {
+            "scid": "sn6.1:10.1",
+            "pli": "“Apārutā tesaṁ amatassa dvārā, ",
+            "de": "„<span class=\"ebt-matched\">Die Tore zur Unsterblichkeit</span> sind aufgestoßen! ",
+            "en": "“Flung open are the doors to the deathless! ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 6\n1. Die Aufforderung\n1. Die Aufforderung des Brahmā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 53,
+          "de": 53,
+          "en": 53
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn14",
+        "lang": "de",
+        "segMap": {
+          "dn14:3.7.13": {
+            "scid": "dn14:3.7.13",
+            "pli": "‘Apārutā tesaṁ amatassa dvārā, ",
+            "de": "‚<span class=\"ebt-matched\">Die Tore zur Unsterblichkeit</span> sind aufgestoßen! ",
+            "en": "‘Flung open are the doors to the deathless! ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 14\nDie große Lehrrede über die Ernte aus den Taten\n1. Von früheren Leben",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 851,
+          "de": 689,
+          "en": 850
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,929 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "drei menschen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "drei menschen",
+    "method": "phrase",
+    "resultPattern": "\\bdrei menschen",
+    "segsMatched": 52,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.21_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.21_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.13_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.13_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.24_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.24_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.24_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.57_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.57_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.57_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.30_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.30_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.30_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.29_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.29_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.29_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.28_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.28_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.28_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.27_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.27_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.27_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.26_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.26_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.26_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.25_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.25_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.25_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.23_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.23_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.23_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.22_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.22_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.22_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.132_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.132_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.132_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.116_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.116_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.116_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.115_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.115_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.115_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.114_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.114_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.114_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.113_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.113_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.113_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.21/de/sabbamitta",
+      "an3.13/de/sabbamitta",
+      "an3.24/de/sabbamitta",
+      "an3.57/de/sabbamitta",
+      "an3.30/de/sabbamitta",
+      "an3.29/de/sabbamitta",
+      "an3.28/de/sabbamitta",
+      "an3.27/de/sabbamitta",
+      "an3.26/de/sabbamitta",
+      "an3.25/de/sabbamitta",
+      "an3.23/de/sabbamitta",
+      "an3.22/de/sabbamitta",
+      "an3.132/de/sabbamitta",
+      "an3.116/de/sabbamitta",
+      "an3.115/de/sabbamitta",
+      "an3.114/de/sabbamitta",
+      "an3.113/de/sabbamitta",
+      "dn33/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.21_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.21_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.21",
+        "lang": "de",
+        "segMap": {
+          "an3.21:2.1": {
+            "scid": "an3.21:2.1",
+            "pli": "“Tayome, āvuso samiddha, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Werter Saviṭṭha, es gibt diese <span class=\"ebt-matched\">drei Menschen</span> in der Welt. ",
+            "en": "“Reverend Saviṭṭha, these three people are found in the world. ",
+            "matched": true
+          },
+          "an3.21:2.4": {
+            "scid": "an3.21:2.4",
+            "pli": "Ime kho, āvuso, tayo puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "These are the three people found in the world. ",
+            "matched": true
+          },
+          "an3.21:3.1": {
+            "scid": "an3.21:3.1",
+            "pli": "“Tayome, āvuso sāriputta, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Werter Sāriputta, es gibt diese <span class=\"ebt-matched\">drei Menschen</span> in der Welt. ",
+            "en": "“Reverend Sāriputta, these three people are found in the world. ",
+            "matched": true
+          },
+          "an3.21:3.4": {
+            "scid": "an3.21:3.4",
+            "pli": "Ime kho, āvuso, tayo puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "These are the three people found in the world. ",
+            "matched": true
+          },
+          "an3.21:4.2": {
+            "scid": "an3.21:4.2",
+            "pli": "“tayome, āvuso koṭṭhika, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Werter Koṭṭhita, es gibt diese <span class=\"ebt-matched\">drei Menschen</span> in der Welt. ",
+            "en": "“Reverend Koṭṭhika, these three people are found in the world. ",
+            "matched": true
+          },
+          "an3.21:4.5": {
+            "scid": "an3.21:4.5",
+            "pli": "Ime kho, āvuso, tayo puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "These are the three people found in the world. ",
+            "matched": true
+          },
+          "an3.21:5.1": {
+            "scid": "an3.21:5.1",
+            "pli": "“Tayome, āvuso sāriputta, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Werter Sāriputta, es gibt diese <span class=\"ebt-matched\">drei Menschen</span> in der Welt. ",
+            "en": "“Reverend Sāriputta, these three people are found in the world. ",
+            "matched": true
+          },
+          "an3.21:5.4": {
+            "scid": "an3.21:5.4",
+            "pli": "Ime kho, āvuso, tayo puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "These are the three people found in the world. ",
+            "matched": true
+          },
+          "an3.21:6.2": {
+            "scid": "an3.21:6.2",
+            "pli": "“tayome, āvuso sāriputta, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Werter Sāriputta, es gibt diese <span class=\"ebt-matched\">drei Menschen</span> in der Welt. ",
+            "en": "“Reverend Sāriputta, these three people are found in the world. ",
+            "matched": true
+          },
+          "an3.21:6.5": {
+            "scid": "an3.21:6.5",
+            "pli": "Ime kho, āvuso, tayo puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "These are the three people found in the world. ",
+            "matched": true
+          },
+          "an3.21:7.1": {
+            "scid": "an3.21:7.1",
+            "pli": "“Tayome, āvuso koṭṭhika, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Werter Koṭṭhita, es gibt diese <span class=\"ebt-matched\">drei Menschen</span> in der Welt. ",
+            "en": "“Reverend Koṭṭhika, these three people are found in the world. ",
+            "matched": true
+          },
+          "an3.21:7.4": {
+            "scid": "an3.21:7.4",
+            "pli": "Ime kho, āvuso, tayo puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "These are the three people found in the world. ",
+            "matched": true
+          },
+          "an3.21:9.2": {
+            "scid": "an3.21:9.2",
+            "pli": "‘ayaṁ imesaṁ tiṇṇaṁ puggalānaṁ abhikkantataro ca paṇītataro cā’ti. ",
+            "de": "einer dieser <span class=\"ebt-matched\">drei Menschen</span> sei der erlesenste. ",
+            "en": "one of these three people is finest. ",
+            "matched": true
+          },
+          "an3.21:10.2": {
+            "scid": "an3.21:10.2",
+            "pli": "‘ayaṁ imesaṁ tiṇṇaṁ puggalānaṁ abhikkantataro ca paṇītataro cā’ti. ",
+            "de": "einer dieser <span class=\"ebt-matched\">drei Menschen</span> sei der erlesenste. ",
+            "en": "one of these three people is finest. ",
+            "matched": true
+          },
+          "an3.21:11.2": {
+            "scid": "an3.21:11.2",
+            "pli": "‘ayaṁ imesaṁ tiṇṇaṁ puggalānaṁ abhikkantataro ca paṇītataro cā’ti. ",
+            "de": "einer dieser <span class=\"ebt-matched\">drei Menschen</span> sei der erlesenste. ",
+            "en": "one of these three people is finest. ",
+            "matched": true
+          },
+          "an3.21:12.2": {
+            "scid": "an3.21:12.2",
+            "pli": "‘ayaṁ imesaṁ tiṇṇaṁ puggalānaṁ abhikkantataro ca paṇītataro cā’”ti. ",
+            "de": "einer dieser <span class=\"ebt-matched\">drei Menschen</span> sei der erlesenste.“ ",
+            "en": "one of these three people is finest.” ",
+            "matched": true
+          }
+        },
+        "score": 16.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n21. Mit Saviṭṭha",
+        "segsMatched": 16,
+        "langSegs": {
+          "pli": 64,
+          "de": 63,
+          "en": 63
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.13_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.13_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.13",
+        "lang": "de",
+        "segMap": {
+          "an3.13:1.1": {
+            "scid": "an3.13:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "“These three kinds of people are found in the world. ",
+            "matched": true
+          },
+          "an3.13:3.10": {
+            "scid": "an3.13:3.10",
+            "pli": "Ime kho, bhikkhave, tayo puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die man in der Welt findet. ",
+            "en": "These are the three kinds of people found in the world. ",
+            "matched": true
+          },
+          "an3.13:4.1": {
+            "scid": "an3.13:4.1",
+            "pli": "Evamevaṁ kho, bhikkhave, tayo puggalā santo saṁvijjamānā bhikkhūsu. ",
+            "de": "Ebenso findet man diese <span class=\"ebt-matched\">drei Menschen</span> unter den Mönchen und Nonnen. ",
+            "en": "In the same way, these three kinds of people are found among the mendicants. ",
+            "matched": true
+          },
+          "an3.13:6.10": {
+            "scid": "an3.13:6.10",
+            "pli": "Ime kho, bhikkhave, tayo puggalā santo saṁvijjamānā bhikkhūsū”ti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die man unter den Mönchen und Nonnen findet.“ ",
+            "en": "These are the three people found among the mendicants.” ",
+            "matched": true
+          }
+        },
+        "score": 4.068,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n2. Der Wagenbauer\n13. Hoffnungen",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 59,
+          "de": 58,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.24_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.24_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.24_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.24",
+        "lang": "de",
+        "segMap": {
+          "an3.24:1.1": {
+            "scid": "an3.24:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā puggalassa bahukārā. ",
+            "de": "„Mönche und Nonnen, diese <span class=\"ebt-matched\">drei Menschen</span> sind anderen eine große Hilfe. ",
+            "en": "“Mendicants, these three people are very helpful to another. ",
+            "matched": true
+          },
+          "an3.24:3.3": {
+            "scid": "an3.24:3.3",
+            "pli": "Ime kho, bhikkhave, tayo puggalā puggalassa bahukārā. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die anderen eine große Hilfe sind. ",
+            "en": "These are the three people who are very helpful to another person. ",
+            "matched": true
+          },
+          "an3.24:4.2": {
+            "scid": "an3.24:4.2",
+            "pli": "Imesaṁ pana, bhikkhave, tiṇṇaṁ puggalānaṁ iminā puggalena na suppatikāraṁ vadāmi, yadidaṁ abhivādanapaccuṭṭhānaañjalikammasāmīcikammacīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārānuppadānenā”ti. ",
+            "de": "Und ich sage auch, dass es nicht leicht ist, es diesen <span class=\"ebt-matched\">drei Menschen</span> zu vergelten, indem man sich vor ihnen verbeugt, für sie aufsteht, sie mit zusammengelegten Händen grüßt und ihnen gegenüber die richtigen Umgangsformen einhält; oder indem man für sie Roben, Almosen, Unterkunft sowie Arznei und Krankenversorgung bereitstellt.“ ",
+            "en": "And I also say that it’s not easy to repay these three people by bowing down to them, rising up for them, greeting them with joined palms, and observing proper etiquette for them; or by providing them with robes, alms-food, lodgings, and medicines and supplies for the sick.” ",
+            "matched": true
+          }
+        },
+        "score": 3.2,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n24. Eine große Hilfe",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 15,
+          "de": 14,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.114_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.114_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.114_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.114",
+        "lang": "de",
+        "segMap": {
+          "an3.114:1.1": {
+            "scid": "an3.114:1.1",
+            "pli": "“Tiṇṇaṁ, bhikkhave, pātubhāvo dullabho lokasmiṁ. ",
+            "de": "„Das Erscheinen von <span class=\"ebt-matched\">drei Menschen</span>, Mönche und Nonnen, ist in der Welt selten. ",
+            "en": "“Mendicants, the appearance of three people is rare in the world. ",
+            "matched": true
+          },
+          "an3.114:1.4": {
+            "scid": "an3.114:1.4",
+            "pli": "Imesaṁ kho, bhikkhave, tiṇṇaṁ pātubhāvo dullabho lokasmin”ti. ",
+            "de": "Das Erscheinen dieser <span class=\"ebt-matched\">drei Menschen</span> ist in der Welt selten.“ ",
+            "en": "The appearance of these three people is rare in the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n12. Verloren\n114. Selten",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.113_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.113_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.113_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.113",
+        "lang": "de",
+        "segMap": {
+          "an3.113:1.1": {
+            "scid": "an3.113:1.1",
+            "pli": "“Tayome, bhikkhave, āpāyikā nerayikā idamappahāya. ",
+            "de": "„Mönche und Nonnen, <span class=\"ebt-matched\">drei Menschen</span> sind einem verlorenen Ort verfallen, der Hölle verfallen, wenn sie ihren Fehler nicht aufgeben. ",
+            "en": "“Mendicants, three kinds of people are bound for a place of loss, bound for hell, if they don’t give up this fault. ",
+            "matched": true
+          },
+          "an3.113:1.6": {
+            "scid": "an3.113:1.6",
+            "pli": "Ime kho, bhikkhave, tayo āpāyikā nerayikā idamappahāyā”ti. ",
+            "de": "Diese <span class=\"ebt-matched\">drei Menschen</span> sind einem verlorenen Ort verfallen, der Hölle verfallen, wenn sie ihren Fehler nicht aufgeben.“ ",
+            "en": "These are the three kinds of people bound for a place of loss, bound for hell, if they don’t give up this fault.” ",
+            "matched": true
+          }
+        },
+        "score": 2.2,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n12. Verloren\n113. Verloren",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 10,
+          "de": 9,
+          "en": 9
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.115_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.115_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.115_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.115",
+        "lang": "de",
+        "segMap": {
+          "an3.115:1.1": {
+            "scid": "an3.115:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Diese <span class=\"ebt-matched\">drei Menschen</span>, Mönche und Nonnen, findet man in der Welt. ",
+            "en": "“Mendicants, these three people are found in the world. ",
+            "matched": true
+          },
+          "an3.115:3.4": {
+            "scid": "an3.115:3.4",
+            "pli": "Ime kho, bhikkhave, tayo puggalā santo saṁvijjamānā lokasmin”ti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die man in der Welt findet.“ ",
+            "en": "These are the three people found in the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.118,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n12. Verloren\n115. Unfassbar",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 17,
+          "de": 16,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.28_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.28_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.28_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.28",
+        "lang": "de",
+        "segMap": {
+          "an3.28:1.1": {
+            "scid": "an3.28:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "“These three kinds of people are found in the world. ",
+            "matched": true
+          },
+          "an3.28:3.5": {
+            "scid": "an3.28:3.5",
+            "pli": "Ime kho, bhikkhave, tayo puggalā santo saṁvijjamānā lokasmin”ti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die man in der Welt findet.“ ",
+            "en": "These are the three people found in the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n28. Sprache wie Kot",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 18,
+          "de": 17,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.23_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.23_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.23",
+        "lang": "de",
+        "segMap": {
+          "an3.23:1.1": {
+            "scid": "an3.23:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "“These three people are found in the world. ",
+            "matched": true
+          },
+          "an3.23:3.5": {
+            "scid": "an3.23:3.5",
+            "pli": "Ime kho, bhikkhave, tayo puggalā santo saṁvijjamānā lokasmin”ti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die man in der Welt findet.“ ",
+            "en": "These are the three people found in the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.105,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n23. Entscheidungen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 19,
+          "de": 18,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.22_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.22_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.22_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.22",
+        "lang": "de",
+        "segMap": {
+          "an3.22:5.1": {
+            "scid": "an3.22:5.1",
+            "pli": "Evamevaṁ kho, bhikkhave, tayome gilānūpamā puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "Ebenso gibt es in der Welt diese <span class=\"ebt-matched\">drei Menschen</span>, die Kranken gleichen. ",
+            "en": "In the same way, these three people similar to patients are found in the world. ",
+            "matched": true
+          },
+          "an3.22:8.3": {
+            "scid": "an3.22:8.3",
+            "pli": "Ime kho, bhikkhave, tayo gilānūpamā puggalā santo saṁvijjamānā lokasmin”ti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die Kranken gleichen, die man in der Welt findet.“ ",
+            "en": "These are the three people similar to patients found in the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.1,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n22. Kranke",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 20,
+          "de": 19,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.25_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.25_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.25_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.25",
+        "lang": "de",
+        "segMap": {
+          "an3.25:1.1": {
+            "scid": "an3.25:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "“These three people are found in the world. ",
+            "matched": true
+          },
+          "an3.25:3.6": {
+            "scid": "an3.25:3.6",
+            "pli": "Ime kho, bhikkhave, tayo puggalā santo saṁvijjamānā lokasmin”ti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die man in der Welt findet.“ ",
+            "en": "These are the three people found in the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.08,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n25. Wie Diamant",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 25,
+          "de": 24,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.116_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.116_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.116_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.116",
+        "lang": "de",
+        "segMap": {
+          "an3.116:1.1": {
+            "scid": "an3.116:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Diese <span class=\"ebt-matched\">drei Menschen</span>, Mönche und Nonnen, findet man in der Welt. ",
+            "en": "“Mendicants, these three people are found in the world. ",
+            "matched": true
+          },
+          "an3.116:3.7": {
+            "scid": "an3.116:3.7",
+            "pli": "Ime kho, bhikkhave, tayo puggalā santo saṁvijjamānā lokasmin”ti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die man in der Welt findet.“ ",
+            "en": "These are the three people found in the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.08,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n12. Verloren\n116. Unerschütterlich",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 25,
+          "de": 24,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.26_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.26_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.26_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.26",
+        "lang": "de",
+        "segMap": {
+          "an3.26:1.1": {
+            "scid": "an3.26:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "“These three people are found in the world. ",
+            "matched": true
+          },
+          "an3.26:3.9": {
+            "scid": "an3.26:3.9",
+            "pli": "Ime kho, bhikkhave, tayo puggalā santo saṁvijjamānā lokasminti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die man in der Welt findet. ",
+            "en": "These are the three people found in the world. ",
+            "matched": true
+          }
+        },
+        "score": 2.061,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n26. Gefährten",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 33,
+          "de": 32,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.132_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.132_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.132_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.132",
+        "lang": "de",
+        "segMap": {
+          "an3.132:1.1": {
+            "scid": "an3.132:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Mönche und Nonnen, diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "“Mendicants, these three people are found in the world. ",
+            "matched": true
+          },
+          "an3.132:3.6": {
+            "scid": "an3.132:3.6",
+            "pli": "Ime kho, bhikkhave, tayo puggalā santo saṁvijjamānā lokasmin”ti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die man in der Welt findet.“ ",
+            "en": "These are the three people found in the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.061,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n13. Kusināra\n132. Zeichnungen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 33,
+          "de": 31,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.27_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.27_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.27_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.27",
+        "lang": "de",
+        "segMap": {
+          "an3.27:1.1": {
+            "scid": "an3.27:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "“These three people are found in the world. ",
+            "matched": true
+          },
+          "an3.27:3.8": {
+            "scid": "an3.27:3.8",
+            "pli": "Ime kho, bhikkhave, tayo puggalā santo saṁvijjamānā lokasminti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die man in der Welt findet. ",
+            "en": "These are the three people found in the world. ",
+            "matched": true
+          }
+        },
+        "score": 2.044,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n27. Angewidert",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 45,
+          "de": 44,
+          "en": 44
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.29_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.29_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.29",
+        "lang": "de",
+        "segMap": {
+          "an3.29:1.1": {
+            "scid": "an3.29:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "“These three kinds of people are found in the world. ",
+            "matched": true
+          },
+          "an3.29:3.6": {
+            "scid": "an3.29:3.6",
+            "pli": "Ime kho, bhikkhave, tayo puggalā santo saṁvijjamānā lokasminti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die man in der Welt findet. ",
+            "en": "These are the three people found in the world. ",
+            "matched": true
+          }
+        },
+        "score": 2.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n29. Blind",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 47,
+          "de": 46,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.57_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.57_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.57",
+        "lang": "de",
+        "segMap": {
+          "an3.57:2.6": {
+            "scid": "an3.57:2.6",
+            "pli": "Yo kho, vaccha, paraṁ dānaṁ dadantaṁ vāreti so tiṇṇaṁ antarāyakaro hoti, tiṇṇaṁ pāripanthiko. ",
+            "de": "Wenn man jemand anderen vom Geben abhält, schafft man ein Hindernis und eine Hürde für <span class=\"ebt-matched\">drei Menschen</span>. ",
+            "en": "Anyone who prevents another from giving makes an obstacle and a barrier for three people. ",
+            "matched": true
+          },
+          "an3.57:2.9": {
+            "scid": "an3.57:2.9",
+            "pli": "Yo kho, vaccha, paraṁ dānaṁ dadantaṁ vāreti so imesaṁ tiṇṇaṁ antarāyakaro hoti, tiṇṇaṁ pāripanthiko. ",
+            "de": "Jeder, der jemand anderen vom Geben abhält, schafft ein Hindernis und eine Hürde für diese <span class=\"ebt-matched\">drei Menschen</span>. ",
+            "en": "Anyone who prevents another from giving makes an obstacle and a barrier for these three people. ",
+            "matched": true
+          }
+        },
+        "score": 2.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n6. Brahmanen\n57. Mit Vacchagotta",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 77,
+          "de": 76,
+          "en": 76
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.30_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.30_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.30",
+        "lang": "de",
+        "segMap": {
+          "an3.30:1.1": {
+            "scid": "an3.30:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. ",
+            "de": "„Diese <span class=\"ebt-matched\">drei Menschen</span> findet man in der Welt. ",
+            "en": "“These three kinds of people are found in the world. ",
+            "matched": true
+          },
+          "an3.30:3.12": {
+            "scid": "an3.30:3.12",
+            "pli": "Ime kho, bhikkhave, tayo puggalā santo saṁvijjamānā lokasminti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Menschen</span>, die man in der Welt findet. ",
+            "en": "These are the three kinds of people found in the world. ",
+            "matched": true
+          }
+        },
+        "score": 2.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n30. Auf dem Kopf",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 79,
+          "de": 77,
+          "en": 77
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.10.79": {
+            "scid": "dn33:1.10.79",
+            "pli": "Tayo puggalā—",
+            "de": "<span class=\"ebt-matched\">Drei Menschen</span>: ",
+            "en": "Three individuals: ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

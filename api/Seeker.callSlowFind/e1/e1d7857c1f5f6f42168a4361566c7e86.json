@@ -1,0 +1,162 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "gain unification of mind",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "gain unification of mind",
+    "method": "phrase",
+    "resultPattern": "\\bgain unification of mind",
+    "segsMatched": 7,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn51/sn51.13_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn51/sn51.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.333-377_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.333-377_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn48/sn48.50_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn48/sn48.50_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn51.13/en/sujato",
+      "an1.333-377/en/sujato",
+      "sn48.50/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn51/sn51.13_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn51/sn51.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn51.13",
+        "lang": "en",
+        "segMap": {
+          "sn51.13:1.1": {
+            "scid": "sn51.13:1.1",
+            "pli": "“Chandañce, bhikkhave, bhikkhu nissāya labhati samādhiṁ, labhati cittassa ekaggataṁ—",
+            "en": "“Mendicants, if a mendicant depends on enthusiasm in order to gain immersion, <span class=\"ebt-matched\">gain unification of mind</span>, ",
+            "matched": true
+          },
+          "sn51.13:2.1": {
+            "scid": "sn51.13:2.1",
+            "pli": "Vīriyañce, bhikkhave, bhikkhu nissāya labhati samādhiṁ, labhati cittassa ekaggataṁ—",
+            "en": "If a mendicant depends on energy in order to gain immersion, <span class=\"ebt-matched\">gain unification of mind</span>, ",
+            "matched": true
+          },
+          "sn51.13:3.1": {
+            "scid": "sn51.13:3.1",
+            "pli": "Cittañce, bhikkhave, bhikkhu nissāya labhati samādhiṁ, labhati cittassa ekaggataṁ—",
+            "en": "If a mendicant depends on mental development in order to gain immersion, <span class=\"ebt-matched\">gain unification of mind</span>, ",
+            "matched": true
+          },
+          "sn51.13:4.1": {
+            "scid": "sn51.13:4.1",
+            "pli": "Vīmaṁsañce, bhikkhave, bhikkhu nissāya labhati samādhiṁ, labhati cittassa ekaggataṁ—",
+            "en": "If a mendicant depends on inquiry in order to gain immersion, <span class=\"ebt-matched\">gain unification of mind</span>, ",
+            "matched": true
+          }
+        },
+        "score": 4.118,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 51\n2. Shaking the Stilt Longhouse\n13. Immersion Due to Enthusiasm",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 34,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.333-377_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.333-377_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.333-377",
+        "lang": "en",
+        "segMap": {
+          "an1.345:1.1": {
+            "scid": "an1.345:1.1",
+            "pli": "… Evamevaṁ kho, bhikkhave, appakā te sattā ye vavassaggārammaṇaṁ karitvā labhanti samādhiṁ labhanti cittassekaggataṁ; ",
+            "en": "… so too the sentient beings who, relying on letting go, gain immersion, <span class=\"ebt-matched\">gain unification of mind</span> are few, ",
+            "matched": true
+          },
+          "an1.345:1.2": {
+            "scid": "an1.345:1.2",
+            "pli": "atha kho eteva sattā bahutarā ye vavassaggārammaṇaṁ karitvā na labhanti samādhiṁ na labhanti cittassekaggataṁ. ",
+            "en": "while those who don’t gain immersion, don’t <span class=\"ebt-matched\">gain unification of mind</span> relying on letting go are many. ",
+            "matched": true
+          }
+        },
+        "score": 2.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 1\n27. Fourth\n333–377",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 85,
+          "en": 84
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn48/sn48.50_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn48/sn48.50_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn48.50",
+        "lang": "en",
+        "segMap": {
+          "sn48.50:4.1": {
+            "scid": "sn48.50:4.1",
+            "pli": "Saddhassa hi, bhante, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino etaṁ pāṭikaṅkhaṁ yaṁ vossaggārammaṇaṁ karitvā labhissati samādhiṁ, labhissati cittassa ekaggataṁ. ",
+            "en": "You can expect that a faithful, energetic, and mindful noble disciple will, relying on letting go, gain immersion, <span class=\"ebt-matched\">gain unification of mind</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 48\n5. Old Age\n50. At Āpaṇa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 50,
+          "en": 48
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "faith and love",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "faith and love",
+    "method": "phrase",
+    "resultPattern": "\\bfaith and love",
+    "segsMatched": 16,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn65_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn65_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.30_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn55/sn55.25_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.25_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn55/sn55.24_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.24_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn70_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn70_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn65/en/sujato",
+      "an6.30/en/sujato",
+      "sn55.25/en/sujato",
+      "sn55.24/en/sujato",
+      "mn70/en/sujato",
+      "mn22/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.30",
+        "lang": "en",
+        "segMap": {
+          "an6.30:2.5": {
+            "scid": "an6.30:2.5",
+            "pli": "Yo ca kho, bhikkhave, tathāgataṁ vā tathāgatasāvakaṁ vā dassanāya gacchati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno, etadānuttariyaṁ, bhikkhave, dassanānaṁ sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ tathāgataṁ vā tathāgatasāvakaṁ vā dassanāya gacchati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno. ",
+            "en": "The unsurpassable seeing is when someone with settled <span class=\"ebt-matched\">faith and love</span>, sure and devoted, goes to see a Realized One or their disciple. This is in order to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to end the cycle of suffering, and to realize extinguishment. ",
+            "matched": true
+          },
+          "an6.30:3.5": {
+            "scid": "an6.30:3.5",
+            "pli": "Yo ca kho, bhikkhave, tathāgatassa vā tathāgatasāvakassa vā dhammassavanāya gacchati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno, etadānuttariyaṁ, bhikkhave, savanānaṁ sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ tathāgatassa vā tathāgatasāvakassa vā dhammassavanāya gacchati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno. ",
+            "en": "The unsurpassable hearing is when someone with settled <span class=\"ebt-matched\">faith and love</span>, sure and devoted, goes to hear the teaching of a Realized One or one of his disciples. … ",
+            "matched": true
+          },
+          "an6.30:4.5": {
+            "scid": "an6.30:4.5",
+            "pli": "Yo ca kho, bhikkhave, tathāgate vā tathāgatasāvake vā saddhaṁ paṭilabhati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno, etadānuttariyaṁ, bhikkhave, lābhānaṁ sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ tathāgate vā tathāgatasāvake vā saddhaṁ paṭilabhati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno. ",
+            "en": "The unsurpassable acquisition is when someone with settled <span class=\"ebt-matched\">faith and love</span>, sure and devoted, acquires faith in a Realized One or their disciple. … ",
+            "matched": true
+          },
+          "an6.30:5.5": {
+            "scid": "an6.30:5.5",
+            "pli": "Yo ca kho, bhikkhave, tathāgatappavedite dhammavinaye adhisīlampi sikkhati, adhicittampi sikkhati, adhipaññampi sikkhati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno, etadānuttariyaṁ, bhikkhave, sikkhānaṁ sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ tathāgatappavedite dhammavinaye adhisīlampi sikkhati, adhicittampi sikkhati, adhipaññampi sikkhati, niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno. ",
+            "en": "The unsurpassable training is when someone with settled <span class=\"ebt-matched\">faith and love</span>, sure and devoted, trains in the higher ethics, the higher mind, and the higher wisdom in the teaching and training proclaimed by a Realized One. … ",
+            "matched": true
+          },
+          "an6.30:6.5": {
+            "scid": "an6.30:6.5",
+            "pli": "Yo ca kho, bhikkhave, tathāgataṁ vā tathāgatasāvakaṁ vā paricarati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno, etadānuttariyaṁ, bhikkhave, pāricariyānaṁ sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ tathāgataṁ vā tathāgatasāvakaṁ vā paricarati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno. ",
+            "en": "The unsurpassable service is when someone with settled <span class=\"ebt-matched\">faith and love</span>, sure and devoted, serves a Realized One or their disciple. … ",
+            "matched": true
+          },
+          "an6.30:7.5": {
+            "scid": "an6.30:7.5",
+            "pli": "Yo ca kho, bhikkhave, tathāgataṁ vā tathāgatasāvakaṁ vā anussarati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno, etadānuttariyaṁ, bhikkhave, anussatīnaṁ sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ tathāgataṁ vā tathāgatasāvakaṁ vā anussarati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno. ",
+            "en": "The unsurpassable recollection is when someone with settled <span class=\"ebt-matched\">faith and love</span>, sure and devoted, recollects a Realized One or their disciple. … ",
+            "matched": true
+          }
+        },
+        "score": 6.09,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n3. Unsurpassable\n30. Unsurpassable",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 67,
+          "en": 65
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn65_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn65_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn65",
+        "lang": "en",
+        "segMap": {
+          "mn65:27.1": {
+            "scid": "mn65:27.1",
+            "pli": "Idha, bhaddāli, ekacco bhikkhu saddhāmattakena vahati pemamattakena. ",
+            "en": "Take some other monk who gets by with mere <span class=\"ebt-matched\">faith and love</span>. ",
+            "matched": true
+          },
+          "mn65:27.3": {
+            "scid": "mn65:27.3",
+            "pli": "‘ayaṁ kho, āvuso, bhikkhu saddhāmattakena vahati pemamattakena. ",
+            "en": "‘Reverends, this monk gets by with mere <span class=\"ebt-matched\">faith and love</span>. ",
+            "matched": true
+          },
+          "mn65:27.5": {
+            "scid": "mn65:27.5",
+            "pli": "mā yampissa taṁ saddhāmattakaṁ pemamattakaṁ tamhāpi parihāyī’ti. ",
+            "en": "no, let him not lose what little <span class=\"ebt-matched\">faith and love</span> he has!’ ",
+            "matched": true
+          },
+          "mn65:28.3": {
+            "scid": "mn65:28.3",
+            "pli": "evameva kho, bhaddāli, idhekacco bhikkhu saddhāmattakena vahati pemamattakena. ",
+            "en": "In the same way, some monk gets by with mere <span class=\"ebt-matched\">faith and love</span>. ",
+            "matched": true
+          },
+          "mn65:28.5": {
+            "scid": "mn65:28.5",
+            "pli": "‘ayaṁ kho, āvuso, bhikkhu saddhāmattakena vahati pemamattakena. ",
+            "en": "‘Reverends, this monk gets by with mere <span class=\"ebt-matched\">faith and love</span>. ",
+            "matched": true
+          },
+          "mn65:28.7": {
+            "scid": "mn65:28.7",
+            "pli": "mā yampissa taṁ saddhāmattakaṁ pemamattakaṁ tamhāpi parihāyī’ti. ",
+            "en": "no, let him not lose what little <span class=\"ebt-matched\">faith and love</span> he has!’ ",
+            "matched": true
+          }
+        },
+        "score": 6.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 65\nWith Bhaddāli",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 211,
+          "en": 210
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn55/sn55.24_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn55/sn55.24_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn55.24",
+        "lang": "en",
+        "segMap": {
+          "sn55.24:9.7": {
+            "scid": "sn55.24:9.7",
+            "pli": "Tathāgate cassa saddhāmattaṁ hoti pemamattaṁ. ",
+            "en": "And they have a degree of <span class=\"ebt-matched\">faith and love</span> for the Buddha. ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 55\n3. About Sarakāni\n24. About Sarakāni (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 78,
+          "en": 77
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn55/sn55.25_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn55/sn55.25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn55.25",
+        "lang": "en",
+        "segMap": {
+          "sn55.25:9.7": {
+            "scid": "sn55.25:9.7",
+            "pli": "Tathāgate cassa saddhāmattaṁ hoti pemamattaṁ. ",
+            "en": "And they have a degree of <span class=\"ebt-matched\">faith and love</span> for the Buddha. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 55\n3. About Sarakāni\n25. About Sarakāni the Sakyan (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 91,
+          "en": 90
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn70_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn70_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn70",
+        "lang": "en",
+        "segMap": {
+          "mn70:21.2": {
+            "scid": "mn70:21.2",
+            "pli": "Idha, bhikkhave, ekacco puggalo ye te santā vimokkhā atikkamma rūpe āruppā te na kāyena phusitvā viharati, paññāya cassa disvā ekacce āsavā parikkhīṇā honti, tathāgate cassa saddhāmattaṁ hoti pemamattaṁ, api cassa ime dhammā honti, seyyathidaṁ—",
+            "en": "It’s a person who doesn’t have direct meditative experience of the peaceful liberations that are formless, transcending form. Nevertheless, having seen with wisdom, some of their defilements have come to an end. And they have a degree of <span class=\"ebt-matched\">faith and love</span> for the Realized One. And they have the following qualities: ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 70\nAt Kīṭāgiri",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 203,
+          "en": 201
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn22",
+        "lang": "en",
+        "segMap": {
+          "mn22:47.2": {
+            "scid": "mn22:47.2",
+            "pli": "Evaṁ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṁ mayi saddhāmattaṁ pemamattaṁ sabbe te saggaparāyanā”ti. ",
+            "en": "In this teaching there are those who have a degree of <span class=\"ebt-matched\">faith and love</span> for me. All of them are bound for heaven.” ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 22\nThe Simile of the Snake",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 359,
+          "en": 358
+        }
+      }
+    ]
+  }
+}

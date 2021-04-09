@@ -1,0 +1,249 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "schädlichen irrglauben",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "schädlichen irrglauben",
+    "method": "phrase",
+    "resultPattern": "\\bschädlichen irrglauben",
+    "segsMatched": 17,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn12_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn23/de/sabbamitta",
+      "dn12/de/sabbamitta",
+      "dn24/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "de",
+        "segMap": {
+          "dn23:2.1": {
+            "scid": "dn23:2.1",
+            "pli": "Tena kho pana samayena pāyāsissa rājaññassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ",
+            "de": "Nun hatte Pāyāsi zu dieser Zeit den folgenden <span class=\"ebt-matched\">schädlichen Irrglauben</span>: ",
+            "en": "Now at that time Pāyāsi had the following harmful misconception: ",
+            "matched": true
+          },
+          "dn23:21.53": {
+            "scid": "dn23:21.53",
+            "pli": "Paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ; paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ. ",
+            "de": "Lass von deinem <span class=\"ebt-matched\">schädlichen Irrglauben</span> ab, Stammesfürst, lass ihn los! ",
+            "en": "Let go of this harmful misconception, chieftain, let go of it! ",
+            "matched": true
+          },
+          "dn23:22.1": {
+            "scid": "dn23:22.1",
+            "pli": "“Kiñcāpi bhavaṁ kassapo evamāha, atha kho nevāhaṁ sakkomi idaṁ pāpakaṁ diṭṭhigataṁ paṭinissajjituṁ. ",
+            "de": "„Auch wenn Meister Kassapa das sagt, so kann ich doch von diesem <span class=\"ebt-matched\">schädlichen Irrglauben</span> nicht ablassen. ",
+            "en": "“Even though Master Kassapa says this, still I’m not able to let go of that harmful misconception. ",
+            "matched": true
+          },
+          "dn23:22.5": {
+            "scid": "dn23:22.5",
+            "pli": "Sacāhaṁ, bho kassapa, idaṁ pāpakaṁ diṭṭhigataṁ paṭinissajjissāmi, bhavissanti me vattāro: ",
+            "de": "Wenn ich von diesem <span class=\"ebt-matched\">schädlichen Irrglauben</span> ablasse, werden die Leute sagen: ",
+            "en": "If I let go of this harmful misconception, people will say, ",
+            "matched": true
+          },
+          "dn23:23.70": {
+            "scid": "dn23:23.70",
+            "pli": "Paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ; paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ. ",
+            "de": "Lass von deinem <span class=\"ebt-matched\">schädlichen Irrglauben</span> ab, Stammesfürst, lass ihn los! ",
+            "en": "Let go of this harmful misconception, chieftain, let go of it! ",
+            "matched": true
+          },
+          "dn23:24.1": {
+            "scid": "dn23:24.1",
+            "pli": "“Kiñcāpi bhavaṁ kassapo evamāha, atha kho nevāhaṁ sakkomi idaṁ pāpakaṁ diṭṭhigataṁ paṭinissajjituṁ. ",
+            "de": "„Auch wenn Meister Kassapa das sagt, so kann ich doch von diesem <span class=\"ebt-matched\">schädlichen Irrglauben</span> nicht ablassen. ",
+            "en": "“Even though Master Kassapa says this, still I’m not able to let go of that harmful misconception. ",
+            "matched": true
+          },
+          "dn23:25.15": {
+            "scid": "dn23:25.15",
+            "pli": "Paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ; paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ. ",
+            "de": "Lass von deinem <span class=\"ebt-matched\">schädlichen Irrglauben</span> ab, Stammesfürst, lass ihn los! ",
+            "en": "Let go of this harmful misconception, chieftain, let go of it! ",
+            "matched": true
+          },
+          "dn23:26.1": {
+            "scid": "dn23:26.1",
+            "pli": "“Kiñcāpi bhavaṁ kassapo evamāha, atha kho nevāhaṁ sakkomi idaṁ pāpakaṁ diṭṭhigataṁ paṭinissajjituṁ. ",
+            "de": "„Auch wenn Meister Kassapa das sagt, so kann ich doch von diesem <span class=\"ebt-matched\">schädlichen Irrglauben</span> nicht ablassen. ",
+            "en": "“Even though Master Kassapa says this, still I’m not able to let go of that harmful misconception. ",
+            "matched": true
+          },
+          "dn23:27.19": {
+            "scid": "dn23:27.19",
+            "pli": "Paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ; paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ. ",
+            "de": "Lass von deinem <span class=\"ebt-matched\">schädlichen Irrglauben</span> ab, Stammesfürst, lass ihn los! ",
+            "en": "Let go of this harmful misconception, chieftain, let go of it! ",
+            "matched": true
+          },
+          "dn23:28.1": {
+            "scid": "dn23:28.1",
+            "pli": "“Kiñcāpi bhavaṁ kassapo evamāha, atha kho nevāhaṁ sakkomi idaṁ pāpakaṁ diṭṭhigataṁ paṭinissajjituṁ. ",
+            "de": "„Auch wenn Meister Kassapa das sagt, so kann ich doch von diesem <span class=\"ebt-matched\">schädlichen Irrglauben</span> nicht ablassen. ",
+            "en": "“Even though Master Kassapa says this, still I’m not able to let go of that harmful misconception. ",
+            "matched": true
+          },
+          "dn23:29.42": {
+            "scid": "dn23:29.42",
+            "pli": "Paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ; paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ. ",
+            "de": "Lass von deinem <span class=\"ebt-matched\">schädlichen Irrglauben</span> ab, Stammesfürst, lass ihn los! ",
+            "en": "Let go of this harmful misconception, chieftain, let go of it! ",
+            "matched": true
+          },
+          "dn23:33.9": {
+            "scid": "dn23:33.9",
+            "pli": "Api cāhaṁ ayyena kumārakassapena etasmā pāpakā diṭṭhigatā vivecito”ti. ",
+            "de": "Aber der Ehrwürdige Kassapa der Prinz brachte mich von diesem <span class=\"ebt-matched\">schädlichen Irrglauben</span> ab.“ ",
+            "en": "But Venerable Kassapa the Prince dissuaded me from that harmful misconception.” ",
+            "matched": true
+          }
+        },
+        "score": 12.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 23\nMit Pāyāsi",
+        "segsMatched": 12,
+        "langSegs": {
+          "pli": 715,
+          "de": 636,
+          "en": 713
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn12_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn12",
+        "lang": "de",
+        "segMap": {
+          "dn12:2.1": {
+            "scid": "dn12:2.1",
+            "pli": "Tena kho pana samayena lohiccassa brāhmaṇassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ",
+            "de": "Nun hatte Lohicca zu dieser Zeit den folgenden <span class=\"ebt-matched\">schädlichen Irrglauben</span>: ",
+            "en": "Now at that time Lohicca had the following harmful misconception: ",
+            "matched": true
+          },
+          "dn12:8.9": {
+            "scid": "dn12:8.9",
+            "pli": "Sādhu, bhante, bhagavā lohiccaṁ brāhmaṇaṁ etasmā pāpakā diṭṭhigatā vivecetū”ti. ",
+            "de": "„Herr, bitte bring ihn von diesem <span class=\"ebt-matched\">schädlichen Irrglauben</span> ab.“ ",
+            "en": "“Sir, please dissuade him from that harmful misconception.” ",
+            "matched": true
+          },
+          "dn12:9.6": {
+            "scid": "dn12:9.6",
+            "pli": "“saccaṁ kira te, lohicca, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "de": "„Ist es wirklich wahr, Lohicca, dass du solch einen <span class=\"ebt-matched\">schädlichen Irrglauben</span> hast: ",
+            "en": "“Is it really true, Lohicca, that you have such a harmful misconception: ",
+            "matched": true
+          }
+        },
+        "score": 3.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 12\nMit Lohicca",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 189,
+          "de": 144,
+          "en": 188
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn24",
+        "lang": "de",
+        "segMap": {
+          "dn24:1.7.16": {
+            "scid": "dn24:1.7.16",
+            "pli": "Api ca tuyhevetaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ, taṁ pajaha. ",
+            "de": "Vielmehr solltest du diesen <span class=\"ebt-matched\">schädlichen Irrglauben</span> aufgeben, der in dir aufgekommen ist. ",
+            "en": "Rather, you should give up this harmful misconception that has arisen in you. ",
+            "matched": true
+          },
+          "dn24:1.13.14": {
+            "scid": "dn24:1.13.14",
+            "pli": "api ca tuyhevetaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ, taṁ pajaha. ",
+            "de": "Vielmehr solltest du diesen <span class=\"ebt-matched\">schädlichen Irrglauben</span> aufgeben, der in dir aufgekommen ist. ",
+            "en": "Rather, you should give up this harmful misconception that has arisen in you. ",
+            "matched": true
+          }
+        },
+        "score": 2.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 24\nÜber Pāṭikaputta\n1. Die Geschichte von Sunakkhatta",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 581,
+          "de": 500,
+          "en": 580
+        }
+      }
+    ]
+  }
+}

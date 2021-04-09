@@ -1,0 +1,92 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "commemorate",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "commemorate",
+    "method": "phrase",
+    "resultPattern": "\\bcommemorate",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.12_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.12/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.12",
+        "lang": "en",
+        "segMap": {
+          "an3.12:1.1": {
+            "scid": "an3.12:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, rañño khattiyassa muddhāvasittassa yāvajīvaṁ sāraṇīyāni bhavanti. ",
+            "en": "“An anointed aristocratic king should <span class=\"ebt-matched\">commemorate</span> three places as long as he lives. ",
+            "matched": true
+          },
+          "an3.12:3.3": {
+            "scid": "an3.12:3.3",
+            "pli": "Imāni kho, bhikkhave, tīṇi rañño khattiyassa muddhāvasittassa yāvajīvaṁ sāraṇīyāni bhavanti. ",
+            "en": "These are the three places an anointed king should <span class=\"ebt-matched\">commemorate</span> as long as he lives. ",
+            "matched": true
+          },
+          "an3.12:4.1": {
+            "scid": "an3.12:4.1",
+            "pli": "Evamevaṁ kho, bhikkhave, tīṇimāni bhikkhussa yāvajīvaṁ sāraṇīyāni bhavanti. ",
+            "en": "In the same way, a mendicant should <span class=\"ebt-matched\">commemorate</span> three places as long as they live. ",
+            "matched": true
+          },
+          "an3.12:6.3": {
+            "scid": "an3.12:6.3",
+            "pli": "Imāni kho, bhikkhave, tīṇi bhikkhussa yāvajīvaṁ sāraṇīyāni bhavantī”ti. ",
+            "en": "These are the three places a mendicant should <span class=\"ebt-matched\">commemorate</span> as long as they live.” ",
+            "matched": true
+          }
+        },
+        "score": 4.182,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n2. The Chariot-Maker\n12. Commemoration",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      }
+    ]
+  }
+}

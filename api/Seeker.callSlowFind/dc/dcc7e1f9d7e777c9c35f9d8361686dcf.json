@@ -1,0 +1,165 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "krankheit.* eiterherd.* pfeil",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "krankheit.* eiterherd.* pfeil",
+    "method": "phrase",
+    "resultPattern": "\\bkrankheit.* eiterherd.* pfeil",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.126_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.126_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.126_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.124_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.124_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.124_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn21_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.126/de/sabbamitta",
+      "an4.124/de/sabbamitta",
+      "dn21/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.124_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.124_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.124_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.124",
+        "lang": "de",
+        "segMap": {
+          "an4.124:1.4": {
+            "scid": "an4.124:1.4",
+            "pli": "So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ, te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati. ",
+            "de": "Die Person betrachtet die Erscheinungen dort, die in Form, Gefühl, Wahrnehmung, Entscheidungen und Bewusstsein enthalten sind, als unbeständig, als Leiden, als <span class=\"ebt-matched\">Krankheit, als Eiterherd, als Pfeil</span>, als Elend, als Beschwerde, als fremd, als zerfallend, als leer, als nicht-selbst. ",
+            "en": "They contemplate the phenomena there—included in form, feeling, perception, choices, and consciousness—as impermanent, as suffering, as diseased, as an abscess, as a dart, as misery, as an affliction, as alien, as falling apart, as empty, as not-self. ",
+            "matched": true
+          },
+          "an4.124:2.2": {
+            "scid": "an4.124:2.2",
+            "pli": "So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ, te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati. ",
+            "de": "Die Person betrachtet die Erscheinungen dort, die in Form, Gefühl, Wahrnehmung, Entscheidungen und Bewusstsein enthalten sind, als unbeständig, als Leiden, als <span class=\"ebt-matched\">Krankheit, als Eiterherd, als Pfeil</span>, als Elend, als Beschwerde, als fremd, als zerfallend, als leer, als nicht-selbst. ",
+            "en": "They contemplate the phenomena there—included in form, feeling, perception, choices, and consciousness—as impermanent, as suffering, as diseased, as an abscess, as a dart, as misery, as an affliction, as alien, as falling apart, as empty, as not-self. ",
+            "matched": true
+          }
+        },
+        "score": 2.133,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n13. Furcht\n124. Unterschied (2)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 15,
+          "de": 14,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.126_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.126_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.126_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.126",
+        "lang": "de",
+        "segMap": {
+          "an4.126:1.4": {
+            "scid": "an4.126:1.4",
+            "pli": "So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati. ",
+            "de": "Sie betrachtet die Erscheinungen dort, die in Form, Gefühl, Wahrnehmung, Entscheidungen und Bewusstsein enthalten sind, als unbeständig, als Leiden, als <span class=\"ebt-matched\">Krankheit, als Eiterherd, als Pfeil</span>, als Elend, als Beschwerde, als fremd, als zerfallend, als leer, als nicht-selbst. ",
+            "en": "They contemplate the phenomena there—included in form, feeling, perception, choices, and consciousness—as impermanent, as suffering, as diseased, as an abscess, as a dart, as misery, as an affliction, as alien, as falling apart, as empty, as not-self. ",
+            "matched": true
+          },
+          "an4.126:2.4": {
+            "scid": "an4.126:2.4",
+            "pli": "So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati. ",
+            "de": "Sie betrachtet die Erscheinungen dort, die in Form, Gefühl, Wahrnehmung, Entscheidungen und Bewusstsein enthalten sind, als unbeständig, als Leiden, als <span class=\"ebt-matched\">Krankheit, als Eiterherd, als Pfeil</span>, als Elend, als Beschwerde, als fremd, als zerfallend, als leer, als nicht-selbst. ",
+            "en": "They contemplate the phenomena there—included in form, feeling, perception, choices, and consciousness—as impermanent, as suffering, as diseased, as an abscess, as a dart, as misery, as an affliction, as alien, as falling apart, as empty, as not-self. ",
+            "matched": true
+          }
+        },
+        "score": 2.118,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n13. Furcht\n126. Liebe (2)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 17,
+          "de": 16,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn21_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn21",
+        "lang": "de",
+        "segMap": {
+          "dn21:2.7.1": {
+            "scid": "dn21:2.7.1",
+            "pli": "“Ejā, bhante, rogo, ejā gaṇḍo, ejā sallaṁ, ejā imaṁ purisaṁ parikaḍḍhati tassa tasseva bhavassa abhinibbattiyā. ",
+            "de": "„Leidenschaft, Herr, ist eine <span class=\"ebt-matched\">Krankheit, ein Eiterherd, ein Pfeil</span>. Leidenschaft zieht einen Menschen zur Wiedergeburt von einem Leben zum anderen. ",
+            "en": "“Passion, sir, is a disease, an abscess, a dart. Passion drags a person to be reborn in life after life. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 21\nSakkas Fragen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 515,
+          "de": 477,
+          "en": 514
+        }
+      }
+    ]
+  }
+}

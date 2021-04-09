@@ -1,0 +1,150 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "who has immersion truly understands",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "who has immersion truly understands",
+    "method": "phrase",
+    "resultPattern": "\\bwho has immersion truly understands",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn56/sn56.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.99_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.99_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.5_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn56.1/en/sujato",
+      "sn35.99/en/sujato",
+      "sn22.5/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.1",
+        "lang": "en",
+        "segMap": {
+          "sn56.1:1.4": {
+            "scid": "sn56.1:1.4",
+            "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
+            "en": "A mendicant <span class=\"ebt-matched\">who has immersion truly understands</span>. ",
+            "matched": true
+          },
+          "sn56.1:1.8": {
+            "scid": "sn56.1:1.8",
+            "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
+            "en": "A mendicant <span class=\"ebt-matched\">who has immersion truly understands</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.154,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n1. Immersion\n1. Immersion",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 13,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.99_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.99_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.99",
+        "lang": "en",
+        "segMap": {
+          "sn35.99:1.2": {
+            "scid": "sn35.99:1.2",
+            "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
+            "en": "A mendicant <span class=\"ebt-matched\">who has immersion truly understands</span>. ",
+            "matched": true
+          },
+          "sn35.99:1.15": {
+            "scid": "sn35.99:1.15",
+            "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānātī”ti. ",
+            "en": "A mendicant <span class=\"ebt-matched\">who has immersion truly understands</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 2.105,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n10. The Sixes\n99. Immersion",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.5",
+        "lang": "en",
+        "segMap": {
+          "sn22.5:1.5": {
+            "scid": "sn22.5:1.5",
+            "pli": "samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
+            "en": "A mendicant <span class=\"ebt-matched\">who has immersion truly understands</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n1. Nakula’s Father\n5. Development of Immersion",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 63,
+          "en": 62
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "urteil über menschen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "urteil über menschen",
+    "method": "phrase",
+    "resultPattern": "\\burteil über menschen",
+    "segsMatched": 7,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.44_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.44_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.44_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.44/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.44_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.44_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.44_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.44",
+        "lang": "de",
+        "segMap": {
+          "an6.44:9.7": {
+            "scid": "an6.44:9.7",
+            "pli": "mā puggalesu pamāṇaṁ gaṇhittha. ",
+            "de": "Fälle kein <span class=\"ebt-matched\">Urteil über Menschen</span>. ",
+            "en": "Don’t pass judgment on people. ",
+            "matched": true
+          },
+          "an6.44:9.8": {
+            "scid": "an6.44:9.8",
+            "pli": "Khaññati hānanda, puggalesu pamāṇaṁ gaṇhanto. ",
+            "de": "Wer über Menschen ein Urteil fällt, schadet sich selbst. ",
+            "en": "Those who pass judgment on people harm themselves. ",
+            "matched": true
+          },
+          "an6.44:9.9": {
+            "scid": "an6.44:9.9",
+            "pli": "Ahaṁ vā, ānanda, puggalesu pamāṇaṁ gaṇheyyaṁ, yo vā panassa mādiso. ",
+            "de": "Ich oder jemand wie ich kann über Menschen ein Urteil fällen. ",
+            "en": "I, or someone like me, may pass judgment on people. ",
+            "matched": true
+          },
+          "an6.44:12.2": {
+            "scid": "an6.44:12.2",
+            "pli": "yo vā panassa mādiso. ",
+            "de": "Ich oder jemand wie ich kann über Menschen ein Urteil fällen. ",
+            "en": "I, or someone like me, may pass judgment on people. ",
+            "matched": true
+          },
+          "an6.44:16.7": {
+            "scid": "an6.44:16.7",
+            "pli": "mā puggalesu pamāṇaṁ gaṇhittha. ",
+            "de": "Fälle kein <span class=\"ebt-matched\">Urteil über Menschen</span>. ",
+            "en": "Don’t pass judgment on people. ",
+            "matched": true
+          },
+          "an6.44:16.8": {
+            "scid": "an6.44:16.8",
+            "pli": "Khaññati hānanda, puggalesu pamāṇaṁ gaṇhanto. ",
+            "de": "Wer über Menschen ein Urteil fällt, schadet sich selbst. ",
+            "en": "Those who pass judgment on people harm themselves. ",
+            "matched": true
+          },
+          "an6.44:16.9": {
+            "scid": "an6.44:16.9",
+            "pli": "Ahaṁ vā, ānanda, puggalesu pamāṇaṁ gaṇheyyaṁ, yo vā panassa mādiso. ",
+            "de": "Ich oder jemand wie ich kann über Menschen ein Urteil fällen. ",
+            "en": "I, or someone like me, may pass judgment on people. ",
+            "matched": true
+          }
+        },
+        "score": 7.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n5. Über Dhammika\n44. Mit Migasālā",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 77,
+          "de": 66,
+          "en": 76
+        }
+      }
+    ]
+  }
+}

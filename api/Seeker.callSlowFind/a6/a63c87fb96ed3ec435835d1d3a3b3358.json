@@ -1,0 +1,272 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "in charge",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "in charge",
+    "method": "phrase",
+    "resultPattern": "\\bin charge",
+    "segsMatched": 21,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.40_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.40_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.258_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.258_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.40/en/sujato",
+      "dn33/en/sujato",
+      "an4.258/en/sujato",
+      "dn23/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.40_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.40_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.40",
+        "lang": "en",
+        "segMap": {
+          "an3.40:0.3": {
+            "scid": "an3.40:0.3",
+            "pli": "40. Ādhipateyyasutta ",
+            "en": "40. <span class=\"ebt-matched\">In Charge</span> ",
+            "matched": true
+          },
+          "an3.40:1.1": {
+            "scid": "an3.40:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, ādhipateyyāni. ",
+            "en": "“There are, mendicants, these three things to put <span class=\"ebt-matched\">in charge</span>. ",
+            "matched": true
+          },
+          "an3.40:1.3": {
+            "scid": "an3.40:1.3",
+            "pli": "Attādhipateyyaṁ, lokādhipateyyaṁ, dhammādhipateyyaṁ. ",
+            "en": "Putting oneself, the world, or the teaching <span class=\"ebt-matched\">in charge</span>. ",
+            "matched": true
+          },
+          "an3.40:1.4": {
+            "scid": "an3.40:1.4",
+            "pli": "Katamañca, bhikkhave, attādhipateyyaṁ? ",
+            "en": "And what, mendicants, is putting oneself <span class=\"ebt-matched\">in charge</span>? ",
+            "matched": true
+          },
+          "an3.40:1.13": {
+            "scid": "an3.40:1.13",
+            "pli": "So attānaṁyeva adhipatiṁ karitvā akusalaṁ pajahati, kusalaṁ bhāveti, sāvajjaṁ pajahati, anavajjaṁ bhāveti, suddhaṁ attānaṁ pariharati. ",
+            "en": "Putting themselves <span class=\"ebt-matched\">in charge</span>, they give up the unskillful and develop the skillful, they give up the blameworthy and develop the blameless, and they keep themselves pure. ",
+            "matched": true
+          },
+          "an3.40:1.14": {
+            "scid": "an3.40:1.14",
+            "pli": "Idaṁ vuccati, bhikkhave, attādhipateyyaṁ. ",
+            "en": "This is called putting oneself <span class=\"ebt-matched\">in charge</span>. ",
+            "matched": true
+          },
+          "an3.40:2.1": {
+            "scid": "an3.40:2.1",
+            "pli": "Katamañca, bhikkhave, lokādhipateyyaṁ? ",
+            "en": "And what, mendicants, is putting the world <span class=\"ebt-matched\">in charge</span>? ",
+            "matched": true
+          },
+          "an3.40:2.18": {
+            "scid": "an3.40:2.18",
+            "pli": "So lokaṁyeva adhipatiṁ karitvā akusalaṁ pajahati, kusalaṁ bhāveti, sāvajjaṁ pajahati, anavajjaṁ bhāveti, suddhaṁ attānaṁ pariharati. ",
+            "en": "Putting the world <span class=\"ebt-matched\">in charge</span>, they give up the unskillful and develop the skillful, they give up the blameworthy and develop the blameless, and they keep themselves pure. ",
+            "matched": true
+          },
+          "an3.40:2.19": {
+            "scid": "an3.40:2.19",
+            "pli": "Idaṁ vuccati, bhikkhave, lokādhipateyyaṁ. ",
+            "en": "This is called putting the world <span class=\"ebt-matched\">in charge</span>. ",
+            "matched": true
+          },
+          "an3.40:3.1": {
+            "scid": "an3.40:3.1",
+            "pli": "Katamañca, bhikkhave, dhammādhipateyyaṁ? ",
+            "en": "And what, mendicants, is putting the teaching <span class=\"ebt-matched\">in charge</span>? ",
+            "matched": true
+          },
+          "an3.40:3.12": {
+            "scid": "an3.40:3.12",
+            "pli": "So dhammaṁyeva adhipatiṁ karitvā akusalaṁ pajahati, kusalaṁ bhāveti, sāvajjaṁ pajahati, anavajjaṁ bhāveti, suddhaṁ attānaṁ pariharati. ",
+            "en": "Putting the teaching <span class=\"ebt-matched\">in charge</span>, they give up the unskillful and develop the skillful, they give up the blameworthy and develop the blameless, and they keep themselves pure. ",
+            "matched": true
+          },
+          "an3.40:3.13": {
+            "scid": "an3.40:3.13",
+            "pli": "Idaṁ vuccati, bhikkhave, dhammādhipateyyaṁ. ",
+            "en": "This is called putting the teaching <span class=\"ebt-matched\">in charge</span>. ",
+            "matched": true
+          },
+          "an3.40:3.14": {
+            "scid": "an3.40:3.14",
+            "pli": "Imāni kho, bhikkhave, tīṇi ādhipateyyānīti. ",
+            "en": "These are the three things to put <span class=\"ebt-matched\">in charge</span>. ",
+            "matched": true
+          },
+          "an3.40:6.3": {
+            "scid": "an3.40:6.3",
+            "pli": "Tasmā hi attādhipateyyako ca, ",
+            "en": "So with yourself <span class=\"ebt-matched\">in charge</span>, live mindfully; ",
+            "matched": true
+          },
+          "an3.40:6.4": {
+            "scid": "an3.40:6.4",
+            "pli": "Lokādhipo ca nipako ca jhāyī; ",
+            "en": "with the world <span class=\"ebt-matched\">in charge</span>, be alert and practice absorption; ",
+            "matched": true
+          },
+          "an3.40:6.5": {
+            "scid": "an3.40:6.5",
+            "pli": "Dhammādhipo ca anudhammacārī, ",
+            "en": "with the teaching <span class=\"ebt-matched\">in charge</span>, live in line with that teaching: ",
+            "matched": true
+          }
+        },
+        "score": 16.213,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n4. Messengers from the Gods\n40. In Charge",
+        "segsMatched": 16,
+        "langSegs": {
+          "pli": 75,
+          "en": 73
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.258_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.258_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.258",
+        "lang": "en",
+        "segMap": {
+          "an4.258:1.3": {
+            "scid": "an4.258:1.3",
+            "pli": "Naṭṭhaṁ na gavesanti, jiṇṇaṁ na paṭisaṅkharonti, aparimitapānabhojanā honti, dussīlaṁ itthiṁ vā purisaṁ vā ādhipacce ṭhapenti. ",
+            "en": "They don’t look for what’s lost; they don’t fix old things; they eat and drink too much; or they put an unethical woman or man <span class=\"ebt-matched\">in charge</span>. ",
+            "matched": true
+          },
+          "an4.258:2.3": {
+            "scid": "an4.258:2.3",
+            "pli": "Naṭṭhaṁ gavesanti, jiṇṇaṁ paṭisaṅkharonti, parimitapānabhojanā honti, sīlavantaṁ itthiṁ vā purisaṁ vā ādhipacce ṭhapenti. ",
+            "en": "They look for what’s lost; they fix old things; they eat and drink in moderation; and they put an ethical woman or man <span class=\"ebt-matched\">in charge</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n26. Insight\n258. Families",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:1.10.132": {
+            "scid": "dn33:1.10.132",
+            "pli": "Tīṇi ādhipateyyāni—",
+            "en": "Three ways of putting something <span class=\"ebt-matched\">in charge</span>: ",
+            "matched": true
+          },
+          "dn33:1.10.133": {
+            "scid": "dn33:1.10.133",
+            "pli": "attādhipateyyaṁ, lokādhipateyyaṁ, dhammādhipateyyaṁ. ",
+            "en": "putting oneself, the world, or the teaching <span class=\"ebt-matched\">in charge</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "en",
+        "segMap": {
+          "dn23:23.5": {
+            "scid": "dn23:23.5",
+            "pli": "Tasmiṁ kho pana satthe dve satthavāhā ahesuṁ eko pañcannaṁ sakaṭasatānaṁ, eko pañcannaṁ sakaṭasatānaṁ. ",
+            "en": "Now, that caravan had two leaders, each <span class=\"ebt-matched\">in charge</span> of five hundred wagons. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 23\nWith Pāyāsi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 715,
+          "en": 713
+        }
+      }
+    ]
+  }
+}

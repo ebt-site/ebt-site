@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bschädlichen irrglauben",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json:12",
+    "translation/de/sabbamitta/sutta/dn/dn12_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json:2"
+  ]
+}

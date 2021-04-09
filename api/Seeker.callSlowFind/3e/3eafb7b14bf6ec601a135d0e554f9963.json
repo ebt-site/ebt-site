@@ -1,0 +1,402 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "the power of faith",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "the power of faith",
+    "method": "phrase",
+    "resultPattern": "\\bthe power of faith",
+    "segsMatched": 21,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn48/sn48.43_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn48/sn48.43_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.14_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.14_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn43/sn43.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn43/sn43.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.15_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.15_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.152_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.152_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.156-162_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.156-162_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an1.394-574/en/sujato",
+      "sn48.43/en/sujato",
+      "an7.4/en/sujato",
+      "an5.2/en/sujato",
+      "an5.14/en/sujato",
+      "sn43.12/en/sujato",
+      "an5.15/en/sujato",
+      "an4.152/en/sujato",
+      "an3.156-162/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.2",
+        "lang": "en",
+        "segMap": {
+          "an5.2:1.3": {
+            "scid": "an5.2:1.3",
+            "pli": "Saddhābalaṁ, hirībalaṁ, ottappabalaṁ, vīriyabalaṁ, paññābalaṁ. ",
+            "en": "The powers of faith, conscience, prudence, energy, and wisdom. ",
+            "matched": true
+          },
+          "an5.2:2.1": {
+            "scid": "an5.2:2.1",
+            "pli": "Katamañca, bhikkhave, saddhābalaṁ? ",
+            "en": "And what is <span class=\"ebt-matched\">the power of faith</span>? ",
+            "matched": true
+          },
+          "an5.2:2.4": {
+            "scid": "an5.2:2.4",
+            "pli": "Idaṁ vuccati, bhikkhave, saddhābalaṁ. ",
+            "en": "This is called <span class=\"ebt-matched\">the power of faith</span>. ",
+            "matched": true
+          },
+          "an5.2:7.2": {
+            "scid": "an5.2:7.2",
+            "pli": "‘saddhābalena samannāgatā bhavissāma sekhabalena, hirībalena … ottappabalena … vīriyabalena … paññābalena samannāgatā bhavissāma sekhabalenā’ti. ",
+            "en": "‘We will have the trainee’s powers of faith, conscience, prudence, energy, and wisdom.’ ",
+            "matched": true
+          }
+        },
+        "score": 4.148,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n1. Powers of a Trainee\n2. In Detail",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.14_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.14_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.14",
+        "lang": "en",
+        "segMap": {
+          "an5.14:1.3": {
+            "scid": "an5.14:1.3",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ. ",
+            "en": "The powers of faith, energy, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          },
+          "an5.14:2.1": {
+            "scid": "an5.14:2.1",
+            "pli": "Katamañca, bhikkhave, saddhābalaṁ? ",
+            "en": "And what is <span class=\"ebt-matched\">the power of faith</span>? ",
+            "matched": true
+          },
+          "an5.14:2.4": {
+            "scid": "an5.14:2.4",
+            "pli": "Idaṁ vuccati, bhikkhave, saddhābalaṁ. ",
+            "en": "This is called <span class=\"ebt-matched\">the power of faith</span>. ",
+            "matched": true
+          }
+        },
+        "score": 3.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n2. Powers\n14. In Detail",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.4",
+        "lang": "en",
+        "segMap": {
+          "an7.4:1.3": {
+            "scid": "an7.4:1.3",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, hirībalaṁ, ottappabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ. ",
+            "en": "The powers of faith, energy, conscience, prudence, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          },
+          "an7.4:2.1": {
+            "scid": "an7.4:2.1",
+            "pli": "Katamañca, bhikkhave, saddhābalaṁ? ",
+            "en": "And what is <span class=\"ebt-matched\">the power of faith</span>? ",
+            "matched": true
+          },
+          "an7.4:2.4": {
+            "scid": "an7.4:2.4",
+            "pli": "Idaṁ vuccati, bhikkhave, saddhābalaṁ. ",
+            "en": "This is called <span class=\"ebt-matched\">the power of faith</span>. ",
+            "matched": true
+          }
+        },
+        "score": 3.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n1. Wealth\n4. Powers in Detail",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 42,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.394-574",
+        "lang": "en",
+        "segMap": {
+          "an1.419:1.1": {
+            "scid": "an1.419:1.1",
+            "pli": "Saddhābalaṁ bhāveti …",
+            "en": "If they develop <span class=\"ebt-matched\">the power of faith</span> … ",
+            "matched": true
+          },
+          "an1.500:1.1": {
+            "scid": "an1.500:1.1",
+            "pli": "saddhābalaṁ bhāveti … ",
+            "en": "<span class=\"ebt-matched\">the power of faith</span> … ",
+            "matched": true
+          },
+          "an1.570:1.1": {
+            "scid": "an1.570:1.1",
+            "pli": "saddhābalaṁ bhāveti … ",
+            "en": "<span class=\"ebt-matched\">the power of faith</span> … ",
+            "matched": true
+          }
+        },
+        "score": 3.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 1\n29. Another Chapter on a Finger-Snap\n394–574",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 176,
+          "en": 175
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.152_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.152_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.152",
+        "lang": "en",
+        "segMap": {
+          "an4.152:0.3": {
+            "scid": "an4.152:0.3",
+            "pli": "152. Saddhābalasutta ",
+            "en": "152. <span class=\"ebt-matched\">The Power of Faith</span> ",
+            "matched": true
+          },
+          "an4.152:1.3": {
+            "scid": "an4.152:1.3",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ—",
+            "en": "The powers of faith, energy, mindfulness, and immersion. ",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n16. Faculties\n152. The Power of Faith",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.15_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.15_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.15",
+        "lang": "en",
+        "segMap": {
+          "an5.15:1.3": {
+            "scid": "an5.15:1.3",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ. ",
+            "en": "The powers of faith, energy, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          },
+          "an5.15:1.4": {
+            "scid": "an5.15:1.4",
+            "pli": "Kattha ca, bhikkhave, saddhābalaṁ daṭṭhabbaṁ? ",
+            "en": "And where should <span class=\"ebt-matched\">the power of faith</span> be seen? ",
+            "matched": true
+          }
+        },
+        "score": 2.087,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n2. Powers\n15. Should Be Seen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn48/sn48.43_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn48/sn48.43_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn48.43",
+        "lang": "en",
+        "segMap": {
+          "sn48.43:4.2": {
+            "scid": "sn48.43:4.2",
+            "pli": "Yaṁ, bhikkhave, saddhindriyaṁ taṁ saddhābalaṁ, yaṁ saddhābalaṁ taṁ saddhindriyaṁ; ",
+            "en": "The faculty of faith is <span class=\"ebt-matched\">the power of faith</span>, and <span class=\"ebt-matched\">the power of faith</span> is the faculty of faith. ",
+            "matched": true
+          },
+          "sn48.43:6.4": {
+            "scid": "sn48.43:6.4",
+            "pli": "Evameva kho, bhikkhave, yaṁ saddhindriyaṁ taṁ saddhābalaṁ, yaṁ saddhābalaṁ taṁ saddhindriyaṁ; ",
+            "en": "In the same way, the faculty of faith is <span class=\"ebt-matched\">the power of faith</span>, and <span class=\"ebt-matched\">the power of faith</span> is the faculty of faith. ",
+            "matched": true
+          }
+        },
+        "score": 2.065,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 48\n5. Old Age\n43. At Sāketa",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 31,
+          "en": 30
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.156-162_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.156-162_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.156-162",
+        "lang": "en",
+        "segMap": {
+          "an3.160:1.1": {
+            "scid": "an3.160:1.1",
+            "pli": "Saddhābalaṁ bhāveti … ",
+            "en": "They develop <span class=\"ebt-matched\">the power of faith</span> … ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n16. Naked\n156–162",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 82,
+          "en": 80
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn43/sn43.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn43/sn43.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn43.12",
+        "lang": "en",
+        "segMap": {
+          "sn43.12:9.2": {
+            "scid": "sn43.12:9.2",
+            "pli": "Idha, bhikkhave, bhikkhu saddhābalaṁ bhāveti vivekanissitaṁ …pe… ",
+            "en": "A mendicant develops <span class=\"ebt-matched\">the power of faith</span> … ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 43\nChapter Two\n12. The Unconditioned",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 131,
+          "en": 130
+        }
+      }
+    ]
+  }
+}

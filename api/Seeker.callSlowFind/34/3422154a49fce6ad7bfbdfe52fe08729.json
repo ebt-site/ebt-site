@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "zehn dinge.* entwickelt werden",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "zehn dinge.* entwickelt werden",
+    "method": "phrase",
+    "resultPattern": "\\bzehn dinge.* entwickelt werden",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:2.3.1": {
+            "scid": "dn34:2.3.1",
+            "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
+            "de": "<span class=\"ebt-matched\">Zehn Dinge sind eine große Hilfe, zehn Dinge müssen entwickelt werden</span>, zehn Dinge müssen vollständig verstanden werden, zehn Dinge müssen aufgegeben werden, zehn Dinge führen zum Rückschritt, zehn Dinge führen zu Erhabenheit, zehn Dinge sind schwer zu erfassen, zehn Dinge müssen erzeugt werden, zehn Dinge müssen unmittelbar erkannt werden und zehn Dinge müssen verwirklicht werden. ",
+            "en": "Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
+            "matched": true
+          },
+          "dn34:2.3.35": {
+            "scid": "dn34:2.3.35",
+            "pli": "Katame dasa dhammā bhāvetabbā? ",
+            "de": "Welche <span class=\"ebt-matched\">zehn Dinge müssen entwickelt werden</span>? ",
+            "en": "What ten things should be developed? ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

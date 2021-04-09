@@ -1,0 +1,164 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "mittlere.* weg",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "mittlere.* weg",
+    "method": "phrase",
+    "resultPattern": "\\bmittlere.* weg",
+    "segsMatched": 9,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.156-162_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.156-162_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.156-162_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn56/sn56.11_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.156-162/de/sabbamitta",
+      "sn56.11/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.156-162_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.156-162_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.156-162_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.156-162",
+        "lang": "de",
+        "segMap": {
+          "an3.156:1.3": {
+            "scid": "an3.156:1.3",
+            "pli": "Āgāḷhā paṭipadā, nijjhāmā paṭipadā, majjhimā paṭipadā. ",
+            "de": "Den süchtigen Weg, den  schmorenden Weg und den <span class=\"ebt-matched\">mittleren Weg</span>. ",
+            "en": "The addicted practice, the scorching practice, and the middle practice. ",
+            "matched": true
+          },
+          "an3.156:5.1": {
+            "scid": "an3.156:5.1",
+            "pli": "Katamā ca, bhikkhave, majjhimā paṭipadā? ",
+            "de": "Und was ist der <span class=\"ebt-matched\">mittlere Weg</span>? ",
+            "en": "And what’s the middle practice? ",
+            "matched": true
+          },
+          "an3.156:5.6": {
+            "scid": "an3.156:5.6",
+            "pli": "Ayaṁ vuccati, bhikkhave, majjhimā paṭipadā. ",
+            "de": "Das nennt man den <span class=\"ebt-matched\">mittleren Weg</span>. ",
+            "en": "This is called the middle practice. ",
+            "matched": true
+          },
+          "an3.157:1.3": {
+            "scid": "an3.157:1.3",
+            "pli": "Āgāḷhā paṭipadā, nijjhāmā paṭipadā, majjhimā paṭipadā. ",
+            "de": "Den süchtigen Weg, den schmorenden Weg und den <span class=\"ebt-matched\">mittleren Weg</span>. ",
+            "en": "The addicted practice, the scorching practice, the middle practice. ",
+            "matched": true
+          },
+          "an3.157:3.1": {
+            "scid": "an3.157:3.1",
+            "pli": "Katamā ca, bhikkhave, majjhimā paṭipadā? ",
+            "de": "Und was ist der <span class=\"ebt-matched\">mittlere Weg</span>? ",
+            "en": "And what’s the middle practice? ",
+            "matched": true
+          },
+          "an3.162:1.9": {
+            "scid": "an3.162:1.9",
+            "pli": "Ayaṁ vuccati, bhikkhave, majjhimā paṭipadā. ",
+            "de": "Das nennt man den <span class=\"ebt-matched\">mittleren Weg</span>. ",
+            "en": "This is called the middle practice. ",
+            "matched": true
+          }
+        },
+        "score": 6.073,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n16. Nackt\n156–162",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 82,
+          "de": 80,
+          "en": 80
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn56/sn56.11_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.11",
+        "lang": "de",
+        "segMap": {
+          "sn56.11:2.4": {
+            "scid": "sn56.11:2.4",
+            "pli": "Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. ",
+            "de": "Der Klargewordene hat diese beiden Extreme vermieden und ist erwacht, indem er den <span class=\"ebt-matched\">mittleren Weg</span> verstanden hat. Dieser führt zum Sehen, führt zum Erkennen, führt zum Frieden, zu unmittelbarer Einsicht, zum Erwachen und Erlöschen. ",
+            "en": "Avoiding these two extremes, the Realized One woke up by understanding the middle way of practice, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. ",
+            "matched": true
+          },
+          "sn56.11:3.1": {
+            "scid": "sn56.11:3.1",
+            "pli": "Katamā ca sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati? ",
+            "de": "Und was ist dieser <span class=\"ebt-matched\">mittlere Weg</span>? ",
+            "en": "And what is that middle way of practice? ",
+            "matched": true
+          },
+          "sn56.11:3.4": {
+            "scid": "sn56.11:3.4",
+            "pli": "Ayaṁ kho sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. ",
+            "de": "Das ist dieser <span class=\"ebt-matched\">mittlere Weg</span>, der zum Sehen führt, zum Erkennen führt, zum Frieden, zu unmittelbarer Einsicht, zum Erwachen und Erlöschen. ",
+            "en": "This is that middle way of practice, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 3.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 56\n2. Das Rad des Dhamma ins Rollen bringen\n11. Das Rad des Dhamma ins Rollen bringen",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 60,
+          "de": 59,
+          "en": 59
+        }
+      }
+    ]
+  }
+}

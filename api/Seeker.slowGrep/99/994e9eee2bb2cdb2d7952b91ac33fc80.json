@@ -1,0 +1,31 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bfarmer",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn7/sn7.11_translation-en-sujato.json:10",
+    "translation/en/sujato/sutta/an/an3/an3.92_translation-en-sujato.json:5",
+    "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json:4",
+    "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/an/an3/an3.83_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn7/sn7.12_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn4/sn4.19_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn42/sn42.7_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn98_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn50_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an3/an3.93_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn22/sn22.102_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn86_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/kn/thag/thag10.1_translation-en-sujato.json:1"
+  ]
+}

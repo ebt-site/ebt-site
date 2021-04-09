@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "erlöschen durch nicht-ergreifen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "erlöschen durch nicht-ergreifen",
+    "method": "phrase",
+    "resultPattern": "\\berlöschen durch nicht-ergreifen",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an1/an1.575-615_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.575-615_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.575-615_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an1.575-615/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.575-615_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an1/an1.575-615_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an1/an1.575-615_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.575-615",
+        "lang": "de",
+        "segMap": {
+          "an1.591-592:1.1": {
+            "scid": "an1.591-592:1.1",
+            "pli": "“Ekadhammo, bhikkhave, bhāvito bahulīkato paññāpabhedāya saṁvattati … anupādāparinibbānāya saṁvattati. ",
+            "de": "„Ein Ding, Mönche und Nonnen, führt, wenn es entwickelt und gepflegt wird, zur Zerstörung durch Weisheit … zum <span class=\"ebt-matched\">Erlöschen durch Nicht-Ergreifen</span>. ",
+            "en": "“One thing, mendicants, when developed and cultivated leads to demolition by wisdom … to extinguishment by not grasping. ",
+            "matched": true
+          },
+          "an1.591-592:1.4": {
+            "scid": "an1.591-592:1.4",
+            "pli": "Ayaṁ kho, bhikkhave, ekadhammo bhāvito bahulīkato paññāpabhedāya saṁvattati … anupādāparinibbānāya saṁvattatī”ti. ",
+            "de": "Dieses eine Ding führt, wenn es entwickelt und gepflegt wird, zur Zerstörung durch Weisheit … zum <span class=\"ebt-matched\">Erlöschen durch Nicht-Ergreifen</span>.“ ",
+            "en": "This one thing, mendicants, when developed and cultivated leads to demolition by wisdom … to extinguishment by not grasping.” ",
+            "matched": true
+          }
+        },
+        "score": 2.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 1\n30. Achtsamkeit auf den Körper\n575–615",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 52,
+          "de": 51,
+          "en": 51
+        }
+      }
+    ]
+  }
+}

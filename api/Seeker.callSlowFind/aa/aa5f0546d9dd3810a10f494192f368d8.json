@@ -1,0 +1,93 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "das ist zu eurem wohl",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "das ist zu eurem wohl",
+    "method": "phrase",
+    "resultPattern": "\\bdas ist zu eurem wohl",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn12_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn12/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn12_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn12",
+        "lang": "de",
+        "segMap": {
+          "dn12:16.6": {
+            "scid": "dn12:16.6",
+            "pli": "‘idaṁ vo hitāya idaṁ vo sukhāyā’ti. ",
+            "de": "‚<span class=\"ebt-matched\">Das ist zu eurem Wohl</span>. Das ist zu eurem Glück.‘ ",
+            "en": "‘This is for your welfare. This is for your happiness.’ ",
+            "matched": true
+          },
+          "dn12:17.3": {
+            "scid": "dn12:17.3",
+            "pli": "‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. ",
+            "de": "‚<span class=\"ebt-matched\">Das ist zu eurem Wohl</span>. Das ist zu eurem Glück.‘ ",
+            "en": "‘This is for your welfare. This is for your happiness.’ ",
+            "matched": true
+          },
+          "dn12:18.3": {
+            "scid": "dn12:18.3",
+            "pli": "‘idaṁ vo hitāya, idaṁ vo sukhāyā’ti. ",
+            "de": "‚<span class=\"ebt-matched\">Das ist zu eurem Wohl</span>. Das ist zu eurem Glück.‘ ",
+            "en": "‘This is for your welfare. This is for your happiness.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 12\nMit Lohicca",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 189,
+          "de": 144,
+          "en": 188
+        }
+      }
+    ]
+  }
+}

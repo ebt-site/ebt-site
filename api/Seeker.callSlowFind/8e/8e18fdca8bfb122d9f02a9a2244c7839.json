@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "when faith vanishes",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "when faith vanishes",
+    "method": "phrase",
+    "resultPattern": "\\bwhen faith vanishes",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.6_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.6/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.6",
+        "lang": "en",
+        "segMap": {
+          "an5.6:1.2": {
+            "scid": "an5.6:1.2",
+            "pli": "Yato ca kho, bhikkhave, saddhā antarahitā hoti, assaddhiyaṁ pariyuṭṭhāya tiṭṭhati; ",
+            "en": "But <span class=\"ebt-matched\">when faith vanishes</span> and faithlessness takes over, ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n1. Powers of a Trainee\n6. Becoming",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      }
+    ]
+  }
+}

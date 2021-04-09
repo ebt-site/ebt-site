@@ -1,0 +1,186 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "things in themselves",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "things in themselves",
+    "method": "phrase",
+    "resultPattern": "\\bthings in themselves",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.167_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.167_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.44_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.44_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn33/en/sujato",
+      "an5.167/en/sujato",
+      "an10.44/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.44_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.44_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.44",
+        "lang": "en",
+        "segMap": {
+          "an10.44:2.1": {
+            "scid": "an10.44:2.1",
+            "pli": "“Codakena, bhikkhave, bhikkhunā paraṁ codetukāmena pañca dhamme ajjhattaṁ paccavekkhitvā pañca dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo. ",
+            "en": "“Mendicants, a mendicant who wants to accuse another should first check five <span class=\"ebt-matched\">things in themselves</span> and establish five <span class=\"ebt-matched\">things in themselves</span>. ",
+            "matched": true
+          },
+          "an10.44:2.2": {
+            "scid": "an10.44:2.2",
+            "pli": "Katame pañca dhammā ajjhattaṁ paccavekkhitabbā? ",
+            "en": "What five things should they check in themselves? ",
+            "matched": true
+          },
+          "an10.44:6.7": {
+            "scid": "an10.44:6.7",
+            "pli": "Ime pañca dhammā ajjhattaṁ paccavekkhitabbā. ",
+            "en": "These are the five things they should check in themselves. ",
+            "matched": true
+          },
+          "an10.44:7.1": {
+            "scid": "an10.44:7.1",
+            "pli": "Katame pañca dhammā ajjhattaṁ upaṭṭhāpetabbā? ",
+            "en": "What five things should they establish in themselves? ",
+            "matched": true
+          },
+          "an10.44:7.7": {
+            "scid": "an10.44:7.7",
+            "pli": "ime pañca dhammā ajjhattaṁ upaṭṭhāpetabbā. ",
+            "en": "These are the five things they should establish in themselves. ",
+            "matched": true
+          },
+          "an10.44:7.8": {
+            "scid": "an10.44:7.8",
+            "pli": "Codakena, bhikkhave, bhikkhunā paraṁ codetukāmena ime pañca dhamme ajjhattaṁ paccavekkhitvā ime pañca dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo”ti. ",
+            "en": "A mendicant who wants to accuse another should first check these five <span class=\"ebt-matched\">things in themselves</span> and establish these five <span class=\"ebt-matched\">things in themselves</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 6.13,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n5. Abuse\n44. At Kusināra",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 46,
+          "en": 45
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.167_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.167_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.167",
+        "lang": "en",
+        "segMap": {
+          "an5.167:1.2": {
+            "scid": "an5.167:1.2",
+            "pli": "“codakena, āvuso, bhikkhunā paraṁ codetukāmena pañca dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo. ",
+            "en": "“Reverends, a mendicant who wants to accuse another should first establish five <span class=\"ebt-matched\">things in themselves</span>. ",
+            "matched": true
+          },
+          "an5.167:2.7": {
+            "scid": "an5.167:2.7",
+            "pli": "Codakena, āvuso, bhikkhunā paraṁ codetukāmena ime pañca dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo. ",
+            "en": "A mendicant who wants to accuse another should first establish these five <span class=\"ebt-matched\">things in themselves</span>. ",
+            "matched": true
+          },
+          "an5.167:9.1": {
+            "scid": "an5.167:9.1",
+            "pli": "Cuditena, āvuso, puggalena dvīsu dhammesu patiṭṭhātabbaṁ—",
+            "en": "A person who is accused should ground themselves in two things: ",
+            "matched": true
+          }
+        },
+        "score": 3.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n17. Resentment\n167. Accusation",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 66,
+          "en": 65
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:2.1.58": {
+            "scid": "dn33:2.1.58",
+            "pli": "Codakena, āvuso, bhikkhunā paraṁ codetukāmena pañca dhamme ajjhattaṁ upaṭṭhapetvā paro codetabbo. ",
+            "en": "A mendicant who wants to accuse another should first establish five <span class=\"ebt-matched\">things in themselves</span>. ",
+            "matched": true
+          },
+          "dn33:2.1.64": {
+            "scid": "dn33:2.1.64",
+            "pli": "Codakena, āvuso, bhikkhunā paraṁ codetukāmena ime pañca dhamme ajjhattaṁ upaṭṭhapetvā paro codetabbo. ",
+            "en": "A mendicant who wants to accuse another should first establish these five <span class=\"ebt-matched\">things in themselves</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

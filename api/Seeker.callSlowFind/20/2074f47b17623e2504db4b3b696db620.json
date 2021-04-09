@@ -1,0 +1,351 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "drei übungen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "drei übungen",
+    "method": "phrase",
+    "resultPattern": "\\bdrei übungen",
+    "segsMatched": 15,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.90_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.90_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.90_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.89_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.89_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.89_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.88_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.88_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.88_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.87_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.87_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.87_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.86_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.86_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.86_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.84_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.84_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.84_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.90/de/sabbamitta",
+      "an3.89/de/sabbamitta",
+      "an3.88/de/sabbamitta",
+      "an3.87/de/sabbamitta",
+      "an3.86/de/sabbamitta",
+      "an3.84/de/sabbamitta",
+      "dn33/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.89_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.89_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.89_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.89",
+        "lang": "de",
+        "segMap": {
+          "an3.89:0.3": {
+            "scid": "an3.89:0.3",
+            "pli": "89. Paṭhamasikkhattayasutta ",
+            "de": "89. <span class=\"ebt-matched\">Drei Übungen</span> (1) ",
+            "en": "89. Three Trainings (1st) ",
+            "matched": true
+          },
+          "an3.89:1.1": {
+            "scid": "an3.89:1.1",
+            "pli": "“Tisso imā, bhikkhave, sikkhā. ",
+            "de": "„Mönche und Nonnen, es gibt diese <span class=\"ebt-matched\">drei Übungen</span>. ",
+            "en": "“Mendicants, these are the three trainings. ",
+            "matched": true
+          },
+          "an3.89:4.4": {
+            "scid": "an3.89:4.4",
+            "pli": "Imā kho, bhikkhave, tisso sikkhā”ti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Übungen</span>.“ ",
+            "en": "These are the three trainings.” ",
+            "matched": true
+          }
+        },
+        "score": 3.176,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n9. Asketen\n89. Drei Übungen (1)",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 17,
+          "de": 16,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.90_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.90_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.90_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.90",
+        "lang": "de",
+        "segMap": {
+          "an3.90:0.3": {
+            "scid": "an3.90:0.3",
+            "pli": "90. Dutiyasikkhattayasutta ",
+            "de": "90. <span class=\"ebt-matched\">Drei Übungen</span> (2) ",
+            "en": "90. Three Trainings (2nd) ",
+            "matched": true
+          },
+          "an3.90:1.1": {
+            "scid": "an3.90:1.1",
+            "pli": "“Tisso imā, bhikkhave, sikkhā. ",
+            "de": "„Mönche und Nonnen, es gibt diese <span class=\"ebt-matched\">drei Übungen</span>. ",
+            "en": "“Mendicants, these are the three trainings. ",
+            "matched": true
+          },
+          "an3.90:4.4": {
+            "scid": "an3.90:4.4",
+            "pli": "Imā kho, bhikkhave, tisso sikkhāti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Übungen</span>. ",
+            "en": "These are the three trainings. ",
+            "matched": true
+          }
+        },
+        "score": 3.081,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n9. Asketen\n90. Drei Übungen (2)",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 37,
+          "de": 36,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.84_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.84_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.84_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.84",
+        "lang": "de",
+        "segMap": {
+          "an3.84:1.5": {
+            "scid": "an3.84:1.5",
+            "pli": "“Sakkhissasi pana tvaṁ, bhikkhu, tīsu sikkhāsu sikkhituṁ—",
+            "de": "„Aber Mönch, bist du in der Lage, dich in <span class=\"ebt-matched\">drei Übungen</span> zu üben: ",
+            "en": "“But monk, are you able to train in three trainings: ",
+            "matched": true
+          },
+          "an3.84:1.9": {
+            "scid": "an3.84:1.9",
+            "pli": "“Tasmātiha tvaṁ, bhikkhu, tīsu sikkhāsu sikkhassu—",
+            "de": "„Nun, Mönch, dann solltest du dich in diesen <span class=\"ebt-matched\">drei Übungen</span> üben: ",
+            "en": "“So, monk, you should train in these three trainings: ",
+            "matched": true
+          }
+        },
+        "score": 2.105,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n9. Asketen\n84. Der Vajjier",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 19,
+          "de": 18,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.88_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.88_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.88_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.88",
+        "lang": "de",
+        "segMap": {
+          "an3.88:1.2": {
+            "scid": "an3.88:1.2",
+            "pli": "Tisso imā, bhikkhave, sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
+            "de": "All diese sind in den <span class=\"ebt-matched\">drei Übungen</span> enthalten. ",
+            "en": "These are all included in the three trainings. ",
+            "matched": true
+          },
+          "an3.88:1.5": {
+            "scid": "an3.88:1.5",
+            "pli": "imā kho, bhikkhave, tisso sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Übungen</span>, in denen alle enthalten sind. ",
+            "en": "These are the three trainings that include them all. ",
+            "matched": true
+          }
+        },
+        "score": 2.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n9. Asketen\n88. Übung (3)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 26,
+          "de": 25,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.86_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.86_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.86_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.86",
+        "lang": "de",
+        "segMap": {
+          "an3.86:1.2": {
+            "scid": "an3.86:1.2",
+            "pli": "Tisso imā, bhikkhave, sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
+            "de": "All diese sind in den <span class=\"ebt-matched\">drei Übungen</span> enthalten. ",
+            "en": "These are all included in the three trainings. ",
+            "matched": true
+          },
+          "an3.86:1.5": {
+            "scid": "an3.86:1.5",
+            "pli": "imā kho, bhikkhave, tisso sikkhā, yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Übungen</span>, in denen alle enthalten sind. ",
+            "en": "These are the three trainings that include them all. ",
+            "matched": true
+          }
+        },
+        "score": 2.057,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n9. Asketen\n86. Übung (1)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 35,
+          "de": 34,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.87_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.87_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.87_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.87",
+        "lang": "de",
+        "segMap": {
+          "an3.87:1.2": {
+            "scid": "an3.87:1.2",
+            "pli": "Tisso imā, bhikkhave, sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
+            "de": "All diese sind in den <span class=\"ebt-matched\">drei Übungen</span> enthalten. ",
+            "en": "These are all included in the three trainings. ",
+            "matched": true
+          },
+          "an3.87:1.5": {
+            "scid": "an3.87:1.5",
+            "pli": "imā kho, bhikkhave, tisso sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Übungen</span>, in denen alle enthalten sind. ",
+            "en": "These are the three trainings that include them all. ",
+            "matched": true
+          }
+        },
+        "score": 2.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n9. Asketen\n87. Übung (2)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 36,
+          "de": 35,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.10.114": {
+            "scid": "dn33:1.10.114",
+            "pli": "Tisso sikkhā—",
+            "de": "<span class=\"ebt-matched\">Drei Übungen</span>: ",
+            "en": "Three trainings: ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

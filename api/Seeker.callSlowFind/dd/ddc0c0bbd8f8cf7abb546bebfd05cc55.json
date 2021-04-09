@@ -1,0 +1,252 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "eight worldly conditions",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "eight worldly conditions",
+    "method": "phrase",
+    "resultPattern": "\\beight worldly conditions",
+    "segsMatched": 9,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an8/an8.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.192_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.192_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.27_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.27_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an8.6/en/sujato",
+      "an8.5/en/sujato",
+      "an4.192/en/sujato",
+      "dn34/en/sujato",
+      "dn33/en/sujato",
+      "an10.27/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.5",
+        "lang": "en",
+        "segMap": {
+          "an8.5:1.1": {
+            "scid": "an8.5:1.1",
+            "pli": "“Aṭṭhime, bhikkhave, lokadhammā lokaṁ anuparivattanti, loko ca aṭṭha lokadhamme anuparivattati. ",
+            "en": "“Mendicants, the <span class=\"ebt-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around the <span class=\"ebt-matched\">eight worldly conditions</span>. ",
+            "matched": true
+          },
+          "an8.5:1.4": {
+            "scid": "an8.5:1.4",
+            "pli": "Ime kho, bhikkhave, aṭṭha lokadhammā lokaṁ anuparivattanti, loko ca ime aṭṭha lokadhamme anuparivattatīti. ",
+            "en": "These <span class=\"ebt-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around these <span class=\"ebt-matched\">eight worldly conditions</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.1,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n1. Love\n5. Worldly Conditions (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 20,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.6",
+        "lang": "en",
+        "segMap": {
+          "an8.6:1.1": {
+            "scid": "an8.6:1.1",
+            "pli": "“Aṭṭhime, bhikkhave, lokadhammā lokaṁ anuparivattanti, loko ca aṭṭha lokadhamme anuparivattati. ",
+            "en": "“Mendicants, the <span class=\"ebt-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around the <span class=\"ebt-matched\">eight worldly conditions</span>. ",
+            "matched": true
+          },
+          "an8.6:1.4": {
+            "scid": "an8.6:1.4",
+            "pli": "Ime kho, bhikkhave, aṭṭha lokadhammā lokaṁ anuparivattanti, loko ca ime aṭṭha lokadhamme anuparivattati. ",
+            "en": "These <span class=\"ebt-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around these <span class=\"ebt-matched\">eight worldly conditions</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n1. Love\n6. Worldly Conditions (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 70,
+          "en": 69
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.192_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.192_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.192",
+        "lang": "en",
+        "segMap": {
+          "an4.192:6.4": {
+            "scid": "an4.192:6.4",
+            "pli": "‘tathābhūto kho ayaṁ lokasannivāso tathābhūto ayaṁ attabhāvapaṭilābho yathābhūte lokasannivāse yathābhūte attabhāvapaṭilābhe aṭṭha lokadhammā lokaṁ anuparivattanti loko ca aṭṭha lokadhamme anuparivattati—",
+            "en": "‘The world’s like that. Reincarnation’s like that. That’s why the <span class=\"ebt-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around the <span class=\"ebt-matched\">eight worldly conditions</span>: ",
+            "matched": true
+          },
+          "an4.192:7.2": {
+            "scid": "an4.192:7.2",
+            "pli": "‘tathābhūto kho ayaṁ lokasannivāso tathābhūto ayaṁ attabhāvapaṭilābho yathābhūte lokasannivāse yathābhūte attabhāvapaṭilābhe aṭṭha lokadhammā lokaṁ anuparivattanti loko ca aṭṭha lokadhamme anuparivattati—",
+            "en": "‘The world’s like that. Reincarnation’s like that. That’s why the <span class=\"ebt-matched\">eight worldly conditions</span> revolve around the world, and the world revolves around the <span class=\"ebt-matched\">eight worldly conditions</span>: ",
+            "matched": true
+          }
+        },
+        "score": 2.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n20. The Great Chapter\n192. Facts",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 76,
+          "en": 75
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.27_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.27",
+        "lang": "en",
+        "segMap": {
+          "an10.27:17.5": {
+            "scid": "an10.27:17.5",
+            "pli": "Aṭṭhasu lokadhammesu—",
+            "en": "The <span class=\"ebt-matched\">eight worldly conditions</span>. … ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n3. The Great Chapter\n27. The Great Questions (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 112,
+          "en": 111
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:3.1.140": {
+            "scid": "dn33:3.1.140",
+            "pli": "Aṭṭha lokadhammā—",
+            "en": "<span class=\"ebt-matched\">Eight worldly conditions</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:2.1.35": {
+            "scid": "dn34:2.1.35",
+            "pli": "Aṭṭha lokadhammā—",
+            "en": "<span class=\"ebt-matched\">Eight worldly conditions</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

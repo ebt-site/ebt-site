@@ -1,0 +1,157 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wenn ich betrübt wäre und jammern",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wenn ich betrübt wäre und jammern",
+    "method": "phrase",
+    "resultPattern": "\\bwenn ich betrübt wäre und jammern",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.50_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.50_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.50_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.48_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.48_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.48_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.50/de/sabbamitta",
+      "an5.48/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.48_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.48_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.48_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.48",
+        "lang": "de",
+        "segMap": {
+          "an5.48:2.4": {
+            "scid": "an5.48:2.4",
+            "pli": "Ahañceva kho pana jarādhamme jiṇṇe soceyyaṁ kilameyyaṁ parideveyyaṁ, urattāḷiṁ kandeyyaṁ, sammohaṁ āpajjeyyaṁ, bhattampi me nacchādeyya, kāyepi dubbaṇṇiyaṁ okkameyya, kammantāpi nappavatteyyuṁ, amittāpi attamanā assu, mittāpi dummanā assū’ti. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich betrübt wäre und jammern</span> und klagen würde, mir an die Brust schlagen und in Verwirrung stürzen würde, nur weil jemand, der alt werden muss, alt wird, würde ich den Appetit verlieren und mein Äußeres würde verkommen. Meine Arbeit würde nicht erledigt, meine Feinde würden sich freuen und meine Freunde wären niedergeschlagen.‘ ",
+            "en": "If I were to sorrow and wail and lament, beating my breast and falling into confusion, just because someone liable to old age grows old, I’d lose my appetite and my physical appearance would deteriorate. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’ ",
+            "matched": true
+          },
+          "an5.48:3.4": {
+            "scid": "an5.48:3.4",
+            "pli": "Ahañceva kho pana nassanadhamme naṭṭhe soceyyaṁ kilameyyaṁ parideveyyaṁ, urattāḷiṁ kandeyyaṁ, sammohaṁ āpajjeyyaṁ, bhattampi me nacchādeyya, kāyepi dubbaṇṇiyaṁ okkameyya, kammantāpi nappavatteyyuṁ, amittāpi attamanā assu, mittāpi dummanā assū’ti. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich betrübt wäre und jammern</span> und klagen würde, mir an die Brust schlagen und in Verwirrung stürzen würde, nur weil jemand, der zugrunde gehen muss, zugrunde geht, würde ich den Appetit verlieren und mein Äußeres würde verkommen. Meine Arbeit würde nicht erledigt, meine Feinde würden sich freuen und meine Freunde wären niedergeschlagen.‘ ",
+            "en": "If I were to sorrow and wail and lament, beating my breast and falling into confusion, just because someone liable to perishing perishes, I’d lose my appetite and my physical appearance would deteriorate. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’ ",
+            "matched": true
+          },
+          "an5.48:4.4": {
+            "scid": "an5.48:4.4",
+            "pli": "Ahañceva kho pana jarādhamme jiṇṇe soceyyaṁ kilameyyaṁ parideveyyaṁ, urattāḷiṁ kandeyyaṁ, sammohaṁ āpajjeyyaṁ, bhattampi me nacchādeyya, kāyepi dubbaṇṇiyaṁ okkameyya, kammantāpi nappavatteyyuṁ, amittāpi attamanā assu, mittāpi dummanā assū’ti. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich betrübt wäre und jammern</span> und klagen würde, mir an die Brust schlagen und in Verwirrung stürzen würde, nur weil jemand, der alt werden muss, alt wird, würde ich den Appetit verlieren und mein Äußeres würde verkommen. Meine Arbeit würde nicht erledigt, meine Feinde würden sich freuen und meine Freunde wären niedergeschlagen.‘ ",
+            "en": "If I were to sorrow and wail and lament, beating my breast and falling into confusion, just because someone liable to old age grows old, I’d lose my appetite and my physical appearance would deteriorate. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’ ",
+            "matched": true
+          },
+          "an5.48:5.4": {
+            "scid": "an5.48:5.4",
+            "pli": "Ahañceva kho pana nassanadhamme naṭṭhe soceyyaṁ kilameyyaṁ parideveyyaṁ, urattāḷiṁ kandeyyaṁ, sammohaṁ āpajjeyyaṁ, bhattampi me nacchādeyya, kāyepi dubbaṇṇiyaṁ okkameyya, kammantāpi nappavatteyyuṁ, amittāpi attamanā assu, mittāpi dummanā assū’ti. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich betrübt wäre und jammern</span> und klagen würde, mir an die Brust schlagen und in Verwirrung stürzen würde, nur weil jemand, der zugrunde gehen muss, zugrunde geht, würde ich den Appetit verlieren und mein Äußeres würde verkommen. Meine Arbeit würde nicht erledigt, meine Feinde würden sich freuen und meine Freunde wären niedergeschlagen.‘ ",
+            "en": "If I were to sorrow and wail and lament, beating my breast and falling into confusion, just because someone liable to perishing perishes, I’d lose my appetite and my physical appearance would deteriorate. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’ ",
+            "matched": true
+          }
+        },
+        "score": 4.073,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n5. Mit König Muṇḍa\n48. Was man nicht bekommen kann",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 55,
+          "de": 54,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.50_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.50_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.50_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.50",
+        "lang": "de",
+        "segMap": {
+          "an5.50:9.4": {
+            "scid": "an5.50:9.4",
+            "pli": "Ahañceva kho pana jarādhamme jiṇṇe soceyyaṁ kilameyyaṁ parideveyyaṁ, urattāḷiṁ kandeyyaṁ, sammohaṁ āpajjeyyaṁ, bhattampi me nacchādeyya, kāyepi dubbaṇṇiyaṁ okkameyya, kammantāpi nappavatteyyuṁ, amittāpi attamanā assu, mittāpi dummanā assū’ti. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich betrübt wäre und jammern</span> und klagen würde, mir an die Brust schlagen und in Verwirrung stürzen würde, nur weil jemand, der alt werden muss, alt wird, würde ich den Appetit verlieren und mein Äußeres würde verkommen. Meine Arbeit würde nicht erledigt, meine Feinde würden sich freuen und meine Freunde wären niedergeschlagen.‘ ",
+            "en": "If I were to sorrow and wail and lament, beating my breast and falling into confusion, just because someone liable to old age grows old, I’d lose my appetite and my physical appearance would deteriorate. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’ ",
+            "matched": true
+          },
+          "an5.50:10.4": {
+            "scid": "an5.50:10.4",
+            "pli": "Ahañceva kho pana nassanadhamme naṭṭhe soceyyaṁ kilameyyaṁ parideveyyaṁ, urattāḷiṁ kandeyyaṁ, sammohaṁ āpajjeyyaṁ, bhattampi me nacchādeyya, kāyepi dubbaṇṇiyaṁ okkameyya, kammantāpi nappavatteyyuṁ, amittāpi attamanā assu, mittāpi dummanā assū’ti. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich betrübt wäre und jammern</span> und klagen würde, mir an die Brust schlagen und in Verwirrung stürzen würde, nur weil jemand, der zugrunde gehen muss, zugrunde geht, würde ich den Appetit verlieren und mein Äußeres würde verkommen. Meine Arbeit würde nicht erledigt, meine Feinde würden sich freuen und meine Freunde wären niedergeschlagen.‘ ",
+            "en": "If I were to sorrow and wail and lament, beating my breast and falling into confusion, just because someone liable to perishing perishes, I’d lose my appetite and my physical appearance would deteriorate. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’ ",
+            "matched": true
+          },
+          "an5.50:11.4": {
+            "scid": "an5.50:11.4",
+            "pli": "Ahañceva kho pana jarādhamme jiṇṇe soceyyaṁ kilameyyaṁ parideveyyaṁ, urattāḷiṁ kandeyyaṁ, sammohaṁ āpajjeyyaṁ, bhattampi me nacchādeyya, kāyepi dubbaṇṇiyaṁ okkameyya, kammantāpi nappavatteyyuṁ, amittāpi attamanā assu, mittāpi dummanā assū’ti. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich betrübt wäre und jammern</span> und klagen würde, mir an die Brust schlagen und in Verwirrung stürzen würde, nur weil jemand, der alt werden muss, alt wird, würde ich den Appetit verlieren und mein Äußeres würde verkommen. Meine Arbeit würde nicht erledigt, meine Feinde würden sich freuen und meine Freunde wären niedergeschlagen.‘ ",
+            "en": "If I were to sorrow and wail and lament, beating my breast and falling into confusion, just because someone liable to old age grows old, I’d lose my appetite and my physical appearance would deteriorate. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’ ",
+            "matched": true
+          },
+          "an5.50:12.4": {
+            "scid": "an5.50:12.4",
+            "pli": "Ahañceva kho pana nassanadhamme naṭṭhe soceyyaṁ kilameyyaṁ parideveyyaṁ, urattāḷiṁ kandeyyaṁ, sammohaṁ āpajjeyyaṁ, bhattampi me nacchādeyya, kāyepi dubbaṇṇiyaṁ okkameyya, kammantāpi nappavatteyyuṁ, amittāpi attamanā assu, mittāpi dummanā assū’ti. ",
+            "de": "<span class=\"ebt-matched\">Wenn ich betrübt wäre und jammern</span> und klagen würde, mir an die Brust schlagen und in Verwirrung stürzen würde, nur weil jemand, der zugrunde gehen muss, zugrunde geht, würde ich den Appetit verlieren und mein Äußeres würde verkommen. Meine Arbeit würde nicht erledigt, meine Feinde würden sich freuen und meine Freunde wären niedergeschlagen.‘ ",
+            "en": "If I were to sorrow and wail and lament, beating my breast and falling into confusion, just because someone liable to perishing perishes, I’d lose my appetite and my physical appearance would deteriorate. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’ ",
+            "matched": true
+          }
+        },
+        "score": 4.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n5. Mit König Muṇḍa\n50. Mit Nārada",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 110,
+          "de": 102,
+          "en": 108
+        }
+      }
+    ]
+  }
+}

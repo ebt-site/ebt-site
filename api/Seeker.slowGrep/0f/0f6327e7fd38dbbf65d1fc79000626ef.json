@@ -1,0 +1,21 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bgradual training",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn70_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn107_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/kn/ud/vagga5/ud5.5_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an8/an8.20_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an8/an8.19_translation-en-sujato.json:1"
+  ]
+}

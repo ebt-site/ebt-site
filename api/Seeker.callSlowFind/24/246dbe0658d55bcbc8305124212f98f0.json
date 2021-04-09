@@ -1,0 +1,93 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "金細工職人",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "金細工職人",
+    "method": "phrase",
+    "resultPattern": "金細工職人",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an3/an3.101_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an3.101/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an3/an3.101_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.101",
+        "lang": "jpn",
+        "segMap": {
+          "an3.101:1.8": {
+            "scid": "an3.101:1.8",
+            "pli": "Tamenaṁ suvaṇṇakāro vā suvaṇṇakārantevāsī vā jātarūpaṁ mūsāyaṁ pakkhipitvā dhamati sandhamati niddhamati. ",
+            "en": "A goldsmith or their apprentice places the gold in a crucible where they blow, melt, and smelt it. ",
+            "jpn": "<span class=\"ebt-matched\">金細工職人</span>または見習い<span class=\"ebt-matched\">金細工職人</span>はその金を炉に入れ、職人は吹き、溶かし、精錬します。",
+            "matched": true
+          },
+          "an3.101:1.10": {
+            "scid": "an3.101:1.10",
+            "pli": "Hoti so, bhikkhave, samayo yaṁ suvaṇṇakāro vā suvaṇṇakārantevāsī vā taṁ jātarūpaṁ dhamati sandhamati niddhamati. ",
+            "en": "But the goldsmith keeps on blowing, melting, and smelting it. ",
+            "jpn": "<span class=\"ebt-matched\">金細工職人</span>は、吹き、溶かし、精錬し続けます。",
+            "matched": true
+          },
+          "an3.101:1.12": {
+            "scid": "an3.101:1.12",
+            "pli": "Yassā yassā ca pilandhanavikatiyā ākaṅkhati—yadi paṭṭikāya, yadi kuṇḍalāya, yadi gīveyyake, yadi suvaṇṇamālāya—tañcassa atthaṁ anubhoti. ",
+            "en": "Then the goldsmith can successfully create any kind of ornament they want, whether a bracelet, earrings, a necklace, or a golden garland. ",
+            "jpn": "そして<span class=\"ebt-matched\">金細工職人</span>は望みの装飾品、ブレスレットでもイヤリングでもネックレスでも金の花飾りでも、見事に作り上げる事が出来ます。",
+            "matched": true
+          }
+        },
+        "score": 3.058,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 三集\n第十　ひとかたまりの塩（一掬塩品）\n101. 選鉱者",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 52,
+          "en": 51,
+          "jpn": 50
+        }
+      }
+    ]
+  }
+}

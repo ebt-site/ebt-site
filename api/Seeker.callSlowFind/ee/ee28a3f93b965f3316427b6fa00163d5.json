@@ -1,0 +1,302 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "es ist einfach dieser edle achtfache pfad",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "es ist einfach dieser edle achtfache pfad",
+    "method": "phrase",
+    "resultPattern": "\\bes ist einfach dieser edle achtfache pfad",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn56/sn56.11_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn47/sn47.40_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn47/sn47.40_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.40_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn6_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn6_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn6_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn19_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn19_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn19_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.71_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.71_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.71_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.62_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.62_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.62_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.61_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.61_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.61_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn56.11/de/sabbamitta",
+      "sn47.40/de/sabbamitta",
+      "dn6/de/sabbamitta",
+      "dn19/de/sabbamitta",
+      "an3.71/de/sabbamitta",
+      "an3.62/de/sabbamitta",
+      "an3.61/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn56/sn56.11_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.11",
+        "lang": "de",
+        "segMap": {
+          "sn56.11:3.2": {
+            "scid": "sn56.11:3.2",
+            "pli": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
+            "de": "<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
+            "en": "It is simply this noble eightfold path, that is: ",
+            "matched": true
+          },
+          "sn56.11:4.9": {
+            "scid": "sn56.11:4.9",
+            "pli": "ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
+            "de": "<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
+            "en": "It is simply this noble eightfold path, that is: ",
+            "matched": true
+          }
+        },
+        "score": 2.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 56\n2. Das Rad des Dhamma ins Rollen bringen\n11. Das Rad des Dhamma ins Rollen bringen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 60,
+          "de": 59,
+          "en": 59
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.40_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn47/sn47.40_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.40_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.40",
+        "lang": "de",
+        "segMap": {
+          "sn47.40:3.2": {
+            "scid": "sn47.40:3.2",
+            "pli": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
+            "de": "<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
+            "en": "It is simply this noble eightfold path, that is: ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 47\n4. Von niemand anderem gehört\n40. Aufgliederung",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "de": 21,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.71_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.71_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.71_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.71",
+        "lang": "de",
+        "segMap": {
+          "an3.71:5.4": {
+            "scid": "an3.71:5.4",
+            "pli": "“Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
+            "de": "„<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
+            "en": "“It is simply this noble eightfold path, that is: ",
+            "matched": true
+          }
+        },
+        "score": 1.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n8. Ānanda\n71. Mit Channa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 36,
+          "de": 35,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.62_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.62_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.62_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.62",
+        "lang": "de",
+        "segMap": {
+          "an3.62:10.3": {
+            "scid": "an3.62:10.3",
+            "pli": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
+            "de": "<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
+            "en": "It is simply this noble eightfold path, that is: ",
+            "matched": true
+          }
+        },
+        "score": 1.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n62. Gefahren",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 55,
+          "de": 54,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.61_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.61_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.61",
+        "lang": "de",
+        "segMap": {
+          "an3.61:17.2": {
+            "scid": "an3.61:17.2",
+            "pli": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
+            "de": "<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: nämlich ",
+            "en": "It is simply this noble eightfold path, that is: ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n61. Glaubenssätze von Sekten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 117,
+          "de": 116,
+          "en": 116
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn6_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn6_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn6_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn6",
+        "lang": "de",
+        "segMap": {
+          "dn6:14.4": {
+            "scid": "dn6:14.4",
+            "pli": "“Ayameva ariyo aṭṭhaṅgiko maggo. ",
+            "de": "„<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: ",
+            "en": "“It is simply this noble eightfold path, that is: ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 6\nMit Mahāli\n1. Über die brahmanischen Gesandten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 156,
+          "de": 148,
+          "en": 155
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn19_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn19_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn19_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn19",
+        "lang": "de",
+        "segMap": {
+          "dn19:61.7": {
+            "scid": "dn19:61.7",
+            "pli": "Ayameva ariyo aṭṭhaṅgiko maggo. ",
+            "de": "<span class=\"ebt-matched\">Es ist einfach dieser edle achtfache Pfad</span>: ",
+            "en": "It is simply this noble eightfold path, that is: ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 19\nDer Große Verwalter",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 559,
+          "de": 479,
+          "en": 558
+        }
+      }
+    ]
+  }
+}

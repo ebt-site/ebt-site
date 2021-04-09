@@ -1,0 +1,1338 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "conscience and prudence",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "conscience and prudence",
+    "method": "phrase",
+    "resultPattern": "\\bconscience and prudence",
+    "segsMatched": 86,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an2/an2.180-229_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an2/an2.180-229_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn39_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn39_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.81_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.81_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.65_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.65_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.1-10_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an2/an2.1-10_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn46/sn46.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.30_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn45/sn45.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn45/sn45.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn66_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn66_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga5/iti40_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga5/iti40_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.73_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.73_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.87-97_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an2/an2.87-97_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.76_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.76_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.105_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.105_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn16/sn16.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn16/sn16.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga5/iti42_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga5/iti42_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.33_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.45_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.45_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.33_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.230-279_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an2/an2.230-279_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an2.180-229/en/sujato",
+      "mn39/en/sujato",
+      "an8.81/en/sujato",
+      "an7.65/en/sujato",
+      "an8.2/en/sujato",
+      "an2.1-10/en/sujato",
+      "sn46.30/en/sujato",
+      "sn45.1/en/sujato",
+      "mn66/en/sujato",
+      "iti40/en/sujato",
+      "dn34/en/sujato",
+      "dn33/en/sujato",
+      "an8.3/en/sujato",
+      "an7.2/en/sujato",
+      "an7.1/en/sujato",
+      "an4.73/en/sujato",
+      "an2.87-97/en/sujato",
+      "an10.76/en/sujato",
+      "an10.105/en/sujato",
+      "sn16.11/en/sujato",
+      "iti42/en/sujato",
+      "an7.7/en/sujato",
+      "an7.6/en/sujato",
+      "an7.5/en/sujato",
+      "an7.4/en/sujato",
+      "an7.3/en/sujato",
+      "an7.33/en/sujato",
+      "an6.45/en/sujato",
+      "an6.33/en/sujato",
+      "an2.230-279/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.180-229_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an2/an2.180-229_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.180-229",
+        "lang": "en",
+        "segMap": {
+          "an2.180-184:1.3": {
+            "scid": "an2.180-184:1.3",
+            "pli": "Kodho ca upanāho ca … makkho ca paḷāso ca … issā ca macchariyañca … māyā ca sāṭheyyañca … ahirikañca anottappañca. ",
+            "en": "Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an2.185-189:1.3": {
+            "scid": "an2.185-189:1.3",
+            "pli": "Akkodho ca anupanāho ca … amakkho ca apaḷāso ca … anissā ca amacchariyañca … amāyā ca asāṭheyyañca … hirī ca ottappañca. ",
+            "en": "Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an2.190-194:1.3": {
+            "scid": "an2.190-194:1.3",
+            "pli": "Kodhena ca upanāhena ca … makkhena ca paḷāsena ca … issāya ca macchariyena ca … māyāya ca sāṭheyyena ca … ahirikena ca anottappena ca. ",
+            "en": "Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an2.195-199:1.3": {
+            "scid": "an2.195-199:1.3",
+            "pli": "Akkodhena ca anupanāhena ca … amakkhena ca apaḷāsena ca … anissāya ca amacchariyena ca … amāyāya ca asāṭheyyena ca … hiriyā ca ottappena ca. ",
+            "en": "Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an2.200-204:1.3": {
+            "scid": "an2.200-204:1.3",
+            "pli": "Kodho ca upanāho ca … makkho ca paḷāso ca … issā ca macchariyañca … māyā ca sāṭheyyañca … ahirikañca anottappañca. ",
+            "en": "Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an2.205-209:1.3": {
+            "scid": "an2.205-209:1.3",
+            "pli": "Akkodho ca anupanāho ca … amakkho ca apaḷāso ca … anissā ca amacchariyañca … amāyā ca asāṭheyyañca … hirī ca ottappañca. ",
+            "en": "Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an2.210-214:1.3": {
+            "scid": "an2.210-214:1.3",
+            "pli": "Kodhena ca upanāhena ca … makkhena ca paḷāsena ca … issāya ca macchariyena ca … māyāya ca sāṭheyyena ca … ahirikena ca anottappena ca. ",
+            "en": "Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an2.215-219:1.3": {
+            "scid": "an2.215-219:1.3",
+            "pli": "Akkodhena ca anupanāhena ca … amakkhena ca apaḷāsena ca … anissāya ca amacchariyena ca … amāyāya ca asāṭheyyena ca … hiriyā ca ottappena ca. ",
+            "en": "Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an2.220-224:1.3": {
+            "scid": "an2.220-224:1.3",
+            "pli": "Kodhena ca upanāhena ca … makkhena ca paḷāsena ca … issāya ca macchariyena ca … māyāya ca sāṭheyyena ca … ahirikena ca anottappena ca. ",
+            "en": "Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an2.225-229:1.3": {
+            "scid": "an2.225-229:1.3",
+            "pli": "Akkodhena ca anupanāhena ca … amakkhena ca apaḷāsena ca … anissāya ca amacchariyena ca … amāyāya ca asāṭheyyena ca … hiriyā ca ottappena ca. ",
+            "en": "Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          }
+        },
+        "score": 10.185,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 2\n16. Abbreviated Texts Beginning with Anger\n180–229",
+        "segsMatched": 10,
+        "langSegs": {
+          "pli": 54,
+          "en": 53
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.81_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.81_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.81",
+        "lang": "en",
+        "segMap": {
+          "an8.81:1.1": {
+            "scid": "an8.81:1.1",
+            "pli": "“Satisampajaññe, bhikkhave, asati satisampajaññavipannassa hatūpanisaṁ hoti hirottappaṁ. ",
+            "en": "“Mendicants, when there is no mindfulness and situational awareness, one who lacks mindfulness and situational awareness has destroyed a vital condition for <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an8.81:1.2": {
+            "scid": "an8.81:1.2",
+            "pli": "Hirottappe asati hirottappavipannassa hatūpaniso hoti indriyasaṁvaro. ",
+            "en": "When there is no <span class=\"ebt-matched\">conscience and prudence</span>, one who lacks <span class=\"ebt-matched\">conscience and prudence</span> has destroyed a vital condition for sense restraint. ",
+            "matched": true
+          },
+          "an8.81:1.9": {
+            "scid": "an8.81:1.9",
+            "pli": "Evamevaṁ kho, bhikkhave, satisampajaññe asati satisampajaññavipannassa hatūpanisaṁ hoti hirottappaṁ; ",
+            "en": "In the same way, when there is no mindfulness and situational awareness, one who lacks mindfulness and situational awareness has destroyed a vital condition for <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an8.81:1.10": {
+            "scid": "an8.81:1.10",
+            "pli": "hirottappe asati hirottappavipannassa hatūpaniso hoti …pe… ",
+            "en": "When there is no <span class=\"ebt-matched\">conscience and prudence</span> … ",
+            "matched": true
+          },
+          "an8.81:2.1": {
+            "scid": "an8.81:2.1",
+            "pli": "Satisampajaññe, bhikkhave, sati satisampajaññasampannassa upanisasampannaṁ hoti hirottappaṁ. ",
+            "en": "When there is mindfulness and situational awareness, one who has fulfilled mindfulness and situational awareness has fulfilled a vital condition for <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an8.81:2.2": {
+            "scid": "an8.81:2.2",
+            "pli": "Hirottappe sati hirottappasampannassa upanisasampanno hoti indriyasaṁvaro. ",
+            "en": "When there is <span class=\"ebt-matched\">conscience and prudence</span>, a person who has fulfilled <span class=\"ebt-matched\">conscience and prudence</span> has fulfilled a vital condition for sense restraint. ",
+            "matched": true
+          },
+          "an8.81:2.9": {
+            "scid": "an8.81:2.9",
+            "pli": "Evamevaṁ kho, bhikkhave, satisampajaññe sati satisampajaññasampannassa upanisasampannaṁ hoti hirottappaṁ; ",
+            "en": "In the same way, when there is mindfulness and situational awareness, one who has fulfilled mindfulness and situational awareness has fulfilled a vital condition for <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an8.81:2.10": {
+            "scid": "an8.81:2.10",
+            "pli": "hirottappe sati hirottappasampannassa upanisasampanno hoti …pe… ",
+            "en": "When there is <span class=\"ebt-matched\">conscience and prudence</span> … ",
+            "matched": true
+          }
+        },
+        "score": 8.308,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n9. Mindfulness\n81. Mindfulness and Situational Awareness",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 26,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn39_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn39_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn39",
+        "lang": "en",
+        "segMap": {
+          "mn39:3.2": {
+            "scid": "mn39:3.2",
+            "pli": "‘Hirottappena samannāgatā bhavissāmā’ti evañhi vo, bhikkhave, sikkhitabbaṁ. ",
+            "en": "You should train like this: ‘We will have <span class=\"ebt-matched\">conscience and prudence</span>.’ ",
+            "matched": true
+          },
+          "mn39:3.4": {
+            "scid": "mn39:3.4",
+            "pli": "‘hirottappenamha samannāgatā, alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṁ karaṇīyan’ti tāvatakeneva tuṭṭhiṁ āpajjeyyātha. ",
+            "en": "‘We have <span class=\"ebt-matched\">conscience and prudence</span>. Just this much is enough. We have achieved the goal of life as an ascetic. There is nothing more to do.’ And you might rest content with just that much. ",
+            "matched": true
+          },
+          "mn39:4.5": {
+            "scid": "mn39:4.5",
+            "pli": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro; ",
+            "en": "‘We have <span class=\"ebt-matched\">conscience and prudence</span>, and our bodily behavior is pure. ",
+            "matched": true
+          },
+          "mn39:7.5": {
+            "scid": "mn39:7.5",
+            "pli": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro, parisuddho vacīsamācāro, parisuddho manosamācāro, parisuddho ājīvo; ",
+            "en": "‘We have <span class=\"ebt-matched\">conscience and prudence</span>, our bodily, verbal, and mental behavior is pure, and our livelihood is pure. ",
+            "matched": true
+          },
+          "mn39:8.12": {
+            "scid": "mn39:8.12",
+            "pli": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro, parisuddho vacīsamācāro, parisuddho manosamācāro, parisuddho ājīvo, indriyesumha guttadvārā; ",
+            "en": "‘We have <span class=\"ebt-matched\">conscience and prudence</span>, our bodily, verbal, and mental behavior is pure, our livelihood is pure, and our sense doors are restrained. ",
+            "matched": true
+          },
+          "mn39:9.5": {
+            "scid": "mn39:9.5",
+            "pli": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro, parisuddho vacīsamācāro, parisuddho manosamācāro, parisuddho ājīvo, indriyesumha guttadvārā, bhojane mattaññuno; ",
+            "en": "‘We have <span class=\"ebt-matched\">conscience and prudence</span>, our bodily, verbal, and mental behavior is pure, our livelihood is pure, our sense doors are restrained, and we don’t eat too much. ",
+            "matched": true
+          },
+          "mn39:10.7": {
+            "scid": "mn39:10.7",
+            "pli": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro, parisuddho vacīsamācāro, parisuddho manosamācāro, parisuddho ājīvo, indriyesumha guttadvārā, bhojane mattaññuno, jāgariyaṁ anuyuttā; ",
+            "en": "‘We have <span class=\"ebt-matched\">conscience and prudence</span>, our bodily, verbal, and mental behavior is pure, our livelihood is pure, our sense doors are restrained, we don’t eat too much, and we are dedicated to wakefulness. ",
+            "matched": true
+          },
+          "mn39:11.4": {
+            "scid": "mn39:11.4",
+            "pli": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro, parisuddho vacīsamācāro, parisuddho manosamācāro, parisuddho ājīvo, indriyesumha guttadvārā, bhojane mattaññuno, jāgariyaṁ anuyuttā, satisampajaññena samannāgatā; ",
+            "en": "‘We have <span class=\"ebt-matched\">conscience and prudence</span>, our bodily, verbal, and mental behavior is pure, our livelihood is pure, our sense doors are restrained, we don’t eat too much, we are dedicated to wakefulness, and we have mindfulness and situational awareness. ",
+            "matched": true
+          }
+        },
+        "score": 8.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 39\nThe Longer Discourse at Assapura",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 191,
+          "en": 190
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.65_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.65_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.65",
+        "lang": "en",
+        "segMap": {
+          "an7.65:0.3": {
+            "scid": "an7.65:0.3",
+            "pli": "65. Hirīottappasutta ",
+            "en": "65. <span class=\"ebt-matched\">Conscience and Prudence</span> ",
+            "matched": true
+          },
+          "an7.65:1.1": {
+            "scid": "an7.65:1.1",
+            "pli": "“Hirottappe, bhikkhave, asati hirottappavipannassa hatūpaniso hoti indriyasaṁvaro; ",
+            "en": "“Mendicants, when there is no <span class=\"ebt-matched\">conscience and prudence</span>, one who lacks <span class=\"ebt-matched\">conscience and prudence</span> has destroyed a vital condition for sense restraint. ",
+            "matched": true
+          },
+          "an7.65:1.9": {
+            "scid": "an7.65:1.9",
+            "pli": "Evamevaṁ kho, bhikkhave, hirottappe asati hirottappavipannassa hatūpaniso hoti indriyasaṁvaro; ",
+            "en": "In the same way, when there is no <span class=\"ebt-matched\">conscience and prudence</span>, a person who lacks <span class=\"ebt-matched\">conscience and prudence</span> has destroyed a vital condition for sense restraint. ",
+            "matched": true
+          },
+          "an7.65:2.1": {
+            "scid": "an7.65:2.1",
+            "pli": "Hirottappe, bhikkhave, sati hirottappasampannassa upanisasampanno hoti indriyasaṁvaro; ",
+            "en": "When there is <span class=\"ebt-matched\">conscience and prudence</span>, a person who has fulfilled <span class=\"ebt-matched\">conscience and prudence</span> has fulfilled a vital condition for sense restraint. ",
+            "matched": true
+          },
+          "an7.65:2.8": {
+            "scid": "an7.65:2.8",
+            "pli": "Evamevaṁ kho, bhikkhave, hirottappe sati hirottappasampannassa upanisasampanno hoti …pe… ",
+            "en": "In the same way, when there is <span class=\"ebt-matched\">conscience and prudence</span>, a person who has fulfilled <span class=\"ebt-matched\">conscience and prudence</span> has fulfilled a vital condition for sense restraint. … ",
+            "matched": true
+          }
+        },
+        "score": 5.185,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n7. The Great Chapter\n65. Conscience and Prudence",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:1.9.7": {
+            "scid": "dn33:1.9.7",
+            "pli": "Ahirikañca anottappañca. ",
+            "en": "Lack of <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "dn33:1.9.8": {
+            "scid": "dn33:1.9.8",
+            "pli": "Hirī ca ottappañca. ",
+            "en": "<span class=\"ebt-matched\">Conscience and prudence</span>. ",
+            "matched": true
+          },
+          "dn33:2.3.5": {
+            "scid": "dn33:2.3.5",
+            "pli": "saddhādhanaṁ, sīladhanaṁ, hiridhanaṁ, ottappadhanaṁ, sutadhanaṁ, cāgadhanaṁ, paññādhanaṁ. ",
+            "en": "the wealth of faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom. ",
+            "matched": true
+          },
+          "dn33:2.3.27": {
+            "scid": "dn33:2.3.27",
+            "pli": "saddhābalaṁ, vīriyabalaṁ, hiribalaṁ, ottappabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ. ",
+            "en": "faith, energy, conscience, prudence, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 4.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.2",
+        "lang": "en",
+        "segMap": {
+          "an8.2:1.3": {
+            "scid": "an8.2:1.3",
+            "pli": "Idha, bhikkhave, bhikkhu satthāraṁ upanissāya viharati aññataraṁ vā garuṭṭhāniyaṁ sabrahmacāriṁ, yatthassa tibbaṁ hirottappaṁ paccupaṭṭhitaṁ hoti pemañca gāravo ca. ",
+            "en": "It’s when a mendicant lives relying on the Teacher or a spiritual companion in a teacher’s role. And they set up a keen sense of <span class=\"ebt-matched\">conscience and prudence</span> for them, with warmth and respect. ",
+            "matched": true
+          },
+          "an8.2:2.1": {
+            "scid": "an8.2:2.1",
+            "pli": "So taṁ satthāraṁ upanissāya viharanto aññataraṁ vā garuṭṭhāniyaṁ sabrahmacāriṁ, yatthassa tibbaṁ hirottappaṁ paccupaṭṭhitaṁ hoti pemañca gāravo ca, te kālena kālaṁ upasaṅkamitvā paripucchati paripañhati: ",
+            "en": "When a mendicant lives relying on the Teacher or a spiritual companion in a teacher’s role—with a keen sense of <span class=\"ebt-matched\">conscience and prudence</span> for them, with warmth and respect—from time to time they go and ask them questions: ",
+            "matched": true
+          },
+          "an8.2:9.2": {
+            "scid": "an8.2:9.2",
+            "pli": "‘ayaṁ kho āyasmā satthāraṁ upanissāya viharati aññataraṁ vā garuṭṭhāniyaṁ sabrahmacāriṁ, yatthassa tibbaṁ hirottappaṁ paccupaṭṭhitaṁ hoti pemañca gāravo ca. ",
+            "en": "‘This venerable lives relying on the Teacher or a spiritual companion in a teacher’s role. They set up a keen sense of <span class=\"ebt-matched\">conscience and prudence</span> for them, with warmth and respect. ",
+            "matched": true
+          }
+        },
+        "score": 3.047,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n1. Love\n2. Wisdom",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 64,
+          "en": 63
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.45_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.45_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.45",
+        "lang": "en",
+        "segMap": {
+          "an6.45:7.2": {
+            "scid": "an6.45:7.2",
+            "pli": "evamevaṁ kho, bhikkhave, yassa kassaci saddhā natthi kusalesu dhammesu, hirī natthi kusalesu dhammesu, ottappaṁ natthi kusalesu dhammesu, vīriyaṁ natthi kusalesu dhammesu, paññā natthi kusalesu dhammesu—",
+            "en": "In the same way, whoever has no faith, conscience, prudence, energy, and wisdom when it comes to skillful qualities ",
+            "matched": true
+          },
+          "an6.45:8.1": {
+            "scid": "an6.45:8.1",
+            "pli": "Sa kho so, bhikkhave, daliddo assako anāḷhiko saddhāya asati kusalesu dhammesu, hiriyā asati kusalesu dhammesu, ottappe asati kusalesu dhammesu, vīriye asati kusalesu dhammesu, paññāya asati kusalesu dhammesu, kāyena duccaritaṁ carati, vācāya duccaritaṁ carati, manasā duccaritaṁ carati. ",
+            "en": "Since they have no faith, conscience, prudence, energy, or wisdom when it comes to skillful qualities, they do bad things by way of body, speech, and mind. ",
+            "matched": true
+          },
+          "an6.45:23.3": {
+            "scid": "an6.45:23.3",
+            "pli": "Hirīmano ca ottappī, ",
+            "en": "with <span class=\"ebt-matched\">conscience and prudence</span>, ",
+            "matched": true
+          }
+        },
+        "score": 3.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n5. About Dhammika\n45. Debt",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 100,
+          "en": 99
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.1-10_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an2/an2.1-10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.1-10",
+        "lang": "en",
+        "segMap": {
+          "an2.7:1.3": {
+            "scid": "an2.7:1.3",
+            "pli": "Ahirikañca anottappañca. ",
+            "en": "Lack of <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an2.8:1.3": {
+            "scid": "an2.8:1.3",
+            "pli": "Hirī ca ottappañca. ",
+            "en": "<span class=\"ebt-matched\">Conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an2.9:1.3": {
+            "scid": "an2.9:1.3",
+            "pli": "Hirī ca ottappañca. ",
+            "en": "<span class=\"ebt-matched\">Conscience and prudence</span>. ",
+            "matched": true
+          }
+        },
+        "score": 3.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 2\n1. Punishments\n1–10",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 126,
+          "en": 124
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.8.4": {
+            "scid": "dn34:1.8.4",
+            "pli": "saddhādhanaṁ, sīladhanaṁ, hiridhanaṁ, ottappadhanaṁ, sutadhanaṁ, cāgadhanaṁ, paññādhanaṁ. ",
+            "en": "the wealth of faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom. ",
+            "matched": true
+          },
+          "dn34:2.1.5": {
+            "scid": "dn34:2.1.5",
+            "pli": "Idhāvuso, bhikkhu satthāraṁ upanissāya viharati aññataraṁ vā garuṭṭhāniyaṁ sabrahmacāriṁ, yatthassa tibbaṁ hirottappaṁ paccupaṭṭhitaṁ hoti pemañca gāravo ca. ",
+            "en": "It’s when a mendicant lives relying on the Teacher or a spiritual companion in a teacher’s role. And they set up a keen sense of <span class=\"ebt-matched\">conscience and prudence</span> for them, with warmth and respect. ",
+            "matched": true
+          },
+          "dn34:2.1.7": {
+            "scid": "dn34:2.1.7",
+            "pli": "Taṁ kho pana satthāraṁ upanissāya viharati aññataraṁ vā garuṭṭhāniyaṁ sabrahmacāriṁ, yatthassa tibbaṁ hirottappaṁ paccupaṭṭhitaṁ hoti pemañca gāravo ca. Te kālena kālaṁ upasaṅkamitvā paripucchati paripañhati: ",
+            "en": "When a mendicant lives relying on the Teacher or a spiritual companion in a teacher’s role—with a keen sense of <span class=\"ebt-matched\">conscience and prudence</span> for them, with warmth and respect—from time to time they go and ask them questions: ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.105_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.105_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.105",
+        "lang": "en",
+        "segMap": {
+          "an10.105:1.1": {
+            "scid": "an10.105:1.1",
+            "pli": "“Avijjā, bhikkhave, pubbaṅgamā akusalānaṁ dhammānaṁ samāpattiyā, anvadeva ahirikaṁ anottappaṁ. ",
+            "en": "“Mendicants, ignorance precedes the attainment of unskillful qualities, with lack of <span class=\"ebt-matched\">conscience and prudence</span> following along. ",
+            "matched": true
+          },
+          "an10.105:2.1": {
+            "scid": "an10.105:2.1",
+            "pli": "Vijjā, bhikkhave, pubbaṅgamā kusalānaṁ dhammānaṁ samāpattiyā, anvadeva hirottappaṁ. ",
+            "en": "Knowledge precedes the attainment of skillful qualities, with <span class=\"ebt-matched\">conscience and prudence</span> following along. ",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n11. Perceptions for Ascetics\n105. Knowledge",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.2",
+        "lang": "en",
+        "segMap": {
+          "an7.2:1.3": {
+            "scid": "an7.2:1.3",
+            "pli": "Idha, bhikkhave, bhikkhu lābhakāmo ca hoti, sakkārakāmo ca hoti, anavaññattikāmo ca hoti, ahiriko ca hoti, anottappī ca, issukī ca, maccharī ca. ",
+            "en": "It’s when a mendicant desires material possessions, honor, and to be looked up to. They lack <span class=\"ebt-matched\">conscience and prudence</span>. They’re jealous and stingy. ",
+            "matched": true
+          },
+          "an7.2:2.3": {
+            "scid": "an7.2:2.3",
+            "pli": "Idha, bhikkhave, bhikkhu na lābhakāmo ca hoti, na sakkārakāmo ca hoti, na anavaññattikāmo ca hoti, hirīmā ca hoti, ottappī ca, anissukī ca, amaccharī ca. ",
+            "en": "It’s when a mendicant doesn’t desire material possessions, honor, and to be looked up to. They have <span class=\"ebt-matched\">conscience and prudence</span>. They’re not jealous or stingy. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n1. Wealth\n2. Pleasing (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.3",
+        "lang": "en",
+        "segMap": {
+          "an8.3:1.3": {
+            "scid": "an8.3:1.3",
+            "pli": "Idha, bhikkhave, bhikkhu appiyapasaṁsī ca hoti, piyagarahī ca, lābhakāmo ca, sakkārakāmo ca, ahiriko ca, anottappī ca, pāpiccho ca, micchādiṭṭhi ca. ",
+            "en": "It’s when a mendicant praises the disliked and criticizes the liked. They desire material possessions and honor. They lack <span class=\"ebt-matched\">conscience and prudence</span>. They have wicked desires and wrong view. ",
+            "matched": true
+          },
+          "an8.3:2.3": {
+            "scid": "an8.3:2.3",
+            "pli": "Idha, bhikkhave, bhikkhu na appiyapasaṁsī ca hoti, na piyagarahī ca, na lābhakāmo ca, na sakkārakāmo ca, hirīmā ca hoti, ottappī ca, appiccho ca, sammādiṭṭhi ca. ",
+            "en": "It’s when a mendicant doesn’t praise the disliked and criticize the liked. They don’t desire material possessions and honor. They have <span class=\"ebt-matched\">conscience and prudence</span>. They have few desires and right view. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n1. Love\n3. Disliked (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.33_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.33",
+        "lang": "en",
+        "segMap": {
+          "an6.33:1.4": {
+            "scid": "an6.33:1.4",
+            "pli": "Satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, hirigāravatā, ottappagāravatā—",
+            "en": "Respect for the Teacher, for the teaching, for the Saṅgha, for the training, for conscience, and for prudence. ",
+            "matched": true
+          },
+          "an6.33:2.3": {
+            "scid": "an6.33:2.3",
+            "pli": "Hiriottappasampanno, ",
+            "en": "having both <span class=\"ebt-matched\">conscience and prudence</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.118,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n4. Deities\n33. Non-decline (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.1",
+        "lang": "en",
+        "segMap": {
+          "an7.1:2.3": {
+            "scid": "an7.1:2.3",
+            "pli": "Idha, bhikkhave, bhikkhu lābhakāmo ca hoti, sakkārakāmo ca hoti, anavaññattikāmo ca hoti, ahiriko ca hoti, anottappī ca, pāpiccho ca, micchādiṭṭhi ca. ",
+            "en": "It’s when a mendicant desires material possessions, honor, and to be looked up to. They lack <span class=\"ebt-matched\">conscience and prudence</span>. They have wicked desires and wrong view. ",
+            "matched": true
+          },
+          "an7.1:3.3": {
+            "scid": "an7.1:3.3",
+            "pli": "Idha, bhikkhave, bhikkhu na lābhakāmo ca hoti, na sakkārakāmo ca hoti, na anavaññattikāmo ca hoti, hirīmā ca hoti, ottappī ca, appiccho ca, sammādiṭṭhi ca. ",
+            "en": "It’s when a mendicant doesn’t desire material possessions, honor, and to be looked up to. They have <span class=\"ebt-matched\">conscience and prudence</span>. They have few desires and right view. ",
+            "matched": true
+          }
+        },
+        "score": 2.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n1. Wealth\n1. Pleasing (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.33_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.33",
+        "lang": "en",
+        "segMap": {
+          "an7.33:1.4": {
+            "scid": "an7.33:1.4",
+            "pli": "Satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, samādhigāravatā, hirigāravatā, ottappagāravatā. ",
+            "en": "Respect for the Teacher, for the teaching, for the Saṅgha, for the training, for immersion, for conscience, and for prudence. ",
+            "matched": true
+          },
+          "an7.33:3.1": {
+            "scid": "an7.33:3.1",
+            "pli": "Hiriottappasampanno, ",
+            "en": "One with both <span class=\"ebt-matched\">conscience and prudence</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.105,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n4. Deities\n33. Respect for Conscience",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.3",
+        "lang": "en",
+        "segMap": {
+          "an7.3:1.5": {
+            "scid": "an7.3:1.5",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, hirībalaṁ, ottappabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ. ",
+            "en": "The powers of faith, energy, conscience, prudence, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          },
+          "an7.3:2.2": {
+            "scid": "an7.3:2.2",
+            "pli": "hirī ottappiyaṁ balaṁ; ",
+            "en": "<span class=\"ebt-matched\">conscience and prudence</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.1,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n1. Wealth\n3. Powers in Brief",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 20,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.5",
+        "lang": "en",
+        "segMap": {
+          "an7.5:1.3": {
+            "scid": "an7.5:1.3",
+            "pli": "Saddhādhanaṁ, sīladhanaṁ, hirīdhanaṁ, ottappadhanaṁ, sutadhanaṁ, cāgadhanaṁ, paññādhanaṁ. ",
+            "en": "The wealth of faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom. ",
+            "matched": true
+          },
+          "an7.5:2.2": {
+            "scid": "an7.5:2.2",
+            "pli": "hirī ottappiyaṁ dhanaṁ; ",
+            "en": "as are <span class=\"ebt-matched\">conscience and prudence</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.1,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n1. Wealth\n5. Wealth in Brief",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 20,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga5/iti40_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga5/iti40_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti40",
+        "lang": "en",
+        "segMap": {
+          "iti40:2.1": {
+            "scid": "iti40:2.1",
+            "pli": "“Avijjā, bhikkhave, pubbaṅgamā akusalānaṁ dhammānaṁ samāpattiyā anvadeva ahirikaṁ anottappaṁ;",
+            "en": "“Mendicants, ignorance precedes the attainment of unskillful qualities, with lack of <span class=\"ebt-matched\">conscience and prudence</span> following along. ",
+            "matched": true
+          },
+          "iti40:2.2": {
+            "scid": "iti40:2.2",
+            "pli": "vijjā ca kho, bhikkhave, pubbaṅgamā kusalānaṁ dhammānaṁ samāpattiyā anvadeva hirottappan”ti.",
+            "en": "Knowledge precedes the attainment of skillful qualities, with <span class=\"ebt-matched\">conscience and prudence</span> following along.”",
+            "matched": true
+          }
+        },
+        "score": 2.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Twos\nChapter Two\n40. Knowledge",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 24,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.7",
+        "lang": "en",
+        "segMap": {
+          "an7.7:2.9": {
+            "scid": "an7.7:2.9",
+            "pli": "Saddhādhanaṁ, sīladhanaṁ, hirīdhanaṁ, ottappadhanaṁ, sutadhanaṁ, cāgadhanaṁ, paññādhanaṁ. ",
+            "en": "The wealth of faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom. ",
+            "matched": true
+          },
+          "an7.7:3.2": {
+            "scid": "an7.7:3.2",
+            "pli": "hirī ottappiyaṁ dhanaṁ; ",
+            "en": "as are <span class=\"ebt-matched\">conscience and prudence</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n1. Wealth\n7. With Ugga",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn45/sn45.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn45/sn45.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn45.1",
+        "lang": "en",
+        "segMap": {
+          "sn45.1:2.1": {
+            "scid": "sn45.1:2.1",
+            "pli": "“Avijjā, bhikkhave, pubbaṅgamā akusalānaṁ dhammānaṁ samāpattiyā, anvadeva ahirikaṁ anottappaṁ. ",
+            "en": "“Mendicants, ignorance precedes the attainment of unskillful qualities, with lack of <span class=\"ebt-matched\">conscience and prudence</span> following along. ",
+            "matched": true
+          },
+          "sn45.1:3.1": {
+            "scid": "sn45.1:3.1",
+            "pli": "Vijjā ca kho, bhikkhave, pubbaṅgamā kusalānaṁ dhammānaṁ samāpattiyā, anvadeva hirottappaṁ. ",
+            "en": "Knowledge precedes the attainment of skillful qualities, with <span class=\"ebt-matched\">conscience and prudence</span> following along. ",
+            "matched": true
+          }
+        },
+        "score": 2.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 45\n1. Ignorance\n1. Ignorance",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.30",
+        "lang": "en",
+        "segMap": {
+          "sn46.30:2.2": {
+            "scid": "sn46.30:2.2",
+            "pli": "Yāva bahukatañca me, bhante, bhagavati pemañca gāravo ca hirī ca ottappañca. ",
+            "en": "How helpful my love and respect for the Buddha have been, and my sense of <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "sn46.30:2.4": {
+            "scid": "sn46.30:2.4",
+            "pli": "So khvāhaṁ bhagavati pemañca gāravañca hiriñca ottappañca sampassamāno agārasmā anagāriyaṁ pabbajito. ",
+            "en": "But when I considered my love and respect for the Buddha, and my sense of <span class=\"ebt-matched\">conscience and prudence</span>, I went forth from the lay life to homelessness. ",
+            "matched": true
+          }
+        },
+        "score": 2.057,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 46\n3. With Udāyī\n30. With Udāyī",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 35,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.4",
+        "lang": "en",
+        "segMap": {
+          "an7.4:1.3": {
+            "scid": "an7.4:1.3",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, hirībalaṁ, ottappabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ. ",
+            "en": "The powers of faith, energy, conscience, prudence, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          },
+          "an7.4:10.2": {
+            "scid": "an7.4:10.2",
+            "pli": "hirī ottappiyaṁ balaṁ; ",
+            "en": "<span class=\"ebt-matched\">conscience and prudence</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n1. Wealth\n4. Powers in Detail",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 42,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.6",
+        "lang": "en",
+        "segMap": {
+          "an7.6:1.3": {
+            "scid": "an7.6:1.3",
+            "pli": "Saddhādhanaṁ, sīladhanaṁ, hirīdhanaṁ, ottappadhanaṁ, sutadhanaṁ, cāgadhanaṁ, paññādhanaṁ. ",
+            "en": "The wealth of faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom. ",
+            "matched": true
+          },
+          "an7.6:10.2": {
+            "scid": "an7.6:10.2",
+            "pli": "hirī ottappiyaṁ dhanaṁ; ",
+            "en": "as are <span class=\"ebt-matched\">conscience and prudence</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n1. Wealth\n6. Wealth in Detail",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 42,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.73_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.73_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.73",
+        "lang": "en",
+        "segMap": {
+          "an4.73:9.1": {
+            "scid": "an4.73:9.1",
+            "pli": "Seyyathāpi, bhikkhave, vadhukā yaññadeva rattiṁ vā divaṁ vā ānītā hoti, tāvadevassā tibbaṁ hirottappaṁ paccupaṭṭhitaṁ hoti sassuyāpi sasurepi sāmikepi antamaso dāsakammakaraporisesu. ",
+            "en": "It’s like a bride on the day or night she’s first brought to her husband’s home. Right away she sets up a keen sense of <span class=\"ebt-matched\">conscience and prudence</span> for her mother and father in law, her husband, and even the bondservants, workers, and staff. ",
+            "matched": true
+          },
+          "an4.73:9.4": {
+            "scid": "an4.73:9.4",
+            "pli": "Evamevaṁ kho, bhikkhave, idhekacco bhikkhu yaññadeva rattiṁ vā divaṁ vā agārasmā anagāriyaṁ pabbajito hoti, tāvadevassa tibbaṁ hirottappaṁ paccupaṭṭhitaṁ hoti bhikkhūsu bhikkhunīsu upāsakesu upāsikāsu antamaso ārāmikasamaṇuddesesu. ",
+            "en": "In the same way, on the day or night a mendicant first goes forth from the lay life to homelessness, right away they set up a keen sense of <span class=\"ebt-matched\">conscience and prudence</span> for the monks, nuns, laymen, and laywomen, and even the monastery workers and novices. ",
+            "matched": true
+          }
+        },
+        "score": 2.047,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n8. Guaranteed\n73. A Good Person",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 43,
+          "en": 42
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.87-97_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an2/an2.87-97_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.87-97",
+        "lang": "en",
+        "segMap": {
+          "an2.92:1.3": {
+            "scid": "an2.92:1.3",
+            "pli": "Ahirikañca anottappañca. ",
+            "en": "Lack of <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          },
+          "an2.93:1.3": {
+            "scid": "an2.93:1.3",
+            "pli": "Hirī ca ottappañca. ",
+            "en": "<span class=\"ebt-matched\">Conscience and prudence</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 2\n9. Two Things\n87–97",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 59,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.76_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.76_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.76",
+        "lang": "en",
+        "segMap": {
+          "an10.76:11.1": {
+            "scid": "an10.76:11.1",
+            "pli": "Ahirikoyaṁ, bhikkhave, anottāpī pamatto hoti. ",
+            "en": "Mendicants, someone who lacks <span class=\"ebt-matched\">conscience and prudence</span> is negligent. ",
+            "matched": true
+          },
+          "an10.76:21.1": {
+            "scid": "an10.76:21.1",
+            "pli": "Hirīmāyaṁ, bhikkhave, ottāpī appamatto hoti. ",
+            "en": "Mendicants, someone who has <span class=\"ebt-matched\">conscience and prudence</span> is diligent. ",
+            "matched": true
+          }
+        },
+        "score": 2.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n8. If You Want\n76. Three Things",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 101,
+          "en": 100
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn66_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn66_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn66",
+        "lang": "en",
+        "segMap": {
+          "mn66:6.9": {
+            "scid": "mn66:6.9",
+            "pli": "Te mayaṁ, bhante, bhagavati pemañca gāravañca hiriñca ottappañca sampassamānā evaṁ taṁ divāvikālabhojanaṁ pajahimhā. ",
+            "en": "But when we considered our love and respect for the Buddha, and our sense of <span class=\"ebt-matched\">conscience and prudence</span>, we gave up that meal at the wrong time of day. ",
+            "matched": true
+          },
+          "mn66:6.18": {
+            "scid": "mn66:6.18",
+            "pli": "Te mayaṁ, bhante, bhagavati pemañca gāravañca hiriñca ottappañca sampassamānā evaṁ taṁ rattiṁvikālabhojanaṁ pajahimhā. ",
+            "en": "But when we considered our love and respect for the Buddha, and our sense of <span class=\"ebt-matched\">conscience and prudence</span>, we gave up that meal at the wrong time of night. ",
+            "matched": true
+          }
+        },
+        "score": 2.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 66\nThe Simile of the Quail",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 202,
+          "en": 201
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.230-279_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an2/an2.230-279_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.230-279",
+        "lang": "en",
+        "segMap": {
+          "an2.230-279:1.3": {
+            "scid": "an2.230-279:1.3",
+            "pli": "Akkodho ca anupanāho ca … amakkho ca apaḷāso ca … anissā ca amacchariyañca … amāyā ca asāṭheyyañca … hirī ca ottappañca. ",
+            "en": "Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … <span class=\"ebt-matched\">conscience and prudence</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 2\n17. Abbreviated Texts Beginning with the Unskillful\n230–279",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga5/iti42_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga5/iti42_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti42",
+        "lang": "en",
+        "segMap": {
+          "iti42:2.3": {
+            "scid": "iti42:2.3",
+            "pli": "Hirī ca, ottappañca.",
+            "en": "<span class=\"ebt-matched\">Conscience and prudence</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Twos\nChapter Two\n42. Bright Things",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn16/sn16.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn16/sn16.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn16.11",
+        "lang": "en",
+        "segMap": {
+          "sn16.11:10.2": {
+            "scid": "sn16.11:10.2",
+            "pli": "“tibbaṁ me hirottappaṁ paccupaṭṭhitaṁ bhavissati theresu navesu majjhimesū”ti. ",
+            "en": "“I will set up a keen sense of <span class=\"ebt-matched\">conscience and prudence</span> for seniors, juniors, and those in the middle.” ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 16\n1. Kassapa\n11. Robes",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 79,
+          "en": 78
+        }
+      }
+    ]
+  }
+}

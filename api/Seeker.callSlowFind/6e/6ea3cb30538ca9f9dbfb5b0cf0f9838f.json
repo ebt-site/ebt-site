@@ -1,0 +1,323 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "gerechter könig, der sich an grundsätze",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "gerechter könig, der sich an grundsätze",
+    "method": "phrase",
+    "resultPattern": "\\bgerechter könig, der sich an grundsätze",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.133_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.133_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.133_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.14_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.14_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.14_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn18_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn18_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn18_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.133/de/sabbamitta",
+      "dn30/de/sabbamitta",
+      "an3.14/de/sabbamitta",
+      "dn18/de/sabbamitta",
+      "dn17/de/sabbamitta",
+      "dn14/de/sabbamitta",
+      "an7.66/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.133_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.133_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.133_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.133",
+        "lang": "de",
+        "segMap": {
+          "an5.133:1.1": {
+            "scid": "an5.133:1.1",
+            "pli": "“Yopi so, bhikkhave, rājā cakkavattī dhammiko dhammarājā, sopi na arājakaṁ cakkaṁ vattetī”ti. ",
+            "de": "„Mönche und Nonnen, selbst ein Rad-drehender Herrscher, ein <span class=\"ebt-matched\">gerechter König, der sich an Grundsätze</span> hält, übt seine Macht nicht aus, ohne einen König über sich zu haben.“ ",
+            "en": "“Mendicants, even a wheel-turning monarch, a just and principled king, does not wield power without having their own king.” ",
+            "matched": true
+          },
+          "an5.133:4.1": {
+            "scid": "an5.133:4.1",
+            "pli": "Evamevaṁ kho, bhikkhu, tathāgato arahaṁ sammāsambuddho dhammiko dhammarājā dhammaññeva nissāya dhammaṁ sakkaronto dhammaṁ garuṁ karonto dhammaṁ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṁ rakkhāvaraṇaguttiṁ saṁvidahati bhikkhūsu: ",
+            "de": "Ebenso, Mönch, stellt ein Klargewordener, ein Vollendeter, ein vollkommen erwachter Buddha, ein <span class=\"ebt-matched\">gerechter König, der sich an Grundsätze</span> hält, den Mönchen gerechten Schutz und Sicherheit bereit, indem er sich nur auf natürliche Gesetzmäßigkeiten stützt; er erkennt natürliche Gesetzmäßigkeiten an, ehrt und achtet sie und hält sie hoch, natürliche Gesetzmäßigkeiten sind seine Fahne, sein Banner und seine Autorität: ",
+            "en": "In the same way, monk, a Realized One, a perfected one, a fully awakened Buddha, a just and principled king, provides just protection and security for the monks, relying only on principle—honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ",
+            "matched": true
+          },
+          "an5.133:5.1": {
+            "scid": "an5.133:5.1",
+            "pli": "Puna caparaṁ, bhikkhu, tathāgato arahaṁ sammāsambuddho dhammiko dhammarājā dhammaññeva nissāya dhammaṁ sakkaronto dhammaṁ garuṁ karonto dhammaṁ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṁ rakkhāvaraṇaguttiṁ saṁvidahati bhikkhunīsu …pe… upāsakesu …pe… upāsikāsu: ",
+            "de": "Ebenso, Mönch, stellt ein Klargewordener, ein Vollendeter, ein vollkommen erwachter Buddha, ein <span class=\"ebt-matched\">gerechter König, der sich an Grundsätze</span> hält, den Nonnen … den Laienmännern … und Laienfrauen gerechten Schutz und Sicherheit bereit, indem er sich nur auf natürliche Gesetzmäßigkeiten stützt; er erkennt natürliche Gesetzmäßigkeiten an, ehrt und achtet sie und hält sie hoch, natürliche Gesetzmäßigkeiten sind seine Fahne, sein Banner und seine Autorität: ",
+            "en": "In the same way, monk, a Realized One, a perfected one, a fully awakened Buddha, a just and principled king, provides just protection and security for the nuns … laymen … laywomen, relying only on principle—honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ",
+            "matched": true
+          }
+        },
+        "score": 3.115,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n14. Könige\n133. Ein König, der sich an Grundsätze hält",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 26,
+          "de": 25,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.14_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.14_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.14_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.14",
+        "lang": "de",
+        "segMap": {
+          "an3.14:1.1": {
+            "scid": "an3.14:1.1",
+            "pli": "“Yopi so, bhikkhave, rājā cakkavattī dhammiko dhammarājā sopi na arājakaṁ cakkaṁ vattetī”ti. ",
+            "de": "„Mönche und Nonnen, selbst ein Rad-drehender Herrscher, ein <span class=\"ebt-matched\">gerechter König, der sich an Grundsätze</span> hält, übt seine Macht nicht aus, ohne einen König über sich zu haben.“ ",
+            "en": "“Mendicants, even a wheel-turning monarch, a just and principled king, does not wield power without having their own king.” ",
+            "matched": true
+          },
+          "an3.14:3.1": {
+            "scid": "an3.14:3.1",
+            "pli": "Evamevaṁ kho, bhikkhu, tathāgato arahaṁ sammāsambuddho dhammiko dhammarājā dhammaṁyeva nissāya dhammaṁ sakkaronto dhammaṁ garuṁ karonto dhammaṁ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṁ rakkhāvaraṇaguttiṁ saṁvidahati kāyakammasmiṁ: ",
+            "de": "Ebenso, Mönch, stellt ein Klargewordener, ein Vollendeter, ein vollkommen erwachter Buddha, ein <span class=\"ebt-matched\">gerechter König, der sich an Grundsätze</span> hält, gerechten Schutz und Sicherheit in Bezug auf körperliche Handlungen bereit, indem er sich nur auf natürliche Gesetzmäßigkeiten stützt; er erkennt natürliche Gesetzmäßigkeiten an, ehrt und achtet sie und hält sie hoch, natürliche Gesetzmäßigkeiten sind seine Fahne, sein Banner und seine Autorität: ",
+            "en": "In the same way, monk, a Realized One, a perfected one, a fully awakened Buddha, a just and principled king, provides just protection and security regarding bodily actions, relying only on principle—honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ",
+            "matched": true
+          }
+        },
+        "score": 2.105,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n2. Der Wagenbauer\n14. Der Rad-drehende Herrscher",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 19,
+          "de": 18,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn30",
+        "lang": "de",
+        "segMap": {
+          "dn30:1.1.8": {
+            "scid": "dn30:1.1.8",
+            "pli": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
+            "de": "Wenn er im Haus bleibt, wird er ein König, ein Rad-drehender Herrscher, ein <span class=\"ebt-matched\">gerechter König, der sich an Grundsätze</span> hält. Sein Herrschaftsgebiet erstreckt sich nach allen vier Seiten bis zum Ende, er macht das Land sicher und er besitzt die sieben Juwelen. ",
+            "en": "If he stays at home he becomes a king, a wheel-turning monarch, a just and principled king. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "matched": true
+          },
+          "dn30:2.29.1": {
+            "scid": "dn30:2.29.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
+            "de": "Da er diese Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein König, ein Rad-drehender Herrscher, ein <span class=\"ebt-matched\">gerechter König, der sich an Grundsätze</span> hält. Sein Herrschaftsgebiet erstreckt sich nach allen vier Seiten bis zum Ende, er macht das Land sicher und er besitzt die sieben Juwelen. ",
+            "en": "Possessing these marks, if he stays at home he becomes a king, a wheel-turning monarch, a just and principled king. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "matched": true
+          }
+        },
+        "score": 2.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 30\nKennzeichen eines großen Mannes",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 721,
+          "de": 716,
+          "en": 720
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.66",
+        "lang": "de",
+        "segMap": {
+          "an7.66:13.7": {
+            "scid": "an7.66:13.7",
+            "pli": "Anekasatakkhattuṁ rājā ahosi cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
+            "de": "Viele hundert Male war er ein König, ein Rad-drehender Herrscher, ein <span class=\"ebt-matched\">gerechter König, der sich an Grundsätze</span> hält. Sein Herrschaftsgebiet erstreckte sich nach allen vier Seiten bis zum Ende, er machte das Land sicher und er besaß die sieben Juwelen. ",
+            "en": "Many hundreds of times he was a king, a wheel-turning monarch, a just and principled king. His dominion extended to all four sides, he achieved stability in the country, and he possessed the seven treasures. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 7\n7. Das große Kapitel\n66. Die sieben Sonnen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 95,
+          "de": 89,
+          "en": 94
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn18_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn18_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn18_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn18",
+        "lang": "de",
+        "segMap": {
+          "dn18:4.7": {
+            "scid": "dn18:4.7",
+            "pli": "Ayaṁ kho panāpi ahosi rājā māgadho seniyo bimbisāro dhammiko dhammarājā hito brāhmaṇagahapatikānaṁ negamānañceva jānapadānañca. ",
+            "de": "Dieser König Seniya Bimbisāra von Magadha war ein <span class=\"ebt-matched\">gerechter König, der sich an Grundsätze</span> hielt, der den Brahmanen und Hausbesitzern aus Stadt und Land Gutes tat. ",
+            "en": "That King Seniya Bimbisāra of Magadha was a just and principled king who benefited the brahmins and householders of town and country. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 18\nMit Janavasabha\n1. Bekanntgabe, wo Menschen aus Nādika und anderen Orten wiedergeboren wurden",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 299,
+          "de": 255,
+          "en": 298
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn17",
+        "lang": "de",
+        "segMap": {
+          "dn17:2.17.1": {
+            "scid": "dn17:2.17.1",
+            "pli": "Chakkhattuṁ kho panāhaṁ, ānanda, abhijānāmi imasmiṁ padese sarīraṁ nikkhipitaṁ, tañca kho rājāva samāno cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato, ayaṁ sattamo sarīranikkhepo. ",
+            "de": "Ānanda, ich erinnere mich, dass ich sechsmal an dieser Stelle meinen Körper niedergelegt habe. Und beim siebten Mal geschah es als ein Rad-drehender Herrscher, ein <span class=\"ebt-matched\">gerechter König, der sich an Grundsätze</span> hielt, dessen Herrschaftsgebiet sich nach allen vier Seiten bis zum Ende erstreckte, der das Land sicher machte und die sieben Juwelen besaß. ",
+            "en": "Six times, Ānanda, I recall having laid down my body at this place. And the seventh time was as a wheel-turning monarch, a just and principled king, at which time my dominion extended to all four sides, I achieved stability in the country, and I possessed the seven treasures. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 17\nDer König Mahāsudassana",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 444,
+          "de": 359,
+          "en": 443
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn14",
+        "lang": "de",
+        "segMap": {
+          "dn14:1.31.8": {
+            "scid": "dn14:1.31.8",
+            "pli": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
+            "de": "Wenn er im Haus bleibt, wird er ein König, ein Rad-drehender Herrscher, ein <span class=\"ebt-matched\">gerechter König, der sich an Grundsätze</span> hält. Sein Herrschaftsgebiet erstreckt sich nach allen vier Seiten bis zum Ende, er macht das Land sicher und er besitzt die sieben Juwelen. ",
+            "en": "If he stays at home he becomes a king, a wheel-turning monarch, a just and principled king. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 14\nDie große Lehrrede über die Ernte aus den Taten\n1. Von früheren Leben",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 851,
+          "de": 689,
+          "en": 850
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "element of",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "element of",
+    "method": "phrase",
+    "resultPattern": "\\belement of",
+    "segsMatched": 30,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn14/sn14.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn14/sn14.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn14/sn14.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn14/sn14.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.38_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.38_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.47_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.47_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn14/sn14.13_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn14/sn14.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga6/iti51_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga6/iti51_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.41_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.41_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.111_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.111_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn14.11/en/sujato",
+      "sn14.12/en/sujato",
+      "an6.38/en/sujato",
+      "sn22.47/en/sujato",
+      "sn14.13/en/sujato",
+      "iti51/en/sujato",
+      "an6.41/en/sujato",
+      "an6.111/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn14/sn14.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn14/sn14.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn14.11",
+        "lang": "en",
+        "segMap": {
+          "sn14.11:1.4": {
+            "scid": "sn14.11:1.4",
+            "pli": "Ābhādhātu, subhadhātu, ākāsānañcāyatanadhātu, viññāṇañcāyatanadhātu, ākiñcaññāyatanadhātu, nevasaññānāsaññāyatanadhātu, saññāvedayitanirodhadhātu—",
+            "en": "The <span class=\"ebt-matched\">element of</span> light, the <span class=\"ebt-matched\">element of</span> beauty, the <span class=\"ebt-matched\">element of</span> the dimension of infinite space, the <span class=\"ebt-matched\">element of</span> the dimension of infinite consciousness, the <span class=\"ebt-matched\">element of</span> the dimension of nothingness, the <span class=\"ebt-matched\">element of</span> the dimension of neither perception nor non-perception, and the <span class=\"ebt-matched\">element of</span> the cessation of perception and feeling. ",
+            "matched": true
+          },
+          "sn14.11:2.2": {
+            "scid": "sn14.11:2.2",
+            "pli": "“yā cāyaṁ, bhante, ābhādhātu yā ca subhadhātu yā ca ākāsānañcāyatanadhātu yā ca viññāṇañcāyatanadhātu yā ca ākiñcaññāyatanadhātu yā ca nevasaññānāsaññāyatanadhātu yā ca saññāvedayitanirodhadhātu—imā nu kho, bhante, dhātuyo kiṁ paṭicca paññāyantī”ti? ",
+            "en": "“Sir, due to what does each of these elements appear?” ",
+            "matched": true
+          },
+          "sn14.11:3.1": {
+            "scid": "sn14.11:3.1",
+            "pli": "“Yāyaṁ, bhikkhu, ābhādhātu—ayaṁ dhātu andhakāraṁ paṭicca paññāyati. ",
+            "en": "“Mendicant, the <span class=\"ebt-matched\">element of</span> light appears due to the <span class=\"ebt-matched\">element of</span> darkness. ",
+            "matched": true
+          },
+          "sn14.11:3.2": {
+            "scid": "sn14.11:3.2",
+            "pli": "Yāyaṁ, bhikkhu, subhadhātu—ayaṁ dhātu asubhaṁ paṭicca paññāyati. ",
+            "en": "The <span class=\"ebt-matched\">element of</span> beauty appears due to the <span class=\"ebt-matched\">element of</span> ugliness. ",
+            "matched": true
+          },
+          "sn14.11:3.3": {
+            "scid": "sn14.11:3.3",
+            "pli": "Yāyaṁ, bhikkhu, ākāsānañcāyatanadhātu—ayaṁ dhātu rūpaṁ paṭicca paññāyati. ",
+            "en": "The <span class=\"ebt-matched\">element of</span> the dimension of infinite space appears due to the <span class=\"ebt-matched\">element of</span> form. ",
+            "matched": true
+          },
+          "sn14.11:3.4": {
+            "scid": "sn14.11:3.4",
+            "pli": "Yāyaṁ, bhikkhu, viññāṇañcāyatanadhātu—ayaṁ dhātu ākāsānañcāyatanaṁ paṭicca paññāyati. ",
+            "en": "The <span class=\"ebt-matched\">element of</span> the dimension of infinite consciousness appears due to the <span class=\"ebt-matched\">element of</span> the dimension of infinite space. ",
+            "matched": true
+          },
+          "sn14.11:3.5": {
+            "scid": "sn14.11:3.5",
+            "pli": "Yāyaṁ, bhikkhu, ākiñcaññāyatanadhātu—ayaṁ dhātu viññāṇañcāyatanaṁ paṭicca paññāyati. ",
+            "en": "The <span class=\"ebt-matched\">element of</span> the dimension of nothingness appears due to the <span class=\"ebt-matched\">element of</span> the dimension of infinite consciousness. ",
+            "matched": true
+          },
+          "sn14.11:3.6": {
+            "scid": "sn14.11:3.6",
+            "pli": "Yāyaṁ, bhikkhu, nevasaññānāsaññāyatanadhātu—ayaṁ dhātu ākiñcaññāyatanaṁ paṭicca paññāyati. ",
+            "en": "The <span class=\"ebt-matched\">element of</span> the dimension of neither perception nor non-perception appears due to the <span class=\"ebt-matched\">element of</span> the dimension of nothingness. ",
+            "matched": true
+          },
+          "sn14.11:3.7": {
+            "scid": "sn14.11:3.7",
+            "pli": "Yāyaṁ, bhikkhu, saññāvedayitanirodhadhātu—ayaṁ dhātu nirodhaṁ paṭicca paññāyatī”ti. ",
+            "en": "The <span class=\"ebt-matched\">element of</span> the cessation of perception and feeling appears due to the <span class=\"ebt-matched\">element of</span> cessation.” ",
+            "matched": true
+          },
+          "sn14.11:4.1": {
+            "scid": "sn14.11:4.1",
+            "pli": "“Yā cāyaṁ, bhante, ābhādhātu yā ca subhadhātu yā ca ākāsānañcāyatanadhātu yā ca viññāṇañcāyatanadhātu yā ca ākiñcaññāyatanadhātu yā ca nevasaññānāsaññāyatanadhātu yā ca saññāvedayitanirodhadhātu—imā nu kho, bhante, dhātuyo kathaṁ samāpatti pattabbā”ti? ",
+            "en": "“Sir, how is each of these elements to be attained?” ",
+            "matched": true
+          },
+          "sn14.11:5.1": {
+            "scid": "sn14.11:5.1",
+            "pli": "“Yā cāyaṁ, bhikkhu, ābhādhātu yā ca subhadhātu yā ca ākāsānañcāyatanadhātu yā ca viññāṇañcāyatanadhātu yā ca ākiñcaññāyatanadhātu—imā dhātuyo saññāsamāpatti pattabbā. ",
+            "en": "“The elements of light, beauty, the dimension of infinite space, the dimension of infinite consciousness, and the dimension of nothingness are attainments with perception. ",
+            "matched": true
+          },
+          "sn14.11:5.2": {
+            "scid": "sn14.11:5.2",
+            "pli": "Yāyaṁ, bhikkhu, nevasaññānāsaññāyatanadhātu—ayaṁ dhātu saṅkhārāvasesasamāpatti pattabbā. ",
+            "en": "The <span class=\"ebt-matched\">element of</span> the dimension of neither perception nor non-perception is an attainment with only a residue of conditioned phenomena. ",
+            "matched": true
+          },
+          "sn14.11:5.3": {
+            "scid": "sn14.11:5.3",
+            "pli": "Yāyaṁ, bhikkhu, saññāvedayitanirodhadhātu—ayaṁ dhātu nirodhasamāpatti pattabbā”ti. ",
+            "en": "The <span class=\"ebt-matched\">element of</span> the cessation of perception and feeling is an attainment of cessation.” ",
+            "matched": true
+          }
+        },
+        "score": 13.591,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 14\nChapter Two\n11. Seven Elements",
+        "segsMatched": 13,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn14/sn14.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn14/sn14.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn14.12",
+        "lang": "en",
+        "segMap": {
+          "sn14.12:2.2": {
+            "scid": "sn14.12:2.2",
+            "pli": "Kāmadhātuṁ, bhikkhave, paṭicca uppajjati kāmasaññā, kāmasaññaṁ paṭicca uppajjati kāmasaṅkappo, kāmasaṅkappaṁ paṭicca uppajjati kāmacchando, kāmacchandaṁ paṭicca uppajjati kāmapariḷāho, kāmapariḷāhaṁ paṭicca uppajjati kāmapariyesanā. ",
+            "en": "The <span class=\"ebt-matched\">element of</span> sensuality gives rise to sensual perceptions. Sensual perceptions give rise to sensual thoughts. Sensual thoughts give rise to sensual desires. Sensual desires give rise to sensual passions. Sensual passions give rise to searches for sensual pleasures. ",
+            "matched": true
+          },
+          "sn14.12:3.1": {
+            "scid": "sn14.12:3.1",
+            "pli": "Byāpādadhātuṁ, bhikkhave, paṭicca uppajjati byāpādasaññā, byāpādasaññaṁ paṭicca uppajjati byāpādasaṅkappo …pe… byāpādacchando … byāpādapariḷāho … byāpādapariyesanā … ",
+            "en": "The <span class=\"ebt-matched\">element of</span> malice gives rise to malicious perceptions. Malicious perceptions give rise to malicious thoughts. … malicious desires … malicious passions … malicious searches … ",
+            "matched": true
+          },
+          "sn14.12:4.1": {
+            "scid": "sn14.12:4.1",
+            "pli": "Vihiṁsādhātuṁ, bhikkhave, paṭicca uppajjati vihiṁsāsaññā; vihiṁsāsaññaṁ paṭicca uppajjati vihiṁsāsaṅkappo …pe… vihiṁsāchando … vihiṁsāpariḷāho … vihiṁsāpariyesanā … ",
+            "en": "The <span class=\"ebt-matched\">element of</span> cruelty gives rise to cruel perceptions. Cruel perceptions give rise to cruel thoughts. … cruel desires … cruel passions … cruel searches … ",
+            "matched": true
+          },
+          "sn14.12:7.2": {
+            "scid": "sn14.12:7.2",
+            "pli": "Nekkhammadhātuṁ, bhikkhave, paṭicca uppajjati nekkhammasaññā, ",
+            "en": "The <span class=\"ebt-matched\">element of</span> renunciation gives rise to perceptions of renunciation. ",
+            "matched": true
+          },
+          "sn14.12:8.1": {
+            "scid": "sn14.12:8.1",
+            "pli": "Abyāpādadhātuṁ, bhikkhave, paṭicca uppajjati abyāpādasaññā, ",
+            "en": "The <span class=\"ebt-matched\">element of</span> good will gives rise to perceptions of good will. ",
+            "matched": true
+          },
+          "sn14.12:9.1": {
+            "scid": "sn14.12:9.1",
+            "pli": "Avihiṁsādhātuṁ, bhikkhave, paṭicca uppajjati avihiṁsāsaññā, ",
+            "en": "The <span class=\"ebt-matched\">element of</span> harmlessness gives rise to harmlessness perceptions. ",
+            "matched": true
+          }
+        },
+        "score": 6.154,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 14\nChapter Two\n12. With a Cause",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 39,
+          "en": 38
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.38_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.38_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.38",
+        "lang": "en",
+        "segMap": {
+          "an6.38:2.1": {
+            "scid": "an6.38:2.1",
+            "pli": "Taṁ kiṁ maññasi, brāhmaṇa, atthi ārabbhadhātū”ti? ",
+            "en": "What do you think, brahmin, is there an <span class=\"ebt-matched\">element of</span> initiative?” ",
+            "matched": true
+          },
+          "an6.38:2.5": {
+            "scid": "an6.38:2.5",
+            "pli": "“Yaṁ kho, brāhmaṇa, ārabbhadhātuyā sati ārabbhavanto sattā paññāyanti, ayaṁ sattānaṁ attakāro ayaṁ parakāro. ",
+            "en": "“Since there is an <span class=\"ebt-matched\">element of</span> initiative, and sentient beings who initiate activity are found, sentient beings act of their own volition or that of another. ",
+            "matched": true
+          },
+          "an6.38:3.1": {
+            "scid": "an6.38:3.1",
+            "pli": "Taṁ kiṁ maññasi, brāhmaṇa, atthi nikkamadhātu …pe… ",
+            "en": "What do you think, brahmin, is there an <span class=\"ebt-matched\">element of</span> persistence … ",
+            "matched": true
+          },
+          "an6.38:3.9": {
+            "scid": "an6.38:3.9",
+            "pli": "“Yaṁ kho, brāhmaṇa, upakkamadhātuyā sati upakkamavanto sattā paññāyanti, ayaṁ sattānaṁ attakāro ayaṁ parakāro. ",
+            "en": "“Since there is an <span class=\"ebt-matched\">element of</span> energy, and sentient beings who have energy are found, sentient beings act of their own volition or that of another. ",
+            "matched": true
+          }
+        },
+        "score": 4.133,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n4. Deities\n38. One’s Own Volition",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 30,
+          "en": 29
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.111_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.111_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.111",
+        "lang": "en",
+        "segMap": {
+          "an6.111:1.3": {
+            "scid": "an6.111:1.3",
+            "pli": "Kāmadhātu, byāpādadhātu, vihiṁsādhātu. ",
+            "en": "The elements of sensuality, malice, and cruelty. ",
+            "matched": true
+          },
+          "an6.111:1.7": {
+            "scid": "an6.111:1.7",
+            "pli": "Kāmadhātuyā pahānāya nekkhammadhātu bhāvetabbā, byāpādadhātuyā pahānāya abyāpādadhātu bhāvetabbā, vihiṁsādhātuyā pahānāya avihiṁsādhātu bhāvetabbā. ",
+            "en": "You should develop the <span class=\"ebt-matched\">element of</span> renunciation to give up the <span class=\"ebt-matched\">element of</span> sensuality, the <span class=\"ebt-matched\">element of</span> good will to give up the <span class=\"ebt-matched\">element of</span> malice, and the <span class=\"ebt-matched\">element of</span> harmlessness to give up the <span class=\"ebt-matched\">element of</span> cruelty. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n11. Triads\n111. Elements",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga6/iti51_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga6/iti51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti51",
+        "lang": "en",
+        "segMap": {
+          "iti51:2.3": {
+            "scid": "iti51:2.3",
+            "pli": "Rūpadhātu, arūpadhātu, nirodhadhātu—",
+            "en": "The elements of form, formlessness, and cessation. ",
+            "matched": true
+          },
+          "iti51:3.1": {
+            "scid": "iti51:3.1",
+            "pli": "“Rūpadhātuṁ pariññāya,",
+            "en": "“Comprehending the <span class=\"ebt-matched\">element of</span> form, ",
+            "matched": true
+          }
+        },
+        "score": 2.087,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Threes\nChapter One\n51. Elements",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.41_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.41_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.41",
+        "lang": "en",
+        "segMap": {
+          "an6.41:2.10": {
+            "scid": "an6.41:2.10",
+            "pli": "Atthi, āvuso, amumhi dārukkhandhe asubhadhātu, yaṁ nissāya bhikkhu iddhimā cetovasippatto amuṁ dārukkhandhaṁ asubhantveva adhimucceyyā”ti. ",
+            "en": "Because the <span class=\"ebt-matched\">element of</span> ugliness exists in the tree trunk. Relying on that a mendicant with psychic powers could determine it to be nothing but ugly.” ",
+            "matched": true
+          }
+        },
+        "score": 1.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n4. Deities\n41. A Tree Trunk",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 20,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn14/sn14.13_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn14/sn14.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn14.13",
+        "lang": "en",
+        "segMap": {
+          "sn14.13:3.1": {
+            "scid": "sn14.13:3.1",
+            "pli": "“Mahati kho esā, kaccāna, dhātu yadidaṁ avijjādhātu. ",
+            "en": "“It’s a mighty thing, Kaccāna, the <span class=\"ebt-matched\">element of</span> ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 14\nChapter Two\n13. In the Brick Hall",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.47_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.47_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.47",
+        "lang": "en",
+        "segMap": {
+          "sn22.47:2.4": {
+            "scid": "sn22.47:2.4",
+            "pli": "Atthi, bhikkhave, mano, atthi dhammā, atthi avijjādhātu. ",
+            "en": "The mind, thoughts, and the <span class=\"ebt-matched\">element of</span> ignorance are all present. ",
+            "matched": true
+          }
+        },
+        "score": 1.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n5. Be Your Own Island\n47. Ways of Regarding",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      }
+    ]
+  }
+}

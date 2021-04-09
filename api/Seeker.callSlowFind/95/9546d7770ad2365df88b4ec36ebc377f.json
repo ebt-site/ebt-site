@@ -1,0 +1,176 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "blind from birth",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "blind from birth",
+    "method": "phrase",
+    "resultPattern": "\\bblind from birth",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn99_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn99_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn75_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn75_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga6/ud6.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga6/ud6.4_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn23/en/sujato",
+      "mn99/en/sujato",
+      "mn75/en/sujato",
+      "ud6.4/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "en",
+        "segMap": {
+          "dn23:11.15.0": {
+            "scid": "dn23:11.15.0",
+            "pli": "2.5. Jaccandhaupamā ",
+            "en": "2.5. <span class=\"ebt-matched\">Blind From Birth</span> ",
+            "matched": true
+          },
+          "dn23:11.16": {
+            "scid": "dn23:11.16",
+            "pli": "“Seyyathāpi, rājañña, jaccandho puriso na passeyya kaṇha—sukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakāni rūpāni, na passeyya candimasūriye. ",
+            "en": "“Chieftain, suppose there was a person <span class=\"ebt-matched\">blind from birth</span>. They couldn’t see sights that are dark or bright, or blue, yellow, red, or magenta. They couldn’t see even and uneven ground, or the stars, or the moon and sun. ",
+            "matched": true
+          }
+        },
+        "score": 2.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 23\nWith Pāyāsi",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 715,
+          "en": 713
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga6/ud6.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga6/ud6.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud6.4",
+        "lang": "en",
+        "segMap": {
+          "ud6.4:17.3": {
+            "scid": "ud6.4:17.3",
+            "pli": "‘ehi tvaṁ, ambho purisa, yāvatakā sāvatthiyā jaccandhā te sabbe ekajjhaṁ sannipātehī’ti.",
+            "en": "‘Please, mister, gather all those <span class=\"ebt-matched\">blind from birth</span> throughout Sāvatthī and bring them together in one place.’",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\nFollowers of Other Paths (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 106,
+          "en": 88
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn75_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn75_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn75",
+        "lang": "en",
+        "segMap": {
+          "mn75:20.11": {
+            "scid": "mn75:20.11",
+            "pli": "api nu so jaccandho puriso jānanto passanto amuṁ telamalikataṁ sāhuḷicīraṁ paṭiggaṇheyya, paṭiggahetvā pārupeyya, pārupetvā attamano attamanavācaṁ nicchāreyya: ",
+            "en": "Did that person <span class=\"ebt-matched\">blind from birth</span> do this knowing and seeing, ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 75\nWith Māgaṇḍiya",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 263,
+          "en": 262
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn99_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn99_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn99",
+        "lang": "en",
+        "segMap": {
+          "mn99:12.1": {
+            "scid": "mn99:12.1",
+            "pli": "“Seyyathāpi, māṇava, jaccandho puriso na passeyya kaṇhasukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakarūpāni, na passeyya candimasūriye. ",
+            "en": "“Suppose there was a person <span class=\"ebt-matched\">blind from birth</span>. They couldn’t see sights that are dark or bright, or blue, yellow, red, or magenta. They couldn’t see even and uneven ground, or the stars, or the moon and sun. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 99\nWith Subha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 270,
+          "en": 269
+        }
+      }
+    ]
+  }
+}

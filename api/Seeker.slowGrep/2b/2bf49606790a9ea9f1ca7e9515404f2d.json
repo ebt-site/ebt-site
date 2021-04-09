@@ -1,0 +1,21 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bnine things should be developed",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an9/an9.94_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an9/an9.93_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an9/an9.95-112_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an9/an9.113-432_translation-en-sujato.json:1"
+  ]
+}

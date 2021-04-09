@@ -1,0 +1,92 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "internal things",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "internal things",
+    "method": "phrase",
+    "resultPattern": "\\binternal things",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn46/sn46.52_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.52_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn46.52/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.52_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.52_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.52",
+        "lang": "en",
+        "segMap": {
+          "sn46.52:9.10": {
+            "scid": "sn46.52:9.10",
+            "pli": "Yadapi, bhikkhave, ajjhattaṁ dhammesu vicikicchā tadapi nīvaraṇaṁ, yadapi bahiddhā dhammesu vicikicchā tadapi nīvaraṇaṁ. ",
+            "en": "Doubt about <span class=\"ebt-matched\">internal things</span> is a hindrance; and doubt about external things is also a hindrance. ",
+            "matched": true
+          },
+          "sn46.52:10.2": {
+            "scid": "sn46.52:10.2",
+            "pli": "Yadapi, bhikkhave, ajjhattaṁ dhammesu sati tadapi satisambojjhaṅgo, yadapi bahiddhā dhammesu sati tadapi satisambojjhaṅgo. ",
+            "en": "Mindfulness of <span class=\"ebt-matched\">internal things</span> is the awakening factor of mindfulness; and mindfulness of external things is also the awakening factor of mindfulness. ",
+            "matched": true
+          },
+          "sn46.52:11.1": {
+            "scid": "sn46.52:11.1",
+            "pli": "Yadapi, bhikkhave, ajjhattaṁ dhammesu paññāya pavicinati pavicarati parivīmaṁsamāpajjati tadapi dhammavicayasambojjhaṅgo, yadapi bahiddhā dhammesu paññāya pavicinati pavicarati parivīmaṁsamāpajjati tadapi dhammavicayasambojjhaṅgo. ",
+            "en": "Investigating, exploring, and inquiring into <span class=\"ebt-matched\">internal things</span> with wisdom is the awakening factor of investigation of principles; and investigating, exploring, and inquiring into external things with wisdom is also the awakening factor of investigation of principles. ",
+            "matched": true
+          },
+          "sn46.52:16.1": {
+            "scid": "sn46.52:16.1",
+            "pli": "Yadapi, bhikkhave, ajjhattaṁ dhammesu upekkhā tadapi upekkhāsambojjhaṅgo, yadapi bahiddhā dhammesu upekkhā tadapi upekkhāsambojjhaṅgo. ",
+            "en": "Equanimity for <span class=\"ebt-matched\">internal things</span> is the awakening factor of equanimity; and equanimity for external things is also the awakening factor of equanimity. ",
+            "matched": true
+          }
+        },
+        "score": 4.062,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 46\n6. Discussion\n52. Is There a Way?",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 65,
+          "en": 64
+        }
+      }
+    ]
+  }
+}

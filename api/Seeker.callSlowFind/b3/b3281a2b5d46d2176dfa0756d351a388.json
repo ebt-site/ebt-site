@@ -1,0 +1,708 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "dreadful racket",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "dreadful racket",
+    "method": "phrase",
+    "resultPattern": "\\bdreadful racket",
+    "segsMatched": 33,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/kn/ud/vagga3/ud3.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga3/ud3.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn67_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn67_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.116_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.116_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn79_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn79_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.86_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.86_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.63_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.63_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.42_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.42_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.30_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.72_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.72_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.132_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.132_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn86_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn86_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn78_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn78_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn77_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn77_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn76_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn76_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn9_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn9_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.94_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.94_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.93_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.93_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "ud3.3/en/sujato",
+      "mn67/en/sujato",
+      "an10.116/en/sujato",
+      "mn79/en/sujato",
+      "dn25/en/sujato",
+      "an8.86/en/sujato",
+      "an7.63/en/sujato",
+      "an6.42/en/sujato",
+      "an5.30/en/sujato",
+      "an10.72/en/sujato",
+      "sn35.132/en/sujato",
+      "mn86/en/sujato",
+      "mn78/en/sujato",
+      "mn77/en/sujato",
+      "mn76/en/sujato",
+      "dn9/en/sujato",
+      "an10.94/en/sujato",
+      "an10.93/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga3/ud3.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga3/ud3.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud3.3",
+        "lang": "en",
+        "segMap": {
+          "ud3.3:1.4": {
+            "scid": "ud3.3:1.4",
+            "pli": "Tedha kho āgantukā bhikkhū nevāsikehi bhikkhūhi saddhiṁ paṭisammodamānā senāsanāni paññāpayamānā pattacīvarāni paṭisāmayamānā uccāsaddā mahāsaddā ahesuṁ.",
+            "en": "At that, those visiting mendicants, while exchanging pleasantries with the resident mendicants, preparing their lodgings, and putting away their bowls and robes, made a <span class=\"ebt-matched\">dreadful racket</span>. ",
+            "matched": true
+          },
+          "ud3.3:2.2": {
+            "scid": "ud3.3:2.2",
+            "pli": "“ke panete, ānanda, uccāsaddā mahāsaddā kevaṭṭā maññe macchavilope”ti?",
+            "en": "“Ānanda, who’s making that <span class=\"ebt-matched\">dreadful racket</span>? You’d think it was fishermen hauling in a catch!” ",
+            "matched": true
+          },
+          "ud3.3:2.4": {
+            "scid": "ud3.3:2.4",
+            "pli": "Tete āgantukā bhikkhū nevāsikehi bhikkhūhi saddhiṁ paṭisammodamānā senāsanāni paññāpayamānā pattacīvarāni paṭisāmayamānā uccāsaddā mahāsaddā”ti.",
+            "en": "It’s those visiting mendicants who, while exchanging pleasantries with the resident mendicants, preparing their lodgings, and putting away their bowls and robes, made a <span class=\"ebt-matched\">dreadful racket</span>.” ",
+            "matched": true
+          },
+          "ud3.3:4.1": {
+            "scid": "ud3.3:4.1",
+            "pli": "“Kiṁ nu tumhe, bhikkhave, uccāsaddā mahāsaddā, kevaṭṭā maññe macchavilope”ti?",
+            "en": "“Mendicants, what’s with that <span class=\"ebt-matched\">dreadful racket</span>? You’d think it was fishermen hauling in a catch!” ",
+            "matched": true
+          },
+          "ud3.3:4.4": {
+            "scid": "ud3.3:4.4",
+            "pli": "Teme āgantukā bhikkhū nevāsikehi bhikkhūhi saddhiṁ paṭisammodamānā senāsanāni paññāpayamānā pattacīvarāni paṭisāmayamānā uccāsaddā mahāsaddā”ti.",
+            "en": "It’s these visiting mendicants who, while exchanging pleasantries with the resident mendicants, preparing their lodgings, and putting away their bowls and robes, made a <span class=\"ebt-matched\">dreadful racket</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 5.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n3.3. With Yasoja",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 85,
+          "en": 69
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.116_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.116_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.116",
+        "lang": "en",
+        "segMap": {
+          "an10.116:5.2": {
+            "scid": "an10.116:5.2",
+            "pli": "Tena sā adhammikā parisā uccāsaddamahāsaddā hoti: ",
+            "en": "who make a <span class=\"ebt-matched\">dreadful racket</span>: ",
+            "matched": true
+          },
+          "an10.116:6.2": {
+            "scid": "an10.116:6.2",
+            "pli": "Tena sā adhammikā parisā uccāsaddamahāsaddā hoti: ",
+            "en": "who make a <span class=\"ebt-matched\">dreadful racket</span>: ",
+            "matched": true
+          },
+          "an10.116:7.2": {
+            "scid": "an10.116:7.2",
+            "pli": "Tena sā adhammikā parisā uccāsaddamahāsaddā hoti: ",
+            "en": "who make a <span class=\"ebt-matched\">dreadful racket</span>: ",
+            "matched": true
+          }
+        },
+        "score": 3.054,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n12. The Ceremony of Descent\n116. With Ajita",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 56,
+          "en": 55
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn67_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn67_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn67",
+        "lang": "en",
+        "segMap": {
+          "mn67:2.2": {
+            "scid": "mn67:2.2",
+            "pli": "Te ca āgantukā bhikkhū nevāsikehi bhikkhūhi saddhiṁ paṭisammodamānā senāsanāni paññāpayamānā pattacīvarāni paṭisāmayamānā uccāsaddā mahāsaddā ahesuṁ. ",
+            "en": "And the visiting mendicants, while exchanging pleasantries with the resident mendicants, preparing their lodgings, and putting away their bowls and robes, made a <span class=\"ebt-matched\">dreadful racket</span>. ",
+            "matched": true
+          },
+          "mn67:3.2": {
+            "scid": "mn67:3.2",
+            "pli": "“ke panete, ānanda, uccāsaddā mahāsaddā, kevaṭṭā maññe macchavilope”ti? ",
+            "en": "“Ānanda, who’s making that <span class=\"ebt-matched\">dreadful racket</span>? You’d think it was fishermen hauling in a catch!” ",
+            "matched": true
+          },
+          "mn67:4.6": {
+            "scid": "mn67:4.6",
+            "pli": "“kiṁ nu tumhe, bhikkhave, uccāsaddā mahāsaddā, kevaṭṭā maññe macchavilope”ti? ",
+            "en": "“Mendicants, what’s with that <span class=\"ebt-matched\">dreadful racket</span>? You’d think it was fishermen hauling in a catch!” ",
+            "matched": true
+          }
+        },
+        "score": 3.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 67\nAt Cātumā",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 129,
+          "en": 128
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.72_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.72_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.72",
+        "lang": "en",
+        "segMap": {
+          "an10.72:2.1": {
+            "scid": "an10.72:2.1",
+            "pli": "Tena kho pana samayena sambahulā abhiññātā abhiññātā licchavī bhadrehi bhadrehi yānehi parapurāya uccāsaddā mahāsaddā mahāvanaṁ ajjhogāhanti bhagavantaṁ dassanāya. ",
+            "en": "Now at that time several well-known Licchavis plunged deep into the Great Wood to see the Buddha. Driving a succession of fine carriages, they made a <span class=\"ebt-matched\">dreadful racket</span>. ",
+            "matched": true
+          },
+          "an10.72:2.3": {
+            "scid": "an10.72:2.3",
+            "pli": "“ime kho sambahulā abhiññātā abhiññātā licchavī bhadrehi bhadrehi yānehi parapurāya uccāsaddā mahāsaddā mahāvanaṁ ajjhogāhanti bhagavantaṁ dassanāya. ",
+            "en": "“These several well-known Licchavis have plunged deep into the Great Wood to see the Buddha. Driving a succession of fine carriages, they’re making a <span class=\"ebt-matched\">dreadful racket</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n8. If You Want\n72. Thorns",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 32,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.30",
+        "lang": "en",
+        "segMap": {
+          "an5.30:1.11": {
+            "scid": "an5.30:1.11",
+            "pli": "Atha kho icchānaṅgalakā brāhmaṇagahapatikā tassā rattiyā accayena pahūtaṁ khādanīyaṁ bhojanīyaṁ ādāya yena icchānaṅgalavanasaṇḍo tenupasaṅkamiṁsu; upasaṅkamitvā bahidvārakoṭṭhake aṭṭhaṁsu uccāsaddamahāsaddā. ",
+            "en": "Then, when the night had passed, they took many different foods and went to the forest near Icchānaṅgala, where they stood outside the gates making a <span class=\"ebt-matched\">dreadful racket</span>. ",
+            "matched": true
+          },
+          "an5.30:2.3": {
+            "scid": "an5.30:2.3",
+            "pli": "“ke pana kho, nāgita, uccāsaddamahāsaddā, kevaṭṭā maññe macchavilope”ti? ",
+            "en": "“Nāgita, who’s making that <span class=\"ebt-matched\">dreadful racket</span>? You’d think it was fishermen hauling in a catch!” ",
+            "matched": true
+          }
+        },
+        "score": 2.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n3. With Five Factors\n30. With Nāgita",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 48,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.42_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.42_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.42",
+        "lang": "en",
+        "segMap": {
+          "an6.42:1.9": {
+            "scid": "an6.42:1.9",
+            "pli": "Atha kho icchānaṅgalakā brāhmaṇagahapatikā tassā rattiyā accayena pahūtaṁ khādanīyaṁ bhojanīyaṁ ādāya yena icchānaṅgalavanasaṇḍo tenupasaṅkamiṁsu; upasaṅkamitvā bahidvārakoṭṭhake aṭṭhaṁsu uccāsaddā mahāsaddā. ",
+            "en": "Then, when the night had passed, they took many different foods and went to the forest near Icchānaṅgala, where they stood outside the gates making a <span class=\"ebt-matched\">dreadful racket</span>. ",
+            "matched": true
+          },
+          "an6.42:2.3": {
+            "scid": "an6.42:2.3",
+            "pli": "“ke pana te, nāgita, uccāsaddā mahāsaddā kevaṭṭā maññe macchavilope”ti? ",
+            "en": "“Nāgita, who’s making that <span class=\"ebt-matched\">dreadful racket</span>? You’d think it was fishermen hauling in a catch!” ",
+            "matched": true
+          }
+        },
+        "score": 2.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n4. Deities\n42. With Nāgita",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 60,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.86_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.86_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.86",
+        "lang": "en",
+        "segMap": {
+          "an8.86:2.1": {
+            "scid": "an8.86:2.1",
+            "pli": "Atha kho icchānaṅgalakā brāhmaṇagahapatikā tassā rattiyā accayena pahutaṁ khādanīyaṁ bhojanīyaṁ ādāya yena icchānaṅgalavanasaṇḍo tenupasaṅkamiṁsu; upasaṅkamitvā bahidvārakoṭṭhake aṭṭhaṁsu uccāsaddā mahāsaddā. ",
+            "en": "Then, when the night had passed, they took many different foods and went to the forest near Icchānaṅgala, where they stood outside the gates making a <span class=\"ebt-matched\">dreadful racket</span>. ",
+            "matched": true
+          },
+          "an8.86:2.4": {
+            "scid": "an8.86:2.4",
+            "pli": "“ke pana te, nāgita, uccāsaddā mahāsaddā kevaṭṭā maññe macchavilope”ti? ",
+            "en": "“Nāgita, who’s making that <span class=\"ebt-matched\">dreadful racket</span>? You’d think it was fishermen hauling in a catch!” ",
+            "matched": true
+          }
+        },
+        "score": 2.031,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n9. Mindfulness\n86. With Nāgita",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 65,
+          "en": 64
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.63_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.63_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.63",
+        "lang": "en",
+        "segMap": {
+          "an7.63:1.2": {
+            "scid": "an7.63:1.2",
+            "pli": "Tena kho pana samayena anāthapiṇḍikassa gahapatissa nivesane manussā uccāsaddā mahāsaddā honti. ",
+            "en": "Now at that time people in Anāthapiṇḍika’s home were making a <span class=\"ebt-matched\">dreadful racket</span>. ",
+            "matched": true
+          },
+          "an7.63:2.1": {
+            "scid": "an7.63:2.1",
+            "pli": "“Kiṁ nu te, gahapati, nivesane manussā uccāsaddā mahāsaddā kevaṭṭā maññe macchavilope”ti? ",
+            "en": "“Householder, what’s with the people making that <span class=\"ebt-matched\">dreadful racket</span> in your home? You’d think it was fishermen hauling in a catch!” ",
+            "matched": true
+          }
+        },
+        "score": 2.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n6. The Undeclared Points\n63. Kinds of Wives",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 69,
+          "en": 68
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn79_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn79_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn79",
+        "lang": "en",
+        "segMap": {
+          "mn79:3.1": {
+            "scid": "mn79:3.1",
+            "pli": "Tena kho pana samayena sakuludāyī paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā, seyyathidaṁ—",
+            "en": "Now at that time, Sakuludāyī was sitting together with a large assembly of wanderers making an uproar, a <span class=\"ebt-matched\">dreadful racket</span>. They engaged in all kinds of unworthy talk, such as ",
+            "matched": true
+          },
+          "mn79:26.1": {
+            "scid": "mn79:26.1",
+            "pli": "Evaṁ vutte, sakuludāyissa paribbājakassa parisā unnādinī uccāsaddamahāsaddā ahosi: ",
+            "en": "When he said this, Sakuludāyī’s assembly made an uproar, a <span class=\"ebt-matched\">dreadful racket</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 79\nThe Shorter Discourse With Sakuludāyī",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 200,
+          "en": 199
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "en",
+        "segMap": {
+          "dn25:2.1": {
+            "scid": "dn25:2.1",
+            "pli": "Tena kho pana samayena nigrodho paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā. ",
+            "en": "Now at that time, Nigrodha was sitting together with a large assembly of wanderers making an uproar, a <span class=\"ebt-matched\">dreadful racket</span>. They engaged in all kinds of unworthy talk, such as ",
+            "matched": true
+          },
+          "dn25:21.6": {
+            "scid": "dn25:21.6",
+            "pli": "‘ye te ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, evaṁ su te bhagavanto saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṁ tiracchānakathaṁ anuyuttā viharanti. ",
+            "en": "when the perfected ones, the fully awakened Buddhas of the past came together, they made an uproar, a <span class=\"ebt-matched\">dreadful racket</span> as they sat and talked about all kinds of unworthy topics, ",
+            "matched": true
+          }
+        },
+        "score": 2.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 25\nThe Lion’s Roar at Udumbarikā’s Monastery\n1. On the Wanderer Nigrodha",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 383,
+          "en": 382
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.94_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.94_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.94",
+        "lang": "en",
+        "segMap": {
+          "an10.94:2.2": {
+            "scid": "an10.94:2.2",
+            "pli": "Tena kho pana samayena te aññatitthiyā paribbājakā saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṁ tiracchānakathaṁ kathentā nisinnā honti. ",
+            "en": "Now at that time, the wanderers who follow other paths had come together, making an uproar, a <span class=\"ebt-matched\">dreadful racket</span> as they sat and talked about all kinds of unworthy topics. ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n94. With Vajjiyamāhita",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 63,
+          "en": 62
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.132_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.132_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.132",
+        "lang": "en",
+        "segMap": {
+          "sn35.132:1.2": {
+            "scid": "sn35.132:1.2",
+            "pli": "Atha kho lohiccassa brāhmaṇassa sambahulā antevāsikā kaṭṭhahārakā māṇavakā yenāyasmato mahākaccānassa araññakuṭikā tenupasaṅkamiṁsu; upasaṅkamitvā parito parito kuṭikāya anucaṅkamanti anuvicaranti uccāsaddā mahāsaddā kānici kānici seleyyakāni karonti: ",
+            "en": "Then several youths, students of the brahmin Lohicca, approached Mahākaccāna’s wilderness hut while collecting firewood. They walked and wandered all around the hut, making a <span class=\"ebt-matched\">dreadful racket</span> and all kinds of jeers: ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n13. Householders\n132. With Lohicca",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 88,
+          "en": 87
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.93_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.93_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.93",
+        "lang": "en",
+        "segMap": {
+          "an10.93:2.2": {
+            "scid": "an10.93:2.2",
+            "pli": "Tena kho pana samayena aññatitthiyā paribbājakā saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṁ tiracchānakathaṁ kathentā nisinnā honti. ",
+            "en": "Now at that time, the wanderers who follow other paths had come together, making an uproar, a <span class=\"ebt-matched\">dreadful racket</span> as they sat and talked about all kinds of unworthy topics. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n93. What Is Your View?",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 103,
+          "en": 102
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn78_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn78_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn78",
+        "lang": "en",
+        "segMap": {
+          "mn78:3.1": {
+            "scid": "mn78:3.1",
+            "pli": "Tena kho pana samayena uggāhamāno paribbājako samaṇamuṇḍikāputto mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā, seyyathidaṁ—",
+            "en": "Now at that time, Uggāhamāna was sitting together with a large assembly of wanderers making an uproar, a <span class=\"ebt-matched\">dreadful racket</span>. They engaged in all kinds of unworthy talk, such as ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 78\nWith Uggāhamāna Samaṇamuṇḍika",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 162,
+          "en": 161
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn86_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn86_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn86",
+        "lang": "en",
+        "segMap": {
+          "mn86:8.1": {
+            "scid": "mn86:8.1",
+            "pli": "Tena kho pana samayena rañño pasenadissa kosalassa antepuradvāre mahājanakāyo sannipatitvā uccāsaddo mahāsaddo hoti: ",
+            "en": "Now at that time a crowd had gathered by the gate of King Pasenadi’s royal compound making a <span class=\"ebt-matched\">dreadful racket</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 86\nWith Aṅgulimāla",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 208,
+          "en": 207
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn76_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn76_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn76",
+        "lang": "en",
+        "segMap": {
+          "mn76:4.1": {
+            "scid": "mn76:4.1",
+            "pli": "Tena kho pana samayena sandako paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā, seyyathidaṁ—",
+            "en": "Now at that time, Sandaka and the large assembly of wanderers were sitting together making an uproar, a <span class=\"ebt-matched\">dreadful racket</span>. They engaged in all kinds of unworthy talk, such as ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 76\nWith Sandaka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 240,
+          "en": 239
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn77_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn77_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn77",
+        "lang": "en",
+        "segMap": {
+          "mn77:4.2": {
+            "scid": "mn77:4.2",
+            "pli": "Tena kho pana samayena sakuludāyī paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā, seyyathidaṁ—",
+            "en": "Now at that time, Sakuludāyī was sitting together with a large assembly of wanderers making an uproar, a <span class=\"ebt-matched\">dreadful racket</span>. They engaged in all kinds of unworthy talk, such as ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 77\nThe Longer Discourse with Sakuludāyī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 390,
+          "en": 373
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn9_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn9",
+        "lang": "en",
+        "segMap": {
+          "dn9:3.1": {
+            "scid": "dn9:3.1",
+            "pli": "Tena kho pana samayena poṭṭhapādo paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā. ",
+            "en": "Now at that time, Poṭṭhapāda was sitting together with a large assembly of wanderers making an uproar, a <span class=\"ebt-matched\">dreadful racket</span>. They engaged in all kinds of unworthy talk, such as ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 9\nWith Poṭṭhapāda\n1. On the Wanderer Poṭṭhapāda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 473,
+          "en": 472
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "cause for stinginess",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "cause for stinginess",
+    "method": "keywords",
+    "resultPattern": "\\bcause|\\bfor|\\bstinginess",
+    "segsMatched": 0,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn15_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.53_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.53_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.79_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.79_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.61_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.61_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.47_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.47_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.46_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.46_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.48_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.48_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.49_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.49_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.50_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.50_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.54_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.54_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.55_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.55_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.76_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.76_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn19_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn19_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga8/iti74_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga8/iti74_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn55/sn55.37_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.37_translation-en-sujato.json"
+    ],
+    "suttaRefs": [],
+    "mlDocs": []
+  }
+}

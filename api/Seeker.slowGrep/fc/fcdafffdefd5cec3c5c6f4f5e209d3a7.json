@@ -1,0 +1,24 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bunterscheiden",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an4/an4.139_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an1/an1.333-377_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/sn/sn47/sn47.9_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/kn/thag/thag15.2_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/kn/kp/kp8_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an6/an6.43_translation-de-sabbamitta.json:1"
+  ]
+}

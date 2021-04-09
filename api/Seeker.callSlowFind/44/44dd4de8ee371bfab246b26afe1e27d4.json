@@ -1,0 +1,106 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "following me around",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "following me around",
+    "method": "phrase",
+    "resultPattern": "\\bfollowing me around",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn47/sn47.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.63_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.63_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn47.3/en/sujato",
+      "an8.63/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.3",
+        "lang": "en",
+        "segMap": {
+          "sn47.3:1.4": {
+            "scid": "sn47.3:1.4",
+            "pli": "“Evameva panidhekacce moghapurisā mañceva ajjhesanti, dhamme ca bhāsite mameva anubandhitabbaṁ maññantī”ti. ",
+            "en": "“This is exactly how some foolish people ask me for something. But when the teaching has been explained they think only of <span class=\"ebt-matched\">following me around</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 1.032,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 47\n1. In Ambapālī’s Wood\n3. A Monk",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 31,
+          "en": 30
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.63_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.63_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.63",
+        "lang": "en",
+        "segMap": {
+          "an8.63:1.4": {
+            "scid": "an8.63:1.4",
+            "pli": "Dhamme ca bhāsite mamaññeva anubandhitabbaṁ maññantī”ti. ",
+            "en": "But when the teaching has been explained they think only of <span class=\"ebt-matched\">following me around</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 1.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n7. Earthquakes\n63. A Teaching in Brief",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      }
+    ]
+  }
+}

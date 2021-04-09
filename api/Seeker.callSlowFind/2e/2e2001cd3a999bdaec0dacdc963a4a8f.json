@@ -1,0 +1,942 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "scrupulous and kind",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "scrupulous and kind",
+    "method": "phrase",
+    "resultPattern": "\\bscrupulous and kind",
+    "segsMatched": 33,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an9/an9.18_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.18_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.45_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.45_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.43_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.43_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.42_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.42_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.41_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.41_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.70_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn94_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn94_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn51_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn51_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn41_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn41_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn27_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn27_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn135_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn135_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn114_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn114_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn112_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn112_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn101_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn101_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn8_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn8_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn1_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn1_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.99_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.99_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.217_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.217_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.216_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.216_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.212_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.212_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.211_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.211_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.176_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.176_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an9.18/en/sujato",
+      "an8.45/en/sujato",
+      "an8.43/en/sujato",
+      "an8.42/en/sujato",
+      "an8.41/en/sujato",
+      "an3.70/en/sujato",
+      "mn94/en/sujato",
+      "mn51/en/sujato",
+      "mn41/en/sujato",
+      "mn38/en/sujato",
+      "mn27/en/sujato",
+      "mn135/en/sujato",
+      "mn114/en/sujato",
+      "mn112/en/sujato",
+      "mn101/en/sujato",
+      "dn8/en/sujato",
+      "dn30/en/sujato",
+      "dn2/en/sujato",
+      "dn1/en/sujato",
+      "dn10/en/sujato",
+      "an4.198/en/sujato",
+      "an10.99/en/sujato",
+      "an10.217/en/sujato",
+      "an10.216/en/sujato",
+      "an10.212/en/sujato",
+      "an10.211/en/sujato",
+      "an10.176/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.18_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.18_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.18",
+        "lang": "en",
+        "segMap": {
+          "an9.18:1.4": {
+            "scid": "an9.18:1.4",
+            "pli": "‘yāvajīvaṁ arahanto pāṇātipātaṁ pahāya pāṇātipātā paṭiviratā nihitadaṇḍā nihitasatthā lajjī dayāpannā sabbapāṇabhūtahitānukampino viharanti; ",
+            "en": "‘As long as they live, the perfected ones give up killing living creatures, renouncing the rod and the sword. They are <span class=\"ebt-matched\">scrupulous and kind</span>, and live full of compassion for all living beings. ",
+            "matched": true
+          },
+          "an9.18:1.5": {
+            "scid": "an9.18:1.5",
+            "pli": "ahampajja imañca rattiṁ imañca divasaṁ pāṇātipātaṁ pahāya pāṇātipātā paṭivirato nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharāmi. ",
+            "en": "I, too, for this day and night will give up killing living creatures, renouncing the rod and the sword. I’ll be <span class=\"ebt-matched\">scrupulous and kind</span>, and live full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 2.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n2. The Lion’s Roar\n18. The Sabbath with Nine Factors",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.41_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.41_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.41",
+        "lang": "en",
+        "segMap": {
+          "an8.41:2.4": {
+            "scid": "an8.41:2.4",
+            "pli": "‘yāvajīvaṁ arahanto pāṇātipātaṁ pahāya pāṇātipātā paṭiviratā nihitadaṇḍā nihitasatthā lajjī dayāpannā, sabbapāṇabhūtahitānukampino viharanti. ",
+            "en": "‘As long as they live, the perfected ones give up killing living creatures, renouncing the rod and the sword. They are <span class=\"ebt-matched\">scrupulous and kind</span>, and live full of compassion for all living beings. ",
+            "matched": true
+          },
+          "an8.41:2.5": {
+            "scid": "an8.41:2.5",
+            "pli": "Ahampajja imañca rattiṁ imañca divasaṁ pāṇātipātaṁ pahāya pāṇātipātā paṭivirato nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharāmi. ",
+            "en": "I, too, for this day and night will give up killing living creatures, renouncing the rod and the sword. I’ll be <span class=\"ebt-matched\">scrupulous and kind</span>, and live full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 2.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n5. Sabbath\n41. The Sabbath With Eight Factors, In Brief",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 46,
+          "en": 45
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.45_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.45_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.45",
+        "lang": "en",
+        "segMap": {
+          "an8.45:2.4": {
+            "scid": "an8.45:2.4",
+            "pli": "‘yāvajīvaṁ arahanto pāṇātipātaṁ pahāya pāṇātipātā paṭiviratā nihitadaṇḍā nihitasatthā lajjī dayāpannā sabbapāṇabhūtahitānukampino viharanti. ",
+            "en": "‘As long as they live, the perfected ones give up killing living creatures, renouncing the rod and the sword. They are <span class=\"ebt-matched\">scrupulous and kind</span>, and live full of compassion for all living beings. ",
+            "matched": true
+          },
+          "an8.45:2.5": {
+            "scid": "an8.45:2.5",
+            "pli": "Ahampajja imañca rattiṁ imañca divasaṁ pāṇātipātaṁ pahāya pāṇātipātā paṭivirato nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharāmi. ",
+            "en": "I, too, for this day and night will give up killing living creatures, renouncing the rod and the sword. I’ll be <span class=\"ebt-matched\">scrupulous and kind</span>, and live full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 2.031,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n5. Sabbath\n45. With Bojjhā on the Sabbath",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 64,
+          "en": 63
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.43_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.43_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.43",
+        "lang": "en",
+        "segMap": {
+          "an8.43:1.6": {
+            "scid": "an8.43:1.6",
+            "pli": "‘yāvajīvaṁ arahanto pāṇātipātaṁ pahāya pāṇātipātā paṭiviratā nihitadaṇḍā nihitasatthā lajjī dayāpannā, sabbapāṇabhūtahitānukampino viharanti. ",
+            "en": "‘As long as they live, the perfected ones give up killing living creatures, renouncing the rod and the sword. They are <span class=\"ebt-matched\">scrupulous and kind</span>, and live full of compassion for all living beings. ",
+            "matched": true
+          },
+          "an8.43:1.7": {
+            "scid": "an8.43:1.7",
+            "pli": "Ahampajja imañca rattiṁ imañca divasaṁ pāṇātipātaṁ pahāya pāṇātipātā paṭivirato nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharāmi. ",
+            "en": "I, too, for this day and night will give up killing living creatures, renouncing the rod and the sword. I’ll be <span class=\"ebt-matched\">scrupulous and kind</span>, and live full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 2.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n5. Sabbath\n43. With Visākhā on the Sabbath",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 70,
+          "en": 69
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.42_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.42_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.42",
+        "lang": "en",
+        "segMap": {
+          "an8.42:1.4": {
+            "scid": "an8.42:1.4",
+            "pli": "‘yāvajīvaṁ arahanto pāṇātipātaṁ pahāya pāṇātipātā paṭiviratā nihitadaṇḍā nihitasatthā lajjī dayāpannā, sabbapāṇabhūtahitānukampino viharanti. ",
+            "en": "‘As long as they live, the perfected ones give up killing living creatures, renouncing the rod and the sword. They are <span class=\"ebt-matched\">scrupulous and kind</span>, and live full of compassion for all living beings. ",
+            "matched": true
+          },
+          "an8.42:1.5": {
+            "scid": "an8.42:1.5",
+            "pli": "Ahampajja imañca rattiṁ imañca divasaṁ pāṇātipātaṁ pahāya pāṇātipātā paṭivirato nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharāmi. ",
+            "en": "I, too, for this day and night will give up killing living creatures, renouncing the rod and the sword. I’ll be <span class=\"ebt-matched\">scrupulous and kind</span>, and live full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 2.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n5. Sabbath\n42. The Sabbath With Eight Factors, In Detail",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 86,
+          "en": 85
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.70_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.70",
+        "lang": "en",
+        "segMap": {
+          "an3.70:19.2": {
+            "scid": "an3.70:19.2",
+            "pli": "‘yāvajīvaṁ arahanto pāṇātipātaṁ pahāya pāṇātipātā paṭiviratā nihitadaṇḍā nihitasatthā lajjī dayāpannā sabbapāṇabhūtahitānukampī viharanti; ",
+            "en": "‘As long as they live, the perfected ones give up killing living creatures, renouncing the rod and the sword. They are <span class=\"ebt-matched\">scrupulous and kind</span>, and live full of compassion for all living beings. ",
+            "matched": true
+          },
+          "an3.70:19.3": {
+            "scid": "an3.70:19.3",
+            "pli": "ahampajja imañca rattiṁ imañca divasaṁ pāṇātipātaṁ pahāya pāṇātipātā paṭivirato nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharāmi. ",
+            "en": "I, too, for this day and night will give up killing living creatures, renouncing the rod and the sword. I’ll be <span class=\"ebt-matched\">scrupulous and kind</span>, and live full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 2.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n70. Sabbath",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 238,
+          "en": 232
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.211_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.211_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.211",
+        "lang": "en",
+        "segMap": {
+          "an10.211:12.3": {
+            "scid": "an10.211:12.3",
+            "pli": "Idha, bhikkhave, ekacco pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "It’s when a certain person gives up killing living creatures. They renounce the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.031,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n21. The Body Born of Deeds\n211. Heaven and Hell (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 32,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.212_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.212_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.212",
+        "lang": "en",
+        "segMap": {
+          "an10.212:3.3": {
+            "scid": "an10.212:3.3",
+            "pli": "Idha, bhikkhave, ekacco pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "It’s when a certain person gives up killing living creatures. They renounce the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n21. The Body Born of Deeds\n212. Heaven and Hell (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.217_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.217_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.217",
+        "lang": "en",
+        "segMap": {
+          "an10.217:20.2": {
+            "scid": "an10.217:20.2",
+            "pli": "Idha, bhikkhave, ekacco pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati …pe…. ",
+            "en": "It’s when a certain person gives up killing living creatures. They renounce the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n21. The Body Born of Deeds\n217. Intentional (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 60,
+          "en": 59
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.216_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.216_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.216",
+        "lang": "en",
+        "segMap": {
+          "an10.216:7.1": {
+            "scid": "an10.216:7.1",
+            "pli": "Idha, bhikkhave, ekacco pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "Take a certain person who gives up killing living creatures. They renounce the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n21. The Body Born of Deeds\n216. Creepy Creatures",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 76,
+          "en": 75
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.176_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.176_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.176",
+        "lang": "en",
+        "segMap": {
+          "an10.176:25.2": {
+            "scid": "an10.176:25.2",
+            "pli": "Idha, cunda, ekacco pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "It’s when a certain person gives up killing living creatures. They renounce the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n17. With Jāṇussoṇi\n176. With Cunda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 88,
+          "en": 87
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.198",
+        "lang": "en",
+        "segMap": {
+          "an4.198:8.1": {
+            "scid": "an4.198:8.1",
+            "pli": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n20. The Great Chapter\n198. Self-mortification",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 111,
+          "en": 110
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn41_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn41_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn41",
+        "lang": "en",
+        "segMap": {
+          "mn41:12.2": {
+            "scid": "mn41:12.2",
+            "pli": "Idha, gahapatayo, ekacco pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "It’s when a certain person gives up killing living creatures. They renounce the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 41\nThe People of Sālā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 122,
+          "en": 121
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.99_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.99_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.99",
+        "lang": "en",
+        "segMap": {
+          "an10.99:11.1": {
+            "scid": "an10.99:11.1",
+            "pli": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n99. With Upāli",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 148,
+          "en": 147
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn112_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn112_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn112",
+        "lang": "en",
+        "segMap": {
+          "mn112:13.2": {
+            "scid": "mn112:13.2",
+            "pli": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato ahosiṁ nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī vihāsiṁ. ",
+            "en": "Once I had gone forth, I took up the training and livelihood of the mendicants. I gave up killing living creatures, renouncing the rod and the sword. I was <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 112\nThe Sixfold Purification",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 147,
+          "en": 146
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn135_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn135_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn135",
+        "lang": "en",
+        "segMap": {
+          "mn135:6.1": {
+            "scid": "mn135:6.1",
+            "pli": "Idha pana, māṇava, ekacco itthī vā puriso vā pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "But take some woman or man who gives up killing living creatures. They renounce the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 135\nThe Shorter Analysis of Deeds",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 137,
+          "en": 136
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn27_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn27",
+        "lang": "en",
+        "segMap": {
+          "mn27:13.1": {
+            "scid": "mn27:13.1",
+            "pli": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 27\nThe Shorter Elephant’s Footprint Simile",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 201,
+          "en": 200
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn51_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn51",
+        "lang": "en",
+        "segMap": {
+          "mn51:14.1": {
+            "scid": "mn51:14.1",
+            "pli": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 51\nWith Kandaraka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 190,
+          "en": 189
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn94_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn94_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn94",
+        "lang": "en",
+        "segMap": {
+          "mn94:15.8": {
+            "scid": "mn94:15.8",
+            "pli": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 94\nWith Ghoṭamukha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 203,
+          "en": 202
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn8_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn8",
+        "lang": "en",
+        "segMap": {
+          "dn8:18.6": {
+            "scid": "dn8:18.6",
+            "pli": "Idha, kassapa, bhikkhu pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "It’s when a mendicant gives up killing living creatures. They renounce the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 8\nThe Longer Discourse on the Lion’s Roar",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 252,
+          "en": 251
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn10",
+        "lang": "en",
+        "segMap": {
+          "dn10:1.11.2": {
+            "scid": "dn10:1.11.2",
+            "pli": "Idha, māṇava, bhikkhu pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "It’s when a mendicant gives up killing living creatures. They renounce the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. … ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 10\nWith Subha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 284,
+          "en": 281
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn101_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn101_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn101",
+        "lang": "en",
+        "segMap": {
+          "mn101:32.1": {
+            "scid": "mn101:32.1",
+            "pli": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 101\nAt Devadaha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 362,
+          "en": 361
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn114_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn114_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn114",
+        "lang": "en",
+        "segMap": {
+          "mn114:5.14": {
+            "scid": "mn114:5.14",
+            "pli": "Idha, bhante, ekacco pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati; ",
+            "en": "It’s when someone gives up killing living creatures. They renounce the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 114\nWhat Should and Should Not Be Cultivated",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 373,
+          "en": 372
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn1_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn1",
+        "lang": "en",
+        "segMap": {
+          "dn1:1.8.1": {
+            "scid": "dn1:1.8.1",
+            "pli": "‘Pāṇātipātaṁ pahāya pāṇātipātā paṭivirato samaṇo gotamo nihitadaṇḍo, nihitasattho, lajjī, dayāpanno, sabbapāṇabhūtahitānukampī viharatī’ti—",
+            "en": "‘The ascetic Gotama has given up killing living creatures. He has renounced the rod and the sword. He’s <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 1\nThe Prime Net\n1. Talk on Wanderers",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 662,
+          "en": 661
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn2",
+        "lang": "en",
+        "segMap": {
+          "dn2:43.2": {
+            "scid": "dn2:43.2",
+            "pli": "Idha, mahārāja, bhikkhu pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti. Nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "It’s when a mendicant gives up killing living creatures, renouncing the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 2\nThe Fruits of the Ascetic Life\n1. A Discussion With the King’s Ministers",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 649,
+          "en": 632
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn38",
+        "lang": "en",
+        "segMap": {
+          "mn38:33.1": {
+            "scid": "mn38:33.1",
+            "pli": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. ",
+            "en": "Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 38\nThe Longer Discourse on the Ending of Craving",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 445,
+          "en": 444
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn30",
+        "lang": "en",
+        "segMap": {
+          "dn30:1.10.2": {
+            "scid": "dn30:1.10.2",
+            "pli": "pāṇātipātaṁ pahāya pāṇātipātā paṭivirato ahosi nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī vihāsi. ",
+            "en": "He gave up killing living creatures, renouncing the rod and the sword. He was <span class=\"ebt-matched\">scrupulous and kind</span>, living full of compassion for all living beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 30\nThe Marks of a Great Man",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 721,
+          "en": 720
+        }
+      }
+    ]
+  }
+}

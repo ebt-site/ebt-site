@@ -1,0 +1,144 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "pull a cow",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "pull a cow",
+    "method": "phrase",
+    "resultPattern": "\\bpull a cow",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an9/an9.20_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.20_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn20/sn20.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn20/sn20.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn124_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn124_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an9.20/en/sujato",
+      "sn20.4/en/sujato",
+      "mn124/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.20_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.20",
+        "lang": "en",
+        "segMap": {
+          "an9.20:8.9": {
+            "scid": "an9.20:8.9",
+            "pli": "pāṇātipātā veramaṇiṁ, adinnādānā veramaṇiṁ, kāmesumicchācārā veramaṇiṁ, musāvādā veramaṇiṁ, surāmerayamajjapamādaṭṭhānā veramaṇiṁ, yo ca antamaso gandhohanamattampi mettacittaṁ bhāveyya, (…) idaṁ tato mahapphalataraṁ. ",
+            "en": "It would be more fruitful to develop a heart of love—even just as long as it takes to <span class=\"ebt-matched\">pull a cow</span>’s udder—than to undertake the training rules. ",
+            "matched": true
+          },
+          "an9.20:9.1": {
+            "scid": "an9.20:9.1",
+            "pli": "Yañca, gahapati, velāmo brāhmaṇo dānaṁ adāsi mahādānaṁ, yo cekaṁ diṭṭhisampannaṁ bhojeyya … ",
+            "en": "It would be more fruitful develop the perception of impermanence—even for as long as a finger-snap—than to do all of these things, including developing a heart of love for as long as it takes to <span class=\"ebt-matched\">pull a cow</span>’s udder.” ",
+            "matched": true
+          }
+        },
+        "score": 2.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n2. The Lion’s Roar\n20. About Velāma",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 56,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn20/sn20.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn20/sn20.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn20.4",
+        "lang": "en",
+        "segMap": {
+          "sn20.4:1.2": {
+            "scid": "sn20.4:1.2",
+            "pli": "“Yo, bhikkhave, pubbaṇhasamayaṁ okkhāsataṁ dānaṁ dadeyya, yo majjhanhikasamayaṁ okkhāsataṁ dānaṁ dadeyya, yo sāyanhasamayaṁ okkhāsataṁ dānaṁ dadeyya, yo vā pubbaṇhasamayaṁ antamaso gadduhanamattampi mettacittaṁ bhāveyya, yo vā majjhanhikasamayaṁ antamaso gadduhanamattampi mettacittaṁ bhāveyya, yo vā sāyanhasamayaṁ antamaso gadduhanamattampi mettacittaṁ bhāveyya, idaṁ tato mahapphalataraṁ. ",
+            "en": "“Mendicants, suppose one person was to give a gift of a hundred pots of rice in the morning, at midday, and in the evening. And someone else was to develop a heart of love, even just as long as it takes to <span class=\"ebt-matched\">pull a cow</span>’s udder. The latter would be more fruitful. ",
+            "matched": true
+          }
+        },
+        "score": 1.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 20\n1. Similes\n4. Rice Pots",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 9,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn124_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn124_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn124",
+        "lang": "en",
+        "segMap": {
+          "mn124:30-36.4": {
+            "scid": "mn124:30-36.4",
+            "pli": "nābhijānāmi ābādhaṁ uppannapubbaṁ, antamaso gaddūhanamattampi … ",
+            "en": "being ill, even for as long as it takes to <span class=\"ebt-matched\">pull a cow</span>’s udder … ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 124\nWith Bakkula",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 71,
+          "en": 70
+        }
+      }
+    ]
+  }
+}

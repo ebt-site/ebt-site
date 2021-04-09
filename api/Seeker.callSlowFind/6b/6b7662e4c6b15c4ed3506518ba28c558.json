@@ -1,0 +1,93 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "die ethik eines menschen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "die ethik eines menschen",
+    "method": "phrase",
+    "resultPattern": "\\bdie ethik eines menschen",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.192_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.192_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.192_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.192/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.192_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.192_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.192_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.192",
+        "lang": "de",
+        "segMap": {
+          "an4.192:1.3": {
+            "scid": "an4.192:1.3",
+            "pli": "Saṁvāsena, bhikkhave, sīlaṁ veditabbaṁ, tañca kho dīghena addhunā, na ittaraṁ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena. ",
+            "de": "<span class=\"ebt-matched\">Die Ethik eines Menschen</span> kann man erkennen, wenn man mit ihm zusammenlebt – aber nur über einen langen Zeitraum, nicht beiläufig; nur, wenn man aufmerksam ist, nicht, wenn man unaufmerksam ist; und nur ein Weiser kann es, kein Geistloser. ",
+            "en": "You can get to know a person’s ethics by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless. ",
+            "matched": true
+          },
+          "an4.192:2.1": {
+            "scid": "an4.192:2.1",
+            "pli": "‘Saṁvāsena, bhikkhave, sīlaṁ veditabbaṁ, tañca kho dīghena addhunā, na ittaraṁ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, ",
+            "de": "‚<span class=\"ebt-matched\">Die Ethik eines Menschen</span> kann man erkennen, wenn man mit ihm zusammenlebt – aber nur über einen langen Zeitraum, nicht beiläufig; nur, wenn man aufmerksam ist, nicht, wenn man unaufmerksam ist; und nur ein Weiser kann es, kein Geistloser.‘ ",
+            "en": "‘You can get to know a person’s ethics by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless.’ ",
+            "matched": true
+          },
+          "an4.192:3.4": {
+            "scid": "an4.192:3.4",
+            "pli": "‘Saṁvāsena, bhikkhave, sīlaṁ veditabbaṁ, tañca kho dīghena addhunā, na ittaraṁ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ. ",
+            "de": "Deshalb habe ich gesagt, dass man <span class=\"ebt-matched\">die Ethik eines Menschen</span> erkennen kann, wenn man mit ihm zusammenlebt – aber nur über einen langen Zeitraum, nicht beiläufig; nur, wenn man aufmerksam ist, nicht, wenn man unaufmerksam ist; und nur ein Weiser kann es, kein Geistloser. ",
+            "en": "That’s why I said that you can get to know a person’s ethics by living with them. But only after a long time, not a short time; only when paying attention, not when inattentive; and only by the wise, not the witless. ",
+            "matched": true
+          }
+        },
+        "score": 3.039,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n20. Das große Kapitel\n192. Gelegenheiten",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 76,
+          "de": 75,
+          "en": 75
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+name: push-actions
+on: [push]
+jobs:
+  push-job:
+    runs-on: ${{ matrix.os }}
+    strategy: 
+      matrix:
+        os: [ubuntu-18.04]
+        node: [14]
+    name: Node=${{ matrix.node }} OS=${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+      - run: scripts/install
+      - run: git config user.name github-actions
+      - run: git config user.email github-actions@github.com
+      - run: npm run env
+      - run: npm run deploy

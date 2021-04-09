@@ -1,0 +1,7 @@
+#!/bin/bash
+
+DIR=`basename`
+
+$DIR/install-ripgrep
+
+npm install

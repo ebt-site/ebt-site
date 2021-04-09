@@ -1,0 +1,92 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "if you sorrow and wail",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "if you sorrow and wail",
+    "method": "phrase",
+    "resultPattern": "\\bif you sorrow and wail",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn148_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn148/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn148_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn148",
+        "lang": "en",
+        "segMap": {
+          "mn148:28.4": {
+            "scid": "mn148:28.4",
+            "pli": "Dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati. ",
+            "en": "When you experience a painful feeling, <span class=\"ebt-matched\">if you sorrow and wail</span> and lament, beating your breast and falling into confusion, ",
+            "matched": true
+          },
+          "mn148:29-33.8": {
+            "scid": "mn148:29-33.8",
+            "pli": "Dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati. ",
+            "en": "When you experience a painful feeling, <span class=\"ebt-matched\">if you sorrow and wail</span> and lament, beating your breast and falling into confusion, ",
+            "matched": true
+          },
+          "mn148:34.4": {
+            "scid": "mn148:34.4",
+            "pli": "Dukkhāya vedanāya phuṭṭho samāno na socati na kilamati na paridevati na urattāḷiṁ kandati na sammohaṁ āpajjati. ",
+            "en": "When you experience a painful feeling, if you don’t sorrow or wail or lament, beating your breast and falling into confusion, ",
+            "matched": true
+          },
+          "mn148:39.4": {
+            "scid": "mn148:39.4",
+            "pli": "Dukkhāya vedanāya phuṭṭho samāno na socati na kilamati na paridevati na urattāḷiṁ kandati na sammohaṁ āpajjati. ",
+            "en": "When you experience a painful feeling, if you don’t sorrow or wail or lament, beating your breast and falling into confusion, ",
+            "matched": true
+          }
+        },
+        "score": 4.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 148\nSix By Six",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 227,
+          "en": 226
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wenn der faktor des erwachens achtsamkeit",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wenn der faktor des erwachens achtsamkeit",
+    "method": "keywords",
+    "resultPattern": "\\bwenn|\\bder|\\bfaktor|\\bdes|\\berwachens|\\bachtsamkeit",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/mn/mn10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.394-574_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.61_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an10/an10.61_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.57_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.11-20_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.11-20_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.11-20_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.156-162_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.156-162_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.156-162_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.58_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.1_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an9/an9.1_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an9/an9.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn29_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn29_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn29_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn46/sn46.55_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn46/sn46.55_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.55_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn47/sn47.12_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn47/sn47.12_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.12_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn10/de/sabbamitta",
+      "an10.61/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.61_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an10/an10.61_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.61",
+        "lang": "de",
+        "segMap": {
+          "an10.61:7.1": {
+            "scid": "an10.61:7.1",
+            "pli": "Iti kho, bhikkhave, sappurisasaṁsevo paripūro saddhammassavanaṁ paripūreti, saddhammassavanaṁ paripūraṁ saddhaṁ paripūreti, saddhā paripūrā yonisomanasikāraṁ paripūreti, yonisomanasikāro paripūro satisampajaññaṁ paripūreti, satisampajaññaṁ paripūraṁ indriyasaṁvaraṁ paripūreti, indriyasaṁvaro paripūro tīṇi sucaritāni paripūreti, tīṇi sucaritāni paripūrāni cattāro satipaṭṭhāne paripūrenti, cattāro satipaṭṭhānā paripūrā satta bojjhaṅge paripūrenti, satta bojjhaṅgā paripūrā vijjāvimuttiṁ paripūrenti; ",
+            "de": "So füllt <span class=\"ebt-matched\">der</span> <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">des</span> Umgangs mit guten Menschen, <span class=\"ebt-matched\">wenn</span> er voll wird, den <span class=\"ebt-matched\">Faktor</span> auf, <span class=\"ebt-matched\">der</span> wahren Lehre zuzuhören. <span class=\"ebt-matched\">Wenn</span> <span class=\"ebt-matched\">der</span> <span class=\"ebt-matched\">Faktor</span>, <span class=\"ebt-matched\">der</span> wahren Lehre zuzuhören, voll wird, füllt er den <span class=\"ebt-matched\">Faktor</span> Vertrauen auf … den <span class=\"ebt-matched\">Faktor</span> genaue Aufmerksamkeit … den <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">Achtsamkeit</span> und Umsicht … den <span class=\"ebt-matched\">Faktor</span> Zügelung <span class=\"ebt-matched\">der</span> Sinne … den <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">der</span> drei Arten von gutem Verhalten … den <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">der</span> vier Arten <span class=\"ebt-matched\">der</span> <span class=\"ebt-matched\">Achtsamkeit</span>smeditation … den <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">der</span> sieben <span class=\"ebt-matched\">Faktor</span>en <span class=\"ebt-matched\">des</span> <span class=\"ebt-matched\">Erwachens</span>. <span class=\"ebt-matched\">Wenn</span> die sieben <span class=\"ebt-matched\">Faktor</span>en <span class=\"ebt-matched\">des</span> <span class=\"ebt-matched\">Erwachens</span> voll werden, füllen sie Wissen und Freiheit auf. ",
+            "en": "In this way, when the factor of associating with good people is fulfilled, it fulfills the factor of listening to the true teaching. When the factor of listening to the true teaching is fulfilled, it fulfills the factor of faith … proper attention … mindfulness and situational awareness … sense restraint …the three kinds of good conduct … the four kinds of mindfulness meditation … the seven awakening factors. When the seven awakening factors are fulfilled, they fulfill knowledge and freedom. ",
+            "matched": true
+          },
+          "an10.61:9.1": {
+            "scid": "an10.61:9.1",
+            "pli": "Evamevaṁ kho, bhikkhave, sappurisasaṁsevo paripūro saddhammassavanaṁ paripūreti, saddhammassavanaṁ paripūraṁ saddhaṁ paripūreti, saddhā paripūrā yonisomanasikāraṁ paripūreti, yonisomanasikāro paripūro satisampajaññaṁ paripūreti, satisampajaññaṁ paripūraṁ indriyasaṁvaraṁ paripūreti, indriyasaṁvaro paripūro tīṇi sucaritāni paripūreti, tīṇi sucaritāni paripūrāni cattāro satipaṭṭhāne paripūrenti, cattāro satipaṭṭhānā paripūrā satta bojjhaṅge paripūrenti, satta bojjhaṅgā paripūrā vijjāvimuttiṁ paripūrenti; ",
+            "de": "Ebenso füllt <span class=\"ebt-matched\">der</span> <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">des</span> Umgangs mit guten Menschen, <span class=\"ebt-matched\">wenn</span> er voll wird, den <span class=\"ebt-matched\">Faktor</span> auf, <span class=\"ebt-matched\">der</span> wahren Lehre zuzuhören. <span class=\"ebt-matched\">Wenn</span> <span class=\"ebt-matched\">der</span> <span class=\"ebt-matched\">Faktor</span>, <span class=\"ebt-matched\">der</span> wahren Lehre zuzuhören, voll wird, füllt er den <span class=\"ebt-matched\">Faktor</span> Vertrauen auf … den <span class=\"ebt-matched\">Faktor</span> genaue Aufmerksamkeit … den <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">Achtsamkeit</span> und Umsicht … den <span class=\"ebt-matched\">Faktor</span> Zügelung <span class=\"ebt-matched\">der</span> Sinne … den <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">der</span> drei Arten von gutem Verhalten … den <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">der</span> vier Arten <span class=\"ebt-matched\">der</span> <span class=\"ebt-matched\">Achtsamkeit</span>smeditation … den <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">der</span> sieben <span class=\"ebt-matched\">Faktor</span>en <span class=\"ebt-matched\">des</span> <span class=\"ebt-matched\">Erwachens</span>. <span class=\"ebt-matched\">Wenn</span> die sieben <span class=\"ebt-matched\">Faktor</span>en <span class=\"ebt-matched\">des</span> <span class=\"ebt-matched\">Erwachens</span> voll werden, füllen sie Wissen und Freiheit auf. ",
+            "en": "In the same way, when the factor of associating with good people is fulfilled, it fulfills the factor of listening to the true teaching. When the factor of listening to the true teaching is fulfilled, it fulfills the factor of faith … proper attention … mindfulness and situational awareness … sense restraint …the three kinds of good conduct … the four kinds of mindfulness meditation … the seven awakening factors. When the seven awakening factors are fulfilled, they fulfill knowledge and freedom. ",
+            "matched": true
+          }
+        },
+        "score": 2.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 10\n7. Paare\n61. Unwissenheit",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 69,
+          "de": 68,
+          "en": 68
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/mn/mn10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn10",
+        "lang": "de",
+        "segMap": {
+          "mn10:42.3": {
+            "scid": "mn10:42.3",
+            "pli": "Idha, bhikkhave, bhikkhu santaṁ vā ajjhattaṁ satisambojjhaṅgaṁ ‘atthi me ajjhattaṁ satisambojjhaṅgo’ti pajānāti, asantaṁ vā ajjhattaṁ satisambojjhaṅgaṁ ‘natthi me ajjhattaṁ satisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa satisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. ",
+            "de": "Da versteht ein Mönch, <span class=\"ebt-matched\">wenn</span> <span class=\"ebt-matched\">der</span> <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">des</span> <span class=\"ebt-matched\">Erwachens</span> ‚<span class=\"ebt-matched\">Achtsamkeit</span>‘ in ihm ist: ‚In mir ist <span class=\"ebt-matched\">der</span> <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">des</span> <span class=\"ebt-matched\">Erwachens</span> „<span class=\"ebt-matched\">Achtsamkeit</span>“.‘ <span class=\"ebt-matched\">Wenn</span> <span class=\"ebt-matched\">der</span> <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">des</span> <span class=\"ebt-matched\">Erwachens</span> ‚<span class=\"ebt-matched\">Achtsamkeit</span>‘ nicht in ihm ist, versteht er: ‚In mir ist nicht <span class=\"ebt-matched\">der</span> <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">des</span> <span class=\"ebt-matched\">Erwachens</span> „<span class=\"ebt-matched\">Achtsamkeit</span>“.‘ Er versteht, wie <span class=\"ebt-matched\">der</span> <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">des</span> <span class=\"ebt-matched\">Erwachens</span> ‚<span class=\"ebt-matched\">Achtsamkeit</span>‘, <span class=\"ebt-matched\">wenn</span> er nicht entstanden ist, entsteht; und wie <span class=\"ebt-matched\">der</span> <span class=\"ebt-matched\">Faktor</span> <span class=\"ebt-matched\">des</span> <span class=\"ebt-matched\">Erwachens</span> ‚<span class=\"ebt-matched\">Achtsamkeit</span>‘, <span class=\"ebt-matched\">wenn</span> er entstanden ist, sich vollständig entwickelt. ",
+            "en": "It’s when a mendicant who has the awakening factor of mindfulness in them understands: ‘I have the awakening factor of mindfulness in me.’ When they don’t have the awakening factor of mindfulness in them, they understand: ‘I don’t have the awakening factor of mindfulness in me.’ They understand how the awakening factor of mindfulness that has not arisen comes to arise; and how the awakening factor of mindfulness that has arisen becomes fulfilled by development. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Mittlere Lehrreden 10\nAchtsamkeitsmeditation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 235,
+          "de": 204,
+          "en": 233
+        }
+      }
+    ]
+  }
+}

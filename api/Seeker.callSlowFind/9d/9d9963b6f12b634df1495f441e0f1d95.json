@@ -1,0 +1,872 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "any kind of form",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "any kind of form",
+    "method": "phrase",
+    "resultPattern": "\\bany kind of form",
+    "segsMatched": 30,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn109_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn109_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.82_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.82_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.48_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.48_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn35_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn35_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn44/sn44.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn44/sn44.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn24/sn24.96_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn24/sn24.96_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn24/sn24.71_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn24/sn24.71_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.95_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.95_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.92_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.92_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.91_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.91_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.79_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.79_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.72_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.72_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.71_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.71_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.59_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.49_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.49_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.125_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.125_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.124_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.124_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn18/sn18.22_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn18/sn18.22_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn18/sn18.21_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn18/sn18.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.70_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.70_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn62_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn62_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.196_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.181_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.181_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.133_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.133_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn109/en/sujato",
+      "sn22.82/en/sujato",
+      "sn22.48/en/sujato",
+      "mn35/en/sujato",
+      "sn44.2/en/sujato",
+      "sn24.96/en/sujato",
+      "sn24.71/en/sujato",
+      "sn22.95/en/sujato",
+      "sn22.92/en/sujato",
+      "sn22.91/en/sujato",
+      "sn22.79/en/sujato",
+      "sn22.72/en/sujato",
+      "sn22.71/en/sujato",
+      "sn22.59/en/sujato",
+      "sn22.49/en/sujato",
+      "sn22.125/en/sujato",
+      "sn22.124/en/sujato",
+      "sn18.22/en/sujato",
+      "sn18.21/en/sujato",
+      "sn12.70/en/sujato",
+      "mn62/en/sujato",
+      "mn22/en/sujato",
+      "an4.196/en/sujato",
+      "an4.181/en/sujato",
+      "an3.133/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn109_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn109_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn109",
+        "lang": "en",
+        "segMap": {
+          "mn109:8.2": {
+            "scid": "mn109:8.2",
+            "pli": "“Yaṁ kiñci, bhikkhu, rūpaṁ—atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā, oḷārikaṁ vā sukhumaṁ vā, hīnaṁ vā paṇītaṁ vā, yaṁ dūre santike vā—ayaṁ rūpakkhandho. ",
+            "en": "“<span class=\"ebt-matched\">Any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: this is called the aggregate of form. ",
+            "matched": true
+          },
+          "mn109:13.2": {
+            "scid": "mn109:13.2",
+            "pli": "“Yaṁ kiñci, bhikkhu, rūpaṁ—atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā—sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti—evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "en": "“One truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          },
+          "mn109:16.12": {
+            "scid": "mn109:16.12",
+            "pli": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. ",
+            "en": "“So you should truly see <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 109\nThe Longer Discourse on the Full-Moon Night",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 117,
+          "en": 116
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.48_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.48_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.48",
+        "lang": "en",
+        "segMap": {
+          "sn22.48:1.5": {
+            "scid": "sn22.48:1.5",
+            "pli": "Yaṁ kiñci, bhikkhave, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, ayaṁ vuccati rūpakkhandho. ",
+            "en": "<span class=\"ebt-matched\">Any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: this is called the aggregate of form. ",
+            "matched": true
+          },
+          "sn22.48:2.2": {
+            "scid": "sn22.48:2.2",
+            "pli": "Yaṁ kiñci, bhikkhave, rūpaṁ atītānāgatapaccuppannaṁ …pe… yaṁ dūre santike vā sāsavaṁ upādāniyaṁ, ayaṁ vuccati rūpupādānakkhandho. ",
+            "en": "<span class=\"ebt-matched\">Any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near, which is accompanied by defilements and is prone to being grasped: this is called the aggregate of form connected with grasping. ",
+            "matched": true
+          }
+        },
+        "score": 2.095,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n5. Be Your Own Island\n48. Aggregates",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.82_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.82_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.82",
+        "lang": "en",
+        "segMap": {
+          "sn22.82:6.2": {
+            "scid": "sn22.82:6.2",
+            "pli": "“Yaṁ kiñci, bhikkhu, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, ayaṁ vuccati rūpakkhandho. ",
+            "en": "“<span class=\"ebt-matched\">Any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: this is called the aggregate of form. ",
+            "matched": true
+          },
+          "sn22.82:11.2": {
+            "scid": "sn22.82:11.2",
+            "pli": "“Yaṁ kiñci, bhikkhu, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "en": "“One truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n8. Itchy\n82. A Full Moon Night",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 121,
+          "en": 119
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn35_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn35_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn35",
+        "lang": "en",
+        "segMap": {
+          "mn35:24.6": {
+            "scid": "mn35:24.6",
+            "pli": "“Idha, aggivessana, mama sāvako yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati; ",
+            "en": "“It’s when one of my disciples truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          },
+          "mn35:25.2": {
+            "scid": "mn35:25.2",
+            "pli": "“Idha, aggivessana, bhikkhu yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti; ",
+            "en": "“It’s when one of my disciples truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ And having seen this with right understanding they’re freed by not grasping. ",
+            "matched": true
+          }
+        },
+        "score": 2.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 35\nThe Shorter Discourse With Saccaka",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 235,
+          "en": 234
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn18/sn18.21_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn18/sn18.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn18.21",
+        "lang": "en",
+        "segMap": {
+          "sn18.21:1.4": {
+            "scid": "sn18.21:1.4",
+            "pli": "“Yaṁ kiñci, rāhula, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "en": "“Rāhula, one truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 18\nChapter Two\n21. Tendency",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 13,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.124_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.124_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.124",
+        "lang": "en",
+        "segMap": {
+          "sn22.124:2.1": {
+            "scid": "sn22.124:2.1",
+            "pli": "“Yaṁ kiñci, kappa, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "en": "“Kappa, one truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n12. A Dhamma speaker\n124. With Kappa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 13,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.71_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.71_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.71",
+        "lang": "en",
+        "segMap": {
+          "sn22.71:1.4": {
+            "scid": "sn22.71:1.4",
+            "pli": "“Yaṁ kiñci, rādha, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "en": "“Rādha, one truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n7. The Perfected Ones\n71. With Rādha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.91_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.91_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.91",
+        "lang": "en",
+        "segMap": {
+          "sn22.91:2.1": {
+            "scid": "sn22.91:2.1",
+            "pli": "“Yaṁ kiñci, rāhula, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "en": "“Rāhula, one truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n9. Senior Mendicants\n91. Rāhula",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.92_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.92_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.92",
+        "lang": "en",
+        "segMap": {
+          "sn22.92:2.1": {
+            "scid": "sn22.92:2.1",
+            "pli": "“Yaṁ kiñci, rāhula, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā …pe… yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti. ",
+            "en": "“Rāhula, when one truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self,’ one is freed by not grasping. ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n9. Senior Mendicants\n92. Rāhula (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.125_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.125_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.125",
+        "lang": "en",
+        "segMap": {
+          "sn22.125:2.1": {
+            "scid": "sn22.125:2.1",
+            "pli": "“Yaṁ kiñci, kappa, rūpaṁ atītānāgatapaccuppannaṁ …pe… sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādāvimutto hoti. ",
+            "en": "“Kappa, one is freed by not grasping having truly seen <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n12. A Dhamma speaker\n125. With Kappa (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn18/sn18.22_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn18/sn18.22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn18.22",
+        "lang": "en",
+        "segMap": {
+          "sn18.22:1.4": {
+            "scid": "sn18.22:1.4",
+            "pli": "“Yaṁ kiñci, rāhula, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti. ",
+            "en": "“Rāhula, when one truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self,’ one is freed by not grasping. ",
+            "matched": true
+          }
+        },
+        "score": 1.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 18\nChapter Two\n22. Rid of Conceit",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.72_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.72_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.72",
+        "lang": "en",
+        "segMap": {
+          "sn22.72:1.4": {
+            "scid": "sn22.72:1.4",
+            "pli": "“Yaṁ kiñci, surādha, rūpaṁ atītānāgatapaccuppannaṁ …pe… yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādāvimutto hoti. ",
+            "en": "“Surādha, one is freed by not grasping having truly seen <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n7. The Perfected Ones\n72. With Surādha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.133_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.133_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.133",
+        "lang": "en",
+        "segMap": {
+          "an3.133:2.2": {
+            "scid": "an3.133:2.2",
+            "pli": "Idha, bhikkhave, bhikkhu yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "en": "It’s when a mendicant truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.04,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n14. A Warrior\n133. A Warrior",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 25,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.181_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.181_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.181",
+        "lang": "en",
+        "segMap": {
+          "an4.181:3.2": {
+            "scid": "an4.181:3.2",
+            "pli": "Idha, bhikkhave, bhikkhu yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "en": "It’s when a mendicant truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n19. Brahmins\n181. A Warrior",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn24/sn24.71_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn24/sn24.71_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn24.71",
+        "lang": "en",
+        "segMap": {
+          "sn24.71:3.1": {
+            "scid": "sn24.71:3.1",
+            "pli": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā, oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. ",
+            "en": "“So you should truly see <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 24\n4. The Fourth Round\n71. Winds",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 40,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn24/sn24.96_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn24/sn24.96_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn24.96",
+        "lang": "en",
+        "segMap": {
+          "sn24.96:4.1": {
+            "scid": "sn24.96:4.1",
+            "pli": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. ",
+            "en": "“So you should truly see <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 24\n4. The Fourth Round\n96. The Self Is Neither Happy Nor Suffering",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.95_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.95_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.95",
+        "lang": "en",
+        "segMap": {
+          "sn22.95:2.2": {
+            "scid": "sn22.95:2.2",
+            "pli": "Evameva kho, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ …pe… yaṁ dūre santike vā taṁ bhikkhu passati nijjhāyati yoniso upaparikkhati. Tassa taṁ passato nijjhāyato yoniso upaparikkhato rittakaññeva khāyati, tucchakaññeva khāyati, asārakaññeva khāyati. Kiñhi siyā, bhikkhave, rūpe sāro? ",
+            "en": "In the same way, a mendicant sees and contemplates <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; near or far—examining it carefully. And it appears to them as completely void, hollow, and insubstantial. For what substance could there be in form? ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n10. Flowers\n95. A Lump of Foam",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 51,
+          "en": 50
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.59_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.59",
+        "lang": "en",
+        "segMap": {
+          "sn22.59:7.1": {
+            "scid": "sn22.59:7.1",
+            "pli": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. ",
+            "en": "“So you should truly see <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n6. Involvement\n59. The Characteristic of Not-Self",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 59,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.49_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.49_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.49",
+        "lang": "en",
+        "segMap": {
+          "sn22.49:5.1": {
+            "scid": "sn22.49:5.1",
+            "pli": "“Tasmātiha, soṇa, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. ",
+            "en": "“So, Soṇa, you should truly see <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n5. Be Your Own Island\n49. With Soṇa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 63,
+          "en": 62
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.196_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.196",
+        "lang": "en",
+        "segMap": {
+          "an4.196:11.3": {
+            "scid": "an4.196:11.3",
+            "pli": "Sammāsamādhi, sāḷha, ariyasāvako yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "en": "A noble disciple with right immersion truly sees <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n20. The Great Chapter\n196. With Sāḷha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 71,
+          "en": 70
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn44/sn44.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn44/sn44.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn44.2",
+        "lang": "en",
+        "segMap": {
+          "sn44.2:15.1": {
+            "scid": "sn44.2:15.1",
+            "pli": "“Tasmātiha, anurādha, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. ",
+            "en": "“So, Anurādha, you should truly see <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 44\n1. The Undeclared Points\n2. With Anurādha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 100,
+          "en": 99
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn62_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn62_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn62",
+        "lang": "en",
+        "segMap": {
+          "mn62:3.2": {
+            "scid": "mn62:3.2",
+            "pli": "“yaṁ kiñci, rāhula, rūpaṁ—atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā—sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabban”ti. ",
+            "en": "“Rāhula, you should truly see <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’” ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 62\nThe Longer Advice to Rāhula",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 122,
+          "en": 121
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.79_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.79_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.79",
+        "lang": "en",
+        "segMap": {
+          "sn22.79:11.19": {
+            "scid": "sn22.79:11.19",
+            "pli": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. ",
+            "en": "“So you should truly see <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n8. Itchy\n79. Itchy",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 153,
+          "en": 152
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.70_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.70_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.70",
+        "lang": "en",
+        "segMap": {
+          "sn12.70:16.1": {
+            "scid": "sn12.70:16.1",
+            "pli": "“Tasmātiha, susima, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ netaṁ mama nesohamasmi na meso attāti; evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. ",
+            "en": "“So, Susīma, you should truly see <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n7. The Great Chapter\n70. The Wanderer Susīma",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 180,
+          "en": 176
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn22",
+        "lang": "en",
+        "segMap": {
+          "mn22:27.1": {
+            "scid": "mn22:27.1",
+            "pli": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ, ajjhattaṁ vā bahiddhā vā, oḷārikaṁ vā sukhumaṁ vā, hīnaṁ vā paṇītaṁ vā, yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti—evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. ",
+            "en": "“So, mendicants, you should truly see <span class=\"ebt-matched\">any kind of form</span> at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 22\nThe Simile of the Snake",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 359,
+          "en": 358
+        }
+      }
+    ]
+  }
+}

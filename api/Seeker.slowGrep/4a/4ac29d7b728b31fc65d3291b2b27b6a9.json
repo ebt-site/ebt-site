@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bsei.* abhängig entstanden",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/sn/sn12/sn12.25_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/sn/sn12/sn12.24_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/sn/sn12/sn12.26_translation-de-sabbamitta.json:1"
+  ]
+}

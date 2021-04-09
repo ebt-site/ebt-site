@@ -1,0 +1,80 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "prevents another from giving",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "prevents another from giving",
+    "method": "phrase",
+    "resultPattern": "\\bprevents another from giving",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.57_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.57_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.57/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.57_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.57",
+        "lang": "en",
+        "segMap": {
+          "an3.57:2.6": {
+            "scid": "an3.57:2.6",
+            "pli": "Yo kho, vaccha, paraṁ dānaṁ dadantaṁ vāreti so tiṇṇaṁ antarāyakaro hoti, tiṇṇaṁ pāripanthiko. ",
+            "en": "Anyone who <span class=\"ebt-matched\">prevents another from giving</span> makes an obstacle and a barrier for three people. ",
+            "matched": true
+          },
+          "an3.57:2.9": {
+            "scid": "an3.57:2.9",
+            "pli": "Yo kho, vaccha, paraṁ dānaṁ dadantaṁ vāreti so imesaṁ tiṇṇaṁ antarāyakaro hoti, tiṇṇaṁ pāripanthiko. ",
+            "en": "Anyone who <span class=\"ebt-matched\">prevents another from giving</span> makes an obstacle and a barrier for these three people. ",
+            "matched": true
+          }
+        },
+        "score": 2.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n6. Brahmins\n57. With Vacchagotta",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 77,
+          "en": 76
+        }
+      }
+    ]
+  }
+}

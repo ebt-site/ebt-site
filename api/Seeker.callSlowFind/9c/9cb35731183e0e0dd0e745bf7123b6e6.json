@@ -1,0 +1,129 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wenn dieses besteht, ist jenes",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wenn dieses besteht, ist jenes",
+    "method": "phrase",
+    "resultPattern": "\\bwenn dieses besteht, ist jenes",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn12/sn12.22_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.22_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.22_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.21_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.21_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.21_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn12.22/de/sabbamitta",
+      "sn12.21/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.21_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.21_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.21",
+        "lang": "de",
+        "segMap": {
+          "sn12.21:1.8": {
+            "scid": "sn12.21:1.8",
+            "pli": "Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati. ",
+            "de": "<span class=\"ebt-matched\">Wenn dieses besteht, ist jenes</span>; aufgrund des Entstehens von diesem entsteht jenes. ",
+            "en": "When this exists, that is; due to the arising of this, that arises. ",
+            "matched": true
+          },
+          "sn12.21:1.9": {
+            "scid": "sn12.21:1.9",
+            "pli": "Imasmiṁ asati idaṁ na hoti, imassa nirodhā idaṁ nirujjhati. ",
+            "de": "Wenn dieses nicht besteht, ist jenes nicht; aufgrund des Aufhörens von diesem hört jenes auf. Das heißt: ",
+            "en": "When this doesn’t exist, that is not; due to the cessation of this, that ceases. That is: ",
+            "matched": true
+          }
+        },
+        "score": 2.105,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n3. Die zehn Kräfte\n21. Die zehn Kräfte",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 19,
+          "de": 18,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.22_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.22_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.22_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.22",
+        "lang": "de",
+        "segMap": {
+          "sn12.22:1.8": {
+            "scid": "sn12.22:1.8",
+            "pli": "Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
+            "de": "<span class=\"ebt-matched\">Wenn dieses besteht, ist jenes</span>; aufgrund des Entstehens von diesem entsteht jenes. ",
+            "en": "When this exists, that is; due to the arising of this, that arises. ",
+            "matched": true
+          },
+          "sn12.22:1.9": {
+            "scid": "sn12.22:1.9",
+            "pli": "imasmiṁ asati idaṁ na hoti imassa nirodhā idaṁ nirujjhati. ",
+            "de": "Wenn dieses nicht besteht, ist jenes nicht; aufgrund des Aufhörens von diesem hört jenes auf. Das heißt: ",
+            "en": "When this doesn’t exist, that is not; due to the cessation of this, that ceases. That is: ",
+            "matched": true
+          }
+        },
+        "score": 2.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n3. Die zehn Kräfte\n22. Die zehn Kräfte (2)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 34,
+          "de": 33,
+          "en": 33
+        }
+      }
+    ]
+  }
+}

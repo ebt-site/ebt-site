@@ -1,0 +1,418 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "shoulders drooping",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "shoulders drooping",
+    "method": "phrase",
+    "resultPattern": "\\bshoulders drooping",
+    "segsMatched": 15,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.64_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.64_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn4/sn4.25_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn4/sn4.25_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn93_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn93_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn35_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn35_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn152_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn152_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.49_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.49_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.94_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.94_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.93_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.93_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.64/en/sujato",
+      "dn25/en/sujato",
+      "sn4.25/en/sujato",
+      "mn93/en/sujato",
+      "mn38/en/sujato",
+      "mn35/en/sujato",
+      "mn22/en/sujato",
+      "mn152/en/sujato",
+      "an5.49/en/sujato",
+      "an10.94/en/sujato",
+      "an10.93/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.64_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.64_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.64",
+        "lang": "en",
+        "segMap": {
+          "an3.64:6.6": {
+            "scid": "an3.64:6.6",
+            "pli": "Evaṁ vutte, sarabho paribbājako tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. ",
+            "en": "When this was said, Sarabha sat silent, embarrassed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say. ",
+            "matched": true
+          },
+          "an3.64:8.3": {
+            "scid": "an3.64:8.3",
+            "pli": "So vata mayā sādhukaṁ samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno aṭṭhānametaṁ anavakāso yaṁ so tiṇṇaṁ ṭhānānaṁ nāññataraṁ ṭhānaṁ nigaccheyya, aññena vā aññaṁ paṭicarissati, bahiddhā kathaṁ apanāmessati, kopañca dosañca appaccayañca pātukarissati, tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdissati, seyyathāpi sarabho paribbājako. ",
+            "en": "When grilled by me, they would, without a doubt, fall into one of these three categories. They’d dodge the issue, distracting the discussion with irrelevant points. They’d display annoyance, hate, and bitterness. Or they’d sit silent, embarrassed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say, like Sarabha. ",
+            "matched": true
+          },
+          "an3.64:9.3": {
+            "scid": "an3.64:9.3",
+            "pli": "So vata mayā sādhukaṁ samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno aṭṭhānametaṁ anavakāso yaṁ so tiṇṇaṁ ṭhānānaṁ nāññataraṁ ṭhānaṁ nigaccheyya, aññena vā aññaṁ paṭicarissati, bahiddhā kathaṁ apanāmessati, kopañca dosañca appaccayañca pātukarissati, tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdissati, seyyathāpi sarabho paribbājako. ",
+            "en": "When grilled by me, they would, without a doubt, fall into one of these three categories. They’d dodge the issue, distracting the discussion with irrelevant points. They’d display annoyance, hate, and bitterness. Or they’d sit silent, embarrassed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say, like Sarabha. ",
+            "matched": true
+          },
+          "an3.64:10.3": {
+            "scid": "an3.64:10.3",
+            "pli": "So vata mayā sādhukaṁ samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno aṭṭhānametaṁ anavakāso yaṁ so tiṇṇaṁ ṭhānānaṁ nāññataraṁ ṭhānaṁ nigaccheyya, aññena vā aññaṁ paṭicarissati, bahiddhā kathaṁ apanāmessati, kopañca dosañca appaccayañca pātukarissati, tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdissati, seyyathāpi sarabho paribbājako”ti. ",
+            "en": "When grilled by me, they would, without a doubt, fall into one of these three categories. They’d dodge the issue, distracting the discussion with irrelevant points. They’d display annoyance, hate, and bitterness. Or they’d sit silent, embarrassed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say, like Sarabha.” ",
+            "matched": true
+          }
+        },
+        "score": 4.066,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n64. With Sarabha",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "en",
+        "segMap": {
+          "dn25:20.11": {
+            "scid": "dn25:20.11",
+            "pli": "Evaṁ vutte, nigrodho paribbājako tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. ",
+            "en": "When he said this, Nigrodha sat silent, embarrassed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say. ",
+            "matched": true
+          },
+          "dn25:24.1": {
+            "scid": "dn25:24.1",
+            "pli": "Evaṁ vutte, te paribbājakā tuṇhībhūtā maṅkubhūtā pattakkhandhā adhomukhā pajjhāyantā appaṭibhānā nisīdiṁsu yathā taṁ mārena pariyuṭṭhitacittā. ",
+            "en": "When this was said, those wanderers sat silent, dismayed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say, as if their minds were possessed by Māra. ",
+            "matched": true
+          }
+        },
+        "score": 2.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 25\nThe Lion’s Roar at Udumbarikā’s Monastery\n1. On the Wanderer Nigrodha",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 383,
+          "en": 382
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.49_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.49_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.49",
+        "lang": "en",
+        "segMap": {
+          "an5.49:2.4": {
+            "scid": "an5.49:2.4",
+            "pli": "Evaṁ vutte, rājā pasenadi kosalo dukkhī dummano pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. ",
+            "en": "When this was said, King Pasenadi was miserable and sad. He sat with his <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say. ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n5. With King Muṇḍa\n49. The King of Kosala",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.94_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.94_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.94",
+        "lang": "en",
+        "segMap": {
+          "an10.94:6.1": {
+            "scid": "an10.94:6.1",
+            "pli": "Evaṁ vutte te paribbājakā tuṇhībhūtā maṅkubhūtā pattakkhandhā adhomukhā pajjhāyantā appaṭibhānā nisīdiṁsu. ",
+            "en": "When this was said, those wanderers sat silent, dismayed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say. ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n94. With Vajjiyamāhita",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 63,
+          "en": 62
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.93_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.93_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.93",
+        "lang": "en",
+        "segMap": {
+          "an10.93:15.1": {
+            "scid": "an10.93:15.1",
+            "pli": "Evaṁ vutte te paribbājakā tuṇhībhūtā maṅkubhūtā pattakkhandhā adhomukhā pajjhāyantā appaṭibhānā nisīdiṁsu. ",
+            "en": "When this was said, those wanderers sat silent, dismayed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n93. What Is Your View?",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 103,
+          "en": 102
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn4/sn4.25_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn4/sn4.25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn4.25",
+        "lang": "en",
+        "segMap": {
+          "sn4.25:1.1": {
+            "scid": "sn4.25:1.1",
+            "pli": "Atha kho māro pāpimā bhagavato santike imā nibbejanīyā gāthāyo abhāsitvā tamhā ṭhānā apakkamma bhagavato avidūre pathaviyaṁ pallaṅkena nisīdi tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno kaṭṭhena bhūmiṁ vilikhanto. ",
+            "en": "And then Māra the Wicked, after reciting these verses of disillusionment in the Buddha’s presence, left that place. He sat cross-legged on the ground not far from the Buddha, silent, embarrassed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say, scratching the ground with a stick. ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 4\n3. Māra\n25. Māra’s Daughters",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 116,
+          "en": 115
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn152_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn152_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn152",
+        "lang": "en",
+        "segMap": {
+          "mn152:2.11": {
+            "scid": "mn152:2.11",
+            "pli": "Evaṁ vutte, uttaro māṇavo pārāsiviyantevāsī tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. ",
+            "en": "When he said this, Uttara sat silent, embarrassed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say. ",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 152\nThe Development of the Faculties",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 141,
+          "en": 139
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn35_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn35_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn35",
+        "lang": "en",
+        "segMap": {
+          "mn35:22.13": {
+            "scid": "mn35:22.13",
+            "pli": "Evaṁ vutte, saccako nigaṇṭhaputto tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. ",
+            "en": "When this was said, Saccaka sat silent, embarrassed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 35\nThe Shorter Discourse With Saccaka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 235,
+          "en": 234
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn93_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn93_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn93",
+        "lang": "en",
+        "segMap": {
+          "mn93:17.5": {
+            "scid": "mn93:17.5",
+            "pli": "Evaṁ vutte, assalāyano māṇavo tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. ",
+            "en": "When he said this, Assalāyana sat silent, embarrassed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 93\nWith Assalāyana",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 244,
+          "en": 243
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn22",
+        "lang": "en",
+        "segMap": {
+          "mn22:7.6": {
+            "scid": "mn22:7.6",
+            "pli": "Evaṁ vutte, ariṭṭho bhikkhu gaddhabādhipubbo tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. ",
+            "en": "When this was said, Ariṭṭha sat silent, embarrassed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 22\nThe Simile of the Snake",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 359,
+          "en": 358
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn38",
+        "lang": "en",
+        "segMap": {
+          "mn38:6.6": {
+            "scid": "mn38:6.6",
+            "pli": "Evaṁ vutte, sāti bhikkhu kevaṭṭaputto tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. ",
+            "en": "When this was said, Sāti sat silent, embarrassed, <span class=\"ebt-matched\">shoulders drooping</span>, downcast, depressed, with nothing to say. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 38\nThe Longer Discourse on the Ending of Craving",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 445,
+          "en": 444
+        }
+      }
+    ]
+  }
+}

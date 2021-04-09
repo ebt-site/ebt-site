@@ -1,0 +1,290 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "mind of love",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "mind of love",
+    "method": "phrase",
+    "resultPattern": "\\bmind of love",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an1/an1.51-60_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.51-60_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.62_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.62_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.67_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.67_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag3.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag3.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag14.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag14.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga7/iti60_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga7/iti60_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga3/iti22_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga3/iti22_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an1.51-60/en/sujato",
+      "an7.62/en/sujato",
+      "an4.67/en/sujato",
+      "thag3.7/en/sujato",
+      "thag14.1/en/sujato",
+      "iti60/en/sujato",
+      "iti22/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.51-60_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.51-60_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.51-60",
+        "lang": "en",
+        "segMap": {
+          "an1.53:1.1": {
+            "scid": "an1.53:1.1",
+            "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ āsevati; ",
+            "en": "“If, mendicants, a mendicant cultivates a <span class=\"ebt-matched\">mind of love</span> even as long as a finger-snap, ",
+            "matched": true
+          },
+          "an1.54:1.1": {
+            "scid": "an1.54:1.1",
+            "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ bhāveti; ",
+            "en": "“If, mendicants, a mendicant develops a <span class=\"ebt-matched\">mind of love</span> even as long as a finger-snap, ",
+            "matched": true
+          },
+          "an1.55:1.1": {
+            "scid": "an1.55:1.1",
+            "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ manasi karoti; ",
+            "en": "“If, mendicants, a mendicant focuses on a <span class=\"ebt-matched\">mind of love</span> even as long as a finger-snap, ",
+            "matched": true
+          }
+        },
+        "score": 3.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 1\n6. Finger-Snap\n51–60",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 54,
+          "en": 53
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.67_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.67_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.67",
+        "lang": "en",
+        "segMap": {
+          "an4.67:2.1": {
+            "scid": "an4.67:2.1",
+            "pli": "“Na hi nūna so, bhikkhave, bhikkhu cattāri ahirājakulāni mettena cittena phari. ",
+            "en": "“Mendicants, that monk mustn’t have spread a <span class=\"ebt-matched\">mind of love</span> to the four royal snake families. ",
+            "matched": true
+          },
+          "an4.67:4.1": {
+            "scid": "an4.67:4.1",
+            "pli": "Anujānāmi, bhikkhave, imāni cattāri ahirājakulāni mettena cittena pharituṁ attaguttiyā attarakkhāya attaparittāyāti. ",
+            "en": "Mendicants, I urge you to spread a <span class=\"ebt-matched\">mind of love</span> to the four royal snake families, for your own safety, security, and protection. ",
+            "matched": true
+          }
+        },
+        "score": 2.049,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n7. Deeds of Substance\n67. The Snake King",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 41,
+          "en": 40
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.62_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.62_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.62",
+        "lang": "en",
+        "segMap": {
+          "an7.62:1.4": {
+            "scid": "an7.62:1.4",
+            "pli": "Satta vassāni mettacittaṁ bhāvesiṁ. ",
+            "en": "I developed a <span class=\"ebt-matched\">mind of love</span> for seven years. ",
+            "matched": true
+          },
+          "an7.62:3.3": {
+            "scid": "an7.62:3.3",
+            "pli": "Mettaṁ cittaṁ vibhāvetvā, ",
+            "en": "I developed a <span class=\"ebt-matched\">mind of love</span> ",
+            "matched": true
+          }
+        },
+        "score": 2.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n6. The Undeclared Points\n62. Don’t Fear Good Deeds",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 60,
+          "en": 59
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag3.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag3.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag3.7",
+        "lang": "en",
+        "segMap": {
+          "thag3.7:2.1": {
+            "scid": "thag3.7:2.1",
+            "pli": "Yo ca mettena cittena,",
+            "en": "But someone with a <span class=\"ebt-matched\">mind of love</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Threes\nChapter One\n3.7. Vāraṇa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga7/iti60_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga7/iti60_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti60",
+        "lang": "en",
+        "segMap": {
+          "iti60:3.4": {
+            "scid": "iti60:3.4",
+            "pli": "mettacittañca bhāvaye.",
+            "en": "developing a <span class=\"ebt-matched\">mind of love</span>:",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Threes\nChapter Two\n60. Grounds for Making Merit",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga3/iti22_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga3/iti22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti22",
+        "lang": "en",
+        "segMap": {
+          "iti22:5.4": {
+            "scid": "iti22:5.4",
+            "pli": "mettacittañca bhāvaye.",
+            "en": "developing a <span class=\"ebt-matched\">mind of love</span>:",
+            "matched": true
+          }
+        },
+        "score": 1.031,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Ones\nChapter Three\n22. The Benefits of Love",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 32,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag14.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag14.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag14.1",
+        "lang": "en",
+        "segMap": {
+          "thag14.1:4.3": {
+            "scid": "thag14.1:4.3",
+            "pli": "Mettacittañca bhāvemi,",
+            "en": "I develop a <span class=\"ebt-matched\">mind of love</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Fourteens\nChapter One\n14.1. Khadiravaniyarevata",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      }
+    ]
+  }
+}

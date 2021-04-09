@@ -1,0 +1,364 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "in disgust of sin",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "in disgust of sin",
+    "method": "phrase",
+    "resultPattern": "\\bin disgust of sin",
+    "segsMatched": 32,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn8_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn8_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.196_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn2/sn2.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn2/sn2.30_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn12_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn12_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn25/en/sujato",
+      "dn8/en/sujato",
+      "an4.196/en/sujato",
+      "sn2.30/en/sujato",
+      "mn12/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "en",
+        "segMap": {
+          "dn25:7.0": {
+            "scid": "dn25:7.0",
+            "pli": "2. Tapojigucchāvāda ",
+            "en": "2. Mortification <span class=\"ebt-matched\">in Disgust of Sin</span> ",
+            "matched": true
+          },
+          "dn25:7.16": {
+            "scid": "dn25:7.16",
+            "pli": "Iṅgha tvaṁ maṁ, nigrodha, sake ācariyake adhijegucche pañhaṁ puccha: ",
+            "en": "Please ask me a question about the higher mortification <span class=\"ebt-matched\">in disgust of sin</span> in your own tradition: ",
+            "matched": true
+          },
+          "dn25:7.17": {
+            "scid": "dn25:7.17",
+            "pli": "‘kathaṁ santā nu kho, bhante, tapojigucchā paripuṇṇā hoti, kathaṁ aparipuṇṇā’”ti? ",
+            "en": "‘How are the conditions for the mortification <span class=\"ebt-matched\">in disgust of sin</span> completed, and how are they incomplete?’” ",
+            "matched": true
+          },
+          "dn25:8.2": {
+            "scid": "dn25:8.2",
+            "pli": "“mayaṁ kho, bhante, tapojigucchāvādā tapojigucchāsārā tapojigucchāallīnā viharāma. ",
+            "en": "“Sir, we teach mortification <span class=\"ebt-matched\">in disgust of sin</span>, regarding it as essential and clinging to it. ",
+            "matched": true
+          },
+          "dn25:8.3": {
+            "scid": "dn25:8.3",
+            "pli": "Kathaṁ santā nu kho, bhante, tapojigucchā paripuṇṇā hoti, kathaṁ aparipuṇṇā”ti? ",
+            "en": "How are the conditions for the mortification <span class=\"ebt-matched\">in disgust of sin</span> completed, and how are they incomplete?” ",
+            "matched": true
+          },
+          "dn25:8.23": {
+            "scid": "dn25:8.23",
+            "pli": "yadi evaṁ sante tapojigucchā paripuṇṇā vā hoti aparipuṇṇā vā”ti? ",
+            "en": "If this is so, is the mortification <span class=\"ebt-matched\">in disgust of sin</span> complete, or incomplete?” ",
+            "matched": true
+          },
+          "dn25:8.24": {
+            "scid": "dn25:8.24",
+            "pli": "“Addhā kho, bhante, evaṁ sante tapojigucchā paripuṇṇā hoti, no aparipuṇṇā”ti. ",
+            "en": "“Clearly, sir, if that is so the mortification <span class=\"ebt-matched\">in disgust of sin</span> is complete, not incomplete.” ",
+            "matched": true
+          },
+          "dn25:15.15": {
+            "scid": "dn25:15.15",
+            "pli": "yadi evaṁ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti? ",
+            "en": "If this is so, is the mortification <span class=\"ebt-matched\">in disgust of sin</span> purified or not?” ",
+            "matched": true
+          },
+          "dn25:15.17": {
+            "scid": "dn25:15.17",
+            "pli": "“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca; ",
+            "en": "“No, Nigrodha, at this point the mortification <span class=\"ebt-matched\">in disgust of sin</span> has not yet reached the peak and the pith. ",
+            "matched": true
+          },
+          "dn25:16.1": {
+            "scid": "dn25:16.1",
+            "pli": "“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca? ",
+            "en": "“But at what point, sir, does the mortification <span class=\"ebt-matched\">in disgust of sin</span> reach the peak and the pith? ",
+            "matched": true
+          },
+          "dn25:17.7": {
+            "scid": "dn25:17.7",
+            "pli": "Yadi evaṁ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti? ",
+            "en": "If this is so, is the mortification <span class=\"ebt-matched\">in disgust of sin</span> purified or not?” ",
+            "matched": true
+          },
+          "dn25:17.9": {
+            "scid": "dn25:17.9",
+            "pli": "“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca; ",
+            "en": "“No, Nigrodha, at this point the mortification <span class=\"ebt-matched\">in disgust of sin</span> has not yet reached the peak and the pith. ",
+            "matched": true
+          },
+          "dn25:18.1": {
+            "scid": "dn25:18.1",
+            "pli": "“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca? ",
+            "en": "“But at what point, sir, does the mortification <span class=\"ebt-matched\">in disgust of sin</span> reach the peak and the pith? ",
+            "matched": true
+          },
+          "dn25:18.15": {
+            "scid": "dn25:18.15",
+            "pli": "yadi evaṁ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti? ",
+            "en": "If this is so, is the mortification <span class=\"ebt-matched\">in disgust of sin</span> purified or not?” ",
+            "matched": true
+          },
+          "dn25:18.17": {
+            "scid": "dn25:18.17",
+            "pli": "“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca; ",
+            "en": "“No, Nigrodha, at this point the mortification <span class=\"ebt-matched\">in disgust of sin</span> has not yet reached the peak and the pith. ",
+            "matched": true
+          },
+          "dn25:19.1": {
+            "scid": "dn25:19.1",
+            "pli": "“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca? ",
+            "en": "“But at what point, sir, does the mortification <span class=\"ebt-matched\">in disgust of sin</span> reach the peak and the pith? ",
+            "matched": true
+          },
+          "dn25:19.14": {
+            "scid": "dn25:19.14",
+            "pli": "yadi evaṁ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti? ",
+            "en": "If this is so, is the mortification <span class=\"ebt-matched\">in disgust of sin</span> purified or not?” ",
+            "matched": true
+          },
+          "dn25:19.16": {
+            "scid": "dn25:19.16",
+            "pli": "“Ettāvatā kho, nigrodha, tapojigucchā aggappattā ca hoti sārappattā ca. ",
+            "en": "“Nigrodha, at this point the mortification <span class=\"ebt-matched\">in disgust of sin</span> has reached the peak and the pith. ",
+            "matched": true
+          }
+        },
+        "score": 18.047,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 25\nThe Lion’s Roar at Udumbarikā’s Monastery\n1. On the Wanderer Nigrodha",
+        "segsMatched": 18,
+        "langSegs": {
+          "pli": 383,
+          "en": 382
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.196_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.196",
+        "lang": "en",
+        "segMap": {
+          "an4.196:2.2": {
+            "scid": "an4.196:2.2",
+            "pli": "sīlavisuddhihetu ca tapojigucchāhetu ca. ",
+            "en": "purification of ethics, and mortification <span class=\"ebt-matched\">in disgust of sin</span>. ",
+            "matched": true
+          },
+          "an4.196:3.2": {
+            "scid": "an4.196:3.2",
+            "pli": "Ye te, sāḷha, samaṇabrāhmaṇā tapojigucchāvādā tapojigucchāsārā tapojigucchāallīnā viharanti, abhabbā te oghassa nittharaṇāya. ",
+            "en": "But those ascetics and brahmins who teach mortification <span class=\"ebt-matched\">in disgust of sin</span>—regarding it as essential and clinging to it—are incapable of crossing the flood. ",
+            "matched": true
+          },
+          "an4.196:6.1": {
+            "scid": "an4.196:6.1",
+            "pli": "“Evamevaṁ kho, sāḷha, ye te samaṇabrāhmaṇā tapojigucchāvādā tapojigucchāsārā tapojigucchāallīnā viharanti, abhabbā te oghassa nittharaṇāya. ",
+            "en": "“In the same way, Sāḷha, those ascetics and brahmins who teach mortification <span class=\"ebt-matched\">in disgust of sin</span>—regarding it as essential and clinging to it—are incapable of crossing the flood. ",
+            "matched": true
+          },
+          "an4.196:7.1": {
+            "scid": "an4.196:7.1",
+            "pli": "Ye ca kho te, sāḷha, samaṇabrāhmaṇā na tapojigucchāvādā na tapojigucchāsārā na tapojigucchāallīnā viharanti, bhabbā te oghassa nittharaṇāya. ",
+            "en": "But those ascetics and brahmins who don’t teach mortification <span class=\"ebt-matched\">in disgust of sin</span>—not regarding it as essential or clinging to it—are capable of crossing the flood. ",
+            "matched": true
+          },
+          "an4.196:10.1": {
+            "scid": "an4.196:10.1",
+            "pli": "“Evamevaṁ kho, sāḷha, ye te samaṇabrāhmaṇā na tapojigucchāvādā na tapojigucchāsārā na tapojigucchāallīnā viharanti, bhabbā te oghassa nittharaṇāya. ",
+            "en": "“In the same way, Sāḷha, those ascetics and brahmins who don’t teach mortification <span class=\"ebt-matched\">in disgust of sin</span>—not regarding it as essential or clinging to it—are capable of crossing the flood. ",
+            "matched": true
+          }
+        },
+        "score": 5.07,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n20. The Great Chapter\n196. With Sāḷha",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 71,
+          "en": 70
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn8_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn8",
+        "lang": "en",
+        "segMap": {
+          "dn8:21.5": {
+            "scid": "dn8:21.5",
+            "pli": "Santi, kassapa, eke samaṇabrāhmaṇā tapojigucchāvādā. ",
+            "en": "There are, Kassapa, some ascetics and brahmins who teach mortification <span class=\"ebt-matched\">in disgust of sin</span>. ",
+            "matched": true
+          },
+          "dn8:21.6": {
+            "scid": "dn8:21.6",
+            "pli": "Te anekapariyāyena tapojigucchāya vaṇṇaṁ bhāsanti. ",
+            "en": "They praise mortification <span class=\"ebt-matched\">in disgust of sin</span> in many ways. ",
+            "matched": true
+          },
+          "dn8:21.7": {
+            "scid": "dn8:21.7",
+            "pli": "Yāvatā, kassapa, ariyā paramā tapojigucchā, nāhaṁ tattha attano samasamaṁ samanupassāmi, kuto bhiyyo. ",
+            "en": "But as far as the highest noble mortification <span class=\"ebt-matched\">in disgust of sin</span> goes, I don’t see anyone who’s my equal, still less my superior. ",
+            "matched": true
+          },
+          "dn8:21.8": {
+            "scid": "dn8:21.8",
+            "pli": "Atha kho ahameva tattha bhiyyo, yadidaṁ adhijegucchaṁ. ",
+            "en": "Rather, I am the one who is superior when it comes to the higher mortification <span class=\"ebt-matched\">in disgust of sin</span>. ",
+            "matched": true
+          },
+          "dn8:23.2": {
+            "scid": "dn8:23.2",
+            "pli": "Tatra maṁ aññataro tapabrahmacārī nigrodho nāma adhijegucche pañhaṁ apucchi. ",
+            "en": "There a certain practitioner of self-mortification named Nigrodha asked me about the higher mortification <span class=\"ebt-matched\">in disgust of sin</span>. ",
+            "matched": true
+          }
+        },
+        "score": 5.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 8\nThe Longer Discourse on the Lion’s Roar",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 252,
+          "en": 251
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn2/sn2.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn2/sn2.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn2.30",
+        "lang": "en",
+        "segMap": {
+          "sn2.30:4.1": {
+            "scid": "sn2.30:4.1",
+            "pli": "“Tapojigucchāya susaṁvutatto, ",
+            "en": "“Through mortification <span class=\"ebt-matched\">in disgust of sin</span> he became well restrained. ",
+            "matched": true
+          },
+          "sn2.30:12.1": {
+            "scid": "sn2.30:12.1",
+            "pli": "“Tapojigucchāya āyuttā, ",
+            "en": "“Those dedicated to mortification <span class=\"ebt-matched\">in disgust of sin</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 2\n3. Various Sectarians\n30. The Disciples of Various Sectarians",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn12_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn12",
+        "lang": "en",
+        "segMap": {
+          "mn12:47.1": {
+            "scid": "mn12:47.1",
+            "pli": "Tatrāssu me idaṁ, sāriputta, jegucchismiṁ hoti—",
+            "en": "And this is what my living <span class=\"ebt-matched\">in disgust of sin</span> was like. ",
+            "matched": true
+          },
+          "mn12:47.4": {
+            "scid": "mn12:47.4",
+            "pli": "Idaṁsu me, sāriputta, jegucchismiṁ hoti. ",
+            "en": "Such was my living <span class=\"ebt-matched\">in disgust of sin</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 12\nThe Longer Discourse on the Lion’s Roar",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 372,
+          "en": 371
+        }
+      }
+    ]
+  }
+}

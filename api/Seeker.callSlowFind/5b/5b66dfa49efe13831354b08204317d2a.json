@@ -1,0 +1,208 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "nieder, derb, gewöhnlich, unedel und zwecklos",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "nieder, derb, gewöhnlich, unedel und zwecklos",
+    "method": "phrase",
+    "resultPattern": "\\bnieder, derb, gewöhnlich, unedel und zwecklos",
+    "segsMatched": 7,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn29_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn29_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn29_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.30_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.30_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.30_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn56/sn56.11_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn29/de/sabbamitta",
+      "an6.30/de/sabbamitta",
+      "sn56.11/de/sabbamitta",
+      "dn28/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn29_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn29_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn29_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn29",
+        "lang": "de",
+        "segMap": {
+          "dn29:16.14": {
+            "scid": "dn29:16.14",
+            "pli": "Yaṁ kho panetaṁ, cunda, udakena rāmaputtena bhāsitaṁ hīnaṁ gammaṁ pothujjanikaṁ anariyaṁ anatthasaṁhitaṁ khurameva sandhāya. ",
+            "de": "Doch dieser Spruch Uddakas ist <span class=\"ebt-matched\">nieder, derb, gewöhnlich, unedel und zwecklos</span>, da er nur ein Rasiermesser betrifft. ",
+            "en": "But that saying of Uddaka’s is low, crude, ordinary, ignoble, and pointless, as it’s only concerning a razor. ",
+            "matched": true
+          },
+          "dn29:23.6": {
+            "scid": "dn29:23.6",
+            "pli": "Cattārome, cunda, sukhallikānuyogā hīnā gammā pothujjanikā anariyā anatthasaṁhitā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattanti. ",
+            "de": "Vier Arten des Schwelgens in Glück, Cunda, sind <span class=\"ebt-matched\">nieder, derb, gewöhnlich, unedel und zwecklos</span>. Sie führen nicht zu Ernüchterung, Sichabwenden, Aufhören, Frieden, Einsicht, Erwachen und Erlöschen. ",
+            "en": "These four kinds of indulgence in pleasure, Cunda, are low, crude, ordinary, ignoble, and pointless. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. ",
+            "matched": true
+          },
+          "dn29:23.16": {
+            "scid": "dn29:23.16",
+            "pli": "Ime kho, cunda, cattāro sukhallikānuyogā hīnā gammā pothujjanikā anariyā anatthasaṁhitā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattanti. ",
+            "de": "Diese vier Arten des Schwelgens in Glück sind <span class=\"ebt-matched\">nieder, derb, gewöhnlich, unedel und zwecklos</span>. Sie führen nicht zu Ernüchterung, Sichabwenden, Aufhören, Frieden, Einsicht, Erwachen und Erlöschen. ",
+            "en": "These are the four kinds of indulgence in pleasure that are low, crude, ordinary, ignoble, and pointless. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 3.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 29\nEine beeindruckende Lehrrede",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 465,
+          "de": 404,
+          "en": 464
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.30_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.30_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.30",
+        "lang": "de",
+        "segMap": {
+          "an6.30:2.4": {
+            "scid": "an6.30:2.4",
+            "pli": "Tañca kho etaṁ, bhikkhave, dassanaṁ hīnaṁ gammaṁ pothujjanikaṁ anariyaṁ anatthasaṁhitaṁ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. ",
+            "de": "Dieses Sehen ist <span class=\"ebt-matched\">nieder, derb, gewöhnlich, unedel und zwecklos</span>. Es führt nicht zu Ernüchterung, Sichabwenden, Aufhören, Frieden, Einsicht, Erwachen und Erlöschen. ",
+            "en": "That seeing is low, crude, ordinary, ignoble, and pointless. It doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. ",
+            "matched": true
+          },
+          "an6.30:7.4": {
+            "scid": "an6.30:7.4",
+            "pli": "Sā ca kho esā, bhikkhave, anussati hīnā gammā pothujjanikā anariyā anatthasaṁhitā, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. ",
+            "de": "Diese Besinnung ist <span class=\"ebt-matched\">nieder, derb, gewöhnlich, unedel und zwecklos</span>. Sie führt nicht zu Ernüchterung, Sichabwenden, Aufhören, Frieden, Einsicht, Erwachen und Erlöschen. ",
+            "en": "That recollection is low, crude, ordinary, ignoble, and pointless. It doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 2.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n3. Unübertrefflich\n30. Unübertrefflich",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 67,
+          "de": 60,
+          "en": 65
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn56/sn56.11_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.11",
+        "lang": "de",
+        "segMap": {
+          "sn56.11:2.3": {
+            "scid": "sn56.11:2.3",
+            "pli": "Yo cāyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṁhito, yo cāyaṁ attakilamathānuyogo dukkho anariyo anatthasaṁhito. ",
+            "de": "Das Schwelgen in Sinnenfreuden – es ist <span class=\"ebt-matched\">nieder, derb, gewöhnlich, unedel und zwecklos</span>. Und das Schwelgen in Selbstquälerei – es ist schmerzvoll, unedel und zwecklos. ",
+            "en": "Indulgence in sensual pleasures, which is low, crude, ordinary, ignoble, and pointless. And indulgence in self-mortification, which is painful, ignoble, and pointless. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 56\n2. Das Rad des Dhamma ins Rollen bringen\n11. Das Rad des Dhamma ins Rollen bringen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 60,
+          "de": 59,
+          "en": 59
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn28",
+        "lang": "de",
+        "segMap": {
+          "dn28:19.2": {
+            "scid": "dn28:19.2",
+            "pli": "Na ca, bhante, bhagavā kāmesu kāmasukhallikānuyogamanuyutto hīnaṁ gammaṁ pothujjanikaṁ anariyaṁ anatthasaṁhitaṁ, na ca attakilamathānuyogamanuyutto dukkhaṁ anariyaṁ anatthasaṁhitaṁ. ",
+            "de": "Der Buddha schwelgt nicht in Sinnenfreuden – sie sind <span class=\"ebt-matched\">nieder, derb, gewöhnlich, unedel und zwecklos</span>. Und er schwelgt nicht in Selbstquälerei – sie ist schmerzvoll, unedel und zwecklos. ",
+            "en": "The Buddha doesn’t indulge in sensual pleasures, which are low, crude, ordinary, ignoble, and pointless. And he doesn’t indulge in self-mortification, which is painful, ignoble, and pointless. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 28\nZuversicht wecken\n1. Sāriputtas Löwengebrüll",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 250,
+          "de": 236,
+          "en": 249
+        }
+      }
+    ]
+  }
+}

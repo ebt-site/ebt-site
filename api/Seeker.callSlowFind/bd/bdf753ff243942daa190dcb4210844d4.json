@@ -1,0 +1,144 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "giving beauty",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "giving beauty",
+    "method": "phrase",
+    "resultPattern": "\\bgiving beauty",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.37_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.37_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.58_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.57_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.57_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.37/en/sujato",
+      "an4.58/en/sujato",
+      "an4.57/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.37_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.37_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.37",
+        "lang": "en",
+        "segMap": {
+          "an5.37:1.5": {
+            "scid": "an5.37:1.5",
+            "pli": "vaṇṇaṁ datvā vaṇṇassa bhāgī hoti dibbassa vā mānusassa vā; ",
+            "en": "<span class=\"ebt-matched\">Giving beauty</span>, they have beauty as a god or human. ",
+            "matched": true
+          },
+          "an5.37:3.1": {
+            "scid": "an5.37:3.1",
+            "pli": "Āyuṁ datvā balaṁ vaṇṇaṁ, ",
+            "en": "Giving life, strength, beauty, ",
+            "matched": true
+          }
+        },
+        "score": 2.095,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n4. With Sumanā\n37. Food",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.58_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.58",
+        "lang": "en",
+        "segMap": {
+          "an4.58:2.5": {
+            "scid": "an4.58:2.5",
+            "pli": "Vaṇṇaṁ datvā … sukhaṁ datvā … balaṁ datvā balassa bhāgī hoti dibbassa vā mānusassa vā. ",
+            "en": "<span class=\"ebt-matched\">Giving beauty</span> … happiness … strength … ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n6. Overflowing Merit\n58. Sudatta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.57_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.57",
+        "lang": "en",
+        "segMap": {
+          "an4.57:2.5": {
+            "scid": "an4.57:2.5",
+            "pli": "Vaṇṇaṁ datvā vaṇṇassa bhāginī hoti dibbassa vā mānusassa vā. ",
+            "en": "<span class=\"ebt-matched\">Giving beauty</span>, she has beauty as a god or human. ",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n6. Overflowing Merit\n57. Suppavāsā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      }
+    ]
+  }
+}

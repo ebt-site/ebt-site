@@ -1,0 +1,248 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "ゾンビ",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "ゾンビ",
+    "method": "phrase",
+    "resultPattern": "ゾンビ",
+    "segsMatched": 21,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.53_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.53_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an4/an4.53_translation-jpn-kaz.json",
+      "root/pli/ms/sutta/an/an4/an4.54_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.54_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an4/an4.54_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an4.53/jpn/kaz",
+      "an4.54/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.53_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.53_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an4/an4.53_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.53",
+        "lang": "jpn",
+        "segMap": {
+          "an4.53:2.3": {
+            "scid": "an4.53:2.3",
+            "pli": "Chavo chavāya saddhiṁ saṁvasati, ",
+            "en": "A male zombie living with a female zombie; ",
+            "jpn": "男性の<span class=\"ebt-matched\">ゾンビ</span>と女性の<span class=\"ebt-matched\">ゾンビ</span>の同居、",
+            "matched": true
+          },
+          "an4.53:2.4": {
+            "scid": "an4.53:2.4",
+            "pli": "chavo deviyā saddhiṁ saṁvasati, ",
+            "en": "a male zombie living with a goddess; ",
+            "jpn": "男性の<span class=\"ebt-matched\">ゾンビ</span>と女神の同居、",
+            "matched": true
+          },
+          "an4.53:2.5": {
+            "scid": "an4.53:2.5",
+            "pli": "devo chavāya saddhiṁ saṁvasati, ",
+            "en": "a god living with a female zombie; ",
+            "jpn": "男神と女性の<span class=\"ebt-matched\">ゾンビ</span>の同居、",
+            "matched": true
+          },
+          "an4.53:3.1": {
+            "scid": "an4.53:3.1",
+            "pli": "Kathañca, gahapatayo, chavo chavāya saddhiṁ saṁvasati? ",
+            "en": "And how does a male zombie live with a female zombie? ",
+            "jpn": "それではどのように男性の<span class=\"ebt-matched\">ゾンビ</span>と女性の<span class=\"ebt-matched\">ゾンビ</span>は同居するのでしょうか。",
+            "matched": true
+          },
+          "an4.53:3.4": {
+            "scid": "an4.53:3.4",
+            "pli": "Evaṁ kho, gahapatayo, chavo chavāya saddhiṁ saṁvasati. ",
+            "en": "That’s how a male zombie lives with a female zombie. ",
+            "jpn": "このように男性の<span class=\"ebt-matched\">ゾンビ</span>と女性の<span class=\"ebt-matched\">ゾンビ</span>は同居します。",
+            "matched": true
+          },
+          "an4.53:4.1": {
+            "scid": "an4.53:4.1",
+            "pli": "Kathañca, gahapatayo, chavo deviyā saddhiṁ saṁvasati? ",
+            "en": "And how does a male zombie live with a goddess? ",
+            "jpn": "それではどのように男性の<span class=\"ebt-matched\">ゾンビ</span>と女神は同居するのでしょうか。",
+            "matched": true
+          },
+          "an4.53:4.4": {
+            "scid": "an4.53:4.4",
+            "pli": "Evaṁ kho, gahapatayo, chavo deviyā saddhiṁ saṁvasati. ",
+            "en": "That’s how a male zombie lives with a goddess. ",
+            "jpn": "このように男性の<span class=\"ebt-matched\">ゾンビ</span>と女神は同居します。",
+            "matched": true
+          },
+          "an4.53:5.1": {
+            "scid": "an4.53:5.1",
+            "pli": "Kathañca, gahapatayo, devo chavāya saddhiṁ saṁvasati? ",
+            "en": "And how does a god live with a female zombie? ",
+            "jpn": "それではどのように男神と女性の<span class=\"ebt-matched\">ゾンビ</span>は同居するのでしょうか。",
+            "matched": true
+          },
+          "an4.53:5.4": {
+            "scid": "an4.53:5.4",
+            "pli": "Evaṁ kho, gahapatayo, devo chavāya saddhiṁ saṁvasati. ",
+            "en": "That’s how a god lives with a female zombie. ",
+            "jpn": "このように男神と女性の<span class=\"ebt-matched\">ゾンビ</span>は同居します。",
+            "matched": true
+          },
+          "an4.53:7.4": {
+            "scid": "an4.53:7.4",
+            "pli": "chavā saṁvāsamāgatā. ",
+            "en": "live together as zombies. ",
+            "jpn": "<span class=\"ebt-matched\">ゾンビ</span>として同居しています。",
+            "matched": true
+          },
+          "an4.53:8.6": {
+            "scid": "an4.53:8.6",
+            "pli": "chavena patinā saha. ",
+            "en": "with a zombie for a husband. ",
+            "jpn": "<span class=\"ebt-matched\">ゾンビ</span>の夫と同居しています。",
+            "matched": true
+          },
+          "an4.53:9.5": {
+            "scid": "an4.53:9.5",
+            "pli": "Sāpi chavā saṁvasati, ",
+            "en": "she’s a zombie living ",
+            "jpn": "彼女は<span class=\"ebt-matched\">ゾンビ</span>で",
+            "matched": true
+          }
+        },
+        "score": 12.2,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 四集\n第六.　溢れ出る良い報いの元（福徳横溢品）\n53. 同居 （第一）",
+        "segsMatched": 12,
+        "langSegs": {
+          "pli": 60,
+          "en": 59,
+          "jpn": 59
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.54_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.54_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an4/an4.54_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.54",
+        "lang": "jpn",
+        "segMap": {
+          "an4.54:1.3": {
+            "scid": "an4.54:1.3",
+            "pli": "Chavo chavāya saddhiṁ saṁvasati, ",
+            "en": "A male zombie living with a female zombie; ",
+            "jpn": "男性の<span class=\"ebt-matched\">ゾンビ</span>と女性の<span class=\"ebt-matched\">ゾンビ</span>の同居、",
+            "matched": true
+          },
+          "an4.54:1.4": {
+            "scid": "an4.54:1.4",
+            "pli": "chavo deviyā saddhiṁ saṁvasati,",
+            "en": "a male zombie living with a goddess; ",
+            "jpn": "男性の<span class=\"ebt-matched\">ゾンビ</span>と女神の同居、",
+            "matched": true
+          },
+          "an4.54:1.5": {
+            "scid": "an4.54:1.5",
+            "pli": "devo chavāya saddhiṁ saṁvasati, ",
+            "en": "a god living with a female zombie; ",
+            "jpn": "男神と女性の<span class=\"ebt-matched\">ゾンビ</span>の同居、",
+            "matched": true
+          },
+          "an4.54:2.1": {
+            "scid": "an4.54:2.1",
+            "pli": "Kathañca, bhikkhave, chavo chavāya saddhiṁ saṁvasati. ",
+            "en": "And how does a male zombie live with a female zombie? ",
+            "jpn": "それではどのように男性の<span class=\"ebt-matched\">ゾンビ</span>と女性の<span class=\"ebt-matched\">ゾンビ</span>は同居するのでしょうか。",
+            "matched": true
+          },
+          "an4.54:2.4": {
+            "scid": "an4.54:2.4",
+            "pli": "Evaṁ kho, bhikkhave, chavo chavāya saddhiṁ saṁvasati. ",
+            "en": "That’s how a male zombie lives with a female zombie. ",
+            "jpn": "このように男性の<span class=\"ebt-matched\">ゾンビ</span>と女性の<span class=\"ebt-matched\">ゾンビ</span>は同居します。",
+            "matched": true
+          },
+          "an4.54:3.1": {
+            "scid": "an4.54:3.1",
+            "pli": "Kathañca, bhikkhave, chavo deviyā saddhiṁ saṁvasati? ",
+            "en": "And how does a male zombie live with a goddess? ",
+            "jpn": "それではどのように男性の<span class=\"ebt-matched\">ゾンビ</span>と女神は同居するのでしょうか。",
+            "matched": true
+          },
+          "an4.54:3.4": {
+            "scid": "an4.54:3.4",
+            "pli": "Evaṁ kho, bhikkhave, chavo deviyā saddhiṁ saṁvasati. ",
+            "en": "That’s how a male zombie lives with a goddess. ",
+            "jpn": "このように男性の<span class=\"ebt-matched\">ゾンビ</span>と女神は同居します。",
+            "matched": true
+          },
+          "an4.54:4.1": {
+            "scid": "an4.54:4.1",
+            "pli": "Kathañca, bhikkhave, devo chavāya saddhiṁ saṁvasati? ",
+            "en": "And how does a god live with a female zombie? ",
+            "jpn": "それではどのように男神と女性の<span class=\"ebt-matched\">ゾンビ</span>は同居するのでしょうか。",
+            "matched": true
+          },
+          "an4.54:4.4": {
+            "scid": "an4.54:4.4",
+            "pli": "Evaṁ kho, bhikkhave, devo chavāya saddhiṁ saṁvasati. ",
+            "en": "That’s how a god lives with a female zombie. ",
+            "jpn": "このように男神と女性の<span class=\"ebt-matched\">ゾンビ</span>は同居します。",
+            "matched": true
+          }
+        },
+        "score": 9.164,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 四集\n第六.　溢れ出る良い報いの元（福徳横溢品）\n54. 同居（第二）",
+        "segsMatched": 9,
+        "langSegs": {
+          "pli": 55,
+          "en": 54,
+          "jpn": 26
+        }
+      }
+    ]
+  }
+}

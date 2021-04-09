@@ -1,0 +1,331 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "ohne wahrnehmung",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "ohne wahrnehmung",
+    "method": "phrase",
+    "resultPattern": "\\bohne wahrnehmung",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn15_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn15_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.32_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.32_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.32_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.77-86_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.77-86_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.77-86_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/de/sabbamitta",
+      "dn33/de/sabbamitta",
+      "dn28/de/sabbamitta",
+      "dn24/de/sabbamitta",
+      "dn15/de/sabbamitta",
+      "an5.32/de/sabbamitta",
+      "an4.34/de/sabbamitta",
+      "an2.77-86/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.77-86_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.77-86_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.77-86_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.77-86",
+        "lang": "de",
+        "segMap": {
+          "an2.84:1.1": {
+            "scid": "an2.84:1.1",
+            "pli": "“Sasaññā, bhikkhave, uppajjanti pāpakā akusalā dhammā, no asaññā. ",
+            "de": "„Schlechte, untaugliche Eigenschaften, Mönche und Nonnen, entstehen mit einer Wahrnehmung, nicht <span class=\"ebt-matched\">ohne Wahrnehmung</span>. ",
+            "en": "“Bad, unskillful qualities, mendicants, arise with perception, not without perception. ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n8. Auf einer Grundlage\n77–86",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 34,
+          "de": 33,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.34",
+        "lang": "de",
+        "segMap": {
+          "an4.34:1.3": {
+            "scid": "an4.34:1.3",
+            "pli": "Yāvatā, bhikkhave, sattā apadā vā dvipadā vā catuppadā vā bahuppadā vā rūpino vā arūpino vā saññino vā asaññino vā nevasaññināsaññino vā, tathāgato tesaṁ aggamakkhāyati arahaṁ sammāsambuddho. ",
+            "de": "Der Klargewordene, der Vollendete, der vollkommen erwachte Buddha gilt unter den Lebewesen als das beste: unter den Wesen ohne Füße, den Zweibeinern, den Vierbeinern, den Vielfüßigen, denen mit Form und den formlosen, denen mit Wahrnehmung, <span class=\"ebt-matched\">ohne Wahrnehmung</span>, weder mit noch <span class=\"ebt-matched\">ohne Wahrnehmung</span>. ",
+            "en": "The Realized One, the perfected one, the fully awakened Buddha, is said to be the best of all sentient beings—be they footless, with two feet, four feet, or many feet; with form or formless; with perception or without perception or with neither perception nor non-perception. ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n4. Umstände\n34. Zuversicht zu den besten Dingen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 35,
+          "de": 34,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.32_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.32_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.32_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.32",
+        "lang": "de",
+        "segMap": {
+          "an5.32:3.1": {
+            "scid": "an5.32:3.1",
+            "pli": "“Yāvatā, cundi, sattā apadā vā dvipadā vā catuppadā vā bahuppadā vā rūpino vā arūpino vā saññino vā asaññino vā nevasaññināsaññino vā, tathāgato tesaṁ aggamakkhāyati arahaṁ sammāsambuddho. ",
+            "de": "„Cundī, der Klargewordene, der Vollendete, der vollkommen erwachte Buddha gilt unter den Lebewesen als das beste: unter den Wesen ohne Füße, den Zweibeinern, den Vierbeinern, den Vielfüßigen, denen mit Form und den formlosen, denen mit Wahrnehmung, <span class=\"ebt-matched\">ohne Wahrnehmung</span>, weder mit noch <span class=\"ebt-matched\">ohne Wahrnehmung</span>. ",
+            "en": "“Cundī, the Realized One, the perfected one, the fully awakened Buddha, is said to be the best of all sentient beings—be they footless, with two feet, four feet, or many feet; with form or formless; with perception or without perception or with neither perception nor non-perception. ",
+            "matched": true
+          }
+        },
+        "score": 1.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n4. Mit Sumanā\n32. Mit Cundī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 46,
+          "de": 45,
+          "en": 45
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn15_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn15_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn15",
+        "lang": "de",
+        "segMap": {
+          "dn15:33.17": {
+            "scid": "dn15:33.17",
+            "pli": "Asaññasattāyatanaṁ nevasaññānāsaññāyatanameva dutiyaṁ. ",
+            "de": "Dann gibt es die Dimension der Wesen <span class=\"ebt-matched\">ohne Wahrnehmung</span> und zweitens noch die Dimension ‚weder Wahrnehmung noch keine Wahrnehmung‘. ",
+            "en": "Then there’s the dimension of non-percipient beings, and secondly, the dimension of neither perception nor non-perception. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 15\nDie große Lehrrede über das Kausalprinzip\n1. Abhängiges Entstehen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 277,
+          "de": 254,
+          "en": 276
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn28",
+        "lang": "de",
+        "segMap": {
+          "dn28:16.6": {
+            "scid": "dn28:16.6",
+            "pli": "Api ca yasmiṁ yasmiṁ attabhāve abhinivuṭṭhapubbo hoti yadi vā rūpīsu yadi vā arūpīsu yadi vā saññīsu yadi vā asaññīsu yadi vā nevasaññīnāsaññīsu. ",
+            "de": "Ganz gleich, in welchem Körper sie zuvor geboren worden sind – materiell oder formlos, mit Wahrnehmung oder <span class=\"ebt-matched\">ohne Wahrnehmung</span> oder weder mit noch <span class=\"ebt-matched\">ohne Wahrnehmung</span> – ",
+            "en": "Still, no matter what incarnation they have previously been reborn in—whether physical or formless or percipient or non-percipient or neither percipient nor non-percipient—",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 28\nZuversicht wecken\n1. Sāriputtas Löwengebrüll",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 250,
+          "de": 236,
+          "en": 249
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn24",
+        "lang": "de",
+        "segMap": {
+          "dn24:2.20.9": {
+            "scid": "dn24:2.20.9",
+            "pli": "‘Santāvuso, asaññasattā nāma devā. ",
+            "de": "‚Werte Freunde, es gibt Götter mit Namen „Wesen <span class=\"ebt-matched\">ohne Wahrnehmung</span>“. ",
+            "en": "‘Reverends, there are gods named “non-percipient beings”. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 24\nÜber Pāṭikaputta\n1. Die Geschichte von Sunakkhatta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 581,
+          "de": 500,
+          "en": 580
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:3.2.33": {
+            "scid": "dn33:3.2.33",
+            "pli": "Santāvuso, sattā asaññino appaṭisaṁvedino, seyyathāpi devā asaññasattā. ",
+            "de": "Es gibt Lebewesen, die haben keine Wahrnehmung und erleben nichts – wie die göttlichen Wesen <span class=\"ebt-matched\">ohne Wahrnehmung</span>. ",
+            "en": "There are sentient beings that are non-percipient and do not experience anything, such as the gods who are non-percipient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:2.2.19": {
+            "scid": "dn34:2.2.19",
+            "pli": "Santāvuso, sattā asaññino appaṭisaṁvedino, seyyathāpi devā asaññasattā. ",
+            "de": "Es gibt Lebewesen, die haben keine Wahrnehmung und erleben nichts – wie die göttlichen Wesen <span class=\"ebt-matched\">ohne Wahrnehmung</span>. ",
+            "en": "There are sentient beings that are non-percipient and do not experience anything, such as the gods who are non-percipient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

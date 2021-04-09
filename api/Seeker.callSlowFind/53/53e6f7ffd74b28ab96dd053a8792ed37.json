@@ -1,0 +1,115 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "essen zur rechten zeit",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "essen zur rechten zeit",
+    "method": "phrase",
+    "resultPattern": "\\bessen zur rechten zeit",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.59_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.59_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.59_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.58_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.58_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.58_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.59/de/sabbamitta",
+      "an4.58/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.59_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.59_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.59_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.59",
+        "lang": "de",
+        "segMap": {
+          "an4.59:2.1": {
+            "scid": "an4.59:2.1",
+            "pli": "Yo saññatānaṁ paradattabhojinaṁ, ",
+            "de": "Sorgfältig <span class=\"ebt-matched\">Essen zur rechten Zeit</span> ",
+            "en": " ",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n6. Überfließendes Verdienst\n59. Speise",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "de": 17,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.58_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.58_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.58",
+        "lang": "de",
+        "segMap": {
+          "an4.58:3.1": {
+            "scid": "an4.58:3.1",
+            "pli": "Yo saññatānaṁ paradattabhojinaṁ, ",
+            "de": "Sorgfältig <span class=\"ebt-matched\">Essen zur rechten Zeit</span> ",
+            "en": "Carefully giving food at the right time, ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n6. Überfließendes Verdienst\n58. Mit Sudatta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "de": 18,
+          "en": 18
+        }
+      }
+    ]
+  }
+}

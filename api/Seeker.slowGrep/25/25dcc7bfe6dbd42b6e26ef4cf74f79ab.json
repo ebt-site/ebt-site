@@ -1,0 +1,38 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bschmerzhafte",
+      "maxResults": 0,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/dn/dn15_translation-de-sabbamitta.json:7",
+    "translation/de/sabbamitta/sutta/an/an4/an4.195_translation-de-sabbamitta.json:6",
+    "translation/de/sabbamitta/sutta/an/an4/an4.163_translation-de-sabbamitta.json:6",
+    "translation/de/sabbamitta/sutta/an/an4/an4.162_translation-de-sabbamitta.json:6",
+    "translation/de/sabbamitta/sutta/sn/sn35/sn35.28_translation-de-sabbamitta.json:5",
+    "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/an/an4/an4.166_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/mn/mn10_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an4/an4.167_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an2/an2.11-20_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an4/an4.168_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an4/an4.161_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.36_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/sn/sn47/sn47.49_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/sn/sn47/sn47.30_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/sn/sn12/sn12.32_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/kn/thig/thig3.1_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/kn/thig/thig2.9_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/kn/thig/thig2.10_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an6/an6.45_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an2/an2.1-10_translation-de-sabbamitta.json:1"
+  ]
+}

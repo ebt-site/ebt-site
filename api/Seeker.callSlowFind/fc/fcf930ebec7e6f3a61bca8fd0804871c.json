@@ -1,0 +1,342 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "with their own mind",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "with their own mind",
+    "method": "phrase",
+    "resultPattern": "\\bwith their own mind",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn77_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn77_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn51/sn51.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn51/sn51.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn119_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn119_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn108_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn108_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.70_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.70_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.97_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.97_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn77/en/sujato",
+      "dn2/en/sujato",
+      "sn51.11/en/sujato",
+      "mn119/en/sujato",
+      "mn108/en/sujato",
+      "dn34/en/sujato",
+      "an6.70/en/sujato",
+      "an6.2/en/sujato",
+      "an10.97/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn77_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn77_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn77",
+        "lang": "en",
+        "segMap": {
+          "mn77:33.1": {
+            "scid": "mn77:33.1",
+            "pli": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānanti—",
+            "en": "Furthermore, I have explained to my disciples a practice that they use to understand the minds of other beings and individuals, having comprehended them <span class=\"ebt-matched\">with their own mind</span>.",
+            "matched": true
+          },
+          "mn77:33.19": {
+            "scid": "mn77:33.19",
+            "pli": "evameva kho, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānanti—",
+            "en": "In the same way, I have explained to my disciples a practice that they use to understand the minds of other beings and individuals, having comprehended them <span class=\"ebt-matched\">with their own mind</span> … ",
+            "matched": true
+          }
+        },
+        "score": 2.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 77\nThe Longer Discourse with Sakuludāyī",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 390,
+          "en": 373
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn2",
+        "lang": "en",
+        "segMap": {
+          "dn2:91.2": {
+            "scid": "dn2:91.2",
+            "pli": "So parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāti—",
+            "en": "They understand the minds of other beings and individuals, having comprehended them <span class=\"ebt-matched\">with their own mind</span>.",
+            "matched": true
+          },
+          "dn2:92.3": {
+            "scid": "dn2:92.3",
+            "pli": "So parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāti—",
+            "en": "They understand the minds of other beings and individuals, having comprehended them <span class=\"ebt-matched\">with their own mind</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 2\nThe Fruits of the Ascetic Life\n1. A Discussion With the King’s Ministers",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 649,
+          "en": 632
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.70_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.70_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.70",
+        "lang": "en",
+        "segMap": {
+          "an6.70:1.3": {
+            "scid": "an6.70:1.3",
+            "pli": "‘Parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānissati—",
+            "en": "It’s impossible that they’ll understand the minds of other beings and individuals, having comprehended them <span class=\"ebt-matched\">with their own mind</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n7. A God\n70. Immersion",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 20,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.2",
+        "lang": "en",
+        "segMap": {
+          "an6.2:3.1": {
+            "scid": "an6.2:3.1",
+            "pli": "Parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāti. ",
+            "en": "They understand the minds of other beings and individuals, having comprehended them <span class=\"ebt-matched\">with their own mind</span>.",
+            "matched": true
+          }
+        },
+        "score": 1.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n1. Worthy of Offerings\n2. Worthy of Offerings (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 29,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.97_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.97_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.97",
+        "lang": "en",
+        "segMap": {
+          "an10.97:8.1": {
+            "scid": "an10.97:8.1",
+            "pli": "Parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāti.",
+            "en": "They understand the minds of other beings and individuals, having comprehended them <span class=\"ebt-matched\">with their own mind</span>.",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n97. Worthy of Offerings Dedicated to the Gods",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn51/sn51.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn51/sn51.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn51.11",
+        "lang": "en",
+        "segMap": {
+          "sn51.11:7.1": {
+            "scid": "sn51.11:7.1",
+            "pli": "Evaṁ bhāvitesu kho, bhikkhu, catūsu iddhipādesu evaṁ bahulīkatesu, parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāti. ",
+            "en": "When the four bases of psychic power have been developed and cultivated in this way, they understand the minds of other beings and individuals, having comprehended them <span class=\"ebt-matched\">with their own mind</span>.",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 51\n2. Shaking the Stilt Longhouse\n11. Before",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 58,
+          "en": 57
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn108_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn108_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn108",
+        "lang": "en",
+        "segMap": {
+          "mn108:20.1": {
+            "scid": "mn108:20.1",
+            "pli": "Parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāti. ",
+            "en": "They understand the minds of other beings and individuals, having comprehended them <span class=\"ebt-matched\">with their own mind</span>.",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 108\nWith Moggallāna the Guardian",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 160,
+          "en": 159
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn119_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn119_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn119",
+        "lang": "en",
+        "segMap": {
+          "mn119:39.1": {
+            "scid": "mn119:39.1",
+            "pli": "Parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāti. ",
+            "en": "They understand the minds of other beings and individuals, having comprehended them <span class=\"ebt-matched\">with their own mind</span>. … ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 119\nMindfulness of the Body",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 190,
+          "en": 173
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.7.87": {
+            "scid": "dn34:1.7.87",
+            "pli": "Parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāti, ",
+            "en": "They understand the minds of other beings and individuals, having comprehended them <span class=\"ebt-matched\">with their own mind</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

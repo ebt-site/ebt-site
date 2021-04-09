@@ -1,0 +1,106 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "shines a light",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "shines a light",
+    "method": "phrase",
+    "resultPattern": "\\bshines a light",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn2/sn2.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn2/sn2.10_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn10/sn10.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn10/sn10.7_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn2.10/en/sujato",
+      "sn10.7/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn2/sn2.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn2/sn2.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn2.10",
+        "lang": "en",
+        "segMap": {
+          "sn2.10:5.1": {
+            "scid": "sn2.10:5.1",
+            "pli": "Yo andhakāre tamasi pabhaṅkaro, ",
+            "en": "He <span class=\"ebt-matched\">shines a light</span> in the darkness, ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 2\nChapter One\n10. The Sun",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 35,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn10/sn10.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn10/sn10.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn10.7",
+        "lang": "en",
+        "segMap": {
+          "sn10.7:8.2": {
+            "scid": "sn10.7:8.2",
+            "pli": "sammūḷhānaṁ pabhaṅkaro; ",
+            "en": "he <span class=\"ebt-matched\">shines a light</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 10\n1. With Indaka\n7. With Punabbasu",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "en": 47
+        }
+      }
+    ]
+  }
+}

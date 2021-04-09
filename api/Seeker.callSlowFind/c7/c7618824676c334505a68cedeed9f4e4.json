@@ -1,0 +1,80 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "acquire faith",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "acquire faith",
+    "method": "phrase",
+    "resultPattern": "\\bacquire faith",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.30_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.30/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.30",
+        "lang": "en",
+        "segMap": {
+          "an6.30:4.2": {
+            "scid": "an6.30:4.2",
+            "pli": "Idha, bhikkhave, ekacco puttalābhampi labhati, dāralābhampi labhati, dhanalābhampi labhati, uccāvacaṁ vā pana lābhaṁ labhati, samaṇe vā brāhmaṇe vā micchādiṭṭhike micchāpaṭipanne saddhaṁ paṭilabhati. ",
+            "en": "Some people acquire a child, a wife, wealth, or a diverse spectrum of things; or they <span class=\"ebt-matched\">acquire faith</span> in an ascetic or brahmin of wrong view and wrong practice. ",
+            "matched": true
+          },
+          "an6.30:4.5": {
+            "scid": "an6.30:4.5",
+            "pli": "Yo ca kho, bhikkhave, tathāgate vā tathāgatasāvake vā saddhaṁ paṭilabhati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno, etadānuttariyaṁ, bhikkhave, lābhānaṁ sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ tathāgate vā tathāgatasāvake vā saddhaṁ paṭilabhati niviṭṭhasaddho niviṭṭhapemo ekantagato abhippasanno. ",
+            "en": "The unsurpassable acquisition is when someone with settled faith and love, sure and devoted, acquires faith in a Realized One or their disciple. … ",
+            "matched": true
+          }
+        },
+        "score": 2.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n3. Unsurpassable\n30. Unsurpassable",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 67,
+          "en": 65
+        }
+      }
+    ]
+  }
+}

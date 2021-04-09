@@ -1,0 +1,628 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "very long time",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "very long time",
+    "method": "phrase",
+    "resultPattern": "\\bvery long time",
+    "segsMatched": 37,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn27_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn27_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn140_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn140_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn129_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn129_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn1_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn1_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn15/sn15.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn15/sn15.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.47_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.47_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.21_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn15/sn15.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn15/sn15.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn15/sn15.13_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn15/sn15.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig16.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig16.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.29_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.29_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn27/en/sujato",
+      "mn140/en/sujato",
+      "mn129/en/sujato",
+      "dn24/en/sujato",
+      "dn1/en/sujato",
+      "sn15.4/en/sujato",
+      "dn16/en/sujato",
+      "sn56.47/en/sujato",
+      "sn56.21/en/sujato",
+      "sn15.3/en/sujato",
+      "sn15.13/en/sujato",
+      "thig16.1/en/sujato",
+      "an4.1/en/sujato",
+      "an10.29/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn27_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn27",
+        "lang": "en",
+        "segMap": {
+          "dn27:10.1": {
+            "scid": "dn27:10.1",
+            "pli": "Hoti kho so, vāseṭṭha, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
+            "en": "There comes a time when, Vāseṭṭha, after a very long period has passed, this cosmos contracts. ",
+            "matched": true
+          },
+          "dn27:10.3": {
+            "scid": "dn27:10.3",
+            "pli": "Te tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino ciraṁ dīghamaddhānaṁ tiṭṭhanti. ",
+            "en": "There they are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "dn27:10.4": {
+            "scid": "dn27:10.4",
+            "pli": "Hoti kho so, vāseṭṭha, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
+            "en": "There comes a time when, after a very long period has passed, this cosmos expands. ",
+            "matched": true
+          },
+          "dn27:10.6": {
+            "scid": "dn27:10.6",
+            "pli": "Tedha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino ciraṁ dīghamaddhānaṁ tiṭṭhanti. ",
+            "en": "Here they are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "dn27:13.1": {
+            "scid": "dn27:13.1",
+            "pli": "Atha kho te, vāseṭṭha, sattā rasapathaviṁ paribhuñjantā tambhakkhā tadāhārā ciraṁ dīghamaddhānaṁ aṭṭhaṁsu. ",
+            "en": "Then those beings eating the solid nectar, with that as their food and nourishment, remained for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "dn27:14.6": {
+            "scid": "dn27:14.6",
+            "pli": "Te taṁ paribhuñjantā tambhakkhā tadāhārā ciraṁ dīghamaddhānaṁ aṭṭhaṁsu. ",
+            "en": "With that as their food and nourishment, they remained for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "dn27:15.2": {
+            "scid": "dn27:15.2",
+            "pli": "Te taṁ paribhuñjantā tambhakkhā tadāhārā ciraṁ dīghamaddhānaṁ aṭṭhaṁsu. ",
+            "en": "With that as their food and nourishment, they remained for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "dn27:16.5": {
+            "scid": "dn27:16.5",
+            "pli": "Atha kho te, vāseṭṭha, sattā akaṭṭhapākaṁ sāliṁ paribhuñjantā tambhakkhā tadāhārā ciraṁ dīghamaddhānaṁ aṭṭhaṁsu. ",
+            "en": "Then those beings eating the ripe untilled rice, with that as their food and nourishment, remained for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "dn27:18.3": {
+            "scid": "dn27:18.3",
+            "pli": "Mayañhi pubbe manomayā ahumhā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino, ciraṁ dīghamaddhānaṁ aṭṭhamhā. ",
+            "en": "For we used to be mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and we remained like that for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          }
+        },
+        "score": 9.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 27\nWhat Came First",
+        "segsMatched": 9,
+        "langSegs": {
+          "pli": 323,
+          "en": 322
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn24",
+        "lang": "en",
+        "segMap": {
+          "dn24:2.14.11": {
+            "scid": "dn24:2.14.11",
+            "pli": "‘Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
+            "en": "‘There comes a time when, reverends, after a very long period has passed, this cosmos contracts. ",
+            "matched": true
+          },
+          "dn24:2.14.13": {
+            "scid": "dn24:2.14.13",
+            "pli": "Te tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino ciraṁ dīghamaddhānaṁ tiṭṭhanti. ",
+            "en": "There they are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "dn24:2.15.1": {
+            "scid": "dn24:2.15.1",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
+            "en": "There comes a time when, after a very long period has passed, this cosmos expands. ",
+            "matched": true
+          },
+          "dn24:2.15.4": {
+            "scid": "dn24:2.15.4",
+            "pli": "So tattha hoti manomayo pītibhakkho sayampabho antalikkhacaro subhaṭṭhāyī, ciraṁ dīghamaddhānaṁ tiṭṭhati. ",
+            "en": "There they are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "dn24:2.16.4": {
+            "scid": "dn24:2.16.4",
+            "pli": "Tepi tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino, ciraṁ dīghamaddhānaṁ tiṭṭhanti. ",
+            "en": "There they too are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          }
+        },
+        "score": 5.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 24\nAbout Pāṭikaputta\n1. On Sunakkhatta",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 581,
+          "en": 580
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn1_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn1",
+        "lang": "en",
+        "segMap": {
+          "dn1:2.2.1": {
+            "scid": "dn1:2.2.1",
+            "pli": "Hoti kho so, bhikkhave, samayo, yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
+            "en": "There comes a time when, after a very long period has passed, this cosmos contracts. ",
+            "matched": true
+          },
+          "dn1:2.2.3": {
+            "scid": "dn1:2.2.3",
+            "pli": "Te tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino, ciraṁ dīghamaddhānaṁ tiṭṭhanti. ",
+            "en": "There they are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "dn1:2.3.1": {
+            "scid": "dn1:2.3.1",
+            "pli": "Hoti kho so, bhikkhave, samayo, yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
+            "en": "There comes a time when, after a very long period has passed, this cosmos expands. ",
+            "matched": true
+          },
+          "dn1:2.3.4": {
+            "scid": "dn1:2.3.4",
+            "pli": "So tattha hoti manomayo pītibhakkho sayampabho antalikkhacaro subhaṭṭhāyī, ciraṁ dīghamaddhānaṁ tiṭṭhati. ",
+            "en": "There they are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "dn1:2.4.4": {
+            "scid": "dn1:2.4.4",
+            "pli": "Tepi tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino, ciraṁ dīghamaddhānaṁ tiṭṭhanti. ",
+            "en": "There they too are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          }
+        },
+        "score": 5.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 1\nThe Prime Net\n1. Talk on Wanderers",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 662,
+          "en": 661
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn140_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn140_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn140",
+        "lang": "en",
+        "segMap": {
+          "mn140:21.3": {
+            "scid": "mn140:21.3",
+            "pli": "Evaṁ me ayaṁ upekkhā tannissitā tadupādānā ciraṁ dīghamaddhānaṁ tiṭṭheyya. ",
+            "en": "And this equanimity of mine, relying on that and grasping it, would remain for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "mn140:21.5": {
+            "scid": "mn140:21.5",
+            "pli": "Evaṁ me ayaṁ upekkhā tannissitā tadupādānā ciraṁ dīghamaddhānaṁ tiṭṭheyya. ",
+            "en": "And this equanimity of mine, relying on that and grasping it, would remain for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "mn140:21.7": {
+            "scid": "mn140:21.7",
+            "pli": "Evaṁ me ayaṁ upekkhā tannissitā tadupādānā ciraṁ dīghamaddhānaṁ tiṭṭheyya. ",
+            "en": "And this equanimity of mine, relying on that and grasping it, would remain for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "mn140:21.9": {
+            "scid": "mn140:21.9",
+            "pli": "Evaṁ me ayaṁ upekkhā tannissitā tadupādānā ciraṁ dīghamaddhānaṁ tiṭṭheyyā’ti. ",
+            "en": "And this equanimity of mine, relying on that and grasping it, would remain for a <span class=\"ebt-matched\">very long time</span>.’ ",
+            "matched": true
+          }
+        },
+        "score": 4.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 140\nThe Analysis of the Elements",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 239,
+          "en": 238
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn129_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn129_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn129",
+        "lang": "en",
+        "segMap": {
+          "mn129:24.7": {
+            "scid": "mn129:24.7",
+            "pli": "“Yadi pana, bhante, kadāci karahaci dīghassa addhuno accayenā”ti. ",
+            "en": "Only after a <span class=\"ebt-matched\">very long time</span>, sir, if ever.” ",
+            "matched": true
+          },
+          "mn129:25.1": {
+            "scid": "mn129:25.1",
+            "pli": "Sa kho so, bhikkhave, bālo sace kadāci karahaci dīghassa addhuno accayena manussattaṁ āgacchati, yāni tāni nīcakulāni—",
+            "en": "And suppose that fool, after a <span class=\"ebt-matched\">very long time</span>, returned to the human realm. ",
+            "matched": true
+          },
+          "mn129:48.1": {
+            "scid": "mn129:48.1",
+            "pli": "Sa kho so, bhikkhave, paṇḍito sace kadāci karahaci dīghassa addhuno accayena manussattaṁ āgacchati, yāni tāni uccākulāni—",
+            "en": "And suppose that astute person, after a <span class=\"ebt-matched\">very long time</span>, returned to the human realm. ",
+            "matched": true
+          }
+        },
+        "score": 3.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 129\nThe Foolish and the Astute",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 303,
+          "en": 302
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn15/sn15.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn15/sn15.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn15.4",
+        "lang": "en",
+        "segMap": {
+          "sn15.4:1.4": {
+            "scid": "sn15.4:1.4",
+            "pli": "Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā vo iminā dīghena addhunā sandhāvataṁ saṁsarataṁ mātuthaññaṁ pītaṁ, yaṁ vā catūsu mahāsamuddesu udakan”ti? ",
+            "en": "What do you think? Which is more: the mother’s milk you’ve drunk while roaming and transmigrating for such a <span class=\"ebt-matched\">very long time</span>, or the water in the four oceans?” ",
+            "matched": true
+          },
+          "sn15.4:2.2": {
+            "scid": "sn15.4:2.2",
+            "pli": "Etadeva, bhikkhave, bahutaraṁ yaṁ vo iminā dīghena addhunā sandhāvataṁ saṁsarataṁ mātuthaññaṁ pītaṁ, na tveva catūsu mahāsamuddesu udakaṁ. ",
+            "en": "The mother’s milk you’ve drunk while roaming and transmigrating for such a <span class=\"ebt-matched\">very long time</span> is more than the water in the four oceans. ",
+            "matched": true
+          }
+        },
+        "score": 2.143,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 15\nChapter One\n4. Mother’s Milk",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn16",
+        "lang": "en",
+        "segMap": {
+          "dn16:2.2.2": {
+            "scid": "dn16:2.2.2",
+            "pli": "“Catunnaṁ, bhikkhave, ariyasaccānaṁ ananubodhā appaṭivedhā evamidaṁ dīghamaddhānaṁ sandhāvitaṁ saṁsaritaṁ mamañceva tumhākañca. ",
+            "en": "“Mendicants, not understanding and not penetrating four noble truths, both you and I have wandered and transmigrated for such a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          },
+          "dn16:4.2.4": {
+            "scid": "dn16:4.2.4",
+            "pli": "“catunnaṁ, bhikkhave, dhammānaṁ ananubodhā appaṭivedhā evamidaṁ dīghamaddhānaṁ sandhāvitaṁ saṁsaritaṁ mamañceva tumhākañca. ",
+            "en": "“Mendicants, not understanding and not penetrating four things, both you and I have wandered and transmigrated for such a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 16\nThe Great Discourse on the Buddha’s Extinguishment",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1665,
+          "en": 1664
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.47_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.47_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.47",
+        "lang": "en",
+        "segMap": {
+          "sn56.47:1.4": {
+            "scid": "sn56.47:1.4",
+            "pli": "“Yadi nūna, bhante, kadāci karahaci dīghassa addhuno accayenā”ti. ",
+            "en": "“Only after a <span class=\"ebt-matched\">very long time</span>, sir, if ever.” ",
+            "matched": true
+          }
+        },
+        "score": 1.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n5. A Cliff\n47. A Yoke With a Hole (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.21_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.21",
+        "lang": "en",
+        "segMap": {
+          "sn56.21:1.3": {
+            "scid": "sn56.21:1.3",
+            "pli": "“catunnaṁ, bhikkhave, ariyasaccānaṁ ananubodhā appaṭivedhā evamidaṁ dīghamaddhānaṁ sandhāvitaṁ saṁsaritaṁ mamañceva tumhākañca. ",
+            "en": "“Mendicants, not understanding and not penetrating four noble truths, both you and I have wandered and transmigrated for such a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n3. At the Village of Koṭi\n21. At the Village of Koṭi (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn15/sn15.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn15/sn15.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn15.3",
+        "lang": "en",
+        "segMap": {
+          "sn15.3:1.4": {
+            "scid": "sn15.3:1.4",
+            "pli": "Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā vo iminā dīghena addhunā sandhāvataṁ saṁsarataṁ amanāpasampayogā manāpavippayogā kandantānaṁ rodantānaṁ assu passannaṁ paggharitaṁ, yaṁ vā catūsu mahāsamuddesu udakan”ti? ",
+            "en": "What do you think? Which is more: the flow of tears you’ve shed while roaming and transmigrating for such a <span class=\"ebt-matched\">very long time</span>—weeping and wailing from being united with the unloved and separated from the loved—or the water in the four oceans?” ",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 15\nChapter One\n3. Tears",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.1",
+        "lang": "en",
+        "segMap": {
+          "an4.1:2.1": {
+            "scid": "an4.1:2.1",
+            "pli": "“Catunnaṁ, bhikkhave, dhammānaṁ ananubodhā appaṭivedhā evamidaṁ dīghamaddhānaṁ sandhāvitaṁ saṁsaritaṁ mamañceva tumhākañca. ",
+            "en": "“Mendicants, not understanding and not penetrating four things, both you and I have wandered and transmigrated for such a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n1. At Bhaṇḍa Village\n1. Understood",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn15/sn15.13_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn15/sn15.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn15.13",
+        "lang": "en",
+        "segMap": {
+          "sn15.13:2.3": {
+            "scid": "sn15.13:2.3",
+            "pli": "Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā vo iminā dīghena addhunā sandhāvataṁ saṁsarataṁ sīsacchinnānaṁ lohitaṁ passannaṁ paggharitaṁ, yaṁ vā catūsu mahāsamuddesu udakan”ti? ",
+            "en": "What do you think? Which is more: the flow of blood you’ve shed when your head was chopped off while roaming and transmigrating for such a <span class=\"ebt-matched\">very long time</span>, or the water in the four oceans?” ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 15\nChapter Two\n13. Thirty Mendicants",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 35,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.29_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.29",
+        "lang": "en",
+        "segMap": {
+          "an10.29:3.3": {
+            "scid": "an10.29:3.3",
+            "pli": "Te tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhecarā subhaṭṭhāyino ciraṁ dīghamaddhānaṁ tiṭṭhanti. ",
+            "en": "There they are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a <span class=\"ebt-matched\">very long time</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n3. The Great Chapter\n29. Kosala (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 124,
+          "en": 123
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig16.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig16.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig16.1",
+        "lang": "en",
+        "segMap": {
+          "thig16.1:4.3": {
+            "scid": "thig16.1:4.3",
+            "pli": "Te dīgharattaṁ niraye,",
+            "en": "Sent to hell for a <span class=\"ebt-matched\">very long time</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Great Book\n16.1. Sumedhā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 311,
+          "en": 306
+        }
+      }
+    ]
+  }
+}

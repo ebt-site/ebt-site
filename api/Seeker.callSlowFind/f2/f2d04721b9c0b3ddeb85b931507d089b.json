@@ -1,0 +1,142 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "freude, die damit einhergehen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "freude, die damit einhergehen",
+    "method": "phrase",
+    "resultPattern": "\\bfreude, die damit einhergehen",
+    "segsMatched": 10,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.157_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.157_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.157_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.157/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.157_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.157_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.157_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.157",
+        "lang": "de",
+        "segMap": {
+          "an5.157:2.4": {
+            "scid": "an5.157:2.4",
+            "pli": "Tañhi so, bhikkhave, saddhāsampadaṁ attani na samanupassati, na ca labhati tatonidānaṁ pītipāmojjaṁ. ",
+            "de": "Da er dieses Vertrauen nicht aus eigener Erfahrung kennt, erlebt er nicht die Ekstase und die <span class=\"ebt-matched\">Freude, die damit einhergehen</span>. ",
+            "en": "Not seeing that faith in themselves, they don’t get the rapture and joy that faith brings. ",
+            "matched": true
+          },
+          "an5.157:3.4": {
+            "scid": "an5.157:3.4",
+            "pli": "Tañhi so, bhikkhave, sīlasampadaṁ attani na samanupassati na ca labhati tatonidānaṁ pītipāmojjaṁ. ",
+            "de": "Da er dieses sittliche Verhalten nicht aus eigener Erfahrung kennt, erlebt er nicht die Ekstase und die <span class=\"ebt-matched\">Freude, die damit einhergehen</span>. ",
+            "en": "Not seeing that ethical conduct in themselves, they don’t get the rapture and joy that ethical conduct brings. ",
+            "matched": true
+          },
+          "an5.157:4.4": {
+            "scid": "an5.157:4.4",
+            "pli": "Tañhi so, bhikkhave, sutasampadaṁ attani na samanupassati, na ca labhati tatonidānaṁ pītipāmojjaṁ. ",
+            "de": "Da er diese Gelehrsamkeit nicht aus eigener Erfahrung kennt, erlebt er nicht die Ekstase und die <span class=\"ebt-matched\">Freude, die damit einhergehen</span>. ",
+            "en": "Not seeing that learning in themselves, they don’t get the rapture and joy that learning brings. ",
+            "matched": true
+          },
+          "an5.157:5.4": {
+            "scid": "an5.157:5.4",
+            "pli": "Tañhi so, bhikkhave, cāgasampadaṁ attani na samanupassati na ca labhati tatonidānaṁ pītipāmojjaṁ. ",
+            "de": "Da er diese Großzügigkeit nicht aus eigener Erfahrung kennt, erlebt er nicht die Ekstase und die <span class=\"ebt-matched\">Freude, die damit einhergehen</span>. ",
+            "en": "Not seeing that generosity in themselves, they don’t get the rapture and joy that generosity brings. ",
+            "matched": true
+          },
+          "an5.157:6.4": {
+            "scid": "an5.157:6.4",
+            "pli": "Tañhi so, bhikkhave, paññāsampadaṁ attani na samanupassati, na ca labhati tatonidānaṁ pītipāmojjaṁ. ",
+            "de": "Da er diese Weisheit nicht aus eigener Erfahrung kennt, erlebt er nicht die Ekstase und die <span class=\"ebt-matched\">Freude, die damit einhergehen</span>. ",
+            "en": "Not seeing that wisdom in themselves, they don’t get the rapture and joy that wisdom brings. ",
+            "matched": true
+          },
+          "an5.157:8.4": {
+            "scid": "an5.157:8.4",
+            "pli": "Tañhi so, bhikkhave, saddhāsampadaṁ attani samanupassati labhati ca tatonidānaṁ pītipāmojjaṁ. ",
+            "de": "Da er dieses Vertrauen aus eigener Erfahrung kennt, erlebt er die Ekstase und die <span class=\"ebt-matched\">Freude, die damit einhergehen</span>. ",
+            "en": "Seeing that faith in themselves, they get the rapture and joy that faith brings. ",
+            "matched": true
+          },
+          "an5.157:9.4": {
+            "scid": "an5.157:9.4",
+            "pli": "Tañhi so, bhikkhave, sīlasampadaṁ attani samanupassati, labhati ca tatonidānaṁ pītipāmojjaṁ. ",
+            "de": "Da er dieses sittliche Verhalten aus eigener Erfahrung kennt, erlebt er die Ekstase und die <span class=\"ebt-matched\">Freude, die damit einhergehen</span>. ",
+            "en": "Seeing that ethical conduct in themselves, they get the rapture and joy that ethical conduct brings. ",
+            "matched": true
+          },
+          "an5.157:10.4": {
+            "scid": "an5.157:10.4",
+            "pli": "Tañhi so, bhikkhave, sutasampadaṁ attani samanupassati, labhati ca tatonidānaṁ pītipāmojjaṁ. ",
+            "de": "Da er diese Gelehrsamkeit aus eigener Erfahrung kennt, erlebt er die Ekstase und die <span class=\"ebt-matched\">Freude, die damit einhergehen</span>. ",
+            "en": "Seeing that learning in themselves, they get the rapture and joy that learning brings. ",
+            "matched": true
+          },
+          "an5.157:11.4": {
+            "scid": "an5.157:11.4",
+            "pli": "Tañhi so, bhikkhave, cāgasampadaṁ attani samanupassati, labhati ca tatonidānaṁ pītipāmojjaṁ. ",
+            "de": "Da er diese Großzügigkeit aus eigener Erfahrung kennt, erlebt er die Ekstase und die <span class=\"ebt-matched\">Freude, die damit einhergehen</span>. ",
+            "en": "Seeing that generosity in themselves, they get the rapture and joy that generosity brings. ",
+            "matched": true
+          },
+          "an5.157:12.4": {
+            "scid": "an5.157:12.4",
+            "pli": "Tañhi so, bhikkhave, paññāsampadaṁ attani samanupassati labhati ca tatonidānaṁ pītipāmojjaṁ. ",
+            "de": "Da er diese Weisheit aus eigener Erfahrung kennt, erlebt er die Ekstase und die <span class=\"ebt-matched\">Freude, die damit einhergehen</span>. ",
+            "en": "Seeing that wisdom in themselves, they get the rapture and joy that wisdom brings. ",
+            "matched": true
+          }
+        },
+        "score": 10.143,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n16. Die wahre Lehre\n157. Unangebrachte Rede",
+        "segsMatched": 10,
+        "langSegs": {
+          "pli": 70,
+          "de": 69,
+          "en": 69
+        }
+      }
+    ]
+  }
+}

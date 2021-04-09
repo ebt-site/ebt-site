@@ -1,0 +1,100 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "指をパチンと鳴らす",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "指をパチンと鳴らす",
+    "method": "phrase",
+    "resultPattern": "指をパチンと鳴らす",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an1/an1.51-60_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.51-60_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an1/an1.51-60_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an1.51-60/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.51-60_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.51-60_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an1/an1.51-60_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.51-60",
+        "lang": "jpn",
+        "segMap": {
+          "an1.51:0.2": {
+            "scid": "an1.51:0.2",
+            "pli": "6. Accharāsaṅghātavagga ",
+            "en": "6. Finger-Snap ",
+            "jpn": "第六　<span class=\"ebt-matched\">指をパチンと鳴らす</span>（弾指品） ",
+            "matched": true
+          },
+          "an1.53:1.1": {
+            "scid": "an1.53:1.1",
+            "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ āsevati; ",
+            "en": "“If, mendicants, a mendicant cultivates a mind of love even as long as a finger-snap, ",
+            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が<span class=\"ebt-matched\">指をパチンと鳴らす</span>ほどのほんの短い間でも愛情の心を育てると、 ",
+            "matched": true
+          },
+          "an1.54:1.1": {
+            "scid": "an1.54:1.1",
+            "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ bhāveti; ",
+            "en": "“If, mendicants, a mendicant develops a mind of love even as long as a finger-snap, ",
+            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が<span class=\"ebt-matched\">指をパチンと鳴らす</span>ほどのほんの短い間でも愛情の心を発達させると、 ",
+            "matched": true
+          },
+          "an1.55:1.1": {
+            "scid": "an1.55:1.1",
+            "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ manasi karoti; ",
+            "en": "“If, mendicants, a mendicant focuses on a mind of love even as long as a finger-snap, ",
+            "jpn": "「托鉢僧侶たちよ、もし托鉢僧侶が<span class=\"ebt-matched\">指をパチンと鳴らす</span>ほどのほんの短い間でも愛情の心に注意を払うと、 ",
+            "matched": true
+          }
+        },
+        "score": 4.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 一集\n第六　指をパチンと鳴らす（弾指品）\n51–60",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 54,
+          "en": 53,
+          "jpn": 53
+        }
+      }
+    ]
+  }
+}

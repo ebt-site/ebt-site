@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "fröhlichkeit oder traurigkeit oder gleichmut",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "fröhlichkeit oder traurigkeit oder gleichmut",
+    "method": "phrase",
+    "resultPattern": "\\bfröhlichkeit oder traurigkeit oder gleichmut",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.61_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.61_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.61_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.61/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.61_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.61_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.61",
+        "lang": "de",
+        "segMap": {
+          "an3.61:12.4": {
+            "scid": "an3.61:12.4",
+            "pli": "Cakkhunā rūpaṁ disvā somanassaṭṭhāniyaṁ rūpaṁ upavicarati domanassaṭṭhāniyaṁ rūpaṁ upavicarati upekkhāṭṭhāniyaṁ rūpaṁ upavicarati, ",
+            "de": "Wenn man mit dem Auge ein Bild sieht, ist man absorbiert von einem Bild, das eine Grundlage für <span class=\"ebt-matched\">Fröhlichkeit oder Traurigkeit oder Gleichmut</span> darstellt. ",
+            "en": "Seeing a sight with the eye, one is preoccupied with a sight that’s a basis for happiness or sadness or equanimity. ",
+            "matched": true
+          },
+          "an3.61:12.9": {
+            "scid": "an3.61:12.9",
+            "pli": "manasā dhammaṁ viññāya somanassaṭṭhāniyaṁ dhammaṁ upavicarati domanassaṭṭhāniyaṁ dhammaṁ upavicarati upekkhāṭṭhāniyaṁ dhammaṁ upavicarati. ",
+            "de": "Wenn man mit dem Geist einen Gedanken erkennt, ist man absorbiert von einem Gedanken, der eine Grundlage für <span class=\"ebt-matched\">Fröhlichkeit oder Traurigkeit oder Gleichmut</span> darstellt. ",
+            "en": "Becoming conscious of a thought with the mind, one is preoccupied with a thought that’s a basis for happiness or sadness or equanimity. ",
+            "matched": true
+          }
+        },
+        "score": 2.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n61. Glaubenssätze von Sekten",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 117,
+          "de": 116,
+          "en": 116
+        }
+      }
+    ]
+  }
+}

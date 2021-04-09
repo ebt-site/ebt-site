@@ -1,0 +1,852 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "heart’s release by love",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "heart’s release by love",
+    "method": "phrase",
+    "resultPattern": "\\bheart’s release by love",
+    "segsMatched": 44,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/kn/iti/vagga3/iti27_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga3/iti27_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn46/sn46.54_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.54_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn20/sn20.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn20/sn20.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.13_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.219_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.219_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn20/sn20.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn20/sn20.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn99_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn99_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.68_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.68_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.11-20_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.11-20_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.15_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.15_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn46/sn46.51_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.51_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn42/sn42.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn42/sn42.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn20/sn20.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn20/sn20.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn52_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn52_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn13_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn13_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.63_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.63_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.16_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.16_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "iti27/en/sujato",
+      "sn46.54/en/sujato",
+      "sn20.3/en/sujato",
+      "dn34/en/sujato",
+      "dn33/en/sujato",
+      "an6.13/en/sujato",
+      "an10.219/en/sujato",
+      "sn20.5/en/sujato",
+      "mn99/en/sujato",
+      "an8.1/en/sujato",
+      "an3.68/en/sujato",
+      "an1.11-20/en/sujato",
+      "an11.15/en/sujato",
+      "sn46.51/en/sujato",
+      "sn42.8/en/sujato",
+      "sn20.4/en/sujato",
+      "mn52/en/sujato",
+      "dn13/en/sujato",
+      "an8.63/en/sujato",
+      "an1.394-574/en/sujato",
+      "an11.16/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga3/iti27_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga3/iti27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti27",
+        "lang": "en",
+        "segMap": {
+          "iti27:2.1": {
+            "scid": "iti27:2.1",
+            "pli": "“Yāni kānici, bhikkhave, opadhikāni puññakiriyavatthūni sabbāni tāni mettāya cetovimuttiyā kalaṁ nāgghanti soḷasiṁ.",
+            "en": "“Mendicants, of all the grounds for making worldly merit, none are worth a sixteenth part of the <span class=\"ebt-matched\">heart’s release by love</span>.",
+            "matched": true
+          },
+          "iti27:2.2": {
+            "scid": "iti27:2.2",
+            "pli": "Mettāyeva tāni cetovimutti adhiggahetvā bhāsate ca tapate ca virocati ca.",
+            "en": "Surpassing them, the <span class=\"ebt-matched\">heart’s release by love</span> shines and glows and radiates.",
+            "matched": true
+          },
+          "iti27:3.2": {
+            "scid": "iti27:3.2",
+            "pli": "evamevaṁ kho, bhikkhave, yāni kānici opadhikāni puññakiriyavatthūni sabbāni tāni mettāya cetovimuttiyā kalaṁ nāgghanti soḷasiṁ, mettāyeva tāni cetovimutti adhiggahetvā bhāsate ca tapate ca virocati ca.",
+            "en": "In the same way, of all the grounds for making worldly merit, none are worth a sixteenth part of the <span class=\"ebt-matched\">heart’s release by love</span>. Surpassing them, the <span class=\"ebt-matched\">heart’s release by love</span> shines and glows and radiates.",
+            "matched": true
+          },
+          "iti27:4.2": {
+            "scid": "iti27:4.2",
+            "pli": "evamevaṁ kho, bhikkhave, yāni kānici opadhikāni puññakiriyavatthūni sabbāni tāni mettāya cetovimuttiyā kalaṁ nāgghanti soḷasiṁ, mettāyeva tāni cetovimutti adhiggahetvā bhāsate ca tapate ca virocati ca.",
+            "en": "In the same way, of all the grounds for making worldly merit, none are worth a sixteenth part of the <span class=\"ebt-matched\">heart’s release by love</span>. Surpassing them, the <span class=\"ebt-matched\">heart’s release by love</span> shines and glows and radiates.",
+            "matched": true
+          },
+          "iti27:5.2": {
+            "scid": "iti27:5.2",
+            "pli": "evamevaṁ kho, bhikkhave, yāni kānici opadhikāni puññakiriyavatthūni sabbāni tāni mettāya cetovimuttiyā kalaṁ nāgghanti soḷasiṁ, mettāyeva tāni cetovimutti adhiggahetvā bhāsate ca tapate ca virocati cā”ti.",
+            "en": "In the same way, of all the grounds for making worldly merit, none are worth a sixteenth part of the <span class=\"ebt-matched\">heart’s release by love</span>. Surpassing them, the <span class=\"ebt-matched\">heart’s release by love</span> shines and glows and radiates.”",
+            "matched": true
+          }
+        },
+        "score": 5.106,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Ones\nChapter Three\n27. The Meditation on Love",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 47,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.54_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.54_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.54",
+        "lang": "en",
+        "segMap": {
+          "sn46.54:11.2": {
+            "scid": "sn46.54:11.2",
+            "pli": "‘kathaṁ bhāvitā panāvuso, mettācetovimutti, kiṅgatikā hoti, kiṁparamā, kiṁphalā, kiṁpariyosānā? ",
+            "en": "‘But reverends, how is the <span class=\"ebt-matched\">heart’s release by love</span> developed? What is its destination, apex, fruit, and end? ",
+            "matched": true
+          },
+          "sn46.54:12.1": {
+            "scid": "sn46.54:12.1",
+            "pli": "Kathaṁ bhāvitā ca, bhikkhave, mettācetovimutti, kiṅgatikā hoti, kiṁparamā, kiṁphalā, kiṁpariyosānā? ",
+            "en": "And how is the <span class=\"ebt-matched\">heart’s release by love</span> developed? What is its destination, apex, fruit, and end? ",
+            "matched": true
+          },
+          "sn46.54:12.2": {
+            "scid": "sn46.54:12.2",
+            "pli": "Idha, bhikkhave, bhikkhu mettāsahagataṁ satisambojjhaṅgaṁ bhāveti …pe… ",
+            "en": "It’s when a mendicant develops the <span class=\"ebt-matched\">heart’s release by love</span> together with the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, ",
+            "matched": true
+          },
+          "sn46.54:12.9": {
+            "scid": "sn46.54:12.9",
+            "pli": "Subhaparamāhaṁ, bhikkhave, mettācetovimuttiṁ vadāmi, idhapaññassa bhikkhuno uttarivimuttiṁ appaṭivijjhato. ",
+            "en": "The apex of the <span class=\"ebt-matched\">heart’s release by love</span> is the beautiful, I say, for a mendicant who has not penetrated to a higher freedom. ",
+            "matched": true
+          }
+        },
+        "score": 4.047,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 46\n6. Discussion\n54. Full of Love",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 86,
+          "en": 85
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn20/sn20.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn20/sn20.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn20.3",
+        "lang": "en",
+        "segMap": {
+          "sn20.3:1.3": {
+            "scid": "sn20.3:1.3",
+            "pli": "evameva kho, bhikkhave, yassa kassaci bhikkhuno mettācetovimutti abhāvitā abahulīkatā so suppadhaṁsiyo hoti amanussehi. ",
+            "en": "In the same way any mendicant who has not developed and cultivated the <span class=\"ebt-matched\">heart’s release by love</span> is easy prey for non-humans. ",
+            "matched": true
+          },
+          "sn20.3:1.5": {
+            "scid": "sn20.3:1.5",
+            "pli": "evameva kho, bhikkhave, yassa kassaci bhikkhuno mettācetovimutti bhāvitā bahulīkatā so duppadhaṁsiyo hoti amanussehi. ",
+            "en": "In the same way a mendicant who has developed and cultivated the <span class=\"ebt-matched\">heart’s release by love</span> is hard prey for non-humans. ",
+            "matched": true
+          },
+          "sn20.3:1.7": {
+            "scid": "sn20.3:1.7",
+            "pli": "‘mettā no cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. ",
+            "en": "‘We will develop the <span class=\"ebt-matched\">heart’s release by love</span>. We’ll cultivate it, make it our vehicle and our basis, keep it up, consolidate it, and properly implement it.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 20\n1. Similes\n3. Families",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.219_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.219_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.219",
+        "lang": "en",
+        "segMap": {
+          "an10.219:4.2": {
+            "scid": "an10.219:4.2",
+            "pli": "daharatagge ce so ayaṁ kumāro mettaṁ cetovimuttiṁ bhāveyya, api nu kho pāpakammaṁ kareyyā”ti? ",
+            "en": "Suppose a child had developed the <span class=\"ebt-matched\">heart’s release by love</span> from their childhood on. Would they still do any bad deed?” ",
+            "matched": true
+          },
+          "an10.219:6.1": {
+            "scid": "an10.219:6.1",
+            "pli": "“Bhāvetabbā kho panāyaṁ, bhikkhave, mettācetovimutti itthiyā vā purisena vā. ",
+            "en": "“This <span class=\"ebt-matched\">heart’s release by love</span> should be developed by women or men. ",
+            "matched": true
+          },
+          "an10.219:6.7": {
+            "scid": "an10.219:6.7",
+            "pli": "Evaṁ bhāvitā kho, bhikkhave, mettā cetovimutti anāgāmitāya saṁvattati, idha paññassa bhikkhuno uttari vimuttiṁ appaṭivijjhato. ",
+            "en": "The <span class=\"ebt-matched\">heart’s release by love</span> developed in this way leads to non-return for a wise mendicant here who has not penetrated to a higher freedom. ",
+            "matched": true
+          }
+        },
+        "score": 3.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n21. The Body Born of Deeds\n219. The Body Born of Deeds",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 42,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.13_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.13",
+        "lang": "en",
+        "segMap": {
+          "an6.13:1.4": {
+            "scid": "an6.13:1.4",
+            "pli": "‘mettā hi kho me cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā; ",
+            "en": "‘I’ve developed the <span class=\"ebt-matched\">heart’s release by love</span>. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. ",
+            "matched": true
+          },
+          "an6.13:1.7": {
+            "scid": "an6.13:1.7",
+            "pli": "Aṭṭhānametaṁ, āvuso, anavakāso yaṁ mettāya cetovimuttiyā bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya; ",
+            "en": "It’s impossible, reverend, it cannot happen that the <span class=\"ebt-matched\">heart’s release by love</span> has been developed and properly implemented, ",
+            "matched": true
+          },
+          "an6.13:1.9": {
+            "scid": "an6.13:1.9",
+            "pli": "Nissaraṇañhetaṁ, āvuso, byāpādassa yadidaṁ mettācetovimuttī’ti. ",
+            "en": "For it is the <span class=\"ebt-matched\">heart’s release by love</span> that is the escape from ill will.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.061,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n2. Warm-hearted\n13. Elements of Escape",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 49,
+          "en": 48
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:2.2.71": {
+            "scid": "dn33:2.2.71",
+            "pli": "‘mettā hi kho me cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā, ",
+            "en": "‘I’ve developed the <span class=\"ebt-matched\">heart’s release by love</span>. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. ",
+            "matched": true
+          },
+          "dn33:2.2.74": {
+            "scid": "dn33:2.2.74",
+            "pli": "Aṭṭhānametaṁ, āvuso, anavakāso, yaṁ mettāya cetovimuttiyā bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya. ",
+            "en": "It’s impossible, reverend, it cannot happen that the <span class=\"ebt-matched\">heart’s release by love</span> has been developed and properly implemented, ",
+            "matched": true
+          },
+          "dn33:2.2.76": {
+            "scid": "dn33:2.2.76",
+            "pli": "Nissaraṇaṁ hetaṁ, āvuso, byāpādassa, yadidaṁ mettā cetovimuttī’ti.  ",
+            "en": "For it is the <span class=\"ebt-matched\">heart’s release by love</span> that is the escape from ill will.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.7.36": {
+            "scid": "dn34:1.7.36",
+            "pli": "‘mettā hi kho me, cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā, ",
+            "en": "‘I’ve developed the <span class=\"ebt-matched\">heart’s release by love</span>. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. ",
+            "matched": true
+          },
+          "dn34:1.7.39": {
+            "scid": "dn34:1.7.39",
+            "pli": "Aṭṭhānametaṁ āvuso anavakāso yaṁ mettāya cetovimuttiyā bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya. ",
+            "en": "It’s impossible, reverend, it cannot happen that the <span class=\"ebt-matched\">heart’s release by love</span> has been developed and properly implemented, ",
+            "matched": true
+          },
+          "dn34:1.7.41": {
+            "scid": "dn34:1.7.41",
+            "pli": "Nissaraṇaṁ hetaṁ, āvuso, byāpādassa, yadidaṁ mettācetovimuttī’ti.  ",
+            "en": "For it is the <span class=\"ebt-matched\">heart’s release by love</span> that is the escape from ill will.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.15_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.15_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.15",
+        "lang": "en",
+        "segMap": {
+          "an11.15:1.1": {
+            "scid": "an11.15:1.1",
+            "pli": "“Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasānisaṁsā pāṭikaṅkhā. ",
+            "en": "“Mendicants, you can expect eleven benefits when the <span class=\"ebt-matched\">heart’s release by love</span> has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented. ",
+            "matched": true
+          },
+          "an11.15:2.3": {
+            "scid": "an11.15:2.3",
+            "pli": "Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ime ekādasānisaṁsā pāṭikaṅkhā”ti. ",
+            "en": "You can expect eleven benefits when the <span class=\"ebt-matched\">heart’s release by love</span> has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented.” ",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n2. Recollection\n15. The Benefits of Love",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn20/sn20.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn20/sn20.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn20.5",
+        "lang": "en",
+        "segMap": {
+          "sn20.5:2.1": {
+            "scid": "sn20.5:2.1",
+            "pli": "“Evameva kho, bhikkhave, yassa kassaci bhikkhuno mettācetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā, tassa ce amanusso cittaṁ khipitabbaṁ maññeyya; ",
+            "en": "“In the same way, suppose a mendicant has developed the <span class=\"ebt-matched\">heart’s release by love</span>, has cultivated it, made it a vehicle and a basis, kept it up, consolidated it, and properly implemented it. Should any non-human think to overthrow their mind, ",
+            "matched": true
+          },
+          "sn20.5:2.4": {
+            "scid": "sn20.5:2.4",
+            "pli": "‘mettā no cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. ",
+            "en": "‘We will develop the <span class=\"ebt-matched\">heart’s release by love</span>. We’ll cultivate it, make it our vehicle and our basis, keep it up, consolidate it, and properly implement it.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.105,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 20\n1. Similes\n5. A Spear",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.1",
+        "lang": "en",
+        "segMap": {
+          "an8.1:2.1": {
+            "scid": "an8.1:2.1",
+            "pli": "“Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya aṭṭhānisaṁsā pāṭikaṅkhā. ",
+            "en": "“Mendicants, you can expect eight benefits when the <span class=\"ebt-matched\">heart’s release by love</span> has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented. ",
+            "matched": true
+          },
+          "an8.1:2.4": {
+            "scid": "an8.1:2.4",
+            "pli": "Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ime aṭṭhānisaṁsā pāṭikaṅkhāti. ",
+            "en": "You can expect these eight benefits when the <span class=\"ebt-matched\">heart’s release by love</span> has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented. ",
+            "matched": true
+          }
+        },
+        "score": 2.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n1. Love\n1. The Benefits of Love",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 34,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.11-20_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.11-20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.11-20",
+        "lang": "en",
+        "segMap": {
+          "an1.17:1.1": {
+            "scid": "an1.17:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppanno vā byāpādo nuppajjati uppanno vā byāpādo pahīyati yathayidaṁ, bhikkhave, mettā cetovimutti. ",
+            "en": "“Mendicants, I do not see a single thing that prevents ill will from arising, or, when it has arisen, abandons it like the <span class=\"ebt-matched\">heart’s release by love</span>. ",
+            "matched": true
+          },
+          "an1.17:1.2": {
+            "scid": "an1.17:1.2",
+            "pli": "Mettaṁ, bhikkhave, cetovimuttiṁ yoniso manasi karoto anuppanno ceva byāpādo nuppajjati uppanno ca byāpādo pahīyatī”ti. ",
+            "en": "When you attend properly on the <span class=\"ebt-matched\">heart’s release by love</span>, ill will does not arise, or, if it has already arisen, it’s given up.” ",
+            "matched": true
+          }
+        },
+        "score": 2.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 1\n2. Giving Up the Hindrances\n11–20",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 44,
+          "en": 43
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.68_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.68_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.68",
+        "lang": "en",
+        "segMap": {
+          "an3.68:7.2": {
+            "scid": "an3.68:7.2",
+            "pli": "‘“Mettā cetovimuttī”tissa vacanīyaṁ. ",
+            "en": "You should say: ‘The <span class=\"ebt-matched\">heart’s release by love</span>.’ ",
+            "matched": true
+          },
+          "an3.68:7.3": {
+            "scid": "an3.68:7.3",
+            "pli": "Tassa mettaṁ cetovimuttiṁ yoniso manasi karoto anuppanno ceva doso nuppajjati uppanno ca doso pahīyati. ",
+            "en": "When you attend properly on the <span class=\"ebt-matched\">heart’s release by love</span>, hate doesn’t arise, or if it’s already arisen it’s given up. ",
+            "matched": true
+          }
+        },
+        "score": 2.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n68. Followers of Other Paths",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 47,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn99_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn99_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn99",
+        "lang": "en",
+        "segMap": {
+          "mn99:24.3": {
+            "scid": "mn99:24.3",
+            "pli": "Evaṁ bhāvitāya kho, māṇava, mettāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. ",
+            "en": "When the <span class=\"ebt-matched\">heart’s release by love</span> has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there. ",
+            "matched": true
+          },
+          "mn99:24.5": {
+            "scid": "mn99:24.5",
+            "pli": "evameva kho, māṇava …pe… evaṁ bhāvitāya kho, māṇava, mettāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. ",
+            "en": "In the same way, when the <span class=\"ebt-matched\">heart’s release by love</span> has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there. ",
+            "matched": true
+          }
+        },
+        "score": 2.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 99\nWith Subha",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 270,
+          "en": 269
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn20/sn20.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn20/sn20.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn20.4",
+        "lang": "en",
+        "segMap": {
+          "sn20.4:1.4": {
+            "scid": "sn20.4:1.4",
+            "pli": "‘mettā no cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. ",
+            "en": "‘We will develop the <span class=\"ebt-matched\">heart’s release by love</span>. We’ll cultivate it, make it our vehicle and our basis, keep it up, consolidate it, and properly implement it.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 20\n1. Similes\n4. Rice Pots",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 9,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.63_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.63_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.63",
+        "lang": "en",
+        "segMap": {
+          "an8.63:2.2": {
+            "scid": "an8.63:2.2",
+            "pli": "‘mettā me cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. ",
+            "en": "‘I will develop the <span class=\"ebt-matched\">heart’s release by love</span>. I’ll cultivate it, make it my vehicle and my basis, keep it up, consolidate it, and properly implement it.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n7. Earthquakes\n63. A Teaching in Brief",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.16_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.16_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.16",
+        "lang": "en",
+        "segMap": {
+          "an11.16:6.3": {
+            "scid": "an11.16:6.3",
+            "pli": "‘ayampi kho mettā cetovimutti abhisaṅkhatā abhisañcetayitā’. ",
+            "en": "‘Even this <span class=\"ebt-matched\">heart’s release by love</span> is produced by choices and intentions.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n2. Recollection\n16. The Man From the City of Aṭṭhaka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 72,
+          "en": 71
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn52_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn52_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn52",
+        "lang": "en",
+        "segMap": {
+          "mn52:8.3": {
+            "scid": "mn52:8.3",
+            "pli": "‘ayampi kho mettācetovimutti abhisaṅkhatā abhisañcetayitā. ",
+            "en": "‘Even this <span class=\"ebt-matched\">heart’s release by love</span> is produced by choices and intentions.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 52\nThe Man From the City of Aṭṭhaka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 74,
+          "en": 73
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn42/sn42.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn42/sn42.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn42.8",
+        "lang": "en",
+        "segMap": {
+          "sn42.8:12.3": {
+            "scid": "sn42.8:12.3",
+            "pli": "evameva kho, gāmaṇi, evaṁ bhāvitāya mettāya cetovimuttiyā evaṁ bahulīkatāya yaṁ pamāṇakataṁ kammaṁ, na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. ",
+            "en": "In the same way, when the <span class=\"ebt-matched\">heart’s release by love</span> has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 42\n1. Chiefs\n8. A Horn Blower",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 105,
+          "en": 104
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.51_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.51",
+        "lang": "en",
+        "segMap": {
+          "sn46.51:14.2": {
+            "scid": "sn46.51:14.2",
+            "pli": "Atthi, bhikkhave, mettācetovimutti. ",
+            "en": "There is the <span class=\"ebt-matched\">heart’s release by love</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 46\n6. Discussion\n51. Nourishing",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 103,
+          "en": 102
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.394-574",
+        "lang": "en",
+        "segMap": {
+          "an1.398:1.1": {
+            "scid": "an1.398:1.1",
+            "pli": "mettaṁ cetovimuttiṁ bhāveti …pe… ",
+            "en": "or the <span class=\"ebt-matched\">heart’s release by love</span> … ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 1\n29. Another Chapter on a Finger-Snap\n394–574",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 176,
+          "en": 175
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn13_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn13",
+        "lang": "en",
+        "segMap": {
+          "dn13:77.2": {
+            "scid": "dn13:77.2",
+            "pli": "evameva kho, vāseṭṭha, evaṁ bhāvitāya mettāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. ",
+            "en": "In the same way, when the <span class=\"ebt-matched\">heart’s release by love</span> has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 13\nThe Three Knowledges",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 280,
+          "en": 278
+        }
+      }
+    ]
+  }
+}

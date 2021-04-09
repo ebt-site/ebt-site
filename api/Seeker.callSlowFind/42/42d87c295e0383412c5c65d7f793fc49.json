@@ -1,0 +1,330 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "schwer zu finden",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "schwer zu finden",
+    "method": "phrase",
+    "resultPattern": "\\bschwer zu finden",
+    "segsMatched": 12,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.60_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.60_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.60_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.59_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.59_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.59_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn3/sn3.21_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn3/sn3.21_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn3/sn3.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.57_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.85_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.85_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.85_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.63_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.63_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.63_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.13_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.13_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.13_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.60/de/sabbamitta",
+      "an5.59/de/sabbamitta",
+      "sn3.21/de/sabbamitta",
+      "an6.57/de/sabbamitta",
+      "an4.85/de/sabbamitta",
+      "an3.63/de/sabbamitta",
+      "an3.13/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.59_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.59_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.59_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.59",
+        "lang": "de",
+        "segMap": {
+          "an5.59:1.1": {
+            "scid": "an5.59:1.1",
+            "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato dullabho vuḍḍhapabbajito. ",
+            "de": "„Mönche und Nonnen, jemand, der im Alter fortgezogen ist und fünf Eigenschaften besitzt, ist <span class=\"ebt-matched\">schwer zu finden</span>. ",
+            "en": "“Mendicants, it’s hard to find someone gone forth when old who has five qualities. ",
+            "matched": true
+          },
+          "an5.59:1.3": {
+            "scid": "an5.59:1.3",
+            "pli": "Dullabho, bhikkhave, vuḍḍhapabbajito nipuṇo, dullabho ākappasampanno, dullabho bahussuto, dullabho dhammakathiko, dullabho vinayadharo. ",
+            "de": "Jemand, der im Alter fortgezogen ist und der scharfsinnig ist, eine ordentliche Erscheinung hat, gelehrt ist, den Dhamma lehren kann und sich die Texte über die Ordenssatzung eingeprägt hat, ist <span class=\"ebt-matched\">schwer zu finden</span>. ",
+            "en": "It’s hard to find someone gone forth when old who is sophisticated, well-presented, and learned, who can teach Dhamma, and has memorized the texts on monastic training. ",
+            "matched": true
+          },
+          "an5.59:1.4": {
+            "scid": "an5.59:1.4",
+            "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato dullabho vuḍḍhapabbajitoti. ",
+            "de": "Jemand, der im Alter fortgezogen ist und diese fünf Eigenschaften besitzt, ist <span class=\"ebt-matched\">schwer zu finden</span>.“ ",
+            "en": "It’s hard to find someone gone forth when old who has these five qualities.” ",
+            "matched": true
+          }
+        },
+        "score": 3.375,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n6. Hindernisse\n59. Im Alter fortgezogen (1)",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.60_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.60_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.60_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.60",
+        "lang": "de",
+        "segMap": {
+          "an5.60:1.1": {
+            "scid": "an5.60:1.1",
+            "pli": "Pañcahi, bhikkhave, dhammehi samannāgato dullabho vuḍḍhapabbajito. ",
+            "de": "„Mönche und Nonnen, jemand, der im Alter fortgezogen ist und fünf Eigenschaften besitzt, ist <span class=\"ebt-matched\">schwer zu finden</span>. ",
+            "en": "“Mendicants, it’s hard to find someone gone forth when old who has five qualities. ",
+            "matched": true
+          },
+          "an5.60:1.3": {
+            "scid": "an5.60:1.3",
+            "pli": "Dullabho, bhikkhave, vuḍḍhapabbajito suvaco, dullabho suggahitaggāhī, dullabho padakkhiṇaggāhī, dullabho dhammakathiko, dullabho vinayadharo. ",
+            "de": "Jemand, der im Alter fortgezogen ist und der leicht zu ermahnen ist, der behält, was er lernt, der mit Respekt lernt, der den Dhamma lehren kann und sich die Texte über die Ordenssatzung eingeprägt hat, ist <span class=\"ebt-matched\">schwer zu finden</span>. ",
+            "en": "It’s hard to find someone gone forth when old who is easy to admonish, retains what they learn, and learns respectfully, who can teach the Dhamma, and has memorized the texts on monastic training. ",
+            "matched": true
+          },
+          "an5.60:1.4": {
+            "scid": "an5.60:1.4",
+            "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato dullabho vuḍḍhapabbajito”ti. ",
+            "de": "Jemand, der im Alter fortgezogen ist und diese fünf Eigenschaften besitzt, ist <span class=\"ebt-matched\">schwer zu finden</span>.“ ",
+            "en": "It’s hard to find someone gone forth when old who has these five qualities.” ",
+            "matched": true
+          }
+        },
+        "score": 3.214,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n6. Hindernisse\n60. Im Alter fortgezogen (2)",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 14,
+          "de": 7,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn3/sn3.21_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn3/sn3.21_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn3/sn3.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn3.21",
+        "lang": "de",
+        "segMap": {
+          "sn3.21:2.2": {
+            "scid": "sn3.21:2.2",
+            "pli": "Idha, mahārāja, ekacco puggalo nīce kule paccājāto hoti, caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. ",
+            "de": "Es ist, wenn jemand in einer geringen Familie wiedergeboren ist – einer Familie von Ausgestoßenen, Bambusarbeitern, Jägern, Wagenbauern oder Abfallsammlern – arm, mit wenig zu essen und zu trinken, wo das Leben hart ist und Nahrung und Obdach <span class=\"ebt-matched\">schwer zu finden</span>. ",
+            "en": "It’s when some person is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are hard to find. ",
+            "matched": true
+          },
+          "sn3.21:4.2": {
+            "scid": "sn3.21:4.2",
+            "pli": "Idha, mahārāja, ekacco puggalo nīce kule paccājāto hoti, caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. ",
+            "de": "Es ist, wenn jemand in einer geringen Familie wiedergeboren ist – einer Familie von Ausgestoßenen, Bambusarbeitern, Jägern, Wagenbauern oder Abfallsammlern – arm, mit wenig zu essen und zu trinken, wo das Leben hart ist und Nahrung und Obdach <span class=\"ebt-matched\">schwer zu finden</span>. ",
+            "en": "It’s when some person is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are hard to find. ",
+            "matched": true
+          }
+        },
+        "score": 2.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 3\n3. Kosala\n21. Menschen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 101,
+          "de": 101,
+          "en": 101
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.85_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.85_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.85_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.85",
+        "lang": "de",
+        "segMap": {
+          "an4.85:2.2": {
+            "scid": "an4.85:2.2",
+            "pli": "Idha, bhikkhave, ekacco puggalo nīce kule paccājāto hoti—caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. ",
+            "de": "Es ist, wenn jemand in einer geringen Familie wiedergeboren ist – einer Familie von Ausgestoßenen, Bambusarbeitern, Jägern, Wagenbauern oder Abfallsammlern – arm, mit wenig zu essen und zu trinken, wo das Leben hart ist und Nahrung und Obdach <span class=\"ebt-matched\">schwer zu finden</span>. ",
+            "en": "It’s when someone is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are hard to find. ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n9. Unbeirrbar\n85. Vom Dunkel zum Dunkel",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 35,
+          "de": 34,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.13_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.13_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.13",
+        "lang": "de",
+        "segMap": {
+          "an3.13:1.5": {
+            "scid": "an3.13:1.5",
+            "pli": "Idha, bhikkhave, ekacco puggalo nīce kule paccājāto hoti, caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. ",
+            "de": "Es ist, wenn jemand in einer geringen Familie wiedergeboren ist – einer Familie von Ausgestoßenen, Bambusarbeitern, Jägern, Wagenbauern oder Abfallsammlern – arm, mit wenig zu essen und zu trinken, wo das Leben hart ist und Nahrung und Obdach <span class=\"ebt-matched\">schwer zu finden</span>. ",
+            "en": "It’s when some person is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are hard to find. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n2. Der Wagenbauer\n13. Hoffnungen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 59,
+          "de": 58,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.57_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.57",
+        "lang": "de",
+        "segMap": {
+          "an6.57:11.2": {
+            "scid": "an6.57:11.2",
+            "pli": "Idhānanda, ekacco nīce kule paccājāto hoti—caṇḍālakule vā nesādakule vā venakule vā rathakārakule vā pukkusakule vā, dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. ",
+            "de": "Es ist, wenn jemand in einer geringen Familie wiedergeboren ist – einer Familie von Ausgestoßenen, Bambusarbeitern, Jägern, Wagenbauern oder Abfallsammlern – arm, mit wenig zu essen und zu trinken, wo das Leben hart ist und Nahrung und Obdach <span class=\"ebt-matched\">schwer zu finden</span>. ",
+            "en": "It’s when someone is reborn in a low family—a family of outcastes, bamboo-workers, hunters, chariot-makers, or waste-collectors—poor, with little to eat or drink, where life is tough, and food and shelter are hard to find. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n6. Das große Kapitel\n57. Wiedergeburtsklassen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 67,
+          "de": 62,
+          "en": 66
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.63_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.63_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.63_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.63",
+        "lang": "de",
+        "segMap": {
+          "an3.63:4.3": {
+            "scid": "an3.63:4.3",
+            "pli": "Dullabhāni tāni pabbajitānaṁ laddhā ca pana na kappanti. ",
+            "de": "sind für enthaltsam Lebende <span class=\"ebt-matched\">schwer zu finden</span>. Und selbst wenn man sie bekommt, sind sie nicht erlaubt. ",
+            "en": "are hard for renunciates to find. And even if they do get them, they’re not allowed. ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n63. In Venāgapura",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 79,
+          "de": 78,
+          "en": 78
+        }
+      }
+    ]
+  }
+}

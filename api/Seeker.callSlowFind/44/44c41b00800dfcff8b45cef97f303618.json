@@ -1,0 +1,100 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "hätte einen rechtmäßigen grund",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "hätte einen rechtmäßigen grund",
+    "method": "phrase",
+    "resultPattern": "\\bhätte einen rechtmäßigen grund",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.8_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.8_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.8_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.8/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.8_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.8_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.8",
+        "lang": "de",
+        "segMap": {
+          "an4.8:1.3": {
+            "scid": "an4.8:1.3",
+            "pli": "‘“Sammāsambuddhassa te paṭijānato ime dhammā anabhisambuddhā”ti tatra vata maṁ samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṁ sahadhammena paṭicodessatī’ti nimittametaṁ, bhikkhave, na samanupassāmi. ",
+            "de": "‚Du behauptest, vollkommen erwacht zu sein, aber du verstehst diese Dinge nicht.‘ Kein Asket oder Brahmane oder Gott oder Māra oder Brahmā oder irgendjemand sonst in der Welt <span class=\"ebt-matched\">hätte einen rechtmäßigen Grund</span>, mich so zu schelten. ",
+            "en": "I see no reason for anyone—whether ascetic, brahmin, god, Māra, or Brahmā, or anyone else in the world—to legitimately scold me, saying: ‘You claim to be fully awakened, but you don’t understand these things.’ ",
+            "matched": true
+          },
+          "an4.8:2.1": {
+            "scid": "an4.8:2.1",
+            "pli": "‘“Khīṇāsavassa te paṭijānato ime āsavā aparikkhīṇā”ti tatra vata maṁ samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṁ sahadhammena paṭicodessatī’ti nimittametaṁ, bhikkhave, na samanupassāmi. ",
+            "de": "‚Du behauptest, alle Befleckungen aufgelöst zu haben, aber diese Befleckungen sind nicht aufgelöst.‘ Kein Asket oder Brahmane oder Gott oder Māra oder Brahmā oder irgendjemand sonst in der Welt <span class=\"ebt-matched\">hätte einen rechtmäßigen Grund</span>, mich so zu schelten. ",
+            "en": "I see no reason for anyone—whether ascetic, brahmin, god, Māra, or Brahmā, or anyone else in the world—to legitimately scold me, saying: ‘You claim to have ended all defilements, but these defilements have not ended.’ ",
+            "matched": true
+          },
+          "an4.8:3.1": {
+            "scid": "an4.8:3.1",
+            "pli": "‘“Ye kho pana te antarāyikā dhammā vuttā te paṭisevato nālaṁ antarāyāyā”ti tatra vata maṁ samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṁ sahadhammena paṭicodessatī’ti nimittametaṁ, bhikkhave, na samanupassāmi. ",
+            "de": "‚Die Handlungen, von denen du sagst, sie seien Hindernisse, sind nicht wirklich Hindernisse für eine Person, die sie verübt.‘ Kein Asket oder Brahmane oder Gott oder Māra oder Brahmā oder irgendjemand sonst in der Welt <span class=\"ebt-matched\">hätte einen rechtmäßigen Grund</span>, mich so zu schelten. ",
+            "en": "I see no reason for anyone—whether ascetic, brahmin, god, Māra, or Brahmā, or anyone else in the world—to legitimately scold me, saying: ‘The acts that you say are obstructions are not really obstructions for the one who performs them.’ ",
+            "matched": true
+          },
+          "an4.8:4.1": {
+            "scid": "an4.8:4.1",
+            "pli": "‘“Yassa kho pana te atthāya dhammo desito so na niyyāti takkarassa sammā dukkhakkhayāyā”ti tatra vata maṁ samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṁ sahadhammena paṭicodessatī’ti nimittametaṁ, bhikkhave, na samanupassāmi. ",
+            "de": "‚Obwohl du sagst, du verkündest die Lehre, um das Leiden völlig zu beenden, führt sie für jemanden, der sie übt, nicht an dieses Ziel.‘ Kein Asket oder Brahmane oder Gott oder Māra oder Brahmā oder irgendjemand sonst in der Welt <span class=\"ebt-matched\">hätte einen rechtmäßigen Grund</span>, mich so zu schelten. ",
+            "en": "I see no reason for anyone—whether ascetic, brahmin, god, Māra, or Brahmā, or anyone else in the world—to legitimately scold me, saying: ‘Though you teach that this teaching leads to the goal of the complete ending of suffering, it doesn’t lead there for one who practices it.’ ",
+            "matched": true
+          }
+        },
+        "score": 4.174,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n1. Beim Dorf Bhaṇḍa\n8. Selbstvertrauen",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 23,
+          "de": 22,
+          "en": 22
+        }
+      }
+    ]
+  }
+}

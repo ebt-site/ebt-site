@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "von der liebe",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "von der liebe",
+    "method": "phrase",
+    "resultPattern": "\\bvon der liebe",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/kn/kp/kp9_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/kp/kp9_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/kp/kp9_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "kp9/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/kp/kp9_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/kp/kp9_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/kp/kp9_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "kp9",
+        "lang": "de",
+        "segMap": {
+          "kp9:0.2": {
+            "scid": "kp9:0.2",
+            "pli": "9. Mettasutta",
+            "de": "Die Lehrrede <span class=\"ebt-matched\">von der Liebe</span> ",
+            "en": "The Discourse on Love",
+            "matched": true
+          }
+        },
+        "score": 1.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Kleinere Ausschnitte\nDie Lehrrede von der Liebe",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 44,
+          "de": 42,
+          "en": 42
+        }
+      }
+    ]
+  }
+}

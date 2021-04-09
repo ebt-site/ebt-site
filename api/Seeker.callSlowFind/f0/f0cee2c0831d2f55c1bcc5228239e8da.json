@@ -1,0 +1,164 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "verstecktem hass",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "verstecktem hass",
+    "method": "phrase",
+    "resultPattern": "\\bverstecktem hass",
+    "segsMatched": 9,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.167_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.167_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.167_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.167/de/sabbamitta",
+      "dn33/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.167_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.167_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.167_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.167",
+        "lang": "de",
+        "segMap": {
+          "an5.167:2.6": {
+            "scid": "an5.167:2.6",
+            "pli": "mettacitto vakkhāmi, no dosantaro. ",
+            "de": "Ich werde mit liebevollem Herzen sprechen, nicht mit <span class=\"ebt-matched\">verstecktem Hass</span>. ",
+            "en": "I will speak lovingly, not from secret hate. ",
+            "matched": true
+          },
+          "an5.167:3.1": {
+            "scid": "an5.167:3.1",
+            "pli": "Idhāhaṁ, āvuso, ekaccaṁ puggalaṁ passāmi akālena codiyamānaṁ no kālena kupitaṁ, abhūtena codiyamānaṁ no bhūtena kupitaṁ, pharusena codiyamānaṁ no saṇhena kupitaṁ, anatthasaṁhitena codiyamānaṁ no atthasaṁhitena kupitaṁ, dosantarena codiyamānaṁ no mettacittena kupitaṁ. ",
+            "de": "Nehmen wir an, ich sehe, wie eine gewisse Person zur falschen Zeit angeklagt wird, sie wird nicht zur rechten Zeit gestört. Sie wird mit der Unwahrheit angeklagt, nicht mit der Wahrheit gestört. Sie wird hart angeklagt, nicht sanft gestört. Sie wird zum Schaden angeklagt, nicht zum Segen gestört. Sie wird mit <span class=\"ebt-matched\">verstecktem Hass</span> angeklagt, nicht mit liebevollem Herzen gestört. ",
+            "en": "Take a case where I see a certain person being accused at the wrong time, not being disturbed at the right time. They’re accused falsely, not disturbed truthfully. They’re accused harshly, not disturbed gently. They’re accused harmfully, not disturbed beneficially. They’re accused with secret hate, not disturbed lovingly. ",
+            "matched": true
+          },
+          "an5.167:4.6": {
+            "scid": "an5.167:4.6",
+            "pli": "dosantarenāyasmā cudito no mettacittena, alaṁ te avippaṭisārāyā’ti. ",
+            "de": "Du bist mit <span class=\"ebt-matched\">verstecktem Hass</span> angeklagt worden, nicht mit liebevollem Herzen. Du hast nichts zu bereuen.‘ ",
+            "en": "You were accused with secret hate, not lovingly. There’s no need for you to feel remorse.’ ",
+            "matched": true
+          },
+          "an5.167:5.6": {
+            "scid": "an5.167:5.6",
+            "pli": "dosantarena te, āvuso, codito no mettacittena, alaṁ te vippaṭisārāyā’ti. ",
+            "de": "Du hast mit <span class=\"ebt-matched\">verstecktem Hass</span> Anklage erhoben, nicht mit liebevollem Herzen. Du solltest das bereuen.‘ ",
+            "en": "You made an accusation with secret hate, not lovingly. There’s a reason for you to feel remorse.’ ",
+            "matched": true
+          },
+          "an5.167:6.1": {
+            "scid": "an5.167:6.1",
+            "pli": "Idha panāhaṁ, āvuso, ekaccaṁ puggalaṁ passāmi kālena codiyamānaṁ no akālena kupitaṁ, bhūtena codiyamānaṁ no abhūtena kupitaṁ, saṇhena codiyamānaṁ no pharusena kupitaṁ, atthasaṁhitena codiyamānaṁ no anatthasaṁhitena kupitaṁ, mettacittena codiyamānaṁ no dosantarena kupitaṁ. ",
+            "de": "Nehmen wir an, ich sehe, wie eine gewisse Person zur rechten Zeit angeklagt wird, sie wird nicht zur falschen Zeit gestört. Sie wird mit der Wahrheit angeklagt, nicht mit der Unwahrheit gestört. Sie wird sanft angeklagt, nicht hart gestört. Sie wird zum Segen angeklagt, nicht zum Schaden gestört. Sie wird mit liebevollem Herzen angeklagt, nicht mit <span class=\"ebt-matched\">verstecktem Hass</span> gestört. ",
+            "en": "Take a case where I see a certain person being accused at the right time, not being disturbed at the wrong time. They’re accused truthfully, not disturbed falsely. They’re accused gently, not disturbed harshly. They’re accused beneficially, not disturbed harmfully. They’re accused lovingly, not disturbed with secret hate. ",
+            "matched": true
+          },
+          "an5.167:7.6": {
+            "scid": "an5.167:7.6",
+            "pli": "mettacittenāyasmā cudito no dosantarena, alaṁ te vippaṭisārāyā’ti. ",
+            "de": "Du bist mit liebevollem Herzen angeklagt worden, nicht mit <span class=\"ebt-matched\">verstecktem Hass</span>. Du solltest das bereuen.‘ ",
+            "en": "You were accused lovingly, not with secret hate. There’s a reason for you to feel remorse.’ ",
+            "matched": true
+          },
+          "an5.167:8.6": {
+            "scid": "an5.167:8.6",
+            "pli": "mettacittena te, āvuso, codito no dosantarena, alaṁ te avippaṭisārāyā’ti. ",
+            "de": "Du hast mit liebevollem Herzen Anklage erhoben, nicht mit <span class=\"ebt-matched\">verstecktem Hass</span>. Du hast nichts zu bereuen.‘ ",
+            "en": "You made an accusation lovingly, not with secret hate. There’s no need for you to feel remorse.’ ",
+            "matched": true
+          },
+          "an5.167:9.3": {
+            "scid": "an5.167:9.3",
+            "pli": "Mañcepi, āvuso, pare codeyyuṁ kālena vā akālena vā bhūtena vā abhūtena vā saṇhena vā pharusena vā atthasaṁhitena vā anatthasaṁhitena vā mettacittā vā dosantarā vā, ahampi dvīsuyeva dhammesu patiṭṭhaheyyaṁ—",
+            "de": "Selbst wenn andere mich anklagen, werte Freunde, sei es zur rechten oder zur falschen Zeit, mit der Wahrheit oder mit der Unwahrheit, sanft oder hart, zum Segen oder zum Schaden, mit liebevollem Herzen oder mit <span class=\"ebt-matched\">verstecktem Hass</span> – ich werde mich in zwei Dingen verankern: ",
+            "en": "Even if others accuse me—at the right time or the wrong time, truthfully or falsely, gently or harshly, beneficially or harmfully, lovingly or with secret hate—I will still ground myself in two things: ",
+            "matched": true
+          }
+        },
+        "score": 8.121,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n17. Groll\n167. Anklage",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 66,
+          "de": 65,
+          "en": 65
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:2.1.63": {
+            "scid": "dn33:2.1.63",
+            "pli": "mettacittena vakkhāmi no dosantarenāti. ",
+            "de": "Ich werde mit liebevollem Herzen sprechen, nicht mit <span class=\"ebt-matched\">verstecktem Hass</span>. ",
+            "en": "I will speak lovingly, not from secret hate. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

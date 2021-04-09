@@ -1,0 +1,80 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "three practice categories",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "three practice categories",
+    "method": "phrase",
+    "resultPattern": "\\bthree practice categories",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn44_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn44/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn44_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn44",
+        "lang": "en",
+        "segMap": {
+          "mn44:11.1": {
+            "scid": "mn44:11.1",
+            "pli": "“Ariyena nu kho, ayye, aṭṭhaṅgikena maggena tayo khandhā saṅgahitā udāhu tīhi khandhehi ariyo aṭṭhaṅgiko maggo saṅgahito”ti? ",
+            "en": "“Are the <span class=\"ebt-matched\">three practice categories</span> included in the noble eightfold path? Or is the noble eightfold path included in the <span class=\"ebt-matched\">three practice categories</span>?” ",
+            "matched": true
+          },
+          "mn44:11.2": {
+            "scid": "mn44:11.2",
+            "pli": "“Na kho, āvuso visākha, ariyena aṭṭhaṅgikena maggena tayo khandhā saṅgahitā; tīhi ca kho, āvuso visākha, khandhehi ariyo aṭṭhaṅgiko maggo saṅgahito. ",
+            "en": "“The <span class=\"ebt-matched\">three practice categories</span> are not included in the noble eightfold path. Rather, the noble eightfold path is included in the <span class=\"ebt-matched\">three practice categories</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 44\nThe Shorter Classification",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 138,
+          "en": 137
+        }
+      }
+    ]
+  }
+}

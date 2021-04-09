@@ -1,0 +1,222 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "practicing like this",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "practicing like this",
+    "method": "phrase",
+    "resultPattern": "\\bpracticing like this",
+    "segsMatched": 17,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn78_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn78_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.63_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.63_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.60_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.60_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn78/en/sujato",
+      "an3.63/en/sujato",
+      "an3.60/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.63_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.63_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.63",
+        "lang": "en",
+        "segMap": {
+          "an3.63:6.9": {
+            "scid": "an3.63:6.9",
+            "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto caṅkamāmi, dibbo me eso tasmiṁ samaye caṅkamo hoti. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I walk, at that time I walk like the gods. ",
+            "matched": true
+          },
+          "an3.63:6.10": {
+            "scid": "an3.63:6.10",
+            "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto tiṭṭhāmi, dibbaṁ me etaṁ tasmiṁ samaye ṭhānaṁ hoti. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I stand, at that time I stand like the gods. ",
+            "matched": true
+          },
+          "an3.63:6.11": {
+            "scid": "an3.63:6.11",
+            "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto nisīdāmi, dibbaṁ me etaṁ tasmiṁ samaye āsanaṁ hoti. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I sit, at that time I sit like the gods. ",
+            "matched": true
+          },
+          "an3.63:6.12": {
+            "scid": "an3.63:6.12",
+            "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto seyyaṁ kappemi, dibbaṁ me etaṁ tasmiṁ samaye uccāsayanamahāsayanaṁ hoti. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I lie down, at that time I lie down like the gods. ",
+            "matched": true
+          },
+          "an3.63:8.9": {
+            "scid": "an3.63:8.9",
+            "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto caṅkamāmi, brahmā me eso tasmiṁ samaye caṅkamo hoti. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I walk, at that time I walk like Brahmā. ",
+            "matched": true
+          },
+          "an3.63:8.12": {
+            "scid": "an3.63:8.12",
+            "pli": "seyyaṁ kappemi, brahmaṁ me etaṁ tasmiṁ samaye uccāsayanamahāsayanaṁ hoti. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I lie down, at that time I lie down like Brahmā. ",
+            "matched": true
+          },
+          "an3.63:10.9": {
+            "scid": "an3.63:10.9",
+            "pli": "So ce ahaṁ, brāhmaṇa, evaṁbhūto caṅkamāmi, ariyo me eso tasmiṁ samaye caṅkamo hoti. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I walk, at that time I walk like the noble ones. ",
+            "matched": true
+          },
+          "an3.63:10.12": {
+            "scid": "an3.63:10.12",
+            "pli": "seyyaṁ kappemi, ariyaṁ me etaṁ tasmiṁ samaye uccāsayanamahāsayanaṁ hoti. ",
+            "en": "When I’m <span class=\"ebt-matched\">practicing like this</span>, if I lie down, at that time I lie down like the noble ones. ",
+            "matched": true
+          }
+        },
+        "score": 8.101,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n63. At Venāgapura",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 79,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn78_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn78_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn78",
+        "lang": "en",
+        "segMap": {
+          "mn78:9.8": {
+            "scid": "mn78:9.8",
+            "pli": "Evaṁ paṭipanno akusalānaṁ sīlānaṁ nirodhāya paṭipanno hoti; ",
+            "en": "‘Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of unskillful behaviors.’ ",
+            "matched": true
+          },
+          "mn78:9.16": {
+            "scid": "mn78:9.16",
+            "pli": "Evaṁ paṭipanno kusalānaṁ sīlānaṁ nirodhāya paṭipanno hoti; ",
+            "en": "‘Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of skillful behaviors.’ ",
+            "matched": true
+          },
+          "mn78:9.24": {
+            "scid": "mn78:9.24",
+            "pli": "Evaṁ paṭipanno akusalānaṁ saṅkappānaṁ nirodhāya paṭipanno hoti; ",
+            "en": "‘Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of unskillful thoughts.’ ",
+            "matched": true
+          },
+          "mn78:9.32": {
+            "scid": "mn78:9.32",
+            "pli": "Evaṁ paṭipanno kusalānaṁ saṅkappānaṁ nirodhāya paṭipanno hoti; ",
+            "en": "‘Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of skillful thoughts.’ ",
+            "matched": true
+          },
+          "mn78:10.19": {
+            "scid": "mn78:10.19",
+            "pli": "Evaṁ paṭipanno kho, thapati, akusalānaṁ sīlānaṁ nirodhāya paṭipanno hoti. ",
+            "en": "Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of unskillful behaviors. ",
+            "matched": true
+          },
+          "mn78:11.19": {
+            "scid": "mn78:11.19",
+            "pli": "Evaṁ paṭipanno kho, thapati, kusalānaṁ sīlānaṁ nirodhāya paṭipanno hoti. ",
+            "en": "Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of skillful behaviors. ",
+            "matched": true
+          },
+          "mn78:12.20": {
+            "scid": "mn78:12.20",
+            "pli": "Evaṁ paṭipanno kho, thapati, akusalānaṁ saṅkappānaṁ nirodhāya paṭipanno hoti. ",
+            "en": "Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of unskillful thoughts. ",
+            "matched": true
+          },
+          "mn78:13.20": {
+            "scid": "mn78:13.20",
+            "pli": "Evaṁ paṭipanno kho, thapati, kusalānaṁ saṅkappānaṁ nirodhāya paṭipanno hoti. ",
+            "en": "Someone <span class=\"ebt-matched\">practicing like this</span> is practicing for the cessation of skillful thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 8.049,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 78\nWith Uggāhamāna Samaṇamuṇḍika",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 162,
+          "en": 161
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.60_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.60_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.60",
+        "lang": "en",
+        "segMap": {
+          "an3.60:2.5": {
+            "scid": "an3.60:2.5",
+            "pli": "‘ethāyaṁ maggo ayaṁ paṭipadā yathāpaṭipanno ahaṁ anuttaraṁ brahmacariyogadhaṁ sayaṁ abhiññā sacchikatvā pavedemi; ",
+            "en": "‘Come, this is the path, this is the practice. <span class=\"ebt-matched\">Practicing like this</span>, I realized the supreme culmination of the spiritual life with my own insight, and I make it known. ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n6. Brahmins\n60. With Saṅgārava",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 119,
+          "en": 117
+        }
+      }
+    ]
+  }
+}

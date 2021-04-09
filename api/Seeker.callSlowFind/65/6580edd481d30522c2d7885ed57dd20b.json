@@ -1,0 +1,788 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "stilling of all activities",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "stilling of all activities",
+    "method": "phrase",
+    "resultPattern": "\\bstilling of all activities",
+    "segsMatched": 29,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an9/an9.36_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.36_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn6/sn6.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn6/sn6.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn48/sn48.50_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn48/sn48.50_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.90_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.90_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn64_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn64_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn26_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn26_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga9/iti85_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga9/iti85_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga8/iti72_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga8/iti72_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.114_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.114_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.32_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.32_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.21_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.20_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.20_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.19_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.19_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.18_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.18_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.6_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an9.36/en/sujato",
+      "mn22/en/sujato",
+      "an11.7/en/sujato",
+      "an10.60/en/sujato",
+      "sn6.1/en/sujato",
+      "sn48.50/en/sujato",
+      "sn22.90/en/sujato",
+      "mn85/en/sujato",
+      "mn64/en/sujato",
+      "mn26/en/sujato",
+      "iti85/en/sujato",
+      "iti72/en/sujato",
+      "dn14/en/sujato",
+      "an5.140/en/sujato",
+      "an4.114/en/sujato",
+      "an3.32/en/sujato",
+      "an11.8/en/sujato",
+      "an11.21/en/sujato",
+      "an11.20/en/sujato",
+      "an11.19/en/sujato",
+      "an11.18/en/sujato",
+      "an10.6/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.36_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.36_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.36",
+        "lang": "en",
+        "segMap": {
+          "an9.36:2.7": {
+            "scid": "an9.36:2.7",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          },
+          "an9.36:3.6": {
+            "scid": "an9.36:3.6",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          },
+          "an9.36:6.7": {
+            "scid": "an9.36:6.7",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          },
+          "an9.36:8.8": {
+            "scid": "an9.36:8.8",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          },
+          "an9.36:9.6": {
+            "scid": "an9.36:9.6",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 5.058,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n4. The Great Chapter\n36. Depending on Absorption",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 86,
+          "en": 85
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.7",
+        "lang": "en",
+        "segMap": {
+          "an11.7:5.2": {
+            "scid": "an11.7:5.2",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ, yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          },
+          "an11.7:9.2": {
+            "scid": "an11.7:9.2",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ, yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.08,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n1. Dependence\n7. Percipient",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 25,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.60",
+        "lang": "en",
+        "segMap": {
+          "an10.60:9.3": {
+            "scid": "an10.60:9.3",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhippaṭinissaggo taṇhākkhayo virāgo nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, extinguishment.’ ",
+            "matched": true
+          },
+          "an10.60:10.3": {
+            "scid": "an10.60:10.3",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhippaṭinissaggo taṇhākkhayo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n60. With Girimānanda",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 80,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn22",
+        "lang": "en",
+        "segMap": {
+          "mn22:20.5": {
+            "scid": "mn22:20.5",
+            "pli": "So suṇāti tathāgatassa vā tathāgatasāvakassa vā sabbesaṁ diṭṭhiṭṭhānādhiṭṭhānapariyuṭṭhānābhinivesānusayānaṁ samugghātāya sabbasaṅkhārasamathāya sabbūpadhipaṭinissaggāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammaṁ desentassa. ",
+            "en": "They hear the Realized One or their disciple teaching Dhamma for the uprooting of all grounds, fixations, obsessions, insistences, and underlying tendencies regarding views; for the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          },
+          "mn22:21.5": {
+            "scid": "mn22:21.5",
+            "pli": "So suṇāti tathāgatassa vā tathāgatasāvakassa vā sabbesaṁ diṭṭhiṭṭhānādhiṭṭhānapariyuṭṭhānābhinivesānusayānaṁ samugghātāya sabbasaṅkhārasamathāya sabbūpadhipaṭinissaggāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammaṁ desentassa. ",
+            "en": "They hear the Realized One or their disciple teaching Dhamma for the uprooting of all grounds, fixations, obsessions, insistences, and underlying tendencies regarding views; for the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 2.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 22\nThe Simile of the Snake",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 359,
+          "en": 358
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.6",
+        "lang": "en",
+        "segMap": {
+          "an10.6:3.2": {
+            "scid": "an10.6:3.2",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n1. Benefits\n6. Immersion",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 11,
+          "en": 10
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.18_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.18_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.18",
+        "lang": "en",
+        "segMap": {
+          "an11.18:5.2": {
+            "scid": "an11.18:5.2",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ, yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n2. Recollection\n18. Immersion (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 11,
+          "en": 10
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.20_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.20",
+        "lang": "en",
+        "segMap": {
+          "an11.20:4.2": {
+            "scid": "an11.20:4.2",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ, yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n2. Recollection\n20. Immersion (3rd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.8",
+        "lang": "en",
+        "segMap": {
+          "an11.8:5.2": {
+            "scid": "an11.8:5.2",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ, yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n1. Dependence\n8. Awareness",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.19_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.19_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.19",
+        "lang": "en",
+        "segMap": {
+          "an11.19:6.2": {
+            "scid": "an11.19:6.2",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ, yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n2. Recollection\n19. Immersion (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.32_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.32_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.32",
+        "lang": "en",
+        "segMap": {
+          "an3.32:4.2": {
+            "scid": "an3.32:4.2",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n4. Messengers of the Gods\n32. With Ānanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 20,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga8/iti72_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga8/iti72_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti72",
+        "lang": "en",
+        "segMap": {
+          "iti72:3.4": {
+            "scid": "iti72:3.4",
+            "pli": "phusaṁ ātāpi sabbadā.",
+            "en": "the <span class=\"ebt-matched\">stilling of all activities</span>.",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Threes\nChapter Three\n72. Elements of Escape",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.21_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.21",
+        "lang": "en",
+        "segMap": {
+          "an11.21:6.2": {
+            "scid": "an11.21:6.2",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ, yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n2. Recollection\n21. Immersion (4th)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga9/iti85_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga9/iti85_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti85",
+        "lang": "en",
+        "segMap": {
+          "iti85:3.4": {
+            "scid": "iti85:3.4",
+            "pli": "passaṁ ātāpi sabbadā.",
+            "en": "the <span class=\"ebt-matched\">stilling of all activities</span>.",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Threes\nChapter Four\n85. Observing Ugliness",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.114_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.114_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.114",
+        "lang": "en",
+        "segMap": {
+          "an4.114:10.2": {
+            "scid": "an4.114:10.2",
+            "pli": "Idha, bhikkhave, bhikkhu yāyaṁ disā agatapubbā iminā dīghena addhunā yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ, taṁ khippaññeva gantā hoti. ",
+            "en": "It’s when a mendicant swiftly goes in the direction they’ve never gone before in all this long time; that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 1.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n12. With Kesi\n114. A Royal Elephant",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 40,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn48/sn48.50_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn48/sn48.50_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn48.50",
+        "lang": "en",
+        "segMap": {
+          "sn48.50:5.5": {
+            "scid": "sn48.50:5.5",
+            "pli": "sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. ",
+            "en": "That is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 48\n5. Old Age\n50. At Āpaṇa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 50,
+          "en": 48
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn6/sn6.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn6/sn6.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn6.1",
+        "lang": "en",
+        "segMap": {
+          "sn6.1:1.7": {
+            "scid": "sn6.1:1.7",
+            "pli": "Idampi kho ṭhānaṁ duddasaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. ",
+            "en": "It’s also hard for them to see this thing; that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 6\n1. The Appeal\n1. The Appeal of Brahmā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 53,
+          "en": 53
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.140",
+        "lang": "en",
+        "segMap": {
+          "an5.140:13.2": {
+            "scid": "an5.140:13.2",
+            "pli": "Idha, bhikkhave, bhikkhu yā sā disā agatapubbā iminā dīghena addhunā, yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ, taṁ khippaññeva gantā hoti. ",
+            "en": "It’s when a mendicant swiftly goes in the direction they’ve never gone before in all this long time; that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n14. Kings\n140. A Listener",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 59,
+          "en": 57
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.90_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.90_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.90",
+        "lang": "en",
+        "segMap": {
+          "sn22.90:3.12": {
+            "scid": "sn22.90:3.12",
+            "pli": "Atha ca pana me sabbasaṅkhārasamathe sabbūpadhipaṭinissagge taṇhākkhaye virāge nirodhe nibbāne cittaṁ na pakkhandati nappasīdati na santiṭṭhati nādhimuccati. ",
+            "en": "And yet my mind isn’t eager, confident, settled, and decided about the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n9. Senior Mendicants\n90. With Channa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 100,
+          "en": 99
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn64_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn64_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn64",
+        "lang": "en",
+        "segMap": {
+          "mn64:9.6": {
+            "scid": "mn64:9.6",
+            "pli": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti. ",
+            "en": "‘This is peaceful; this is sublime—that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, cessation, extinguishment.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 64\nThe Longer Discourse With Māluṅkya",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 123,
+          "en": 122
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn26_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn26",
+        "lang": "en",
+        "segMap": {
+          "mn26:19.5": {
+            "scid": "mn26:19.5",
+            "pli": "Idampi kho ṭhānaṁ duddasaṁ yadidaṁ—sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. ",
+            "en": "It’s also hard for them to see this thing; that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 26\nThe Noble Search",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 365,
+          "en": 364
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn85",
+        "lang": "en",
+        "segMap": {
+          "mn85:43.5": {
+            "scid": "mn85:43.5",
+            "pli": "Idampi kho ṭhānaṁ duddasaṁ—yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. ",
+            "en": "It’s also hard for them to see this thing; that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 85\nWith Prince Bodhi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 553,
+          "en": 552
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn14",
+        "lang": "en",
+        "segMap": {
+          "dn14:3.1.7": {
+            "scid": "dn14:3.1.7",
+            "pli": "Idampi kho ṭhānaṁ duddasaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. ",
+            "en": "It’s also hard for them to see this thing; that is, the <span class=\"ebt-matched\">stilling of all activities</span>, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 14\nThe Great Discourse on the Harvest of Deeds\n1. On Past Lives",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 851,
+          "en": 850
+        }
+      }
+    ]
+  }
+}

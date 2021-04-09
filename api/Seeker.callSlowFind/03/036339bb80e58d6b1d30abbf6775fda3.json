@@ -1,0 +1,214 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "selbst versteh",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "selbst versteh",
+    "method": "phrase",
+    "resultPattern": "\\bselbst versteh",
+    "segsMatched": 12,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.193_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.193_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.193_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.66_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.66_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.66_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.65_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.65_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.65_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.193/de/sabbamitta",
+      "an3.66/de/sabbamitta",
+      "an3.65/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.66_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.66_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.66_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.66",
+        "lang": "de",
+        "segMap": {
+          "an3.66:2.2": {
+            "scid": "an3.66:2.2",
+            "pli": "Yadā tumhe, sāḷhā, attanāva jāneyyātha ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, sāḷhā, pajaheyyātha. ",
+            "de": "Aber wenn ihr <span class=\"ebt-matched\">selbst versteh</span>t: ‚Diese Dinge sind untauglich, tadelnswert, werden von vernünftigen Menschen getadelt, und wenn man sie ausführt, führen sie zu Unglück und Leiden‘, dann solltet ihr sie aufgeben. ",
+            "en": "But when you know for yourselves: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up. ",
+            "matched": true
+          },
+          "an3.66:23.3": {
+            "scid": "an3.66:23.3",
+            "pli": "Yadā tumhe, sāḷhā, attanāva jāneyyātha—",
+            "de": "Aber wenn ihr <span class=\"ebt-matched\">selbst versteh</span>t: ",
+            "en": "But when you know for yourselves: ",
+            "matched": true
+          },
+          "an3.66:24.2": {
+            "scid": "an3.66:24.2",
+            "pli": "Yadā tumhe, sāḷhā, attanāva jāneyyātha: ",
+            "de": "Aber wenn ihr <span class=\"ebt-matched\">selbst versteh</span>t: ",
+            "en": "But when you know for yourselves: ",
+            "matched": true
+          },
+          "an3.66:45.3": {
+            "scid": "an3.66:45.3",
+            "pli": "Yadā tumhe, sāḷhā, attanāva jāneyyātha—",
+            "de": "Aber wenn ihr <span class=\"ebt-matched\">selbst versteh</span>t: ",
+            "en": "But when you know for yourselves: ",
+            "matched": true
+          }
+        },
+        "score": 4.044,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n66. Mit Sāḷha",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 90,
+          "de": 89,
+          "en": 89
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.193_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.193_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.193_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.193",
+        "lang": "de",
+        "segMap": {
+          "an4.193:3.2": {
+            "scid": "an4.193:3.2",
+            "pli": "Yadā tumhe, bhaddiya, attanāva jāneyyātha: ",
+            "de": "Aber wenn du <span class=\"ebt-matched\">selbst versteh</span>st: ",
+            "en": "But when you know for yourselves: ",
+            "matched": true
+          },
+          "an4.193:7.3": {
+            "scid": "an4.193:7.3",
+            "pli": "Yadā tumhe, bhaddiya, attanāva jāneyyātha: ",
+            "de": "Aber wenn du <span class=\"ebt-matched\">selbst versteh</span>st: ",
+            "en": "But when you know for yourselves: ",
+            "matched": true
+          },
+          "an4.193:8.2": {
+            "scid": "an4.193:8.2",
+            "pli": "Yadā tumhe, bhaddiya, attanāva jāneyyātha: ",
+            "de": "Aber wenn du <span class=\"ebt-matched\">selbst versteh</span>st: ",
+            "en": "But when you know for yourselves: ",
+            "matched": true
+          },
+          "an4.193:12.3": {
+            "scid": "an4.193:12.3",
+            "pli": "Yadā tumhe, bhaddiya, attanāva jāneyyātha: ",
+            "de": "Aber wenn du <span class=\"ebt-matched\">selbst versteh</span>st: ",
+            "en": "But when you know for yourselves: ",
+            "matched": true
+          }
+        },
+        "score": 4.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n20. Das große Kapitel\n193. Mit Bhaddiya",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 93,
+          "de": 92,
+          "en": 92
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.65_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.65_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.65_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.65",
+        "lang": "de",
+        "segMap": {
+          "an3.65:4.2": {
+            "scid": "an3.65:4.2",
+            "pli": "Yadā tumhe, kālāmā, attanāva jāneyyātha: ",
+            "de": "Aber wenn ihr <span class=\"ebt-matched\">selbst versteh</span>t: ",
+            "en": "But when you know for yourselves: ",
+            "matched": true
+          },
+          "an3.65:25.4": {
+            "scid": "an3.65:25.4",
+            "pli": "Yadā tumhe kālāmā attanāva jāneyyātha: ",
+            "de": "Aber wenn ihr <span class=\"ebt-matched\">selbst versteh</span>t: ",
+            "en": "But when you know for yourselves: ",
+            "matched": true
+          },
+          "an3.65:26.2": {
+            "scid": "an3.65:26.2",
+            "pli": "Yadā tumhe, kālāmā, attanāva jāneyyātha: ",
+            "de": "Aber wenn ihr <span class=\"ebt-matched\">selbst versteh</span>t: ",
+            "en": "But when you know for yourselves: ",
+            "matched": true
+          },
+          "an3.65:41.4": {
+            "scid": "an3.65:41.4",
+            "pli": "Yadā tumhe, kālāmā, attanāva jāneyyātha—",
+            "de": "Aber wenn ihr <span class=\"ebt-matched\">selbst versteh</span>t: ",
+            "en": "But when you know for yourselves: ",
+            "matched": true
+          }
+        },
+        "score": 4.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n65. Mit den Kālāmern von Kesamutta",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 108,
+          "de": 107,
+          "en": 107
+        }
+      }
+    ]
+  }
+}

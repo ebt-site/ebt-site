@@ -1,0 +1,564 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "harmful misconception",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "harmful misconception",
+    "method": "phrase",
+    "resultPattern": "\\bharmful misconception",
+    "segsMatched": 35,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.85_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.85_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn93_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn93_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn6/sn6.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn6/sn6.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn6/sn6.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn6/sn6.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn49_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn49_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn35_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn35_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.95_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.95_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn23/en/sujato",
+      "mn38/en/sujato",
+      "mn22/en/sujato",
+      "sn22.85/en/sujato",
+      "dn12/en/sujato",
+      "mn93/en/sujato",
+      "dn24/en/sujato",
+      "sn6.5/en/sujato",
+      "sn6.4/en/sujato",
+      "mn49/en/sujato",
+      "mn35/en/sujato",
+      "an10.95/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "en",
+        "segMap": {
+          "dn23:2.1": {
+            "scid": "dn23:2.1",
+            "pli": "Tena kho pana samayena pāyāsissa rājaññassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ",
+            "en": "Now at that time Pāyāsi had the following <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          },
+          "dn23:21.53": {
+            "scid": "dn23:21.53",
+            "pli": "Paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ; paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ. ",
+            "en": "Let go of this <span class=\"ebt-matched\">harmful misconception</span>, chieftain, let go of it! ",
+            "matched": true
+          },
+          "dn23:22.1": {
+            "scid": "dn23:22.1",
+            "pli": "“Kiñcāpi bhavaṁ kassapo evamāha, atha kho nevāhaṁ sakkomi idaṁ pāpakaṁ diṭṭhigataṁ paṭinissajjituṁ. ",
+            "en": "“Even though Master Kassapa says this, still I’m not able to let go of that <span class=\"ebt-matched\">harmful misconception</span>. ",
+            "matched": true
+          },
+          "dn23:22.5": {
+            "scid": "dn23:22.5",
+            "pli": "Sacāhaṁ, bho kassapa, idaṁ pāpakaṁ diṭṭhigataṁ paṭinissajjissāmi, bhavissanti me vattāro: ",
+            "en": "If I let go of this <span class=\"ebt-matched\">harmful misconception</span>, people will say, ",
+            "matched": true
+          },
+          "dn23:23.70": {
+            "scid": "dn23:23.70",
+            "pli": "Paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ; paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ. ",
+            "en": "Let go of this <span class=\"ebt-matched\">harmful misconception</span>, chieftain, let go of it! ",
+            "matched": true
+          },
+          "dn23:24.1": {
+            "scid": "dn23:24.1",
+            "pli": "“Kiñcāpi bhavaṁ kassapo evamāha, atha kho nevāhaṁ sakkomi idaṁ pāpakaṁ diṭṭhigataṁ paṭinissajjituṁ. ",
+            "en": "“Even though Master Kassapa says this, still I’m not able to let go of that <span class=\"ebt-matched\">harmful misconception</span>. ",
+            "matched": true
+          },
+          "dn23:25.15": {
+            "scid": "dn23:25.15",
+            "pli": "Paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ; paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ. ",
+            "en": "Let go of this <span class=\"ebt-matched\">harmful misconception</span>, chieftain, let go of it! ",
+            "matched": true
+          },
+          "dn23:26.1": {
+            "scid": "dn23:26.1",
+            "pli": "“Kiñcāpi bhavaṁ kassapo evamāha, atha kho nevāhaṁ sakkomi idaṁ pāpakaṁ diṭṭhigataṁ paṭinissajjituṁ. ",
+            "en": "“Even though Master Kassapa says this, still I’m not able to let go of that <span class=\"ebt-matched\">harmful misconception</span>. ",
+            "matched": true
+          },
+          "dn23:27.19": {
+            "scid": "dn23:27.19",
+            "pli": "Paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ; paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ. ",
+            "en": "Let go of this <span class=\"ebt-matched\">harmful misconception</span>, chieftain, let go of it! ",
+            "matched": true
+          },
+          "dn23:28.1": {
+            "scid": "dn23:28.1",
+            "pli": "“Kiñcāpi bhavaṁ kassapo evamāha, atha kho nevāhaṁ sakkomi idaṁ pāpakaṁ diṭṭhigataṁ paṭinissajjituṁ. ",
+            "en": "“Even though Master Kassapa says this, still I’m not able to let go of that <span class=\"ebt-matched\">harmful misconception</span>. ",
+            "matched": true
+          },
+          "dn23:29.42": {
+            "scid": "dn23:29.42",
+            "pli": "Paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ; paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ. ",
+            "en": "Let go of this <span class=\"ebt-matched\">harmful misconception</span>, chieftain, let go of it! ",
+            "matched": true
+          },
+          "dn23:33.9": {
+            "scid": "dn23:33.9",
+            "pli": "Api cāhaṁ ayyena kumārakassapena etasmā pāpakā diṭṭhigatā vivecito”ti. ",
+            "en": "But Venerable Kassapa the Prince dissuaded me from that <span class=\"ebt-matched\">harmful misconception</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 12.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 23\nWith Pāyāsi",
+        "segsMatched": 12,
+        "langSegs": {
+          "pli": 715,
+          "en": 713
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn22",
+        "lang": "en",
+        "segMap": {
+          "mn22:2.1": {
+            "scid": "mn22:2.1",
+            "pli": "Tena kho pana samayena ariṭṭhassa nāma bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ",
+            "en": "Now at that time a mendicant called Ariṭtha, who had previously been a vulture trapper, had the following <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          },
+          "mn22:3.2": {
+            "scid": "mn22:3.2",
+            "pli": "“saccaṁ kira te, āvuso ariṭṭha, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“Is it really true, Reverend Ariṭṭha, that you have such a <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          },
+          "mn22:5.7": {
+            "scid": "mn22:5.7",
+            "pli": "“saccaṁ kira te, ariṭṭha, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“Is it really true, Ariṭṭha, that you have such a <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          },
+          "mn22:7.8": {
+            "scid": "mn22:7.8",
+            "pli": "“paññāyissasi kho tvaṁ, moghapurisa, etena sakena pāpakena diṭṭhigatena. ",
+            "en": "“Silly man, you will be known by your own <span class=\"ebt-matched\">harmful misconception</span>. ",
+            "matched": true
+          }
+        },
+        "score": 4.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 22\nThe Simile of the Snake",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 359,
+          "en": 358
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn38",
+        "lang": "en",
+        "segMap": {
+          "mn38:2.1": {
+            "scid": "mn38:2.1",
+            "pli": "Tena kho pana samayena sātissa nāma bhikkhuno kevaṭṭaputtassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ",
+            "en": "Now at that time a mendicant called Sāti, the fisherman’s son, had the following <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          },
+          "mn38:3.5": {
+            "scid": "mn38:3.5",
+            "pli": "“saccaṁ kira te, āvuso sāti, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“Is it really true, Reverend Sāti, that you have such a <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          },
+          "mn38:5.7": {
+            "scid": "mn38:5.7",
+            "pli": "“saccaṁ kira te, sāti, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“Is it really true, Sāti, that you have such a <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          },
+          "mn38:6.8": {
+            "scid": "mn38:6.8",
+            "pli": "“paññāyissasi kho tvaṁ, moghapurisa, etena sakena pāpakena diṭṭhigatena. ",
+            "en": "“Silly man, you will be known by your own <span class=\"ebt-matched\">harmful misconception</span>. ",
+            "matched": true
+          }
+        },
+        "score": 4.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 38\nThe Longer Discourse on the Ending of Craving",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 445,
+          "en": 444
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn12",
+        "lang": "en",
+        "segMap": {
+          "dn12:2.1": {
+            "scid": "dn12:2.1",
+            "pli": "Tena kho pana samayena lohiccassa brāhmaṇassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ",
+            "en": "Now at that time Lohicca had the following <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          },
+          "dn12:8.9": {
+            "scid": "dn12:8.9",
+            "pli": "Sādhu, bhante, bhagavā lohiccaṁ brāhmaṇaṁ etasmā pāpakā diṭṭhigatā vivecetū”ti. ",
+            "en": "“Sir, please dissuade him from that <span class=\"ebt-matched\">harmful misconception</span>.” ",
+            "matched": true
+          },
+          "dn12:9.6": {
+            "scid": "dn12:9.6",
+            "pli": "“saccaṁ kira te, lohicca, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“Is it really true, Lohicca, that you have such a <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          }
+        },
+        "score": 3.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 12\nWith Lohicca",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 189,
+          "en": 188
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.85_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.85_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.85",
+        "lang": "en",
+        "segMap": {
+          "sn22.85:1.2": {
+            "scid": "sn22.85:1.2",
+            "pli": "Tena kho pana samayena yamakassa nāma bhikkhuno evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ",
+            "en": "Now at that time a mendicant called Yamaka had the following <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          },
+          "sn22.85:3.1": {
+            "scid": "sn22.85:3.1",
+            "pli": "“Saccaṁ kira te, āvuso yamaka, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“Is it really true, Reverend Yamaka, that you have such a <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          },
+          "sn22.85:6.1": {
+            "scid": "sn22.85:6.1",
+            "pli": "“Saccaṁ kira te, āvuso yamaka, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“Is it really true, Reverend Yamaka, that you have such a <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          }
+        },
+        "score": 3.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n9. Senior Mendicants\n85. With Yamaka",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 197,
+          "en": 196
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn93_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn93_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn93",
+        "lang": "en",
+        "segMap": {
+          "mn93:18.2": {
+            "scid": "mn93:18.2",
+            "pli": "“bhūtapubbaṁ, assalāyana, sattannaṁ brāhmaṇisīnaṁ araññāyatane paṇṇakuṭīsu sammantānaṁ evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ",
+            "en": "“Once upon a time, Assalāyana, seven brahmin hermits settled in leaf huts in a wilderness region. They had the following <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          },
+          "mn93:18.39": {
+            "scid": "mn93:18.39",
+            "pli": "‘sutaṁ metaṁ, bho, sattannaṁ kira brāhmaṇisīnaṁ araññāyatane paṇṇakuṭīsu sammantānaṁ evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ—",
+            "en": "‘I heard that when the seven brahmin hermits had settled in leaf huts in a wilderness region, they had the following <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          }
+        },
+        "score": 2.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 93\nWith Assalāyana",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 244,
+          "en": 243
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn24",
+        "lang": "en",
+        "segMap": {
+          "dn24:1.7.16": {
+            "scid": "dn24:1.7.16",
+            "pli": "Api ca tuyhevetaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ, taṁ pajaha. ",
+            "en": "Rather, you should give up this <span class=\"ebt-matched\">harmful misconception</span> that has arisen in you. ",
+            "matched": true
+          },
+          "dn24:1.13.14": {
+            "scid": "dn24:1.13.14",
+            "pli": "api ca tuyhevetaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ, taṁ pajaha. ",
+            "en": "Rather, you should give up this <span class=\"ebt-matched\">harmful misconception</span> that has arisen in you. ",
+            "matched": true
+          }
+        },
+        "score": 2.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 24\nAbout Pāṭikaputta\n1. On Sunakkhatta",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 581,
+          "en": 580
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn6/sn6.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn6/sn6.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn6.4",
+        "lang": "en",
+        "segMap": {
+          "sn6.4:1.3": {
+            "scid": "sn6.4:1.3",
+            "pli": "Tena kho pana samayena bakassa brahmuno evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ",
+            "en": "Now at that time Baka the Brahmā had the following <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 6\n1. The Appeal\n4. With Baka the Brahmā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 52,
+          "en": 52
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.95_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.95_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.95",
+        "lang": "en",
+        "segMap": {
+          "an10.95:9.2": {
+            "scid": "an10.95:9.2",
+            "pli": "“mā hevaṁ kho uttiyo paribbājako pāpakaṁ diṭṭhigataṁ paṭilabhi: ",
+            "en": "“The wanderer Uttiya must not get the <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n95. With Uttiya",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 57,
+          "en": 56
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn6/sn6.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn6/sn6.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn6.5",
+        "lang": "en",
+        "segMap": {
+          "sn6.5:1.2": {
+            "scid": "sn6.5:1.2",
+            "pli": "Tena kho pana samayena aññatarassa brahmuno evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ",
+            "en": "Now at that time a certain Brahmā had the following <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 6\n1. The Appeal\n5. A Certain Brahmā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 61,
+          "en": 61
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn49_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn49_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn49",
+        "lang": "en",
+        "segMap": {
+          "mn49:2.2": {
+            "scid": "mn49:2.2",
+            "pli": "Tena kho pana, bhikkhave, samayena bakassa brahmuno evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ",
+            "en": "Now at that time Baka the Brahmā had the following <span class=\"ebt-matched\">harmful misconception</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 49\nOn the Invitation of Brahmā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 162,
+          "en": 161
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn35_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn35_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn35",
+        "lang": "en",
+        "segMap": {
+          "mn35:4.8": {
+            "scid": "mn35:4.8",
+            "pli": "Appeva nāma mayaṁ kadāci karahaci tena bhotā gotamena saddhiṁ samāgaccheyyāma, appeva nāma siyā kocideva kathāsallāpo, appeva nāma tasmā pāpakā diṭṭhigatā viveceyyāmā”ti. ",
+            "en": "Hopefully, some time or other I’ll get to meet Master Gotama, and we can have a discussion. And hopefully I can dissuade him from this <span class=\"ebt-matched\">harmful misconception</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 35\nThe Shorter Discourse With Saccaka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 235,
+          "en": 234
+        }
+      }
+    ]
+  }
+}

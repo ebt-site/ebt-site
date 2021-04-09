@@ -1,0 +1,138 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "a teacher called sunetta",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "a teacher called sunetta",
+    "method": "phrase",
+    "resultPattern": "\\ba teacher called sunetta",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an7/an7.73_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.73_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.54_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.54_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an7.73/en/sujato",
+      "an7.66/en/sujato",
+      "an6.54/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.73_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.73_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.73",
+        "lang": "en",
+        "segMap": {
+          "an7.73:1.1": {
+            "scid": "an7.73:1.1",
+            "pli": "“Bhūtapubbaṁ, bhikkhave, sunetto nāma satthā ahosi titthakaro kāmesu vītarāgo. ",
+            "en": "“Once upon a time, mendicants, there was <span class=\"ebt-matched\">a Teacher called Sunetta</span>. He was a religious founder and was free of sensual desire. ",
+            "matched": true
+          }
+        },
+        "score": 1.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n7. The Great Chapter\n73. About Sunetta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 29,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.66",
+        "lang": "en",
+        "segMap": {
+          "an7.66:11.1": {
+            "scid": "an7.66:11.1",
+            "pli": "Bhūtapubbaṁ, bhikkhave, sunetto nāma satthā ahosi titthakaro kāmesu vītarāgo. ",
+            "en": "Once upon a time, there was <span class=\"ebt-matched\">a teacher called Sunetta</span>. He was a religious founder and was free of sensual desire. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n7. The Great Chapter\n66. The Seven Suns",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 95,
+          "en": 94
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.54_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.54_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.54",
+        "lang": "en",
+        "segMap": {
+          "an6.54:13.7": {
+            "scid": "an6.54:13.7",
+            "pli": "“Bhūtapubbaṁ, brāhmaṇa dhammika, sunetto nāma satthā ahosi titthakaro kāmesu vītarāgo. ",
+            "en": "“Once upon a time, there was <span class=\"ebt-matched\">a Teacher called Sunetta</span>. He was a religious founder and was free of sensual desire. ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n5. About Dhammika\n54. About Dhammika",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 171,
+          "en": 169
+        }
+      }
+    ]
+  }
+}

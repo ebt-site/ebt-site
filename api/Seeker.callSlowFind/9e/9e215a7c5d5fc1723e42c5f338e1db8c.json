@@ -1,0 +1,104 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "a little learning",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "a little learning",
+    "method": "phrase",
+    "resultPattern": "\\ba little learning",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.6_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.6/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.6",
+        "lang": "en",
+        "segMap": {
+          "an4.6:0.3": {
+            "scid": "an4.6:0.3",
+            "pli": "6. Appassutasutta ",
+            "en": "6. <span class=\"ebt-matched\">A Little Learning</span> ",
+            "matched": true
+          },
+          "an4.6:1.3": {
+            "scid": "an4.6:1.3",
+            "pli": "Appassuto sutena anupapanno, ",
+            "en": "Little learning and not get the point of learning. ",
+            "matched": true
+          },
+          "an4.6:1.7": {
+            "scid": "an4.6:1.7",
+            "pli": "Kathañca, bhikkhave, puggalo appassuto hoti sutena anupapanno? ",
+            "en": "And how has a person learned little and not got the point of learning? ",
+            "matched": true
+          },
+          "an4.6:1.11": {
+            "scid": "an4.6:1.11",
+            "pli": "Evaṁ kho, bhikkhave, puggalo appassuto hoti sutena anupapanno. ",
+            "en": "That’s how a person has learned little and not got the point of learning. ",
+            "matched": true
+          },
+          "an4.6:2.1": {
+            "scid": "an4.6:2.1",
+            "pli": "Kathañca, bhikkhave, puggalo appassuto hoti sutena upapanno? ",
+            "en": "And how has a person learned little but has got the point of learning? ",
+            "matched": true
+          },
+          "an4.6:2.5": {
+            "scid": "an4.6:2.5",
+            "pli": "Evaṁ kho, bhikkhave, puggalo appassuto hoti sutena upapanno. ",
+            "en": "That’s how a person has learned little but has got the point of learning. ",
+            "matched": true
+          }
+        },
+        "score": 6.113,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n1. At Bhaṇḍa Village\n6. A Little Learning",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 53,
+          "en": 52
+        }
+      }
+    ]
+  }
+}

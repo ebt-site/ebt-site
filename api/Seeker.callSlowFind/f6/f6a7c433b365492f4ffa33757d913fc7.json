@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "keuschen und die unkeuschen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "keuschen und die unkeuschen",
+    "method": "phrase",
+    "resultPattern": "\\bkeuschen und die unkeuschen",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.44_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.44_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.44_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.44/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.44_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.44_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.44_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.44",
+        "lang": "de",
+        "segMap": {
+          "an6.44:2.1": {
+            "scid": "an6.44:2.1",
+            "pli": "“Kathaṁ kathaṁ nāmāyaṁ, bhante ānanda, bhagavatā dhammo desito aññeyyo, yatra hi nāma brahmacārī ca abrahmacārī ca ubho samasamagatikā bhavissanti abhisamparāyaṁ? ",
+            "de": "„Herr, Ānanda, wie um alles in der Welt sollen wir die Lehre verstehen, die der Buddha gelehrt hat, wenn die <span class=\"ebt-matched\">Keuschen und die Unkeuschen</span> beide im nächsten Leben an genau dem gleichen Ort wiedergeboren werden? ",
+            "en": "“Sir, Ānanda, how on earth are we supposed to understand the teaching taught by the Buddha, when the chaste and the unchaste are both reborn in exactly the same place in the next life? ",
+            "matched": true
+          },
+          "an6.44:2.6": {
+            "scid": "an6.44:2.6",
+            "pli": "Kathaṁ kathaṁ nāmāyaṁ, bhante ānanda, bhagavatā dhammo desito aññeyyo, yatra hi nāma brahmacārī ca abrahmacārī ca ubho samasamagatikā bhavissanti abhisamparāyan”ti? ",
+            "de": "Wie um alles in der Welt sollen wir die Lehre verstehen, die der Buddha gelehrt hat, wenn die <span class=\"ebt-matched\">Keuschen und die Unkeuschen</span> beide im nächsten Leben an genau dem gleichen Ort wiedergeboren werden?“ ",
+            "en": "How on earth are we supposed to understand the teaching taught by the Buddha, when the chaste and the unchaste are both reborn in exactly the same place in the next life?” ",
+            "matched": true
+          }
+        },
+        "score": 2.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n5. Über Dhammika\n44. Mit Migasālā",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 77,
+          "de": 66,
+          "en": 76
+        }
+      }
+    ]
+  }
+}

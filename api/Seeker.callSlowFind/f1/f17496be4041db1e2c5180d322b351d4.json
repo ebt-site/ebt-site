@@ -1,0 +1,588 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "very helpful to",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "very helpful to",
+    "method": "phrase",
+    "resultPattern": "\\bvery helpful to",
+    "segsMatched": 26,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.24_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.24_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn142_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn142_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.83_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.83_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga11/iti107_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga11/iti107_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.234_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.234_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.249_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.249_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn26_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn26_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga11/iti106_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga11/iti106_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.51_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.51_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.63_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.63_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.31_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.31_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.32-41_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an2/an2.32-41_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.24/en/sujato",
+      "mn142/en/sujato",
+      "sn22.83/en/sujato",
+      "mn22/en/sujato",
+      "iti107/en/sujato",
+      "an5.234/en/sujato",
+      "an4.249/en/sujato",
+      "mn85/en/sujato",
+      "mn26/en/sujato",
+      "iti106/en/sujato",
+      "dn21/en/sujato",
+      "an8.51/en/sujato",
+      "an4.63/en/sujato",
+      "an3.31/en/sujato",
+      "an2.32-41/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.24_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.24_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.24",
+        "lang": "en",
+        "segMap": {
+          "an3.24:1.1": {
+            "scid": "an3.24:1.1",
+            "pli": "“Tayome, bhikkhave, puggalā puggalassa bahukārā. ",
+            "en": "“Mendicants, these three people are <span class=\"ebt-matched\">very helpful to</span> another. ",
+            "matched": true
+          },
+          "an3.24:1.4": {
+            "scid": "an3.24:1.4",
+            "pli": "ayaṁ, bhikkhave, puggalo imassa puggalassa bahukāro. ",
+            "en": "This person is <span class=\"ebt-matched\">very helpful to</span> another. ",
+            "matched": true
+          },
+          "an3.24:2.2": {
+            "scid": "an3.24:2.2",
+            "pli": "ayaṁ, bhikkhave, puggalo imassa puggalassa bahukāro. ",
+            "en": "This person is <span class=\"ebt-matched\">very helpful to</span> another. ",
+            "matched": true
+          },
+          "an3.24:3.2": {
+            "scid": "an3.24:3.2",
+            "pli": "ayaṁ, bhikkhave, puggalo imassa puggalassa bahukāro. ",
+            "en": "This person is <span class=\"ebt-matched\">very helpful to</span> another. ",
+            "matched": true
+          },
+          "an3.24:3.3": {
+            "scid": "an3.24:3.3",
+            "pli": "Ime kho, bhikkhave, tayo puggalā puggalassa bahukārā. ",
+            "en": "These are the three people who are <span class=\"ebt-matched\">very helpful to</span> another person. ",
+            "matched": true
+          }
+        },
+        "score": 5.333,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n3. Persons\n24. Very Helpful",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn142_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn142_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn142",
+        "lang": "en",
+        "segMap": {
+          "mn142:3.3": {
+            "scid": "mn142:3.3",
+            "pli": "Bahūpakārā, bhante, mahāpajāpati gotamī bhagavato mātucchā āpādikā posikā khīrassa dāyikā; ",
+            "en": "Sir, Mahāpajāpatī was <span class=\"ebt-matched\">very helpful to</span> the Buddha. As his aunt, she raised him, nurtured him, and gave him her milk. ",
+            "matched": true
+          },
+          "mn142:3.5": {
+            "scid": "mn142:3.5",
+            "pli": "Bhagavāpi, bhante, bahūpakāro mahāpajāpatiyā gotamiyā. ",
+            "en": "And the Buddha has been <span class=\"ebt-matched\">very helpful to</span> Mahāpajāpatī. ",
+            "matched": true
+          },
+          "mn142:3.10": {
+            "scid": "mn142:3.10",
+            "pli": "Bhagavāpi, bhante, bahūpakāro mahāpajāpatiyā gotamiyā”ti. ",
+            "en": "The Buddha has been <span class=\"ebt-matched\">very helpful to</span> Mahāpajāpatī.” ",
+            "matched": true
+          }
+        },
+        "score": 3.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 142\nThe Analysis of Religious Donations",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 141,
+          "en": 139
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.249_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.249_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.249",
+        "lang": "en",
+        "segMap": {
+          "an4.249:1.1": {
+            "scid": "an4.249:1.1",
+            "pli": "“Cattārome, bhikkhave, dhammā manussabhūtassa bahukārā honti. ",
+            "en": "“Mendicants, these four things are <span class=\"ebt-matched\">very helpful to</span> a human being. ",
+            "matched": true
+          },
+          "an4.249:1.4": {
+            "scid": "an4.249:1.4",
+            "pli": "Ime kho, bhikkhave, cattāro dhammā manussabhūtassa bahukārā hontī”ti. ",
+            "en": "These four things are <span class=\"ebt-matched\">very helpful to</span> a human being.” ",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n25. Perils of Offenses\n249. Very Helpful",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.234_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.234_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.234",
+        "lang": "en",
+        "segMap": {
+          "an5.234:1.1": {
+            "scid": "an5.234:1.1",
+            "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato āvāsiko bhikkhu āvāsassa bahūpakāro hoti. ",
+            "en": "“Mendicants, a resident mendicant with five qualities is <span class=\"ebt-matched\">very helpful to</span> the monastery. ",
+            "matched": true
+          },
+          "an5.234:1.9": {
+            "scid": "an5.234:1.9",
+            "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato āvāsiko bhikkhu āvāsassa bahūpakāro hotī”ti. ",
+            "en": "A resident mendicant with these five qualities is <span class=\"ebt-matched\">very helpful to</span> the monastery.” ",
+            "matched": true
+          }
+        },
+        "score": 2.154,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n24. A Resident Mendicant\n234. Very Helpful",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 13,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga11/iti107_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga11/iti107_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti107",
+        "lang": "en",
+        "segMap": {
+          "iti107:2.1": {
+            "scid": "iti107:2.1",
+            "pli": "“Bahukārā, bhikkhave, brāhmaṇagahapatikā tumhākaṁ ye vo paccupaṭṭhitā cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārehi.",
+            "en": "“Mendicants, brahmins and houselholders are <span class=\"ebt-matched\">very helpful to</span> you, as they provide you with robes, alms-food, lodgings, and medicines and supplies for the sick.",
+            "matched": true
+          },
+          "iti107:2.2": {
+            "scid": "iti107:2.2",
+            "pli": "Tumhepi, bhikkhave, bahukārā brāhmaṇagahapatikānaṁ yaṁ nesaṁ dhammaṁ desetha ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāsetha.",
+            "en": "And you are <span class=\"ebt-matched\">very helpful to</span> brahmins and householders, as you teach them the Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And you reveal a spiritual practice that’s entirely full and pure. ",
+            "matched": true
+          }
+        },
+        "score": 2.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Fours\nThe Chapter on the Holy Offering of the Teaching\n107. Very Helpful",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.83_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.83_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.83",
+        "lang": "en",
+        "segMap": {
+          "sn22.83:2.1": {
+            "scid": "sn22.83:2.1",
+            "pli": "“Puṇṇo nāma, āvuso, āyasmā mantāṇiputto amhākaṁ navakānaṁ sataṁ bahūpakāro hoti. ",
+            "en": "“Reverends, the venerable named Puṇṇa Mantāniputta was <span class=\"ebt-matched\">very helpful to</span> me when I was just ordained. ",
+            "matched": true
+          },
+          "sn22.83:4.12": {
+            "scid": "sn22.83:4.12",
+            "pli": "Puṇṇo nāma, āvuso, āyasmā mantāṇiputto amhākaṁ navakānaṁ sataṁ bahūpakāro hoti. ",
+            "en": "Reverends, the venerable named Puṇṇa Mantāniputta was <span class=\"ebt-matched\">very helpful to</span> me when I was just ordained. ",
+            "matched": true
+          }
+        },
+        "score": 2.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n9. Senior Mendicants\n83. With Ānanda",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 38,
+          "en": 37
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn22",
+        "lang": "en",
+        "segMap": {
+          "mn22:13.14": {
+            "scid": "mn22:13.14",
+            "pli": "‘bahukāro kho me ayaṁ kullo; ",
+            "en": "‘This raft has been <span class=\"ebt-matched\">very helpful to</span> me. ",
+            "matched": true
+          },
+          "mn22:13.22": {
+            "scid": "mn22:13.22",
+            "pli": "‘bahukāro kho me ayaṁ kullo; ",
+            "en": "‘This raft has been <span class=\"ebt-matched\">very helpful to</span> me. … ",
+            "matched": true
+          }
+        },
+        "score": 2.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 22\nThe Simile of the Snake",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 359,
+          "en": 358
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.31_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.31_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.31",
+        "lang": "en",
+        "segMap": {
+          "an3.31:1.8": {
+            "scid": "an3.31:1.8",
+            "pli": "Bahukārā, bhikkhave, mātāpitaro puttānaṁ, āpādakā posakā, imassa lokassa dassetāroti. ",
+            "en": "Parents are <span class=\"ebt-matched\">very helpful to</span> their children, they raise them, nurture them, and show them the world. ",
+            "matched": true
+          }
+        },
+        "score": 1.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n4. Messengers of the Gods\n31. With Brahmā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 26,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.63_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.63_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.63",
+        "lang": "en",
+        "segMap": {
+          "an4.63:2.6": {
+            "scid": "an4.63:2.6",
+            "pli": "Bahukārā, bhikkhave, mātāpitaro, puttānaṁ āpādakā posakā imassa lokassa dassetāroti. ",
+            "en": "Parents are <span class=\"ebt-matched\">very helpful to</span> their children, they raise them, nurture them, and show them the world. ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n7. Deeds of Substance\n63. Living with Brahmā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga11/iti106_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga11/iti106_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti106",
+        "lang": "en",
+        "segMap": {
+          "iti106:3.6": {
+            "scid": "iti106:3.6",
+            "pli": "Bahukārā, bhikkhave, mātāpitaro puttānaṁ āpādakā posakā imassa lokassa dassetāro”ti.",
+            "en": "Parents are <span class=\"ebt-matched\">very helpful to</span> their children, they raise them, nurture them, and show them the world.” ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Fours\nThe Chapter on the Holy Offering of the Teaching\n106. With Brahmā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.51_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.51",
+        "lang": "en",
+        "segMap": {
+          "an8.51:9.8": {
+            "scid": "an8.51:9.8",
+            "pli": "bahukārā, bhante, mahāpajāpatī gotamī bhagavato mātucchā āpādikā posikā khīrassa dāyikā; ",
+            "en": "Sir, Mahāpajāpatī has been <span class=\"ebt-matched\">very helpful to</span> the Buddha. She is his aunt who raised him, nurtured him, and gave him her milk. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n6. Gotamī\n51. With Gotamī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 92,
+          "en": 91
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.32-41_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an2/an2.32-41_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.32-41",
+        "lang": "en",
+        "segMap": {
+          "an2.33:1.8": {
+            "scid": "an2.33:1.8",
+            "pli": "Bahukārā, bhikkhave, mātāpitaro puttānaṁ āpādakā posakā imassa lokassa dassetāro. ",
+            "en": "Parents are <span class=\"ebt-matched\">very helpful to</span> their children, they raise them, nurture them, and show them the world. ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 2\n4. Peaceful Mind\n32–41",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 169,
+          "en": 168
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn26_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn26",
+        "lang": "en",
+        "segMap": {
+          "mn26:24.5": {
+            "scid": "mn26:24.5",
+            "pli": "‘bahukārā kho me pañcavaggiyā bhikkhū, ye maṁ padhānapahitattaṁ upaṭṭhahiṁsu. ",
+            "en": "‘The group of five mendicants were <span class=\"ebt-matched\">very helpful to</span> me. They looked after me during my time of resolute striving. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 26\nThe Noble Search",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 365,
+          "en": 364
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn21",
+        "lang": "en",
+        "segMap": {
+          "dn21:2.10.2": {
+            "scid": "dn21:2.10.2",
+            "pli": "“bahūpakāro kho mesi tvaṁ, tāta pañcasikha, yaṁ tvaṁ bhagavantaṁ paṭhamaṁ pasādesi. ",
+            "en": "“Dear Pañcasikha, you were <span class=\"ebt-matched\">very helpful to</span> me, since you first charmed the Buddha, ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 21\nSakka’s Questions",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 515,
+          "en": 514
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn85",
+        "lang": "en",
+        "segMap": {
+          "mn85:48.5": {
+            "scid": "mn85:48.5",
+            "pli": "‘bahukārā kho me pañcavaggiyā bhikkhū ye maṁ padhānapahitattaṁ upaṭṭhahiṁsu. ",
+            "en": "‘The group of five mendicants were <span class=\"ebt-matched\">very helpful to</span> me. They looked after me during my time of resolute striving. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 85\nWith Prince Bodhi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 553,
+          "en": 552
+        }
+      }
+    ]
+  }
+}

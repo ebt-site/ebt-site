@@ -1,0 +1,158 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "werden von.* erhalten",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "werden von.* erhalten",
+    "method": "phrase",
+    "resultPattern": "\\bwerden von.* erhalten",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/kp/kp4_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/kp/kp4_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/kp/kp4_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn33/de/sabbamitta",
+      "kp4/de/sabbamitta",
+      "dn34/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.8.2": {
+            "scid": "dn33:1.8.2",
+            "pli": "Sabbe sattā āhāraṭṭhitikā. ",
+            "de": "‚Alle Lebewesen <span class=\"ebt-matched\">werden von Nahrung erhalten</span>.‘ ",
+            "en": "‘All sentient beings are sustained by food.’ ",
+            "matched": true
+          },
+          "dn33:1.8.3": {
+            "scid": "dn33:1.8.3",
+            "pli": "Sabbe sattā saṅkhāraṭṭhitikā. ",
+            "de": "‚Alle Lebewesen <span class=\"ebt-matched\">werden von Bedingungen erhalten</span>.‘ ",
+            "en": "‘All sentient beings are sustained by conditions.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/kp/kp4_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/kp/kp4_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/kp/kp4_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "kp4",
+        "lang": "de",
+        "segMap": {
+          "kp4:1.2": {
+            "scid": "kp4:1.2",
+            "pli": "Sabbe sattā āhāraṭṭhitikā.",
+            "de": "Alle Lebewesen <span class=\"ebt-matched\">werden von Nahrung erhalten</span>. ",
+            "en": "All sentient beings are sustained by food.",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Kleinere Ausschnitte\nDie Fragen des Jungen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "de": 22,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.2.27": {
+            "scid": "dn34:1.2.27",
+            "pli": "Sabbe sattā āhāraṭṭhitikā. ",
+            "de": "Alle Lebewesen <span class=\"ebt-matched\">werden von Nahrung erhalten</span>. ",
+            "en": "All sentient beings are sustained by food. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

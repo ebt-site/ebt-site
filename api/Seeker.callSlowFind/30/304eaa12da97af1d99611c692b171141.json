@@ -1,0 +1,476 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "should be realized",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "should be realized",
+    "method": "phrase",
+    "resultPattern": "\\bshould be realized",
+    "segsMatched": 29,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn149_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn149_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn45/sn45.159_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn45/sn45.159_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.254_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.254_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.29_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.29_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.189_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.189_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.198_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.198_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.154_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.154_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/en/sujato",
+      "mn149/en/sujato",
+      "sn45.159/en/sujato",
+      "an4.254/en/sujato",
+      "sn56.29/en/sujato",
+      "sn56.12/en/sujato",
+      "sn56.11/en/sujato",
+      "an4.189/en/sujato",
+      "an10.198/en/sujato",
+      "an10.154/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.2.1": {
+            "scid": "dn34:1.2.1",
+            "pli": "Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo. ",
+            "en": "Reverends, one thing is helpful, one thing should be developed, one thing should be completely understood, one thing should be given up, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing should be produced, one thing should be directly known, one thing <span class=\"ebt-matched\">should be realized</span>. ",
+            "matched": true
+          },
+          "dn34:1.2.29": {
+            "scid": "dn34:1.2.29",
+            "pli": "Katamo eko dhammo sacchikātabbo? ",
+            "en": "What one thing <span class=\"ebt-matched\">should be realized</span>? ",
+            "matched": true
+          },
+          "dn34:1.3.1": {
+            "scid": "dn34:1.3.1",
+            "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
+            "en": "Two things are helpful, two things should be developed, two things should be completely understood, two things should be given up, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things <span class=\"ebt-matched\">should be realized</span>. ",
+            "matched": true
+          },
+          "dn34:1.3.31": {
+            "scid": "dn34:1.3.31",
+            "pli": "Katame dve dhammā sacchikātabbā? ",
+            "en": "What two things <span class=\"ebt-matched\">should be realized</span>? ",
+            "matched": true
+          },
+          "dn34:1.4.37": {
+            "scid": "dn34:1.4.37",
+            "pli": "Katame tayo dhammā sacchikātabbā? ",
+            "en": "What three things <span class=\"ebt-matched\">should be realized</span>? ",
+            "matched": true
+          },
+          "dn34:1.5.41": {
+            "scid": "dn34:1.5.41",
+            "pli": "Katame cattāro dhammā sacchikātabbā? ",
+            "en": "What four things <span class=\"ebt-matched\">should be realized</span>? ",
+            "matched": true
+          },
+          "dn34:1.6.101": {
+            "scid": "dn34:1.6.101",
+            "pli": "Katame pañca dhammā sacchikātabbā? ",
+            "en": "What five things <span class=\"ebt-matched\">should be realized</span>? ",
+            "matched": true
+          },
+          "dn34:1.7.83": {
+            "scid": "dn34:1.7.83",
+            "pli": "Katame cha dhammā sacchikātabbā? ",
+            "en": "What six things <span class=\"ebt-matched\">should be realized</span>? ",
+            "matched": true
+          },
+          "dn34:1.8.57": {
+            "scid": "dn34:1.8.57",
+            "pli": "Katame satta dhammā sacchikātabbā? ",
+            "en": "What seven things <span class=\"ebt-matched\">should be realized</span>? ",
+            "matched": true
+          },
+          "dn34:2.1.190": {
+            "scid": "dn34:2.1.190",
+            "pli": "Katame aṭṭha dhammā sacchikātabbā? ",
+            "en": "What eight things <span class=\"ebt-matched\">should be realized</span>? ",
+            "matched": true
+          },
+          "dn34:2.2.78": {
+            "scid": "dn34:2.2.78",
+            "pli": "Katame nava dhammā sacchikātabbā? ",
+            "en": "What nine things <span class=\"ebt-matched\">should be realized</span>? ",
+            "matched": true
+          },
+          "dn34:2.3.1": {
+            "scid": "dn34:2.3.1",
+            "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
+            "en": "Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things <span class=\"ebt-matched\">should be realized</span>. ",
+            "matched": true
+          },
+          "dn34:2.3.126": {
+            "scid": "dn34:2.3.126",
+            "pli": "Katame dasa dhammā sacchikātabbā? ",
+            "en": "What ten things <span class=\"ebt-matched\">should be realized</span>? ",
+            "matched": true
+          }
+        },
+        "score": 13.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 13,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn149_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn149_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn149",
+        "lang": "en",
+        "segMap": {
+          "mn149:10.14": {
+            "scid": "mn149:10.14",
+            "pli": "Ye dhammā abhiññā sacchikātabbā te dhamme abhiññā sacchikaroti. ",
+            "en": "They realize by direct knowledge those things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge. ",
+            "matched": true
+          },
+          "mn149:11.11": {
+            "scid": "mn149:11.11",
+            "pli": "Katame ca, bhikkhave, dhammā abhiññā sacchikātabbā? ",
+            "en": "And what are the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge? ",
+            "matched": true
+          },
+          "mn149:11.13": {
+            "scid": "mn149:11.13",
+            "pli": "ime dhammā abhiññā sacchikātabbā. ",
+            "en": "These are the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge. ",
+            "matched": true
+          },
+          "mn149:26.3": {
+            "scid": "mn149:26.3",
+            "pli": "ime dhammā abhiññā sacchikātabbā”ti. ",
+            "en": "These are the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge.” ",
+            "matched": true
+          }
+        },
+        "score": 4.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 149\nThe Great Discourse on the Six Sense Fields",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 105,
+          "en": 104
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.254_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.254_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.254",
+        "lang": "en",
+        "segMap": {
+          "an4.254:1.6": {
+            "scid": "an4.254:1.6",
+            "pli": "atthi, bhikkhave, dhammā abhiññā sacchikātabbā. ",
+            "en": "There are things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge. ",
+            "matched": true
+          },
+          "an4.254:5.1": {
+            "scid": "an4.254:5.1",
+            "pli": "Katame ca, bhikkhave, dhammā abhiññā sacchikātabbā? ",
+            "en": "And what are the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge? ",
+            "matched": true
+          },
+          "an4.254:5.3": {
+            "scid": "an4.254:5.3",
+            "pli": "ime vuccanti, bhikkhave, dhammā abhiññā sacchikātabbā. ",
+            "en": "These are called the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge. ",
+            "matched": true
+          }
+        },
+        "score": 3.13,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n26. Insight\n254. Insight",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn45/sn45.159_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn45/sn45.159_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn45.159",
+        "lang": "en",
+        "segMap": {
+          "sn45.159:1.3": {
+            "scid": "sn45.159:1.3",
+            "pli": "ye dhammā abhiññā pahātabbā, te dhamme abhiññā pajahati, ye dhammā abhiññā sacchikātabbā, te dhamme abhiññā sacchikaroti, ye dhammā abhiññā bhāvetabbā, te dhamme abhiññā bhāveti. ",
+            "en": "They give up by direct knowledge the things that should be given up by direct knowledge. They realize by direct knowledge the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge. They develop by direct knowledge the things that should be developed by direct knowledge. ",
+            "matched": true
+          },
+          "sn45.159:2.9": {
+            "scid": "sn45.159:2.9",
+            "pli": "Katame ca, bhikkhave, dhammā abhiññā sacchikātabbā? ",
+            "en": "And what are the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge? ",
+            "matched": true
+          },
+          "sn45.159:2.11": {
+            "scid": "sn45.159:2.11",
+            "pli": "ime, bhikkhave, dhammā abhiññā sacchikātabbā. ",
+            "en": "These are the things that <span class=\"ebt-matched\">should be realized</span> by direct knowledge. ",
+            "matched": true
+          }
+        },
+        "score": 3.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 45\n12. Hard Work\n159. A Guest House",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.29_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.29",
+        "lang": "en",
+        "segMap": {
+          "sn56.29:2.2": {
+            "scid": "sn56.29:2.2",
+            "pli": "Dukkhaṁ, bhikkhave, ariyasaccaṁ pariññeyyaṁ, dukkhasamudayaṁ ariyasaccaṁ pahātabbaṁ, dukkhanirodhaṁ ariyasaccaṁ sacchikātabbaṁ, dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabbaṁ. ",
+            "en": "The noble truth of suffering should be completely understood. The noble truth of the origin of suffering should be given up. The noble truth of the cessation of suffering <span class=\"ebt-matched\">should be realized</span>. The noble truth of the practice that leads to the cessation of suffering should be developed. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n3. At the Village of Koṭi\n29. Should Be Completely Understood",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.154_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.154_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.154",
+        "lang": "en",
+        "segMap": {
+          "an10.154:0.3": {
+            "scid": "an10.154:0.3",
+            "pli": "154. Sacchikātabbasutta ",
+            "en": "154. <span class=\"ebt-matched\">Should Be Realized</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n15. The Noble Path\n154. Should Be Realized",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.198_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.198_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.198",
+        "lang": "en",
+        "segMap": {
+          "an10.198:0.3": {
+            "scid": "an10.198:0.3",
+            "pli": "198. Sacchikātabbasutta ",
+            "en": "198. <span class=\"ebt-matched\">Should Be Realized</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n19. The Noble Path\n198. Should Be Realized",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.12",
+        "lang": "en",
+        "segMap": {
+          "sn56.12:3.2": {
+            "scid": "sn56.12:3.2",
+            "pli": "‘Taṁ kho panidaṁ dukkhanirodhaṁ ariyasaccaṁ sacchikātabban’ti, bhikkhave, tathāgatānaṁ pubbe …pe… udapādi. ",
+            "en": "‘This noble truth of the cessation of suffering <span class=\"ebt-matched\">should be realized</span>.’ … ",
+            "matched": true
+          }
+        },
+        "score": 1.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n2. Rolling Forth the Wheel of Dhamma\n12. The Realized Ones",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.189_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.189_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.189",
+        "lang": "en",
+        "segMap": {
+          "an4.189:1.1": {
+            "scid": "an4.189:1.1",
+            "pli": "“Cattārome, bhikkhave, sacchikaraṇīyā dhammā. ",
+            "en": "“Mendicants, these four things <span class=\"ebt-matched\">should be realized</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n19. Brahmins\n189. Things to be Realized",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.11",
+        "lang": "en",
+        "segMap": {
+          "sn56.11:7.2": {
+            "scid": "sn56.11:7.2",
+            "pli": "‘Taṁ kho panidaṁ dukkhanirodhaṁ ariyasaccaṁ sacchikātabban’ti me, bhikkhave, pubbe …pe… udapādi. ",
+            "en": "‘This noble truth of the cessation of suffering <span class=\"ebt-matched\">should be realized</span>.’ Such was the vision that arose in me … ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n2. Rolling Forth the Wheel of Dhamma\n11. Rolling Forth the Wheel of Dhamma",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 60,
+          "en": 59
+        }
+      }
+    ]
+  }
+}

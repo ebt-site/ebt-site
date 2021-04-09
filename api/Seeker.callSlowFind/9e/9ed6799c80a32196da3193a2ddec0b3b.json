@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "explain suffering to me",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "explain suffering to me",
+    "method": "phrase",
+    "resultPattern": "\\bexplain suffering to me",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn12/sn12.17_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.17_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn12.17/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.17_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.17_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.17",
+        "lang": "en",
+        "segMap": {
+          "sn12.17:4.9": {
+            "scid": "sn12.17:4.9",
+            "pli": "Ācikkhatu ca me, bhante, bhagavā dukkhaṁ. ",
+            "en": "Sir, <span class=\"ebt-matched\">explain suffering to me</span>! ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n2. Fuel\n17. With Kassapa, the Naked Ascetic",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 68,
+          "en": 67
+        }
+      }
+    ]
+  }
+}

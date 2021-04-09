@@ -1,0 +1,21 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bwiedergeburt in der",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/dn/dn19_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/an/an6/an6.54_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an5/an5.179_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json:1"
+  ]
+}

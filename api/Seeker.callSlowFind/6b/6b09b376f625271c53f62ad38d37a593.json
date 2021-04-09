@@ -1,0 +1,115 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "die kugel aus seifenpulver",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "die kugel aus seifenpulver",
+    "method": "phrase",
+    "resultPattern": "\\bdie kugel aus seifenpulver",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.28_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.28_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.28_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn10/de/sabbamitta",
+      "an5.28/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.28_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.28_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.28_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.28",
+        "lang": "de",
+        "segMap": {
+          "an5.28:2.4": {
+            "scid": "an5.28:2.4",
+            "pli": "Seyyathāpi, bhikkhave, dakkho nhāpako vā nhāpakantevāsī vā kaṁsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṁ paripphosakaṁ sanneyya. Sāyaṁ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā phuṭā snehena, na ca paggharinī. ",
+            "de": "Wie ein geschickter Bader oder Badergehilfe, der Seifenpulver in eine Bronzeschale gibt und es nach und nach mit Wasser benetzt. Er knetet es, bis <span class=\"ebt-matched\">die Kugel aus Seifenpulver</span> mit Feuchtigkeit vollgesogen und gesättigt ist, innen und außen durchtränkt, und doch kein Wasser ausläuft. ",
+            "en": "It’s like when a deft bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n3. Mit fünf Faktoren\n28. Mit fünf Faktoren",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 85,
+          "de": 84,
+          "en": 84
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn10",
+        "lang": "de",
+        "segMap": {
+          "dn10:2.14.1": {
+            "scid": "dn10:2.14.1",
+            "pli": "Seyyathāpi, māṇava, dakkho nhāpako vā nhāpakantevāsī vā kaṁsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṁ paripphosakaṁ sanneyya. Sāyaṁ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā phuṭā snehena, na ca paggharaṇī. ",
+            "de": "Wie ein geschickter Bader oder Badergehilfe, der Seifenpulver in eine Bronzeschale gibt und es nach und nach mit Wasser benetzt. Er knetet es, bis <span class=\"ebt-matched\">die Kugel aus Seifenpulver</span> mit Feuchtigkeit vollgesogen und gesättigt ist, innen und außen durchtränkt, und doch kein Wasser ausläuft. ",
+            "en": "It’s like when a deft bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 10\nMit Subha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 284,
+          "de": 226,
+          "en": 281
+        }
+      }
+    ]
+  }
+}

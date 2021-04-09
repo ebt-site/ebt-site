@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bgegen den strom",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an4/an4.5_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/sn/sn6/sn6.1_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json:1"
+  ]
+}

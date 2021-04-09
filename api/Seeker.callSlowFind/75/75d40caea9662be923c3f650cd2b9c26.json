@@ -1,0 +1,168 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "nine factors",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "nine factors",
+    "method": "phrase",
+    "resultPattern": "\\bnine factors",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an9/an9.17_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.17_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.18_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.18_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an9.17/en/sujato",
+      "an9.18/en/sujato",
+      "dn34/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.17_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.17_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.17",
+        "lang": "en",
+        "segMap": {
+          "an9.17:1.1": {
+            "scid": "an9.17:1.1",
+            "pli": "“Navahi, bhikkhave, aṅgehi samannāgataṁ kulaṁ anupagantvā vā nālaṁ upagantuṁ, upagantvā vā nālaṁ nisīdituṁ. ",
+            "en": "“Mendicants, visiting a family with <span class=\"ebt-matched\">nine factors</span> is not worthwhile, or if you’ve already arrived, sitting down is not worthwhile. ",
+            "matched": true
+          },
+          "an9.17:1.4": {
+            "scid": "an9.17:1.4",
+            "pli": "Imehi kho, bhikkhave, navahaṅgehi samannāgataṁ kulaṁ anupagantvā vā nālaṁ upagantuṁ upagantvā vā nālaṁ nisīdituṁ. ",
+            "en": "Visiting a family with these <span class=\"ebt-matched\">nine factors</span> is not worthwhile, or if you’ve already arrived, sitting down is not worthwhile. ",
+            "matched": true
+          },
+          "an9.17:2.1": {
+            "scid": "an9.17:2.1",
+            "pli": "Navahi, bhikkhave, aṅgehi samannāgataṁ kulaṁ anupagantvā vā alaṁ upagantuṁ, upagantvā vā alaṁ nisīdituṁ. ",
+            "en": "Visiting a family with <span class=\"ebt-matched\">nine factors</span> is worthwhile, or if you’ve already arrived, sitting down is worthwhile. ",
+            "matched": true
+          },
+          "an9.17:2.4": {
+            "scid": "an9.17:2.4",
+            "pli": "Imehi kho, bhikkhave, navahaṅgehi samannāgataṁ kulaṁ anupagantvā vā alaṁ upagantuṁ, upagantvā vā alaṁ nisīditun”ti. ",
+            "en": "Visiting a family with these <span class=\"ebt-matched\">nine factors</span> is worthwhile, or if you’ve already arrived, sitting down is worthwhile.” ",
+            "matched": true
+          }
+        },
+        "score": 4.333,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n2. The Lion’s Roar\n17. Families",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.18_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.18_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.18",
+        "lang": "en",
+        "segMap": {
+          "an9.18:0.3": {
+            "scid": "an9.18:0.3",
+            "pli": "18. Navaṅguposathasutta ",
+            "en": "18. The Sabbath with <span class=\"ebt-matched\">Nine Factors</span> ",
+            "matched": true
+          },
+          "an9.18:1.1": {
+            "scid": "an9.18:1.1",
+            "pli": "“Navahi, bhikkhave, aṅgehi samannāgato uposatho upavuttho mahapphalo hoti mahānisaṁso mahājutiko mahāvipphāro. ",
+            "en": "“Mendicants, the observance of the sabbath with its <span class=\"ebt-matched\">nine factors</span> is very fruitful and beneficial and splendid and bountiful. ",
+            "matched": true
+          },
+          "an9.18:4.1": {
+            "scid": "an9.18:4.1",
+            "pli": "Evaṁ upavuttho kho, bhikkhave, navahaṅgehi samannāgato uposatho mahapphalo hoti mahānisaṁso mahājutiko mahāvipphāro”ti. ",
+            "en": "The observance of the sabbath with its <span class=\"ebt-matched\">nine factors</span> in this way is very fruitful and beneficial and splendid and bountiful.” ",
+            "matched": true
+          }
+        },
+        "score": 3.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n2. The Lion’s Roar\n18. The Sabbath with Nine Factors",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:2.2.6": {
+            "scid": "dn34:2.2.6",
+            "pli": "Nava pārisuddhipadhāniyaṅgāni—",
+            "en": "<span class=\"ebt-matched\">Nine factors</span> of trying to be pure. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "two things should be developed",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "two things should be developed",
+    "method": "phrase",
+    "resultPattern": "\\btwo things should be developed",
+    "segsMatched": 7,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an2/an2.310-479_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an2/an2.310-479_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an2.310-479/en/sujato",
+      "dn34/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.310-479_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an2/an2.310-479_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.310-479",
+        "lang": "en",
+        "segMap": {
+          "an2.310-319:1.1": {
+            "scid": "an2.310-319:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">two things should be developed</span>. ",
+            "matched": true
+          },
+          "an2.310-319:1.4": {
+            "scid": "an2.310-319:1.4",
+            "pli": "Rāgassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti. ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">two things should be developed</span>.” ",
+            "matched": true
+          },
+          "an2.310-319:2.1": {
+            "scid": "an2.310-319:2.1",
+            "pli": "“Rāgassa, bhikkhave, pariññāya … parikkhayāya … pahānāya … khayāya … vayāya … virāgāya … nirodhāya … cāgāya … paṭinissaggāya dve dhammā bhāvetabbā …pe…  ",
+            "en": "“For the complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go of greed, <span class=\"ebt-matched\">two things should be developed</span>.” ",
+            "matched": true
+          },
+          "an2.320-479:1.1": {
+            "scid": "an2.320-479:1.1",
+            "pli": "“Dosassa …pe… mohassa … kodhassa … upanāhassa … makkhassa … paḷāsassa … issāya … macchariyassa … māyāya … sāṭheyyassa … thambhassa … sārambhassa … mānassa … atimānassa … madassa … pamādassa … abhiññāya … pariññāya … parikkhayāya … pahānāya … khayāya … vayāya … virāgāya … nirodhāya … cāgāya … paṭinissaggāya dve dhammā bhāvetabbā. ",
+            "en": "“Of hate … delusion … anger … hostility … disdain … contempt … jealousy … stinginess … deceit … deviousness … obstinacy … aggression … conceit … arrogance … vanity … negligence … for insight … complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go … <span class=\"ebt-matched\">two things should be developed</span>. ",
+            "matched": true
+          },
+          "an2.320-479:1.4": {
+            "scid": "an2.320-479:1.4",
+            "pli": "Pamādassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti. ",
+            "en": "For the letting go of negligence, these <span class=\"ebt-matched\">two things should be developed</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 5.278,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 2\n19. Abbreviated Texts Beginning with Greed\n310–479",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 18,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.3.1": {
+            "scid": "dn34:1.3.1",
+            "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
+            "en": "Two things are helpful, <span class=\"ebt-matched\">two things should be developed</span>, two things should be completely understood, two things should be given up, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things should be realized. ",
+            "matched": true
+          },
+          "dn34:1.3.5": {
+            "scid": "dn34:1.3.5",
+            "pli": "Katame dve dhammā bhāvetabbā? ",
+            "en": "What <span class=\"ebt-matched\">two things should be developed</span>? ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

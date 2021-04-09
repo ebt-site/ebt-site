@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "bodhisatta",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "pli",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "bodhisatta",
+    "method": "phrase",
+    "resultPattern": "\\bbodhisatta",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/kn/thag/thag10.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag10.1_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "thag10.1/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag10.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag10.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag10.1",
+        "lang": "en",
+        "segMap": {
+          "thag10.1:8.3": {
+            "scid": "thag10.1:8.3",
+            "pli": "Yā <span class=\"ebt-matched\">bodhisatta</span>ṁ parihariya kucchinā,",
+            "en": "Having borne the <span class=\"ebt-matched\">Bodhisatta</span> in her belly,",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Tens\nChapter One\n10.1. Kāḷudāyī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "en": 46
+        }
+      }
+    ]
+  }
+}

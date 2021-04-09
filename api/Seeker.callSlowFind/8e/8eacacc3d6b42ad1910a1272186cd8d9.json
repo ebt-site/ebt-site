@@ -1,0 +1,1030 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "signless",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "signless",
+    "method": "phrase",
+    "resultPattern": "\\bsignless",
+    "segsMatched": 65,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn43_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn43_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn40/sn40.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn40/sn40.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn41/sn41.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn41/sn41.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn121_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn121_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.56_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.56_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.80_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.80_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.60_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.60_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.13_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn8/sn8.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn8/sn8.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn47/sn47.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn43/sn43.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn43/sn43.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn43/sn43.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn43/sn43.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn41/sn41.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn41/sn41.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn44_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig5.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig5.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig3.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig3.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig2.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig2.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag21.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag21.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag1.92_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag1.92_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.183-352_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.183-352_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn43/en/sujato",
+      "sn40.9/en/sujato",
+      "sn41.7/en/sujato",
+      "mn121/en/sujato",
+      "an7.56/en/sujato",
+      "sn22.80/en/sujato",
+      "dn33/en/sujato",
+      "an6.60/en/sujato",
+      "dn34/en/sujato",
+      "an6.13/en/sujato",
+      "sn8.4/en/sujato",
+      "sn47.9/en/sujato",
+      "sn43.4/en/sujato",
+      "sn43.12/en/sujato",
+      "sn41.6/en/sujato",
+      "mn44/en/sujato",
+      "thig5.8/en/sujato",
+      "thig3.3/en/sujato",
+      "thig2.1/en/sujato",
+      "thag21.1/en/sujato",
+      "thag1.92/en/sujato",
+      "dn16/en/sujato",
+      "an3.183-352/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn43_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn43_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn43",
+        "lang": "en",
+        "segMap": {
+          "mn43:27.1": {
+            "scid": "mn43:27.1",
+            "pli": "“Kati panāvuso, paccayā animittāya cetovimuttiyā samāpattiyā”ti? ",
+            "en": "“How many conditions are necessary to attain the <span class=\"ebt-matched\">signless</span> release of the heart?” ",
+            "matched": true
+          },
+          "mn43:27.2": {
+            "scid": "mn43:27.2",
+            "pli": "“Dve kho, āvuso, paccayā animittāya cetovimuttiyā samāpattiyā—",
+            "en": "“Two conditions are necessary to attain the <span class=\"ebt-matched\">signless</span> release of the heart: ",
+            "matched": true
+          },
+          "mn43:27.3": {
+            "scid": "mn43:27.3",
+            "pli": "sabbanimittānañca amanasikāro, animittāya ca dhātuyā manasikāro. ",
+            "en": "not focusing on any signs, and focusing on the <span class=\"ebt-matched\">signless</span>. ",
+            "matched": true
+          },
+          "mn43:27.4": {
+            "scid": "mn43:27.4",
+            "pli": "Ime kho, āvuso, dve paccayā animittāya cetovimuttiyā samāpattiyā”ti. ",
+            "en": "These two conditions are necessary to attain the <span class=\"ebt-matched\">signless</span> release of the heart.” ",
+            "matched": true
+          },
+          "mn43:27.5": {
+            "scid": "mn43:27.5",
+            "pli": "“Kati panāvuso, paccayā animittāya cetovimuttiyā ṭhitiyā”ti? ",
+            "en": "“How many conditions are necessary to remain in the <span class=\"ebt-matched\">signless</span> release of the heart?” ",
+            "matched": true
+          },
+          "mn43:28.1": {
+            "scid": "mn43:28.1",
+            "pli": "“Tayo kho, āvuso, paccayā animittāya cetovimuttiyā ṭhitiyā—",
+            "en": "“Three conditions are necessary to remain in the <span class=\"ebt-matched\">signless</span> release of the heart: ",
+            "matched": true
+          },
+          "mn43:28.2": {
+            "scid": "mn43:28.2",
+            "pli": "sabbanimittānañca amanasikāro, animittāya ca dhātuyā manasikāro, pubbe ca abhisaṅkhāro. ",
+            "en": "not focusing on any signs, focusing on the <span class=\"ebt-matched\">signless</span>, and a previous determination. ",
+            "matched": true
+          },
+          "mn43:28.3": {
+            "scid": "mn43:28.3",
+            "pli": "Ime kho, āvuso, tayo paccayā animittāya cetovimuttiyā ṭhitiyā”ti. ",
+            "en": "These three conditions are necessary to remain in the <span class=\"ebt-matched\">signless</span> release of the heart.” ",
+            "matched": true
+          },
+          "mn43:29.1": {
+            "scid": "mn43:29.1",
+            "pli": "“Kati panāvuso, paccayā animittāya cetovimuttiyā vuṭṭhānāyā”ti? ",
+            "en": "“How many conditions are necessary to emerge from the <span class=\"ebt-matched\">signless</span> release of the heart?” ",
+            "matched": true
+          },
+          "mn43:29.2": {
+            "scid": "mn43:29.2",
+            "pli": "“Dve kho, āvuso, paccayā animittāya cetovimuttiyā vuṭṭhānāya—",
+            "en": "“Two conditions are necessary to emerge from the <span class=\"ebt-matched\">signless</span> release of the heart: ",
+            "matched": true
+          },
+          "mn43:29.3": {
+            "scid": "mn43:29.3",
+            "pli": "sabbanimittānañca manasikāro, animittāya ca dhātuyā amanasikāro. ",
+            "en": "focusing on all signs, and not focusing on the <span class=\"ebt-matched\">signless</span>. ",
+            "matched": true
+          },
+          "mn43:29.4": {
+            "scid": "mn43:29.4",
+            "pli": "Ime kho, āvuso, dve paccayā animittāya cetovimuttiyā vuṭṭhānāyā”ti. ",
+            "en": "These two conditions are necessary to emerge from the <span class=\"ebt-matched\">signless</span> release of the heart.” ",
+            "matched": true
+          },
+          "mn43:29.5": {
+            "scid": "mn43:29.5",
+            "pli": "“Yā cāyaṁ, āvuso, appamāṇā cetovimutti, yā ca ākiñcaññā cetovimutti, yā ca suññatā cetovimutti, yā ca animittā cetovimutti—ime dhammā nānātthā ceva nānābyañjanā ca udāhu ekatthā byañjanameva nānan”ti? ",
+            "en": "“The limitless release of the heart, and the release of the heart through nothingness, and the release of the heart through emptiness, and the <span class=\"ebt-matched\">signless</span> release of the heart: do these things differ in both meaning and phrasing? Or do they mean the same thing, and differ only in the phrasing?” ",
+            "matched": true
+          },
+          "mn43:34.1": {
+            "scid": "mn43:34.1",
+            "pli": "Katamā cāvuso, animittā cetovimutti? ",
+            "en": "And what is the <span class=\"ebt-matched\">signless</span> release of the heart? ",
+            "matched": true
+          },
+          "mn43:34.2": {
+            "scid": "mn43:34.2",
+            "pli": "Idhāvuso, bhikkhu sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati. ",
+            "en": "It’s when a mendicant, not focusing on any signs, enters and remains in the <span class=\"ebt-matched\">signless</span> immersion of the heart. ",
+            "matched": true
+          },
+          "mn43:34.3": {
+            "scid": "mn43:34.3",
+            "pli": "Ayaṁ vuccatāvuso, animittā cetovimutti. ",
+            "en": "This is called the <span class=\"ebt-matched\">signless</span> release of the heart. ",
+            "matched": true
+          },
+          "mn43:37.3": {
+            "scid": "mn43:37.3",
+            "pli": "Yāvatā kho, āvuso, animittā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati. ",
+            "en": "The unshakable release of the heart is said to be the best kind of <span class=\"ebt-matched\">signless</span> release of the heart. ",
+            "matched": true
+          }
+        },
+        "score": 17.093,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 43\nThe Great Classification",
+        "segsMatched": 17,
+        "langSegs": {
+          "pli": 183,
+          "en": 182
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn40/sn40.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn40/sn40.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn40.9",
+        "lang": "en",
+        "segMap": {
+          "sn40.9:0.3": {
+            "scid": "sn40.9:0.3",
+            "pli": "9. Animittapañhāsutta ",
+            "en": "9. A Question About the <span class=\"ebt-matched\">Signless</span> ",
+            "matched": true
+          },
+          "sn40.9:1.1": {
+            "scid": "sn40.9:1.1",
+            "pli": "“‘Animitto cetosamādhi, animitto cetosamādhī’ti vuccati. ",
+            "en": "“They speak of this thing called the ‘<span class=\"ebt-matched\">signless</span> immersion of the heart’. ",
+            "matched": true
+          },
+          "sn40.9:1.2": {
+            "scid": "sn40.9:1.2",
+            "pli": "Katamo nu kho animitto cetosamādhīti? ",
+            "en": "What is the <span class=\"ebt-matched\">signless</span> immersion of the heart? ",
+            "matched": true
+          },
+          "sn40.9:1.4": {
+            "scid": "sn40.9:1.4",
+            "pli": "‘idha bhikkhu sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati. ",
+            "en": "‘It’s when a mendicant, not focusing on any signs, enters and remains in the <span class=\"ebt-matched\">signless</span> immersion of the heart. ",
+            "matched": true
+          },
+          "sn40.9:1.5": {
+            "scid": "sn40.9:1.5",
+            "pli": "Ayaṁ vuccati animitto cetosamādhī’ti. ",
+            "en": "This is called the <span class=\"ebt-matched\">signless</span> immersion of the heart.’ ",
+            "matched": true
+          },
+          "sn40.9:1.6": {
+            "scid": "sn40.9:1.6",
+            "pli": "So khvāhaṁ, āvuso, sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharāmi. ",
+            "en": "And so … I was entering and remaining in the <span class=\"ebt-matched\">signless</span> immersion of the heart. ",
+            "matched": true
+          },
+          "sn40.9:2.3": {
+            "scid": "sn40.9:2.3",
+            "pli": "Mā, brāhmaṇa, animittaṁ cetosamādhiṁ pamādo, animitte cetosamādhismiṁ cittaṁ saṇṭhapehi, animitte cetosamādhismiṁ cittaṁ ekodiṁ karohi, animitte cetosamādhismiṁ cittaṁ samādahā’ti. ",
+            "en": "Don’t neglect the <span class=\"ebt-matched\">signless</span> immersion of the heart, brahmin! Settle your mind in the <span class=\"ebt-matched\">signless</span> immersion of the heart; unify your mind and immerse it in the <span class=\"ebt-matched\">signless</span> immersion of the heart.’ ",
+            "matched": true
+          },
+          "sn40.9:2.4": {
+            "scid": "sn40.9:2.4",
+            "pli": "So khvāhaṁ, āvuso, aparena samayena sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja vihāsiṁ. ",
+            "en": "And so, after some time … I entered and remained in the <span class=\"ebt-matched\">signless</span> immersion of the heart. ",
+            "matched": true
+          }
+        },
+        "score": 8.444,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 40\n1. By Moggallāna\n9. A Question About the Signless",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn41/sn41.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn41/sn41.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn41.7",
+        "lang": "en",
+        "segMap": {
+          "sn41.7:1.3": {
+            "scid": "sn41.7:1.3",
+            "pli": "“yā cāyaṁ, gahapati, appamāṇā cetovimutti, yā ca ākiñcaññā cetovimutti, yā ca suññatā cetovimutti, yā ca animittā cetovimutti, ime dhammā nānatthā nānābyañjanā udāhu ekatthā byañjanameva nānan”ti? ",
+            "en": "“Householder, the limitless release of the heart, and the release of the heart through nothingness, and the release of the heart through emptiness, and the <span class=\"ebt-matched\">signless</span> release of the heart: do these things differ in both meaning and phrasing? Or do they mean the same thing, and differ only in the phrasing?” ",
+            "matched": true
+          },
+          "sn41.7:5.1": {
+            "scid": "sn41.7:5.1",
+            "pli": "Katamā ca, bhante, animittā cetovimutti? ",
+            "en": "And what is the <span class=\"ebt-matched\">signless</span> heart’s release? ",
+            "matched": true
+          },
+          "sn41.7:5.2": {
+            "scid": "sn41.7:5.2",
+            "pli": "Idha, bhante, bhikkhu sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati. ",
+            "en": "It’s when a mendicant, not focusing on any signs, enters and remains in the <span class=\"ebt-matched\">signless</span> immersion of the heart. ",
+            "matched": true
+          },
+          "sn41.7:5.3": {
+            "scid": "sn41.7:5.3",
+            "pli": "Ayaṁ vuccati, bhante, animittā cetovimutti. ",
+            "en": "This is called the <span class=\"ebt-matched\">signless</span> release of the heart. ",
+            "matched": true
+          },
+          "sn41.7:6.12": {
+            "scid": "sn41.7:6.12",
+            "pli": "Yāvatā kho, bhante, animittā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati. ",
+            "en": "The unshakable release of the heart is said to be the best kind of <span class=\"ebt-matched\">signless</span> release of the heart. ",
+            "matched": true
+          }
+        },
+        "score": 5.119,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 41\n1. With Citta\n7. With Godatta",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 42,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn121_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn121_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn121",
+        "lang": "en",
+        "segMap": {
+          "mn121:10.1": {
+            "scid": "mn121:10.1",
+            "pli": "Puna caparaṁ, ānanda, bhikkhu amanasikaritvā ākiñcaññāyatanasaññaṁ, amanasikaritvā nevasaññānāsaññāyatanasaññaṁ, animittaṁ cetosamādhiṁ paṭicca manasi karoti ekattaṁ. ",
+            "en": "Furthermore, a mendicant—ignoring the perception of the dimension of nothingness and the perception of the dimension of neither perception nor non-perception—focuses on the oneness dependent on the <span class=\"ebt-matched\">signless</span> immersion of the heart. ",
+            "matched": true
+          },
+          "mn121:10.2": {
+            "scid": "mn121:10.2",
+            "pli": "Tassa animitte cetosamādhimhi cittaṁ pakkhandati pasīdati santiṭṭhati adhimuccati. ",
+            "en": "Their mind becomes eager, confident, settled, and decided in that <span class=\"ebt-matched\">signless</span> immersion of the heart. ",
+            "matched": true
+          },
+          "mn121:11.1": {
+            "scid": "mn121:11.1",
+            "pli": "Puna caparaṁ, ānanda, bhikkhu amanasikaritvā ākiñcaññāyatanasaññaṁ, amanasikaritvā nevasaññānāsaññāyatanasaññaṁ, animittaṁ cetosamādhiṁ paṭicca manasi karoti ekattaṁ. ",
+            "en": "Furthermore, a mendicant—ignoring the perception of the dimension of nothingness and the perception of the dimension of neither perception nor non-perception—focuses on the oneness dependent on the <span class=\"ebt-matched\">signless</span> immersion of the heart. ",
+            "matched": true
+          },
+          "mn121:11.2": {
+            "scid": "mn121:11.2",
+            "pli": "Tassa animitte cetosamādhimhi cittaṁ pakkhandati pasīdati santiṭṭhati adhimuccati. ",
+            "en": "Their mind becomes eager, confident, settled, and decided in that <span class=\"ebt-matched\">signless</span> immersion of the heart. ",
+            "matched": true
+          },
+          "mn121:11.4": {
+            "scid": "mn121:11.4",
+            "pli": "‘ayampi kho animitto cetosamādhi abhisaṅkhato abhisañcetayito’. ",
+            "en": "‘Even this <span class=\"ebt-matched\">signless</span> immersion of the heart is produced by choices and intentions.’ ",
+            "matched": true
+          }
+        },
+        "score": 5.049,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 121\nThe Shorter Discourse on Emptiness",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 102,
+          "en": 101
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.56_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.56_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.56",
+        "lang": "en",
+        "segMap": {
+          "an7.56:12.1": {
+            "scid": "an7.56:12.1",
+            "pli": "“Na hi pana te, moggallāna, tisso brahmā sattamaṁ animittavihāriṁ puggalaṁ deseti”. ",
+            "en": "“But Moggallāna, Tissa the Brahmā didn’t teach the seventh person, the <span class=\"ebt-matched\">signless</span> meditator.” ",
+            "matched": true
+          },
+          "an7.56:12.3": {
+            "scid": "an7.56:12.3",
+            "pli": "Yaṁ bhagavā sattamaṁ animittavihāriṁ puggalaṁ deseyya. Bhagavato sutvā bhikkhū dhāressantī”ti. ",
+            "en": "May the Buddha teach the seventh person, the <span class=\"ebt-matched\">signless</span> meditator. The mendicants will listen and remember it.” ",
+            "matched": true
+          },
+          "an7.56:13.1": {
+            "scid": "an7.56:13.1",
+            "pli": "“Idha, moggallāna, bhikkhu sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati. ",
+            "en": "“Moggallāna, take the case of a mendicant who, not focusing on any signs, enters and remains in the <span class=\"ebt-matched\">signless</span> immersion of the heart. ",
+            "matched": true
+          },
+          "an7.56:13.3": {
+            "scid": "an7.56:13.3",
+            "pli": "‘ayaṁ kho āyasmā sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati. ",
+            "en": "‘This venerable, not focusing on any signs, enters and remains in the <span class=\"ebt-matched\">signless</span> immersion of the heart. ",
+            "matched": true
+          }
+        },
+        "score": 4.041,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n6. The Undeclared Points\n56. Tissa the Brahmā",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 97,
+          "en": 96
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.80_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.80_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.80",
+        "lang": "en",
+        "segMap": {
+          "sn22.80:8.4": {
+            "scid": "sn22.80:8.4",
+            "pli": "Catūsu vā satipaṭṭhānesu suppatiṭṭhitacittassa viharato animittaṁ vā samādhiṁ bhāvayato. ",
+            "en": "In those who meditate with their mind firmly established in the four kinds of mindfulness meditation; or who develop <span class=\"ebt-matched\">signless</span> immersion. ",
+            "matched": true
+          },
+          "sn22.80:8.5": {
+            "scid": "sn22.80:8.5",
+            "pli": "Yāvañcidaṁ, bhikkhave, alameva animitto samādhi bhāvetuṁ. ",
+            "en": "Just this much is quite enough motivation to develop <span class=\"ebt-matched\">signless</span> immersion. ",
+            "matched": true
+          },
+          "sn22.80:8.6": {
+            "scid": "sn22.80:8.6",
+            "pli": "Animitto, bhikkhave, samādhi bhāvito bahulīkato mahapphalo hoti mahānisaṁso. ",
+            "en": "When <span class=\"ebt-matched\">signless</span> immersion is developed and cultivated it is very fruitful and beneficial. ",
+            "matched": true
+          }
+        },
+        "score": 3.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n8. Itchy\n80. Beggars",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 80,
+          "en": 79
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.60_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.60_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.60",
+        "lang": "en",
+        "segMap": {
+          "an6.60:8.1": {
+            "scid": "an6.60:8.1",
+            "pli": "Idha, panāvuso, ekacco puggalo sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati. ",
+            "en": "Take the case of another person who, not focusing on any signs, enters and remains in the <span class=\"ebt-matched\">signless</span> immersion of the heart. ",
+            "matched": true
+          },
+          "an6.60:8.2": {
+            "scid": "an6.60:8.2",
+            "pli": "So ‘lābhimhi animittassa cetosamādhissā’ti saṁsaṭṭho viharati bhikkhūhi bhikkhunīhi upāsakehi upāsikāhi raññā rājamahāmattehi titthiyehi titthiyasāvakehi. ",
+            "en": "Thinking, ‘I get the <span class=\"ebt-matched\">signless</span> immersion of the heart!’ they mix closely with monks, nuns, laymen, and laywomen; with rulers and their ministers, and with teachers of other paths and their followers. ",
+            "matched": true
+          },
+          "an6.60:8.10": {
+            "scid": "an6.60:8.10",
+            "pli": "Evamevaṁ kho, āvuso, idhekacco puggalo sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati. ",
+            "en": "“In the same way, take the case of a person who, not focusing on any signs, enters and remains in the <span class=\"ebt-matched\">signless</span> immersion of the heart … ",
+            "matched": true
+          }
+        },
+        "score": 3.031,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n6. The Great Chapter\n60. With Hatthisāriputta",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 98,
+          "en": 97
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:1.10.123": {
+            "scid": "dn33:1.10.123",
+            "pli": "suññato samādhi, animitto samādhi, appaṇihito samādhi. ",
+            "en": "emptiness, <span class=\"ebt-matched\">signless</span>, and undirected. ",
+            "matched": true
+          },
+          "dn33:2.2.99": {
+            "scid": "dn33:2.2.99",
+            "pli": "‘animittā hi kho me cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā. ",
+            "en": "‘I’ve developed the <span class=\"ebt-matched\">signless</span> release of the heart. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. ",
+            "matched": true
+          },
+          "dn33:2.2.104": {
+            "scid": "dn33:2.2.104",
+            "pli": "Nissaraṇaṁ hetaṁ, āvuso, sabbanimittānaṁ, yadidaṁ animittā cetovimuttī’ti.  ",
+            "en": "For it is the <span class=\"ebt-matched\">signless</span> release of the heart that is the escape from all signs.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.13_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.13",
+        "lang": "en",
+        "segMap": {
+          "an6.13:5.2": {
+            "scid": "an6.13:5.2",
+            "pli": "‘animittā hi kho me cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā; ",
+            "en": "‘I’ve developed the <span class=\"ebt-matched\">signless</span> release of the heart. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. ",
+            "matched": true
+          },
+          "an6.13:5.7": {
+            "scid": "an6.13:5.7",
+            "pli": "Nissaraṇañhetaṁ, āvuso, sabbanimittānaṁ yadidaṁ animittācetovimuttī’ti. ",
+            "en": "For it is the <span class=\"ebt-matched\">signless</span> release of the heart that is the escape from all signs.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.041,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n2. Warm-hearted\n13. Elements of Escape",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 49,
+          "en": 48
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.7.58": {
+            "scid": "dn34:1.7.58",
+            "pli": "‘animittā hi kho me cetovimutti bhāvitā …pe… ",
+            "en": "‘I’ve developed the <span class=\"ebt-matched\">signless</span> release of the heart. … ",
+            "matched": true
+          },
+          "dn34:1.7.61": {
+            "scid": "dn34:1.7.61",
+            "pli": "nissaraṇaṁ hetaṁ, āvuso, sabbanimittānaṁ yadidaṁ animittā cetovimuttī’ti.  ",
+            "en": "For it is the <span class=\"ebt-matched\">signless</span> release of the heart that is the escape from all signs.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn43/sn43.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn43/sn43.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn43.4",
+        "lang": "en",
+        "segMap": {
+          "sn43.4:1.2": {
+            "scid": "sn43.4:1.2",
+            "pli": "Suññato samādhi, animitto samādhi, appaṇihito samādhi—ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe…. ",
+            "en": "Emptiness immersion; <span class=\"ebt-matched\">signless</span> immersion; undirected immersion. …” ",
+            "matched": true
+          }
+        },
+        "score": 1.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 43\nChapter One\n4. Emptiness Immersion",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 6,
+          "en": 5
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag1.92_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag1.92_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag1.92",
+        "lang": "en",
+        "segMap": {
+          "thag1.92:1.4": {
+            "scid": "thag1.92:1.4",
+            "pli": "vimokkho yassa gocaro;",
+            "en": "of the <span class=\"ebt-matched\">signless</span> and the empty:",
+            "matched": true
+          }
+        },
+        "score": 1.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Ones\nChapter Ten\n1.92. Vijaya",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 11,
+          "en": 10
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig2.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig2.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig2.1",
+        "lang": "en",
+        "segMap": {
+          "thig2.1:2.1": {
+            "scid": "thig2.1:2.1",
+            "pli": "Animittañca bhāvehi,",
+            "en": "Meditate on the <span class=\"ebt-matched\">signless</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Book of the Twos\n2.1. Abhirūpanandā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig3.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig3.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig3.3",
+        "lang": "en",
+        "segMap": {
+          "thig3.3:2.2": {
+            "scid": "thig3.3:2.2",
+            "pli": "lābhinīhaṁ yadicchakaṁ;",
+            "en": "and <span class=\"ebt-matched\">signless</span>ness whenever I want.",
+            "matched": true
+          }
+        },
+        "score": 1.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Book of the Threes\n3.3. Another Uttamā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig5.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig5.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig5.8",
+        "lang": "en",
+        "segMap": {
+          "thig5.8:4.1": {
+            "scid": "thig5.8:4.1",
+            "pli": "Animittañca bhāvemi,",
+            "en": "I meditate on the <span class=\"ebt-matched\">signless</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Book of the Fives\n5.8. Soṇā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn8/sn8.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn8/sn8.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn8.4",
+        "lang": "en",
+        "segMap": {
+          "sn8.4:6.1": {
+            "scid": "sn8.4:6.1",
+            "pli": "Animittañca bhāvehi, ",
+            "en": "Meditate on the <span class=\"ebt-matched\">signless</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 8\n1. With Vaṅgīsa\n4. With Ānanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.9",
+        "lang": "en",
+        "segMap": {
+          "sn47.9:5.1": {
+            "scid": "sn47.9:5.1",
+            "pli": "Yasmiṁ, ānanda, samaye tathāgato sabbanimittānaṁ amanasikārā ekaccānaṁ vedanānaṁ nirodhā animittaṁ cetosamādhiṁ upasampajja viharati, phāsutaro, ānanda, tasmiṁ samaye tathāgatassa kāyo hoti. ",
+            "en": "Sometimes the Realized One, not focusing on any signs, and with the cessation of certain feelings, enters and remains in the <span class=\"ebt-matched\">signless</span> immersion of the heart. Only then does the Realized One’s body become more comfortable. ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 47\n1. In Ambapālī’s Wood\n9. Sick",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn41/sn41.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn41/sn41.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn41.6",
+        "lang": "en",
+        "segMap": {
+          "sn41.6:8.4": {
+            "scid": "sn41.6:8.4",
+            "pli": "suññato phasso, animitto phasso, appaṇihito phasso”ti. ",
+            "en": "emptiness, <span class=\"ebt-matched\">signless</span>, and undirected contacts.” ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 41\n1. With Citta\n6. With Kāmabhū (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 51,
+          "en": 50
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.183-352_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.183-352_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.183-352",
+        "lang": "en",
+        "segMap": {
+          "an3.183-352:1.3": {
+            "scid": "an3.183-352:1.3",
+            "pli": "Suññato samādhi, animitto samādhi, appaṇihito samādhi—",
+            "en": "Emptiness immersion; <span class=\"ebt-matched\">signless</span> immersion; and undirected immersion. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n18. Abbreviated Texts Beginning with Greed\n183–352",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 66,
+          "en": 65
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn43/sn43.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn43/sn43.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn43.12",
+        "lang": "en",
+        "segMap": {
+          "sn43.12:4.5": {
+            "scid": "sn43.12:4.5",
+            "pli": "Animitto samādhi. ",
+            "en": "<span class=\"ebt-matched\">Signless</span> immersion. … ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 43\nChapter Two\n12. The Unconditioned",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 131,
+          "en": 130
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn44_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn44",
+        "lang": "en",
+        "segMap": {
+          "mn44:20.2": {
+            "scid": "mn44:20.2",
+            "pli": "“Saññāvedayitanirodhasamāpattiyā vuṭṭhitaṁ kho, āvuso visākha, bhikkhuṁ tayo phassā phusanti—suññato phasso, animitto phasso, appaṇihito phasso”ti. ",
+            "en": "“They experience three kinds of contact: emptiness, <span class=\"ebt-matched\">signless</span>, and undirected contacts.” ",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 44\nThe Shorter Classification",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 138,
+          "en": 137
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag21.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag21.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag21.1",
+        "lang": "en",
+        "segMap": {
+          "thag21.1:18.1": {
+            "scid": "thag21.1:18.1",
+            "pli": "Animittañca bhāvehi,",
+            "en": "Meditate on the <span class=\"ebt-matched\">signless</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Great Book\nChapter One\n21.1. Vaṅgīsa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 309,
+          "en": 309
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn16",
+        "lang": "en",
+        "segMap": {
+          "dn16:2.25.13": {
+            "scid": "dn16:2.25.13",
+            "pli": "Yasmiṁ, ānanda, samaye tathāgato sabbanimittānaṁ amanasikārā ekaccānaṁ vedanānaṁ nirodhā animittaṁ cetosamādhiṁ upasampajja viharati, phāsutaro, ānanda, tasmiṁ samaye tathāgatassa kāyo hoti. ",
+            "en": "Sometimes the Realized One, not focusing on any signs, and with the cessation of certain feelings, enters and remains in the <span class=\"ebt-matched\">signless</span> immersion of the heart. Only then does the Realized One’s body become more comfortable. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 16\nThe Great Discourse on the Buddha’s Extinguishment",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1665,
+          "en": 1664
+        }
+      }
+    ]
+  }
+}

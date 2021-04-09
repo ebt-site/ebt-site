@@ -1,0 +1,214 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "drei kennzeichen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "drei kennzeichen",
+    "method": "phrase",
+    "resultPattern": "\\bdrei kennzeichen",
+    "segsMatched": 12,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.47_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.47_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.47_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.3_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.3_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.3_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn30/de/sabbamitta",
+      "an3.47/de/sabbamitta",
+      "an3.3/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.47_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.47_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.47_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.47",
+        "lang": "de",
+        "segMap": {
+          "an3.47:1.1": {
+            "scid": "an3.47:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, saṅkhatassa saṅkhatalakkhaṇāni. ",
+            "de": "„Mönche und Nonnen, bedingte Erscheinungen haben diese <span class=\"ebt-matched\">drei Kennzeichen</span>. ",
+            "en": "“Mendicants, conditioned phenomena have these three characteristics. ",
+            "matched": true
+          },
+          "an3.47:1.4": {
+            "scid": "an3.47:1.4",
+            "pli": "Imāni kho, bhikkhave, tīṇi saṅkhatassa saṅkhatalakkhaṇānī”ti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Kennzeichen</span> bedingter Erscheinungen.“ ",
+            "en": "These are the three characteristics of conditioned phenomena.” ",
+            "matched": true
+          },
+          "an3.47:2.1": {
+            "scid": "an3.47:2.1",
+            "pli": "“Tīṇimāni, bhikkhave, asaṅkhatassa asaṅkhatalakkhaṇāni. ",
+            "de": "„Unbedingte Erscheinungen haben diese <span class=\"ebt-matched\">drei Kennzeichen</span>. ",
+            "en": "“Unconditioned phenomena have these three characteristics. ",
+            "matched": true
+          },
+          "an3.47:2.4": {
+            "scid": "an3.47:2.4",
+            "pli": "Imāni kho, bhikkhave, tīṇi asaṅkhatassa asaṅkhatalakkhaṇānī”ti. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Kennzeichen</span> unbedingter Erscheinungen.“ ",
+            "en": "These are the three characteristics of unconditioned phenomena.” ",
+            "matched": true
+          }
+        },
+        "score": 4.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n5. Das kleinere Kapitel\n47. Kennzeichen des Bedingten",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 14,
+          "de": 13,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.3_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.3_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.3",
+        "lang": "de",
+        "segMap": {
+          "an3.3:1.1": {
+            "scid": "an3.3:1.1",
+            "pli": "“Tīṇimāni, bhikkhave, bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni. ",
+            "de": "„Es gibt diese <span class=\"ebt-matched\">drei Kennzeichen</span>, Merkmale und Anzeichen eines Toren. ",
+            "en": "“There are these three characteristics, signs, and manifestations of a fool. ",
+            "matched": true
+          },
+          "an3.3:1.8": {
+            "scid": "an3.3:1.8",
+            "pli": "Imāni kho, bhikkhave, tīṇi bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Kennzeichen</span>, Merkmale und Anzeichen eines Toren. ",
+            "en": "These are the three characteristics, signs, and manifestations of a fool. ",
+            "matched": true
+          },
+          "an3.3:2.1": {
+            "scid": "an3.3:2.1",
+            "pli": "Tīṇimāni, bhikkhave, paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. ",
+            "de": "Es gibt diese <span class=\"ebt-matched\">drei Kennzeichen</span>, Merkmale und Anzeichen eines klugen Menschen. ",
+            "en": "There are these three characteristics, signs, and manifestations of an astute person. ",
+            "matched": true
+          },
+          "an3.3:2.8": {
+            "scid": "an3.3:2.8",
+            "pli": "Imāni kho, bhikkhave, tīṇi paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. ",
+            "de": "Das sind die <span class=\"ebt-matched\">drei Kennzeichen</span>, Merkmale und Anzeichen eines klugen Menschen. ",
+            "en": "These are the three characteristics, signs, and manifestations of an astute person. ",
+            "matched": true
+          }
+        },
+        "score": 4.19,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n1. Toren\n3. Denken",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 21,
+          "de": 20,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn30",
+        "lang": "de",
+        "segMap": {
+          "dn30:1.10.4": {
+            "scid": "dn30:1.10.4",
+            "pli": "so tato cuto itthattaṁ āgato samāno imāni tīṇi mahāpurisalakkhaṇāni paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er diese <span class=\"ebt-matched\">drei Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained these three marks: ",
+            "matched": true
+          },
+          "dn30:1.12.7": {
+            "scid": "dn30:1.12.7",
+            "pli": "Paṭilabhati idha tīṇi lakkhaṇāni; ",
+            "de": "erlangte er diese <span class=\"ebt-matched\">drei Kennzeichen</span>: ",
+            "en": "he obtained these three marks: ",
+            "matched": true
+          },
+          "dn30:1.12.12": {
+            "scid": "dn30:1.12.12",
+            "pli": "Dīghā tībhi purisavaraggalakkhaṇehi, ",
+            "de": "Aufgrund dieser <span class=\"ebt-matched\">drei Kennzeichen</span> eines ausgezeichneten Mannes ",
+            "en": "By these three marks of an excellent man, ",
+            "matched": true
+          },
+          "dn30:2.4.5": {
+            "scid": "dn30:2.4.5",
+            "pli": "so tato cuto itthattaṁ āgato samāno imāni tīṇi mahāpurisalakkhaṇāni paṭilabhati. ",
+            "de": "Als er zu diesem Daseinszustand zurückkam, erlangte er diese <span class=\"ebt-matched\">drei Kennzeichen</span>: ",
+            "en": "When he came back to this state of existence he obtained these three marks: ",
+            "matched": true
+          }
+        },
+        "score": 4.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 30\nKennzeichen eines großen Mannes",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 721,
+          "de": 716,
+          "en": 720
+        }
+      }
+    ]
+  }
+}

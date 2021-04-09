@@ -1,0 +1,112 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "suffering is dependently originated",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "suffering is dependently originated",
+    "method": "phrase",
+    "resultPattern": "\\bsuffering is dependently originated",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn12/sn12.24_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.24_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.26_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.26_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn12.24/en/sujato",
+      "sn12.26/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.24_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.24_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.24",
+        "lang": "en",
+        "segMap": {
+          "sn12.24:4.1": {
+            "scid": "sn12.24:4.1",
+            "pli": "“Paṭiccasamuppannaṁ kho, āvuso, dukkhaṁ vuttaṁ bhagavatā. ",
+            "en": "“Reverends, the Buddha said that <span class=\"ebt-matched\">suffering is dependently originated</span>. ",
+            "matched": true
+          },
+          "sn12.24:8.2": {
+            "scid": "sn12.24:8.2",
+            "pli": "Paṭiccasamuppannaṁ kho, ānanda, dukkhaṁ vuttaṁ mayā. ",
+            "en": "I have said that <span class=\"ebt-matched\">suffering is dependently originated</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n3. The Ten Powers\n24. Followers of Other Paths",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 107,
+          "en": 106
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.26_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.26",
+        "lang": "en",
+        "segMap": {
+          "sn12.26:3.1": {
+            "scid": "sn12.26:3.1",
+            "pli": "“Paṭiccasamuppannaṁ kho, upavāṇa, dukkhaṁ vuttaṁ mayā. ",
+            "en": "“Upavāṇa, I have said that <span class=\"ebt-matched\">suffering is dependently originated</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n3. The Ten Powers\n26. With Upavāṇa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      }
+    ]
+  }
+}

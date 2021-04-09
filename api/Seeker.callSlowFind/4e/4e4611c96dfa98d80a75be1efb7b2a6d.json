@@ -1,0 +1,85 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "möglich zu entwickeln",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "möglich zu entwickeln",
+    "method": "keywords",
+    "resultPattern": "\\bmöglich|\\bzu|\\bentwickeln",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an2/an2.11-20_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.11-20_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.11-20_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an2.11-20/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.11-20_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.11-20_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.11-20_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.11-20",
+        "lang": "de",
+        "segMap": {
+          "an2.19:2.2": {
+            "scid": "an2.19:2.2",
+            "pli": "Sakkā, bhikkhave, kusalaṁ bhāvetuṁ. ",
+            "de": "Es ist <span class=\"ebt-matched\">möglich</span>, das Taugliche <span class=\"ebt-matched\">zu</span> <span class=\"ebt-matched\">entwickeln</span>. ",
+            "en": "It is possible to develop the skillful. ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n2. Disziplinarische Angelegenheiten\n11–20",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 176,
+          "de": 175,
+          "en": 175
+        }
+      }
+    ]
+  }
+}

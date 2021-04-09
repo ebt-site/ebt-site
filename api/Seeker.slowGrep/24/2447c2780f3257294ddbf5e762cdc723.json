@@ -1,0 +1,21 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bin disgust of sin",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json:18",
+    "translation/en/sujato/sutta/dn/dn8_translation-en-sujato.json:5",
+    "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json:5",
+    "translation/en/sujato/sutta/sn/sn2/sn2.30_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn12_translation-en-sujato.json:2"
+  ]
+}

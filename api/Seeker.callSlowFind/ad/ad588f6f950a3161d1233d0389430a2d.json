@@ -1,0 +1,168 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "nothing is worth insisting on",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "nothing is worth insisting on",
+    "method": "phrase",
+    "resultPattern": "\\bnothing is worth insisting on",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn37_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn37_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.80_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.80_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.61_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.61_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn37/en/sujato",
+      "sn35.80/en/sujato",
+      "an7.61/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn37_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn37_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn37",
+        "lang": "en",
+        "segMap": {
+          "mn37:3.2": {
+            "scid": "mn37:3.2",
+            "pli": "‘sabbe dhammā nālaṁ abhinivesāyā’ti. ",
+            "en": "‘<span class=\"ebt-matched\">Nothing is worth insisting on</span>.’ ",
+            "matched": true
+          },
+          "mn37:3.4": {
+            "scid": "mn37:3.4",
+            "pli": "‘sabbe dhammā nālaṁ abhinivesāyā’ti. ",
+            "en": "<span class=\"ebt-matched\">nothing is worth insisting on</span>, ",
+            "matched": true
+          },
+          "mn37:13.3": {
+            "scid": "mn37:13.3",
+            "pli": "“sabbe dhammā nālaṁ abhinivesāyā”ti. ",
+            "en": "“<span class=\"ebt-matched\">Nothing is worth insisting on</span>” ",
+            "matched": true
+          },
+          "mn37:13.5": {
+            "scid": "mn37:13.5",
+            "pli": "“sabbe dhammā nālaṁ abhinivesāyā”ti. ",
+            "en": "<span class=\"ebt-matched\">nothing is worth insisting on</span>, ",
+            "matched": true
+          }
+        },
+        "score": 4.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 37\nThe Shorter Discourse on the Ending of Craving",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 110,
+          "en": 109
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.80_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.80_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.80",
+        "lang": "en",
+        "segMap": {
+          "sn35.80:6.2": {
+            "scid": "sn35.80:6.2",
+            "pli": "‘sabbe dhammā nālaṁ abhinivesāyā’ti. ",
+            "en": "‘<span class=\"ebt-matched\">Nothing is worth insisting on</span>.’ ",
+            "matched": true
+          },
+          "sn35.80:6.4": {
+            "scid": "sn35.80:6.4",
+            "pli": "‘sabbe dhammā nālaṁ abhinivesāyā’ti. ",
+            "en": "<span class=\"ebt-matched\">nothing is worth insisting on</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.087,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n8. Sick\n80. Giving Up Ignorance (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.61_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.61",
+        "lang": "en",
+        "segMap": {
+          "an7.61:13.2": {
+            "scid": "an7.61:13.2",
+            "pli": "‘sabbe dhammā nālaṁ abhinivesāyā’ti; ",
+            "en": "‘<span class=\"ebt-matched\">Nothing is worth insisting on</span>.’ ",
+            "matched": true
+          },
+          "an7.61:13.4": {
+            "scid": "an7.61:13.4",
+            "pli": "‘sabbe dhammā nālaṁ abhinivesāyā’ti. ",
+            "en": "<span class=\"ebt-matched\">nothing is worth insisting on</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n6. The Undeclared Points\n61. Nodding Off",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      }
+    ]
+  }
+}

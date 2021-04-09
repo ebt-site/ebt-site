@@ -1,0 +1,848 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "rad-drehend.* herrscher",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "rad-drehend.* herrscher",
+    "method": "phrase",
+    "resultPattern": "\\brad-drehend.* herrscher",
+    "segsMatched": 57,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.130_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.130_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.130_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.14_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.14_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.52-63_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.52-63_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.52-63_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.278-286_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.278-286_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.278-286_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.133_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.133_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.133_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.132_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.132_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.132_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.131_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.131_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.131_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/kp/kp8_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/kp/kp8_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/kp/kp8_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.53_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.53_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.53_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.247_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.247_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.247_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn30/de/sabbamitta",
+      "an4.130/de/sabbamitta",
+      "dn17/de/sabbamitta",
+      "an3.14/de/sabbamitta",
+      "an2.52-63/de/sabbamitta",
+      "an1.278-286/de/sabbamitta",
+      "an5.133/de/sabbamitta",
+      "an5.132/de/sabbamitta",
+      "an5.131/de/sabbamitta",
+      "dn14/de/sabbamitta",
+      "kp8/de/sabbamitta",
+      "an7.66/de/sabbamitta",
+      "an6.53/de/sabbamitta",
+      "an4.247/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn30",
+        "lang": "de",
+        "segMap": {
+          "dn30:1.1.8": {
+            "scid": "dn30:1.1.8",
+            "pli": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
+            "de": "Wenn er im Haus bleibt, wird er ein König, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span>, ein gerechter König, der sich an Grundsätze hält. Sein Herrschaftsgebiet erstreckt sich nach allen vier Seiten bis zum Ende, er macht das Land sicher und er besitzt die sieben Juwelen. ",
+            "en": "If he stays at home he becomes a king, a wheel-turning monarch, a just and principled king. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "matched": true
+          },
+          "dn30:1.5.1": {
+            "scid": "dn30:1.5.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
+            "de": "Da er dieses Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.8.1": {
+            "scid": "dn30:1.8.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.11.1": {
+            "scid": "dn30:1.11.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.14.1": {
+            "scid": "dn30:1.14.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.17.1": {
+            "scid": "dn30:1.17.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.20.1": {
+            "scid": "dn30:1.20.1",
+            "pli": "So tehi lakkhaṇehi samannāgato, sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.23.1": {
+            "scid": "dn30:1.23.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.26.1": {
+            "scid": "dn30:1.26.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.29.1": {
+            "scid": "dn30:1.29.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:1.32.1": {
+            "scid": "dn30:1.32.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.2.1": {
+            "scid": "dn30:2.2.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.5.1": {
+            "scid": "dn30:2.5.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.8.1": {
+            "scid": "dn30:2.8.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.11.1": {
+            "scid": "dn30:2.11.1",
+            "pli": "So tehi lakkhaṇehi samannāgato, sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.14.1": {
+            "scid": "dn30:2.14.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.17.1": {
+            "scid": "dn30:2.17.1",
+            "pli": "So tehi lakkhaṇehi samannāgato, sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.20.1": {
+            "scid": "dn30:2.20.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.23.1": {
+            "scid": "dn30:2.23.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er diese Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing these marks, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.26.1": {
+            "scid": "dn30:2.26.1",
+            "pli": "So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… ",
+            "de": "Da er dieses Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> werden. ",
+            "en": "Possessing this mark, if he stays at home he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn30:2.29.1": {
+            "scid": "dn30:2.29.1",
+            "pli": "So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
+            "de": "Da er diese Kennzeichen besitzt, wird er, wenn er im Haus bleibt, ein König, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span>, ein gerechter König, der sich an Grundsätze hält. Sein Herrschaftsgebiet erstreckt sich nach allen vier Seiten bis zum Ende, er macht das Land sicher und er besitzt die sieben Juwelen. ",
+            "en": "Possessing these marks, if he stays at home he becomes a king, a wheel-turning monarch, a just and principled king. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "matched": true
+          }
+        },
+        "score": 21.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 30\nKennzeichen eines großen Mannes",
+        "segsMatched": 21,
+        "langSegs": {
+          "pli": 721,
+          "de": 716,
+          "en": 720
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.130_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.130_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.130_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.130",
+        "lang": "de",
+        "segMap": {
+          "an4.130:0.3": {
+            "scid": "an4.130:0.3",
+            "pli": "130. Cakkavattiacchariyasutta ",
+            "de": "130. Unglaubliche Dinge über den <span class=\"ebt-matched\">Rad-drehenden Herrscher</span> ",
+            "en": "130. Incredible Things About the Wheel-Turning Monarch ",
+            "matched": true
+          },
+          "an4.130:1.1": {
+            "scid": "an4.130:1.1",
+            "pli": "“Cattārome, bhikkhave, acchariyā abbhutā dhammā raññe cakkavattimhi. ",
+            "de": "„Mönche und Nonnen, es gibt diese vier unglaublichen und erstaunlichen Dinge über einen <span class=\"ebt-matched\">Rad-drehenden Herrscher</span>. ",
+            "en": "“Mendicants, there are these four incredible and amazing things about a wheel-turning monarch. ",
+            "matched": true
+          },
+          "an4.130:1.3": {
+            "scid": "an4.130:1.3",
+            "pli": "Sace, bhikkhave, khattiyaparisā rājānaṁ cakkavattiṁ dassanāya upasaṅkamati, dassanenapi sā attamanā hoti. ",
+            "de": "Wenn eine Versammlung von Adligen hingeht, um einen <span class=\"ebt-matched\">Rad-drehenden Herrscher</span> zu sehen, sind sie bei seinem Anblick erhoben, ",
+            "en": "If an assembly of aristocrats goes to see a wheel-turning monarch, they’re uplifted by seeing him ",
+            "matched": true
+          },
+          "an4.130:4.1": {
+            "scid": "an4.130:4.1",
+            "pli": "Sace, bhikkhave, samaṇaparisā rājānaṁ cakkavattiṁ dassanāya upasaṅkamati, dassanenapi sā attamanā hoti. ",
+            "de": "oder eine Versammlung von Asketen hingeht, um einen <span class=\"ebt-matched\">Rad-drehenden Herrscher</span> zu sehen, sind sie bei seinem Anblick erhoben, ",
+            "en": "or ascetics goes to see a wheel-turning monarch, they’re uplifted by seeing him ",
+            "matched": true
+          },
+          "an4.130:4.4": {
+            "scid": "an4.130:4.4",
+            "pli": "Ime kho, bhikkhave, cattāro acchariyā abbhutā dhammā raññe cakkavattimhi. ",
+            "de": "Das sind die vier unglaublichen und erstaunlichen Dinge über einen <span class=\"ebt-matched\">Rad-drehenden Herrscher</span>. ",
+            "en": "These are the four incredible and amazing things about a wheel-turning monarch. ",
+            "matched": true
+          }
+        },
+        "score": 5.147,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n13. Furcht\n130. Unglaubliche Dinge über den Rad-drehenden Herrscher",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 34,
+          "de": 32,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.14_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.14_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.14_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.14",
+        "lang": "de",
+        "segMap": {
+          "an3.14:0.3": {
+            "scid": "an3.14:0.3",
+            "pli": "14. Cakkavattisutta ",
+            "de": "14. Der <span class=\"ebt-matched\">Rad-drehende Herrscher</span> ",
+            "en": "14. The Wheel-Turning Monarch ",
+            "matched": true
+          },
+          "an3.14:1.1": {
+            "scid": "an3.14:1.1",
+            "pli": "“Yopi so, bhikkhave, rājā cakkavattī dhammiko dhammarājā sopi na arājakaṁ cakkaṁ vattetī”ti. ",
+            "de": "„Mönche und Nonnen, selbst ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span>, ein gerechter König, der sich an Grundsätze hält, übt seine Macht nicht aus, ohne einen König über sich zu haben.“ ",
+            "en": "“Mendicants, even a wheel-turning monarch, a just and principled king, does not wield power without having their own king.” ",
+            "matched": true
+          },
+          "an3.14:1.3": {
+            "scid": "an3.14:1.3",
+            "pli": "“ko pana, bhante, rañño cakkavattissa dhammikassa dhammarañño rājā”ti? ",
+            "de": "„Aber wer ist der König über dem <span class=\"ebt-matched\">Rad-drehenden Herrscher</span>, dem gerechten König, der sich an Grundsätze hält?“ ",
+            "en": "“But who is the king of the wheel-turning monarch, the just and principled king?” ",
+            "matched": true
+          },
+          "an3.14:1.5": {
+            "scid": "an3.14:1.5",
+            "pli": "“idha, bhikkhu, rājā cakkavattī dhammiko dhammarājā dhammaṁyeva nissāya dhammaṁ sakkaronto dhammaṁ garuṁ karonto dhammaṁ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṁ rakkhāvaraṇaguttiṁ saṁvidahati antojanasmiṁ. ",
+            "de": "„Mönch, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> stellt seinem Hof gerechten Schutz und Sicherheit bereit, indem er sich nur auf natürliche Gesetzmäßigkeiten stützt; er erkennt natürliche Gesetzmäßigkeiten an, ehrt und achtet sie und hält sie hoch, natürliche Gesetzmäßigkeiten sind seine Fahne, sein Banner und seine Autorität. ",
+            "en": "“Monk, a wheel-turning monarch provides just protection and security for his court, relying only on principle—honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ",
+            "matched": true
+          }
+        },
+        "score": 4.211,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n2. Der Wagenbauer\n14. Der Rad-drehende Herrscher",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 19,
+          "de": 18,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.278-286_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an1/an1.278-286_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an1/an1.278-286_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.278-286",
+        "lang": "de",
+        "segMap": {
+          "an1.278:1.1": {
+            "scid": "an1.278:1.1",
+            "pli": "“Aṭṭhānametaṁ, bhikkhave, anavakāso yaṁ ekissā lokadhātuyā dve rājāno cakkavattī apubbaṁ acarimaṁ uppajjeyyuṁ. Netaṁ ṭhānaṁ vijjati. ",
+            "de": "„Es ist unmöglich, Mönche und Nonnen, es kann nicht sein, dass zwei <span class=\"ebt-matched\">Rad-drehende Herrscher</span> gleichzeitig im selben Sonnensystem erscheinen. ",
+            "en": "“It is impossible, mendicants, it cannot happen for two wheel-turning monarchs to arise in the same solar system at the same time. ",
+            "matched": true
+          },
+          "an1.278:1.2": {
+            "scid": "an1.278:1.2",
+            "pli": "Ṭhānañca kho etaṁ, bhikkhave, vijjati yaṁ ekissā lokadhātuyā eko rājā cakkavattī uppajjeyya. Ṭhānametaṁ vijjatī”ti. ",
+            "de": "Aber es ist möglich, dass ein einziger <span class=\"ebt-matched\">Rad-drehender Herrscher</span> in einem Sonnensystem erscheint.“ ",
+            "en": "But it is possible for just one wheel-turning monarch to arise in one solar system.” ",
+            "matched": true
+          },
+          "an1.280:1.1": {
+            "scid": "an1.280:1.1",
+            "pli": "“Aṭṭhānametaṁ, bhikkhave, anavakāso yaṁ itthī rājā assa cakkavattī. Netaṁ ṭhānaṁ vijjati. ",
+            "de": "„Es ist unmöglich, Mönche und Nonnen, es kann nicht sein, dass eine Frau eine <span class=\"ebt-matched\">Rad-drehende Herrscher</span>in ist. ",
+            "en": "“It is impossible, mendicants, it cannot happen for a woman to be a wheel-turning monarch. ",
+            "matched": true
+          },
+          "an1.280:1.2": {
+            "scid": "an1.280:1.2",
+            "pli": "Ṭhānañca kho etaṁ, bhikkhave, vijjati yaṁ puriso rājā assa cakkavattī. Ṭhānametaṁ vijjatī”ti. ",
+            "de": "Aber es ist möglich, dass ein Mann ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> ist.“ ",
+            "en": "But it is possible for a man to be a wheel-turning monarch.” ",
+            "matched": true
+          }
+        },
+        "score": 4.182,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 1\n22. Zweites\n278–286",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 22,
+          "de": 21,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.52-63_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.52-63_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.52-63_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.52-63",
+        "lang": "de",
+        "segMap": {
+          "an2.52:1.3": {
+            "scid": "an2.52:1.3",
+            "pli": "Tathāgato ca arahaṁ sammāsambuddho, rājā ca cakkavattī. ",
+            "de": "Der Klargewordene, der Vollendete, der vollkommen erwachte Buddha; und der <span class=\"ebt-matched\">Rad-drehende Herrscher</span>. ",
+            "en": "The Realized One, the perfected one, the fully awakened Buddha; and the wheel-turning monarch. ",
+            "matched": true
+          },
+          "an2.53:1.3": {
+            "scid": "an2.53:1.3",
+            "pli": "Tathāgato ca arahaṁ sammāsambuddho, rājā ca cakkavattī. ",
+            "de": "Der Klargewordene, der Vollendete, der vollkommen erwachte Buddha; und der <span class=\"ebt-matched\">Rad-drehende Herrscher</span>. ",
+            "en": "The Realized One, the perfected one, the fully awakened Buddha; and the wheel-turning monarch. ",
+            "matched": true
+          },
+          "an2.54:1.3": {
+            "scid": "an2.54:1.3",
+            "pli": "Tathāgatassa ca arahato sammāsambuddhassa, rañño ca cakkavattissa. ",
+            "de": "Der Klargewordene, der Vollendete, der vollkommen erwachte Buddha; und der <span class=\"ebt-matched\">Rad-drehende Herrscher</span>. ",
+            "en": "The Realized One, the perfected one, the fully awakened Buddha; and the wheel-turning monarch. ",
+            "matched": true
+          },
+          "an2.55:1.3": {
+            "scid": "an2.55:1.3",
+            "pli": "Tathāgato ca arahaṁ sammāsambuddho, rājā ca cakkavattī. ",
+            "de": "Der Klargewordene, der Vollendete, der vollkommen erwachte Buddha; und der <span class=\"ebt-matched\">Rad-drehende Herrscher</span>. ",
+            "en": "The Realized One, the perfected one, the fully awakened Buddha; and the wheel-turning monarch. ",
+            "matched": true
+          }
+        },
+        "score": 4.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n6. Menschen\n52–63",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 88,
+          "de": 87,
+          "en": 87
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn17",
+        "lang": "de",
+        "segMap": {
+          "dn17:1.7.6": {
+            "scid": "dn17:1.7.6",
+            "pli": "‘sutaṁ kho pana metaṁ: “yassa rañño khattiyassa muddhāvasittassa tadahuposathe pannarase sīsaṁnhātassa uposathikassa uparipāsādavaragatassa dibbaṁ cakkaratanaṁ pātubhavati sahassāraṁ sanemikaṁ sanābhikaṁ sabbākāraparipūraṁ, so hoti rājā cakkavattī”ti. ",
+            "de": "‚Ich habe gehört, dass ein König, dem das himmlische Rad-Juwel in dieser Art erscheint, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> wird. ",
+            "en": "‘I have heard that when the heavenly wheel-treasure appears to a king in this way, he becomes a wheel-turning monarch. ",
+            "matched": true
+          },
+          "dn17:1.7.7": {
+            "scid": "dn17:1.7.7",
+            "pli": "Assaṁ nu kho ahaṁ rājā cakkavattī’ti. ",
+            "de": "Bin ich denn nun ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span>?‘ ",
+            "en": "Am I then a wheel-turning monarch?’ ",
+            "matched": true
+          },
+          "dn17:1.15.7": {
+            "scid": "dn17:1.15.7",
+            "pli": "Taṁ kho panānanda, itthiratanaṁ rājānaṁ mahāsudassanaṁ manasāpi no aticari, kuto pana kāyena. ",
+            "de": "Das Frauen-Juwel betrog den <span class=\"ebt-matched\">Rad-drehenden Herrscher</span> nicht einmal in Gedanken, erst recht nicht in Taten. ",
+            "en": "The woman-treasure did not betray the wheel-turning monarch even in thought, still less in deed. ",
+            "matched": true
+          },
+          "dn17:2.17.1": {
+            "scid": "dn17:2.17.1",
+            "pli": "Chakkhattuṁ kho panāhaṁ, ānanda, abhijānāmi imasmiṁ padese sarīraṁ nikkhipitaṁ, tañca kho rājāva samāno cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato, ayaṁ sattamo sarīranikkhepo. ",
+            "de": "Ānanda, ich erinnere mich, dass ich sechsmal an dieser Stelle meinen Körper niedergelegt habe. Und beim siebten Mal geschah es als ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span>, ein gerechter König, der sich an Grundsätze hielt, dessen Herrschaftsgebiet sich nach allen vier Seiten bis zum Ende erstreckte, der das Land sicher machte und die sieben Juwelen besaß. ",
+            "en": "Six times, Ānanda, I recall having laid down my body at this place. And the seventh time was as a wheel-turning monarch, a just and principled king, at which time my dominion extended to all four sides, I achieved stability in the country, and I possessed the seven treasures. ",
+            "matched": true
+          }
+        },
+        "score": 4.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 17\nDer König Mahāsudassana",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 444,
+          "de": 359,
+          "en": 443
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.131_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.131_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.131_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.131",
+        "lang": "de",
+        "segMap": {
+          "an5.131:1.1": {
+            "scid": "an5.131:1.1",
+            "pli": "“Pañcahi, bhikkhave, aṅgehi samannāgato rājā cakkavattī dhammeneva cakkaṁ vatteti; ",
+            "de": "„Mönche und Nonnen, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span>, der fünf Faktoren besitzt, übt seine Macht nur auf der Grundlage von natürlichen Gesetzmäßigkeiten aus. ",
+            "en": "“Mendicants, possessing five factors a wheel-turning monarch wields power only in a principled manner. ",
+            "matched": true
+          },
+          "an5.131:2.2": {
+            "scid": "an5.131:2.2",
+            "pli": "Idha, bhikkhave, rājā cakkavattī atthaññū ca hoti, dhammaññū ca, mattaññū ca, kālaññū ca, parisaññū ca. ",
+            "de": "Da weiß ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span>, was richtig ist, kennt die natürlichen Gesetzmäßigkeiten, kennt das rechte Maß, kennt die rechte Zeit und kennt die Versammlung. ",
+            "en": "A wheel-turning monarch knows what is right, knows principle, knows moderation, knows the right time, and knows the assembly. ",
+            "matched": true
+          },
+          "an5.131:2.3": {
+            "scid": "an5.131:2.3",
+            "pli": "Imehi kho, bhikkhave, pañcahi aṅgehi samannāgato rājā cakkavattī dhammeneva cakkaṁ pavatteti; ",
+            "de": "Ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span>, der diese fünf Faktoren besitzt, übt seine Macht nur auf der Grundlage von natürlichen Gesetzmäßigkeiten aus. ",
+            "en": "A wheel-turning monarch who possesses these five factors wields power only in a principled manner. ",
+            "matched": true
+          }
+        },
+        "score": 3.188,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n14. Könige\n131. Macht ausüben (1)",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 16,
+          "de": 15,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.132_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.132_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.132_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.132",
+        "lang": "de",
+        "segMap": {
+          "an5.132:1.1": {
+            "scid": "an5.132:1.1",
+            "pli": "“Pañcahi, bhikkhave, aṅgehi samannāgato rañño cakkavattissa jeṭṭho putto pitarā pavattitaṁ cakkaṁ dhammeneva anuppavatteti; ",
+            "de": "„Mönche und Nonnen, der älteste Sohn eines <span class=\"ebt-matched\">Rad-drehenden Herrscher</span>s, der fünf Faktoren besitzt, übt die Macht, die sein Vater in Gang gesetzt hat, nur auf der Grundlage von natürlichen Gesetzmäßigkeiten aus. ",
+            "en": "“Mendicants, possessing five factors a wheel-turning monarch’s eldest son continues to wield the power set in motion by his father only in a principled manner. ",
+            "matched": true
+          },
+          "an5.132:2.2": {
+            "scid": "an5.132:2.2",
+            "pli": "Idha, bhikkhave, rañño cakkavattissa jeṭṭho putto atthaññū ca hoti, dhammaññū ca, mattaññū ca, kālaññū ca, parisaññū ca. ",
+            "de": "Da weiß der älteste Sohn eines <span class=\"ebt-matched\">Rad-drehenden Herrscher</span>s, was richtig ist, kennt die natürlichen Gesetzmäßigkeiten, kennt das rechte Maß, kennt die rechte Zeit und kennt die Versammlung. ",
+            "en": "A wheel-turning monarch’s oldest son knows what is right, knows principle, knows moderation, knows the right time, and knows the assembly. ",
+            "matched": true
+          },
+          "an5.132:2.3": {
+            "scid": "an5.132:2.3",
+            "pli": "Imehi kho, bhikkhave, pañcahi aṅgehi samannāgato rañño cakkavattissa jeṭṭho putto pitarā pavattitaṁ cakkaṁ dhammeneva anuppavatteti; ",
+            "de": "Der älteste Sohn eines <span class=\"ebt-matched\">Rad-drehenden Herrscher</span>s, der diese fünf Faktoren besitzt, übt die Macht, die sein Vater in Gang gesetzt hat, nur auf der Grundlage von natürlichen Gesetzmäßigkeiten aus. ",
+            "en": "A wheel-turning monarch’s oldest son who possesses these five factors continues to wield the power set in motion by his father only in a principled manner. ",
+            "matched": true
+          }
+        },
+        "score": 3.188,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n14. Könige\n132. Macht ausüben (2)",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 16,
+          "de": 15,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.133_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.133_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.133_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.133",
+        "lang": "de",
+        "segMap": {
+          "an5.133:1.1": {
+            "scid": "an5.133:1.1",
+            "pli": "“Yopi so, bhikkhave, rājā cakkavattī dhammiko dhammarājā, sopi na arājakaṁ cakkaṁ vattetī”ti. ",
+            "de": "„Mönche und Nonnen, selbst ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span>, ein gerechter König, der sich an Grundsätze hält, übt seine Macht nicht aus, ohne einen König über sich zu haben.“ ",
+            "en": "“Mendicants, even a wheel-turning monarch, a just and principled king, does not wield power without having their own king.” ",
+            "matched": true
+          },
+          "an5.133:1.3": {
+            "scid": "an5.133:1.3",
+            "pli": "“ko pana, bhante, rañño cakkavattissa dhammikassa dhammarañño rājā”ti? ",
+            "de": "„Aber wer ist der König über dem <span class=\"ebt-matched\">Rad-drehenden Herrscher</span>, dem gerechten König, der sich an Grundsätze hält?“ ",
+            "en": "“But who is the king of the wheel-turning monarch, the just and principled king?” ",
+            "matched": true
+          },
+          "an5.133:2.1": {
+            "scid": "an5.133:2.1",
+            "pli": "“Idha, bhikkhu, rājā cakkavattī dhammiko dhammarājā dhammaññeva nissāya dhammaṁ sakkaronto dhammaṁ garuṁ karonto dhammaṁ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṁ rakkhāvaraṇaguttiṁ saṁvidahati antojanasmiṁ. ",
+            "de": "„Mönch, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span> stellt seinem Hof gerechten Schutz und Sicherheit bereit, indem er sich nur auf natürliche Gesetzmäßigkeiten stützt; er erkennt natürliche Gesetzmäßigkeiten an, ehrt und achtet sie und hält sie hoch, natürliche Gesetzmäßigkeiten sind seine Fahne, sein Banner und seine Autorität. ",
+            "en": "“Monk, a wheel-turning monarch provides just protection and security for his court, relying only on principle—honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ",
+            "matched": true
+          }
+        },
+        "score": 3.115,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n14. Könige\n133. Ein König, der sich an Grundsätze hält",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 26,
+          "de": 25,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn14",
+        "lang": "de",
+        "segMap": {
+          "dn14:1.31.8": {
+            "scid": "dn14:1.31.8",
+            "pli": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
+            "de": "Wenn er im Haus bleibt, wird er ein König, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span>, ein gerechter König, der sich an Grundsätze hält. Sein Herrschaftsgebiet erstreckt sich nach allen vier Seiten bis zum Ende, er macht das Land sicher und er besitzt die sieben Juwelen. ",
+            "en": "If he stays at home he becomes a king, a wheel-turning monarch, a just and principled king. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. ",
+            "matched": true
+          },
+          "dn14:1.33.2": {
+            "scid": "dn14:1.33.2",
+            "pli": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
+            "de": "Wenn er im Haus bleibt, wird er ein König, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span>, ein gerechter und grundsatztreuer König. ",
+            "en": "If he stays at home he becomes a king, a wheel-turning monarch. ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 14\nDie große Lehrrede über die Ernte aus den Taten\n1. Von früheren Leben",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 851,
+          "de": 689,
+          "en": 850
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.247_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.247_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.247_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.247",
+        "lang": "de",
+        "segMap": {
+          "an4.247:1.3": {
+            "scid": "an4.247:1.3",
+            "pli": "Tathāgato arahaṁ sammāsambuddho thūpāraho, paccekabuddho thūpāraho, tathāgatasāvako thūpāraho, rājā cakkavattī thūpāraho—",
+            "de": "Ein Klargewordener, ein Vollendeter, ein vollkommen erwachte Buddha; ein Buddha, der für sich allein erwacht ist; eine Schülerin eines Klargewordenen; und ein <span class=\"ebt-matched\">Rad-drehende Herrscher</span>. ",
+            "en": "A Realized One, a perfected one, a fully awakened Buddha; a Buddha awakened for themselves; a disciple of a Realized One; and a wheel-turning monarch. ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n25. Gefahren bei Verstößen\n247. Eines Denkmals würdig",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.53_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.53_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.53_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.53",
+        "lang": "de",
+        "segMap": {
+          "an6.53:8.1": {
+            "scid": "an6.53:8.1",
+            "pli": "Seyyathāpi, brāhmaṇa, ye keci khuddarājāno sabbete rañño cakkavattissa anuyantā bhavanti, rājā tesaṁ cakkavattī aggamakkhāyati; ",
+            "de": "Alle niederen Herrscher sind Lehnsleute eines <span class=\"ebt-matched\">Rad-drehenden Herrschers, daher gilt der Rad-drehende Herrscher</span> als der vorderste von allen. ",
+            "en": "All lesser rulers are vassals of a wheel-turning monarch, so the wheel-turning monarch is said to be the foremost of them all. ",
+            "matched": true
+          }
+        },
+        "score": 1.04,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n5. Über Dhammika\n53. Eifer",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 25,
+          "de": 24,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/kp/kp8_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/kp/kp8_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/kp/kp8_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "kp8",
+        "lang": "de",
+        "segMap": {
+          "kp8:12.2": {
+            "scid": "kp8:12.2",
+            "pli": "cakkavattisukhaṁ piyaṁ;",
+            "de": "das Glück eines <span class=\"ebt-matched\">Rad-drehenden Herrscher</span>s, ",
+            "en": "the happiness of a Wheel-Turning Monarch,",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Kleinere Ausschnitte\nEin verborgener Schatz",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 69,
+          "de": 68,
+          "en": 67
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.66",
+        "lang": "de",
+        "segMap": {
+          "an7.66:13.7": {
+            "scid": "an7.66:13.7",
+            "pli": "Anekasatakkhattuṁ rājā ahosi cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. ",
+            "de": "Viele hundert Male war er ein König, ein <span class=\"ebt-matched\">Rad-drehender Herrscher</span>, ein gerechter König, der sich an Grundsätze hält. Sein Herrschaftsgebiet erstreckte sich nach allen vier Seiten bis zum Ende, er machte das Land sicher und er besaß die sieben Juwelen. ",
+            "en": "Many hundreds of times he was a king, a wheel-turning monarch, a just and principled king. His dominion extended to all four sides, he achieved stability in the country, and he possessed the seven treasures. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 7\n7. Das große Kapitel\n66. Die sieben Sonnen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 95,
+          "de": 89,
+          "en": 94
+        }
+      }
+    ]
+  }
+}

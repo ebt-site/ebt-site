@@ -1,0 +1,712 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "guaranteed",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "guaranteed",
+    "method": "phrase",
+    "resultPattern": "\\bguaranteed",
+    "segsMatched": 38,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn60_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn60_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga3/ud3.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga3/ud3.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.72_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.72_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.71_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.71_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.16_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.16_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.46_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.46_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn55/sn55.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.30_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn82_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn82_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag16.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag16.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.80_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.80_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.79_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.79_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.78_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.78_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.77_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.77_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.76_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.76_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.75_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.75_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.74_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.74_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.73_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.73_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn60/en/sujato",
+      "ud3.2/en/sujato",
+      "an4.72/en/sujato",
+      "an4.71/en/sujato",
+      "an3.16/en/sujato",
+      "an10.46/en/sujato",
+      "sn55.30/en/sujato",
+      "mn82/en/sujato",
+      "thag16.4/en/sujato",
+      "an4.80/en/sujato",
+      "an4.79/en/sujato",
+      "an4.78/en/sujato",
+      "an4.77/en/sujato",
+      "an4.76/en/sujato",
+      "an4.75/en/sujato",
+      "an4.74/en/sujato",
+      "an4.73/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn60_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn60_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn60",
+        "lang": "en",
+        "segMap": {
+          "mn60:0.2": {
+            "scid": "mn60:0.2",
+            "pli": "Apaṇṇakasutta ",
+            "en": "<span class=\"ebt-matched\">Guaranteed</span> ",
+            "matched": true
+          },
+          "mn60:4.3": {
+            "scid": "mn60:4.3",
+            "pli": "“Manāpaṁ vo, gahapatayo, satthāraṁ alabhantehi ayaṁ apaṇṇako dhammo samādāya vattitabbo. ",
+            "en": "“Since you haven’t found a teacher you’re happy with, you should undertake and implement this <span class=\"ebt-matched\">guaranteed</span> teaching. ",
+            "matched": true
+          },
+          "mn60:4.4": {
+            "scid": "mn60:4.4",
+            "pli": "Apaṇṇako hi, gahapatayo, dhammo samatto samādinno, so vo bhavissati dīgharattaṁ hitāya sukhāya. ",
+            "en": "For when the <span class=\"ebt-matched\">guaranteed</span> teaching is undertaken, it will be for your lasting welfare and happiness. ",
+            "matched": true
+          },
+          "mn60:4.5": {
+            "scid": "mn60:4.5",
+            "pli": "Katamo ca, gahapatayo, apaṇṇako dhammo? ",
+            "en": "And what is the <span class=\"ebt-matched\">guaranteed</span> teaching? ",
+            "matched": true
+          },
+          "mn60:9.8": {
+            "scid": "mn60:9.8",
+            "pli": "Evamassāyaṁ apaṇṇako dhammo dussamatto samādinno, ekaṁsaṁ pharitvā tiṭṭhati, riñcati kusalaṁ ṭhānaṁ. ",
+            "en": "They have wrongly undertaken this <span class=\"ebt-matched\">guaranteed</span> teaching in such a way that it encompasses the positive outcomes of one side only, leaving out the skillful premise. ",
+            "matched": true
+          },
+          "mn60:12.7": {
+            "scid": "mn60:12.7",
+            "pli": "Evamassāyaṁ apaṇṇako dhammo susamatto samādinno ubhayaṁsaṁ pharitvā tiṭṭhati, riñcati akusalaṁ ṭhānaṁ. ",
+            "en": "They have rightly undertaken this <span class=\"ebt-matched\">guaranteed</span> teaching in such a way that it encompasses the positive outcomes of both sides, leaving out the unskillful premise. ",
+            "matched": true
+          },
+          "mn60:17.8": {
+            "scid": "mn60:17.8",
+            "pli": "Evamassāyaṁ apaṇṇako dhammo dussamatto samādinno, ekaṁsaṁ pharitvā tiṭṭhati, riñcati kusalaṁ ṭhānaṁ. ",
+            "en": "They have wrongly undertaken this <span class=\"ebt-matched\">guaranteed</span> teaching in such a way that it encompasses the positive outcomes of one side only, leaving out the skillful premise. ",
+            "matched": true
+          },
+          "mn60:20.7": {
+            "scid": "mn60:20.7",
+            "pli": "Evamassāyaṁ apaṇṇako dhammo susamatto samādinno, ubhayaṁsaṁ pharitvā tiṭṭhati, riñcati akusalaṁ ṭhānaṁ. ",
+            "en": "They have rightly undertaken this <span class=\"ebt-matched\">guaranteed</span> teaching in such a way that it encompasses the positive outcomes of both sides, leaving out the unskillful premise. ",
+            "matched": true
+          },
+          "mn60:25.8": {
+            "scid": "mn60:25.8",
+            "pli": "Evamassāyaṁ apaṇṇako dhammo dussamatto samādinno, ekaṁsaṁ pharitvā tiṭṭhati, riñcati kusalaṁ ṭhānaṁ. ",
+            "en": "They have wrongly undertaken this <span class=\"ebt-matched\">guaranteed</span> teaching in such a way that it encompasses the positive outcomes of one side only, leaving out the skillful premise. ",
+            "matched": true
+          },
+          "mn60:28.6": {
+            "scid": "mn60:28.6",
+            "pli": "Evamassāyaṁ apaṇṇako dhammo susamatto samādinno, ubhayaṁsaṁ pharitvā tiṭṭhati, riñcati akusalaṁ ṭhānaṁ. ",
+            "en": "They have rightly undertaken this <span class=\"ebt-matched\">guaranteed</span> teaching in such a way that it encompasses the positive outcomes of both sides, leaving out the unskillful premise. ",
+            "matched": true
+          },
+          "mn60:31.10": {
+            "scid": "mn60:31.10",
+            "pli": "ye te devā rūpino manomayā, apaṇṇakaṁ me tatrūpapatti bhavissati. ",
+            "en": "that I will be <span class=\"ebt-matched\">guaranteed</span> rebirth among the gods who possess form and made of mind. ",
+            "matched": true
+          },
+          "mn60:31.13": {
+            "scid": "mn60:31.13",
+            "pli": "ye te devā arūpino saññāmayā, apaṇṇakaṁ me tatrūpapatti bhavissati. ",
+            "en": "that I will be <span class=\"ebt-matched\">guaranteed</span> rebirth among the gods who are formless and made of perception. ",
+            "matched": true
+          },
+          "mn60:34.10": {
+            "scid": "mn60:34.10",
+            "pli": "ye te devā arūpino saññāmayā apaṇṇakaṁ me tatrūpapatti bhavissati. ",
+            "en": "that I will be <span class=\"ebt-matched\">guaranteed</span> rebirth among the gods who are formless and made of perception. ",
+            "matched": true
+          }
+        },
+        "score": 13.044,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 60\nGuaranteed",
+        "segsMatched": 13,
+        "langSegs": {
+          "pli": 294,
+          "en": 292
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.71_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.71_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.71",
+        "lang": "en",
+        "segMap": {
+          "an4.71:0.2": {
+            "scid": "an4.71:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "en": "8. <span class=\"ebt-matched\">Guaranteed</span> ",
+            "matched": true
+          },
+          "an4.71:1.1": {
+            "scid": "an4.71:1.1",
+            "pli": "“Catūhi, bhikkhave, dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāya. ",
+            "en": "“Mendicants, when a mendicant has four things their practice is <span class=\"ebt-matched\">guaranteed</span>, and they have laid the groundwork for ending the defilements. ",
+            "matched": true
+          },
+          "an4.71:1.4": {
+            "scid": "an4.71:1.4",
+            "pli": "Imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāyā”ti. ",
+            "en": "When a mendicant has these four things their practice is <span class=\"ebt-matched\">guaranteed</span>, and they have laid the groundwork for ending the defilements.” ",
+            "matched": true
+          }
+        },
+        "score": 3.375,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n8. Guaranteed\n71. Effort",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.72_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.72_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.72",
+        "lang": "en",
+        "segMap": {
+          "an4.72:0.2": {
+            "scid": "an4.72:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "en": "8. <span class=\"ebt-matched\">Guaranteed</span> ",
+            "matched": true
+          },
+          "an4.72:1.1": {
+            "scid": "an4.72:1.1",
+            "pli": "“Catūhi, bhikkhave, dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāya. ",
+            "en": "“Mendicants, when a mendicant has four things their practice is <span class=\"ebt-matched\">guaranteed</span>, and they have laid the groundwork for ending the defilements. ",
+            "matched": true
+          },
+          "an4.72:1.4": {
+            "scid": "an4.72:1.4",
+            "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāyā”ti. ",
+            "en": "When a mendicant has these four things their practice is <span class=\"ebt-matched\">guaranteed</span>, and they have laid the groundwork for ending the defilements.” ",
+            "matched": true
+          }
+        },
+        "score": 3.375,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n8. Guaranteed\n72. Right View",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.16_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.16_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.16",
+        "lang": "en",
+        "segMap": {
+          "an3.16:0.3": {
+            "scid": "an3.16:0.3",
+            "pli": "16. Apaṇṇakasutta ",
+            "en": "16. <span class=\"ebt-matched\">Guaranteed</span> ",
+            "matched": true
+          },
+          "an3.16:1.1": {
+            "scid": "an3.16:1.1",
+            "pli": "“Tīhi, bhikkhave, dhammehi samannāgato bhikkhu apaṇṇakapaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāya. ",
+            "en": "“Mendicants, when a mendicant has three things their practice is <span class=\"ebt-matched\">guaranteed</span>, and they have laid the groundwork for ending the defilements. ",
+            "matched": true
+          },
+          "an3.16:4.4": {
+            "scid": "an3.16:4.4",
+            "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu apaṇṇakapaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāyā”ti. ",
+            "en": "When a mendicant has these three things their practice is <span class=\"ebt-matched\">guaranteed</span>, and they have laid the groundwork for ending the defilements.” ",
+            "matched": true
+          }
+        },
+        "score": 3.12,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n2. The Chariot-Maker\n16. Guaranteed",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 25,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga3/ud3.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga3/ud3.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud3.2",
+        "lang": "en",
+        "segMap": {
+          "ud3.2:12.3": {
+            "scid": "ud3.2:12.3",
+            "pli": "bhagavā kirassa pāṭibhogo pañcannaṁ accharāsatānaṁ paṭilābhāya kakuṭapādānan”ti.",
+            "en": "And it seems that the Buddha <span class=\"ebt-matched\">guaranteed</span> him five hundred dove-footed nymphs.”",
+            "matched": true
+          },
+          "ud3.2:13.3": {
+            "scid": "ud3.2:13.3",
+            "pli": "bhagavā kirassa pāṭibhogo pañcannaṁ accharāsatānaṁ paṭilābhāya kakuṭapādānan”ti.",
+            "en": "And it seems that the Buddha <span class=\"ebt-matched\">guaranteed</span> him five hundred dove-footed nymphs.”",
+            "matched": true
+          },
+          "ud3.2:16.3": {
+            "scid": "ud3.2:16.3",
+            "pli": "“yaṁ me, bhante, bhagavā pāṭibhogo pañcannaṁ accharāsatānaṁ paṭilābhāya kakuṭapādānaṁ, muñcāmahaṁ, bhante, bhagavantaṁ etasmā paṭissavā”ti.",
+            "en": "“Sir, you <span class=\"ebt-matched\">guaranteed</span> me five hundred dove-footed nymphs. I release you from that promise.” ",
+            "matched": true
+          }
+        },
+        "score": 3.041,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n3.2. With Nanda",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 74,
+          "en": 59
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.46_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.46_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.46",
+        "lang": "en",
+        "segMap": {
+          "an10.46:7.2": {
+            "scid": "an10.46:7.2",
+            "pli": "So ca khvassa sakadāgāmī vā anāgāmī vā apaṇṇakaṁ vā sotāpanno. ",
+            "en": "And they could become a once-returner or a non-returner, or <span class=\"ebt-matched\">guaranteed</span> a stream-enterer. ",
+            "matched": true
+          },
+          "an10.46:12.9": {
+            "scid": "an10.46:12.9",
+            "pli": "ekaṁ rattindivaṁ appamatto ātāpī pahitatto viharanto yathā mayānusiṭṭhaṁ tathā paṭipajjamāno satampi vassāni satampi vassasatāni satampi vassasahassāni ekantasukhappaṭisaṁvedī vihareyya, so ca khvassa sakadāgāmī vā anāgāmī vā apaṇṇakaṁ vā sotāpanno. ",
+            "en": "Let alone two days, take one of my disciples who lives diligent, keen, and resolute for one day, practicing in line with my instructions. They can experience perfect happiness for a hundred years, ten thousand years, or a hundred thousand years. And they could become a once-returner or a non-returner, or <span class=\"ebt-matched\">guaranteed</span> a stream-enterer. ",
+            "matched": true
+          }
+        },
+        "score": 2.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n5. Abuse\n46. With the Sakyans",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 81,
+          "en": 80
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.74_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.74_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.74",
+        "lang": "en",
+        "segMap": {
+          "an4.74:0.2": {
+            "scid": "an4.74:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "en": "8. <span class=\"ebt-matched\">Guaranteed</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n8. Guaranteed\n74. Best (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.75_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.75_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.75",
+        "lang": "en",
+        "segMap": {
+          "an4.75:0.2": {
+            "scid": "an4.75:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "en": "8. <span class=\"ebt-matched\">Guaranteed</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n8. Guaranteed\n75. Best (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.77_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.77_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.77",
+        "lang": "en",
+        "segMap": {
+          "an4.77:0.2": {
+            "scid": "an4.77:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "en": "8. <span class=\"ebt-matched\">Guaranteed</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n8. Guaranteed\n77. Unthinkable",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.80_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.80_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.80",
+        "lang": "en",
+        "segMap": {
+          "an4.80:0.2": {
+            "scid": "an4.80:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "en": "8. <span class=\"ebt-matched\">Guaranteed</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n8. Guaranteed\n80. Persia",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.79_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.79_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.79",
+        "lang": "en",
+        "segMap": {
+          "an4.79:0.2": {
+            "scid": "an4.79:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "en": "8. <span class=\"ebt-matched\">Guaranteed</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n8. Guaranteed\n79. Business",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.78_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.78_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.78",
+        "lang": "en",
+        "segMap": {
+          "an4.78:0.2": {
+            "scid": "an4.78:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "en": "8. <span class=\"ebt-matched\">Guaranteed</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n8. Guaranteed\n78. A Religious Donation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.76_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.76_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.76",
+        "lang": "en",
+        "segMap": {
+          "an4.76:0.2": {
+            "scid": "an4.76:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "en": "8. <span class=\"ebt-matched\">Guaranteed</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n8. Guaranteed\n76. At Kusinārā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn55/sn55.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn55/sn55.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn55.30",
+        "lang": "en",
+        "segMap": {
+          "sn55.30:3.1": {
+            "scid": "sn55.30:3.1",
+            "pli": "Imehi ca pana, nandaka, catūhi dhammehi samannāgato ariyasāvako āyunā saṁyutto hoti dibbenapi mānusenapi; ",
+            "en": "A noble disciple who has these four things is <span class=\"ebt-matched\">guaranteed</span> long life, ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 55\n3. About Sarakāni\n30. With Nandaka the Licchavi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.73_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.73_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.73",
+        "lang": "en",
+        "segMap": {
+          "an4.73:0.2": {
+            "scid": "an4.73:0.2",
+            "pli": "8. Apaṇṇakavagga ",
+            "en": "8. <span class=\"ebt-matched\">Guaranteed</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n8. Guaranteed\n73. A Good Person",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 43,
+          "en": 42
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag16.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag16.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag16.4",
+        "lang": "en",
+        "segMap": {
+          "thag16.4:20.4": {
+            "scid": "thag16.4:20.4",
+            "pli": "Apaṇṇakaṁ sāmaññameva seyyo.",
+            "en": "the ascetic life is <span class=\"ebt-matched\">guaranteed</span> to be better.”",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Twenties\nChapter One\n16.4. Raṭṭhapāla",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 105,
+          "en": 104
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn82_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn82_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn82",
+        "lang": "en",
+        "segMap": {
+          "mn82:42.54": {
+            "scid": "mn82:42.54",
+            "pli": "Apaṇṇakaṁ sāmaññameva seyyo”ti. ",
+            "en": "the ascetic life is <span class=\"ebt-matched\">guaranteed</span> to be better.” ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 82\nWith Raṭṭhapāla",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 434,
+          "en": 433
+        }
+      }
+    ]
+  }
+}

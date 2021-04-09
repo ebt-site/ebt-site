@@ -1,0 +1,250 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "selbst göttliche oder menschliche",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "selbst göttliche oder menschliche",
+    "method": "phrase",
+    "resultPattern": "\\bselbst göttliche oder menschliche",
+    "segsMatched": 13,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.37_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.37_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.37_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.57_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.57_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.57_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.59_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.59_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.59_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.58_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.58_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.58_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.37/de/sabbamitta",
+      "an4.57/de/sabbamitta",
+      "an4.59/de/sabbamitta",
+      "an4.58/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.37_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.37_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.37_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.37",
+        "lang": "de",
+        "segMap": {
+          "an5.37:1.4": {
+            "scid": "an5.37:1.4",
+            "pli": "Āyuṁ kho pana datvā āyussa bhāgī hoti dibbassa vā mānusassa vā; ",
+            "de": "Da sie langes Leben schenkt, hat sie selbst ein göttliches oder menschliches langes Leben. ",
+            "en": "Giving long life, they have long life as a god or human. ",
+            "matched": true
+          },
+          "an5.37:1.5": {
+            "scid": "an5.37:1.5",
+            "pli": "vaṇṇaṁ datvā vaṇṇassa bhāgī hoti dibbassa vā mānusassa vā; ",
+            "de": "Da sie Schönheit schenkt, hat sie <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Schönheit. ",
+            "en": "Giving beauty, they have beauty as a god or human. ",
+            "matched": true
+          },
+          "an5.37:1.6": {
+            "scid": "an5.37:1.6",
+            "pli": "sukhaṁ datvā sukhassa bhāgī hoti dibbassa vā mānusassa vā; ",
+            "de": "Da sie Glück schenkt, erfährt sie selbst göttliches oder menschliches Glück. ",
+            "en": "Giving happiness, they have happiness as a god or human. ",
+            "matched": true
+          },
+          "an5.37:1.7": {
+            "scid": "an5.37:1.7",
+            "pli": "balaṁ datvā balassa bhāgī hoti dibbassa vā mānusassa vā; ",
+            "de": "Da sie Kraft schenkt, hat sie <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Kraft. ",
+            "en": "Giving strength, they have strength as a god or human. ",
+            "matched": true
+          },
+          "an5.37:1.8": {
+            "scid": "an5.37:1.8",
+            "pli": "paṭibhānaṁ datvā paṭibhānassa bhāgī hoti dibbassa vā mānusassa vā. ",
+            "de": "Da sie Wortgewandtheit schenkt, hat sie <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Wortgewandtheit. ",
+            "en": "Giving eloquence, they are eloquent as a god or human. ",
+            "matched": true
+          }
+        },
+        "score": 5.238,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n4. Mit Sumanā\n37. Speise",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 21,
+          "de": 20,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.57_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.57_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.57",
+        "lang": "de",
+        "segMap": {
+          "an4.57:2.4": {
+            "scid": "an4.57:2.4",
+            "pli": "Āyuṁ kho pana datvā āyussa bhāginī hoti dibbassa vā mānusassa vā. ",
+            "de": "Da sie langes Leben schenkt, hat sie selbst ein göttliches oder menschliches langes Leben. ",
+            "en": "Giving long life, she has long life as a god or human. ",
+            "matched": true
+          },
+          "an4.57:2.5": {
+            "scid": "an4.57:2.5",
+            "pli": "Vaṇṇaṁ datvā vaṇṇassa bhāginī hoti dibbassa vā mānusassa vā. ",
+            "de": "Da sie Schönheit schenkt, hat sie <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Schönheit. ",
+            "en": "Giving beauty, she has beauty as a god or human. ",
+            "matched": true
+          },
+          "an4.57:2.6": {
+            "scid": "an4.57:2.6",
+            "pli": "Sukhaṁ datvā sukhassa bhāginī hoti dibbassa vā mānusassa vā. ",
+            "de": "Da sie Glück schenkt, erfährt sie selbst göttliches oder menschliches Glück. ",
+            "en": "Giving happiness, she has happiness as a god or human. ",
+            "matched": true
+          },
+          "an4.57:2.7": {
+            "scid": "an4.57:2.7",
+            "pli": "Balaṁ datvā balassa bhāginī hoti dibbassa vā mānusassa vā. ",
+            "de": "Da sie Kraft schenkt, hat sie <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Kraft. ",
+            "en": "Giving strength, she has strength as a god or human. ",
+            "matched": true
+          }
+        },
+        "score": 4.148,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n6. Überfließendes Verdienst\n57. Mit Suppavāsā",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 27,
+          "de": 26,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.59_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.59_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.59_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.59",
+        "lang": "de",
+        "segMap": {
+          "an4.59:1.4": {
+            "scid": "an4.59:1.4",
+            "pli": "Āyuṁ kho pana datvā āyussa bhāgī hoti dibbassa vā mānusassa vā. ",
+            "de": "Da sie langes Leben schenkt, hat sie selbst ein göttliches oder menschliches langes Leben. ",
+            "en": " ",
+            "matched": true
+          },
+          "an4.59:1.5": {
+            "scid": "an4.59:1.5",
+            "pli": "Vaṇṇaṁ datvā … sukhaṁ datvā … balaṁ datvā balassa bhāgī hoti dibbassa vā mānusassa vā. ",
+            "de": "Da sie Schönheit … Glück … Kraft schenkt, hat sie <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Kraft. ",
+            "en": " ",
+            "matched": true
+          }
+        },
+        "score": 2.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n6. Überfließendes Verdienst\n59. Speise",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 18,
+          "de": 17,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.58_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.58_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.58",
+        "lang": "de",
+        "segMap": {
+          "an4.58:2.4": {
+            "scid": "an4.58:2.4",
+            "pli": "Āyuṁ kho pana datvā āyussa bhāgī hoti dibbassa vā mānusassa vā. ",
+            "de": "Da er langes Leben schenkt, hat er selbst ein göttliches oder menschliches langes Leben. ",
+            "en": "Giving long life, they have long life as a god or human. … ",
+            "matched": true
+          },
+          "an4.58:2.5": {
+            "scid": "an4.58:2.5",
+            "pli": "Vaṇṇaṁ datvā … sukhaṁ datvā … balaṁ datvā balassa bhāgī hoti dibbassa vā mānusassa vā. ",
+            "de": "Da er Schönheit … Glück … Kraft schenkt, hat er <span class=\"ebt-matched\">selbst göttliche oder menschliche</span> Kraft. ",
+            "en": "Giving beauty … happiness … strength … ",
+            "matched": true
+          }
+        },
+        "score": 2.105,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n6. Überfließendes Verdienst\n58. Mit Sudatta",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 19,
+          "de": 18,
+          "en": 18
+        }
+      }
+    ]
+  }
+}

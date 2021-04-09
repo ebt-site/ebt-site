@@ -1,0 +1,1166 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "worthy of veneration",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "worthy of veneration",
+    "method": "phrase",
+    "resultPattern": "\\bworthy of veneration",
+    "segsMatched": 53,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.139_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.139_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn65_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn65_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.58_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.57_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.57_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.68_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.68_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.203_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.203_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.107_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.107_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.98_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.98_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.97_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.97_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.96_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.96_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.133_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.133_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.97_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.97_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn55/sn55.26_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.26_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn55/sn55.13_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.13_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.108_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.108_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.260_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.260_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.259_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.259_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.181_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.181_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.114_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.114_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.112_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.112_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.70_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.139/en/sujato",
+      "mn65/en/sujato",
+      "an8.58/en/sujato",
+      "an8.57/en/sujato",
+      "an7.68/en/sujato",
+      "an6.7/en/sujato",
+      "an6.6/en/sujato",
+      "an6.5/en/sujato",
+      "an6.58/en/sujato",
+      "an6.4/en/sujato",
+      "an6.3/en/sujato",
+      "an6.2/en/sujato",
+      "an6.1/en/sujato",
+      "an5.203/en/sujato",
+      "an5.107/en/sujato",
+      "an3.98/en/sujato",
+      "an3.97/en/sujato",
+      "an3.96/en/sujato",
+      "an3.133/en/sujato",
+      "an10.97/en/sujato",
+      "sn55.26/en/sujato",
+      "sn55.13/en/sujato",
+      "an8.13/en/sujato",
+      "an5.140/en/sujato",
+      "an5.108/en/sujato",
+      "an4.260/en/sujato",
+      "an4.259/en/sujato",
+      "an4.181/en/sujato",
+      "an4.114/en/sujato",
+      "an4.112/en/sujato",
+      "an3.70/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.139_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.139_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.139",
+        "lang": "en",
+        "segMap": {
+          "an5.139:8.1": {
+            "scid": "an5.139:8.1",
+            "pli": "Evamevaṁ kho, bhikkhave, pañcahi aṅgehi samannāgato bhikkhu na āhuneyyo hoti na pāhuneyyo na dakkhiṇeyyo na añjalikaraṇīyo na anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with five qualities is not worthy of offerings dedicated to the gods, not worthy of hospitality, not worthy of a religious donation, not <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is not the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an5.139:14.1": {
+            "scid": "an5.139:14.1",
+            "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu na āhuneyyo hoti na pāhuneyyo na dakkhiṇeyyo na añjalikaraṇīyo na anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "A mendicant with these five qualities is not worthy of offerings dedicated to the gods, not worthy of hospitality, not worthy of a religious donation, not <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is not the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an5.139:22.1": {
+            "scid": "an5.139:22.1",
+            "pli": "Evamevaṁ kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an5.139:28.1": {
+            "scid": "an5.139:28.1",
+            "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 4.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n14. Kings\n139. Cannot Endure",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 80,
+          "en": 79
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.107_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.107_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.107",
+        "lang": "en",
+        "segMap": {
+          "an5.107:1.1": {
+            "scid": "an5.107:1.1",
+            "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "“Mendicants, a mendicant with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an5.107:3.1": {
+            "scid": "an5.107:3.1",
+            "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n11. Living Comfortably\n107. Ethics",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.3",
+        "lang": "en",
+        "segMap": {
+          "an6.3:1.1": {
+            "scid": "an6.3:1.1",
+            "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "“Mendicants, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an6.3:1.4": {
+            "scid": "an6.3:1.4",
+            "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n1. Worthy of Offerings\n3. Faculties",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.4",
+        "lang": "en",
+        "segMap": {
+          "an6.4:1.1": {
+            "scid": "an6.4:1.1",
+            "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "“Mendicants, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an6.4:1.4": {
+            "scid": "an6.4:1.4",
+            "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n1. Worthy of Offerings\n4. Powers",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.203_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.203_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.203",
+        "lang": "en",
+        "segMap": {
+          "an5.203:2.4": {
+            "scid": "an5.203:2.4",
+            "pli": "Evamevaṁ kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an5.203:3.3": {
+            "scid": "an5.203:3.3",
+            "pli": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n21. With Kimbila\n203. A Thoroughbred",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.5",
+        "lang": "en",
+        "segMap": {
+          "an6.5:3.1": {
+            "scid": "an6.5:3.1",
+            "pli": "Evamevaṁ kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an6.5:3.4": {
+            "scid": "an6.5:3.4",
+            "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n1. Worthy of Offerings\n5. The Thoroughbred (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.6",
+        "lang": "en",
+        "segMap": {
+          "an6.6:2.1": {
+            "scid": "an6.6:2.1",
+            "pli": "Evamevaṁ kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an6.6:2.4": {
+            "scid": "an6.6:2.4",
+            "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n1. Worthy of Offerings\n6. The Thoroughbred (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.7",
+        "lang": "en",
+        "segMap": {
+          "an6.7:2.1": {
+            "scid": "an6.7:2.1",
+            "pli": "Evamevaṁ kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an6.7:2.4": {
+            "scid": "an6.7:2.4",
+            "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n1. Worthy of Offerings\n7. The Thoroughbred (3rd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.57_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.57",
+        "lang": "en",
+        "segMap": {
+          "an8.57:1.1": {
+            "scid": "an8.57:1.1",
+            "pli": "“Aṭṭhahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "“Mendicants, a mendicant with eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an8.57:1.11": {
+            "scid": "an8.57:1.11",
+            "pli": "Imehi kho, bhikkhave, aṭṭhahi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.133,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n6. Gotamī\n57. Worthy of Offerings Dedicated to the Gods (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.58_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.58",
+        "lang": "en",
+        "segMap": {
+          "an8.58:1.1": {
+            "scid": "an8.58:1.1",
+            "pli": "“Aṭṭhahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "“A mendicant with eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an8.58:1.11": {
+            "scid": "an8.58:1.11",
+            "pli": "Imehi kho, bhikkhave, aṭṭhahi dhammehi samannāgato bhikkhu āhuneyyo …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.133,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n6. Gotamī\n58. Worthy of Offerings Dedicated to the Gods (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.97_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.97_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.97",
+        "lang": "en",
+        "segMap": {
+          "an3.97:1.5": {
+            "scid": "an3.97:1.5",
+            "pli": "Evamevaṁ kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with three factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an3.97:4.4": {
+            "scid": "an3.97:4.4",
+            "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these three factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.095,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n97. The Thoroughbred (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.98_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.98_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.98",
+        "lang": "en",
+        "segMap": {
+          "an3.98:1.5": {
+            "scid": "an3.98:1.5",
+            "pli": "Evamevaṁ kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with three factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an3.98:4.4": {
+            "scid": "an3.98:4.4",
+            "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these three factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.095,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n98. The Thoroughbred (3rd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.1",
+        "lang": "en",
+        "segMap": {
+          "an6.1:2.1": {
+            "scid": "an6.1:2.1",
+            "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "“Mendicants, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an6.1:2.9": {
+            "scid": "an6.1:2.9",
+            "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.095,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n1. Worthy of Offerings\n1. Worthy of Offerings (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.96_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.96_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.96",
+        "lang": "en",
+        "segMap": {
+          "an3.96:1.5": {
+            "scid": "an3.96:1.5",
+            "pli": "Evamevaṁ kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with three factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an3.96:4.7": {
+            "scid": "an3.96:4.7",
+            "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these three factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n96. The Thoroughbred (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.133_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.133_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.133",
+        "lang": "en",
+        "segMap": {
+          "an3.133:1.5": {
+            "scid": "an3.133:1.5",
+            "pli": "Evamevaṁ kho, bhikkhave, tīhi aṅgehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with three factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an3.133:4.4": {
+            "scid": "an3.133:4.4",
+            "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these three factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.08,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n14. A Warrior\n133. A Warrior",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 25,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.2",
+        "lang": "en",
+        "segMap": {
+          "an6.2:1.1": {
+            "scid": "an6.2:1.1",
+            "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "“Mendicants, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an6.2:7.1": {
+            "scid": "an6.2:7.1",
+            "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.069,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n1. Worthy of Offerings\n2. Worthy of Offerings (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 29,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.97_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.97_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.97",
+        "lang": "en",
+        "segMap": {
+          "an10.97:1.1": {
+            "scid": "an10.97:1.1",
+            "pli": "“Dasahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "“Mendicants, a mendicant with ten factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an10.97:12.1": {
+            "scid": "an10.97:12.1",
+            "pli": "Imehi kho, bhikkhave, dasahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these ten factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.061,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n97. Worthy of Offerings Dedicated to the Gods",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.58",
+        "lang": "en",
+        "segMap": {
+          "an6.58:1.1": {
+            "scid": "an6.58:1.1",
+            "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "“Mendicants, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an6.58:9.1": {
+            "scid": "an6.58:9.1",
+            "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n6. The Great Chapter\n58. Defilements",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 59,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.68_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.68_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.68",
+        "lang": "en",
+        "segMap": {
+          "an7.68:1.1": {
+            "scid": "an7.68:1.1",
+            "pli": "“Sattahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "“A mendicant with seven qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "an7.68:16.2": {
+            "scid": "an7.68:16.2",
+            "pli": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these seven factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n7. The Great Chapter\n68. One Who Knows the Teachings",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 102,
+          "en": 101
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn65_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn65_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn65",
+        "lang": "en",
+        "segMap": {
+          "mn65:34.1": {
+            "scid": "mn65:34.1",
+            "pli": "Evameva kho, bhaddāli, dasahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with ten qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          },
+          "mn65:34.4": {
+            "scid": "mn65:34.4",
+            "pli": "imehi kho, bhaddāli, dasahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these ten qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 2.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 65\nWith Bhaddāli",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 211,
+          "en": 210
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.108_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.108_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.108",
+        "lang": "en",
+        "segMap": {
+          "an5.108:1.1": {
+            "scid": "an5.108:1.1",
+            "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "“Mendicants, a mendicant with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n11. Living Comfortably\n108. An adept",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.112_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.112_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.112",
+        "lang": "en",
+        "segMap": {
+          "an4.112:2.1": {
+            "scid": "an4.112:2.1",
+            "pli": "Evamevaṁ kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with four factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n12. With Kesi\n112. Speed",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn55/sn55.13_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn55/sn55.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn55.13",
+        "lang": "en",
+        "segMap": {
+          "sn55.13:4.3": {
+            "scid": "sn55.13:4.3",
+            "pli": "suppaṭipanno bhagavato sāvakasaṅgho …pe… anuttaraṁ puññakkhettaṁ lokassāti. ",
+            "en": "‘The Saṅgha of the Buddha’s disciples is practicing the way that’s good, direct, methodical, and proper. It consists of the four pairs, the eight individuals. This Saṅgha of the Buddha’s disciples is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, and <span class=\"ebt-matched\">worthy of veneration</span> with joined palms.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 55\n2. The Royal Monastery\n13. With the Senior Monk Ānanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.259_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.259_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.259",
+        "lang": "en",
+        "segMap": {
+          "an4.259:2.1": {
+            "scid": "an4.259:2.1",
+            "pli": "Evamevaṁ kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with four factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n26. Insight\n259. A Thoroughbred (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.260_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.260_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.260",
+        "lang": "en",
+        "segMap": {
+          "an4.260:2.1": {
+            "scid": "an4.260:2.1",
+            "pli": "Evamevaṁ kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with four factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n26. Insight\n260. A Thoroughbred (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.181_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.181_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.181",
+        "lang": "en",
+        "segMap": {
+          "an4.181:1.5": {
+            "scid": "an4.181:1.5",
+            "pli": "Evamevaṁ kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with four factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n19. Brahmins\n181. A Warrior",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.114_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.114_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.114",
+        "lang": "en",
+        "segMap": {
+          "an4.114:6.1": {
+            "scid": "an4.114:6.1",
+            "pli": "Evamevaṁ kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with four factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          }
+        },
+        "score": 1.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n12. With Kesi\n114. A Royal Elephant",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 40,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.13_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.13",
+        "lang": "en",
+        "segMap": {
+          "an8.13:2.19": {
+            "scid": "an8.13:2.19",
+            "pli": "Imehi kho, bhikkhave, aṭṭhahi dhammehi samannāgato bhikkhu āhuneyyo hoti …pe… anuttaraṁ puññakkhettaṁ lokassā”ti. ",
+            "en": "A mendicant with these eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world.” ",
+            "matched": true
+          }
+        },
+        "score": 1.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n2. The Great Chapter\n13. A Thoroughbred",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 40,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.140",
+        "lang": "en",
+        "segMap": {
+          "an5.140:8.1": {
+            "scid": "an5.140:8.1",
+            "pli": "Evamevaṁ kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa. ",
+            "en": "In the same way, a mendicant with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, <span class=\"ebt-matched\">worthy of veneration</span> with joined palms, and is the supreme field of merit for the world. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n14. Kings\n140. A Listener",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 59,
+          "en": 57
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn55/sn55.26_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn55/sn55.26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn55.26",
+        "lang": "en",
+        "segMap": {
+          "sn55.26:7.3": {
+            "scid": "sn55.26:7.3",
+            "pli": "suppaṭipanno bhagavato sāvakasaṅgho …pe… anuttaraṁ puññakkhettaṁ lokassāti. ",
+            "en": "‘The Saṅgha of the Buddha’s disciples is practicing the way that’s good, direct, methodical, and proper. It consists of the four pairs, the eight individuals. This Saṅgha of the Buddha’s disciples is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, and <span class=\"ebt-matched\">worthy of veneration</span> with joined palms. It is the supreme field of merit for the world.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 55\n3. About Sarakāni\n26. Anāthapiṇḍika (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 88,
+          "en": 87
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.70_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.70",
+        "lang": "en",
+        "segMap": {
+          "an3.70:12.3": {
+            "scid": "an3.70:12.3",
+            "pli": "‘suppaṭipanno bhagavato sāvakasaṅgho …pe… anuttaraṁ puññakkhettaṁ lokassā’ti. ",
+            "en": "‘The Saṅgha of the Buddha’s disciples is practicing the way that’s good, direct, methodical, and proper. It consists of the four pairs, the eight individuals. This Saṅgha of the Buddha’s disciples is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, and <span class=\"ebt-matched\">worthy of veneration</span> with joined palms. It is the supreme field of merit for the world.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n70. Sabbath",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 238,
+          "en": 232
+        }
+      }
+    ]
+  }
+}

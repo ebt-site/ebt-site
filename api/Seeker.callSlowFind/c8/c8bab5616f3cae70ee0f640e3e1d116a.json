@@ -1,0 +1,144 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "immersion is peaceful",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "immersion is peaceful",
+    "method": "phrase",
+    "resultPattern": "\\bimmersion is peaceful",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.27_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.27_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/en/sujato",
+      "an5.27/en/sujato",
+      "an3.101/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.101",
+        "lang": "en",
+        "segMap": {
+          "an3.101:2.5": {
+            "scid": "an3.101:2.5",
+            "pli": "So hoti samādhi na ceva santo na ca paṇīto nappaṭippassaddhaladdho na ekodibhāvādhigato sasaṅkhāraniggayhavāritagato. ",
+            "en": "That immersion is not peaceful or sublime or tranquil or unified, but is held in place by forceful suppression. ",
+            "matched": true
+          },
+          "an3.101:2.7": {
+            "scid": "an3.101:2.7",
+            "pli": "So hoti samādhi santo paṇīto paṭippassaddhiladdho ekodibhāvādhigato na sasaṅkhāraniggayhavāritagato. ",
+            "en": "That <span class=\"ebt-matched\">immersion is peaceful</span> and sublime and tranquil and unified, not held in place by forceful suppression. ",
+            "matched": true
+          }
+        },
+        "score": 2.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n101. A Panner",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 52,
+          "en": 51
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.27_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.27",
+        "lang": "en",
+        "segMap": {
+          "an5.27:1.7": {
+            "scid": "an5.27:1.7",
+            "pli": "‘ayaṁ samādhi santo paṇīto paṭippassaddhaladdho ekodibhāvādhigato, na sasaṅkhāraniggayhavāritagato’ti paccattaññeva ñāṇaṁ uppajjati, ",
+            "en": "‘This <span class=\"ebt-matched\">immersion is peaceful</span> and sublime and tranquil and unified, not held in place by forceful suppression.’ … ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n3. With Five Factors\n27. Immersion",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.6.73": {
+            "scid": "dn34:1.6.73",
+            "pli": "‘Ayaṁ samādhi santo paṇīto paṭippassaddhaladdho ekodibhāvādhigato, na sasaṅkhāraniggayhavāritagato’ti paccattaṁyeva ñāṇaṁ uppajjati. ",
+            "en": "‘This <span class=\"ebt-matched\">immersion is peaceful</span> and sublime and tranquil and unified, not held in place by forceful suppression.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

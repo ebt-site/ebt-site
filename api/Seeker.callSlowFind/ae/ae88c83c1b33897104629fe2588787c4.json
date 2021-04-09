@@ -1,0 +1,323 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wahrnehmung des hässlichen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wahrnehmung des hässlichen",
+    "method": "phrase",
+    "resultPattern": "\\bwahrnehmung des hässlichen",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an10/an10.60_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.1_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an9/an9.1_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an9/an9.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.61_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.61_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.61_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.303_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.303_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.303_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.394-574_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/de/sabbamitta",
+      "an10.60/de/sabbamitta",
+      "dn33/de/sabbamitta",
+      "an9.1/de/sabbamitta",
+      "an5.61/de/sabbamitta",
+      "an5.303/de/sabbamitta",
+      "an1.394-574/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an10/an10.60_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.60",
+        "lang": "de",
+        "segMap": {
+          "an10.60:3.2": {
+            "scid": "an10.60:3.2",
+            "pli": "Aniccasaññā, anattasaññā, asubhasaññā, ādīnavasaññā, pahānasaññā, virāgasaññā, nirodhasaññā, sabbaloke anabhiratasaññā, sabbasaṅkhāresu anicchāsaññā, ānāpānassati. ",
+            "de": "Die Wahrnehmung der Unbeständigkeit, die Wahrnehmung des Nicht-selbst, die <span class=\"ebt-matched\">Wahrnehmung des Hässlichen</span>, die Wahrnehmung der Nachteile, die Wahrnehmung des Aufgebens, die Wahrnehmung des Schwindens, die Wahrnehmung des Aufhörens, die Wahrnehmung der Entfremdung von der ganzen Welt, die Wahrnehmung der Unbeständigkeit aller Bedingungen und die Achtsamkeit auf den Atem. ",
+            "en": "The perceptions of impermanence, not-self, ugliness, drawbacks, giving up, fading away, cessation, dissatisfaction with the whole world, impermanence of all conditions, and mindfulness of breathing. ",
+            "matched": true
+          },
+          "an10.60:6.1": {
+            "scid": "an10.60:6.1",
+            "pli": "Katamā cānanda, asubhasaññā? ",
+            "de": "Und was ist die <span class=\"ebt-matched\">Wahrnehmung des Hässlichen</span>? ",
+            "en": "And what is the perception of ugliness? ",
+            "matched": true
+          },
+          "an10.60:6.5": {
+            "scid": "an10.60:6.5",
+            "pli": "Ayaṁ vuccatānanda, asubhasaññā. ",
+            "de": "Das nennt man die <span class=\"ebt-matched\">Wahrnehmung des Hässlichen</span>. ",
+            "en": "This is called the perception of ugliness. ",
+            "matched": true
+          }
+        },
+        "score": 3.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 10\n6. Der eigene Geist\n60. Mit Girimānanda",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 80,
+          "de": 78,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.8.45": {
+            "scid": "dn34:1.8.45",
+            "pli": "aniccasaññā, anattasaññā, asubhasaññā, ādīnavasaññā, pahānasaññā, virāgasaññā, nirodhasaññā. ",
+            "de": "die Wahrnehmung der Unbeständigkeit, die Wahrnehmung des Nicht-selbst, die <span class=\"ebt-matched\">Wahrnehmung des Hässlichen</span>, die Wahrnehmung der nachteiligen Folgen, die Wahrnehmung des Aufgebens, die Wahrnehmung des Schwindens und die Wahrnehmung des Aufhörens. ",
+            "en": "the perception of impermanence, the perception of not-self, the perception of ugliness, the perception of drawbacks, the perception of giving up, the perception of fading away, and the perception of cessation. ",
+            "matched": true
+          },
+          "dn34:2.2.64": {
+            "scid": "dn34:2.2.64",
+            "pli": "asubhasaññā, maraṇasaññā, āhārepaṭikūlasaññā, sabbalokeanabhiratisaññā, aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā. ",
+            "de": "die <span class=\"ebt-matched\">Wahrnehmung des Hässlichen</span>, die Wahrnehmung des Todes, die Wahrnehmung der Widerwärtigkeit der Nahrung, die Wahrnehmung der Entfremdung von der ganzen Welt, die Wahrnehmung der Unbeständigkeit, die Wahrnehmung des Leidens in der Unbeständigkeit, die Wahrnehmung des Nicht-selbst im Leiden, die Wahrnehmung des Aufgebens und die Wahrnehmung des Schwindens. ",
+            "en": "the perceptions of ugliness, death, repulsiveness in food, dissatisfaction with the whole world, impermanence, suffering in impermanence, not-self in suffering, giving up, and fading away. ",
+            "matched": true
+          },
+          "dn34:2.3.109": {
+            "scid": "dn34:2.3.109",
+            "pli": "asubhasaññā, maraṇasaññā, āhārepaṭikūlasaññā, sabbalokeanabhiratisaññā, aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā, nirodhasaññā. ",
+            "de": "die <span class=\"ebt-matched\">Wahrnehmung des Hässlichen</span>, die Wahrnehmung des Todes, die Wahrnehmung der Widerwärtigkeit der Nahrung, die Wahrnehmung der Entfremdung von der ganzen Welt, die Wahrnehmung der Unbeständigkeit, die Wahrnehmung des Leidens in der Unbeständigkeit, die Wahrnehmung des Nicht-selbst im Leiden, die Wahrnehmung des Aufgebens, die Wahrnehmung des Schwindens und die Wahrnehmung des Aufhörens. ",
+            "en": "the perceptions of ugliness, death, repulsiveness in food, dissatisfaction with the whole world, impermanence, suffering in impermanence, not-self in suffering, giving up, fading away, and cessation. ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.303_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.303_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.303_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.303",
+        "lang": "de",
+        "segMap": {
+          "an5.303:1.3": {
+            "scid": "an5.303:1.3",
+            "pli": "Asubhasaññā, maraṇasaññā, ādīnavasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā—",
+            "de": "Die <span class=\"ebt-matched\">Wahrnehmung des Hässlichen</span>, die Wahrnehmung des Todes, die Wahrnehmung der nachteiligen Folgen, die Wahrnehmung der Widerwärtigkeit der Nahrung und die Wahrnehmung der Entfremdung von der ganzen Welt. ",
+            "en": "The perceptions of ugliness, death, drawbacks, repulsiveness of food, and dissatisfaction with the whole world. ",
+            "matched": true
+          }
+        },
+        "score": 1.143,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n29. Abgekürzte Texte, die mit Gier beginnen\n303",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 7,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.61_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.61_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.61",
+        "lang": "de",
+        "segMap": {
+          "an5.61:1.3": {
+            "scid": "an5.61:1.3",
+            "pli": "Asubhasaññā, maraṇasaññā, ādīnavasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā—",
+            "de": "Die <span class=\"ebt-matched\">Wahrnehmung des Hässlichen</span>, die Wahrnehmung des Todes, die Wahrnehmung der nachteiligen Folgen, die Wahrnehmung der Widerwärtigkeit der Nahrung und die Wahrnehmung der Entfremdung von der ganzen Welt. ",
+            "en": "The perceptions of ugliness, death, drawbacks, repulsiveness of food, and dissatisfaction with the whole world. ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n7. Wahrnehmungen\n61. Wahrnehmungen (1)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.1_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an9/an9.1_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an9/an9.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.1",
+        "lang": "de",
+        "segMap": {
+          "an9.1:14.2": {
+            "scid": "an9.1:14.2",
+            "pli": "asubhā bhāvetabbā rāgassa pahānāya, mettā bhāvetabbā byāpādassa pahānāya, ānāpānassati bhāvetabbā vitakkupacchedāya, aniccasaññā bhāvetabbā asmimānasamugghātāya. ",
+            "de": "Sie sollte die <span class=\"ebt-matched\">Wahrnehmung des Hässlichen</span> entwickeln, um Gier aufzugeben, Liebe entwickeln, um Hass aufzugeben, Achtsamkeit auf den Atem entwickeln, um das Denken zu unterbrechen und die Wahrnehmung der Unbeständigkeit entwickeln, um die Einbildung ‚ich bin‘ zu entwurzeln. ",
+            "en": "They should develop the perception of ugliness to give up greed, love to give up hate, mindfulness of breathing to cut off thinking, and perception of impermanence to uproot the conceit ‘I am’. ",
+            "matched": true
+          }
+        },
+        "score": 1.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 9\n1. Erwachen\n1. Erwachen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 37,
+          "de": 36,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an1/an1.394-574_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.394-574",
+        "lang": "de",
+        "segMap": {
+          "an1.465:1.1": {
+            "scid": "an1.465:1.1",
+            "pli": "Asubhasaññaṁ bhāveti … ",
+            "de": "Ein Mönch entwickelt die <span class=\"ebt-matched\">Wahrnehmung des Hässlichen</span> … ",
+            "en": "They develop the perception of ugliness … ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 1\n29. Noch ein Kapitel über ein Fingerschnippen\n394–574",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 176,
+          "de": 175,
+          "en": 175
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:2.3.25": {
+            "scid": "dn33:2.3.25",
+            "pli": "aniccasaññā, anattasaññā, asubhasaññā, ādīnavasaññā, pahānasaññā, virāgasaññā, nirodhasaññā. ",
+            "de": "die Wahrnehmung der Unbeständigkeit, die Wahrnehmung des Nicht-selbst, die <span class=\"ebt-matched\">Wahrnehmung des Hässlichen</span>, die Wahrnehmung der nachteiligen Folgen, die Wahrnehmung des Aufgebens, die Wahrnehmung des Schwindens und die Wahrnehmung des Aufhörens. ",
+            "en": "the perception of impermanence, the perception of not-self, the perception of ugliness, the perception of drawbacks, the perception of giving up, the perception of fading away, and the perception of cessation. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

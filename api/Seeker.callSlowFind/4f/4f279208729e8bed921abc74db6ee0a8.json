@@ -1,0 +1,114 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "unverdientes leid zufügt",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "unverdientes leid zufügt",
+    "method": "phrase",
+    "resultPattern": "\\bunverdientes leid zufügt",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.69_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.69_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.69_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.69/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.69_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.69_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.69_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.69",
+        "lang": "de",
+        "segMap": {
+          "an3.69:2.3": {
+            "scid": "an3.69:2.3",
+            "pli": "yadapi luddho lobhena abhibhūto pariyādinnacitto parassa asatā dukkhaṁ uppādayati vadhena vā bandhanena vā jāniyā vā garahāya vā pabbājanāya vā balavamhi balattho itipi tadapi akusalaṁ. ",
+            "de": "Wenn ein gieriger Mensch, von Gier überwältigt, jemand anderem in dem Gedanken: ‚ich bin mächtig, ich will Macht‘ <span class=\"ebt-matched\">unverdientes Leid zufügt</span> – durch Hinrichtung, Haft, Beschlagnahmung, Schuldspruch oder Verbannung – so ist auch das untauglich. ",
+            "en": "When a greedy person, overcome by greed, causes another to suffer under a false pretext—by execution or imprisonment or confiscation or condemnation or banishment—thinking ‘I’m powerful, I want power’, that too is unskillful. ",
+            "matched": true
+          },
+          "an3.69:3.3": {
+            "scid": "an3.69:3.3",
+            "pli": "yadapi duṭṭho dosena abhibhūto pariyādinnacitto parassa asatā dukkhaṁ uppādayati vadhena vā bandhanena vā jāniyā vā garahāya vā pabbājanāya vā balavamhi balattho itipi tadapi akusalaṁ. ",
+            "de": "Wenn ein hasserfüllter Mensch, von Hass überwältigt, jemand anderem in dem Gedanken: ‚ich bin mächtig, ich will Macht‘ <span class=\"ebt-matched\">unverdientes Leid zufügt</span> – durch Hinrichtung, Haft, Beschlagnahmung, Schuldspruch oder Verbannung – so ist auch das untauglich. ",
+            "en": "When a hateful person, overcome by hate, causes another to suffer under a false pretext—by execution or imprisonment or confiscation or condemnation or banishment—thinking ‘I’m powerful, I want power’, that too is unskillful. ",
+            "matched": true
+          },
+          "an3.69:4.3": {
+            "scid": "an3.69:4.3",
+            "pli": "yadapi mūḷho mohena abhibhūto pariyādinnacitto parassa asatā dukkhaṁ uppādayati vadhena vā bandhanena vā jāniyā vā garahāya vā pabbājanāya vā balavamhi balattho itipi tadapi akusalaṁ. ",
+            "de": "Wenn ein Mensch, der sich täuscht, von Täuschung überwältigt, jemand anderem in dem Gedanken: ‚ich bin mächtig, ich will Macht‘ <span class=\"ebt-matched\">unverdientes Leid zufügt</span> – durch Hinrichtung, Haft, Beschlagnahmung, Schuldspruch oder Verbannung – so ist auch das untauglich. ",
+            "en": "When a deluded person, overcome by delusion, causes another to suffer under a false pretext—by execution or imprisonment or confiscation or condemnation or banishment—thinking ‘I’m powerful, I want power’, that too is unskillful. ",
+            "matched": true
+          },
+          "an3.69:10.3": {
+            "scid": "an3.69:10.3",
+            "pli": "yadapi aluddho lobhena anabhibhūto apariyādinnacitto na parassa asatā dukkhaṁ uppādayati vadhena vā bandhanena vā jāniyā vā garahāya vā pabbājanāya vā balavamhi balattho itipi tadapi kusalaṁ. ",
+            "de": "Wenn ein zufriedener Mensch, nicht von Gier überwältigt, niemandem in dem Gedanken: ‚ich bin mächtig, ich will Macht‘ <span class=\"ebt-matched\">unverdientes Leid zufügt</span> – durch Hinrichtung, Haft, Beschlagnahmung, Schuldspruch oder Verbannung – so ist auch das tauglich. ",
+            "en": "When a contented person, not overcome by greed, doesn’t cause another to suffer under a false pretext—by execution or imprisonment or confiscation or condemnation or banishment—thinking ‘I’m powerful, I want power’, that too is skillful. ",
+            "matched": true
+          },
+          "an3.69:11.3": {
+            "scid": "an3.69:11.3",
+            "pli": "yadapi aduṭṭho dosena anabhibhūto apariyādinnacitto na parassa asatā dukkhaṁ uppādayati vadhena vā bandhanena vā jāniyā vā garahāya vā pabbājanāya vā balavamhi balattho itipi tadapi kusalaṁ. ",
+            "de": "Wenn ein liebevoller Mensch, nicht von Hass überwältigt, niemandem in dem Gedanken: ‚ich bin mächtig, ich will Macht‘ <span class=\"ebt-matched\">unverdientes Leid zufügt</span> – durch Hinrichtung, Haft, Beschlagnahmung, Schuldspruch oder Verbannung – so ist auch das tauglich. ",
+            "en": "When a loving person, not overcome by hate, doesn’t cause another to suffer under a false pretext—by execution or imprisonment or confiscation or condemnation or banishment—thinking ‘I’m powerful, I want power’, that too is skillful. ",
+            "matched": true
+          },
+          "an3.69:12.3": {
+            "scid": "an3.69:12.3",
+            "pli": "yadapi amūḷho mohena anabhibhūto apariyādinnacitto na parassa asatā dukkhaṁ uppādayati vadhena vā bandhanena vā jāniyā vā garahāya vā pabbājanāya vā balavamhi balattho itipi tadapi kusalaṁ. ",
+            "de": "Wenn ein verstehender Mensch, nicht von Täuschung überwältigt, niemandem in dem Gedanken: ‚ich bin mächtig, ich will Macht‘ <span class=\"ebt-matched\">unverdientes Leid zufügt</span> – durch Hinrichtung, Haft, Beschlagnahmung, Schuldspruch oder Verbannung – so ist auch das tauglich. ",
+            "en": "When an understanding person, not overcome by delusion, doesn’t cause another to suffer under a false pretext—by execution or imprisonment or confiscation or condemnation or banishment—thinking ‘I’m powerful, I want power’, that too is skillful. ",
+            "matched": true
+          }
+        },
+        "score": 6.076,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n69. Wurzeln des Untauglichen",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 79,
+          "de": 78,
+          "en": 78
+        }
+      }
+    ]
+  }
+}

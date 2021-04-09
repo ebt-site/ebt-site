@@ -1,0 +1,136 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "einäugige schildkröte",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "einäugige schildkröte",
+    "method": "phrase",
+    "resultPattern": "\\beinäugige schildkröte",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn56/sn56.47_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn56/sn56.47_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.47_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.48_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn56/sn56.48_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.48_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn56.47/de/sabbamitta",
+      "sn56.48/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.47_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn56/sn56.47_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.47_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.47",
+        "lang": "de",
+        "segMap": {
+          "sn56.47:1.1": {
+            "scid": "sn56.47:1.1",
+            "pli": "“Seyyathāpi, bhikkhave, puriso mahāsamudde ekacchiggaḷaṁ yugaṁ pakkhipeyya. Tatrāpissa kāṇo kacchapo. So vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjeyya. ",
+            "de": "„Mönche und Nonnen, wie wenn jemand ein Joch mit einer einzigen Öffnung ins Meer werfen würde, und da wäre eine <span class=\"ebt-matched\">einäugige Schildkröte</span>, die alle hundert Jahre einmal auftaucht. ",
+            "en": "“Mendicants, suppose a person was to throw a yoke with a single hole into the ocean. And there was a one-eyed turtle who popped up once every hundred years. ",
+            "matched": true
+          },
+          "sn56.47:1.3": {
+            "scid": "sn56.47:1.3",
+            "pli": "api nu kho kāṇo kacchapo vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjanto amusmiṁ ekacchiggaḷe yuge gīvaṁ paveseyyā”ti? ",
+            "de": "Würde diese <span class=\"ebt-matched\">einäugige Schildkröte</span>, die alle hundert Jahre einmal auftaucht, ihren Hals dennoch durch die Öffnung in dem Joch stecken?“ ",
+            "en": "Would that one-eyed turtle, popping up once every hundred years, still poke its neck through the hole in that yoke?” ",
+            "matched": true
+          },
+          "sn56.47:2.1": {
+            "scid": "sn56.47:2.1",
+            "pli": "“Khippataraṁ kho so, bhikkhave, kāṇo kacchapo vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjanto amusmiṁ ekacchiggaḷe yuge gīvaṁ paveseyya, na tvevāhaṁ, bhikkhave, sakiṁ vinipātagatena bālena manussattaṁ vadāmi. ",
+            "de": "„Diese <span class=\"ebt-matched\">einäugige Schildkröte</span> würde ihren Hals eher durch die Öffnung in diesem Joch stecken als ein Tor, der in die Unterwelt gefallen ist, als Mensch wiedergeboren werden könnte, sage ich. ",
+            "en": "“That one-eyed turtle would poke its neck through the hole in that yoke sooner than a fool who has fallen to the underworld would be reborn as a human being, I say. ",
+            "matched": true
+          }
+        },
+        "score": 3.176,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 56\n5. Eine Klippe\n47. Ein Joch mit einer Öffnung (1)",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 17,
+          "de": 16,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.48_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn56/sn56.48_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.48_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.48",
+        "lang": "de",
+        "segMap": {
+          "sn56.48:1.4": {
+            "scid": "sn56.48:1.4",
+            "pli": "Tatrassa kāṇo kacchapo. So vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjeyya. ",
+            "de": "Und da wäre eine <span class=\"ebt-matched\">einäugige Schildkröte</span>, die alle hundert Jahre einmal auftaucht. ",
+            "en": "And there was a one-eyed turtle who popped up once every hundred years. ",
+            "matched": true
+          },
+          "sn56.48:1.6": {
+            "scid": "sn56.48:1.6",
+            "pli": "api nu kho kāṇo kacchapo vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjanto amusmiṁ ekacchiggaḷe yuge gīvaṁ paveseyyā”ti? ",
+            "de": "Würde diese <span class=\"ebt-matched\">einäugige Schildkröte</span>, die alle hundert Jahre einmal auftaucht, ihren Hals dennoch durch die Öffnung in dem Joch stecken?“ ",
+            "en": "Would that one-eyed turtle, popping up once every hundred years, still poke its neck through the hole in that yoke?” ",
+            "matched": true
+          }
+        },
+        "score": 2.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 56\n5. Eine Klippe\n48. Ein Joch mit einer Öffnung (2)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 16,
+          "de": 15,
+          "en": 15
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "a householder does enough",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "a householder does enough",
+    "method": "phrase",
+    "resultPattern": "\\ba householder does enough",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn31_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn31_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn31/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn31_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn31_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn31",
+        "lang": "en",
+        "segMap": {
+          "dn31:26.16": {
+            "scid": "dn31:26.16",
+            "pli": "alamatto kule gihī; ",
+            "en": "<span class=\"ebt-matched\">a householder does enough</span> for their family. ",
+            "matched": true
+          },
+          "dn31:34.8": {
+            "scid": "dn31:34.8",
+            "pli": "alamatto kule gihī. ",
+            "en": "<span class=\"ebt-matched\">a householder does enough</span> for their family. ",
+            "matched": true
+          }
+        },
+        "score": 2.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 31\nAdvice to Sigālaka",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 267,
+          "en": 266
+        }
+      }
+    ]
+  }
+}

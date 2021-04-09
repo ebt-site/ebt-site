@@ -1,0 +1,603 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "kraft des vertrauens",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "kraft des vertrauens",
+    "method": "phrase",
+    "resultPattern": "\\bkraft des vertrauens",
+    "segsMatched": 22,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.2_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.2_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.14_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.14_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.394-574_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.15_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.15_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.15_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.152_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.152_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.152_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.4_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.4_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.308-1152_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.308-1152_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.308-1152_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.307_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.307_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.307_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.1_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.1_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.16_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.16_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.16_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.13_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.13_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.12_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.12_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.11_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.11_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.156-162_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.156-162_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.156-162_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.2/de/sabbamitta",
+      "an5.14/de/sabbamitta",
+      "an1.394-574/de/sabbamitta",
+      "an5.15/de/sabbamitta",
+      "an4.152/de/sabbamitta",
+      "an6.4/de/sabbamitta",
+      "an5.308-1152/de/sabbamitta",
+      "an5.307/de/sabbamitta",
+      "an5.1/de/sabbamitta",
+      "an5.16/de/sabbamitta",
+      "an5.13/de/sabbamitta",
+      "an5.12/de/sabbamitta",
+      "an5.11/de/sabbamitta",
+      "an3.156-162/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.2_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.2_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.2",
+        "lang": "de",
+        "segMap": {
+          "an5.2:1.3": {
+            "scid": "an5.2:1.3",
+            "pli": "Saddhābalaṁ, hirībalaṁ, ottappabalaṁ, vīriyabalaṁ, paññābalaṁ. ",
+            "de": "Die <span class=\"ebt-matched\">Kraft des Vertrauens</span>, des Gewissens, der Zurückhaltung, der Energie und der Weisheit. ",
+            "en": "The powers of faith, conscience, prudence, energy, and wisdom. ",
+            "matched": true
+          },
+          "an5.2:2.1": {
+            "scid": "an5.2:2.1",
+            "pli": "Katamañca, bhikkhave, saddhābalaṁ? ",
+            "de": "Und was ist die <span class=\"ebt-matched\">Kraft des Vertrauens</span>? ",
+            "en": "And what is the power of faith? ",
+            "matched": true
+          },
+          "an5.2:2.4": {
+            "scid": "an5.2:2.4",
+            "pli": "Idaṁ vuccati, bhikkhave, saddhābalaṁ. ",
+            "de": "Das nennt man die <span class=\"ebt-matched\">Kraft des Vertrauens</span>. ",
+            "en": "This is called the power of faith. ",
+            "matched": true
+          }
+        },
+        "score": 3.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n1. Kräfte eines Übenden\n2. Ausführlich",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 27,
+          "de": 26,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.14_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.14_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.14_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.14",
+        "lang": "de",
+        "segMap": {
+          "an5.14:1.3": {
+            "scid": "an5.14:1.3",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ. ",
+            "de": "Die <span class=\"ebt-matched\">Kraft des Vertrauens</span>, der Energie, der Achtsamkeit, der Versenkung und der Weisheit. ",
+            "en": "The powers of faith, energy, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          },
+          "an5.14:2.1": {
+            "scid": "an5.14:2.1",
+            "pli": "Katamañca, bhikkhave, saddhābalaṁ? ",
+            "de": "Und was ist die <span class=\"ebt-matched\">Kraft des Vertrauens</span>? ",
+            "en": "And what is the power of faith? ",
+            "matched": true
+          },
+          "an5.14:2.4": {
+            "scid": "an5.14:2.4",
+            "pli": "Idaṁ vuccati, bhikkhave, saddhābalaṁ. ",
+            "de": "Das nennt man die <span class=\"ebt-matched\">Kraft des Vertrauens</span>. ",
+            "en": "This is called the power of faith. ",
+            "matched": true
+          }
+        },
+        "score": 3.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n2. Kräfte\n14. Ausführlich",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 27,
+          "de": 26,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an1/an1.394-574_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.394-574",
+        "lang": "de",
+        "segMap": {
+          "an1.419:1.1": {
+            "scid": "an1.419:1.1",
+            "pli": "Saddhābalaṁ bhāveti …",
+            "de": "Wenn eine Nonne die <span class=\"ebt-matched\">Kraft des Vertrauens</span> entwickelt … ",
+            "en": "If they develop the power of faith … ",
+            "matched": true
+          },
+          "an1.500:1.1": {
+            "scid": "an1.500:1.1",
+            "pli": "saddhābalaṁ bhāveti … ",
+            "de": "die <span class=\"ebt-matched\">Kraft des Vertrauens</span> … ",
+            "en": "the power of faith … ",
+            "matched": true
+          },
+          "an1.570:1.1": {
+            "scid": "an1.570:1.1",
+            "pli": "saddhābalaṁ bhāveti … ",
+            "de": "die <span class=\"ebt-matched\">Kraft des Vertrauens</span> … ",
+            "en": "the power of faith … ",
+            "matched": true
+          }
+        },
+        "score": 3.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 1\n29. Noch ein Kapitel über ein Fingerschnippen\n394–574",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 176,
+          "de": 175,
+          "en": 175
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.152_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.152_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.152_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.152",
+        "lang": "de",
+        "segMap": {
+          "an4.152:0.3": {
+            "scid": "an4.152:0.3",
+            "pli": "152. Saddhābalasutta ",
+            "de": "152. Die <span class=\"ebt-matched\">Kraft des Vertrauens</span> ",
+            "en": "152. The Power of Faith ",
+            "matched": true
+          },
+          "an4.152:1.3": {
+            "scid": "an4.152:1.3",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ—",
+            "de": "Die <span class=\"ebt-matched\">Kraft des Vertrauens</span>, der Energie, der Achtsamkeit und der Versenkung. ",
+            "en": "The powers of faith, energy, mindfulness, and immersion. ",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n16. Fähigkeiten\n152. Die Kraft des Vertrauens",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.15_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.15_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.15_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.15",
+        "lang": "de",
+        "segMap": {
+          "an5.15:1.3": {
+            "scid": "an5.15:1.3",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ. ",
+            "de": "Die <span class=\"ebt-matched\">Kraft des Vertrauens</span>, der Energie, der Achtsamkeit, der Versenkung und der Weisheit. ",
+            "en": "The powers of faith, energy, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          },
+          "an5.15:1.4": {
+            "scid": "an5.15:1.4",
+            "pli": "Kattha ca, bhikkhave, saddhābalaṁ daṭṭhabbaṁ? ",
+            "de": "Und woran ist die <span class=\"ebt-matched\">Kraft des Vertrauens</span> zu erkennen? ",
+            "en": "And where should the power of faith be seen? ",
+            "matched": true
+          }
+        },
+        "score": 2.087,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n2. Kräfte\n15. Zu erkennen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 23,
+          "de": 22,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.307_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.307_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.307_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.307",
+        "lang": "de",
+        "segMap": {
+          "an5.307:1.3": {
+            "scid": "an5.307:1.3",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ—",
+            "de": "Die <span class=\"ebt-matched\">Kraft des Vertrauens</span>, der Energie, der Achtsamkeit, der Versenkung und der Weisheit. ",
+            "en": "The powers of faith, energy, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 1.143,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n29. Abgekürzte Texte, die mit Gier beginnen\n307",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 7,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.13_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.13_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.13",
+        "lang": "de",
+        "segMap": {
+          "an5.13:1.3": {
+            "scid": "an5.13:1.3",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ—",
+            "de": "Die <span class=\"ebt-matched\">Kraft des Vertrauens</span>, der Energie, der Achtsamkeit, der Versenkung und der Weisheit. ",
+            "en": "The powers of faith, energy, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n2. Kräfte\n13. Kurz",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.4_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.4_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.4",
+        "lang": "de",
+        "segMap": {
+          "an6.4:1.3": {
+            "scid": "an6.4:1.3",
+            "pli": "Saddhābalena, vīriyabalena, satibalena, samādhibalena, paññābalena, āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati. ",
+            "de": "Die <span class=\"ebt-matched\">Kraft des Vertrauens</span>, der Energie, der Achtsamkeit, der Versenkung und der Weisheit. Und sie löst die Befleckungen auf und erlangt in diesem Leben die fleckenlose Freiheit des Herzens, die fleckenlose Freiheit durch Weisheit, erkennt sie durch eigene Einsicht und lebt darin. ",
+            "en": "The powers of faith, energy, mindfulness, immersion, and wisdom. And they realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements. ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n1. Einer Gabe würdig\n4. Kräfte",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.11_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.11_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.11",
+        "lang": "de",
+        "segMap": {
+          "an5.11:1.4": {
+            "scid": "an5.11:1.4",
+            "pli": "Saddhābalaṁ, hirībalaṁ, ottappabalaṁ, vīriyabalaṁ, paññābalaṁ—",
+            "de": "Die <span class=\"ebt-matched\">Kraft des Vertrauens</span>, des Gewissens, der Zurückhaltung, der Energie und der Weisheit. ",
+            "en": "The powers of faith, conscience, prudence, energy, and wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 1.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n2. Kräfte\n11. Von niemand anderem gehört",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 9,
+          "de": 8,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.16_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.16_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.16_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.16",
+        "lang": "de",
+        "segMap": {
+          "an5.16:1.3": {
+            "scid": "an5.16:1.3",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ—",
+            "de": "Die <span class=\"ebt-matched\">Kraft des Vertrauens</span>, der Energie, der Achtsamkeit, der Versenkung und der Weisheit. ",
+            "en": "The powers of faith, energy, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 1.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n2. Kräfte\n16. Noch einmal der First",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 11,
+          "de": 10,
+          "en": 10
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.12_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.12_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.12",
+        "lang": "de",
+        "segMap": {
+          "an5.12:1.3": {
+            "scid": "an5.12:1.3",
+            "pli": "Saddhābalaṁ, hirībalaṁ, ottappabalaṁ, vīriyabalaṁ, paññābalaṁ—",
+            "de": "Die <span class=\"ebt-matched\">Kraft des Vertrauens</span>, des Gewissens, der Zurückhaltung, der Energie und der Weisheit. ",
+            "en": "The powers of faith, conscience, prudence, energy, and wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n2. Kräfte\n12. First",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "de": 13,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.1_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.1_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.1",
+        "lang": "de",
+        "segMap": {
+          "an5.1:2.3": {
+            "scid": "an5.1:2.3",
+            "pli": "Saddhābalaṁ, hirībalaṁ, ottappabalaṁ, vīriyabalaṁ, paññābalaṁ—",
+            "de": "Die <span class=\"ebt-matched\">Kraft des Vertrauens</span>, des Gewissens, der Zurückhaltung, der Energie und der Weisheit. ",
+            "en": "The powers of faith, conscience, prudence, energy, and wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n1. Kräfte eines Übenden\n1. Kurz",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "de": 18,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.308-1152_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.308-1152_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.308-1152_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.308-1152",
+        "lang": "de",
+        "segMap": {
+          "an5.308-1152:2.2": {
+            "scid": "an5.308-1152:2.2",
+            "pli": "Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ—",
+            "de": "Die <span class=\"ebt-matched\">Kraft des Vertrauens</span>, der Energie, der Achtsamkeit, der Versenkung und der Weisheit. ",
+            "en": "The powers of faith, energy, mindfulness, immersion, and wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 1.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n29. Abgekürzte Texte, die mit Gier beginnen\n308–1152",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 29,
+          "de": 9,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.156-162_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.156-162_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.156-162_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.156-162",
+        "lang": "de",
+        "segMap": {
+          "an3.160:1.1": {
+            "scid": "an3.160:1.1",
+            "pli": "Saddhābalaṁ bhāveti … ",
+            "de": "Man entwickelt die <span class=\"ebt-matched\">Kraft des Vertrauens</span> … ",
+            "en": "They develop the power of faith … ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n16. Nackt\n156–162",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 82,
+          "de": 80,
+          "en": 80
+        }
+      }
+    ]
+  }
+}

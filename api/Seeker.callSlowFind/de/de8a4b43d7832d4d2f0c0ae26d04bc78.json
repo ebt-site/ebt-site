@@ -1,0 +1,150 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "to endure",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "to endure",
+    "method": "phrase",
+    "resultPattern": "\\bto endure",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an7/an7.36_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.36_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.49_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.49_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn1/sn1.17_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn1/sn1.17_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an7.36/en/sujato",
+      "an3.49/en/sujato",
+      "sn1.17/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.49_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.49_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.49",
+        "lang": "en",
+        "segMap": {
+          "an3.49:1.3": {
+            "scid": "an3.49:1.3",
+            "pli": "Anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya ātappaṁ karaṇīyaṁ, anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya ātappaṁ karaṇīyaṁ, uppannānaṁ sārīrikānaṁ vedanānaṁ dukkhānaṁ tibbānaṁ kharānaṁ kaṭukānaṁ asātānaṁ amanāpānaṁ pāṇaharānaṁ adhivāsanāya ātappaṁ karaṇīyaṁ. ",
+            "en": "You should be keen to prevent bad, unskillful qualities from arising. You should be keen to give rise to skillful qualities. And you should be keen <span class=\"ebt-matched\">to endure</span> physical pain—sharp, severe, acute, unpleasant, disagreeable, life-threatening. ",
+            "matched": true
+          },
+          "an3.49:2.1": {
+            "scid": "an3.49:2.1",
+            "pli": "Yato kho, bhikkhave, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya ātappaṁ karoti, anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya ātappaṁ karoti, uppannānaṁ sārīrikānaṁ vedanānaṁ dukkhānaṁ tibbānaṁ kharānaṁ kaṭukānaṁ asātānaṁ amanāpānaṁ pāṇaharānaṁ adhivāsanāya ātappaṁ karoti. ",
+            "en": "It’s a mendicant who is keen to prevent bad, unskillful qualities from arising. They’re keen to give rise to skillful qualities. And they’re keen <span class=\"ebt-matched\">to endure</span> physical pain—sharp, severe, acute, unpleasant, disagreeable, life-threatening. ",
+            "matched": true
+          }
+        },
+        "score": 2.2,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n5. The Lesser Chapter\n49. Keen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 10,
+          "en": 9
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.36_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.36_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.36",
+        "lang": "en",
+        "segMap": {
+          "an7.36:1.3": {
+            "scid": "an7.36:1.3",
+            "pli": "Duddadaṁ dadāti, dukkaraṁ karoti, dukkhamaṁ khamati, guyhamassa āvi karoti, guyhamassa pariguhati, āpadāsu na jahati, khīṇena nātimaññati. ",
+            "en": "They give what is hard to give. They do what is hard to do. They endure what is hard <span class=\"ebt-matched\">to endure</span>. They reveal their secrets to you. They keep your secrets. They don’t abandon you in times of trouble. They don’t look down on you in times of loss. ",
+            "matched": true
+          },
+          "an7.36:2.4": {
+            "scid": "an7.36:2.4",
+            "pli": "khamati dukkhamāni ca. ",
+            "en": "and with things hard <span class=\"ebt-matched\">to endure</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.1,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n4. Deities\n36. A Friend (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 20,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn1/sn1.17_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn1/sn1.17_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn1.17",
+        "lang": "en",
+        "segMap": {
+          "sn1.17:1.1": {
+            "scid": "sn1.17:1.1",
+            "pli": "“Dukkaraṁ duttitikkhañca, ",
+            "en": "“Hard to do, hard <span class=\"ebt-matched\">to endure</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 1\n2. The Garden of Delight\n17. Hard to Do",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 15,
+          "en": 15
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "läuterung der ansicht",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "läuterung der ansicht",
+    "method": "phrase",
+    "resultPattern": "\\bläuterung der ansicht",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.163-179_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.163-179_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.163-179_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn33/de/sabbamitta",
+      "an2.163-179/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.163-179_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.163-179_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.163-179_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.163-179",
+        "lang": "de",
+        "segMap": {
+          "an2.175:1.3": {
+            "scid": "an2.175:1.3",
+            "pli": "Sīlavisuddhi ca diṭṭhivisuddhi ca. ",
+            "de": "Läuterung des sittlichen Verhaltens und <span class=\"ebt-matched\">Läuterung der Ansicht</span>. ",
+            "en": "Purification of ethics and purification of view. ",
+            "matched": true
+          },
+          "an2.176:1.3": {
+            "scid": "an2.176:1.3",
+            "pli": "Diṭṭhivisuddhi ca yathādiṭṭhissa ca padhānaṁ. ",
+            "de": "<span class=\"ebt-matched\">Läuterung der Ansicht</span> und Bemühen im Einklang mit dieser Ansicht. ",
+            "en": "Purification of view and making an effort in line with that view. ",
+            "matched": true
+          }
+        },
+        "score": 2.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n15. Errungenschaft\n163–179",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 90,
+          "de": 89,
+          "en": 89
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.9.31": {
+            "scid": "dn33:1.9.31",
+            "pli": "Sīlavisuddhi ca diṭṭhivisuddhi ca. ",
+            "de": "Läuterung des sittlichen Verhaltens und <span class=\"ebt-matched\">Läuterung der Ansicht</span>. ",
+            "en": "Purification of ethics and purification of view. ",
+            "matched": true
+          },
+          "dn33:1.9.32": {
+            "scid": "dn33:1.9.32",
+            "pli": "Diṭṭhivisuddhi kho pana yathā diṭṭhissa ca padhānaṁ. ",
+            "de": "<span class=\"ebt-matched\">Läuterung der Ansicht</span> und Bemühen im Einklang mit dieser Ansicht. ",
+            "en": "Purification of view and making an effort in line with that view. ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

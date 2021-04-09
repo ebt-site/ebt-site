@@ -1,0 +1,650 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "the three times",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "the three times",
+    "method": "phrase",
+    "resultPattern": "\\bthe three times",
+    "segsMatched": 19,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.219-221_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.219-221_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.216-218_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.216-218_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.213-215_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.213-215_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.210-212_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.210-212_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.207-209_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.207-209_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.201-203_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.201-203_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.198-200_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.198-200_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.195-197_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.195-197_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.192-194_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.192-194_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.189-191_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.189-191_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.10_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.10_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.9/en/sujato",
+      "sn35.8/en/sujato",
+      "sn35.7/en/sujato",
+      "sn35.219-221/en/sujato",
+      "sn35.216-218/en/sujato",
+      "sn35.213-215/en/sujato",
+      "sn35.210-212/en/sujato",
+      "sn35.207-209/en/sujato",
+      "sn35.201-203/en/sujato",
+      "sn35.198-200/en/sujato",
+      "sn35.195-197/en/sujato",
+      "sn35.192-194/en/sujato",
+      "sn35.189-191/en/sujato",
+      "sn35.12/en/sujato",
+      "sn35.11/en/sujato",
+      "sn35.10/en/sujato",
+      "sn22.9/en/sujato",
+      "sn22.11/en/sujato",
+      "sn22.10/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.189-191_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.189-191_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.189-191",
+        "lang": "en",
+        "segMap": {
+          "sn35.189-191:0.3": {
+            "scid": "sn35.189-191:0.3",
+            "pli": "189–191. Ajjhattātītādidukkhasutta ",
+            "en": "189–191. The Interior as Suffering in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n17. Sixty Abbreviated Texts\n189–191. The Interior as Suffering in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 6,
+          "en": 5
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.192-194_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.192-194_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.192-194",
+        "lang": "en",
+        "segMap": {
+          "sn35.192-194:0.3": {
+            "scid": "sn35.192-194:0.3",
+            "pli": "192–194. Ajjhattātītādianattasutta ",
+            "en": "192–194. The Interior as Not-Self in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n17. Sixty Abbreviated Texts\n192–194. The Interior as Not-Self in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 6,
+          "en": 5
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.195-197_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.195-197_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.195-197",
+        "lang": "en",
+        "segMap": {
+          "sn35.195-197:0.3": {
+            "scid": "sn35.195-197:0.3",
+            "pli": "195–197. Bāhirātītādianiccasutta ",
+            "en": "195–197. The Exterior as Impermanent in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n17. Sixty Abbreviated Texts\n195–197. The Exterior as Impermanent in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 6,
+          "en": 5
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.198-200_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.198-200_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.198-200",
+        "lang": "en",
+        "segMap": {
+          "sn35.198-200:0.3": {
+            "scid": "sn35.198-200:0.3",
+            "pli": "198–200. Bāhirātītādidukkhasutta ",
+            "en": "198–200. The Exterior as Suffering in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n17. Sixty Abbreviated Texts\n198–200. The Exterior as Suffering in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 6,
+          "en": 5
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.201-203_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.201-203_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.201-203",
+        "lang": "en",
+        "segMap": {
+          "sn35.201-203:0.3": {
+            "scid": "sn35.201-203:0.3",
+            "pli": "201–203. Bāhirātītādianattasutta ",
+            "en": "201–203. The Exterior as Not-Self in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n17. Sixty Abbreviated Texts\n201–203. The Exterior as Not-Self in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 6,
+          "en": 5
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.11",
+        "lang": "en",
+        "segMap": {
+          "sn35.11:0.3": {
+            "scid": "sn35.11:0.3",
+            "pli": "11. Bāhiradukkhātītānāgatasutta ",
+            "en": "11. The Exterior as Suffering in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n1. Impermanence\n11. The Exterior as Suffering in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.210-212_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.210-212_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.210-212",
+        "lang": "en",
+        "segMap": {
+          "sn35.210-212:0.3": {
+            "scid": "sn35.210-212:0.3",
+            "pli": "210–212. Ajjhattātītādiyadanattasutta ",
+            "en": "210–212. The Interior and What’s Not-Self in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.1,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n17. Sixty Abbreviated Texts\n210–212. The Interior and What’s Not-Self in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 10,
+          "en": 9
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.207-209_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.207-209_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.207-209",
+        "lang": "en",
+        "segMap": {
+          "sn35.207-209:0.3": {
+            "scid": "sn35.207-209:0.3",
+            "pli": "207–209. Ajjhattātītādiyaṁdukkhasutta ",
+            "en": "207–209. The Interior and What’s Suffering in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n17. Sixty Abbreviated Texts\n207–209. The Interior and What’s Suffering in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.219-221_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.219-221_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.219-221",
+        "lang": "en",
+        "segMap": {
+          "sn35.219-221:0.3": {
+            "scid": "sn35.219-221:0.3",
+            "pli": "219–221. Bāhirātītādiyadanattasutta ",
+            "en": "219–221. The Exterior and What’s Not-Self in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n17. Sixty Abbreviated Texts\n219–221. The Exterior and What’s Not-Self in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 13,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.216-218_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.216-218_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.216-218",
+        "lang": "en",
+        "segMap": {
+          "sn35.216-218:0.3": {
+            "scid": "sn35.216-218:0.3",
+            "pli": "216–218. Bāhirātītādiyaṁdukkhasutta ",
+            "en": "216–218. The Exterior and What’s Suffering in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n17. Sixty Abbreviated Texts\n216–218. The Exterior and What’s Suffering in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.213-215_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.213-215_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.213-215",
+        "lang": "en",
+        "segMap": {
+          "sn35.213-215:0.3": {
+            "scid": "sn35.213-215:0.3",
+            "pli": "213–215. Bāhirātītādiyadaniccasutta ",
+            "en": "213–215. The Exterior and What’s Impermanent in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n17. Sixty Abbreviated Texts\n213–215. The Exterior and What’s Impermanent in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.10",
+        "lang": "en",
+        "segMap": {
+          "sn22.10:0.3": {
+            "scid": "sn22.10:0.3",
+            "pli": "10. Kālattayadukkhasutta ",
+            "en": "10. Suffering in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n1. Nakula’s Father\n10. Suffering in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.10",
+        "lang": "en",
+        "segMap": {
+          "sn35.10:0.3": {
+            "scid": "sn35.10:0.3",
+            "pli": "10. Bāhirāniccātītānāgatasutta ",
+            "en": "10. The Exterior as Impermanent in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n1. Impermanence\n10. The Exterior as Impermanent in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.9",
+        "lang": "en",
+        "segMap": {
+          "sn22.9:0.3": {
+            "scid": "sn22.9:0.3",
+            "pli": "9. Kālattayaaniccasutta ",
+            "en": "9. Impermanence in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n1. Nakula’s Father\n9. Impermanence in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.7",
+        "lang": "en",
+        "segMap": {
+          "sn35.7:0.3": {
+            "scid": "sn35.7:0.3",
+            "pli": "7. Ajjhattāniccātītānāgatasutta ",
+            "en": "7. The Interior as Impermanent in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n1. Impermanence\n7. The Interior as Impermanent in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.8",
+        "lang": "en",
+        "segMap": {
+          "sn35.8:0.3": {
+            "scid": "sn35.8:0.3",
+            "pli": "8. Ajjhattadukkhātītānāgatasutta ",
+            "en": "8. The Interior as Suffering in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n1. Impermanence\n8. The Interior as Suffering in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.9",
+        "lang": "en",
+        "segMap": {
+          "sn35.9:0.3": {
+            "scid": "sn35.9:0.3",
+            "pli": "9. Ajjhattānattātītānāgatasutta ",
+            "en": "9. The Interior as Not-Self in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n1. Impermanence\n9. The Interior as Not-Self in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.12",
+        "lang": "en",
+        "segMap": {
+          "sn35.12:0.3": {
+            "scid": "sn35.12:0.3",
+            "pli": "12. Bāhirānattātītānāgatasutta ",
+            "en": "12. The Exterior as Not-Self in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n1. Impermanence\n12. The Exterior as Not-Self in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.11",
+        "lang": "en",
+        "segMap": {
+          "sn22.11:0.3": {
+            "scid": "sn22.11:0.3",
+            "pli": "11. Kālattayaanattasutta ",
+            "en": "11. Not-Self in <span class=\"ebt-matched\">the Three Times</span> ",
+            "matched": true
+          }
+        },
+        "score": 1.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n1. Nakula’s Father\n11. Not-Self in the Three Times",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 26,
+          "en": 24
+        }
+      }
+    ]
+  }
+}

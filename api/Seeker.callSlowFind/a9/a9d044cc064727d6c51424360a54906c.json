@@ -1,0 +1,114 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "真の教えを下落させ消滅させ",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "真の教えを下落させ消滅させ",
+    "method": "phrase",
+    "resultPattern": "真の教えを下落させ消滅させ",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an1/an1.98-139_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an1/an1.98-139_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an1/an1.98-139_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an1.98-139/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.98-139_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an1/an1.98-139_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an1/an1.98-139_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.98-139",
+        "lang": "jpn",
+        "segMap": {
+          "an1.114:1.1": {
+            "scid": "an1.114:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa sammosāya antaradhānāya saṁvattati yathayidaṁ, bhikkhave, pamādo. ",
+            "en": "“Mendicants, I do not see a single thing that leads to the decline and disappearance of the true teaching like negligence. ",
+            "jpn": "「托鉢僧侶たちよ、怠慢さほど<span class=\"ebt-matched\">真の教えを下落させ消滅させ</span>る物は他には一つも見ません。 ",
+            "matched": true
+          },
+          "an1.114:1.2": {
+            "scid": "an1.114:1.2",
+            "pli": "Pamādo, bhikkhave, saddhammassa sammosāya antaradhānāya saṁvattatī”ti. ",
+            "en": "Negligence leads to the decline and disappearance of the true teaching.” ",
+            "jpn": "怠慢さは<span class=\"ebt-matched\">真の教えを下落させ消滅させ</span>ます。」 ",
+            "matched": true
+          },
+          "an1.116:1.1": {
+            "scid": "an1.116:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa sammosāya antaradhānāya saṁvattati yathayidaṁ, bhikkhave, kosajjaṁ. ",
+            "en": "“Mendicants, I do not see a single thing that leads to the decline and disappearance of the true teaching like laziness. ",
+            "jpn": "「托鉢僧侶たちよ、無精さほど<span class=\"ebt-matched\">真の教えを下落させ消滅させ</span>る物は他には一つも見ません。 ",
+            "matched": true
+          },
+          "an1.116:1.2": {
+            "scid": "an1.116:1.2",
+            "pli": "Kosajjaṁ, bhikkhave, saddhammassa sammosāya antaradhānāya saṁvattatī”ti. ",
+            "en": "Laziness leads to the decline and disappearance of the true teaching.” ",
+            "jpn": "無精さは<span class=\"ebt-matched\">真の教えを下落させ消滅させ</span>ます。」 ",
+            "matched": true
+          },
+          "an1.118-128:1.1": {
+            "scid": "an1.118-128:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa sammosāya antaradhānāya saṁvattati yathayidaṁ, bhikkhave, mahicchatā …pe… appicchatā … asantuṭṭhitā … santuṭṭhitā … ayonisomanasikāro … yonisomanasikāro … asampajaññaṁ … sampajaññaṁ … pāpamittatā … kalyāṇamittatā … anuyogo akusalānaṁ dhammānaṁ, ananuyogo kusalānaṁ dhammānaṁ. ",
+            "en": "“Mendicants, I do not see a single thing that leads to the decline and disappearance of the true teaching like having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness … bad friends … good friends … pursuing bad habits and not good habits. ",
+            "jpn": "「托鉢僧侶たちよ、願望が多い事ほど<span class=\"ebt-matched\">真の教えを下落させ消滅させ</span>る物は他には一つも見ません…　願望が少ない事…　不満足である事…　満足である事…　不適正な注意…　適正な注意…　状況認識力がない事…　状況認識力がある事…　悪い友達…　良い友達…　悪い習慣を続けて良い習慣を続けない事…」 ",
+            "matched": true
+          },
+          "an1.118-128:1.2": {
+            "scid": "an1.118-128:1.2",
+            "pli": "Anuyogo, bhikkhave, akusalānaṁ dhammānaṁ, ananuyogo kusalānaṁ dhammānaṁ saddhammassa sammosāya antaradhānāya saṁvattatī”ti. ",
+            "en": "Pursuing bad habits and not good habits leads to the decline and disappearance of the true teaching.” ",
+            "jpn": "悪い習慣を続けて良い習慣を続けない事は<span class=\"ebt-matched\">真の教えを下落させ消滅させ</span>ます。」 ",
+            "matched": true
+          }
+        },
+        "score": 6.079,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 一集\n第十　怠慢さ（第二）（第二放逸等品）\n98–139",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 76,
+          "en": 75,
+          "jpn": 75
+        }
+      }
+    ]
+  }
+}

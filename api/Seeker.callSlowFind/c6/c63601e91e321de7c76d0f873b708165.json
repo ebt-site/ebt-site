@@ -1,0 +1,618 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "annoyance, hate, and bitterness",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "annoyance, hate, and bitterness",
+    "method": "phrase",
+    "resultPattern": "\\bannoyance, hate, and bitterness",
+    "segsMatched": 31,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn65_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn65_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.157_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.157_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.197_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.197_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.64_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.64_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn36_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn36_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn135_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn135_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.67_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.67_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.27_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.27_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.25_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.25_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn79_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn79_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn15_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn15_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.14_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.10_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn65/en/sujato",
+      "an5.157/en/sujato",
+      "an4.197/en/sujato",
+      "an3.64/en/sujato",
+      "mn36/en/sujato",
+      "mn135/en/sujato",
+      "dn24/en/sujato",
+      "an3.67/en/sujato",
+      "an3.27/en/sujato",
+      "an3.25/en/sujato",
+      "mn79/en/sujato",
+      "mn15/en/sujato",
+      "dn30/en/sujato",
+      "an8.14/en/sujato",
+      "an8.10/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.157_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.157_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.157",
+        "lang": "en",
+        "segMap": {
+          "an5.157:2.2": {
+            "scid": "an5.157:2.2",
+            "pli": "Assaddho, bhikkhave, saddhākathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "When an unfaithful person is spoken to about faith they lose their temper, becoming annoyed, hostile, and hard-hearted, and displaying <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          },
+          "an5.157:6.2": {
+            "scid": "an5.157:6.2",
+            "pli": "Duppañño, bhikkhave, paññākathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "When a witless person is spoken to about wisdom they lose their temper, becoming annoyed, hostile, and hard-hearted, and displaying <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          },
+          "an5.157:8.2": {
+            "scid": "an5.157:8.2",
+            "pli": "Saddho, bhikkhave, saddhākathāya kacchamānāya nābhisajjati na kuppati na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "When a faithful person is spoken to about faith they don’t lose their temper, they don’t get annoyed, hostile, and hard-hearted, or display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          },
+          "an5.157:12.2": {
+            "scid": "an5.157:12.2",
+            "pli": "Paññavā, bhikkhave, paññākathāya kacchamānāya nābhisajjati na kuppati na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "When a wise person is spoken to about wisdom they don’t lose their temper, they don’t get annoyed, hostile, and hard-hearted, or display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 4.057,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n16. The True Teaching\n157. Inappropriate Talk",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 70,
+          "en": 69
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn65_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn65_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn65",
+        "lang": "en",
+        "segMap": {
+          "mn65:23.2": {
+            "scid": "mn65:23.2",
+            "pli": "So bhikkhūhi vuccamāno aññenaññaṁ paṭicarati, bahiddhā kathaṁ apanāmeti, kopañca dosañca appaccayañca pātukaroti, na sammā vattati, na lomaṁ pāteti, na netthāraṁ vattati, ‘yena saṅgho attamano hoti taṁ karomī’ti nāha. ",
+            "en": "When admonished by the monks, he dodges the issue, distracting the discussion with irrelevant points. He displays <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. He doesn’t proceed properly, he doesn’t fall in line, he doesn’t proceed to get past it, and he doesn’t say: ‘I’ll do what pleases the Saṅgha.’ ",
+            "matched": true
+          },
+          "mn65:23.5": {
+            "scid": "mn65:23.5",
+            "pli": "So bhikkhūhi vuccamāno aññenaññaṁ paṭicarati, bahiddhā kathaṁ apanāmeti, kopañca dosañca appaccayañca pātukaroti, na sammā vattati, na lomaṁ pāteti, na netthāraṁ vattati, “yena saṅgho attamano hoti taṁ karomī”ti nāha. ",
+            "en": "When admonished by the monks, he dodges the issue, distracting the discussion with irrelevant points. He displays <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. He doesn’t proceed properly, he doesn’t fall in line, he doesn’t proceed to get past it, and he doesn’t say: “I’ll do what pleases the Saṅgha.” ",
+            "matched": true
+          },
+          "mn65:24.2": {
+            "scid": "mn65:24.2",
+            "pli": "So bhikkhūhi vuccamāno nāññenaññaṁ paṭicarati, bahiddhā kathaṁ na apanāmeti, na kopañca dosañca appaccayañca pātukaroti, sammā vattati, lomaṁ pāteti, netthāraṁ vattati, ‘yena saṅgho attamano hoti taṁ karomī’ti āha. ",
+            "en": "When admonished by the monks, he doesn’t dodge the issue, distracting the discussion with irrelevant points. He doesn’t display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. He proceeds properly, he falls in line, he proceeds to get past it, and he says: ‘I’ll do what pleases the Saṅgha.’ ",
+            "matched": true
+          },
+          "mn65:24.5": {
+            "scid": "mn65:24.5",
+            "pli": "So bhikkhūhi vuccamāno nāññenaññaṁ paṭicarati, bahiddhā kathaṁ na apanāmeti, na kopañca dosañca appaccayañca pātukaroti, sammā vattati, lomaṁ pāteti, netthāraṁ vattati, “yena saṅgho attamano hoti taṁ karomī”ti āha. ",
+            "en": "When admonished by the monks, he doesn’t dodge the issue, distracting the discussion with irrelevant points. He doesn’t display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. He proceeds properly, he falls in line, he proceeds to get past it, and he says: ‘I’ll do what pleases the Saṅgha.’ ",
+            "matched": true
+          }
+        },
+        "score": 4.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 65\nWith Bhaddāli",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 211,
+          "en": 210
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.64_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.64_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.64",
+        "lang": "en",
+        "segMap": {
+          "an3.64:8.3": {
+            "scid": "an3.64:8.3",
+            "pli": "So vata mayā sādhukaṁ samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno aṭṭhānametaṁ anavakāso yaṁ so tiṇṇaṁ ṭhānānaṁ nāññataraṁ ṭhānaṁ nigaccheyya, aññena vā aññaṁ paṭicarissati, bahiddhā kathaṁ apanāmessati, kopañca dosañca appaccayañca pātukarissati, tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdissati, seyyathāpi sarabho paribbājako. ",
+            "en": "When grilled by me, they would, without a doubt, fall into one of these three categories. They’d dodge the issue, distracting the discussion with irrelevant points. They’d display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. Or they’d sit silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say, like Sarabha. ",
+            "matched": true
+          },
+          "an3.64:9.3": {
+            "scid": "an3.64:9.3",
+            "pli": "So vata mayā sādhukaṁ samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno aṭṭhānametaṁ anavakāso yaṁ so tiṇṇaṁ ṭhānānaṁ nāññataraṁ ṭhānaṁ nigaccheyya, aññena vā aññaṁ paṭicarissati, bahiddhā kathaṁ apanāmessati, kopañca dosañca appaccayañca pātukarissati, tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdissati, seyyathāpi sarabho paribbājako. ",
+            "en": "When grilled by me, they would, without a doubt, fall into one of these three categories. They’d dodge the issue, distracting the discussion with irrelevant points. They’d display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. Or they’d sit silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say, like Sarabha. ",
+            "matched": true
+          },
+          "an3.64:10.3": {
+            "scid": "an3.64:10.3",
+            "pli": "So vata mayā sādhukaṁ samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno aṭṭhānametaṁ anavakāso yaṁ so tiṇṇaṁ ṭhānānaṁ nāññataraṁ ṭhānaṁ nigaccheyya, aññena vā aññaṁ paṭicarissati, bahiddhā kathaṁ apanāmessati, kopañca dosañca appaccayañca pātukarissati, tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdissati, seyyathāpi sarabho paribbājako”ti. ",
+            "en": "When grilled by me, they would, without a doubt, fall into one of these three categories. They’d dodge the issue, distracting the discussion with irrelevant points. They’d display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. Or they’d sit silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say, like Sarabha.” ",
+            "matched": true
+          }
+        },
+        "score": 3.049,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n64. With Sarabha",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.197_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.197_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.197",
+        "lang": "en",
+        "segMap": {
+          "an4.197:6.2": {
+            "scid": "an4.197:6.2",
+            "pli": "Appampi vuttā samānā abhisajjati kuppati byāpajjati patitthīyati, kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "Even when criticized a little bit she loses her temper, becoming annoyed, hostile, and hard-hearted, and displaying <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          },
+          "an4.197:11.3": {
+            "scid": "an4.197:11.3",
+            "pli": "appampi vuttā samānā abhisajjiṁ kuppiṁ byāpajjiṁ patitthīyiṁ kopañca dosañca appaccayañca pātvākāsiṁ, ",
+            "en": "Even when lightly criticized I must have lost my temper, becoming annoyed, hostile, and hard-hearted, and displaying <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          },
+          "an4.197:13.4": {
+            "scid": "an4.197:13.4",
+            "pli": "bahumpi vuttā samānā nābhisajjissāmi na kuppissāmi na byāpajjissāmi na patitthīyissāmi, kopañca dosañca appaccayañca na pātukarissāmi; ",
+            "en": "Even when heavily criticized I won’t lose my temper, become annoyed, hostile, and hard-hearted, or display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 3.049,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n20. The Great Chapter\n197. Queen Mallikā",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.25_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.25",
+        "lang": "en",
+        "segMap": {
+          "an3.25:1.6": {
+            "scid": "an3.25:1.6",
+            "pli": "appampi vutto samāno abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "Even when lightly criticized they lose their temper, becoming annoyed, hostile, and hard-hearted, and they display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          },
+          "an3.25:1.9": {
+            "scid": "an3.25:1.9",
+            "pli": "appampi vutto samāno abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "Even when lightly criticized they lose their temper, becoming annoyed, hostile, and hard-hearted, and they display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.08,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n3. Persons\n25. Like Diamond",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 25,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.27_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.27",
+        "lang": "en",
+        "segMap": {
+          "an3.27:2.3": {
+            "scid": "an3.27:2.3",
+            "pli": "appampi vutto samāno abhisajjati kuppati byāpajjati patitthīyati, kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "Even when lightly criticized they lose their temper, becoming annoyed, hostile, and hard-hearted, and they display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          },
+          "an3.27:2.10": {
+            "scid": "an3.27:2.10",
+            "pli": "appampi vutto samāno abhisajjati kuppati byāpajjati patitthīyati, kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "Even when lightly criticized they lose their temper, becoming annoyed, hostile, and hard-hearted, and they display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.044,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n3. Persons\n27. Offensive",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 45,
+          "en": 44
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.67_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.67_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.67",
+        "lang": "en",
+        "segMap": {
+          "an3.67:4.2": {
+            "scid": "an3.67:4.2",
+            "pli": "Sacāyaṁ, bhikkhave, puggalo pañhaṁ puṭṭho samāno aññenaññaṁ paṭicarati, bahiddhā kathaṁ apanāmeti, kopañca dosañca appaccayañca pātukaroti, evaṁ santāyaṁ, bhikkhave, puggalo akaccho hoti. ",
+            "en": "When a person is asked a question, if they dodge the issue; distract the discussion with irrelevant points; or display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>, then that person is not competent to hold a discussion. ",
+            "matched": true
+          },
+          "an3.67:4.3": {
+            "scid": "an3.67:4.3",
+            "pli": "Sace panāyaṁ, bhikkhave, puggalo pañhaṁ puṭṭho samāno na aññenaññaṁ paṭicarati na bahiddhā kathaṁ apanāmeti, na kopañca dosañca appaccayañca pātukaroti, evaṁ santāyaṁ, bhikkhave, puggalo kaccho hoti. ",
+            "en": "When a person is asked a question, if they don’t dodge the issue; distract the discussion with irrelevant points; or display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>, then that person is competent to hold a discussion. ",
+            "matched": true
+          }
+        },
+        "score": 2.032,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n67. Topics of Discussion",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 62,
+          "en": 61
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn135_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn135_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn135",
+        "lang": "en",
+        "segMap": {
+          "mn135:9.2": {
+            "scid": "mn135:9.2",
+            "pli": "Appampi vutto samāno abhisajjati kuppati byāpajjati patiṭṭhīyati kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "Even when lightly criticized they lose their temper, becoming annoyed, hostile, and hard-hearted, and displaying <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          },
+          "mn135:10.2": {
+            "scid": "mn135:10.2",
+            "pli": "bahumpi vutto samāno nābhisajjati na kuppati na byāpajjati na patiṭṭhīyati na kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "Even when heavily criticized, they don’t lose their temper, become annoyed, hostile, and hard-hearted, or display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 135\nThe Shorter Analysis of Deeds",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 137,
+          "en": 136
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn36_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn36_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn36",
+        "lang": "en",
+        "segMap": {
+          "mn36:48.5": {
+            "scid": "mn36:48.5",
+            "pli": "Sopi mayā vādena vādaṁ samāraddho aññenaññaṁ paṭicari, bahiddhā kathaṁ apanāmesi, kopañca dosañca appaccayañca pātvākāsi. ",
+            "en": "He dodged the issue, distracting the discussion with irrelevant points, and displaying <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          },
+          "mn36:48.12": {
+            "scid": "mn36:48.12",
+            "pli": "Sopi mayā vādena vādaṁ samāraddho aññenaññaṁ paṭicari, bahiddhā kathaṁ apanāmesi, kopañca dosañca appaccayañca pātvākāsi. ",
+            "en": "They all dodged the issue, distracting the discussion with irrelevant points, and displaying <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 36\nThe Longer Discourse With Saccaka",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 360,
+          "en": 359
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn24",
+        "lang": "en",
+        "segMap": {
+          "dn24:1.12.3": {
+            "scid": "dn24:1.12.3",
+            "pli": "Asampāyanto kopañca dosañca appaccayañca pātvākāsi. ",
+            "en": "he displayed <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          },
+          "dn24:1.13.7": {
+            "scid": "dn24:1.13.7",
+            "pli": "Asampāyanto kopañca dosañca appaccayañca pātvākāsi. ",
+            "en": "he displayed <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 24\nAbout Pāṭikaputta\n1. On Sunakkhatta",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 581,
+          "en": 580
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.10",
+        "lang": "en",
+        "segMap": {
+          "an8.10:1.3": {
+            "scid": "an8.10:1.3",
+            "pli": "So bhikkhu bhikkhūhi āpattiyā codiyamāno aññenāññaṁ paṭicarati, bahiddhā kathaṁ apanāmeti, kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "The accused mendicant dodged the issue, distracted the discussion with irrelevant points, and displayed <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n1. Love\n10. Trash",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 86,
+          "en": 84
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.14_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.14_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.14",
+        "lang": "en",
+        "segMap": {
+          "an8.14:13.2": {
+            "scid": "an8.14:13.2",
+            "pli": "So bhikkhu bhikkhūhi āpattiyā codiyamāno aññenāññaṁ paṭicarati, bahiddhā kathaṁ apanāmeti, kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "But the accused mendicant dodges the issue, distracts the discussion with irrelevant points, and displays <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n2. The Great Chapter\n14. A Wild Colt",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 90,
+          "en": 89
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn79_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn79_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn79",
+        "lang": "en",
+        "segMap": {
+          "mn79:6.3": {
+            "scid": "mn79:6.3",
+            "pli": "So mayā pubbantaṁ ārabbha pañhaṁ puṭṭho samāno aññenaññaṁ paṭicari, bahiddhā kathaṁ apanāmesi, kopañca dosañca appaccayañca pātvākāsi. ",
+            "en": "When I asked them a question about the past, they dodged the issue, distracted the discussion with irrelevant points, and displayed <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 79\nThe Shorter Discourse With Sakuludāyī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 200,
+          "en": 199
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn15_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn15_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn15",
+        "lang": "en",
+        "segMap": {
+          "mn15:3.29": {
+            "scid": "mn15:3.29",
+            "pli": "Puna caparaṁ, āvuso, bhikkhu codito codakena aññenaññaṁ paṭicarati, bahiddhā kathaṁ apanāmeti, kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "When accused, they dodge the issue, distract the discussion with irrelevant points, and display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span> … ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 15\nMeasuring Up",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 263,
+          "en": 262
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn30",
+        "lang": "en",
+        "segMap": {
+          "dn30:1.28.3": {
+            "scid": "dn30:1.28.3",
+            "pli": "bahumpi vutto samāno nābhisajji na kuppi na byāpajji na patitthīyi, na kopañca dosañca appaccayañca pātvākāsi. ",
+            "en": "Even when heavily criticized he didn’t lose his temper, become annoyed, hostile, and hard-hearted, or display <span class=\"ebt-matched\">annoyance, hate, and bitterness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 30\nThe Marks of a Great Man",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 721,
+          "en": 720
+        }
+      }
+    ]
+  }
+}

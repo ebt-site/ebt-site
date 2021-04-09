@@ -1,0 +1,230 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "nicht zur last",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "nicht zur last",
+    "method": "phrase",
+    "resultPattern": "\\bnicht zur last",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an8/an8.53_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an8/an8.53_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an8/an8.53_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/kp/kp9_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/kp/kp9_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/kp/kp9_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.98_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.98_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.98_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.97_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.97_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.97_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.96_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.96_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.96_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an8.53/de/sabbamitta",
+      "kp9/de/sabbamitta",
+      "an5.98/de/sabbamitta",
+      "an5.97/de/sabbamitta",
+      "an5.96/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.53_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an8/an8.53_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an8/an8.53_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.53",
+        "lang": "de",
+        "segMap": {
+          "an8.53:2.10": {
+            "scid": "an8.53:2.10",
+            "pli": "dubbharatāya saṁvattanti, no subharatāyā’ti, ",
+            "de": "dazu, dass man eine Last ist anstatt <span class=\"ebt-matched\">nicht zur Last</span> zu fallen. ",
+            "en": "to being burdensome, not being unburdensome. ",
+            "matched": true
+          },
+          "an8.53:3.9": {
+            "scid": "an8.53:3.9",
+            "pli": "subharatāya saṁvattanti, no dubbharatāyā’ti, ",
+            "de": "dazu, dass man <span class=\"ebt-matched\">nicht zur Last</span> fällt anstatt eine Last zu sein. ",
+            "en": "to being unburdensome, not being burdensome. ",
+            "matched": true
+          }
+        },
+        "score": 2.069,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 8\n6. Gotamī\n53. Kurzer Rat für Gotamī",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 29,
+          "de": 28,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.96_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.96_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.96_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.96",
+        "lang": "de",
+        "segMap": {
+          "an5.96:1.3": {
+            "scid": "an5.96:1.3",
+            "pli": "Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu; ",
+            "de": "Da hat ein Mönch wenige Bedürfnisse und Pflichten, fällt <span class=\"ebt-matched\">nicht zur Last</span> und ist zufrieden mit dem Lebensnotwendigen. ",
+            "en": "It’s when a mendicant has few requirements and duties, and is unburdensome and contented with life’s necessities. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n10. Mit Kakudha\n96. Sich an das erinnern, was man gehört hat",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.98_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.98_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.98_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.98",
+        "lang": "de",
+        "segMap": {
+          "an5.98:1.3": {
+            "scid": "an5.98:1.3",
+            "pli": "Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu; ",
+            "de": "Da hat ein Mönch wenige Bedürfnisse und Pflichten, fällt <span class=\"ebt-matched\">nicht zur Last</span> und ist zufrieden mit dem Lebensnotwendigen. ",
+            "en": "It’s when a mendicant has few requirements and duties, and is unburdensome and contented with life’s necessities. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n10. Mit Kakudha\n98. In der Wildnis",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.97_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.97_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.97_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.97",
+        "lang": "de",
+        "segMap": {
+          "an5.97:1.3": {
+            "scid": "an5.97:1.3",
+            "pli": "Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu; ",
+            "de": "Da hat eine Nonne wenige Bedürfnisse und Pflichten, fällt <span class=\"ebt-matched\">nicht zur Last</span> und ist zufrieden mit dem Lebensnotwendigen. ",
+            "en": "It’s when a mendicant has few requirements and duties, and is unburdensome and contented with life’s necessities. ",
+            "matched": true
+          }
+        },
+        "score": 1.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n10. Mit Kakudha\n97. Gespräch",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 13,
+          "de": 12,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/kp/kp9_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/kp/kp9_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/kp/kp9_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "kp9",
+        "lang": "de",
+        "segMap": {
+          "kp9:2.1": {
+            "scid": "kp9:2.1",
+            "pli": "Santussako ca subharo ca,",
+            "de": "Zufrieden sollen sie sein und <span class=\"ebt-matched\">nicht zur Last</span> fallen, ",
+            "en": "content and unburdensome,",
+            "matched": true
+          }
+        },
+        "score": 1.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Kleinere Ausschnitte\nDie Lehrrede von der Liebe",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 44,
+          "de": 42,
+          "en": 42
+        }
+      }
+    ]
+  }
+}

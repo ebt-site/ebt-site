@@ -1,0 +1,528 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "when this exists, that is",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "when this exists, that is",
+    "method": "phrase",
+    "resultPattern": "\\bwhen this exists, that is",
+    "segsMatched": 16,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn79_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn79_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn55/sn55.28_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.28_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.62_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.62_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.61_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.61_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.50_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.50_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.49_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.49_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.41_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.41_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.37_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.37_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.22_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.22_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.21_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn115_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn115_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga1/ud1.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga1/ud1.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga1/ud1.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga1/ud1.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.92_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.92_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn79/en/sujato",
+      "sn55.28/en/sujato",
+      "sn12.62/en/sujato",
+      "sn12.61/en/sujato",
+      "sn12.50/en/sujato",
+      "sn12.49/en/sujato",
+      "sn12.41/en/sujato",
+      "sn12.37/en/sujato",
+      "sn12.22/en/sujato",
+      "sn12.21/en/sujato",
+      "mn38/en/sujato",
+      "mn115/en/sujato",
+      "ud1.3/en/sujato",
+      "ud1.1/en/sujato",
+      "an10.92/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn79_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn79_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn79",
+        "lang": "en",
+        "segMap": {
+          "mn79:7.7": {
+            "scid": "mn79:7.7",
+            "pli": "imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          },
+          "mn79:8.8": {
+            "scid": "mn79:8.8",
+            "pli": "imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
+            "en": "“<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          }
+        },
+        "score": 2.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 79\nThe Shorter Discourse With Sakuludāyī",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 200,
+          "en": 199
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.37_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.37_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.37",
+        "lang": "en",
+        "segMap": {
+          "sn12.37:2.2": {
+            "scid": "sn12.37:2.2",
+            "pli": "‘iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          }
+        },
+        "score": 1.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n4. Kaḷāra the Aristocrat\n37. Not Yours",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.21_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.21",
+        "lang": "en",
+        "segMap": {
+          "sn12.21:1.8": {
+            "scid": "sn12.21:1.8",
+            "pli": "Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati. ",
+            "en": "<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n3. The Ten Powers\n21. The Ten Powers",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga1/ud1.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga1/ud1.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud1.1",
+        "lang": "en",
+        "segMap": {
+          "ud1.1:2.1": {
+            "scid": "ud1.1:2.1",
+            "pli": "“Iti imasmiṁ sati idaṁ hoti,",
+            "en": "“<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. That is: ",
+            "matched": true
+          }
+        },
+        "score": 1.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\nUpon Awakening (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 26,
+          "en": 24
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.61_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.61",
+        "lang": "en",
+        "segMap": {
+          "sn12.61:5.2": {
+            "scid": "sn12.61:5.2",
+            "pli": "‘iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n7. The Great Chapter\n61. Uneducated",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.22_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.22",
+        "lang": "en",
+        "segMap": {
+          "sn12.22:1.8": {
+            "scid": "sn12.22:1.8",
+            "pli": "Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
+            "en": "<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n3. The Ten Powers\n22. The Ten Powers (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 34,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn55/sn55.28_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn55/sn55.28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn55.28",
+        "lang": "en",
+        "segMap": {
+          "sn55.28:4.3": {
+            "scid": "sn55.28:4.3",
+            "pli": "iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 55\n3. About Sarakāni\n28. Dangers and Threats (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 35,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.62_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.62_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.62",
+        "lang": "en",
+        "segMap": {
+          "sn12.62:3.2": {
+            "scid": "sn12.62:3.2",
+            "pli": "‘iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          }
+        },
+        "score": 1.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n7. The Great Chapter\n62. Uneducated (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 36,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.41_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.41_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.41",
+        "lang": "en",
+        "segMap": {
+          "sn12.41:12.3": {
+            "scid": "sn12.41:12.3",
+            "pli": "‘iti imasmiṁ sati idaṁ hoti, imasmiṁ asati idaṁ na hoti; ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; when this doesn’t exist, that is not. ",
+            "matched": true
+          }
+        },
+        "score": 1.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n5. Householders\n41. Dangers and Threats",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.49_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.49_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.49",
+        "lang": "en",
+        "segMap": {
+          "sn12.49:2.2": {
+            "scid": "sn12.49:2.2",
+            "pli": "‘imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati. ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          }
+        },
+        "score": 1.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n5. Householders\n49. A Noble Disciple",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 41,
+          "en": 40
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga1/ud1.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga1/ud1.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud1.3",
+        "lang": "en",
+        "segMap": {
+          "ud1.3:2.1": {
+            "scid": "ud1.3:2.1",
+            "pli": "“Iti imasmiṁ sati idaṁ hoti,",
+            "en": "“<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          }
+        },
+        "score": 1.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\nUpon Awakening (3rd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 41,
+          "en": 37
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.92_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.92_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.92",
+        "lang": "en",
+        "segMap": {
+          "an10.92:6.3": {
+            "scid": "an10.92:6.3",
+            "pli": "‘iti imasmiṁ sati idaṁ hoti; imassuppādā idaṁ uppajjati; ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          }
+        },
+        "score": 1.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n92. Dangers",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 46,
+          "en": 45
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.50_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.50_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.50",
+        "lang": "en",
+        "segMap": {
+          "sn12.50:2.2": {
+            "scid": "sn12.50:2.2",
+            "pli": "‘imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati. ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n5. Householders\n50. A Noble Disciple (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 48,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn115_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn115_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn115",
+        "lang": "en",
+        "segMap": {
+          "mn115:11.3": {
+            "scid": "mn115:11.3",
+            "pli": "‘imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati, ",
+            "en": "‘<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 115\nMany Elements",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 158,
+          "en": 157
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn38",
+        "lang": "en",
+        "segMap": {
+          "mn38:19.3": {
+            "scid": "mn38:19.3",
+            "pli": "imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati, yadidaṁ—",
+            "en": "<span class=\"ebt-matched\">When this exists, that is</span>; due to the arising of this, that arises. That is: ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 38\nThe Longer Discourse on the Ending of Craving",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 445,
+          "en": 444
+        }
+      }
+    ]
+  }
+}

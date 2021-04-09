@@ -1,0 +1,662 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "give up stealing",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "give up stealing",
+    "method": "phrase",
+    "resultPattern": "\\bgive up stealing",
+    "segsMatched": 21,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an8/an8.41_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.41_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.70_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn55/sn55.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn42/sn42.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn42/sn42.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn94_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn94_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn51_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn51_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn41_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn41_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn27_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn27_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn114_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn114_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn101_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn101_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.99_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.99_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.212_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.212_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.211_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.211_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.176_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.176_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.168_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.168_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.167_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.167_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an8.41/en/sujato",
+      "an3.70/en/sujato",
+      "sn55.7/en/sujato",
+      "sn42.8/en/sujato",
+      "mn94/en/sujato",
+      "mn51/en/sujato",
+      "mn41/en/sujato",
+      "mn38/en/sujato",
+      "mn27/en/sujato",
+      "mn114/en/sujato",
+      "mn101/en/sujato",
+      "dn2/en/sujato",
+      "an4.198/en/sujato",
+      "an10.99/en/sujato",
+      "an10.212/en/sujato",
+      "an10.211/en/sujato",
+      "an10.176/en/sujato",
+      "an10.168/en/sujato",
+      "an10.167/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.41_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.41_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.41",
+        "lang": "en",
+        "segMap": {
+          "an8.41:3.1": {
+            "scid": "an8.41:3.1",
+            "pli": "‘Yāvajīvaṁ arahanto adinnādānaṁ pahāya adinnādānā paṭiviratā dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharanti. ",
+            "en": "‘As long as they live, the perfected ones <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "matched": true
+          },
+          "an8.41:3.2": {
+            "scid": "an8.41:3.2",
+            "pli": "Ahampajja imañca rattiṁ imañca divasaṁ adinnādānaṁ pahāya adinnādānā paṭivirato dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharāmi. ",
+            "en": "I, too, for this day and night will <span class=\"ebt-matched\">give up stealing</span>. I’ll take only what’s given, and expect only what’s given. I’ll keep myself clean by not thieving. ",
+            "matched": true
+          }
+        },
+        "score": 2.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n5. Sabbath\n41. The Sabbath With Eight Factors, In Brief",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 46,
+          "en": 45
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.70_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.70",
+        "lang": "en",
+        "segMap": {
+          "an3.70:20.1": {
+            "scid": "an3.70:20.1",
+            "pli": "Yāvajīvaṁ arahanto adinnādānaṁ pahāya adinnādānā paṭiviratā dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharanti; ",
+            "en": "As long as they live, the perfected ones <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "matched": true
+          },
+          "an3.70:20.2": {
+            "scid": "an3.70:20.2",
+            "pli": "ahampajja imañca rattiṁ imañca divasaṁ adinnādānaṁ pahāya adinnādānā paṭivirato dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharāmi. ",
+            "en": "I, too, for this day and night will <span class=\"ebt-matched\">give up stealing</span>. I’ll take only what’s given, and expect only what’s given. I’ll keep myself clean by not thieving. ",
+            "matched": true
+          }
+        },
+        "score": 2.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n70. Sabbath",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 238,
+          "en": 232
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.211_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.211_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.211",
+        "lang": "en",
+        "segMap": {
+          "an10.211:13.1": {
+            "scid": "an10.211:13.1",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti. Yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā, na taṁ adinnaṁ theyyasaṅkhātaṁ ādātā hoti. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They don’t, with the intention to commit theft, take the wealth or belongings of others from village or wilderness. ",
+            "matched": true
+          }
+        },
+        "score": 1.031,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n21. The Body Born of Deeds\n211. Heaven and Hell (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 32,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.212_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.212_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.212",
+        "lang": "en",
+        "segMap": {
+          "an10.212:4.1": {
+            "scid": "an10.212:4.1",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti … ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. … ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n21. The Body Born of Deeds\n212. Heaven and Hell (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.168_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.168_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.168",
+        "lang": "en",
+        "segMap": {
+          "an10.168:3.3": {
+            "scid": "an10.168:3.3",
+            "pli": "So iti paṭisaṅkhāya adinnādānaṁ pajahati; ",
+            "en": "Reflecting like this, they <span class=\"ebt-matched\">give up stealing</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n17. With Jāṇussoṇi\n168. The Noble Descent",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 36,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.167_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.167_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.167",
+        "lang": "en",
+        "segMap": {
+          "an10.167:7.3": {
+            "scid": "an10.167:7.3",
+            "pli": "So iti paṭisaṅkhāya adinnādānaṁ pajahati; ",
+            "en": "Reflecting like this, they <span class=\"ebt-matched\">give up stealing</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n17. With Jāṇussoṇī\n167. The Brahmin Ceremony of Descent",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 68,
+          "en": 67
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn55/sn55.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn55/sn55.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn55.7",
+        "lang": "en",
+        "segMap": {
+          "sn55.7:5.6": {
+            "scid": "sn55.7:5.6",
+            "pli": "So iti paṭisaṅkhāya attanā ca adinnādānā paṭivirato hoti, parañca adinnādānā veramaṇiyā samādapeti, adinnādānā veramaṇiyā ca vaṇṇaṁ bhāsati. ",
+            "en": "Reflecting in this way, they <span class=\"ebt-matched\">give up stealing</span> themselves. And they encourage others to <span class=\"ebt-matched\">give up stealing</span>, praising the giving up of stealing. ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 55\n1. At Bamboo Gate\n7. The People of Bamboo Gate",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 78,
+          "en": 77
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.176_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.176_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.176",
+        "lang": "en",
+        "segMap": {
+          "an10.176:26.1": {
+            "scid": "an10.176:26.1",
+            "pli": "Adinnādānaṁ pahāya, adinnādānā paṭivirato hoti. Yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā, na taṁ adinnaṁ theyyasaṅkhātaṁ ādātā hoti. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They don’t, with the intention to commit theft, take the wealth or belongings of others from village or wilderness. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n17. With Jāṇussoṇi\n176. With Cunda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 88,
+          "en": 87
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn42/sn42.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn42/sn42.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn42.8",
+        "lang": "en",
+        "segMap": {
+          "sn42.8:11.2": {
+            "scid": "sn42.8:11.2",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 42\n1. Chiefs\n8. A Horn Blower",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 105,
+          "en": 104
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.198",
+        "lang": "en",
+        "segMap": {
+          "an4.198:8.2": {
+            "scid": "an4.198:8.2",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n20. The Great Chapter\n198. Self-mortification",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 111,
+          "en": 110
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn41_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn41_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn41",
+        "lang": "en",
+        "segMap": {
+          "mn41:12.3": {
+            "scid": "mn41:12.3",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti. Yaṁ taṁ parassa paravittūpakaraṇaṁ, gāmagataṁ vā araññagataṁ vā, taṁ nādinnaṁ theyyasaṅkhātaṁ ādātā hoti. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They don’t, with the intention to commit theft, take the wealth or belongings of others from village or wilderness. ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 41\nThe People of Sālā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 122,
+          "en": 121
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.99_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.99_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.99",
+        "lang": "en",
+        "segMap": {
+          "an10.99:12.1": {
+            "scid": "an10.99:12.1",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī; athenena sucibhūtena attanā viharati. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n99. With Upāli",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 148,
+          "en": 147
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn27_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn27",
+        "lang": "en",
+        "segMap": {
+          "mn27:13.2": {
+            "scid": "mn27:13.2",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī. Athenena sucibhūtena attanā viharati. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 27\nThe Shorter Elephant’s Footprint Simile",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 201,
+          "en": 200
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn51_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn51",
+        "lang": "en",
+        "segMap": {
+          "mn51:14.2": {
+            "scid": "mn51:14.2",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 51\nWith Kandaraka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 190,
+          "en": 189
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn94_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn94_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn94",
+        "lang": "en",
+        "segMap": {
+          "mn94:16.1": {
+            "scid": "mn94:16.1",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī. Athenena sucibhūtena attanā viharati. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 94\nWith Ghoṭamukha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 203,
+          "en": 202
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn101_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn101_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn101",
+        "lang": "en",
+        "segMap": {
+          "mn101:32.2": {
+            "scid": "mn101:32.2",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 101\nAt Devadaha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 362,
+          "en": 361
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn114_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn114_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn114",
+        "lang": "en",
+        "segMap": {
+          "mn114:5.15": {
+            "scid": "mn114:5.15",
+            "pli": "adinnādānaṁ pahāya adinnādānā paṭivirato hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā taṁ nādinnaṁ theyyasaṅkhātaṁ ādātā hoti; ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They don’t, with the intention to commit theft, take the wealth or belongings of others from village or wilderness. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 114\nWhat Should and Should Not Be Cultivated",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 373,
+          "en": 372
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn2",
+        "lang": "en",
+        "segMap": {
+          "dn2:43.4": {
+            "scid": "dn2:43.4",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 2\nThe Fruits of the Ascetic Life\n1. A Discussion With the King’s Ministers",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 649,
+          "en": 632
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn38",
+        "lang": "en",
+        "segMap": {
+          "mn38:33.2": {
+            "scid": "mn38:33.2",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti, dinnādāyī dinnapāṭikaṅkhī athenena sucibhūtena attanā viharati. ",
+            "en": "They <span class=\"ebt-matched\">give up stealing</span>. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 38\nThe Longer Discourse on the Ending of Craving",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 445,
+          "en": 444
+        }
+      }
+    ]
+  }
+}

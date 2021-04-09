@@ -1,0 +1,344 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "eindeutig",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "eindeutig",
+    "method": "phrase",
+    "resultPattern": "\\beindeutig",
+    "segsMatched": 14,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.21_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.21_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn47/sn47.12_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn47/sn47.12_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.42_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.42_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.42_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.67_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.67_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.67_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.21/de/sabbamitta",
+      "sn47.12/de/sabbamitta",
+      "dn28/de/sabbamitta",
+      "an4.42/de/sabbamitta",
+      "an3.67/de/sabbamitta",
+      "dn33/de/sabbamitta",
+      "dn24/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.21_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.21_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.21",
+        "lang": "de",
+        "segMap": {
+          "an3.21:9.1": {
+            "scid": "an3.21:9.1",
+            "pli": "“Na khvettha, sāriputta, sukaraṁ ekaṁsena byākātuṁ: ",
+            "de": "„Es ist nicht leicht, Sāriputta, in dieser Sache <span class=\"ebt-matched\">eindeutig</span> zu erklären, ",
+            "en": "“In this matter, Sāriputta, it’s not easy to definitively declare that ",
+            "matched": true
+          },
+          "an3.21:10.1": {
+            "scid": "an3.21:10.1",
+            "pli": "Na khvettha, sāriputta, sukaraṁ ekaṁsena byākātuṁ: ",
+            "de": "Es ist nicht leicht, in dieser Sache <span class=\"ebt-matched\">eindeutig</span> zu erklären, ",
+            "en": "In this matter, it’s not easy to definitively declare that ",
+            "matched": true
+          },
+          "an3.21:11.1": {
+            "scid": "an3.21:11.1",
+            "pli": "Na khvettha, sāriputta, sukaraṁ ekaṁsena byākātuṁ: ",
+            "de": "Es ist nicht leicht, in dieser Sache <span class=\"ebt-matched\">eindeutig</span> zu erklären, ",
+            "en": "In this matter, it’s not easy to definitively declare that ",
+            "matched": true
+          },
+          "an3.21:12.1": {
+            "scid": "an3.21:12.1",
+            "pli": "Na khvettha, sāriputta, sukaraṁ ekaṁsena byākātuṁ: ",
+            "de": "Es ist nicht leicht, in dieser Sache <span class=\"ebt-matched\">eindeutig</span> zu erklären, ",
+            "en": "In this matter, it’s not easy to definitively declare that ",
+            "matched": true
+          }
+        },
+        "score": 4.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n21. Mit Saviṭṭha",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 64,
+          "de": 63,
+          "en": 63
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.42_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.42_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.42_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.42",
+        "lang": "de",
+        "segMap": {
+          "an4.42:1.3": {
+            "scid": "an4.42:1.3",
+            "pli": "Atthi, bhikkhave, pañho ekaṁsabyākaraṇīyo; ",
+            "de": "Es gibt eine Frage, die mit einer <span class=\"ebt-matched\">eindeutig</span>en Aussage zu beantworten ist. ",
+            "en": "There is a question that should be answered definitively. ",
+            "matched": true
+          },
+          "an4.42:2.1": {
+            "scid": "an4.42:2.1",
+            "pli": "Ekaṁsavacanaṁ ekaṁ, ",
+            "de": "Eine wird <span class=\"ebt-matched\">eindeutig</span> beantwortet, ",
+            "en": "One is stated definitively, ",
+            "matched": true
+          }
+        },
+        "score": 2.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n5. Mit Rohitassa\n42. Wie man Fragen beantwortet",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 27,
+          "de": 26,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.12_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn47/sn47.12_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.12",
+        "lang": "de",
+        "segMap": {
+          "sn47.12:1.5": {
+            "scid": "sn47.12:1.5",
+            "pli": "“Uḷārā kho tyāyaṁ, sāriputta, āsabhī vācā bhāsitā, ekaṁso gahito, sīhanādo nadito: ",
+            "de": "„Das ist eine gewaltige und dramatische Aussage, Sāriputta. Du hast ein <span class=\"ebt-matched\">eindeutig</span>es und bestimmtes Löwengebrüll gebrüllt: ",
+            "en": "“That’s a grand and dramatic statement, Sāriputta. You’ve roared a definitive, categorical lion’s roar, saying: ",
+            "matched": true
+          },
+          "sn47.12:5.2": {
+            "scid": "sn47.12:5.2",
+            "pli": "Atha kiñcarahi tyāyaṁ, sāriputta, uḷārā āsabhī vācā bhāsitā, ekaṁso gahito, sīhanādo nadito: ",
+            "de": "was genau tust du, dass du so eine gewaltige und dramatische Aussage machst, so ein <span class=\"ebt-matched\">eindeutig</span>es und bestimmtes Löwengebrüll brüllst?“ ",
+            "en": "what exactly are you doing, making such a grand and dramatic statement, roaring such a definitive, categorical lion’s roar?” ",
+            "matched": true
+          }
+        },
+        "score": 2.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 47\n2. Bei Nālandā\n12. Bei Nālandā",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 38,
+          "de": 33,
+          "en": 37
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.67_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.67_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.67_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.67",
+        "lang": "de",
+        "segMap": {
+          "an3.67:2.2": {
+            "scid": "an3.67:2.2",
+            "pli": "Sacāyaṁ, bhikkhave, puggalo pañhaṁ puṭṭho samāno ekaṁsabyākaraṇīyaṁ pañhaṁ na ekaṁsena byākaroti, vibhajjabyākaraṇīyaṁ pañhaṁ na vibhajja byākaroti, paṭipucchābyākaraṇīyaṁ pañhaṁ na paṭipucchā byākaroti, ṭhapanīyaṁ pañhaṁ na ṭhapeti, evaṁ santāyaṁ, bhikkhave, puggalo akaccho hoti. ",
+            "de": "Wenn jemand etwas gefragt wird, das mit einer <span class=\"ebt-matched\">eindeutig</span>en Aussage beantwortet werden muss, und die Person macht keine <span class=\"ebt-matched\">eindeutig</span>e Aussage; oder etwas benötigt eine Aufgliederung und die Person gliedert es in ihrer Antwort nicht auf; oder es muss eine Gegenfrage gestellt werden und die Person antwortet ohne Gegenfrage; oder eine Frage muss ausgelassen werden und die Person lässt sie nicht aus – dann ist diese Person nicht zum Diskutieren fähig. ",
+            "en": "When a person is asked a question, if it needs to be answered definitively and they don’t answer it definitively; or if it needs analysis and they answer without analyzing it; or if it needs a counter-question and they answer without a counter-question; or if it should be set aside and they don’t set it aside, then that person is not competent to hold a discussion. ",
+            "matched": true
+          },
+          "an3.67:2.3": {
+            "scid": "an3.67:2.3",
+            "pli": "Sace panāyaṁ, bhikkhave, puggalo pañhaṁ puṭṭho samāno ekaṁsabyākaraṇīyaṁ pañhaṁ ekaṁsena byākaroti, vibhajjabyākaraṇīyaṁ pañhaṁ vibhajja byākaroti, paṭipucchābyākaraṇīyaṁ pañhaṁ paṭipucchā byākaroti, ṭhapanīyaṁ pañhaṁ ṭhapeti, evaṁ santāyaṁ, bhikkhave, puggalo kaccho hoti. ",
+            "de": "Wenn jemand etwas gefragt wird, das mit einer <span class=\"ebt-matched\">eindeutig</span>en Aussage beantwortet werden muss, und die Person macht eine <span class=\"ebt-matched\">eindeutig</span>e Aussage; oder etwas benötigt eine Aufgliederung und die Person gliedert es in ihrer Antwort auf; oder es muss eine Gegenfrage gestellt werden und die Person antwortet mit einer Gegenfrage; oder eine Frage muss ausgelassen werden und die Person lässt sie aus – dann ist diese Person zum Diskutieren fähig. ",
+            "en": "When a person is asked a question, if it needs to be answered definitively and they answer it definitively; or if it needs analysis and they answer after analyzing it; or if it needs a counter-question and they answer with a counter-question; or if it should be set aside and they set it aside, then that person is competent to hold a discussion. ",
+            "matched": true
+          }
+        },
+        "score": 2.032,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n67. Diskussionsthemen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 62,
+          "de": 61,
+          "en": 61
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn28",
+        "lang": "de",
+        "segMap": {
+          "dn28:1.5": {
+            "scid": "dn28:1.5",
+            "pli": "“Uḷārā kho te ayaṁ, sāriputta, āsabhī vācā bhāsitā, ekaṁso gahito, sīhanādo nadito: ",
+            "de": "„Das ist eine gewaltige und dramatische Aussage, Sāriputta. Du hast ein <span class=\"ebt-matched\">eindeutig</span>es und bestimmtes Löwengebrüll gebrüllt: ",
+            "en": "“That’s a grand and dramatic statement, Sāriputta. You’ve roared a definitive, categorical lion’s roar, saying: ",
+            "matched": true
+          },
+          "dn28:1.18": {
+            "scid": "dn28:1.18",
+            "pli": "Atha kiṁ carahi te ayaṁ, sāriputta, uḷārā āsabhī vācā bhāsitā, ekaṁso gahito, sīhanādo nadito: ",
+            "de": "was genau tust du, dass du so eine gewaltige und dramatische Aussage machst, so ein <span class=\"ebt-matched\">eindeutig</span>es und bestimmtes Löwengebrüll brüllst?“ ",
+            "en": "what exactly are you doing, making such a grand and dramatic statement, roaring such a definitive, categorical lion’s roar?” ",
+            "matched": true
+          }
+        },
+        "score": 2.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 28\nZuversicht wecken\n1. Sāriputtas Löwengebrüll",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 250,
+          "de": 236,
+          "en": 249
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn24",
+        "lang": "de",
+        "segMap": {
+          "dn24:1.17.4": {
+            "scid": "dn24:1.17.4",
+            "pli": "‘Bhagavatā cassa, bhante, esā vācā ekaṁsena odhāritā—",
+            "de": "‚Herr, der Buddha hat <span class=\"ebt-matched\">eindeutig</span> erklärt, ",
+            "en": "‘Sir, the Buddha has definitively asserted that ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 24\nÜber Pāṭikaputta\n1. Die Geschichte von Sunakkhatta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 581,
+          "de": 500,
+          "en": 580
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.11.152": {
+            "scid": "dn33:1.11.152",
+            "pli": "ekaṁsabyākaraṇīyo pañho, paṭipucchābyākaraṇīyo pañho, vibhajjabyākaraṇīyo pañho, ṭhapanīyo pañho. ",
+            "de": "Es gibt eine Frage, die mit einer <span class=\"ebt-matched\">eindeutig</span>en Aussage zu beantworten ist. Es gibt eine Frage, die mit einer Gegenfrage zu beantworten ist. Es gibt eine Frage, die durch Aufgliederung zu beantworten ist. Es gibt eine Frage, die auszulassen ist. ",
+            "en": "There is a question that should be answered definitively. There is a question that should be answered analytically. There is a question that should be answered with a counter-question. There is a question that should be set aside. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

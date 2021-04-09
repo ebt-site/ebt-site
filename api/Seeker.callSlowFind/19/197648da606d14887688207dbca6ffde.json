@@ -1,0 +1,100 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "äußere erkennen und sehen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "äußere erkennen und sehen",
+    "method": "phrase",
+    "resultPattern": "\\bäußere erkennen und sehen",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn18_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn18_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn18_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn18/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn18_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn18_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn18_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn18",
+        "lang": "de",
+        "segMap": {
+          "dn18:26.8": {
+            "scid": "dn18:26.8",
+            "pli": "So tattha sammā samāhito sammā vippasanno bahiddhā parakāye ñāṇadassanaṁ abhinibbatteti. ",
+            "de": "Daraus entsteht das <span class=\"ebt-matched\">äußere Erkennen und Sehen</span> der Körper anderer Menschen. ",
+            "en": "Then they give rise to knowledge and vision of other people’s bodies externally. ",
+            "matched": true
+          },
+          "dn18:26.10": {
+            "scid": "dn18:26.10",
+            "pli": "bahiddhā paravedanāsu ñāṇadassanaṁ abhinibbatteti. ",
+            "de": "Daraus entsteht das <span class=\"ebt-matched\">äußere Erkennen und Sehen</span> der Gefühle anderer Menschen. ",
+            "en": "Then they give rise to knowledge and vision of other people’s feelings externally. ",
+            "matched": true
+          },
+          "dn18:26.12": {
+            "scid": "dn18:26.12",
+            "pli": "bahiddhā paracitte ñāṇadassanaṁ abhinibbatteti. ",
+            "de": "Daraus entsteht das <span class=\"ebt-matched\">äußere Erkennen und Sehen</span> des Geistes anderer Menschen. ",
+            "en": "Then they give rise to knowledge and vision of other people’s minds externally. ",
+            "matched": true
+          },
+          "dn18:26.15": {
+            "scid": "dn18:26.15",
+            "pli": "So tattha sammā samāhito sammā vippasanno bahiddhā paradhammesu ñāṇadassanaṁ abhinibbatteti. ",
+            "de": "Daraus entsteht das <span class=\"ebt-matched\">äußere Erkennen und Sehen</span> der natürlichen Gesetzmäßigkeiten bei anderen Menschen. ",
+            "en": "Then they give rise to knowledge and vision of other people’s principles externally. ",
+            "matched": true
+          }
+        },
+        "score": 4.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 18\nMit Janavasabha\n1. Bekanntgabe, wo Menschen aus Nādika und anderen Orten wiedergeboren wurden",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 299,
+          "de": 255,
+          "en": 298
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bwater overgrown with moss",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn46/sn46.55_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an5/an5.193_translation-en-sujato.json:1"
+  ]
+}

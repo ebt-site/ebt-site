@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "householders of nagaravinda",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "householders of nagaravinda",
+    "method": "phrase",
+    "resultPattern": "\\bhouseholders of nagaravinda",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn150_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn150_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn150/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn150_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn150_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn150",
+        "lang": "en",
+        "segMap": {
+          "mn150:2.1": {
+            "scid": "mn150:2.1",
+            "pli": "Assosuṁ kho nagaravindeyyakā brāhmaṇagahapatikā: ",
+            "en": "The brahmins and <span class=\"ebt-matched\">householders of Nagaravinda</span> heard, ",
+            "matched": true
+          },
+          "mn150:3.1": {
+            "scid": "mn150:3.1",
+            "pli": "Atha kho nagaravindeyyakā brāhmaṇagahapatikā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā appekacce bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Appekacce bhagavatā saddhiṁ sammodiṁsu; sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Appekacce yena bhagavā tenañjaliṁ paṇāmetvā ekamantaṁ nisīdiṁsu. Appekacce bhagavato santike nāmagottaṁ sāvetvā ekamantaṁ nisīdiṁsu. Appekacce tuṇhībhūtā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinne kho nagaravindeyyake brāhmaṇagahapatike bhagavā etadavoca: ",
+            "en": "Then the brahmins and <span class=\"ebt-matched\">householders of Nagaravinda</span> went up to the Buddha. Before sitting down to one side, some bowed, some exchanged greetings and polite conversation, some held up their joined palms toward the Buddha, some announced their name and clan, while some kept silent. The Buddha said to them: ",
+            "matched": true
+          },
+          "mn150:7.1": {
+            "scid": "mn150:7.1",
+            "pli": "Evaṁ vutte, nagaravindeyyakā brāhmaṇagahapatikā bhagavantaṁ etadavocuṁ: ",
+            "en": "When he had spoken, the brahmins and <span class=\"ebt-matched\">householders of Nagaravinda</span> said to the Buddha, ",
+            "matched": true
+          }
+        },
+        "score": 3.051,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 150\nWith the People of Nagaravinda",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 59,
+          "en": 58
+        }
+      }
+    ]
+  }
+}

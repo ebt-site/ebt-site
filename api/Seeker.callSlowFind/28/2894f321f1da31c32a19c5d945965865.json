@@ -1,0 +1,93 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "nahrung für unwissenheit",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "nahrung für unwissenheit",
+    "method": "phrase",
+    "resultPattern": "\\bnahrung für unwissenheit",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an10/an10.61_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an10/an10.61_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an10.61/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.61_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an10/an10.61_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an10/an10.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.61",
+        "lang": "de",
+        "segMap": {
+          "an10.61:2.2": {
+            "scid": "an10.61:2.2",
+            "pli": "Ko cāhāro avijjāya? ",
+            "de": "Und was ist die <span class=\"ebt-matched\">Nahrung für Unwissenheit</span>? ",
+            "en": "And what is the fuel for ignorance? ",
+            "matched": true
+          },
+          "an10.61:3.2": {
+            "scid": "an10.61:3.2",
+            "pli": "evametissā avijjāya āhāro hoti, evañca pāripūri. ",
+            "de": "Das ist die <span class=\"ebt-matched\">Nahrung für Unwissenheit</span>, und so wird sie aufgefüllt. ",
+            "en": "That’s the fuel for ignorance, and that’s how it’s fulfilled. ",
+            "matched": true
+          },
+          "an10.61:5.2": {
+            "scid": "an10.61:5.2",
+            "pli": "evametissā avijjāya āhāro hoti, evañca pāripūri. ",
+            "de": "Das ist die <span class=\"ebt-matched\">Nahrung für Unwissenheit</span>, und so wird sie aufgefüllt. ",
+            "en": "That’s the fuel for ignorance, and that’s how it’s fulfilled. ",
+            "matched": true
+          }
+        },
+        "score": 3.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 10\n7. Paare\n61. Unwissenheit",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 69,
+          "de": 68,
+          "en": 68
+        }
+      }
+    ]
+  }
+}

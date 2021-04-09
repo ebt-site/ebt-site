@@ -1,0 +1,146 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "should be produced",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "should be produced",
+    "method": "phrase",
+    "resultPattern": "\\bshould be produced",
+    "segsMatched": 13,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.2.1": {
+            "scid": "dn34:1.2.1",
+            "pli": "Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo. ",
+            "en": "Reverends, one thing is helpful, one thing should be developed, one thing should be completely understood, one thing should be given up, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing <span class=\"ebt-matched\">should be produced</span>, one thing should be directly known, one thing should be realized. ",
+            "matched": true
+          },
+          "dn34:1.2.23": {
+            "scid": "dn34:1.2.23",
+            "pli": "Katamo eko dhammo uppādetabbo? ",
+            "en": "What one thing <span class=\"ebt-matched\">should be produced</span>? ",
+            "matched": true
+          },
+          "dn34:1.3.1": {
+            "scid": "dn34:1.3.1",
+            "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
+            "en": "Two things are helpful, two things should be developed, two things should be completely understood, two things should be given up, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things <span class=\"ebt-matched\">should be produced</span>, two things should be directly known, two things should be realized. ",
+            "matched": true
+          },
+          "dn34:1.3.23": {
+            "scid": "dn34:1.3.23",
+            "pli": "Katame dve dhammā uppādetabbā? ",
+            "en": "What two things <span class=\"ebt-matched\">should be produced</span>? ",
+            "matched": true
+          },
+          "dn34:1.4.29": {
+            "scid": "dn34:1.4.29",
+            "pli": "Katame tayo dhammā uppādetabbā? ",
+            "en": "What three things <span class=\"ebt-matched\">should be produced</span>? ",
+            "matched": true
+          },
+          "dn34:1.5.33": {
+            "scid": "dn34:1.5.33",
+            "pli": "Katame cattāro dhammā uppādetabbā? ",
+            "en": "What four things <span class=\"ebt-matched\">should be produced</span>? ",
+            "matched": true
+          },
+          "dn34:1.6.68": {
+            "scid": "dn34:1.6.68",
+            "pli": "Katame pañca dhammā uppādetabbā? ",
+            "en": "What five things <span class=\"ebt-matched\">should be produced</span>? ",
+            "matched": true
+          },
+          "dn34:1.7.70": {
+            "scid": "dn34:1.7.70",
+            "pli": "Katame cha dhammā uppādetabbā? ",
+            "en": "What six things <span class=\"ebt-matched\">should be produced</span>? ",
+            "matched": true
+          },
+          "dn34:1.8.43": {
+            "scid": "dn34:1.8.43",
+            "pli": "Katame satta dhammā uppādetabbā? ",
+            "en": "What seven things <span class=\"ebt-matched\">should be produced</span>? ",
+            "matched": true
+          },
+          "dn34:2.1.149": {
+            "scid": "dn34:2.1.149",
+            "pli": "Katame aṭṭha dhammā uppādetabbā? ",
+            "en": "What eight things <span class=\"ebt-matched\">should be produced</span>? ",
+            "matched": true
+          },
+          "dn34:2.2.62": {
+            "scid": "dn34:2.2.62",
+            "pli": "Katame nava dhammā uppādetabbā? ",
+            "en": "What nine things <span class=\"ebt-matched\">should be produced</span>? ",
+            "matched": true
+          },
+          "dn34:2.3.1": {
+            "scid": "dn34:2.3.1",
+            "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
+            "en": "Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things <span class=\"ebt-matched\">should be produced</span>, ten things should be directly known, ten things should be realized. ",
+            "matched": true
+          },
+          "dn34:2.3.107": {
+            "scid": "dn34:2.3.107",
+            "pli": "Katame dasa dhammā uppādetabbā? ",
+            "en": "What ten things <span class=\"ebt-matched\">should be produced</span>? ",
+            "matched": true
+          }
+        },
+        "score": 13.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 13,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "they’re happy with that",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "they’re happy with that",
+    "method": "phrase",
+    "resultPattern": "\\bthey’re happy with that",
+    "segsMatched": 27,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn29_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn29_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn30_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn28_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.55_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.55_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.54_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.54_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.53_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.53_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.52_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.52_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.51_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.51_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn29/en/sujato",
+      "mn30/en/sujato",
+      "mn28/en/sujato",
+      "dn25/en/sujato",
+      "an10.55/en/sujato",
+      "an10.54/en/sujato",
+      "an10.53/en/sujato",
+      "an10.52/en/sujato",
+      "an10.51/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn29_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn29_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn29",
+        "lang": "en",
+        "segMap": {
+          "mn29:2.5": {
+            "scid": "mn29:2.5",
+            "pli": "So tena lābhasakkārasilokena attamano hoti paripuṇṇasaṅkappo. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
+            "matched": true
+          },
+          "mn29:3.5": {
+            "scid": "mn29:3.5",
+            "pli": "So tena lābhasakkārasilokena na attamano hoti na paripuṇṇasaṅkappo. ",
+            "en": "They’re not happy with that, and haven’t got all they wished for. ",
+            "matched": true
+          },
+          "mn29:3.9": {
+            "scid": "mn29:3.9",
+            "pli": "So tāya sīlasampadāya attamano hoti paripuṇṇasaṅkappo. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
+            "matched": true
+          },
+          "mn29:4.26": {
+            "scid": "mn29:4.26",
+            "pli": "So tāya samādhisampadāya attamano hoti paripuṇṇasaṅkappo. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
+            "matched": true
+          },
+          "mn29:5.15": {
+            "scid": "mn29:5.15",
+            "pli": "So tena ñāṇadassanena attamano hoti paripuṇṇasaṅkappo. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
+            "matched": true
+          },
+          "mn29:6.5": {
+            "scid": "mn29:6.5",
+            "pli": "So tena lābhasakkārasilokena na attamano hoti, na paripuṇṇasaṅkappo. ",
+            "en": "They’re not happy with that, and haven’t got all they wished for. ",
+            "matched": true
+          },
+          "mn29:6.8": {
+            "scid": "mn29:6.8",
+            "pli": "So tāya sīlasampadāya attamano hoti, no ca kho paripuṇṇasaṅkappo. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
+            "matched": true
+          },
+          "mn29:6.11": {
+            "scid": "mn29:6.11",
+            "pli": "So tāya samādhisampadāya attamano hoti, no ca kho paripuṇṇasaṅkappo. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
+            "matched": true
+          },
+          "mn29:6.14": {
+            "scid": "mn29:6.14",
+            "pli": "So tena ñāṇadassanena attamano hoti, no ca kho paripuṇṇasaṅkappo. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
+            "matched": true
+          }
+        },
+        "score": 9.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 29\nThe Longer Simile of the Heartwood",
+        "segsMatched": 9,
+        "langSegs": {
+          "pli": 181,
+          "en": 180
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn30_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn30",
+        "lang": "en",
+        "segMap": {
+          "mn30:8.5": {
+            "scid": "mn30:8.5",
+            "pli": "So tena lābhasakkārasilokena attamano hoti paripuṇṇasaṅkappo. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, and they’ve got all they wished for. ",
+            "matched": true
+          },
+          "mn30:12.5": {
+            "scid": "mn30:12.5",
+            "pli": "So tena lābhasakkārasilokena na attamano hoti, na paripuṇṇasaṅkappo. ",
+            "en": "They’re not happy with that, and haven’t got all they wished for. ",
+            "matched": true
+          },
+          "mn30:12.9": {
+            "scid": "mn30:12.9",
+            "pli": "So tāya sīlasampadāya attamano hoti, no ca kho paripuṇṇasaṅkappo. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
+            "matched": true
+          },
+          "mn30:12.13": {
+            "scid": "mn30:12.13",
+            "pli": "So tāya samādhisampadāya attamano hoti, no ca kho paripuṇṇasaṅkappo. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
+            "matched": true
+          },
+          "mn30:12.17": {
+            "scid": "mn30:12.17",
+            "pli": "So tena ñāṇadassanena attamano hoti, no ca kho paripuṇṇasaṅkappo. ",
+            "en": "<span class=\"ebt-matched\">They’re happy with that</span>, but they haven’t got all they wished for. ",
+            "matched": true
+          }
+        },
+        "score": 5.031,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 30\nThe Shorter Simile of the Heartwood",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 163,
+          "en": 161
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn28_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn28",
+        "lang": "en",
+        "segMap": {
+          "mn28:10.8": {
+            "scid": "mn28:10.8",
+            "pli": "Tassa ce, āvuso, bhikkhuno evaṁ buddhaṁ anussarato, evaṁ dhammaṁ anussarato, evaṁ saṅghaṁ anussarato upekkhā kusalanissitā saṇṭhāti, so tena attamano hoti. ",
+            "en": "But if, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, <span class=\"ebt-matched\">they’re happy with that</span>. ",
+            "matched": true
+          },
+          "mn28:14.1": {
+            "scid": "mn28:14.1",
+            "pli": "tassa ce, āvuso, bhikkhuno evaṁ buddhaṁ anussarato, evaṁ dhammaṁ anussarato, evaṁ saṅghaṁ anussarato upekkhā kusalanissitā saṇṭhāti. So tena attamano hoti. ",
+            "en": "If, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, <span class=\"ebt-matched\">they’re happy with that</span>. ",
+            "matched": true
+          },
+          "mn28:18-20.1": {
+            "scid": "mn28:18-20.1",
+            "pli": "Atha khvāssa notevettha hoti …pe… tassa ce, āvuso, bhikkhuno evaṁ buddhaṁ anussarato evaṁ dhammaṁ anussarato evaṁ saṅghaṁ anussarato upekkhā kusalanissitā saṇṭhāti, so tena attamano hoti. ",
+            "en": "If, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, <span class=\"ebt-matched\">they’re happy with that</span>. ",
+            "matched": true
+          },
+          "mn28:25.10": {
+            "scid": "mn28:25.10",
+            "pli": "Tassa ce, āvuso, bhikkhuno evaṁ buddhaṁ anussarato, evaṁ dhammaṁ anussarato, evaṁ saṅghaṁ anussarato, upekkhā kusalanissitā saṇṭhāti, so tena attamano hoti. ",
+            "en": "But if, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, <span class=\"ebt-matched\">they’re happy with that</span>. ",
+            "matched": true
+          }
+        },
+        "score": 4.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 28\nThe Longer Simile of the Elephant’s Footprint",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 166,
+          "en": 165
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "en",
+        "segMap": {
+          "dn25:9.2": {
+            "scid": "dn25:9.2",
+            "pli": "“Idha, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā attamano hoti paripuṇṇasaṅkappo. ",
+            "en": "“Firstly, a mortifier undertakes a practice of mortification. <span class=\"ebt-matched\">They’re happy with that</span>, as they’ve got all they wished for. ",
+            "matched": true
+          },
+          "dn25:10.1": {
+            "scid": "dn25:10.1",
+            "pli": "Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena attamano hoti paripuṇṇasaṅkappo. ",
+            "en": "Furthermore, a mortifier undertakes a practice of mortification. They generate possessions, honor, and popularity through that mortification. <span class=\"ebt-matched\">They’re happy with that</span>, as they’ve got all they wished for. ",
+            "matched": true
+          },
+          "dn25:13.1": {
+            "scid": "dn25:13.1",
+            "pli": "“Idha, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā na attamano hoti na paripuṇṇasaṅkappo. ",
+            "en": "“Firstly, Nigrodha, a mortifier undertakes a practice of mortification. But they’re not happy with that, as they still haven’t got all they wished for. ",
+            "matched": true
+          },
+          "dn25:13.8": {
+            "scid": "dn25:13.8",
+            "pli": "Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena na attamano hoti na paripuṇṇasaṅkappo …pe… ",
+            "en": "Furthermore, a mortifier undertakes a practice of mortification. They generate possessions, honor, and popularity through that mortification. They’re not happy with that, as they still haven’t got all they wished for … ",
+            "matched": true
+          }
+        },
+        "score": 4.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 25\nThe Lion’s Roar at Udumbarikā’s Monastery\n1. On the Wanderer Nigrodha",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 383,
+          "en": 382
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.52_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.52_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.52",
+        "lang": "en",
+        "segMap": {
+          "an10.52:3.3": {
+            "scid": "an10.52:3.3",
+            "pli": "No ce tattha passati rajaṁ vā aṅgaṇaṁ vā, tenevattamano hoti paripuṇṇasaṅkappo: ",
+            "en": "But if they don’t see any dirt or blemish there, <span class=\"ebt-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
+            "matched": true
+          }
+        },
+        "score": 1.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n52. With Sāriputta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.51_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.51",
+        "lang": "en",
+        "segMap": {
+          "an10.51:3.3": {
+            "scid": "an10.51:3.3",
+            "pli": "No ce tattha passati rajaṁ vā aṅgaṇaṁ vā, tenevattamano hoti paripuṇṇasaṅkappo: ",
+            "en": "But if they don’t see any dirt or blemish there, <span class=\"ebt-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n51. Your Own Mind",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.53_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.53_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.53",
+        "lang": "en",
+        "segMap": {
+          "an10.53:6.3": {
+            "scid": "an10.53:6.3",
+            "pli": "No ce tattha passati rajaṁ vā aṅgaṇaṁ vā, tenevattamano hoti paripuṇṇasaṅkappo: ",
+            "en": "But if they don’t see any dirt or blemish there, <span class=\"ebt-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n53. Stagnation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.55_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.55_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.55",
+        "lang": "en",
+        "segMap": {
+          "an10.55:7.3": {
+            "scid": "an10.55:7.3",
+            "pli": "No ce tattha passati rajaṁ vā aṅgaṇaṁ vā, tenevattamano hoti paripuṇṇasaṅkappo: ",
+            "en": "But if they don’t see any dirt or blemish there, <span class=\"ebt-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
+            "matched": true
+          }
+        },
+        "score": 1.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n55. Decline",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 40,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.54_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.54_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.54",
+        "lang": "en",
+        "segMap": {
+          "an10.54:2.3": {
+            "scid": "an10.54:2.3",
+            "pli": "No ce tattha passati rajaṁ vā aṅgaṇaṁ vā, tenevattamano hoti paripuṇṇasaṅkappo: ",
+            "en": "But if they don’t see any dirt or blemish there, <span class=\"ebt-matched\">they’re happy with that</span>, as they’ve got all they wished for: ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n54. Serenity",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 98,
+          "en": 97
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "that which you should cultivate",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "that which you should cultivate",
+    "method": "phrase",
+    "resultPattern": "\\bthat which you should cultivate",
+    "segsMatched": 38,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn114_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn114_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn114/en/sujato",
+      "dn21/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn114_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn114_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn114",
+        "lang": "en",
+        "segMap": {
+          "mn114:3.2": {
+            "scid": "mn114:3.2",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:3.5": {
+            "scid": "mn114:3.5",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:3.8": {
+            "scid": "mn114:3.8",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:3.11": {
+            "scid": "mn114:3.11",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:3.14": {
+            "scid": "mn114:3.14",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:3.17": {
+            "scid": "mn114:3.17",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:3.20": {
+            "scid": "mn114:3.20",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:5.2": {
+            "scid": "mn114:5.2",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:5.19": {
+            "scid": "mn114:5.19",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:6.2": {
+            "scid": "mn114:6.2",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:6.21": {
+            "scid": "mn114:6.21",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:7.2": {
+            "scid": "mn114:7.2",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:7.17": {
+            "scid": "mn114:7.17",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:8.2": {
+            "scid": "mn114:8.2",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:8.19": {
+            "scid": "mn114:8.19",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:9.2": {
+            "scid": "mn114:9.2",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:9.19": {
+            "scid": "mn114:9.19",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:10.2": {
+            "scid": "mn114:10.2",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:10.17": {
+            "scid": "mn114:10.17",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:11.2": {
+            "scid": "mn114:11.2",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:11.14": {
+            "scid": "mn114:11.14",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:22.2": {
+            "scid": "mn114:22.2",
+            "pli": "sevitabbampi, asevitabbampi; ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:22.12": {
+            "scid": "mn114:22.12",
+            "pli": "sevitabbampi, asevitabbampī”ti. ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate.” ",
+            "matched": true
+          },
+          "mn114:24.2": {
+            "scid": "mn114:24.2",
+            "pli": "sevitabbampi, asevitabbampī’ti—",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate.’ ",
+            "matched": true
+          },
+          "mn114:24.8": {
+            "scid": "mn114:24.8",
+            "pli": "sevitabbampi, asevitabbampī’ti—",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate.’ ",
+            "matched": true
+          },
+          "mn114:29.2": {
+            "scid": "mn114:29.2",
+            "pli": "sevitabbampi, asevitabbampī’ti—",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate.’ ",
+            "matched": true
+          },
+          "mn114:30.4": {
+            "scid": "mn114:30.4",
+            "pli": "sevitabbampi, asevitabbampī’ti—",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate.’ ",
+            "matched": true
+          },
+          "mn114:39.2": {
+            "scid": "mn114:39.2",
+            "pli": "sevitabbampi, asevitabbampi …pe… ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "mn114:39.10": {
+            "scid": "mn114:39.10",
+            "pli": "sevitabbampi, asevitabbampī”ti. ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate.” ",
+            "matched": true
+          },
+          "mn114:48.2": {
+            "scid": "mn114:48.2",
+            "pli": "sevitabbampi, asevitabbampī’ti—",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate.’ ",
+            "matched": true
+          }
+        },
+        "score": 30.08,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 114\nWhat Should and Should Not Be Cultivated",
+        "segsMatched": 30,
+        "langSegs": {
+          "pli": 373,
+          "en": 372
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn21",
+        "lang": "en",
+        "segMap": {
+          "dn21:2.3.4": {
+            "scid": "dn21:2.3.4",
+            "pli": "sevitabbampi, asevitabbampi. ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "dn21:2.3.6": {
+            "scid": "dn21:2.3.6",
+            "pli": "sevitabbampi, asevitabbampi. ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "dn21:2.3.8": {
+            "scid": "dn21:2.3.8",
+            "pli": "sevitabbampi, asevitabbampi. ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "dn21:2.4.4": {
+            "scid": "dn21:2.4.4",
+            "pli": "sevitabbampi, asevitabbampi. ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "dn21:2.4.6": {
+            "scid": "dn21:2.4.6",
+            "pli": "sevitabbampi, asevitabbampi. ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "dn21:2.4.8": {
+            "scid": "dn21:2.4.8",
+            "pli": "sevitabbampi, asevitabbampi. ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "dn21:2.5.4": {
+            "scid": "dn21:2.5.4",
+            "pli": "sevitabbampi, asevitabbampi. ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate. ",
+            "matched": true
+          },
+          "dn21:2.5.14": {
+            "scid": "dn21:2.5.14",
+            "pli": "sevitabbampi, asevitabbampī”ti. ",
+            "en": "<span class=\"ebt-matched\">that which you should cultivate</span>, and that which you should not cultivate.” ",
+            "matched": true
+          }
+        },
+        "score": 8.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 21\nSakka’s Questions",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 515,
+          "en": 514
+        }
+      }
+    ]
+  }
+}

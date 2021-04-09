@@ -1,0 +1,298 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "diminished",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "diminished",
+    "method": "phrase",
+    "resultPattern": "\\bdiminished",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn54/sn54.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn54/sn54.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.33_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.33_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.28_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.28_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.27_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.27_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn9_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn9_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn141_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn141_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn54.9/en/sujato",
+      "sn12.33/en/sujato",
+      "sn12.2/en/sujato",
+      "sn12.28/en/sujato",
+      "sn12.27/en/sujato",
+      "mn9/en/sujato",
+      "mn141/en/sujato",
+      "dn22/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn54/sn54.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn54/sn54.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn54.9",
+        "lang": "en",
+        "segMap": {
+          "sn54.9:4.2": {
+            "scid": "sn54.9:4.2",
+            "pli": "“kiṁ nu kho, ānanda, tanubhūto viya bhikkhusaṅgho”ti? ",
+            "en": "“Ānanda, why does the mendicant Saṅgha seem so <span class=\"ebt-matched\">diminished</span>?” ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 54\n1. One Thing\n9. At Vesālī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 35,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.27_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.27",
+        "lang": "en",
+        "segMap": {
+          "sn12.27:2.2": {
+            "scid": "sn12.27:2.2",
+            "pli": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko—",
+            "en": "The old age, decrepitude, broken teeth, grey hair, wrinkly skin, <span class=\"ebt-matched\">diminished</span> vitality, and failing faculties of the various sentient beings in the various orders of sentient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n3. The Ten Powers\n27. Conditions",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 38,
+          "en": 37
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.28_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.28",
+        "lang": "en",
+        "segMap": {
+          "sn12.28:2.2": {
+            "scid": "sn12.28:2.2",
+            "pli": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko—",
+            "en": "The old age, decrepitude, broken teeth, grey hair, wrinkly skin, <span class=\"ebt-matched\">diminished</span> vitality, and failing faculties of the various sentient beings in the various orders of sentient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n3. The Ten Powers\n28. A Mendicant",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 58,
+          "en": 57
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.33_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.33",
+        "lang": "en",
+        "segMap": {
+          "sn12.33:3.2": {
+            "scid": "sn12.33:3.2",
+            "pli": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko, ",
+            "en": "The old age, decrepitude, broken teeth, grey hair, wrinkly skin, <span class=\"ebt-matched\">diminished</span> vitality, and failing faculties of the various sentient beings in the various orders of sentient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n4. Kaḷāra the Aristocrat\n33. Grounds for Knowledge",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 66,
+          "en": 65
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.2",
+        "lang": "en",
+        "segMap": {
+          "sn12.2:3.2": {
+            "scid": "sn12.2:3.2",
+            "pli": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko; ",
+            "en": "The old age, decrepitude, broken teeth, grey hair, wrinkly skin, <span class=\"ebt-matched\">diminished</span> vitality, and failing faculties of the various sentient beings in the various orders of sentient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n1. The Buddhas\n2. Analysis",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 79,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn141_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn141_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn141",
+        "lang": "en",
+        "segMap": {
+          "mn141:12.2": {
+            "scid": "mn141:12.2",
+            "pli": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko, ",
+            "en": "The old age, decrepitude, broken teeth, grey hair, wrinkly skin, <span class=\"ebt-matched\">diminished</span> vitality, and failing faculties of the various sentient beings in the various orders of sentient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 141\nThe Analysis of the Truths",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 122,
+          "en": 121
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn9_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn9",
+        "lang": "en",
+        "segMap": {
+          "mn9:21-22.5": {
+            "scid": "mn9:21-22.5",
+            "pli": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko—",
+            "en": "The old age, decrepitude, broken teeth, gray hair, wrinkly skin, <span class=\"ebt-matched\">diminished</span> vitality, and failing faculties of the various sentient beings in the various orders of sentient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 9\nRight View",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 234,
+          "en": 233
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn22",
+        "lang": "en",
+        "segMap": {
+          "dn22:18.7": {
+            "scid": "dn22:18.7",
+            "pli": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko, ",
+            "en": "The old age, decrepitude, broken teeth, grey hair, wrinkly skin, <span class=\"ebt-matched\">diminished</span> vitality, and failing faculties of the various sentient beings in the various orders of sentient beings. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 22\nThe Longer Discourse on Mindfulness Meditation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 454,
+          "en": 453
+        }
+      }
+    ]
+  }
+}

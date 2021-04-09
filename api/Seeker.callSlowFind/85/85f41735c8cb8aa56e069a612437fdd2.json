@@ -1,0 +1,165 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "versenkung besitzt",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "versenkung besitzt",
+    "method": "phrase",
+    "resultPattern": "\\bversenkung besitzt",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn56/sn56.1_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn56/sn56.1_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.196_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.196_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.21_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.21_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.21_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn56.1/de/sabbamitta",
+      "an4.196/de/sabbamitta",
+      "an3.21/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.1_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn56/sn56.1_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.1",
+        "lang": "de",
+        "segMap": {
+          "sn56.1:1.4": {
+            "scid": "sn56.1:1.4",
+            "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
+            "de": "Eine Nonne, die <span class=\"ebt-matched\">Versenkung besitzt</span>, versteht wirklich. ",
+            "en": "A mendicant who has immersion truly understands. ",
+            "matched": true
+          },
+          "sn56.1:1.8": {
+            "scid": "sn56.1:1.8",
+            "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. ",
+            "de": "Eine Nonne, die <span class=\"ebt-matched\">Versenkung besitzt</span>, versteht wirklich. ",
+            "en": "A mendicant who has immersion truly understands. ",
+            "matched": true
+          }
+        },
+        "score": 2.154,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 56\n1. Versenkung\n1. Versenkung",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 13,
+          "de": 11,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.196_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.196_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.196_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.196",
+        "lang": "de",
+        "segMap": {
+          "an4.196:11.2": {
+            "scid": "an4.196:11.2",
+            "pli": "evamevaṁ kho, sāḷha, ariyasāvako sammāsamādhi hoti. ",
+            "de": "besitzt ein edler Schüler rechte Versenkung. ",
+            "en": "a noble disciple has right immersion. ",
+            "matched": true
+          },
+          "an4.196:11.3": {
+            "scid": "an4.196:11.3",
+            "pli": "Sammāsamādhi, sāḷha, ariyasāvako yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. ",
+            "de": "Ein edler Schüler, der rechte <span class=\"ebt-matched\">Versenkung besitzt</span>, sieht jegliche Art von Form – vergangen, zukünftig oder gegenwärtig, innen oder außen, grob oder fein, gering oder hochstehend, fern oder nah: *jegliche* Form – er sieht sie wahrhaftig und versteht sie richtig: ‚Das ist nicht mein, das bin nicht ich, das ist nicht mein Selbst.‘ ",
+            "en": "A noble disciple with right immersion truly sees any kind of form at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n20. Das große Kapitel\n196. Mit Sāḷha",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 71,
+          "de": 70,
+          "en": 70
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.21_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.21_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.21",
+        "lang": "de",
+        "segMap": {
+          "an3.21:5.7": {
+            "scid": "an3.21:5.7",
+            "pli": "Imassa, āvuso, puggalassa samādhindriyaṁ adhimattan”ti. ",
+            "de": "Weil dieser Mensch eine herausragende Fähigkeit zur <span class=\"ebt-matched\">Versenkung besitzt</span>.“ ",
+            "en": "Because this person’s faculty of immersion is outstanding.” ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n21. Mit Saviṭṭha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 64,
+          "de": 63,
+          "en": 63
+        }
+      }
+    ]
+  }
+}

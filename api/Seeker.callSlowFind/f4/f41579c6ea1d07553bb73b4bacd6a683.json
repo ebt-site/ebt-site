@@ -1,0 +1,208 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "perceive light",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "perceive light",
+    "method": "phrase",
+    "resultPattern": "\\bperceive light",
+    "segsMatched": 19,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an8/an8.64_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.64_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn128_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn128_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an8.64/en/sujato",
+      "mn128/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn128_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn128_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn128",
+        "lang": "en",
+        "segMap": {
+          "mn128:15.3": {
+            "scid": "mn128:15.3",
+            "pli": "“Idha mayaṁ, bhante, appamattā ātāpino pahitattā viharantā obhāsañceva sañjānāma dassanañca rūpānaṁ. ",
+            "en": "“Well, sir, while meditating diligent, keen, and resolute, we perceive both light and vision of forms. ",
+            "matched": true
+          },
+          "mn128:16.2": {
+            "scid": "mn128:16.2",
+            "pli": "Ahampi sudaṁ, anuruddhā, pubbeva sambodhā anabhisambuddho bodhisattova samāno obhāsañceva sañjānāmi dassanañca rūpānaṁ. ",
+            "en": "Before my awakening—when I was still unawakened but intent on awakening—I too perceived both light and vision of forms. ",
+            "matched": true
+          },
+          "mn128:17.1": {
+            "scid": "mn128:17.1",
+            "pli": "So kho ahaṁ, anuruddhā, appamatto ātāpī pahitatto viharanto obhāsañceva sañjānāmi dassanañca rūpānaṁ. ",
+            "en": "While meditating diligent, keen, and resolute, I perceived both light and vision of forms. ",
+            "matched": true
+          },
+          "mn128:26.1": {
+            "scid": "mn128:26.1",
+            "pli": "So kho ahaṁ, anuruddhā, appamatto ātāpī pahitatto viharanto obhāsañceva sañjānāmi dassanañca rūpānaṁ. ",
+            "en": "While meditating diligent, keen, and resolute, I perceived both light and vision of forms. ",
+            "matched": true
+          },
+          "mn128:28.1": {
+            "scid": "mn128:28.1",
+            "pli": "So kho ahaṁ, anuruddhā, appamatto ātāpī pahitatto viharanto obhāsañhi kho sañjānāmi, na ca rūpāni passāmi; ",
+            "en": "While meditating diligent, keen, and resolute, I perceived light but did not see forms, ",
+            "matched": true
+          },
+          "mn128:28.9": {
+            "scid": "mn128:28.9",
+            "pli": "‘yasmiñhi kho ahaṁ samaye rūpanimittaṁ amanasikaritvā obhāsanimittaṁ manasi karomi, obhāsañhi kho tasmiṁ samaye sañjānāmi, na ca rūpāni passāmi. ",
+            "en": "‘When I don’t focus on the foundation of the forms, but focus on the foundation of the light, then I <span class=\"ebt-matched\">perceive light</span> and do not see forms. ",
+            "matched": true
+          },
+          "mn128:28.10": {
+            "scid": "mn128:28.10",
+            "pli": "Yasmiṁ panāhaṁ samaye obhāsanimittaṁ amanasikaritvā rūpanimittaṁ manasi karomi, rūpāni hi kho tasmiṁ samaye passāmi na ca obhāsaṁ sañjānāmi—",
+            "en": "But when I don’t focus on the foundation of the light, but focus on the foundation of the forms, then I see forms and do not <span class=\"ebt-matched\">perceive light</span>. ",
+            "matched": true
+          },
+          "mn128:29.1": {
+            "scid": "mn128:29.1",
+            "pli": "So kho ahaṁ, anuruddhā, appamatto ātāpī pahitatto viharanto parittañceva obhāsaṁ sañjānāmi, parittāni ca rūpāni passāmi; ",
+            "en": "While meditating diligent, keen, and resolute, I perceived limited light and saw limited forms, ",
+            "matched": true
+          },
+          "mn128:29.2": {
+            "scid": "mn128:29.2",
+            "pli": "appamāṇañceva obhāsaṁ sañjānāmi, appamāṇāni ca rūpāni passāmi: ",
+            "en": "or I perceived limitless light and saw limitless forms. ",
+            "matched": true
+          },
+          "mn128:29.10": {
+            "scid": "mn128:29.10",
+            "pli": "Sohaṁ parittena cakkhunā parittañceva obhāsaṁ sañjānāmi, parittāni ca rūpāni passāmi. ",
+            "en": "and with limited vision I perceive limited light and see limited forms. ",
+            "matched": true
+          },
+          "mn128:29.12": {
+            "scid": "mn128:29.12",
+            "pli": "Sohaṁ appamāṇena cakkhunā appamāṇañceva obhāsaṁ sañjānāmi, appamāṇāni ca rūpāni passāmi—",
+            "en": "and with limitless vision I perceive limitless light and see limitless forms. ",
+            "matched": true
+          }
+        },
+        "score": 11.039,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 128\nCorruptions",
+        "segsMatched": 11,
+        "langSegs": {
+          "pli": 281,
+          "en": 280
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.64_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.64_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.64",
+        "lang": "en",
+        "segMap": {
+          "an8.64:1.3": {
+            "scid": "an8.64:1.3",
+            "pli": "“pubbāhaṁ, bhikkhave, sambodhā anabhisambuddho bodhisattova samāno obhāsaññeva kho sañjānāmi, no ca rūpāni passāmi. ",
+            "en": "“Mendicants, before my awakening—when I was still not awake but intent on awakening—I perceived light but did not see visions. ",
+            "matched": true
+          },
+          "an8.64:2.2": {
+            "scid": "an8.64:2.2",
+            "pli": "‘sace kho ahaṁ obhāsañceva sañjāneyyaṁ rūpāni ca passeyyaṁ; ",
+            "en": "‘What if I were to both <span class=\"ebt-matched\">perceive light</span> and see visions? ",
+            "matched": true
+          },
+          "an8.64:3.1": {
+            "scid": "an8.64:3.1",
+            "pli": "So kho ahaṁ, bhikkhave, aparena samayena appamatto ātāpī pahitatto viharanto obhāsañceva sañjānāmi, rūpāni ca passāmi; ",
+            "en": "So after some time, living alone, withdrawn, diligent, keen, and resolute, I perceived light and saw visions. ",
+            "matched": true
+          },
+          "an8.64:4.2": {
+            "scid": "an8.64:4.2",
+            "pli": "‘sace kho ahaṁ obhāsañceva sañjāneyyaṁ, rūpāni ca passeyyaṁ, tāhi ca devatāhi saddhiṁ santiṭṭheyyaṁ sallapeyyaṁ sākacchaṁ samāpajjeyyaṁ; ",
+            "en": "‘What if I were to <span class=\"ebt-matched\">perceive light</span> and see visions; and associate with those deities, converse, and engage in discussion? ",
+            "matched": true
+          },
+          "an8.64:5.1": {
+            "scid": "an8.64:5.1",
+            "pli": "So kho ahaṁ, bhikkhave, aparena samayena appamatto ātāpī pahitatto viharanto obhāsañceva sañjānāmi, rūpāni ca passāmi, tāhi ca devatāhi saddhiṁ santiṭṭhāmi sallapāmi sākacchaṁ samāpajjāmi; ",
+            "en": "So after some time … I perceived light and saw visions. And I associated with those deities, conversed, and engaged in discussion. ",
+            "matched": true
+          },
+          "an8.64:6.2": {
+            "scid": "an8.64:6.2",
+            "pli": "‘sace kho ahaṁ obhāsañceva sañjāneyyaṁ, rūpāni ca passeyyaṁ, tāhi ca devatāhi saddhiṁ santiṭṭheyyaṁ sallapeyyaṁ sākacchaṁ samāpajjeyyaṁ, tā ca devatā jāneyyaṁ: ",
+            "en": "‘What if I were to <span class=\"ebt-matched\">perceive light</span> and see visions; and associate with those deities, converse, and engage in discussion; ",
+            "matched": true
+          },
+          "an8.64:7.1": {
+            "scid": "an8.64:7.1",
+            "pli": "So kho ahaṁ, bhikkhave, aparena samayena appamatto ātāpī pahitatto viharanto obhāsañceva sañjānāmi, rūpāni ca passāmi, tāhi ca devatāhi saddhiṁ santiṭṭhāmi sallapāmi sākacchaṁ samāpajjāmi, tā ca devatā jānāmi: ",
+            "en": "So after some time … I perceived light and saw visions. And I associated with those deities … And I found out which orders of gods those deities came from. ",
+            "matched": true
+          },
+          "an8.64:8.2": {
+            "scid": "an8.64:8.2",
+            "pli": "‘sace kho ahaṁ obhāsañceva sañjāneyyaṁ, rūpāni ca passeyyaṁ, tāhi ca devatāhi saddhiṁ santiṭṭheyyaṁ sallapeyyaṁ sākacchaṁ samāpajjeyyaṁ, tā ca devatā jāneyyaṁ: ",
+            "en": "‘What if I were to <span class=\"ebt-matched\">perceive light</span> and see visions; and associate with those deities, converse, and engage in discussion; ",
+            "matched": true
+          }
+        },
+        "score": 8.151,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n7. Earthquakes\n64. At Gāyā Head",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 53,
+          "en": 52
+        }
+      }
+    ]
+  }
+}

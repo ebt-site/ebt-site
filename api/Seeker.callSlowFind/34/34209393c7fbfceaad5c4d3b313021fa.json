@@ -1,0 +1,158 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "in bester absicht",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "in bester absicht",
+    "method": "phrase",
+    "resultPattern": "\\bin bester absicht",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn3/sn3.21_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn3/sn3.21_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn3/sn3.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.30_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.30_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.30_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.29_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.29_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.29_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn3.21/de/sabbamitta",
+      "an3.30/de/sabbamitta",
+      "an3.29/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn3/sn3.21_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn3/sn3.21_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn3/sn3.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn3.21",
+        "lang": "de",
+        "segMap": {
+          "sn3.21:13.3": {
+            "scid": "sn3.21:13.3",
+            "pli": "Dadāti seṭṭhasaṅkappo, ",
+            "de": "Sie geben <span class=\"ebt-matched\">in bester Absicht</span>, ",
+            "en": "They give with best of intentions, ",
+            "matched": true
+          },
+          "sn3.21:19.3": {
+            "scid": "sn3.21:19.3",
+            "pli": "Dadāti seṭṭhasaṅkappo, ",
+            "de": "Sie geben <span class=\"ebt-matched\">in bester Absicht</span>, ",
+            "en": "They give with best of intentions, ",
+            "matched": true
+          }
+        },
+        "score": 2.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 3\n3. Kosala\n21. Menschen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 101,
+          "de": 101,
+          "en": 101
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.29_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.29_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.29",
+        "lang": "de",
+        "segMap": {
+          "an3.29:8.1": {
+            "scid": "an3.29:8.1",
+            "pli": "Dadāti seṭṭhasaṅkappo, ",
+            "de": "Er gibt <span class=\"ebt-matched\">in bester Absicht</span>, ",
+            "en": "They give with best of intentions, ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n29. Blind",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "de": 46,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.30_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.30_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.30",
+        "lang": "de",
+        "segMap": {
+          "an3.30:10.1": {
+            "scid": "an3.30:10.1",
+            "pli": "Dhāreti seṭṭhasaṅkappo, ",
+            "de": "behält er sie <span class=\"ebt-matched\">in bester Absicht</span>. ",
+            "en": "they remember it with the best of intentions. ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n3. Menschen\n30. Auf dem Kopf",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 79,
+          "de": 77,
+          "en": 77
+        }
+      }
+    ]
+  }
+}

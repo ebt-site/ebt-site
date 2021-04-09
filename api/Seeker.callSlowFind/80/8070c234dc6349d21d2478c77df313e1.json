@@ -1,0 +1,293 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "liebevolle.* herz",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "liebevolle.* herz",
+    "method": "phrase",
+    "resultPattern": "\\bliebevolle.* herz",
+    "segsMatched": 15,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.167_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.167_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.167_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.51-60_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.51-60_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.51-60_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.67_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.67_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.67_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.198_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.198_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.198_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.167/de/sabbamitta",
+      "an1.51-60/de/sabbamitta",
+      "an4.67/de/sabbamitta",
+      "dn33/de/sabbamitta",
+      "an5.198/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.167_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.167_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.167_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.167",
+        "lang": "de",
+        "segMap": {
+          "an5.167:2.6": {
+            "scid": "an5.167:2.6",
+            "pli": "mettacitto vakkhāmi, no dosantaro. ",
+            "de": "Ich werde mit <span class=\"ebt-matched\">liebevollem Herz</span>en sprechen, nicht mit verstecktem Hass. ",
+            "en": "I will speak lovingly, not from secret hate. ",
+            "matched": true
+          },
+          "an5.167:3.1": {
+            "scid": "an5.167:3.1",
+            "pli": "Idhāhaṁ, āvuso, ekaccaṁ puggalaṁ passāmi akālena codiyamānaṁ no kālena kupitaṁ, abhūtena codiyamānaṁ no bhūtena kupitaṁ, pharusena codiyamānaṁ no saṇhena kupitaṁ, anatthasaṁhitena codiyamānaṁ no atthasaṁhitena kupitaṁ, dosantarena codiyamānaṁ no mettacittena kupitaṁ. ",
+            "de": "Nehmen wir an, ich sehe, wie eine gewisse Person zur falschen Zeit angeklagt wird, sie wird nicht zur rechten Zeit gestört. Sie wird mit der Unwahrheit angeklagt, nicht mit der Wahrheit gestört. Sie wird hart angeklagt, nicht sanft gestört. Sie wird zum Schaden angeklagt, nicht zum Segen gestört. Sie wird mit verstecktem Hass angeklagt, nicht mit <span class=\"ebt-matched\">liebevollem Herz</span>en gestört. ",
+            "en": "Take a case where I see a certain person being accused at the wrong time, not being disturbed at the right time. They’re accused falsely, not disturbed truthfully. They’re accused harshly, not disturbed gently. They’re accused harmfully, not disturbed beneficially. They’re accused with secret hate, not disturbed lovingly. ",
+            "matched": true
+          },
+          "an5.167:4.6": {
+            "scid": "an5.167:4.6",
+            "pli": "dosantarenāyasmā cudito no mettacittena, alaṁ te avippaṭisārāyā’ti. ",
+            "de": "Du bist mit verstecktem Hass angeklagt worden, nicht mit <span class=\"ebt-matched\">liebevollem Herz</span>en. Du hast nichts zu bereuen.‘ ",
+            "en": "You were accused with secret hate, not lovingly. There’s no need for you to feel remorse.’ ",
+            "matched": true
+          },
+          "an5.167:5.6": {
+            "scid": "an5.167:5.6",
+            "pli": "dosantarena te, āvuso, codito no mettacittena, alaṁ te vippaṭisārāyā’ti. ",
+            "de": "Du hast mit verstecktem Hass Anklage erhoben, nicht mit <span class=\"ebt-matched\">liebevollem Herz</span>en. Du solltest das bereuen.‘ ",
+            "en": "You made an accusation with secret hate, not lovingly. There’s a reason for you to feel remorse.’ ",
+            "matched": true
+          },
+          "an5.167:6.1": {
+            "scid": "an5.167:6.1",
+            "pli": "Idha panāhaṁ, āvuso, ekaccaṁ puggalaṁ passāmi kālena codiyamānaṁ no akālena kupitaṁ, bhūtena codiyamānaṁ no abhūtena kupitaṁ, saṇhena codiyamānaṁ no pharusena kupitaṁ, atthasaṁhitena codiyamānaṁ no anatthasaṁhitena kupitaṁ, mettacittena codiyamānaṁ no dosantarena kupitaṁ. ",
+            "de": "Nehmen wir an, ich sehe, wie eine gewisse Person zur rechten Zeit angeklagt wird, sie wird nicht zur falschen Zeit gestört. Sie wird mit der Wahrheit angeklagt, nicht mit der Unwahrheit gestört. Sie wird sanft angeklagt, nicht hart gestört. Sie wird zum Segen angeklagt, nicht zum Schaden gestört. Sie wird mit <span class=\"ebt-matched\">liebevollem Herz</span>en angeklagt, nicht mit verstecktem Hass gestört. ",
+            "en": "Take a case where I see a certain person being accused at the right time, not being disturbed at the wrong time. They’re accused truthfully, not disturbed falsely. They’re accused gently, not disturbed harshly. They’re accused beneficially, not disturbed harmfully. They’re accused lovingly, not disturbed with secret hate. ",
+            "matched": true
+          },
+          "an5.167:7.6": {
+            "scid": "an5.167:7.6",
+            "pli": "mettacittenāyasmā cudito no dosantarena, alaṁ te vippaṭisārāyā’ti. ",
+            "de": "Du bist mit <span class=\"ebt-matched\">liebevollem Herz</span>en angeklagt worden, nicht mit verstecktem Hass. Du solltest das bereuen.‘ ",
+            "en": "You were accused lovingly, not with secret hate. There’s a reason for you to feel remorse.’ ",
+            "matched": true
+          },
+          "an5.167:8.6": {
+            "scid": "an5.167:8.6",
+            "pli": "mettacittena te, āvuso, codito no dosantarena, alaṁ te avippaṭisārāyā’ti. ",
+            "de": "Du hast mit <span class=\"ebt-matched\">liebevollem Herz</span>en Anklage erhoben, nicht mit verstecktem Hass. Du hast nichts zu bereuen.‘ ",
+            "en": "You made an accusation lovingly, not with secret hate. There’s no need for you to feel remorse.’ ",
+            "matched": true
+          },
+          "an5.167:9.3": {
+            "scid": "an5.167:9.3",
+            "pli": "Mañcepi, āvuso, pare codeyyuṁ kālena vā akālena vā bhūtena vā abhūtena vā saṇhena vā pharusena vā atthasaṁhitena vā anatthasaṁhitena vā mettacittā vā dosantarā vā, ahampi dvīsuyeva dhammesu patiṭṭhaheyyaṁ—",
+            "de": "Selbst wenn andere mich anklagen, werte Freunde, sei es zur rechten oder zur falschen Zeit, mit der Wahrheit oder mit der Unwahrheit, sanft oder hart, zum Segen oder zum Schaden, mit <span class=\"ebt-matched\">liebevollem Herz</span>en oder mit verstecktem Hass – ich werde mich in zwei Dingen verankern: ",
+            "en": "Even if others accuse me—at the right time or the wrong time, truthfully or falsely, gently or harshly, beneficially or harmfully, lovingly or with secret hate—I will still ground myself in two things: ",
+            "matched": true
+          }
+        },
+        "score": 8.121,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n17. Groll\n167. Anklage",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 66,
+          "de": 65,
+          "en": 65
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.51-60_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an1/an1.51-60_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an1/an1.51-60_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.51-60",
+        "lang": "de",
+        "segMap": {
+          "an1.53:1.1": {
+            "scid": "an1.53:1.1",
+            "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ āsevati; ",
+            "de": "„Wenn, Mönche und Nonnen, ein Mönch oder eine Nonne ein <span class=\"ebt-matched\">liebevolles Herz</span> pflegt, und sei es nur für die Dauer eines Fingerschnippens, ",
+            "en": "“If, mendicants, a mendicant cultivates a mind of love even as long as a finger-snap, ",
+            "matched": true
+          },
+          "an1.54:1.1": {
+            "scid": "an1.54:1.1",
+            "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ bhāveti; ",
+            "de": "„Wenn, Mönche und Nonnen, ein Mönch oder eine Nonne ein <span class=\"ebt-matched\">liebevolles Herz</span> entwickelt, und sei es nur für die Dauer eines Fingerschnippens, ",
+            "en": "“If, mendicants, a mendicant develops a mind of love even as long as a finger-snap, ",
+            "matched": true
+          },
+          "an1.55:1.1": {
+            "scid": "an1.55:1.1",
+            "pli": "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ manasi karoti; ",
+            "de": "„Wenn, Mönche und Nonnen, ein Mönch oder eine Nonne sich einem <span class=\"ebt-matched\">liebevollen Herz</span>en zuwendet, und sei es nur für die Dauer eines Fingerschnippens, ",
+            "en": "“If, mendicants, a mendicant focuses on a mind of love even as long as a finger-snap, ",
+            "matched": true
+          }
+        },
+        "score": 3.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 1\n6. Fingerschnippen\n51–60",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 54,
+          "de": 53,
+          "en": 53
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.67_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.67_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.67_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.67",
+        "lang": "de",
+        "segMap": {
+          "an4.67:2.1": {
+            "scid": "an4.67:2.1",
+            "pli": "“Na hi nūna so, bhikkhave, bhikkhu cattāri ahirājakulāni mettena cittena phari. ",
+            "de": "„Mönche und Nonnen, dieser Mönch hat sich wohl nicht den vier königlichen Schlangenfamilien mit <span class=\"ebt-matched\">liebevollem Herz</span>en zugewandt. ",
+            "en": "“Mendicants, that monk mustn’t have spread a mind of love to the four royal snake families. ",
+            "matched": true
+          },
+          "an4.67:4.1": {
+            "scid": "an4.67:4.1",
+            "pli": "Anujānāmi, bhikkhave, imāni cattāri ahirājakulāni mettena cittena pharituṁ attaguttiyā attarakkhāya attaparittāyāti. ",
+            "de": "Mönche und Nonnen, ich mahne euch, euch den vier königlichen Schlangenfamilien mit <span class=\"ebt-matched\">liebevollem Herz</span>en zuzuwenden, zu eurer eigenen Sicherheit, eurer Zuflucht und eurem Schutz. ",
+            "en": "Mendicants, I urge you to spread a mind of love to the four royal snake families, for your own safety, security, and protection. ",
+            "matched": true
+          }
+        },
+        "score": 2.049,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n7. Gute Verwendung\n67. Der Schlangenkönig",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 41,
+          "de": 40,
+          "en": 40
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.198_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.198_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.198_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.198",
+        "lang": "de",
+        "segMap": {
+          "an5.198:1.3": {
+            "scid": "an5.198:1.3",
+            "pli": "Kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti, atthasaṁhitā ca bhāsitā hoti, mettacittena ca bhāsitā hoti. ",
+            "de": "Eine Rede, die zur rechten Zeit gesprochen ist, die wahr ist, die sanft, zum Segen und mit <span class=\"ebt-matched\">liebevollem Herz</span>en gesprochen ist. ",
+            "en": "It is speech that is timely, true, gentle, beneficial, and loving. ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n20. Brahmanen\n198. Gut gesprochene Worte",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:2.1.63": {
+            "scid": "dn33:2.1.63",
+            "pli": "mettacittena vakkhāmi no dosantarenāti. ",
+            "de": "Ich werde mit <span class=\"ebt-matched\">liebevollem Herz</span>en sprechen, nicht mit verstecktem Hass. ",
+            "en": "I will speak lovingly, not from secret hate. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

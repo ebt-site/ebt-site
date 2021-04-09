@@ -1,0 +1,252 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "eight things should be developed",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "eight things should be developed",
+    "method": "phrase",
+    "resultPattern": "\\beight things should be developed",
+    "segsMatched": 9,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an8/an8.120_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.120_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.119_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.119_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.118_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.118_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.148-627_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.148-627_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.121-147_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.121-147_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an8.120/en/sujato",
+      "an8.119/en/sujato",
+      "an8.118/en/sujato",
+      "dn34/en/sujato",
+      "an8.148-627/en/sujato",
+      "an8.121-147/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.118_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.118_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.118",
+        "lang": "en",
+        "segMap": {
+          "an8.118:1.1": {
+            "scid": "an8.118:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya aṭṭha dhammā bhāvetabbā. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">eight things should be developed</span>. ",
+            "matched": true
+          },
+          "an8.118:1.4": {
+            "scid": "an8.118:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime aṭṭha dhammā bhāvetabbā”ti. ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">eight things should be developed</span>.”",
+            "matched": true
+          }
+        },
+        "score": 2.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n11. Abbreviated Texts Beginning With Greed\n118",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.120_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.120_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.120",
+        "lang": "en",
+        "segMap": {
+          "an8.120:1.1": {
+            "scid": "an8.120:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya aṭṭha dhammā bhāvetabbā. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">eight things should be developed</span>. ",
+            "matched": true
+          },
+          "an8.120:1.4": {
+            "scid": "an8.120:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime aṭṭha dhammā bhāvetabbā”. ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">eight things should be developed</span>.”",
+            "matched": true
+          }
+        },
+        "score": 2.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n11. Abbreviated Texts Beginning With Greed\n120",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.119_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.119_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.119",
+        "lang": "en",
+        "segMap": {
+          "an8.119:1.1": {
+            "scid": "an8.119:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya aṭṭha dhammā bhāvetabbā. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">eight things should be developed</span>. ",
+            "matched": true
+          },
+          "an8.119:1.13": {
+            "scid": "an8.119:1.13",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime aṭṭha dhammā bhāvetabbā”. ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">eight things should be developed</span>.”",
+            "matched": true
+          }
+        },
+        "score": 2.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n11. Abbreviated Texts Beginning With Greed\n119",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 16,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.121-147_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.121-147_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.121-147",
+        "lang": "en",
+        "segMap": {
+          "an8.121-147:1.10": {
+            "scid": "an8.121-147:1.10",
+            "pli": "ime aṭṭha dhammā bhāvetabbā”. ",
+            "en": "these <span class=\"ebt-matched\">eight things should be developed</span>.”",
+            "matched": true
+          }
+        },
+        "score": 1.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n11. Abbreviated Texts Beginning With Greed\n121–147",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 13,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.148-627_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.148-627_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.148-627",
+        "lang": "en",
+        "segMap": {
+          "an8.148-627:1.26": {
+            "scid": "an8.148-627:1.26",
+            "pli": "ime aṭṭha dhammā bhāvetabbā”ti. ",
+            "en": "these <span class=\"ebt-matched\">eight things should be developed</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 1.032,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n11. Abbreviated Texts Beginning With Greed\n148–627",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 31,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:2.1.30": {
+            "scid": "dn34:2.1.30",
+            "pli": "Katame aṭṭha dhammā bhāvetabbā? ",
+            "en": "What <span class=\"ebt-matched\">eight things should be developed</span>? ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

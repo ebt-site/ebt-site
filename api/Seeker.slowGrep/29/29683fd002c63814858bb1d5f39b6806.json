@@ -1,0 +1,23 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bthe buddha kept silent",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn44/sn44.10_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/kn/ud/vagga5/ud5.5_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/kn/ud/vagga3/ud3.3_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an8/an8.20_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/sn/sn7/sn7.3_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an10/an10.95_translation-en-sujato.json:1"
+  ]
+}

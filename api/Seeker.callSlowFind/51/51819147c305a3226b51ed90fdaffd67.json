@@ -1,0 +1,124 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "metteyya",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "pli",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "metteyya",
+    "method": "phrase",
+    "resultPattern": "\\bmetteyya",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn26_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn26_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.61_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.61_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn26/en/sujato",
+      "an6.61/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn26_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn26",
+        "lang": "en",
+        "segMap": {
+          "dn26:25.0": {
+            "scid": "dn26:25.0",
+            "pli": "8. <span class=\"ebt-matched\">Metteyya</span>buddhuppāda ",
+            "en": "8. The Arising of the Buddha <span class=\"ebt-matched\">Metteyya</span> ",
+            "matched": true
+          },
+          "dn26:25.1": {
+            "scid": "dn26:25.1",
+            "pli": "Asītivassasahassāyukesu, bhikkhave, manussesu metteyyo nāma bhagavā loke uppajjissati arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā. ",
+            "en": "And the Blessed One named <span class=\"ebt-matched\">Metteyya</span> will arise in the world—perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed—",
+            "matched": true
+          },
+          "dn26:26.2": {
+            "scid": "dn26:26.2",
+            "pli": "Taṁ yūpaṁ ussāpetvā ajjhāvasitvā taṁ datvā vissajjitvā samaṇabrāhmaṇakapaṇaddhikavaṇibbakayācakānaṁ dānaṁ datvā <span class=\"ebt-matched\">metteyya</span>ssa bhagavato arahato sammāsambuddhassa santike kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajissati. ",
+            "en": "After staying there, he will give it away to ascetics and brahmins, paupers, vagrants, travelers, and beggars. Then, having shaved off his hair and beard and dressed in ocher robes, he will go forth from the lay life to homelessness in the Buddha <span class=\"ebt-matched\">Metteyya</span>’s presence. ",
+            "matched": true
+          }
+        },
+        "score": 3.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 26\nThe Wheel-Turning Monarch\n1. Taking Refuge in Oneself",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 355,
+          "en": 354
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.61_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.61",
+        "lang": "en",
+        "segMap": {
+          "an6.61:1.4": {
+            "scid": "an6.61:1.4",
+            "pli": "“vuttamidaṁ, āvuso, bhagavatā pārāyane <span class=\"ebt-matched\">metteyya</span>pañhe: ",
+            "en": "“Reverends, this was said by the Buddha in ‘The Way to the Beyond’, in ‘The Questions of <span class=\"ebt-matched\">Metteyya</span>’: ",
+            "matched": true
+          },
+          "an6.61:10.5": {
+            "scid": "an6.61:10.5",
+            "pli": "“Sabbesaṁ vo, bhikkhave, subhāsitaṁ pariyāyena, api ca yaṁ mayā sandhāya bhāsitaṁ pārāyane <span class=\"ebt-matched\">metteyya</span>pañhe: ",
+            "en": "“Mendicants, you’ve all spoken well in a way. However, this is what I was referring to in ‘The Way to the Beyond’, in ‘The Questions of <span class=\"ebt-matched\">Metteyya</span>’ when I said: ",
+            "matched": true
+          }
+        },
+        "score": 2.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n6. The Great Chapter\n61. In the Middle",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 56,
+          "en": 55
+        }
+      }
+    ]
+  }
+}

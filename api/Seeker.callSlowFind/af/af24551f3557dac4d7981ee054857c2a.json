@@ -1,0 +1,198 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "immersion with five factors",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "immersion with five factors",
+    "method": "phrase",
+    "resultPattern": "\\bimmersion with five factors",
+    "segsMatched": 13,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.28_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.28_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag16.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag16.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.28/en/sujato",
+      "thag16.9/en/sujato",
+      "dn34/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.28_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.28",
+        "lang": "en",
+        "segMap": {
+          "an5.28:1.1": {
+            "scid": "an5.28:1.1",
+            "pli": "“Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa bhāvanaṁ desessāmi. ",
+            "en": "“Mendicants, I will teach you how to develop noble right <span class=\"ebt-matched\">immersion with five factors</span>. ",
+            "matched": true
+          },
+          "an5.28:2.1": {
+            "scid": "an5.28:2.1",
+            "pli": "“Katamā ca, bhikkhave, ariyassa pañcaṅgikassa sammāsamādhissa bhāvanā? ",
+            "en": "“And how do you develop noble right <span class=\"ebt-matched\">immersion with five factors</span>? ",
+            "matched": true
+          },
+          "an5.28:2.7": {
+            "scid": "an5.28:2.7",
+            "pli": "Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa ayaṁ paṭhamā bhāvanā. ",
+            "en": "This is the first way to develop noble right <span class=\"ebt-matched\">immersion with five factors</span>. ",
+            "matched": true
+          },
+          "an5.28:3.8": {
+            "scid": "an5.28:3.8",
+            "pli": "Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa ayaṁ dutiyā bhāvanā. ",
+            "en": "This is the second way to develop noble right <span class=\"ebt-matched\">immersion with five factors</span>. ",
+            "matched": true
+          },
+          "an5.28:4.9": {
+            "scid": "an5.28:4.9",
+            "pli": "Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa ayaṁ tatiyā bhāvanā. ",
+            "en": "This is the third way to develop noble right <span class=\"ebt-matched\">immersion with five factors</span>. ",
+            "matched": true
+          },
+          "an5.28:5.8": {
+            "scid": "an5.28:5.8",
+            "pli": "Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa ayaṁ catutthā bhāvanā. ",
+            "en": "This is the fourth way to develop noble right <span class=\"ebt-matched\">immersion with five factors</span>. ",
+            "matched": true
+          },
+          "an5.28:6.4": {
+            "scid": "an5.28:6.4",
+            "pli": "Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa ayaṁ pañcamā bhāvanā. ",
+            "en": "This is the fifth way to develop noble right <span class=\"ebt-matched\">immersion with five factors</span>. ",
+            "matched": true
+          },
+          "an5.28:7.1": {
+            "scid": "an5.28:7.1",
+            "pli": "Evaṁ bhāvite kho, bhikkhave, bhikkhu ariye pañcaṅgike sammāsamādhimhi evaṁ bahulīkate yassa yassa abhiññāsacchikaraṇīyassa dhammassa cittaṁ abhininnāmeti abhiññāsacchikiriyāya, tatra tatreva sakkhibhabbataṁ pāpuṇāti sati sati āyatane. ",
+            "en": "When the noble right <span class=\"ebt-matched\">immersion with five factors</span> is cultivated in this way, a mendicant becomes capable of realizing anything that can be realized by insight to which they extend the mind, in each and every case. ",
+            "matched": true
+          },
+          "an5.28:8.4": {
+            "scid": "an5.28:8.4",
+            "pli": "“Evamevaṁ kho, bhikkhave, bhikkhu evaṁ bhāvite ariye pañcaṅgike sammāsamādhimhi evaṁ bahulīkate yassa yassa abhiññāsacchikaraṇīyassa dhammassa cittaṁ abhininnāmeti abhiññāsacchikiriyāya, tatra tatreva sakkhibhabbataṁ pāpuṇāti sati sati āyatane. ",
+            "en": "“In the same way, when noble right <span class=\"ebt-matched\">immersion with five factors</span> is cultivated in this way, a mendicant becomes capable of realizing anything that can be realized by insight to which they extend the mind, in each and every case. ",
+            "matched": true
+          },
+          "an5.28:9.4": {
+            "scid": "an5.28:9.4",
+            "pli": "“Evamevaṁ kho, bhikkhave, bhikkhu evaṁ bhāvite ariye pañcaṅgike sammāsamādhimhi evaṁ bahulīkate yassa yassa abhiññāsacchikaraṇīyassa dhammassa …pe… sati sati āyatane. ",
+            "en": "“In the same way, when noble right <span class=\"ebt-matched\">immersion with five factors</span> is cultivated in this way, a mendicant becomes capable of realizing anything that can be realized by insight to which they extend the mind, in each and every case. ",
+            "matched": true
+          },
+          "an5.28:10.3": {
+            "scid": "an5.28:10.3",
+            "pli": "Evamevaṁ kho, bhikkhave, bhikkhu evaṁ bhāvite ariye pañcaṅgike sammāsamādhimhi evaṁ bahulīkate yassa yassa abhiññāsacchikaraṇīyassa dhammassa cittaṁ abhininnāmeti abhiññāsacchikiriyāya, ",
+            "en": "In the same way, when noble right <span class=\"ebt-matched\">immersion with five factors</span> is cultivated in this way, ",
+            "matched": true
+          }
+        },
+        "score": 11.129,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n3. With Five Factors\n28. With Five Factors",
+        "segsMatched": 11,
+        "langSegs": {
+          "pli": 85,
+          "en": 84
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag16.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag16.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag16.9",
+        "lang": "en",
+        "segMap": {
+          "thag16.9:25.2": {
+            "scid": "thag16.9:25.2",
+            "pli": "sante ekodibhāvite;",
+            "en": "in <span class=\"ebt-matched\">immersion with five factors</span>.",
+            "matched": true
+          }
+        },
+        "score": 1.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Twenties\nChapter One\n16.9. Anuruddha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 119,
+          "en": 118
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.6.12": {
+            "scid": "dn34:1.6.12",
+            "pli": "Pañcaṅgiko sammāsamādhi—",
+            "en": "Right <span class=\"ebt-matched\">immersion with five factors</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

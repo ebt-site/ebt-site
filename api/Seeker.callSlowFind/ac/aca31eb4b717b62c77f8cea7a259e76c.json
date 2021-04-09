@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "美しさを贈り",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "美しさを贈り",
+    "method": "phrase",
+    "resultPattern": "美しさを贈り",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.58_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.58_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an4/an4.58_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an4.58/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.58_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.58_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an4/an4.58_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.58",
+        "lang": "jpn",
+        "segMap": {
+          "an4.58:2.5": {
+            "scid": "an4.58:2.5",
+            "pli": "Vaṇṇaṁ datvā … sukhaṁ datvā … balaṁ datvā balassa bhāgī hoti dibbassa vā mānusassa vā. ",
+            "en": "Giving beauty … happiness … strength … ",
+            "jpn": "<span class=\"ebt-matched\">美しさを贈り</span>、幸福を贈り、力強さを贈り、彼らは神又は人間として美しさ、幸福、力強さを得ます。",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 四集\n第六.　溢れ出る良い報いの元（福徳横溢品）\n58. スダッタ",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 18,
+          "jpn": 18
+        }
+      }
+    ]
+  }
+}

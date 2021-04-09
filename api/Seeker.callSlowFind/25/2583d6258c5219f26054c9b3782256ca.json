@@ -1,0 +1,220 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "ten universal dimensions",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "ten universal dimensions",
+    "method": "phrase",
+    "resultPattern": "\\bten universal dimensions",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an10/an10.29_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.29_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.25_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.25_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn77_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn77_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an10.29/en/sujato",
+      "an10.25/en/sujato",
+      "mn77/en/sujato",
+      "dn34/en/sujato",
+      "dn33/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.29_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.29",
+        "lang": "en",
+        "segMap": {
+          "an10.29:4.1": {
+            "scid": "an10.29:4.1",
+            "pli": "Dasayimāni, bhikkhave, kasiṇāyatanāni. ",
+            "en": "There are these <span class=\"ebt-matched\">ten universal dimensions</span> of meditation. ",
+            "matched": true
+          },
+          "an10.29:4.13": {
+            "scid": "an10.29:4.13",
+            "pli": "Imāni kho, bhikkhave, dasa kasiṇāyatanāni. ",
+            "en": "These are the <span class=\"ebt-matched\">ten universal dimensions</span> of meditation. ",
+            "matched": true
+          },
+          "an10.29:5.1": {
+            "scid": "an10.29:5.1",
+            "pli": "Etadaggaṁ, bhikkhave, imesaṁ dasannaṁ kasiṇāyatanānaṁ yadidaṁ viññāṇakasiṇaṁ eko sañjānāti uddhaṁ adho tiriyaṁ advayaṁ appamāṇaṁ. ",
+            "en": "The best of these <span class=\"ebt-matched\">ten universal dimensions</span> of meditation is when someone perceives the meditation on universal consciousness above, below, across, non-dual and limitless. ",
+            "matched": true
+          }
+        },
+        "score": 3.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n3. The Great Chapter\n29. Kosala (1st)",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 124,
+          "en": 123
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.25_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.25",
+        "lang": "en",
+        "segMap": {
+          "an10.25:1.1": {
+            "scid": "an10.25:1.1",
+            "pli": "“Dasayimāni, bhikkhave, kasiṇāyatanāni. ",
+            "en": "“Mendicants, there are these <span class=\"ebt-matched\">ten universal dimensions</span> of meditation. ",
+            "matched": true
+          },
+          "an10.25:1.13": {
+            "scid": "an10.25:1.13",
+            "pli": "Imāni kho, bhikkhave, dasa kasiṇāyatanānī”ti. ",
+            "en": "These are the <span class=\"ebt-matched\">ten universal dimensions</span> of meditation.” ",
+            "matched": true
+          }
+        },
+        "score": 2.118,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n3. The Great Chapter\n25. Meditation on Universals",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 17,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn77_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn77_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn77",
+        "lang": "en",
+        "segMap": {
+          "mn77:24.1": {
+            "scid": "mn77:24.1",
+            "pli": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā dasa kasiṇāyatanāni bhāventi. ",
+            "en": "Furthermore, I have explained to my disciples a practice that they use to develop the <span class=\"ebt-matched\">ten universal dimensions</span> of meditation. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 77\nThe Longer Discourse with Sakuludāyī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 390,
+          "en": 373
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:3.3.35": {
+            "scid": "dn33:3.3.35",
+            "pli": "Dasa kasiṇāyatanāni. ",
+            "en": "<span class=\"ebt-matched\">Ten universal dimensions</span> of meditation. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:2.3.36": {
+            "scid": "dn34:2.3.36",
+            "pli": "Dasa kasiṇāyatanāni—",
+            "en": "<span class=\"ebt-matched\">Ten universal dimensions</span> of meditation. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

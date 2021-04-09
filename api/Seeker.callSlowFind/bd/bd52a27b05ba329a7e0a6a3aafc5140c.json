@@ -1,0 +1,100 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "da mag ein vernünftiger mensch kommen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "da mag ein vernünftiger mensch kommen",
+    "method": "phrase",
+    "resultPattern": "\\bda mag ein vernünftiger mensch kommen",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn25/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "de",
+        "segMap": {
+          "dn25:22.8": {
+            "scid": "dn25:22.8",
+            "pli": "‘Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṁ dhammaṁ desemi. ",
+            "de": "<span class=\"ebt-matched\">Da mag ein vernünftiger Mensch kommen</span>, nicht verschlagen oder hinterhältig, ein aufrichtiger Mensch: Ich lehre ihn und leite ihn an. ",
+            "en": "Let a sensible person come—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
+            "matched": true
+          },
+          "dn25:22.11": {
+            "scid": "dn25:22.11",
+            "pli": "Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṁ dhammaṁ desemi. ",
+            "de": "<span class=\"ebt-matched\">Da mag ein vernünftiger Mensch kommen</span>, nicht verschlagen oder hinterhältig, ein aufrichtiger Mensch: Ich lehre ihn und leite ihn an. ",
+            "en": "Let a sensible person come—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
+            "matched": true
+          },
+          "dn25:22.19": {
+            "scid": "dn25:22.19",
+            "pli": "Etu viññū puriso asaṭho amāyāvī ujujātiko ahamanusāsāmi ahaṁ dhammaṁ desemi. ",
+            "de": "<span class=\"ebt-matched\">Da mag ein vernünftiger Mensch kommen</span>, nicht verschlagen oder hinterhältig, ein aufrichtiger Mensch: Ich lehre ihn und leite ihn an. ",
+            "en": " ",
+            "matched": true
+          },
+          "dn25:22.30": {
+            "scid": "dn25:22.30",
+            "pli": "Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṁ dhammaṁ desemi. ",
+            "de": "<span class=\"ebt-matched\">Da mag ein vernünftiger Mensch kommen</span>, nicht verschlagen oder hinterhältig, ein aufrichtiger Mensch: Ich lehre ihn und leite ihn an. ",
+            "en": "Let a sensible person come—neither devious nor deceitful, a person of integrity. I teach and instruct them. ",
+            "matched": true
+          }
+        },
+        "score": 4.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 25\nDas Löwengebrüll in Udumbarikās Kloster\n1. Vom Wanderer Nigrodha",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 383,
+          "de": 347,
+          "en": 382
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "unglück der vielen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "unglück der vielen",
+    "method": "keywords",
+    "resultPattern": "\\bunglück|\\bder|\\bvielen",
+    "segsMatched": 0,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.69_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.69_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.69_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.192_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.192_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.192_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn31_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn31_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn31_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.316-332_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.316-332_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.316-332_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [],
+    "mlDocs": []
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wirklichkeitsgemäß.* erkennen und sehen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wirklichkeitsgemäß.* erkennen und sehen",
+    "method": "phrase",
+    "resultPattern": "\\bwirklichkeitsgemäß.* erkennen und sehen",
+    "segsMatched": 29,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn46/sn46.55_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn46/sn46.55_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.55_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.193_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.193_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.193_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.23_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.23_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.23_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn46.55/de/sabbamitta",
+      "an5.193/de/sabbamitta",
+      "sn12.23/de/sabbamitta",
+      "dn34/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.193_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.193_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.193_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.193",
+        "lang": "de",
+        "segMap": {
+          "an5.193:2.1": {
+            "scid": "an5.193:2.1",
+            "pli": "Yasmiṁ, brāhmaṇa, samaye kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ nappajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, paratthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, ubhayatthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, dīgharattaṁ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā. ",
+            "de": "„Brahmane, es kommt vor, dass dein Herz von sinnlichem Verlangen überwältigt, in sinnliches Verlangen verstrickt ist und du nicht wirklich verstehst, wie du dem aufgekommenen sinnlichen Verlangen entrinnen kannst. Dann kannst du nicht <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span>, was gut für dich selbst, gut für jemand anderen oder gut für beide ist. Selbst Hymnen, die du lange geübt hast, wollen dir nicht einfallen, und die, die du nicht geübt hast, erst recht nicht. ",
+            "en": "“Brahmin, there’s a time when your heart is overcome and mired in sensual desire and you don’t truly understand the escape from sensual desire that has arisen. At that time you don’t truly know or see your own good, the good of another, or the good of both. Even hymns that are long-practiced don’t spring to mind, let alone those that are not practiced. ",
+            "matched": true
+          },
+          "an5.193:2.4": {
+            "scid": "an5.193:2.4",
+            "pli": "Evamevaṁ kho, brāhmaṇa, yasmiṁ samaye kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ nappajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, paratthampi …pe… ubhayatthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, dīgharattaṁ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz von sinnlichem Verlangen überwältigt ist, nicht <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange geübt hast, wollen dir nicht einfallen, und die, die du nicht geübt hast, erst recht nicht. ",
+            "en": "In the same way, when your heart is overcome and mired in sensual desire … Even hymns that are long-practiced don’t spring to mind, let alone those that are not practiced. ",
+            "matched": true
+          },
+          "an5.193:3.4": {
+            "scid": "an5.193:3.4",
+            "pli": "Evamevaṁ kho, brāhmaṇa, yasmiṁ samaye byāpādapariyuṭṭhitena cetasā viharati byāpādaparetena, uppannassa ca byāpādassa nissaraṇaṁ yathābhūtaṁ nappajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, paratthampi …pe… ubhayatthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, dīgharattaṁ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz von bösem Willen überwältigt ist, nicht <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange geübt hast, wollen dir nicht einfallen, und die, die du nicht geübt hast, erst recht nicht. ",
+            "en": "In the same way, when your heart is overcome and mired in ill will … Even hymns that are long-practiced don’t spring to mind, let alone those that are not practiced. ",
+            "matched": true
+          },
+          "an5.193:4.4": {
+            "scid": "an5.193:4.4",
+            "pli": "Evamevaṁ kho, brāhmaṇa, yasmiṁ samaye thinamiddhapariyuṭṭhitena cetasā viharati thinamiddhaparetena, uppannassa ca thinamiddhassa nissaraṇaṁ yathābhūtaṁ nappajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, paratthampi …pe… ubhayatthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, dīgharattaṁ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz von Dumpfheit und Benommenheit überwältigt ist, nicht <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange geübt hast, wollen dir nicht einfallen, und die, die du nicht geübt hast, erst recht nicht. ",
+            "en": "In the same way, when your heart is overcome and mired in dullness and drowsiness … Even hymns that are long-practiced don’t spring to mind, let alone those that are not practiced. ",
+            "matched": true
+          },
+          "an5.193:5.4": {
+            "scid": "an5.193:5.4",
+            "pli": "Evamevaṁ kho, brāhmaṇa, yasmiṁ samaye uddhaccakukkuccapariyuṭṭhitena cetasā viharati uddhaccakukkuccaparetena, uppannassa ca uddhaccakukkuccassa nissaraṇaṁ yathābhūtaṁ nappajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, paratthampi …pe… ubhayatthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, dīgharattaṁ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz von Rastlosigkeit und Reue überwältigt ist, nicht <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange geübt hast, wollen dir nicht einfallen, und die, die du nicht geübt hast, erst recht nicht. ",
+            "en": "In the same way, when your heart is overcome and mired in restlessness and remorse … Even hymns that are long-practiced don’t spring to mind, let alone those that are not practiced. ",
+            "matched": true
+          },
+          "an5.193:6.4": {
+            "scid": "an5.193:6.4",
+            "pli": "Evamevaṁ kho, brāhmaṇa, yasmiṁ samaye vicikicchāpariyuṭṭhitena cetasā viharati vicikicchāparetena, uppannāya ca vicikicchāya nissaraṇaṁ yathābhūtaṁ nappajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, paratthampi …pe… ubhayatthampi tasmiṁ samaye yathābhūtaṁ nappajānāti na passati, dīgharattaṁ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz von Zweifel überwältigt, in Zweifel verstrickt ist und du nicht wirklich verstehst, wie du dem aufgekommenen Zweifel entrinnen kannst, nicht <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span>, was gut für dich selbst, gut für jemand anderen oder gut für beide ist. Selbst Hymnen, die du lange geübt hast, wollen dir nicht einfallen, und die, die du nicht geübt hast, erst recht nicht. ",
+            "en": "In the same way, there’s a time when your heart is overcome and mired in doubt and you don’t truly understand the escape from doubt that has arisen. At that time you don’t truly know or see your own good, the good of another, or the good of both. Even hymns that are long-practiced don’t spring to mind, let alone those that are not practiced. ",
+            "matched": true
+          },
+          "an5.193:7.1": {
+            "scid": "an5.193:7.1",
+            "pli": "Yasmiñca kho, brāhmaṇa, samaye na kāmarāgapariyuṭṭhitena cetasā viharati na kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ pajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ pajānāti passati, paratthampi tasmiṁ samaye yathābhūtaṁ pajānāti passati, ubhayatthampi tasmiṁ samaye yathābhūtaṁ pajānāti passati, dīgharattaṁ asajjhāyakatāpi mantā paṭibhanti, pageva sajjhāyakatā. ",
+            "de": "Es kommt vor, dass dein Herz nicht von sinnlichem Verlangen überwältigt, in sinnliches Verlangen verstrickt ist und du wirklich verstehst, wie du dem aufgekommenen sinnlichen Verlangen entrinnen kannst. Dann kannst du <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span>, was gut für dich selbst, gut für jemand anderen oder gut für beide ist. Selbst Hymnen, die du lange nicht geübt hast, fallen dir ein, und die, die du geübt hast, erst recht. ",
+            "en": "There’s a time when your heart is not overcome and mired in sensual desire and you truly understand the escape from sensual desire that has arisen. At that time you truly know and see your own good, the good of another, and the good of both. Even hymns that are long-unpracticed spring to mind, let alone those that are practiced. ",
+            "matched": true
+          },
+          "an5.193:7.4": {
+            "scid": "an5.193:7.4",
+            "pli": "Evamevaṁ kho, brāhmaṇa, yasmiṁ samaye na kāmarāgapariyuṭṭhitena cetasā viharati …pe…. ",
+            "de": "Ebenso kannst du, wenn dein Herz nicht von sinnlichem Verlangen überwältigt ist, <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange nicht geübt hast, fallen dir ein, und die, die du geübt hast, erst recht. ",
+            "en": "In the same way, when your heart is not overcome and mired in sensual desire … Even hymns that are long-unpracticed spring to mind, let alone those that are practiced. ",
+            "matched": true
+          },
+          "an5.193:8.4": {
+            "scid": "an5.193:8.4",
+            "pli": "Evamevaṁ kho, brāhmaṇa, yasmiṁ samaye na byāpādapariyuṭṭhitena cetasā viharati …pe…. ",
+            "de": "Ebenso kannst du, wenn dein Herz nicht von bösem Willen überwältigt ist, <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange nicht geübt hast, fallen dir ein, und die, die du geübt hast, erst recht. ",
+            "en": "In the same way, when your heart is not overcome and mired in ill will … Even hymns that are long-unpracticed spring to mind, let alone those that are practiced. ",
+            "matched": true
+          },
+          "an5.193:9.4": {
+            "scid": "an5.193:9.4",
+            "pli": "Evamevaṁ kho, brāhmaṇa, yasmiṁ samaye na thinamiddhapariyuṭṭhitena cetasā viharati …pe…. ",
+            "de": "Ebenso kannst du, wenn dein Herz nicht von Dumpfheit und Benommenheit überwältigt ist, <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange nicht geübt hast, fallen dir ein, und die, die du geübt hast, erst recht. ",
+            "en": "In the same way, when your heart is not overcome and mired in dullness and drowsiness … Even hymns that are long-unpracticed spring to mind, let alone those that are practiced. ",
+            "matched": true
+          },
+          "an5.193:10.4": {
+            "scid": "an5.193:10.4",
+            "pli": "Evamevaṁ kho, brāhmaṇa, yasmiṁ samaye na uddhaccakukkuccapariyuṭṭhitena cetasā viharati …pe…. ",
+            "de": "Ebenso kannst du, wenn dein Herz nicht von Rastlosigkeit und Reue überwältigt ist, <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange nicht geübt hast, fallen dir ein, und die, die du geübt hast, erst recht. ",
+            "en": "In the same way, when your heart is not overcome and mired in restlessness and remorse … Even hymns that are long-unpracticed spring to mind, let alone those that are practiced. ",
+            "matched": true
+          },
+          "an5.193:11.4": {
+            "scid": "an5.193:11.4",
+            "pli": "Evamevaṁ kho, brāhmaṇa, yasmiṁ samaye na vicikicchāpariyuṭṭhitena cetasā viharati na vicikicchāparetena, uppannāya ca vicikicchāya nissaraṇaṁ yathābhūtaṁ pajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ pajānāti passati, paratthampi …pe… ubhayatthampi tasmiṁ samaye yathābhūtaṁ pajānāti passati, dīgharattaṁ asajjhāyakatāpi mantā paṭibhanti, pageva sajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz nicht von Zweifel überwältigt, in Zweifel verstrickt ist und du wirklich verstehst, wie du dem aufgekommenen Zweifel entrinnen kannst, <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span>, was gut für dich selbst, gut für jemand anderen oder gut für beide ist. Selbst Hymnen, die du lange nicht geübt hast, fallen dir ein, und die, die du geübt hast, erst recht. ",
+            "en": "In the same way, there’s a time when your heart is not overcome and mired in doubt and you truly understand the escape from doubt that has arisen. At that time you truly know and see your own good, the good of another, and the good of both. Even hymns that are long-unpracticed spring to mind, let alone those that are practiced. ",
+            "matched": true
+          }
+        },
+        "score": 12.235,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n20. Brahmanen\n193. Mit Saṅgārava",
+        "segsMatched": 12,
+        "langSegs": {
+          "pli": 51,
+          "de": 50,
+          "en": 50
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.55_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn46/sn46.55_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.55_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.55",
+        "lang": "de",
+        "segMap": {
+          "sn46.55:3.1": {
+            "scid": "sn46.55:3.1",
+            "pli": "“Yasmiṁ kho, brāhmaṇa, samaye kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ nappajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ na jānāti na passati, paratthampi tasmiṁ samaye yathābhūtaṁ na jānāti na passati, ubhayatthampi tasmiṁ samaye yathābhūtaṁ na jānāti na passati; dīgharattaṁ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā. ",
+            "de": "„Brahmane, es kommt vor, dass dein Herz von sinnlichem Verlangen überwältigt, in sinnliches Verlangen verstrickt ist und du nicht wirklich verstehst, wie du dem aufgekommenen sinnlichen Verlangen entrinnen kannst. Dann kannst du nicht <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span>, was gut für dich selbst, gut für jemand anderen oder gut für beide ist. Selbst Hymnen, die du lange geübt hast, wollen dir nicht einfallen, und die, die du nicht geübt hast, erst recht nicht. ",
+            "en": "“Brahmin, there’s a time when your heart is overcome and mired in sensual desire and you don’t truly understand the escape from sensual desire that has arisen. At that time you don’t truly know or see your own good, the good of another, or the good of both. Even hymns that are long-practiced don’t spring to mind, let alone those that are not practiced. ",
+            "matched": true
+          },
+          "sn46.55:4.3": {
+            "scid": "sn46.55:4.3",
+            "pli": "Evameva kho, brāhmaṇa, yasmiṁ samaye kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ nappajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ na jānāti na passati …pe… paratthampi …pe… ubhayatthampi tasmiṁ samaye yathābhūtaṁ na jānāti na passati; dīgharattaṁ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz von sinnlichem Verlangen überwältigt ist, nicht <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange geübt hast, wollen dir nicht einfallen, und die, die du nicht geübt hast, erst recht nicht. ",
+            "en": "In the same way, when your heart is overcome and mired in sensual desire … Even hymns that are long-practiced don’t spring to mind, let alone those that are not practiced. ",
+            "matched": true
+          },
+          "sn46.55:6.3": {
+            "scid": "sn46.55:6.3",
+            "pli": "Evameva kho, brāhmaṇa, yasmiṁ samaye byāpādapariyuṭṭhitena cetasā viharati byāpādaparetena, uppannassa ca byāpādassa nissaraṇaṁ yathābhūtaṁ nappajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ na jānāti na passati, paratthampi tasmiṁ samaye …pe… ubhayatthampi tasmiṁ samaye yathābhūtaṁ na jānāti na passati; dīgharattaṁ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz von bösem Willen überwältigt ist, nicht <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange geübt hast, wollen dir nicht einfallen, und die, die du nicht geübt hast, erst recht nicht. ",
+            "en": "In the same way, when your heart is overcome and mired in ill will … Even hymns that are long-practiced don’t spring to mind, let alone those that are not practiced. ",
+            "matched": true
+          },
+          "sn46.55:8.3": {
+            "scid": "sn46.55:8.3",
+            "pli": "Evameva kho, brāhmaṇa, yasmiṁ samaye thinamiddhapariyuṭṭhitena cetasā viharati thinamiddhaparetena, uppannassa ca thinamiddhassa nissaraṇaṁ yathābhūtaṁ nappajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ na jānāti na passati, paratthampi …pe… ubhayatthampi tasmiṁ samaye yathābhūtaṁ na jānāti na passati; dīgharattaṁ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz von Dumpfheit und Benommenheit überwältigt ist, nicht <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange geübt hast, wollen dir nicht einfallen, und die, die du nicht geübt hast, erst recht nicht. ",
+            "en": "In the same way, when your heart is overcome and mired in dullness and drowsiness … Even hymns that are long-practiced don’t spring to mind, let alone those that are not practiced. ",
+            "matched": true
+          },
+          "sn46.55:10.3": {
+            "scid": "sn46.55:10.3",
+            "pli": "Evameva kho, brāhmaṇa, yasmiṁ samaye uddhaccakukkuccapariyuṭṭhitena cetasā viharati uddhaccakukkuccaparetena, uppannassa ca uddhaccakukkuccassa nissaraṇaṁ yathābhūtaṁ nappajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ na jānāti na passati, paratthampi …pe… ubhayatthampi tasmiṁ samaye yathābhūtaṁ na jānāti na passati; dīgharattaṁ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz von Rastlosigkeit und Reue überwältigt ist, nicht <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange geübt hast, wollen dir nicht einfallen, und die, die du nicht geübt hast, erst recht nicht. ",
+            "en": "In the same way, when your heart is overcome and mired in restlessness and remorse … Even hymns that are long-practiced don’t spring to mind, let alone those that are not practiced. ",
+            "matched": true
+          },
+          "sn46.55:12.3": {
+            "scid": "sn46.55:12.3",
+            "pli": "Evameva kho, brāhmaṇa, yasmiṃ samaye vicikicchāpariyuṭṭhitena cetasā viharati vicikicchāparetena, uppannāya ca vicikicchāya nissaraṇaṃ yathābhūtaṃ nappajānāti, attatthampi tasmiṃ samaye yathābhūtaṃ na jānāti na passati, paratthampi tasmiṃ samaye yathābhūtaṃ na jānāti na passati, ubhayatthampi tasmiṃ samaye yathābhūtaṃ na jānāti na passati; dīgharattaṃ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā.",
+            "de": "Ebenso kannst du, wenn dein Herz von Zweifel überwältigt, in Zweifel verstrickt ist und du nicht wirklich verstehst, wie du dem aufgekommenen Zweifel entrinnen kannst, nicht <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span>, was gut für dich selbst, gut für jemand anderen oder gut für beide ist. Selbst Hymnen, die du lange geübt hast, wollen dir nicht einfallen, und die, die du nicht geübt hast, erst recht nicht. ",
+            "en": "In the same way, there’s a time when your heart is overcome and mired in doubt and you don’t truly understand the escape from doubt that has arisen. At that time you don’t truly know or see your own good, the good of another, or the good of both. Even hymns that are long-practiced don’t spring to mind, let alone those that are not practiced.",
+            "matched": true
+          },
+          "sn46.55:13.1": {
+            "scid": "sn46.55:13.1",
+            "pli": "Yasmiñca kho, brāhmaṇa, samaye na kāmarāgapariyuṭṭhitena cetasā viharati na kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ pajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ jānāti passati, paratthampi tasmiṁ samaye yathābhūtaṁ jānāti passati, ubhayatthampi tasmiṁ samaye yathābhūtaṁ jānāti passati; dīgharattaṁ asajjhāyakatāpi mantā paṭibhanti, pageva sajjhāyakatā. ",
+            "de": "Es kommt vor, dass dein Herz nicht von sinnlichem Verlangen überwältigt, in sinnliches Verlangen verstrickt ist und du wirklich verstehst, wie du dem aufgekommenen sinnlichen Verlangen entrinnen kannst. Dann kannst du <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span>, was gut für dich selbst, gut für jemand anderen oder gut für beide ist. Selbst Hymnen, die du lange nicht geübt hast, fallen dir ein, und die, die du geübt hast, erst recht. ",
+            "en": "There’s a time when your heart is not overcome and mired in sensual desire and you truly understand the escape from sensual desire that has arisen. At that time you truly know and see your own good, the good of another, and the good of both. Even hymns that are long-unpracticed spring to mind, let alone those that are practiced. ",
+            "matched": true
+          },
+          "sn46.55:14.3": {
+            "scid": "sn46.55:14.3",
+            "pli": "Evameva kho, brāhmaṇa, yasmiṁ samaye na kāmarāgapariyuṭṭhitena cetasā viharati na kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ pajānāti …pe…. ",
+            "de": "Ebenso kannst du, wenn dein Herz nicht von sinnlichem Verlangen überwältigt ist, <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange nicht geübt hast, fallen dir ein, und die, die du geübt hast, erst recht. ",
+            "en": "In the same way, when your heart is not overcome and mired in sensual desire … Even hymns that are long-unpracticed spring to mind, let alone those that are practiced. ",
+            "matched": true
+          },
+          "sn46.55:16.3": {
+            "scid": "sn46.55:16.3",
+            "pli": "Evameva kho, brāhmaṇa, yasmiṁ samaye na byāpādapariyuṭṭhitena cetasā viharati na byāpādaparetena, uppannassa ca byāpādassa nissaraṇaṁ yathābhūtaṁ pajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ jānāti passati, paratthampi …pe… ubhayatthampi …pe… dīgharattaṁ asajjhāyakatāpi mantā paṭibhanti, pageva sajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz nicht von bösem Willen überwältigt ist, <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange nicht geübt hast, fallen dir ein, und die, die du geübt hast, erst recht. ",
+            "en": "In the same way, when your heart is not overcome and mired in ill will … Even hymns that are long-unpracticed spring to mind, let alone those that are practiced. ",
+            "matched": true
+          },
+          "sn46.55:18.3": {
+            "scid": "sn46.55:18.3",
+            "pli": "Evameva kho, brāhmaṇa, yasmiṁ samaye na thinamiddhapariyuṭṭhitena cetasā viharati na thinamiddhaparetena, uppannassa ca thinamiddhassa nissaraṇaṁ yathābhūtaṁ pajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ jānāti passati, paratthampi …pe… ubhayatthampi …pe… dīgharattaṁ asajjhāyakatāpi mantā paṭibhanti, pageva sajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz nicht von Dumpfheit und Benommenheit überwältigt ist, <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange nicht geübt hast, fallen dir ein, und die, die du geübt hast, erst recht. ",
+            "en": "In the same way, when your heart is not overcome and mired in dullness and drowsiness … Even hymns that are long-unpracticed spring to mind, let alone those that are practiced. ",
+            "matched": true
+          },
+          "sn46.55:20.3": {
+            "scid": "sn46.55:20.3",
+            "pli": "Evameva kho, brāhmaṇa, yasmiṁ samaye na uddhaccakukkuccapariyuṭṭhitena cetasā viharati na uddhaccakukkuccaparetena, uppannassa ca uddhaccakukkuccassa nissaraṇaṁ yathābhūtaṁ pajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ jānāti passati, paratthampi …pe… ubhayatthampi …pe… dīgharattaṁ asajjhāyakatāpi mantā paṭibhanti, pageva sajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz nicht von Rastlosigkeit und Reue überwältigt ist, <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span> … Selbst Hymnen, die du lange nicht geübt hast, fallen dir ein, und die, die du geübt hast, erst recht. ",
+            "en": "In the same way, when your heart is not overcome and mired in restlessness and remorse … Even hymns that are long-unpracticed spring to mind, let alone those that are practiced. ",
+            "matched": true
+          },
+          "sn46.55:22.3": {
+            "scid": "sn46.55:22.3",
+            "pli": "Evameva kho, brāhmaṇa, yasmiṁ samaye na vicikicchāpariyuṭṭhitena cetasā viharati na vicikicchāparetena, uppannāya ca vicikicchāya nissaraṇaṁ yathābhūtaṁ pajānāti, attatthampi tasmiṁ samaye yathābhūtaṁ jānāti passati, paratthampi tasmiṁ samaye yathābhūtaṁ jānāti passati, ubhayatthampi tasmiṁ samaye yathābhūtaṁ jānāti passati; dīgharattaṁ asajjhāyakatāpi mantā paṭibhanti, pageva sajjhāyakatā. ",
+            "de": "Ebenso kannst du, wenn dein Herz nicht von Zweifel überwältigt, in Zweifel verstrickt ist und du wirklich verstehst, wie du dem aufgekommenen Zweifel entrinnen kannst, <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span>, was gut für dich selbst, gut für jemand anderen oder gut für beide ist. Selbst Hymnen, die du lange nicht geübt hast, fallen dir ein, und die, die du geübt hast, erst recht. ",
+            "en": "In the same way, there’s a time when your heart is not overcome and mired in doubt and you truly understand the escape from doubt that has arisen. At that time you truly know and see your own good, the good of another, and the good of both. Even hymns that are long-unpracticed spring to mind, let alone those that are practiced. ",
+            "matched": true
+          }
+        },
+        "score": 12.207,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n6. Diskutieren\n55. Mit Saṅgārava",
+        "segsMatched": 12,
+        "langSegs": {
+          "pli": 58,
+          "de": 57,
+          "en": 57
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.23_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.23_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.23",
+        "lang": "de",
+        "segMap": {
+          "sn12.23:2.12": {
+            "scid": "sn12.23:2.12",
+            "pli": "‘Yathābhūtañāṇadassanan’tissa vacanīyaṁ. ",
+            "de": "Ihr solltet sagen: ‚<span class=\"ebt-matched\">Wirklichkeitsgemäß erkennen und sehen</span>‘. ",
+            "en": "You should say: ‘Truly knowing and seeing.’ ",
+            "matched": true
+          },
+          "sn12.23:2.13": {
+            "scid": "sn12.23:2.13",
+            "pli": "Yathābhūtañāṇadassanampāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ. ",
+            "de": "Ich sage, <span class=\"ebt-matched\">wirklichkeitsgemäßes Erkennen und Sehen</span> hat eine wesentliche Bedingung. ",
+            "en": "I say that truly knowing and seeing has a vital condition. ",
+            "matched": true
+          },
+          "sn12.23:6.18": {
+            "scid": "sn12.23:6.18",
+            "pli": "samādhūpanisaṁ yathābhūtañāṇadassanaṁ, ",
+            "de": "Versenkung ist eine wesentliche Bedingung für <span class=\"ebt-matched\">wirklichkeitsgemäßes Erkennen und Sehen</span>. ",
+            "en": "Immersion is a vital condition for truly knowing and seeing. ",
+            "matched": true
+          },
+          "sn12.23:6.19": {
+            "scid": "sn12.23:6.19",
+            "pli": "yathābhūtañāṇadassanūpanisā nibbidā, ",
+            "de": "<span class=\"ebt-matched\">Wirklichkeitsgemäßes Erkennen und Sehen</span> ist eine wesentliche Bedingung für Ernüchterung. ",
+            "en": "Truly knowing and seeing is a vital condition for disillusionment. ",
+            "matched": true
+          }
+        },
+        "score": 4.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n3. Die zehn Kräfte\n23. Wesentliche Bedingungen",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 93,
+          "de": 92,
+          "en": 92
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:2.2.3": {
+            "scid": "dn34:2.2.3",
+            "pli": "Nava yonisomanasikāramūlakā dhammā, yonisomanasikaroto pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati, samāhite citte yathābhūtaṁ jānāti passati, yathābhūtaṁ jānaṁ passaṁ nibbindati, nibbindaṁ virajjati, virāgā vimuccati. ",
+            "de": "Neun Dinge, die in genauer Aufmerksamkeit wurzeln: Wenn man genau hinschaut, lodert Freude auf. Wenn man voller Freude ist, lodert Ekstase auf. Wenn der Geist in Ekstase ist, wird der Körper still. Wenn der Körper still ist, empfindet man Wonne. Und wenn man voller Wonne ist, versenkt sich der Geist. Wenn der Geist versunken ist, kann man <span class=\"ebt-matched\">wirklichkeitsgemäß erkennen und sehen</span>. Wenn man wirklichkeitsgemäß erkennt und sieht, wird man ernüchtert. Wenn man ernüchtert ist, wendet man sich ab. Wenn man sich abgewandt hat, ist man befreit. ",
+            "en": "Nine things rooted in proper attention. When you attend properly, joy springs up. When you’re joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, you feel bliss. And when you’re blissful, the mind becomes immersed. When your mind is immersed, you truly know and see. When you truly know and see, you grow disillusioned. Being disillusioned, desire fades away. When desire fades away you’re freed. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

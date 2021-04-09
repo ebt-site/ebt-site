@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\ba teacher called sunetta",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an7/an7.73_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/an/an6/an6.54_translation-en-sujato.json:1"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "gains wisdom by wanting",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "gains wisdom by wanting",
+    "method": "phrase",
+    "resultPattern": "\\bgains wisdom by wanting",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn10/sn10.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn10/sn10.12_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn10.12/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn10/sn10.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn10/sn10.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn10.12",
+        "lang": "en",
+        "segMap": {
+          "sn10.12:7.2": {
+            "scid": "sn10.12:7.2",
+            "pli": "dhammaṁ nibbānapattiyā; ",
+            "en": "<span class=\"ebt-matched\">gains wisdom by wanting</span> to learn, ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 10\n1. With Indaka\n12. With Āḷavaka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 87,
+          "en": 86
+        }
+      }
+    ]
+  }
+}

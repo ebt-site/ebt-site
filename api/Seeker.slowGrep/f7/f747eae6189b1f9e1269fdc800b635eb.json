@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bi don.t rely on faith",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/sn/sn48/sn48.44_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/sn/sn41/sn41.8_translation-en-sujato.json:1"
+  ]
+}

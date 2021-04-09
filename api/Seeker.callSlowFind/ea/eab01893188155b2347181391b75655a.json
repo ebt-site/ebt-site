@@ -1,0 +1,214 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "things are helpful",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "things are helpful",
+    "method": "phrase",
+    "resultPattern": "\\bthings are helpful",
+    "segsMatched": 20,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn41/sn41.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn41/sn41.6_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/en/sujato",
+      "sn41.6/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.3.1": {
+            "scid": "dn34:1.3.1",
+            "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
+            "en": "Two <span class=\"ebt-matched\">things are helpful</span>, two things should be developed, two things should be completely understood, two things should be given up, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things should be realized. ",
+            "matched": true
+          },
+          "dn34:1.3.2": {
+            "scid": "dn34:1.3.2",
+            "pli": "Katame dve dhammā bahukārā? ",
+            "en": "What two <span class=\"ebt-matched\">things are helpful</span>? ",
+            "matched": true
+          },
+          "dn34:1.4.1": {
+            "scid": "dn34:1.4.1",
+            "pli": "Tayo dhammā bahukārā, tayo dhammā bhāvetabbā …pe… tayo dhammā sacchikātabbā. ",
+            "en": "Three <span class=\"ebt-matched\">things are helpful</span>, etc. ",
+            "matched": true
+          },
+          "dn34:1.4.2": {
+            "scid": "dn34:1.4.2",
+            "pli": "Katame tayo dhammā bahukārā? ",
+            "en": "What three <span class=\"ebt-matched\">things are helpful</span>? ",
+            "matched": true
+          },
+          "dn34:1.5.1": {
+            "scid": "dn34:1.5.1",
+            "pli": "Cattāro dhammā bahukārā, cattāro dhammā bhāvetabbā …pe… cattāro dhammā sacchikātabbā. ",
+            "en": "Four <span class=\"ebt-matched\">things are helpful</span>, etc. ",
+            "matched": true
+          },
+          "dn34:1.5.2": {
+            "scid": "dn34:1.5.2",
+            "pli": "Katame cattāro dhammā bahukārā? ",
+            "en": "What four <span class=\"ebt-matched\">things are helpful</span>? ",
+            "matched": true
+          },
+          "dn34:1.6.1": {
+            "scid": "dn34:1.6.1",
+            "pli": "Pañca dhammā bahukārā …pe… pañca dhammā sacchikātabbā. ",
+            "en": "Five <span class=\"ebt-matched\">things are helpful</span>, etc. ",
+            "matched": true
+          },
+          "dn34:1.6.2": {
+            "scid": "dn34:1.6.2",
+            "pli": "Katame pañca dhammā bahukārā? ",
+            "en": "What five <span class=\"ebt-matched\">things are helpful</span>? ",
+            "matched": true
+          },
+          "dn34:1.7.1": {
+            "scid": "dn34:1.7.1",
+            "pli": "Cha dhammā bahukārā …pe… cha dhammā sacchikātabbā. ",
+            "en": "Six <span class=\"ebt-matched\">things are helpful</span>, etc. ",
+            "matched": true
+          },
+          "dn34:1.7.2": {
+            "scid": "dn34:1.7.2",
+            "pli": "Katame cha dhammā bahukārā? ",
+            "en": "What six <span class=\"ebt-matched\">things are helpful</span>? ",
+            "matched": true
+          },
+          "dn34:1.8.1": {
+            "scid": "dn34:1.8.1",
+            "pli": "Satta dhammā bahukārā …pe… satta dhammā sacchikātabbā. ",
+            "en": "Seven <span class=\"ebt-matched\">things are helpful</span>, etc. ",
+            "matched": true
+          },
+          "dn34:1.8.2": {
+            "scid": "dn34:1.8.2",
+            "pli": "Katame satta dhammā bahukārā? ",
+            "en": "What seven <span class=\"ebt-matched\">things are helpful</span>? ",
+            "matched": true
+          },
+          "dn34:2.1.1": {
+            "scid": "dn34:2.1.1",
+            "pli": "Aṭṭha dhammā bahukārā …pe… aṭṭha dhammā sacchikātabbā. ",
+            "en": "Eight <span class=\"ebt-matched\">things are helpful</span>, etc. ",
+            "matched": true
+          },
+          "dn34:2.1.2": {
+            "scid": "dn34:2.1.2",
+            "pli": "Katame aṭṭha dhammā bahukārā? ",
+            "en": "What eight <span class=\"ebt-matched\">things are helpful</span>? ",
+            "matched": true
+          },
+          "dn34:2.2.1": {
+            "scid": "dn34:2.2.1",
+            "pli": "Nava dhammā bahukārā …pe… nava dhammā sacchikātabbā. ",
+            "en": "Nine <span class=\"ebt-matched\">things are helpful</span>, etc. ",
+            "matched": true
+          },
+          "dn34:2.2.2": {
+            "scid": "dn34:2.2.2",
+            "pli": "Katame nava dhammā bahukārā? ",
+            "en": "What nine <span class=\"ebt-matched\">things are helpful</span>? ",
+            "matched": true
+          },
+          "dn34:2.3.1": {
+            "scid": "dn34:2.3.1",
+            "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
+            "en": "Ten <span class=\"ebt-matched\">things are helpful</span>, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
+            "matched": true
+          },
+          "dn34:2.3.2": {
+            "scid": "dn34:2.3.2",
+            "pli": "Katame dasa dhammā bahukārā? ",
+            "en": "What ten <span class=\"ebt-matched\">things are helpful</span>? ",
+            "matched": true
+          }
+        },
+        "score": 18.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 18,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn41/sn41.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn41/sn41.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn41.6",
+        "lang": "en",
+        "segMap": {
+          "sn41.6:10.2": {
+            "scid": "sn41.6:10.2",
+            "pli": "“saññāvedayitanirodhasamāpattiyā pana, bhante, kati dhammā bahūpakārā”ti? ",
+            "en": "“But sir, how many <span class=\"ebt-matched\">things are helpful</span> for attaining the cessation of perception and feeling?” ",
+            "matched": true
+          },
+          "sn41.6:10.5": {
+            "scid": "sn41.6:10.5",
+            "pli": "Saññāvedayitanirodhasamāpattiyā kho, gahapati, dve dhammā bahūpakārā—",
+            "en": "Two <span class=\"ebt-matched\">things are helpful</span> for attaining the cessation of perception and feeling: ",
+            "matched": true
+          }
+        },
+        "score": 2.039,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 41\n1. With Citta\n6. With Kāmabhū (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 51,
+          "en": 50
+        }
+      }
+    ]
+  }
+}

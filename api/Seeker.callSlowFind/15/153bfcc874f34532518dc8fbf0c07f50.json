@@ -1,0 +1,706 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "giant",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "giant",
+    "method": "phrase",
+    "resultPattern": "\\bgiant",
+    "segsMatched": 50,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.43_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.43_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag15.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag15.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga4/ud4.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga4/ud4.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag21.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag21.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn8/sn8.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn8/sn8.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.76_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.76_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn21/sn21.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn21/sn21.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn92_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn92_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn5_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn5_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn56_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn56_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn24_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn24_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga4/ud4.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga4/ud4.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag4.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag4.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag16.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag16.6_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.43/en/sujato",
+      "thag15.2/en/sujato",
+      "ud4.5/en/sujato",
+      "thag21.1/en/sujato",
+      "sn8.8/en/sujato",
+      "sn22.76/en/sujato",
+      "sn21.3/en/sujato",
+      "mn92/en/sujato",
+      "mn5/en/sujato",
+      "mn56/en/sujato",
+      "mn24/en/sujato",
+      "ud4.4/en/sujato",
+      "thag4.6/en/sujato",
+      "thag16.6/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.43_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.43_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.43",
+        "lang": "en",
+        "segMap": {
+          "an6.43:0.3": {
+            "scid": "an6.43:0.3",
+            "pli": "43. Nāgasutta ",
+            "en": "43. The <span class=\"ebt-matched\">Giant</span> ",
+            "matched": true
+          },
+          "an6.43:3.1": {
+            "scid": "an6.43:3.1",
+            "pli": "Tena kho pana samayena rañño pasenadissa kosalassa seto nāma nāgo mahātūriyatāḷitavāditena pubbakoṭṭhakā paccuttarati. ",
+            "en": "Now, at that time King Pasenadi had a <span class=\"ebt-matched\">giant</span> bull elephant called “White”. It emerged from the eastern gate to the beating and playing of musical instruments. ",
+            "matched": true
+          },
+          "an6.43:3.3": {
+            "scid": "an6.43:3.3",
+            "pli": "“abhirūpo vata bho rañño nāgo; dassanīyo vata bho rañño nāgo; pāsādiko vata, bho, rañño nāgo, kāyupapanno vata bho rañño nāgo”ti. ",
+            "en": "“The royal <span class=\"ebt-matched\">giant</span> is so handsome! The royal <span class=\"ebt-matched\">giant</span> is so good-looking! The royal <span class=\"ebt-matched\">giant</span> is so lovely! The royal <span class=\"ebt-matched\">giant</span> has such a huge body!” ",
+            "matched": true
+          },
+          "an6.43:3.6": {
+            "scid": "an6.43:3.6",
+            "pli": "‘nāgo vata bho nāgo’ti, udāhu aññampi kañci mahantaṁ brahantaṁ kāyupapannaṁ jano disvā evamāha: ‘nāgo vata bho nāgo’”ti? ",
+            "en": "‘A <span class=\"ebt-matched\">giant</span>, such a <span class=\"ebt-matched\">giant</span>’? Or do they say it when they see any other creatures with huge, formidable bodies?” ",
+            "matched": true
+          },
+          "an6.43:3.8": {
+            "scid": "an6.43:3.8",
+            "pli": "‘nāgo vata bho nāgo’ti. ",
+            "en": "‘A <span class=\"ebt-matched\">giant</span>, such a <span class=\"ebt-matched\">giant</span>!’ ",
+            "matched": true
+          },
+          "an6.43:3.14": {
+            "scid": "an6.43:3.14",
+            "pli": "‘nāgo vata, bho, nāgo’ti. ",
+            "en": "‘A <span class=\"ebt-matched\">giant</span>, such a <span class=\"ebt-matched\">giant</span>!’ ",
+            "matched": true
+          },
+          "an6.43:3.15": {
+            "scid": "an6.43:3.15",
+            "pli": "Api ca, udāyi, yo sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya āguṁ na karoti kāyena vācāya manasā, tamahaṁ ‘nāgo’ti brūmī”ti. ",
+            "en": "But Udāyī, one who does nothing monstrous by way of body, speech, and mind is who I call a ‘<span class=\"ebt-matched\">giant</span>’ in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans.” ",
+            "matched": true
+          },
+          "an6.43:4.3": {
+            "scid": "an6.43:4.3",
+            "pli": "api ca, udāyi, yo sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya āguṁ na karoti kāyena vācāya manasā, tamahaṁ ‘nāgo’ti brūmīti. ",
+            "en": "‘But Udāyī, one who does nothing monstrous by way of body, speech, and mind is who I call a “<span class=\"ebt-matched\">giant</span>” in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans.’ ",
+            "matched": true
+          },
+          "an6.43:8.1": {
+            "scid": "an6.43:8.1",
+            "pli": "Sabbe accarucī nāgo, ",
+            "en": "That <span class=\"ebt-matched\">giant</span> outshines all, ",
+            "matched": true
+          },
+          "an6.43:8.3": {
+            "scid": "an6.43:8.3",
+            "pli": "Sabbesaṁ nāganāmānaṁ, ",
+            "en": "Of all those named ‘<span class=\"ebt-matched\">giant</span>’, ",
+            "matched": true
+          },
+          "an6.43:9.1": {
+            "scid": "an6.43:9.1",
+            "pli": "Nāgaṁ vo kittayissāmi, ",
+            "en": "I’ll extol the <span class=\"ebt-matched\">giant</span> for you, ",
+            "matched": true
+          },
+          "an6.43:9.4": {
+            "scid": "an6.43:9.4",
+            "pli": "pādā nāgassa te duve. ",
+            "en": "are two feet of the <span class=\"ebt-matched\">giant</span>. ",
+            "matched": true
+          },
+          "an6.43:10.3": {
+            "scid": "an6.43:10.3",
+            "pli": "Saddhāhattho mahānāgo, ",
+            "en": "Faith is the <span class=\"ebt-matched\">giant</span>’s trunk, ",
+            "matched": true
+          },
+          "an6.43:12.3": {
+            "scid": "an6.43:12.3",
+            "pli": "Gacchaṁ samāhito nāgo, ",
+            "en": "The <span class=\"ebt-matched\">giant</span> is serene when walking, ",
+            "matched": true
+          },
+          "an6.43:12.4": {
+            "scid": "an6.43:12.4",
+            "pli": "ṭhito nāgo samāhito. ",
+            "en": "the <span class=\"ebt-matched\">giant</span> is serene when standing, ",
+            "matched": true
+          },
+          "an6.43:13.1": {
+            "scid": "an6.43:13.1",
+            "pli": "Seyyaṁ samāhito nāgo, ",
+            "en": "the <span class=\"ebt-matched\">giant</span> is serene when lying down, ",
+            "matched": true
+          },
+          "an6.43:13.2": {
+            "scid": "an6.43:13.2",
+            "pli": "nisinnopi samāhito; ",
+            "en": "and when sitting, the <span class=\"ebt-matched\">giant</span> is serene. ",
+            "matched": true
+          },
+          "an6.43:13.3": {
+            "scid": "an6.43:13.3",
+            "pli": "Sabbattha saṁvuto nāgo, ",
+            "en": "The <span class=\"ebt-matched\">giant</span> is restrained everywhere: ",
+            "matched": true
+          },
+          "an6.43:13.4": {
+            "scid": "an6.43:13.4",
+            "pli": "esā nāgassa sampadā. ",
+            "en": "this is the accomplishment of the <span class=\"ebt-matched\">giant</span>. ",
+            "matched": true
+          },
+          "an6.43:19.3": {
+            "scid": "an6.43:19.3",
+            "pli": "Viññassanti mahānāgā, ",
+            "en": "Great <span class=\"ebt-matched\">giant</span>s will understand ",
+            "matched": true
+          },
+          "an6.43:19.4": {
+            "scid": "an6.43:19.4",
+            "pli": "nāgaṁ nāgena desitaṁ. ",
+            "en": "what the <span class=\"ebt-matched\">giant</span> taught the <span class=\"ebt-matched\">giant</span>. ",
+            "matched": true
+          },
+          "an6.43:20.3": {
+            "scid": "an6.43:20.3",
+            "pli": "Sarīraṁ vijahaṁ nāgo, ",
+            "en": "the <span class=\"ebt-matched\">giant</span>, giving up his body, ",
+            "matched": true
+          }
+        },
+        "score": 22.224,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n5. About Dhammika\n43. The Giant",
+        "segsMatched": 22,
+        "langSegs": {
+          "pli": 98,
+          "en": 97
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag15.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag15.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag15.2",
+        "lang": "en",
+        "segMap": {
+          "thag15.2:4.1": {
+            "scid": "thag15.2:4.1",
+            "pli": "Sa ve accaruci nāgo,",
+            "en": "That <span class=\"ebt-matched\">giant</span> outshines all,",
+            "matched": true
+          },
+          "thag15.2:4.3": {
+            "scid": "thag15.2:4.3",
+            "pli": "Sabbesaṁ nāganāmānaṁ,",
+            "en": "Of all those named “<span class=\"ebt-matched\">giant</span>”,",
+            "matched": true
+          },
+          "thag15.2:5.1": {
+            "scid": "thag15.2:5.1",
+            "pli": "Nāgaṁ vo kittayissāmi,",
+            "en": "I’ll extol the <span class=\"ebt-matched\">giant</span> for you,",
+            "matched": true
+          },
+          "thag15.2:5.4": {
+            "scid": "thag15.2:5.4",
+            "pli": "pādā nāgassa te duve.",
+            "en": "are two feet of the <span class=\"ebt-matched\">giant</span>.",
+            "matched": true
+          },
+          "thag15.2:6.3": {
+            "scid": "thag15.2:6.3",
+            "pli": "Saddhāhattho mahānāgo,",
+            "en": "Faith is the <span class=\"ebt-matched\">giant</span>’s trunk,",
+            "matched": true
+          },
+          "thag15.2:8.3": {
+            "scid": "thag15.2:8.3",
+            "pli": "Gacchaṁ samāhito nāgo,",
+            "en": "The <span class=\"ebt-matched\">giant</span> is serene when walking,",
+            "matched": true
+          },
+          "thag15.2:8.4": {
+            "scid": "thag15.2:8.4",
+            "pli": "ṭhito nāgo samāhito.",
+            "en": "the <span class=\"ebt-matched\">giant</span> is serene when standing,",
+            "matched": true
+          },
+          "thag15.2:9.1": {
+            "scid": "thag15.2:9.1",
+            "pli": "Sayaṁ samāhito nāgo,",
+            "en": "the <span class=\"ebt-matched\">giant</span> is serene when lying down,",
+            "matched": true
+          },
+          "thag15.2:9.2": {
+            "scid": "thag15.2:9.2",
+            "pli": "nisinnopi samāhito;",
+            "en": "and when sitting, the <span class=\"ebt-matched\">giant</span> is serene.",
+            "matched": true
+          },
+          "thag15.2:9.3": {
+            "scid": "thag15.2:9.3",
+            "pli": "Sabbattha saṁvuto nāgo,",
+            "en": "The <span class=\"ebt-matched\">giant</span> is restrained everywhere:",
+            "matched": true
+          },
+          "thag15.2:9.4": {
+            "scid": "thag15.2:9.4",
+            "pli": "esā nāgassa sampadā.",
+            "en": "this is the accomplishment of the <span class=\"ebt-matched\">giant</span>.",
+            "matched": true
+          },
+          "thag15.2:15.3": {
+            "scid": "thag15.2:15.3",
+            "pli": "Viññissanti mahānāgā,",
+            "en": "Great <span class=\"ebt-matched\">giant</span>s will understand",
+            "matched": true
+          },
+          "thag15.2:15.4": {
+            "scid": "thag15.2:15.4",
+            "pli": "nāgaṁ nāgena desitaṁ.",
+            "en": "what the <span class=\"ebt-matched\">giant</span> taught the <span class=\"ebt-matched\">giant</span>.",
+            "matched": true
+          },
+          "thag15.2:16.3": {
+            "scid": "thag15.2:16.3",
+            "pli": "Sarīraṁ vijahaṁ nāgo,",
+            "en": "the <span class=\"ebt-matched\">giant</span>, giving up his body,",
+            "matched": true
+          }
+        },
+        "score": 14.184,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Sixteens\nChapter One\n15.2. Udāyī",
+        "segsMatched": 14,
+        "langSegs": {
+          "pli": 76,
+          "en": 68
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga4/ud4.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga4/ud4.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud4.5",
+        "lang": "en",
+        "segMap": {
+          "ud4.5:8.1": {
+            "scid": "ud4.5:8.1",
+            "pli": "“Etaṁ nāgassa nāgena,",
+            "en": "“The <span class=\"ebt-matched\">giant</span> elephant, ",
+            "matched": true
+          },
+          "ud4.5:8.3": {
+            "scid": "ud4.5:8.3",
+            "pli": "Sameti cittaṁ cittena,",
+            "en": "agrees heart to heart with the spiritual <span class=\"ebt-matched\">giant</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n4.5. A Bull Elephant",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 34,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag21.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag21.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag21.1",
+        "lang": "en",
+        "segMap": {
+          "thag21.1:32.1": {
+            "scid": "thag21.1:32.1",
+            "pli": "‘Nāganāmo’si bhagavā,",
+            "en": "Blessed One, your name is ‘<span class=\"ebt-matched\">Giant</span>’,",
+            "matched": true
+          },
+          "thag21.1:71.4": {
+            "scid": "thag21.1:71.4",
+            "pli": "nāgaṁ nāgassa orasan”ti.",
+            "en": "a <span class=\"ebt-matched\">giant</span>, rightful son of a <span class=\"ebt-matched\">giant</span>.”",
+            "matched": true
+          }
+        },
+        "score": 2.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Great Book\nChapter One\n21.1. Vaṅgīsa",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 309,
+          "en": 309
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag4.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag4.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag4.6",
+        "lang": "en",
+        "segMap": {
+          "thag4.6:3.1": {
+            "scid": "thag4.6:3.1",
+            "pli": "Mahānāgaṁ mahāvīraṁ,",
+            "en": "A great <span class=\"ebt-matched\">giant</span>, a great hero,",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Fours\nChapter One\n4.6. Senaka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn21/sn21.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn21/sn21.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn21.3",
+        "lang": "en",
+        "segMap": {
+          "sn21.3:7.1": {
+            "scid": "sn21.3:7.1",
+            "pli": "Itiha te ubho mahānāgā aññamaññassa subhāsitaṁ sulapitaṁ samanumodiṁsūti. ",
+            "en": "And so these two spiritual <span class=\"ebt-matched\">giant</span>s agreed with each others’ fine words. ",
+            "matched": true
+          }
+        },
+        "score": 1.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 21\n1. Monks\n3. A Mound of Salt",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 42,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn8/sn8.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn8/sn8.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn8.8",
+        "lang": "en",
+        "segMap": {
+          "sn8.8:5.1": {
+            "scid": "sn8.8:5.1",
+            "pli": "Nāganāmosi bhagavā, ",
+            "en": "Blessed One, your name is ‘<span class=\"ebt-matched\">Giant</span>’, ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 8\n1. With Vaṅgīsa\n8. Over a Thousand",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 50,
+          "en": 50
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga4/ud4.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga4/ud4.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud4.4",
+        "lang": "en",
+        "segMap": {
+          "ud4.4:8.1": {
+            "scid": "ud4.4:8.1",
+            "pli": "Assosi kho bhagavā dibbāya sotadhātuyā visuddhāya atikkantamānusikāya tesaṁ ubhinnaṁ mahānāgānaṁ imaṁ evarūpaṁ kathāsallāpaṁ.",
+            "en": "With clairaudience that is purified and superhuman, the Buddha heard that discussion between those two spiritual <span class=\"ebt-matched\">giant</span>s. ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n4.4. The Spirit’s Blow",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 49,
+          "en": 48
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.76_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.76_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.76",
+        "lang": "en",
+        "segMap": {
+          "sn22.76:8.2": {
+            "scid": "sn22.76:8.2",
+            "pli": "mahānāgā samāhitā; ",
+            "en": "those <span class=\"ebt-matched\">giant</span>s have immersion. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n8. Itchy\n76. The Perfected Ones",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 54,
+          "en": 53
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag16.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag16.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag16.6",
+        "lang": "en",
+        "segMap": {
+          "thag16.6:24.4": {
+            "scid": "thag16.6:24.4",
+            "pli": "nāgā vandantu satthuno”ti.",
+            "en": "let these <span class=\"ebt-matched\">giant</span>s worship the Teacher.”",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Twenties\nChapter One\n16.6. Sela",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 105,
+          "en": 104
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn24_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn24_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn24",
+        "lang": "en",
+        "segMap": {
+          "mn24:17.13": {
+            "scid": "mn24:17.13",
+            "pli": "Itiha te ubhopi mahānāgā aññamaññassa subhāsitaṁ samanumodiṁsūti. ",
+            "en": "And so these two spiritual <span class=\"ebt-matched\">giant</span>s agreed with each others’ fine words. ",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 24\nPrepared Chariots",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 139,
+          "en": 138
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn5_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn5",
+        "lang": "en",
+        "segMap": {
+          "mn5:33.4": {
+            "scid": "mn5:33.4",
+            "pli": "Itiha te ubho mahānāgā aññamaññassa subhāsitaṁ samanumodiṁsūti. ",
+            "en": "And so these two spiritual <span class=\"ebt-matched\">giant</span>s agreed with each others’ fine words. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 5\nUnblemished",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 203,
+          "en": 202
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn92_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn92_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn92",
+        "lang": "en",
+        "segMap": {
+          "mn92:28.17": {
+            "scid": "mn92:28.17",
+            "pli": "nāgā vandantu satthuno”ti. ",
+            "en": "let these <span class=\"ebt-matched\">giant</span>s worship the Teacher.” ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 92\nWith Sela",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 205,
+          "en": 204
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn56_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn56_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn56",
+        "lang": "en",
+        "segMap": {
+          "mn56:29.27": {
+            "scid": "mn56:29.27",
+            "pli": "Nāgassa pantasenassa, ",
+            "en": "He’s a <span class=\"ebt-matched\">giant</span>, living remotely, ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 56\nWith Upāli",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 382,
+          "en": 381
+        }
+      }
+    ]
+  }
+}

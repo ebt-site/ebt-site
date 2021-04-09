@@ -1,0 +1,426 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wrists",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wrists",
+    "method": "phrase",
+    "resultPattern": "\\bwrists",
+    "segsMatched": 25,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.87_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.87_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn144_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn144_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn4/sn4.23_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn4/sn4.23_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn54/sn54.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn54/sn54.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.87_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.87_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.88_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.88_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn145_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn145_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag6.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag6.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.87/en/sujato",
+      "mn144/en/sujato",
+      "sn4.23/en/sujato",
+      "sn54.9/en/sujato",
+      "sn22.87/en/sujato",
+      "sn35.88/en/sujato",
+      "mn145/en/sujato",
+      "thag6.6/en/sujato",
+      "dn23/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.87_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.87_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.87",
+        "lang": "en",
+        "segMap": {
+          "sn35.87:3.10": {
+            "scid": "sn35.87:3.10",
+            "pli": "Satthaṁ, āvuso sāriputta, āharissāmi, nāvakaṅkhāmi jīvitan”ti. ",
+            "en": "Reverend Sāriputta, I will slit my <span class=\"ebt-matched\">wrists</span>. I don’t wish to live.” ",
+            "matched": true
+          },
+          "sn35.87:4.1": {
+            "scid": "sn35.87:4.1",
+            "pli": "“Mā āyasmā channo satthaṁ āharesi. ",
+            "en": "“Please don’t slit your <span class=\"ebt-matched\">wrists</span>! ",
+            "matched": true
+          },
+          "sn35.87:4.6": {
+            "scid": "sn35.87:4.6",
+            "pli": "Mā āyasmā channo satthaṁ āharesi. ",
+            "en": "Please don’t slit your <span class=\"ebt-matched\">wrists</span>! ",
+            "matched": true
+          },
+          "sn35.87:5.9": {
+            "scid": "sn35.87:5.9",
+            "pli": "‘Anupavajjaṁ channo bhikkhu satthaṁ āharissatī’ti—evametaṁ, āvuso sāriputta, dhārehī”ti. ",
+            "en": "You should remember this: ‘The mendicant Channa slit his <span class=\"ebt-matched\">wrists</span> blamelessly.’” ",
+            "matched": true
+          },
+          "sn35.87:12.2": {
+            "scid": "sn35.87:12.2",
+            "pli": "Atha kho āyasmā channo acirapakkantesu tesu āyasmantesu satthaṁ āharesi. ",
+            "en": "Not long after those venerables had left, Venerable Channa slit his <span class=\"ebt-matched\">wrists</span>. ",
+            "matched": true
+          },
+          "sn35.87:13.2": {
+            "scid": "sn35.87:13.2",
+            "pli": "“āyasmatā, bhante, channena satthaṁ āharitaṁ. ",
+            "en": "“Sir, Venerable Channa has slit his <span class=\"ebt-matched\">wrists</span>. ",
+            "matched": true
+          },
+          "sn35.87:13.11": {
+            "scid": "sn35.87:13.11",
+            "pli": "‘Anupavajjaṁ channena bhikkhunā satthaṁ āharitan’ti—",
+            "en": "You should remember this: ‘The mendicant Channa slit his <span class=\"ebt-matched\">wrists</span> blamelessly.’” ",
+            "matched": true
+          }
+        },
+        "score": 7.093,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n9. With Channa\n87. With Channa",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 75,
+          "en": 74
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn144_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn144_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn144",
+        "lang": "en",
+        "segMap": {
+          "mn144:5.10": {
+            "scid": "mn144:5.10",
+            "pli": "Satthaṁ, āvuso sāriputta, āharissāmi, nāvakaṅkhāmi jīvitan”ti. ",
+            "en": "Reverend Sāriputta, I will slit my <span class=\"ebt-matched\">wrists</span>. I don’t wish to live.” ",
+            "matched": true
+          },
+          "mn144:6.1": {
+            "scid": "mn144:6.1",
+            "pli": "“Māyasmā channo satthaṁ āharesi. ",
+            "en": "“Please don’t slit your <span class=\"ebt-matched\">wrists</span>! ",
+            "matched": true
+          },
+          "mn144:6.6": {
+            "scid": "mn144:6.6",
+            "pli": "Māyasmā channo satthaṁ āharesi. ",
+            "en": "Please don’t slit your <span class=\"ebt-matched\">wrists</span>! ",
+            "matched": true
+          },
+          "mn144:7.6": {
+            "scid": "mn144:7.6",
+            "pli": "‘Anupavajjaṁ channo bhikkhu satthaṁ āharissatī’ti evametaṁ, āvuso sāriputta, dhārehī”ti. ",
+            "en": "You should remember this: ‘The mendicant Channa slit his <span class=\"ebt-matched\">wrists</span> blamelessly.’” ",
+            "matched": true
+          },
+          "mn144:12.1": {
+            "scid": "mn144:12.1",
+            "pli": "Atha kho āyasmā channo acirapakkante āyasmante ca sāriputte āyasmante ca mahācunde satthaṁ āharesi. ",
+            "en": "Not long after those venerables had left, Venerable Channa slit his <span class=\"ebt-matched\">wrists</span>. ",
+            "matched": true
+          },
+          "mn144:13.2": {
+            "scid": "mn144:13.2",
+            "pli": "“āyasmatā, bhante, channena satthaṁ āharitaṁ. ",
+            "en": "“Sir, Venerable Channa has slit his <span class=\"ebt-matched\">wrists</span>. ",
+            "matched": true
+          },
+          "mn144:13.11": {
+            "scid": "mn144:13.11",
+            "pli": "‘Anupavajjo channo bhikkhu satthaṁ āharesī’ti evametaṁ, sāriputta, dhārehī”ti. ",
+            "en": "You should remember this: ‘The mendicant Channa slit his <span class=\"ebt-matched\">wrists</span> blamelessly.’” ",
+            "matched": true
+          }
+        },
+        "score": 7.081,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 144\nAdvice to Channa",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 86,
+          "en": 85
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn4/sn4.23_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn4/sn4.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn4.23",
+        "lang": "en",
+        "segMap": {
+          "sn4.23:2.3": {
+            "scid": "sn4.23:2.3",
+            "pli": "Yannūnāhaṁ satthaṁ āhareyyan”ti. ",
+            "en": "Why don’t I slit my <span class=\"ebt-matched\">wrists</span>?” ",
+            "matched": true
+          },
+          "sn4.23:6.1": {
+            "scid": "sn4.23:6.1",
+            "pli": "Tena kho pana samayena āyasmatā godhikena satthaṁ āharitaṁ hoti. ",
+            "en": "Now at that time Venerable Godhika had already slit his <span class=\"ebt-matched\">wrists</span>. ",
+            "matched": true
+          },
+          "sn4.23:8.2": {
+            "scid": "sn4.23:8.2",
+            "pli": "“āyāma, bhikkhave, yena isigilipassaṁ kāḷasilā tenupasaṅkamissāma yattha godhikena kulaputtena satthaṁ āharitan”ti. ",
+            "en": "“Come, mendicants, let’s go to the Black Rock on the slopes of Isigili where Godhika, who came from a good family, slit his <span class=\"ebt-matched\">wrists</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 3.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 4\n3. Māra\n23. With Godhika",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 70,
+          "en": 70
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn54/sn54.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn54/sn54.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn54.9",
+        "lang": "en",
+        "segMap": {
+          "sn54.9:3.3": {
+            "scid": "sn54.9:3.3",
+            "pli": "Te iminā kāyena aṭṭīyamānā harāyamānā jigucchamānā satthahārakaṁ pariyesanti. ",
+            "en": "Becoming horrified, repelled, and disgusted with this body, they looked for someone to slit their <span class=\"ebt-matched\">wrists</span>. ",
+            "matched": true
+          },
+          "sn54.9:3.4": {
+            "scid": "sn54.9:3.4",
+            "pli": "Dasapi bhikkhū ekāhena satthaṁ āharanti, vīsampi …pe… tiṁsampi bhikkhū ekāhena satthaṁ āharanti. ",
+            "en": "Each day ten, twenty, or thirty mendicants slit their <span class=\"ebt-matched\">wrists</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.057,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 54\n1. One Thing\n9. At Vesālī",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 35,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.87_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.87_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.87",
+        "lang": "en",
+        "segMap": {
+          "sn22.87:8.36": {
+            "scid": "sn22.87:8.36",
+            "pli": "Atha kho āyasmā vakkali acirapakkantesu tesu bhikkhūsu satthaṁ āharesi. ",
+            "en": "And then, not long after those mendicants had left, Venerable Vakkali slit his <span class=\"ebt-matched\">wrists</span>. ",
+            "matched": true
+          },
+          "sn22.87:10.3": {
+            "scid": "sn22.87:10.3",
+            "pli": "yattha vakkalinā kulaputtena satthamāharitan”ti. ",
+            "en": "where Vakkali, the gentleman, slit his <span class=\"ebt-matched\">wrists</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 2.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n9. Senior Mendicants\n87. With Vakkali",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 144,
+          "en": 143
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag6.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag6.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag6.6",
+        "lang": "en",
+        "segMap": {
+          "thag6.6:3.1": {
+            "scid": "thag6.6:3.1",
+            "pli": "Satthaṁ vā āharissāmi,",
+            "en": "Shall I … or shall I slit my <span class=\"ebt-matched\">wrists</span>?",
+            "matched": true
+          }
+        },
+        "score": 1.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Sixes\nChapter One\n6.6. Sappadāsa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 29,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.88_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.88_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.88",
+        "lang": "en",
+        "segMap": {
+          "sn35.88:16.2": {
+            "scid": "sn35.88:16.2",
+            "pli": "‘santi kho tassa bhagavato sāvakā kāyena ca jīvitena ca aṭṭīyamānā harāyamānā jigucchamānā satthahārakaṁ pariyesanti, taṁ me idaṁ apariyiṭṭhaññeva satthahārakaṁ laddhan’ti. ",
+            "en": "‘There are disciples of the Buddha who looked for someone to assist with slitting their <span class=\"ebt-matched\">wrists</span> because they were horrified, repelled, and disgusted with the body and with life. And I have found this without looking!’ ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n9. With Channa\n88. With Puṇṇa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 70,
+          "en": 69
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn145_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn145_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn145",
+        "lang": "en",
+        "segMap": {
+          "mn145:5.32": {
+            "scid": "mn145:5.32",
+            "pli": "‘santi kho bhagavato sāvakā kāye ca jīvite ca aṭṭīyamānā harāyamānā jigucchamānā satthahārakaṁ pariyesanti. Taṁ me idaṁ apariyiṭṭhaṁyeva satthahārakaṁ laddhan’ti. ",
+            "en": "‘There are disciples of the Buddha who looked for someone to assist with slitting their <span class=\"ebt-matched\">wrists</span> because they were horrified, repelled, and disgusted with the body and with life. And I have found this without looking!’ ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 145\nAdvice to Puṇṇa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 83,
+          "en": 82
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "en",
+        "segMap": {
+          "dn23:12.10": {
+            "scid": "dn23:12.10",
+            "pli": "Idānime bhonto samaṇabrāhmaṇā sīlavanto kalyāṇadhammā visaṁ vā khādeyyuṁ, satthaṁ vā āhareyyuṁ, ubbandhitvā vā kālaṁ kareyyuṁ, papāte vā papateyyuṁ. ",
+            "en": "they’d drink poison, slit their <span class=\"ebt-matched\">wrists</span>, hang themselves, or throw themselves off a cliff. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 23\nWith Pāyāsi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 715,
+          "en": 713
+        }
+      }
+    ]
+  }
+}

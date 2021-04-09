@@ -1,0 +1,200 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "verantwortung",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "verantwortung",
+    "method": "phrase",
+    "resultPattern": "\\bverantwortung",
+    "segsMatched": 10,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.20_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.20_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.20_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.258_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.258_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.258_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn47/sn47.9_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn47/sn47.9_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.9_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.20/de/sabbamitta",
+      "an4.258/de/sabbamitta",
+      "sn47.9/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.20_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.20_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.20",
+        "lang": "de",
+        "segMap": {
+          "an3.20:1.3": {
+            "scid": "an3.20:1.3",
+            "pli": "Idha, bhikkhave, pāpaṇiko cakkhumā ca hoti vidhuro ca nissayasampanno ca. ",
+            "de": "Es ist, wenn ein Kaufmann klar sieht, <span class=\"ebt-matched\">verantwortung</span>svoll ist und Förderer hat. ",
+            "en": "It’s when a shopkeeper sees clearly, is responsible, and has supporters. ",
+            "matched": true
+          },
+          "an3.20:2.1": {
+            "scid": "an3.20:2.1",
+            "pli": "Kathañca, bhikkhave, pāpaṇiko vidhuro hoti? ",
+            "de": "Und wie ist ein Kaufmann <span class=\"ebt-matched\">verantwortung</span>svoll? ",
+            "en": "And how is a shopkeeper responsible? ",
+            "matched": true
+          },
+          "an3.20:2.3": {
+            "scid": "an3.20:2.3",
+            "pli": "Evaṁ kho, bhikkhave, pāpaṇiko vidhuro hoti. ",
+            "de": "So ist ein Kaufmann <span class=\"ebt-matched\">verantwortung</span>svoll. ",
+            "en": "That’s how a shopkeeper is responsible. ",
+            "matched": true
+          },
+          "an3.20:3.3": {
+            "scid": "an3.20:3.3",
+            "pli": "‘ayaṁ kho bhavaṁ pāpaṇiko cakkhumā vidhuro ca paṭibalo puttadārañca posetuṁ, amhākañca kālena kālaṁ anuppadātun’ti. ",
+            "de": "‚Dieser Kaufmann schaut sich um und ist <span class=\"ebt-matched\">verantwortung</span>svoll. Er ist in der Lage, für seine Frauen und Kinder zu sorgen und uns von Zeit zu Zeit zurückzuzahlen.‘ ",
+            "en": "‘This good shopkeeper keeps an eye out and is responsible. They are capable of providing for their wives and children, and paying us back from time to time.’ ",
+            "matched": true
+          },
+          "an3.20:4.3": {
+            "scid": "an3.20:4.3",
+            "pli": "Idha, bhikkhave, bhikkhu cakkhumā ca hoti vidhuro ca nissayasampanno ca. ",
+            "de": "Es ist, wenn eine Nonne klar sieht, <span class=\"ebt-matched\">verantwortung</span>svoll ist und Förderer hat. ",
+            "en": "It’s when a mendicant sees clearly, is responsible, and has supporters. ",
+            "matched": true
+          },
+          "an3.20:5.1": {
+            "scid": "an3.20:5.1",
+            "pli": "Kathañca, bhikkhave, bhikkhu vidhuro hoti? ",
+            "de": "Und wie ist eine Nonne <span class=\"ebt-matched\">verantwortung</span>svoll? ",
+            "en": "And how is a mendicant responsible? ",
+            "matched": true
+          },
+          "an3.20:5.3": {
+            "scid": "an3.20:5.3",
+            "pli": "Evaṁ kho, bhikkhave, bhikkhu vidhuro hoti. ",
+            "de": "So ist eine Nonne <span class=\"ebt-matched\">verantwortung</span>svoll. ",
+            "en": "That’s how a mendicant is responsible. ",
+            "matched": true
+          }
+        },
+        "score": 7.163,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n2. Der Wagenbauer\n20. Ein Kaufmann (2)",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 43,
+          "de": 41,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.258_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.258_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.258_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.258",
+        "lang": "de",
+        "segMap": {
+          "an4.258:1.3": {
+            "scid": "an4.258:1.3",
+            "pli": "Naṭṭhaṁ na gavesanti, jiṇṇaṁ na paṭisaṅkharonti, aparimitapānabhojanā honti, dussīlaṁ itthiṁ vā purisaṁ vā ādhipacce ṭhapenti. ",
+            "de": "Sie suchen nicht nach Verlorenem; sie reparieren alte Dinge nicht; sie essen und trinken zu viel; oder sie übertragen <span class=\"ebt-matched\">Verantwortung</span> an eine unmoralische Frau oder einen unmoralischen Mann. ",
+            "en": "They don’t look for what’s lost; they don’t fix old things; they eat and drink too much; or they put an unethical woman or man in charge. ",
+            "matched": true
+          },
+          "an4.258:2.3": {
+            "scid": "an4.258:2.3",
+            "pli": "Naṭṭhaṁ gavesanti, jiṇṇaṁ paṭisaṅkharonti, parimitapānabhojanā honti, sīlavantaṁ itthiṁ vā purisaṁ vā ādhipacce ṭhapenti. ",
+            "de": "Sie suchen nach Verlorenem; sie reparieren alte Dinge; sie essen und trinken in Maßen; und sie übertragen <span class=\"ebt-matched\">Verantwortung</span> an eine sittliche Frau oder einen sittlichen Mann. ",
+            "en": "They look for what’s lost; they fix old things; they eat and drink in moderation; and they put an ethical woman or man in charge. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n26. Einsicht\n258. Familien",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.9_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn47/sn47.9_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.9",
+        "lang": "de",
+        "segMap": {
+          "sn47.9:4.5": {
+            "scid": "sn47.9:4.5",
+            "pli": "‘ahaṁ bhikkhusaṅghaṁ pariharissāmī’ti vā, ‘mamuddesiko bhikkhusaṅgho’ti vā, so nūna, ānanda, bhikkhusaṅghaṁ ārabbha kiñcideva udāhareyya. ",
+            "de": "‚Ich werde die <span class=\"ebt-matched\">Verantwortung</span> für den Saṅgha der Mönche und Nonnen übernehmen‘ oder ‚der Saṅgha der Mönche und Nonnen ist für mich bestimmt‘, so soll diese Person eine Erklärung über den Saṅgha abgeben. ",
+            "en": "‘I’ll take charge of the Saṅgha of mendicants,’ or ‘the Saṅgha of mendicants is meant for me,’ let them make a statement regarding the Saṅgha. ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 47\n1. In Ambapālīs Wald\n9. Krank",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "de": 45,
+          "en": 46
+        }
+      }
+    ]
+  }
+}

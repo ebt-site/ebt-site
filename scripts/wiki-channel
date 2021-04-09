@@ -1,0 +1,88 @@
+#!/bin/bash
+
+CHANNEL=$1
+if [ "$CHANNEL" == "" ]; then
+  echo -e "WIKI\t: expected channel name (ERROR)"
+  exit -1
+fi
+
+echo -e "WIKI\t: creating $SLUGFILE"
+mkdir -p pages/$CHANNEL
+SLUGFILE=pages/$CHANNEL/_slug.vue 
+cat > $SLUGFILE << SLUG
+<template>
+  <ebt-article :article="article">
+    <nuxt-content :document="article" />
+  </ebt-article>
+</template>
+<script>
+  import { EbtVue } from 'ebt-vue';
+  const { EbtArticle } = EbtVue;
+  export default {
+    async asyncData({ \$content, params }) {
+      const article = await \$content('$CHANNEL', params.slug).fetch()
+      return { article }
+    },
+    components: { EbtArticle, },
+  }
+</script>
+SLUG
+
+echo -e "WIKI\t: creating content/$CHANNEL"
+if [ ! -e "content/wiki/$CHANNEL.md" ]; then
+  echo -e "WIKI\t: creating content/wiki/$CHANNEL.md"
+cat > content/wiki/$CHANNEL.md << MDCHANNEL
+---
+title: $CHANNEL title
+description: $CHANNEL description
+img: wheel.png
+img-alt: Generic image for $CHANNEL 
+slugDir: $CHANNEL
+category: New
+order: 9999
+---
+### Welcome to $CHANNEL!
+This is the main
+page for the wiki $CHANNEL".
+
+To change this file, edit <code>content/wiki/$CHANNEL.md</code>.
+This file is a [Markdown](https://www.markdownguide.org/basic-syntax) file.
+
+### Wiki/$CHANNEL Contents
+The pages in your new channel are shown below.
+We've created an Example page for you.
+
+MDCHANNEL
+fi # $CHANNEL.md
+
+echo -e "WIKI\t: creating content/$CHANNEL/example.md"
+mkdir -p content/$CHANNEL
+cat > content/$CHANNEL/example.md << MDEXAMPLE
+---
+title: Example page for wiki/$CHANNEL 
+description: Example description
+img: amanda-flavell-9XSLoMlVhYU-unsplash.png
+img-alt: Generic image for $CHANNEL example
+---
+### Copy this page
+This wiki page is stored in <code>content/$CHANNEL/example.md</code>.
+
+To make a new page in <code>content/$CHANNEL</code>,
+simply copy this page 
+to a new file (e.g., "my-new-page.md"):
+<code>content/$CHANNEL/my-new-page.md</code>
+
+Edit your new page as you see fit. 
+Start by changing the YAML block at the top of your copied file:
+
+\`\`\`
+title: Example title
+description: Example description
+img: The file name or URL of an optional image
+img-alt: The accessibility label for the image
+order: The display order of this page in the channel. Pages with the same number are sorted alphabetically
+\`\`\`
+
+Everything below the YAML header is 
+[Markdown](https://www.markdownguide.org/basic-syntax).
+MDEXAMPLE

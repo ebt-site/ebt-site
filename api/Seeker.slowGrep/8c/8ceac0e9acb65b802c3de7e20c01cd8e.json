@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "願望が少ない",
+      "maxResults": 1000,
+      "lang": "jpn",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/jpn/kaz/sutta/an/an1/an1.98-139_translation-jpn-kaz.json:2",
+    "translation/jpn/kaz/sutta/an/an1/an1.82-97_translation-jpn-kaz.json:2",
+    "translation/jpn/kaz/sutta/an/an1/an1.61-70_translation-jpn-kaz.json:2"
+  ]
+}

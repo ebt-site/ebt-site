@@ -1,0 +1,358 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "ending of attachments",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "ending of attachments",
+    "method": "phrase",
+    "resultPattern": "\\bending of attachments",
+    "segsMatched": 18,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.56_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.56_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn4/sn4.25_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn4/sn4.25_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn105_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn105_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn5/sn5.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn5/sn5.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn66_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn66_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga3/iti27_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga3/iti27_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga11/iti112_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga11/iti112_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.1_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.56/en/sujato",
+      "sn4.25/en/sujato",
+      "mn105/en/sujato",
+      "sn5.8/en/sujato",
+      "mn66/en/sujato",
+      "iti27/en/sujato",
+      "iti112/en/sujato",
+      "an8.1/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.56_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.56_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.56",
+        "lang": "en",
+        "segMap": {
+          "an6.56:12.1": {
+            "scid": "an6.56:12.1",
+            "pli": "Idhānanda, bhikkhuno pañcahi orambhāgiyehi saṁyojanehi cittaṁ vimuttaṁ hoti, anuttare ca kho upadhisaṅkhaye cittaṁ avimuttaṁ hoti. ",
+            "en": "Next, take the case of a mendicant whose mind is freed from the five lower fetters, but not with the supreme <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          },
+          "an6.56:12.4": {
+            "scid": "an6.56:12.4",
+            "pli": "Tassa taṁ dhammadesanaṁ sutvā anuttare upadhisaṅkhaye cittaṁ vimuccati. ",
+            "en": "When they hear that teaching their mind is freed with the supreme <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          },
+          "an6.56:13.1": {
+            "scid": "an6.56:13.1",
+            "pli": "Puna caparaṁ, ānanda, bhikkhuno pañcahi orambhāgiyehi saṁyojanehi cittaṁ vimuttaṁ hoti, anuttare ca kho upadhisaṅkhaye cittaṁ avimuttaṁ hoti. ",
+            "en": "Next, take the case of another mendicant whose mind is freed from the five lower fetters, but not with the supreme <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          },
+          "an6.56:13.4": {
+            "scid": "an6.56:13.4",
+            "pli": "Tassa taṁ dhammadesanaṁ sutvā anuttare upadhisaṅkhaye cittaṁ vimuccati. ",
+            "en": "When they hear that teaching their mind is freed with the supreme <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          },
+          "an6.56:14.1": {
+            "scid": "an6.56:14.1",
+            "pli": "Puna caparaṁ, ānanda, bhikkhuno pañcahi orambhāgiyehi saṁyojanehi cittaṁ vimuttaṁ hoti, anuttare ca kho upadhisaṅkhaye cittaṁ avimuttaṁ hoti. ",
+            "en": "Next, take the case of another mendicant whose mind is freed from the five lower fetters, but not with the supreme <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          },
+          "an6.56:14.4": {
+            "scid": "an6.56:14.4",
+            "pli": "Tassa yathāsutaṁ yathāpariyattaṁ dhammaṁ cetasā anuvitakkayato anuvicārayato manasānupekkhato anuttare upadhisaṅkhaye cittaṁ vimuccati. ",
+            "en": "As they do so their mind is freed with the supreme <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          }
+        },
+        "score": 6.087,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n6. The Great Chapter\n56. With Phagguṇa",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 69,
+          "en": 68
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn4/sn4.25_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn4/sn4.25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn4.25",
+        "lang": "en",
+        "segMap": {
+          "sn4.25:4.3": {
+            "scid": "sn4.25:4.3",
+            "pli": "Atha kho bhagavā na manasākāsi, yathā taṁ anuttare upadhisaṅkhaye vimutto. ",
+            "en": "But the Buddha ignored them, since he was freed with the supreme <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          },
+          "sn4.25:5.6": {
+            "scid": "sn4.25:5.6",
+            "pli": "Tampi bhagavā na manasākāsi, yathā taṁ anuttare upadhisaṅkhaye vimutto. ",
+            "en": "But the Buddha still ignored them, since he was freed with the supreme <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          },
+          "sn4.25:6.6": {
+            "scid": "sn4.25:6.6",
+            "pli": "Tampi bhagavā na manasākāsi, yathā taṁ anuttare upadhisaṅkhaye vimutto. ",
+            "en": "But the Buddha still ignored them, since he was freed with the supreme <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          },
+          "sn4.25:9.5": {
+            "scid": "sn4.25:9.5",
+            "pli": "anuttare upadhisaṅkhaye vimutto. ",
+            "en": "But the Buddha still ignored them, since he was freed with the supreme <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          }
+        },
+        "score": 4.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 4\n3. Māra\n25. Māra’s Daughters",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 116,
+          "en": 115
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn105_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn105_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn105",
+        "lang": "en",
+        "segMap": {
+          "mn105:28.2": {
+            "scid": "mn105:28.2",
+            "pli": "iti viditvā nirupadhi upadhisaṅkhaye vimutto upadhismiṁ vā kāyaṁ upasaṁharissati cittaṁ vā uppādessatīti—netaṁ ṭhānaṁ vijjati. ",
+            "en": "Understanding that attachment is the root of suffering, they are freed with the <span class=\"ebt-matched\">ending of attachments</span>. It’s not possible that they would apply their body or interest their mind in any attachment. ",
+            "matched": true
+          },
+          "mn105:29.9": {
+            "scid": "mn105:29.9",
+            "pli": "iti viditvā nirupadhi upadhisaṅkhaye vimutto upadhismiṁ vā kāyaṁ upasaṁharissati cittaṁ vā uppādessatīti—netaṁ ṭhānaṁ vijjati. ",
+            "en": "Understanding that attachment is the root of suffering, they are freed with the <span class=\"ebt-matched\">ending of attachments</span>. It’s not possible that they would apply their body or interest their mind in any attachment. ",
+            "matched": true
+          },
+          "mn105:30.8": {
+            "scid": "mn105:30.8",
+            "pli": "iti viditvā nirupadhi upadhisaṅkhaye vimutto upadhismiṁ vā kāyaṁ upasaṁharissati cittaṁ vā uppādessatīti—",
+            "en": "Understanding that attachment is the root of suffering, they are freed with the <span class=\"ebt-matched\">ending of attachments</span>. It’s not possible that they would apply their body or interest their mind in any attachment.” ",
+            "matched": true
+          }
+        },
+        "score": 3.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 105\nWith Sunakkhatta",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 188,
+          "en": 187
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn5/sn5.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn5/sn5.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn5.8",
+        "lang": "en",
+        "segMap": {
+          "sn5.8:5.4": {
+            "scid": "sn5.8:5.4",
+            "pli": "vimutto upadhisaṅkhaye; ",
+            "en": "freed with the <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 5\n1. Nuns\n8. With Sīsupacālā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.1",
+        "lang": "en",
+        "segMap": {
+          "an8.1:3.4": {
+            "scid": "an8.1:3.4",
+            "pli": "passato upadhikkhayaṁ. ",
+            "en": "seeing the <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n1. Love\n1. The Benefits of Love",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 34,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga3/iti27_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga3/iti27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti27",
+        "lang": "en",
+        "segMap": {
+          "iti27:6.4": {
+            "scid": "iti27:6.4",
+            "pli": "passato upadhikkhayaṁ.",
+            "en": "seeing the <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Ones\nChapter Three\n27. The Meditation on Love",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga11/iti112_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga11/iti112_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti112",
+        "lang": "en",
+        "segMap": {
+          "iti112:9.4": {
+            "scid": "iti112:9.4",
+            "pli": "vimutto upadhisaṅkhaye.",
+            "en": "freed with the <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Fours\nThe Chapter on the Holy Offering of the Teaching\n112. The World",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 70,
+          "en": 53
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn66_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn66_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn66",
+        "lang": "en",
+        "segMap": {
+          "mn66:17.2": {
+            "scid": "mn66:17.2",
+            "pli": "iti viditvā nirupadhi hoti, upadhisaṅkhaye vimutto. ",
+            "en": "is freed with the <span class=\"ebt-matched\">ending of attachments</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 66\nThe Simile of the Quail",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 202,
+          "en": 201
+        }
+      }
+    ]
+  }
+}

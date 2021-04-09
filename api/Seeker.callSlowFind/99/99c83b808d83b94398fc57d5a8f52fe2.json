@@ -1,0 +1,257 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "sehr lange.* zeit",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "sehr lange.* zeit",
+    "method": "phrase",
+    "resultPattern": "\\bsehr lange.* zeit",
+    "segsMatched": 14,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.47_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn56/sn56.47_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.47_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.1_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.1_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.1_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an7.66/de/sabbamitta",
+      "dn24/de/sabbamitta",
+      "sn56.47/de/sabbamitta",
+      "an4.1/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.66_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an7/an7.66_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.66",
+        "lang": "de",
+        "segMap": {
+          "an7.66:3.2": {
+            "scid": "an7.66:3.2",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni vassasatasahassāni devo na vassati. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da der Regen nicht mehr fällt. Viele Jahre lang, viele hundert, viele tausend, viele hunderttausend Jahre lang wird kein Regen fallen. ",
+            "en": "There comes a time when, after a very long period has passed, the rain doesn’t fall. For many years, many hundreds, many thousands, many hundreds of thousands of years no rain falls. ",
+            "matched": true
+          },
+          "an7.66:4.1": {
+            "scid": "an7.66:4.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena dutiyo sūriyo pātubhavati. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine zweite Sonne. ",
+            "en": "There comes a time when, after a very long period has passed, a second sun appears. ",
+            "matched": true
+          },
+          "an7.66:5.1": {
+            "scid": "an7.66:5.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tatiyo sūriyo pātubhavati. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine dritte Sonne. ",
+            "en": "There comes a time when, after a very long period has passed, a third sun appears. ",
+            "matched": true
+          },
+          "an7.66:6.1": {
+            "scid": "an7.66:6.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena catuttho sūriyo pātubhavati. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine vierte Sonne. ",
+            "en": "There comes a time when, after a very long period has passed, a fourth sun appears. ",
+            "matched": true
+          },
+          "an7.66:7.1": {
+            "scid": "an7.66:7.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena pañcamo sūriyo pātubhavati. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine fünfte Sonne. ",
+            "en": "There comes a time when, after a very long period has passed, a fifth sun appears. ",
+            "matched": true
+          },
+          "an7.66:8.1": {
+            "scid": "an7.66:8.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena chaṭṭho sūriyo pātubhavati. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine sechste Sonne. ",
+            "en": "There comes a time when, after a very long period has passed, a sixth sun appears. ",
+            "matched": true
+          },
+          "an7.66:9.1": {
+            "scid": "an7.66:9.1",
+            "pli": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena sattamo sūriyo pātubhavati. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da erscheint eine siebte Sonne. ",
+            "en": "There comes a time when, after a very long period has passed, a seventh sun appears. ",
+            "matched": true
+          }
+        },
+        "score": 7.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 7\n7. Das große Kapitel\n66. Die sieben Sonnen",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 95,
+          "de": 89,
+          "en": 94
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn24",
+        "lang": "de",
+        "segMap": {
+          "dn24:2.14.11": {
+            "scid": "dn24:2.14.11",
+            "pli": "‘Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. ",
+            "de": "‚Es kommt eine Zeit, werte Freunde, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da dieses Weltall sich zusammenzieht. ",
+            "en": "‘There comes a time when, reverends, after a very long period has passed, this cosmos contracts. ",
+            "matched": true
+          },
+          "dn24:2.14.13": {
+            "scid": "dn24:2.14.13",
+            "pli": "Te tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino ciraṁ dīghamaddhānaṁ tiṭṭhanti. ",
+            "de": "Dort sind sie geistgeschaffen, ernähren sich von Ekstase, sind selbstleuchtend und bewegen sich über den Himmel, von gleichmäßiger Pracht, und sie bleiben so für eine <span class=\"ebt-matched\">sehr lange Zeit</span>. ",
+            "en": "There they are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a very long time. ",
+            "matched": true
+          },
+          "dn24:2.15.1": {
+            "scid": "dn24:2.15.1",
+            "pli": "Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. ",
+            "de": "Es kommt eine Zeit, nachdem eine <span class=\"ebt-matched\">sehr lange Zeit</span>spanne vergangen ist, da dieses Weltall sich ausdehnt. ",
+            "en": "There comes a time when, after a very long period has passed, this cosmos expands. ",
+            "matched": true
+          },
+          "dn24:2.15.4": {
+            "scid": "dn24:2.15.4",
+            "pli": "So tattha hoti manomayo pītibhakkho sayampabho antalikkhacaro subhaṭṭhāyī, ciraṁ dīghamaddhānaṁ tiṭṭhati. ",
+            "de": "Dort ist es geistgeschaffen, ernährt sich von Ekstase, ist selbstleuchtend und bewegt sich über den Himmel, von gleichmäßiger Pracht, und es bleibt so für eine <span class=\"ebt-matched\">sehr lange Zeit</span>. ",
+            "en": "There they are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a very long time. ",
+            "matched": true
+          },
+          "dn24:2.16.4": {
+            "scid": "dn24:2.16.4",
+            "pli": "Tepi tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino, ciraṁ dīghamaddhānaṁ tiṭṭhanti. ",
+            "de": "Dort sind sie geistgeschaffen, ernähren sich von Ekstase, sind selbstleuchtend und bewegen sich über den Himmel, von gleichmäßiger Pracht, und sie bleiben so für eine <span class=\"ebt-matched\">sehr lange Zeit</span>. ",
+            "en": "There they too are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a very long time. ",
+            "matched": true
+          }
+        },
+        "score": 5.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 24\nÜber Pāṭikaputta\n1. Die Geschichte von Sunakkhatta",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 581,
+          "de": 500,
+          "en": 580
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.47_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn56/sn56.47_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.47_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.47",
+        "lang": "de",
+        "segMap": {
+          "sn56.47:1.4": {
+            "scid": "sn56.47:1.4",
+            "pli": "“Yadi nūna, bhante, kadāci karahaci dīghassa addhuno accayenā”ti. ",
+            "de": "„Nur nach <span class=\"ebt-matched\">sehr langer Zeit</span>, Herr, wenn überhaupt.“ ",
+            "en": "“Only after a very long time, sir, if ever.” ",
+            "matched": true
+          }
+        },
+        "score": 1.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 56\n5. Eine Klippe\n47. Ein Joch mit einer Öffnung (1)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 17,
+          "de": 16,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.1_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.1_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.1",
+        "lang": "de",
+        "segMap": {
+          "an4.1:2.1": {
+            "scid": "an4.1:2.1",
+            "pli": "“Catunnaṁ, bhikkhave, dhammānaṁ ananubodhā appaṭivedhā evamidaṁ dīghamaddhānaṁ sandhāvitaṁ saṁsaritaṁ mamañceva tumhākañca. ",
+            "de": "„Mönche und Nonnen, weil wir vier Dinge nicht verstanden und nicht durchdrungen hatten, sind wir, ihr sowohl als ich, für eine <span class=\"ebt-matched\">sehr lange Zeit</span> gewandert und umhergezogen. ",
+            "en": "“Mendicants, not understanding and not penetrating four things, both you and I have wandered and transmigrated for such a very long time. ",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n1. Beim Dorf Bhaṇḍa\n1. Verstanden",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "de": 26,
+          "en": 26
+        }
+      }
+    ]
+  }
+}

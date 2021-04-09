@@ -1,0 +1,246 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "to criticize",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "to criticize",
+    "method": "phrase",
+    "resultPattern": "\\bto criticize",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an8/an8.51_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.51_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga7/ud7.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga7/ud7.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn1_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.42_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.42_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.28_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.28_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an8.51/en/sujato",
+      "ud7.6/en/sujato",
+      "dn1/en/sujato",
+      "an5.42/en/sujato",
+      "an4.6/en/sujato",
+      "an4.28/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.51_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.51",
+        "lang": "en",
+        "segMap": {
+          "an8.51:18.1": {
+            "scid": "an8.51:18.1",
+            "pli": "Ajjatagge ovaṭo bhikkhunīnaṁ bhikkhūsu vacanapatho, anovaṭo bhikkhūnaṁ bhikkhunīsu vacanapatho. ",
+            "en": "From this day forth it is forbidden for nuns <span class=\"ebt-matched\">to criticize</span> monks, but it is not forbidden for monks <span class=\"ebt-matched\">to criticize</span> nuns. ",
+            "matched": true
+          },
+          "an8.51:23.1": {
+            "scid": "an8.51:23.1",
+            "pli": "Ajjatagge ovaṭo bhikkhunīnaṁ bhikkhūsu vacanapatho, anovaṭo bhikkhūnaṁ bhikkhunīsu vacanapatho. ",
+            "en": "From this day forth it is forbidden for nuns <span class=\"ebt-matched\">to criticize</span> monks, but it is not forbidden for monks <span class=\"ebt-matched\">to criticize</span> nuns. ",
+            "matched": true
+          }
+        },
+        "score": 2.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n6. Gotamī\n51. With Gotamī",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 92,
+          "en": 91
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn1_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn1",
+        "lang": "en",
+        "segMap": {
+          "dn1:1.2.3": {
+            "scid": "dn1:1.2.3",
+            "pli": "Tatrapi sudaṁ suppiyo paribbājako anekapariyāyena buddhassa avaṇṇaṁ bhāsati, dhammassa avaṇṇaṁ bhāsati, saṅghassa avaṇṇaṁ bhāsati; ",
+            "en": "There too, Suppiya criticized the Buddha, the teaching, and the Saṅgha in many ways, ",
+            "matched": true
+          },
+          "dn1:1.5.3": {
+            "scid": "dn1:1.5.3",
+            "pli": "Mamaṁ vā, bhikkhave, pare avaṇṇaṁ bhāseyyuṁ, dhammassa vā avaṇṇaṁ bhāseyyuṁ, saṅghassa vā avaṇṇaṁ bhāseyyuṁ, tatra ce tumhe assatha kupitā vā anattamanā vā, api nu tumhe paresaṁ subhāsitaṁ dubbhāsitaṁ ājāneyyāthā”ti? ",
+            "en": "If others were <span class=\"ebt-matched\">to criticize</span> me, the teaching, or the Saṅgha, and you got angry and upset, would you be able to understand whether they spoke well or poorly?” ",
+            "matched": true
+          }
+        },
+        "score": 2.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 1\nThe Prime Net\n1. Talk on Wanderers",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 662,
+          "en": 661
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga7/ud7.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga7/ud7.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud7.6",
+        "lang": "en",
+        "segMap": {
+          "ud7.6:4.4": {
+            "scid": "ud7.6:4.4",
+            "pli": "ko taṁ ninditumarahati;",
+            "en": "who is worthy <span class=\"ebt-matched\">to criticize</span> them? ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\nThe Ending of Craving",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.42_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.42_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.42",
+        "lang": "en",
+        "segMap": {
+          "an5.42:4.4": {
+            "scid": "an5.42:4.4",
+            "pli": "ko taṁ ninditumarahati; ",
+            "en": "who is worthy <span class=\"ebt-matched\">to criticize</span> them? ",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n5. With King Muṇḍa\n42. A Good Person",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.28_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.28",
+        "lang": "en",
+        "segMap": {
+          "an4.28:7.4": {
+            "scid": "an4.28:7.4",
+            "pli": "ko taṁ ninditumarahati; ",
+            "en": "who is worthy <span class=\"ebt-matched\">to criticize</span> them? ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n3. At Uruvelā\n28. The Noble Traditions",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 35,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.6",
+        "lang": "en",
+        "segMap": {
+          "an4.6:9.4": {
+            "scid": "an4.6:9.4",
+            "pli": "ko taṁ ninditumarahati; ",
+            "en": "who is worthy <span class=\"ebt-matched\">to criticize</span> them? ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n1. At Bhaṇḍa Village\n6. A Little Learning",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 53,
+          "en": 52
+        }
+      }
+    ]
+  }
+}

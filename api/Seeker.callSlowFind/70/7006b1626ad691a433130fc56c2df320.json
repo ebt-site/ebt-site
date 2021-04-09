@@ -1,0 +1,214 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "nine things should be developed",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "nine things should be developed",
+    "method": "phrase",
+    "resultPattern": "\\bnine things should be developed",
+    "segsMatched": 7,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an9/an9.94_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.94_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.93_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.93_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.95-112_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.95-112_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.113-432_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.113-432_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an9.94/en/sujato",
+      "an9.93/en/sujato",
+      "dn34/en/sujato",
+      "an9.95-112/en/sujato",
+      "an9.113-432/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.93_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.93_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.93",
+        "lang": "en",
+        "segMap": {
+          "an9.93:1.1": {
+            "scid": "an9.93:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya nava dhammā bhāvetabbā. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">nine things should be developed</span>. ",
+            "matched": true
+          },
+          "an9.93:1.4": {
+            "scid": "an9.93:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime nava dhammā bhāvetabbā”ti. ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">nine things should be developed</span>.”",
+            "matched": true
+          }
+        },
+        "score": 2.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n10. Abbreviated Texts Beginning with Greed\n93",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.94_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.94_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.94",
+        "lang": "en",
+        "segMap": {
+          "an9.94:1.1": {
+            "scid": "an9.94:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya nava dhammā bhāvetabbā. ",
+            "en": "“For insight into greed, <span class=\"ebt-matched\">nine things should be developed</span>. ",
+            "matched": true
+          },
+          "an9.94:1.4": {
+            "scid": "an9.94:1.4",
+            "pli": "rāgassa, bhikkhave, abhiññāya ime nava dhammā bhāvetabbā”ti. ",
+            "en": "For insight into greed, these <span class=\"ebt-matched\">nine things should be developed</span>.”",
+            "matched": true
+          }
+        },
+        "score": 2.286,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n10. Abbreviated Texts Beginning with Greed\n94",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.95-112_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.95-112_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.95-112",
+        "lang": "en",
+        "segMap": {
+          "an9.95-112:1.10": {
+            "scid": "an9.95-112:1.10",
+            "pli": "ime nava dhammā bhāvetabbā”. ",
+            "en": "these <span class=\"ebt-matched\">nine things should be developed</span>.”",
+            "matched": true
+          }
+        },
+        "score": 1.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n10. Abbreviated Texts Beginning with Greed\n95–112",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 13,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.113-432_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.113-432_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.113-432",
+        "lang": "en",
+        "segMap": {
+          "an9.113-432:1.26": {
+            "scid": "an9.113-432:1.26",
+            "pli": "ime nava dhammā bhāvetabbā”ti. ",
+            "en": "these <span class=\"ebt-matched\">nine things should be developed</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 1.032,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n10. Abbreviated Texts Beginning with Greed\n113–432",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 31,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:2.2.5": {
+            "scid": "dn34:2.2.5",
+            "pli": "Katame nava dhammā bhāvetabbā? ",
+            "en": "What <span class=\"ebt-matched\">nine things should be developed</span>? ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

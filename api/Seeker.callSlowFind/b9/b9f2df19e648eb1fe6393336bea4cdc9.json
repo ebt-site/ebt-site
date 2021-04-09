@@ -1,0 +1,758 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "head on fire",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "head on fire",
+    "method": "keywords",
+    "resultPattern": "\\bhead|\\bo(n|ṅ|ñ|ṇ)|\\bfire",
+    "segsMatched": 25,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn85_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn85_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn100_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn100_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn36_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn36_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.119_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.119_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.167_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.167_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn5_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn5_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag20.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag20.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn90_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn90_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.55_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.55_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.20_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.20_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.55_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.55_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.74_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.74_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig16.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig16.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn119_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn119_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn129_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn129_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn140_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn140_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn24_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn24_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn50_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn50_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn81_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn81_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn91_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn91_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn1/sn1.21_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn1/sn1.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn2/sn2.16_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn2/sn2.16_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.34_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.34_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn7/sn7.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn7/sn7.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.51_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.51_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.52_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.52_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.53_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.53_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.54_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.54_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.93_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.93_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.43_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.43_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.56_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.56_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.53_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.53_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn27_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn27_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn4_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn4_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag1.39_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag1.39_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag1.40_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag1.40_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag15.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag15.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag17.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag17.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga1/ud1.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga1/ud1.10_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga4/ud4.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga4/ud4.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga8/ud8.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga8/ud8.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn126_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn126_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn143_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn143_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn28_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn35_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn35_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn62_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn62_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn76_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn76_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn77_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn77_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn89_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn89_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn92_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn92_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn1/sn1.46_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn1/sn1.46_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.95_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.95_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn24/sn24.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn24/sn24.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn3/sn3.19_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn3/sn3.19_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.133_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.133_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.238_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.238_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.246_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.246_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.28_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.28_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn4/sn4.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn4/sn4.9_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an10.119/en/sujato",
+      "an10.167/en/sujato",
+      "thag20.1/en/sujato",
+      "an10.55/en/sujato",
+      "an6.20/en/sujato",
+      "an8.74/en/sujato",
+      "sn1.21/en/sujato",
+      "sn2.16/en/sujato",
+      "sn56.34/en/sujato",
+      "an10.51/en/sujato",
+      "an10.52/en/sujato",
+      "an10.53/en/sujato",
+      "an10.54/en/sujato",
+      "an4.93/en/sujato",
+      "thag1.39/en/sujato",
+      "thag1.40/en/sujato",
+      "sn22.95/en/sujato",
+      "sn4.9/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.34_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.34",
+        "lang": "en",
+        "segMap": {
+          "sn56.34:1.1": {
+            "scid": "sn56.34:1.1",
+            "pli": "“Āditte, bhikkhave, cele vā sīse vā kimassa karaṇīyan”ti? ",
+            "en": "“Mendicants, if your clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>, what would you do about it?” ",
+            "matched": true
+          },
+          "sn56.34:1.2": {
+            "scid": "sn56.34:1.2",
+            "pli": "“Āditte, bhante, cele vā sīse vā, tasseva celassa vā sīsassa vā nibbāpanāya adhimatto chando ca vāyāmo ca ussāho ca ussoḷhī ca appaṭivānī ca sati ca sampajaññañca karaṇīyan”ti. ",
+            "en": "“Sir, if our clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>, we’d apply intense enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness in order to extinguish it.” ",
+            "matched": true
+          }
+        },
+        "score": 2.2,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n4. In a Rosewood Forest\n34. Clothes",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 10,
+          "en": 9
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn2/sn2.16_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn2/sn2.16_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn2.16",
+        "lang": "en",
+        "segMap": {
+          "sn2.16:2.2": {
+            "scid": "sn2.16:2.2",
+            "pli": "ḍayhamānova matthake; ",
+            "en": "like their <span class=\"ebt-matched\">head</span> was <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>, ",
+            "matched": true
+          },
+          "sn2.16:3.2": {
+            "scid": "sn2.16:3.2",
+            "pli": "ḍayhamānova matthake; ",
+            "en": "like their <span class=\"ebt-matched\">head</span> was <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 2\n2. With Anāthapiṇḍika\n16. With Vāsudatta",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn1/sn1.21_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn1/sn1.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn1.21",
+        "lang": "en",
+        "segMap": {
+          "sn1.21:2.2": {
+            "scid": "sn1.21:2.2",
+            "pli": "ḍayhamānova matthake; ",
+            "en": "like their <span class=\"ebt-matched\">head</span> was <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>, ",
+            "matched": true
+          },
+          "sn1.21:3.2": {
+            "scid": "sn1.21:3.2",
+            "pli": "ḍayhamānova matthake; ",
+            "en": "like their <span class=\"ebt-matched\">head</span> was <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.154,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 1\n3. A Sword\n21. A Sword",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 13,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.74_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.74_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.74",
+        "lang": "en",
+        "segMap": {
+          "an8.74:4.1": {
+            "scid": "an8.74:4.1",
+            "pli": "Seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā tasseva celassa vā sīsassa vā nibbāpanāya adhimattaṁ chandañca vāyāmañca ussāhañca ussoḷhiñca appaṭivāniñca satiñca sampajaññañca kareyya; ",
+            "en": "Suppose your clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>. In order to extinguish it, you’d apply intense enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness. ",
+            "matched": true
+          },
+          "an8.74:8.1": {
+            "scid": "an8.74:8.1",
+            "pli": "Seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā tasseva celassa vā sīsassa vā nibbāpanāya adhimattaṁ chandañca vāyāmañca ussāhañca ussoḷhiñca appaṭivāniñca satiñca sampajaññañca kareyya; ",
+            "en": "Suppose your clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>. In order to extinguish it, you’d apply intense enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness. ",
+            "matched": true
+          }
+        },
+        "score": 2.054,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n8. Pairs\n74. Mindfulness of Death (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.55_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.55_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.55",
+        "lang": "en",
+        "segMap": {
+          "an10.55:8.2": {
+            "scid": "an10.55:8.2",
+            "pli": "Seyyathāpi, āvuso, ādittacelo vā ādittasīso vā. ",
+            "en": "Suppose your clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>. In order to extinguish it, you’d apply outstanding enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness. ",
+            "matched": true
+          },
+          "an10.55:9.2": {
+            "scid": "an10.55:9.2",
+            "pli": "Seyyathāpi, āvuso, ādittacelo vā ādittasīso vā. ",
+            "en": "Suppose your clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>. In order to extinguish it, you’d apply outstanding enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness. ",
+            "matched": true
+          }
+        },
+        "score": 2.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n55. Decline",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 40,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.20_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.20",
+        "lang": "en",
+        "segMap": {
+          "an6.20:3.3": {
+            "scid": "an6.20:3.3",
+            "pli": "Seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā tasseva celassa vā sīsassa vā nibbāpanāya adhimattaṁ chandañca vāyāmañca ussāhañca ussoḷhiñca appaṭivāniñca satiñca sampajaññañca kareyya; ",
+            "en": "Suppose your clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>. In order to extinguish it, you’d apply intense enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness. ",
+            "matched": true
+          },
+          "an6.20:6.3": {
+            "scid": "an6.20:6.3",
+            "pli": "Seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā tasseva celassa vā sīsassa vā nibbāpanāya adhimattaṁ chandañca vāyāmañca ussāhañca ussoḷhiñca appaṭivāniñca satiñca sampajaññañca kareyya; ",
+            "en": "Suppose your clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>. In order to extinguish it, you’d apply intense enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness. ",
+            "matched": true
+          }
+        },
+        "score": 2.047,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n2. Warm-hearted\n20. Mindfulness of Death (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 43,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag20.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag20.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag20.1",
+        "lang": "en",
+        "segMap": {
+          "thag20.1:23.2": {
+            "scid": "thag20.1:23.2",
+            "pli": "ḍayhamānova matthake;",
+            "en": "like their <span class=\"ebt-matched\">head</span> was <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>,",
+            "matched": true
+          },
+          "thag20.1:24.2": {
+            "scid": "thag20.1:24.2",
+            "pli": "ḍayhamānova matthake;",
+            "en": "like their <span class=\"ebt-matched\">head</span> was <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>,",
+            "matched": true
+          }
+        },
+        "score": 2.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Sixties\nChapter One\n20.1. Mahāmoggallāna",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 299,
+          "en": 293
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag1.39_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag1.39_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag1.39",
+        "lang": "en",
+        "segMap": {
+          "thag1.39:1.2": {
+            "scid": "thag1.39:1.2",
+            "pli": "ḍayhamānova matthake;",
+            "en": "like their <span class=\"ebt-matched\">head</span> was <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Ones\nChapter Four\n1.39. Tissa (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 9,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag1.40_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag1.40_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag1.40",
+        "lang": "en",
+        "segMap": {
+          "thag1.40:1.2": {
+            "scid": "thag1.40:1.2",
+            "pli": "ḍayhamānova matthake;",
+            "en": "like their <span class=\"ebt-matched\">head</span> was <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Ones\nChapter Four\n1.40. Vaḍḍhamāna",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.93_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.93_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.93",
+        "lang": "en",
+        "segMap": {
+          "an4.93:4.2": {
+            "scid": "an4.93:4.2",
+            "pli": "Seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā tasseva celassa vā sīsassa vā nibbāpanāya adhimattaṁ chandañca vāyāmañca ussāhañca ussoḷhiñca appaṭivāniñca satiñca sampajaññañca kareyya; ",
+            "en": "Suppose your clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>. In order to extinguish it, you’d apply intense enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness. ",
+            "matched": true
+          }
+        },
+        "score": 1.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n10. Demons\n93. Immersion (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 20,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.52_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.52_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.52",
+        "lang": "en",
+        "segMap": {
+          "an10.52:5.3": {
+            "scid": "an10.52:5.3",
+            "pli": "Seyyathāpi, āvuso, ādittacelo vā ādittasīso vā. Tasseva celassa vā sīsassa vā nibbāpanāya adhimattaṁ chandañca vāyāmañca ussāhañca ussoḷhiñca appaṭivāniñca satiñca sampajaññañca kareyya. ",
+            "en": "Suppose your clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>. In order to extinguish it, you’d apply outstanding enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness. ",
+            "matched": true
+          }
+        },
+        "score": 1.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n52. With Sāriputta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.51_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.51",
+        "lang": "en",
+        "segMap": {
+          "an10.51:4.3": {
+            "scid": "an10.51:4.3",
+            "pli": "Seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā. Tasseva celassa vā sīsassa vā nibbāpanāya adhimattaṁ chandañca vāyāmañca ussāhañca ussoḷhiñca appaṭivāniñca satiñca sampajaññañca kareyya. ",
+            "en": "Suppose your clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>. In order to extinguish it, you’d apply outstanding enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness. ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n51. Your Own Mind",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn4/sn4.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn4/sn4.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn4.9",
+        "lang": "en",
+        "segMap": {
+          "sn4.9:5.3": {
+            "scid": "sn4.9:5.3",
+            "pli": "Careyyādittasīsova, ",
+            "en": "They should live as though their <span class=\"ebt-matched\">head</span> was <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 4\n1. Life Span\n9. Life Span (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.53_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.53_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.53",
+        "lang": "en",
+        "segMap": {
+          "an10.53:7.3": {
+            "scid": "an10.53:7.3",
+            "pli": "Seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā. ",
+            "en": "Suppose your clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>. In order to extinguish it, you’d apply outstanding enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness. ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n53. Stagnation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.95_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.95_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.95",
+        "lang": "en",
+        "segMap": {
+          "sn22.95:15.3": {
+            "scid": "sn22.95:15.3",
+            "pli": "Careyyādittasīsova, ",
+            "en": "They should live as though their <span class=\"ebt-matched\">head</span> was <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>, ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n10. Flowers\n95. A Lump of Foam",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 51,
+          "en": 50
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.167_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.167_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.167",
+        "lang": "en",
+        "segMap": {
+          "an10.167:3.2": {
+            "scid": "an10.167:3.2",
+            "pli": "“Idha, bho gotama, brāhmaṇā tadahuposathe sīsaṁnhātā navaṁ khomayugaṁ nivatthā allena gomayena pathaviṁ opuñjitvā haritehi kusehi pattharitvā antarā ca velaṁ antarā ca agyāgāraṁ seyyaṁ kappenti. ",
+            "en": "“Well, Master Gotama, <span class=\"ebt-matched\">on</span> the sabbath the brahmins bathe their <span class=\"ebt-matched\">head</span>s and dress in a new pair of linen robes. They make a heap of fresh cow dung and spread it with green grass. Then they make their beds between the boundary and the <span class=\"ebt-matched\">fire</span> chamber. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n17. With Jāṇussoṇī\n167. The Brahmin Ceremony of Descent",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 68,
+          "en": 67
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.119_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.119_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.119",
+        "lang": "en",
+        "segMap": {
+          "an10.119:3.2": {
+            "scid": "an10.119:3.2",
+            "pli": "“Idha, bho gotama, brāhmaṇā tadahuposathe sīsaṁnhātā navaṁ khomayugaṁ nivatthā allena gomayena pathaviṁ opuñjitvā haritehi kusehi pattharitvā antarā ca velaṁ antarā ca agyāgāraṁ seyyaṁ kappenti. ",
+            "en": "“Well, Master Gotama, <span class=\"ebt-matched\">on</span> the sabbath the brahmins bathe their <span class=\"ebt-matched\">head</span>s and dress in a new pair of linen robes. They make a heap of fresh cow dung and spread it with green grass. Then they make their beds between the boundary and the <span class=\"ebt-matched\">fire</span> chamber. ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n12. The Ceremony of Descent\n119. The Ceremony of Descent (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 69,
+          "en": 68
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.54_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.54_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.54",
+        "lang": "en",
+        "segMap": {
+          "an10.54:5.3": {
+            "scid": "an10.54:5.3",
+            "pli": "Seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā. ",
+            "en": "Suppose your clothes or <span class=\"ebt-matched\">head</span> were <span class=\"ebt-matched\">on</span> <span class=\"ebt-matched\">fire</span>. In order to extinguish it, you’d apply outstanding enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n54. Serenity",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 98,
+          "en": 97
+        }
+      }
+    ]
+  }
+}

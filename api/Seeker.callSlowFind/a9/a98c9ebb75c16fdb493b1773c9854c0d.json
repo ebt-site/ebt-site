@@ -1,0 +1,93 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "schüler.* wollen nicht zuhören",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "schüler.* wollen nicht zuhören",
+    "method": "phrase",
+    "resultPattern": "\\bschüler.* wollen nicht zuhören",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn12_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn12/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn12_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn12",
+        "lang": "de",
+        "segMap": {
+          "dn12:16.7": {
+            "scid": "dn12:16.7",
+            "pli": "Tassa sāvakā na sussūsanti, na sotaṁ odahanti, na aññā cittaṁ upaṭṭhapenti, vokkamma ca satthusāsanā vattanti. ",
+            "de": "Aber seine <span class=\"ebt-matched\">Schüler wollen nicht zuhören</span>. Sie passen nicht auf und gebrauchen nicht ihren Verstand, um zu verstehen. Sie wenden sich von der Anleitung des Lehrers ab und gehen weiter. ",
+            "en": "But their disciples don’t want to listen. They don’t pay attention or apply their minds to understand. They proceed having turned away from the teacher’s instruction. ",
+            "matched": true
+          },
+          "dn12:17.4": {
+            "scid": "dn12:17.4",
+            "pli": "Tassa sāvakā sussūsanti, sotaṁ odahanti, aññā cittaṁ upaṭṭhapenti, na ca vokkamma satthusāsanā vattanti. ",
+            "de": "Und seine Schülerinnen wollen zuhören. Sie passen auf und gebrauchen ihren Verstand, um zu verstehen. Sie wenden sich nicht von der Anleitung des Lehrers ab und gehen weiter. ",
+            "en": "Their disciples do want to listen. They pay attention and apply their minds to understand. They don’t proceed having turned away from the teacher’s instruction. ",
+            "matched": true
+          },
+          "dn12:18.4": {
+            "scid": "dn12:18.4",
+            "pli": "Tassa sāvakā na sussūsanti, na sotaṁ odahanti, na aññā cittaṁ upaṭṭhapenti, vokkamma ca satthusāsanā vattanti. ",
+            "de": "Aber seine <span class=\"ebt-matched\">Schüler wollen nicht zuhören</span>. Sie passen nicht auf und gebrauchen nicht ihren Verstand, um zu verstehen. Sie wenden sich von der Anleitung des Lehrers ab und gehen weiter. ",
+            "en": "But their disciples don’t want to listen. They don’t pay attention or apply their minds to understand. They proceed having turned away from the teacher’s instruction. ",
+            "matched": true
+          }
+        },
+        "score": 3.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 12\nMit Lohicca",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 189,
+          "de": 144,
+          "en": 188
+        }
+      }
+    ]
+  }
+}

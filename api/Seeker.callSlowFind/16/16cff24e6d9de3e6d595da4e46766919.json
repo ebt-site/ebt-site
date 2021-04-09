@@ -1,0 +1,178 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "versenkung weiterzuentwickeln",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "versenkung weiterzuentwickeln",
+    "method": "phrase",
+    "resultPattern": "\\bversenkung weiterzuentwickeln",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.41_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.41_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.41_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.41/de/sabbamitta",
+      "dn33/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.41_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.41_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.41_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.41",
+        "lang": "de",
+        "segMap": {
+          "an4.41:1.1": {
+            "scid": "an4.41:1.1",
+            "pli": "“Catasso imā, bhikkhave, samādhibhāvanā. ",
+            "de": "„Mönche und Nonnen, es gibt diese vier Arten, <span class=\"ebt-matched\">Versenkung weiterzuentwickeln</span>. ",
+            "en": "“Mendicants, there are these four ways of developing immersion further. ",
+            "matched": true
+          },
+          "an4.41:1.3": {
+            "scid": "an4.41:1.3",
+            "pli": "Atthi, bhikkhave, samādhibhāvanā bhāvitā bahulīkatā diṭṭhadhammasukhavihārāya saṁvattati; ",
+            "de": "Es gibt eine Art, <span class=\"ebt-matched\">Versenkung weiterzuentwickeln</span>, die zu wonnevoller Meditation in diesem Leben führt. ",
+            "en": "There is a way of developing immersion further that leads to blissful meditation in the present life. ",
+            "matched": true
+          },
+          "an4.41:1.4": {
+            "scid": "an4.41:1.4",
+            "pli": "atthi, bhikkhave, samādhibhāvanā bhāvitā bahulīkatā ñāṇadassanappaṭilābhāya saṁvattati; ",
+            "de": "Es gibt eine Art, <span class=\"ebt-matched\">Versenkung weiterzuentwickeln</span>, die zum Erkennen und Sehen führt. ",
+            "en": "There is a way of developing immersion further that leads to gaining knowledge and vision. ",
+            "matched": true
+          },
+          "an4.41:1.5": {
+            "scid": "an4.41:1.5",
+            "pli": "atthi, bhikkhave, samādhibhāvanā bhāvitā bahulīkatā satisampajaññāya saṁvattati; ",
+            "de": "Es gibt eine Art, <span class=\"ebt-matched\">Versenkung weiterzuentwickeln</span>, die zu Achtsamkeit und Umsicht führt. ",
+            "en": "There is a way of developing immersion further that leads to mindfulness and awareness. ",
+            "matched": true
+          },
+          "an4.41:1.6": {
+            "scid": "an4.41:1.6",
+            "pli": "atthi, bhikkhave, samādhibhāvanā bhāvitā bahulīkatā āsavānaṁ khayāya saṁvattati. ",
+            "de": "Es gibt eine Art, <span class=\"ebt-matched\">Versenkung weiterzuentwickeln</span>, die zum Auflösen der Befleckungen führt. ",
+            "en": "There is a way of developing immersion further that leads to the ending of defilements. ",
+            "matched": true
+          },
+          "an4.41:5.9": {
+            "scid": "an4.41:5.9",
+            "pli": "Imā kho, bhikkhave, catasso samādhibhāvanā. ",
+            "de": "Das sind die vier Arten, <span class=\"ebt-matched\">Versenkung weiterzuentwickeln</span>. ",
+            "en": "These are the four ways of developing immersion further. ",
+            "matched": true
+          }
+        },
+        "score": 6.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n5. Mit Rohitassa\n41. Wie man Versenkung weiterentwickelt",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 36,
+          "de": 35,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.11.24": {
+            "scid": "dn33:1.11.24",
+            "pli": "Catasso samādhibhāvanā. ",
+            "de": "Vier Arten, <span class=\"ebt-matched\">Versenkung weiterzuentwickeln</span>: ",
+            "en": "Four ways of developing immersion further. ",
+            "matched": true
+          },
+          "dn33:1.11.25": {
+            "scid": "dn33:1.11.25",
+            "pli": "Atthāvuso, samādhibhāvanā bhāvitā bahulīkatā diṭṭhadhammasukhavihārāya saṁvattati. ",
+            "de": "Es gibt eine Art, <span class=\"ebt-matched\">Versenkung weiterzuentwickeln</span>, die zu wonnevoller Meditation in diesem Leben führt. ",
+            "en": "There is a way of developing immersion further that leads to blissful meditation in the present life. ",
+            "matched": true
+          },
+          "dn33:1.11.26": {
+            "scid": "dn33:1.11.26",
+            "pli": "Atthāvuso, samādhibhāvanā bhāvitā bahulīkatā ñāṇadassanapaṭilābhāya saṁvattati. ",
+            "de": "Es gibt eine Art, <span class=\"ebt-matched\">Versenkung weiterzuentwickeln</span>, die zum Erkennen und Sehen führt. ",
+            "en": "There is a way of developing immersion further that leads to gaining knowledge and vision. ",
+            "matched": true
+          },
+          "dn33:1.11.27": {
+            "scid": "dn33:1.11.27",
+            "pli": "Atthāvuso samādhibhāvanā bhāvitā bahulīkatā satisampajaññāya saṁvattati. ",
+            "de": "Es gibt eine Art, <span class=\"ebt-matched\">Versenkung weiterzuentwickeln</span>, die zu Achtsamkeit und Umsicht führt. ",
+            "en": "There is a way of developing immersion further that leads to mindfulness and awareness. ",
+            "matched": true
+          },
+          "dn33:1.11.28": {
+            "scid": "dn33:1.11.28",
+            "pli": "Atthāvuso samādhibhāvanā bhāvitā bahulīkatā āsavānaṁ khayāya saṁvattati. ",
+            "de": "Es gibt eine Art, <span class=\"ebt-matched\">Versenkung weiterzuentwickeln</span>, die zum Auflösen der Befleckungen führt. ",
+            "en": "There is a way of developing immersion further that leads to the ending of defilements. ",
+            "matched": true
+          }
+        },
+        "score": 5.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+#!/bin/bash
+DIR=`dirname $0`
+
+echo -e "DEPLOY\t: start"
+
+echo -e "DEPLOY\t: checking git..."
+git checkout package-lock.json
+git status 2> /dev/null | grep "nothing to commit"; RC=$?
+if [ "$RC" == "0" ]; then
+  echo -e "DEPLOY\t: git is clean (OK)"
+else
+  echo -e "DEPLOY\t: git is NOT clean (CANCELED)"
+  git status
+  exit -1
+fi
+
+export BABEL_ENV=deploy
+npm run version:nuxt &&\
+npm run build:routes &&\
+npm run build:generate-dist &&\
+npm run git:commit-version PUSH &&\
+npm run deploy:branch &&\
+find dist &&\
+RC=$?
+
+echo -e "DEPLOY\t: done => $RC"

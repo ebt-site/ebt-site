@@ -1,0 +1,726 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "such is form",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "such is form",
+    "method": "phrase",
+    "resultPattern": "\\bsuch is form",
+    "segsMatched": 23,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn22/sn22.89_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.89_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.90_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.90_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn46/sn46.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.30_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.244_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.244_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.78_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.78_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.102_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.102_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.101_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.101_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.23_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.23_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.22_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.22_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.21_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn9_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn9_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn72_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn72_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn122_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn122_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.41_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.41_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn22.89/en/sujato",
+      "an4.90/en/sujato",
+      "sn46.30/en/sujato",
+      "sn35.244/en/sujato",
+      "sn22.78/en/sujato",
+      "sn22.102/en/sujato",
+      "sn22.101/en/sujato",
+      "sn12.2/en/sujato",
+      "sn12.23/en/sujato",
+      "sn12.22/en/sujato",
+      "sn12.21/en/sujato",
+      "mn9/en/sujato",
+      "mn72/en/sujato",
+      "mn122/en/sujato",
+      "mn10/en/sujato",
+      "dn34/en/sujato",
+      "dn33/en/sujato",
+      "dn22/en/sujato",
+      "dn14/en/sujato",
+      "an8.2/en/sujato",
+      "an4.41/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.90_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.90_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.90",
+        "lang": "en",
+        "segMap": {
+          "an4.90:3.3": {
+            "scid": "an4.90:3.3",
+            "pli": "‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          },
+          "an4.90:4.3": {
+            "scid": "an4.90:4.3",
+            "pli": "‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 2.054,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n9. Confirmed\n90. Aggregates",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 37,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.89_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.89_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.89",
+        "lang": "en",
+        "segMap": {
+          "sn22.89:11.3": {
+            "scid": "sn22.89:11.3",
+            "pli": "iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          },
+          "sn22.89:12.8": {
+            "scid": "sn22.89:12.8",
+            "pli": "‘Iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 2.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n9. Senior Mendicants\n89. With Khemaka",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 131,
+          "en": 130
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.21_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.21",
+        "lang": "en",
+        "segMap": {
+          "sn12.21:1.3": {
+            "scid": "sn12.21:1.3",
+            "pli": "iti rūpaṁ iti rūpassa samudayo iti rūpassa atthaṅgamo, ",
+            "en": "<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n3. The Ten Powers\n21. The Ten Powers",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.22_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.22",
+        "lang": "en",
+        "segMap": {
+          "sn12.22:1.3": {
+            "scid": "sn12.22:1.3",
+            "pli": "‘iti rūpaṁ iti rūpassa samudayo iti rūpassa atthaṅgamo, ",
+            "en": "<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n3. The Ten Powers\n22. The Ten Powers (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 34,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.30",
+        "lang": "en",
+        "segMap": {
+          "sn46.30:2.6": {
+            "scid": "sn46.30:2.6",
+            "pli": "‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 46\n3. With Udāyī\n30. With Udāyī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 35,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.41_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.41_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.41",
+        "lang": "en",
+        "segMap": {
+          "an4.41:5.3": {
+            "scid": "an4.41:5.3",
+            "pli": "‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n5. With Rohitassa\n41. Ways of Developing Immersion Further",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 36,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.78_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.78_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.78",
+        "lang": "en",
+        "segMap": {
+          "sn22.78:2.2": {
+            "scid": "sn22.78:2.2",
+            "pli": "‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n8. Itchy\n78. The Lion",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 39,
+          "en": 38
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.102_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.102_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.102",
+        "lang": "en",
+        "segMap": {
+          "sn22.102:12.2": {
+            "scid": "sn22.102:12.2",
+            "pli": "‘Iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n10. Flowers\n102. The Perception of Impermanence",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 45,
+          "en": 42
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.2",
+        "lang": "en",
+        "segMap": {
+          "an8.2:8.2": {
+            "scid": "an8.2:8.2",
+            "pli": "‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n1. Love\n2. Wisdom",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 64,
+          "en": 63
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.101_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.101_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.101",
+        "lang": "en",
+        "segMap": {
+          "sn22.101:1.4": {
+            "scid": "sn22.101:1.4",
+            "pli": "‘Iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n10. Flowers\n101. The Adze",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.244_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.244_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.244",
+        "lang": "en",
+        "segMap": {
+          "sn35.244:2.2": {
+            "scid": "sn35.244:2.2",
+            "pli": "‘Iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n19. The Simile of the Vipers\n244. Entailing Suffering",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.2",
+        "lang": "en",
+        "segMap": {
+          "sn12.2:11.6": {
+            "scid": "sn12.2:11.6",
+            "pli": "Iti idañca nāmaṁ, idañca rūpaṁ. ",
+            "en": "Such is name and <span class=\"ebt-matched\">such is form</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n1. The Buddhas\n2. Analysis",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 79,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.23_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.23",
+        "lang": "en",
+        "segMap": {
+          "sn12.23:1.4": {
+            "scid": "sn12.23:1.4",
+            "pli": "Iti rūpaṁ iti rūpassa samudayo iti rūpassa atthaṅgamo, ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n3. The Ten Powers\n23. Vital Conditions",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 93,
+          "en": 92
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn72_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn72_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn72",
+        "lang": "en",
+        "segMap": {
+          "mn72:15.4": {
+            "scid": "mn72:15.4",
+            "pli": "‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 72\nWith Vacchagotta on Fire",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 161,
+          "en": 160
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn122_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn122_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn122",
+        "lang": "en",
+        "segMap": {
+          "mn122:16.2": {
+            "scid": "mn122:16.2",
+            "pli": "‘iti rūpaṁ iti rūpassa samudayo iti rūpassa atthaṅgamo, ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 122\nThe Longer Discourse on Emptiness",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 172,
+          "en": 171
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn9_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn9",
+        "lang": "en",
+        "segMap": {
+          "mn9:52-54.11": {
+            "scid": "mn9:52-54.11",
+            "pli": "Iti idañca nāmaṁ idañca rūpaṁ—",
+            "en": "Such is name and <span class=\"ebt-matched\">such is form</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 9\nRight View",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 234,
+          "en": 233
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn10",
+        "lang": "en",
+        "segMap": {
+          "mn10:38.4": {
+            "scid": "mn10:38.4",
+            "pli": "‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 10\nMindfulness Meditation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 235,
+          "en": 233
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn22",
+        "lang": "en",
+        "segMap": {
+          "dn22:14.4": {
+            "scid": "dn22:14.4",
+            "pli": "‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 22\nThe Longer Discourse on Mindfulness Meditation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 454,
+          "en": 453
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn14_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn14_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn14",
+        "lang": "en",
+        "segMap": {
+          "dn14:2.22.2": {
+            "scid": "dn14:2.22.2",
+            "pli": "‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 14\nThe Great Discourse on the Harvest of Deeds\n1. On Past Lives",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 851,
+          "en": 850
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:1.11.45": {
+            "scid": "dn33:1.11.45",
+            "pli": "Iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo. ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:2.1.23": {
+            "scid": "dn34:2.1.23",
+            "pli": "‘iti rūpaṁ iti rūpassa samudayo iti rūpassa atthaṅgamo; ",
+            "en": "‘<span class=\"ebt-matched\">Such is form</span>, such is the origin of form, such is the ending of form. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

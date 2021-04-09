@@ -1,0 +1,165 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "meditation unterstützen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "meditation unterstützen",
+    "method": "phrase",
+    "resultPattern": "\\bmeditation unterstützen",
+    "segsMatched": 5,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.53_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.53_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.53_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.53/de/sabbamitta",
+      "dn34/de/sabbamitta",
+      "dn33/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.53_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.53_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.53_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.53",
+        "lang": "de",
+        "segMap": {
+          "an5.53:0.3": {
+            "scid": "an5.53:0.3",
+            "pli": "53. Padhāniyaṅgasutta ",
+            "de": "53. Faktoren, die die <span class=\"ebt-matched\">Meditation unterstützen</span> ",
+            "en": "53. Factors That Support Meditation ",
+            "matched": true
+          },
+          "an5.53:1.1": {
+            "scid": "an5.53:1.1",
+            "pli": "“Pañcimāni, bhikkhave, padhāniyaṅgāni. ",
+            "de": "„Mönche und Nonnen, es gibt diese fünf Faktoren, die die <span class=\"ebt-matched\">Meditation unterstützen</span>. ",
+            "en": "“Mendicants, there are these five factors that support meditation. ",
+            "matched": true
+          },
+          "an5.53:1.11": {
+            "scid": "an5.53:1.11",
+            "pli": "Imāni kho, bhikkhave, pañca padhāniyaṅgānī”ti. ",
+            "de": "Das sind die fünf Faktoren, die die <span class=\"ebt-matched\">Meditation unterstützen</span>.“ ",
+            "en": "These are the five factors that support meditation.” ",
+            "matched": true
+          }
+        },
+        "score": 3.2,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n6. Hindernisse\n53. Faktoren, die die Meditation unterstützen",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 15,
+          "de": 14,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:2.1.65": {
+            "scid": "dn33:2.1.65",
+            "pli": "Pañca padhāniyaṅgāni. ",
+            "de": "Fünf Faktoren, die die <span class=\"ebt-matched\">Meditation unterstützen</span>: ",
+            "en": "Five factors that support meditation. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.6.3": {
+            "scid": "dn34:1.6.3",
+            "pli": "Pañca padhāniyaṅgāni—",
+            "de": "Fünf Faktoren, die die <span class=\"ebt-matched\">Meditation unterstützen</span>: ",
+            "en": "Five factors that support meditation. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

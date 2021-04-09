@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "zu den jungen mönchen sagen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "zu den jungen mönchen sagen",
+    "method": "phrase",
+    "resultPattern": "\\bzu den jungen mönchen sagen",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.257_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.257_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.257_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.257/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.257_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.257_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.257_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.257",
+        "lang": "de",
+        "segMap": {
+          "an4.257:2.2": {
+            "scid": "an4.257:2.2",
+            "pli": "“Ettha idāni, mālukyaputta, kiṁ dahare bhikkhū vakkhāma; ",
+            "de": "„Nun, Māluṅkyaputta, was sollen wir da <span class=\"ebt-matched\">zu den jungen Mönchen sagen</span>, ",
+            "en": "“Well now, Māluṅkyaputta, what are we to say to the young monks, ",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n26. Einsicht\n257. Mit Māluṅkyaputta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "de": 20,
+          "en": 20
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "vital condition for right",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "vital condition for right",
+    "method": "phrase",
+    "resultPattern": "\\bvital condition for right",
+    "segsMatched": 50,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.24_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.24_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.168_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.168_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.65_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.65_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.81_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.81_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.50_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.50_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.3_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.24/en/sujato",
+      "an5.168/en/sujato",
+      "an7.65/en/sujato",
+      "an8.81/en/sujato",
+      "an6.50/en/sujato",
+      "an11.5/en/sujato",
+      "an11.4/en/sujato",
+      "an11.3/en/sujato",
+      "an10.5/en/sujato",
+      "an10.3/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.24_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.24_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.24",
+        "lang": "en",
+        "segMap": {
+          "an5.24:1.1": {
+            "scid": "an5.24:1.1",
+            "pli": "“Dussīlassa, bhikkhave, sīlavipannassa hatūpaniso hoti sammāsamādhi; ",
+            "en": "“Mendicants, an unethical person, who lacks ethics, has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an5.24:1.2": {
+            "scid": "an5.24:1.2",
+            "pli": "sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an5.24:1.7": {
+            "scid": "an5.24:1.7",
+            "pli": "evamevaṁ kho, bhikkhave, dussīlassa sīlavipannassa hatūpaniso hoti sammāsamādhi; ",
+            "en": "In the same way, an unethical person, who lacks ethics, has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an5.24:1.8": {
+            "scid": "an5.24:1.8",
+            "pli": "sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an5.24:2.1": {
+            "scid": "an5.24:2.1",
+            "pli": "Sīlavato, bhikkhave, sīlasampannassa upanisasampanno hoti sammāsamādhi; ",
+            "en": "An ethical person, who has fulfilled ethics, has fulfilled a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an5.24:2.2": {
+            "scid": "an5.24:2.2",
+            "pli": "sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an5.24:2.6": {
+            "scid": "an5.24:2.6",
+            "pli": "evamevaṁ kho, bhikkhave, sīlavato sīlasampannassa upanisasampanno hoti sammāsamādhi; ",
+            "en": "In the same way, an ethical person, who has fulfilled ethics, has fulfilled a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an5.24:2.7": {
+            "scid": "an5.24:2.7",
+            "pli": "sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision. ",
+            "matched": true
+          }
+        },
+        "score": 8.348,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n3. With Five Factors\n24. Unethical",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.168_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.168_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.168",
+        "lang": "en",
+        "segMap": {
+          "an5.168:1.2": {
+            "scid": "an5.168:1.2",
+            "pli": "“dussīlassa, āvuso, sīlavipannassa hatūpaniso hoti sammāsamādhi; ",
+            "en": "“Reverends, an unethical person, who lacks ethics, has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an5.168:1.3": {
+            "scid": "an5.168:1.3",
+            "pli": "sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an5.168:1.8": {
+            "scid": "an5.168:1.8",
+            "pli": "Evamevaṁ kho, āvuso, dussīlassa sīlavipannassa hatūpaniso hoti sammāsamādhi; ",
+            "en": "In the same way, an unethical person, who lacks ethics, has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an5.168:1.9": {
+            "scid": "an5.168:1.9",
+            "pli": "sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an5.168:2.1": {
+            "scid": "an5.168:2.1",
+            "pli": "Sīlavato, āvuso, sīlasampannassa upanisasampanno hoti sammāsamādhi; ",
+            "en": "An ethical person, who has fulfilled ethics, has fulfilled a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an5.168:2.2": {
+            "scid": "an5.168:2.2",
+            "pli": "sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an5.168:2.6": {
+            "scid": "an5.168:2.6",
+            "pli": "Evamevaṁ kho, āvuso, sīlavato sīlasampannassa upanisasampanno hoti sammāsamādhi; ",
+            "en": "In the same way, an ethical person, who has fulfilled ethics, has fulfilled a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an5.168:2.7": {
+            "scid": "an5.168:2.7",
+            "pli": "sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision. ",
+            "matched": true
+          }
+        },
+        "score": 8.333,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n17. Resentment\n168. Ethics",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.65_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.65_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.65",
+        "lang": "en",
+        "segMap": {
+          "an7.65:1.3": {
+            "scid": "an7.65:1.3",
+            "pli": "sīle asati sīlavipannassa hatūpaniso hoti sammāsamādhi; ",
+            "en": "When there is no ethical conduct, one who lacks ethics has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an7.65:1.4": {
+            "scid": "an7.65:1.4",
+            "pli": "sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an7.65:1.11": {
+            "scid": "an7.65:1.11",
+            "pli": "sīle asati sīlavipannassa hatūpaniso hoti sammāsamādhi; ",
+            "en": "When there is no ethical conduct, one who lacks ethics has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an7.65:1.12": {
+            "scid": "an7.65:1.12",
+            "pli": "sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an7.65:2.3": {
+            "scid": "an7.65:2.3",
+            "pli": "sīle sati sīlasampannassa upanisasampanno hoti sammāsamādhi; ",
+            "en": "When there is ethical conduct, one who has fulfilled ethical conduct has fulfilled a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an7.65:2.4": {
+            "scid": "an7.65:2.4",
+            "pli": "sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision. ",
+            "matched": true
+          }
+        },
+        "score": 6.222,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n7. The Great Chapter\n65. Conscience and Prudence",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.50_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.50_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.50",
+        "lang": "en",
+        "segMap": {
+          "an6.50:1.2": {
+            "scid": "an6.50:1.2",
+            "pli": "sīle asati sīlavipannassa hatūpaniso hoti sammāsamādhi; ",
+            "en": "When there is no ethical conduct, one who lacks ethics has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an6.50:1.3": {
+            "scid": "an6.50:1.3",
+            "pli": "sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an6.50:2.2": {
+            "scid": "an6.50:2.2",
+            "pli": "sīle sati sīlasampannassa upanisasampanno hoti sammāsamādhi; ",
+            "en": "When there is ethical conduct, one who has fulfilled ethical conduct has fulfilled a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an6.50:2.3": {
+            "scid": "an6.50:2.3",
+            "pli": "sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision. ",
+            "matched": true
+          }
+        },
+        "score": 4.19,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n5. About Dhammika\n50. Sense Restraint",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.81_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.81_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.81",
+        "lang": "en",
+        "segMap": {
+          "an8.81:1.4": {
+            "scid": "an8.81:1.4",
+            "pli": "Sīle asati sīlavipannassa hatūpaniso hoti sammāsamādhi. ",
+            "en": "When there is no ethical conduct, one who lacks ethics has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an8.81:1.5": {
+            "scid": "an8.81:1.5",
+            "pli": "Sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ. ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an8.81:2.4": {
+            "scid": "an8.81:2.4",
+            "pli": "Sīle sati sīlasampannassa upanisasampanno hoti sammāsamādhi. ",
+            "en": "When there is ethical conduct, one who has fulfilled ethical conduct has fulfilled a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an8.81:2.5": {
+            "scid": "an8.81:2.5",
+            "pli": "Sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ. ",
+            "en": "When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision. ",
+            "matched": true
+          }
+        },
+        "score": 4.154,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n9. Mindfulness\n81. Mindfulness and Situational Awareness",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 26,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.3",
+        "lang": "en",
+        "segMap": {
+          "an10.3:1.6": {
+            "scid": "an10.3:1.6",
+            "pli": "sukhe asati sukhavipannassa hatūpaniso hoti sammāsamādhi; ",
+            "en": "When there is no bliss, one who lacks bliss has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an10.3:1.7": {
+            "scid": "an10.3:1.7",
+            "pli": "sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an10.3:2.6": {
+            "scid": "an10.3:2.6",
+            "pli": "sukhe sati sukhasampannassa upanisasampanno hoti sammāsamādhi; ",
+            "en": "When there is bliss, one who has fulfilled bliss has fulfilled a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an10.3:2.7": {
+            "scid": "an10.3:2.7",
+            "pli": "sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision. ",
+            "matched": true
+          }
+        },
+        "score": 4.133,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n1. Benefits\n3. Vital Conditions (1st)",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 30,
+          "en": 29
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.5",
+        "lang": "en",
+        "segMap": {
+          "an10.5:1.7": {
+            "scid": "an10.5:1.7",
+            "pli": "sukhe asati sukhavipannassa hatūpaniso hoti sammāsamādhi; ",
+            "en": "When there is no bliss, one who lacks bliss has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an10.5:1.8": {
+            "scid": "an10.5:1.8",
+            "pli": "sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an10.5:2.6": {
+            "scid": "an10.5:2.6",
+            "pli": "sukhe sati sukhasampannassa upanisasampanno hoti sammāsamādhi; ",
+            "en": "When there is bliss, one who has fulfilled bliss has fulfilled a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an10.5:2.7": {
+            "scid": "an10.5:2.7",
+            "pli": "sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ; ",
+            "en": "When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision. ",
+            "matched": true
+          }
+        },
+        "score": 4.129,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n1. Benefits\n5. Vital Conditions (3rd)",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 31,
+          "en": 30
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.3",
+        "lang": "en",
+        "segMap": {
+          "an11.3:1.6": {
+            "scid": "an11.3:1.6",
+            "pli": "Sukhe asati sukhavipannassa hatūpaniso hoti sammāsamādhi. ",
+            "en": "When there is no bliss, one who lacks bliss has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an11.3:1.7": {
+            "scid": "an11.3:1.7",
+            "pli": "Sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ. ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an11.3:3.6": {
+            "scid": "an11.3:3.6",
+            "pli": "sukhe sati sukhasampannassa upanisasampanno hoti sammāsamādhi, ",
+            "en": "When there is bliss, one who has fulfilled bliss has fulfilled a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an11.3:3.7": {
+            "scid": "an11.3:3.7",
+            "pli": "sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ, ",
+            "en": "When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision. ",
+            "matched": true
+          }
+        },
+        "score": 4.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n1. Dependence\n3. Vital Conditions (1st)",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 32,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.5",
+        "lang": "en",
+        "segMap": {
+          "an11.5:1.7": {
+            "scid": "an11.5:1.7",
+            "pli": "sukhe asati sukhavipannassa hatūpaniso hoti sammāsamādhi, ",
+            "en": "When there is no bliss, one who lacks bliss has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an11.5:1.8": {
+            "scid": "an11.5:1.8",
+            "pli": "sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ, ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an11.5:3.6": {
+            "scid": "an11.5:3.6",
+            "pli": "sukhe sati sukhasampannassa upanisasampanno hoti sammāsamādhi, ",
+            "en": "When there is bliss, one who has fulfilled bliss has fulfilled a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an11.5:3.7": {
+            "scid": "an11.5:3.7",
+            "pli": "sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ, ",
+            "en": "When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision. ",
+            "matched": true
+          }
+        },
+        "score": 4.121,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n1. Dependence\n5. Vital Conditions (3rd)",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.4",
+        "lang": "en",
+        "segMap": {
+          "an11.4:2.6": {
+            "scid": "an11.4:2.6",
+            "pli": "sukhe asati sukhavipannassa hatūpaniso hoti sammāsamādhi, ",
+            "en": "When there is no bliss, one who lacks bliss has destroyed a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an11.4:2.7": {
+            "scid": "an11.4:2.7",
+            "pli": "sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ, ",
+            "en": "When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. ",
+            "matched": true
+          },
+          "an11.4:4.6": {
+            "scid": "an11.4:4.6",
+            "pli": "sukhe sati sukhasampannassa upanisasampanno hoti sammāsamādhi, ",
+            "en": "When there is bliss, one who has fulfilled bliss has fulfilled a <span class=\"ebt-matched\">vital condition for right</span> immersion. ",
+            "matched": true
+          },
+          "an11.4:4.7": {
+            "scid": "an11.4:4.7",
+            "pli": "sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ, ",
+            "en": "When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision. ",
+            "matched": true
+          }
+        },
+        "score": 4.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n1. Dependence\n4. Vital Conditions (2nd)",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 36,
+          "en": 35
+        }
+      }
+    ]
+  }
+}

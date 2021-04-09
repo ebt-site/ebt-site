@@ -1,0 +1,405 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "den besinnungstag ein",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "den besinnungstag ein",
+    "method": "phrase",
+    "resultPattern": "\\bden besinnungstag ein",
+    "segsMatched": 31,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.70_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.70_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.37_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.37_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.37_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.38_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.38_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.38_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.70/de/sabbamitta",
+      "dn30/de/sabbamitta",
+      "an3.37/de/sabbamitta",
+      "an3.38/de/sabbamitta",
+      "dn17/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.70_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.70_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.70",
+        "lang": "de",
+        "segMap": {
+          "an3.70:1.5": {
+            "scid": "an3.70:1.5",
+            "pli": "“Uposathāhaṁ, bhante, ajja upavasāmī”ti. ",
+            "de": "„Heute, Herr, halte ich <span class=\"ebt-matched\">den Besinnungstag ein</span>.“ ",
+            "en": "“Today, sir, I’m observing the sabbath.” ",
+            "matched": true
+          },
+          "an3.70:2.8": {
+            "scid": "an3.70:2.8",
+            "pli": "evamevaṁ kho, visākhe, idhekacco uposathiko iti paṭisañcikkhati: ",
+            "de": "Ebenso überlegt jemand, der <span class=\"ebt-matched\">den Besinnungstag ein</span>hält: ",
+            "en": "In the same way, someone keeping the sabbath reflects: ",
+            "matched": true
+          },
+          "an3.70:6.6": {
+            "scid": "an3.70:6.6",
+            "pli": "‘ariyasāvako brahmuposathaṁ upavasati, brahmunā saddhiṁ saṁvasati, brahmañcassa ārabbha cittaṁ pasīdati, pāmojjaṁ uppajjati, ye cittassa upakkilesā te pahīyanti’. ",
+            "de": "eine edle Schülerin, die den Besinnungstag Brahmās einhält, die mit Brahmā lebt, die an Brahmā denkt, deren Geist dadurch klar wird, bei der Freude aufkommt und die Verunreinigungen des Geistes sich auflösen. ",
+            "en": "‘A noble disciple who observes the sabbath of Brahmā, living together with Brahmā. And because they think of Brahmā their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
+            "matched": true
+          },
+          "an3.70:9.5": {
+            "scid": "an3.70:9.5",
+            "pli": "Ayaṁ vuccati, visākhe, ‘ariyasāvako dhammuposathaṁ upavasati, dhammena saddhiṁ saṁvasati, dhammañcassa ārabbha cittaṁ pasīdati, pāmojjaṁ uppajjati, ye cittassa upakkilesā te pahīyanti’. ",
+            "de": "Das nennt man einen edlen Schüler, der den Besinnungstag des Dhamma einhält, der mit dem Dhamma lebt, der an den Dhamma denkt, dessen Geist dadurch klar wird, bei dem Freude aufkommt und die Verunreinigungen des Geistes sich auflösen. ",
+            "en": "This is called: ‘A noble disciple who observes the sabbath of Dhamma, living together with Dhamma. And because they think of the Dhamma their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
+            "matched": true
+          },
+          "an3.70:12.5": {
+            "scid": "an3.70:12.5",
+            "pli": "Ayaṁ vuccati, visākhe, ‘ariyasāvako saṅghuposathaṁ upavasati, saṅghena saddhiṁ saṁvasati, saṅghañcassa ārabbha cittaṁ pasīdati, pāmojjaṁ uppajjati, ye cittassa upakkilesā te pahīyanti’. ",
+            "de": "Das nennt man eine edle Schülerin, die den Besinnungstag des Saṅgha einhält, die mit dem Saṅgha lebt, die an den Saṅgha denkt, deren Geist dadurch klar wird, bei der Freude aufkommt und die Verunreinigungen des Geistes sich auflösen. ",
+            "en": "This is called: ‘A noble disciple who observes the sabbath of the Saṅgha, living together with the Saṅgha. And because they think of the Saṅgha their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
+            "matched": true
+          },
+          "an3.70:15.4": {
+            "scid": "an3.70:15.4",
+            "pli": "Ayaṁ vuccati, visākhe, ‘ariyasāvako sīluposathaṁ upavasati, sīlena saddhiṁ saṁvasati, sīlañcassa ārabbha cittaṁ pasīdati, pāmojjaṁ uppajjati, ye cittassa upakkilesā te pahīyanti’. ",
+            "de": "Das nennt man einen edlen Schüler, der den Besinnungstag des sittliches Verhaltens einhält, der mit sittlichem Verhalten lebt, der an sittliches Verhalten denkt, dessen Geist dadurch klar wird, bei dem Freude aufkommt und die Verunreinigungen des Geistes sich auflösen. ",
+            "en": "This is called: ‘A noble disciple who observes the sabbath of ethical conduct, living together with ethics. And because they think of their ethical conduct their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
+            "matched": true
+          },
+          "an3.70:18.10": {
+            "scid": "an3.70:18.10",
+            "pli": "Ayaṁ vuccati, visākhe, ‘ariyasāvako devatuposathaṁ upavasati, devatāhi saddhiṁ saṁvasati, devatā ārabbha cittaṁ pasīdati, pāmojjaṁ uppajjati, ye cittassa upakkilesā te pahīyanti’. ",
+            "de": "Das nennt man eine edle Schülerin, die den Besinnungstag der Gottheiten einhält, die mit den Gottheiten lebt, die an die Gottheiten denkt, deren Geist dadurch klar wird, bei der Freude aufkommt und die Verunreinigungen des Geistes sich auflösen. ",
+            "en": "This is called: ‘A noble disciple who observes the sabbath of the deities, living together with the deities. And because they think of the deities their mind becomes clear, joy arises, and mental corruptions are given up.’ ",
+            "matched": true
+          },
+          "an3.70:19.4": {
+            "scid": "an3.70:19.4",
+            "pli": "Imināpi aṅgena arahataṁ anukaromi, uposatho ca me upavuttho bhavissati. ",
+            "de": "Indem ich es in dieser Hinsicht den Vollendeten gleichtue, will ich <span class=\"ebt-matched\">den Besinnungstag ein</span>halten. ",
+            "en": "I will observe the sabbath by doing as the perfected ones do in this respect. ",
+            "matched": true
+          },
+          "an3.70:20.3": {
+            "scid": "an3.70:20.3",
+            "pli": "Imināpi aṅgena arahataṁ anukaromi, uposatho ca me upavuttho bhavissati. ",
+            "de": "Indem ich es in dieser Hinsicht den Vollendeten gleichtue, will ich <span class=\"ebt-matched\">den Besinnungstag ein</span>halten. ",
+            "en": "I will observe the sabbath by doing as the perfected ones do in this respect. ",
+            "matched": true
+          },
+          "an3.70:21.3": {
+            "scid": "an3.70:21.3",
+            "pli": "Imināpi aṅgena arahataṁ anukaromi, uposatho ca me upavuttho bhavissati. ",
+            "de": "Indem ich es in dieser Hinsicht den Vollendeten gleichtue, will ich <span class=\"ebt-matched\">den Besinnungstag ein</span>halten. ",
+            "en": "I will observe the sabbath by doing as the perfected ones do in this respect. ",
+            "matched": true
+          },
+          "an3.70:22.3": {
+            "scid": "an3.70:22.3",
+            "pli": "Imināpi aṅgena arahataṁ anukaromi, uposatho ca me upavuttho bhavissati. ",
+            "de": "Indem ich es in dieser Hinsicht den Vollendeten gleichtue, will ich <span class=\"ebt-matched\">den Besinnungstag ein</span>halten. ",
+            "en": "I will observe the sabbath by doing as the perfected ones do in this respect. ",
+            "matched": true
+          },
+          "an3.70:23.3": {
+            "scid": "an3.70:23.3",
+            "pli": "Imināpi aṅgena arahataṁ anukaromi, uposatho ca me upavuttho bhavissati. ",
+            "de": "Indem ich es in dieser Hinsicht den Vollendeten gleichtue, will ich <span class=\"ebt-matched\">den Besinnungstag ein</span>halten. ",
+            "en": "I will observe the sabbath by doing as the perfected ones do in this respect. ",
+            "matched": true
+          },
+          "an3.70:24.3": {
+            "scid": "an3.70:24.3",
+            "pli": "Imināpi aṅgena arahataṁ anukaromi, uposatho ca me upavuttho bhavissati. ",
+            "de": "Indem ich es in dieser Hinsicht den Vollendeten gleichtue, will ich <span class=\"ebt-matched\">den Besinnungstag ein</span>halten. ",
+            "en": "I will observe the sabbath by doing as the perfected ones do in this respect. ",
+            "matched": true
+          },
+          "an3.70:25.3": {
+            "scid": "an3.70:25.3",
+            "pli": "Imināpi aṅgena arahataṁ anukaromi, uposatho ca me upavuttho bhavissati. ",
+            "de": "Indem ich es in dieser Hinsicht den Vollendeten gleichtue, will ich <span class=\"ebt-matched\">den Besinnungstag ein</span>halten. ",
+            "en": "I will observe the sabbath by doing as the perfected ones do in this respect. ",
+            "matched": true
+          },
+          "an3.70:26.3": {
+            "scid": "an3.70:26.3",
+            "pli": "Imināpi aṅgena arahataṁ anukaromi, uposatho ca me upavuttho bhavissatī’ti. ",
+            "de": "Indem ich es in dieser Hinsicht den Vollendeten gleichtue, will ich <span class=\"ebt-matched\">den Besinnungstag ein</span>halten.‘ ",
+            "en": "I will observe the sabbath by doing as the perfected ones do in this respect.’ ",
+            "matched": true
+          },
+          "an3.70:29.5": {
+            "scid": "an3.70:29.5",
+            "pli": "Ṭhānaṁ kho panetaṁ, visākhe, vijjati yaṁ idhekacco itthī vā puriso vā aṭṭhaṅgasamannāgataṁ uposathaṁ upavasitvā kāyassa bhedā paraṁ maraṇā cātumahārājikānaṁ devānaṁ sahabyataṁ upapajjeyya. ",
+            "de": "Es ist möglich, dass eine Frau oder ein Mann, die den Besinnungstag mit den acht Faktoren eingehalten haben, wenn ihr Körper auseinanderbricht, nach dem Tod, unter den Göttern der Vier Großen Könige wiedergeboren werden. ",
+            "en": "It’s possible that a woman or man who has observed the eight-factored sabbath will—when their body breaks up, after death—be reborn in the company of the gods of the Four Great Kings. ",
+            "matched": true
+          },
+          "an3.70:30.5": {
+            "scid": "an3.70:30.5",
+            "pli": "Ṭhānaṁ kho panetaṁ, visākhe, vijjati yaṁ idhekacco itthī vā puriso vā aṭṭhaṅgasamannāgataṁ uposathaṁ upavasitvā kāyassa bhedā paraṁ maraṇā tāvatiṁsānaṁ devānaṁ sahabyataṁ upapajjeyya. ",
+            "de": "Es ist möglich, dass eine Frau oder ein Mann, die den Besinnungstag mit den acht Faktoren eingehalten haben, wenn ihr Körper auseinanderbricht, nach dem Tod, unter den Göttern der Dreiunddreißig wiedergeboren werden. ",
+            "en": "It’s possible that a woman or man who has observed the eight-factored sabbath will—when their body breaks up, after death—be reborn in the company of the Gods of the Thirty-Three. ",
+            "matched": true
+          },
+          "an3.70:31.5": {
+            "scid": "an3.70:31.5",
+            "pli": "Ṭhānaṁ kho panetaṁ, visākhe, vijjati yaṁ idhekacco itthī vā puriso vā aṭṭhaṅgasamannāgataṁ uposathaṁ upavasitvā kāyassa bhedā paraṁ maraṇā yāmānaṁ devānaṁ sahabyataṁ upapajjeyya. ",
+            "de": "Es ist möglich, dass eine Frau oder ein Mann, die den Besinnungstag mit den acht Faktoren eingehalten haben, wenn ihr Körper auseinanderbricht, nach dem Tod, unter den Yama-Göttern wiedergeboren werden. ",
+            "en": "It’s possible that a woman or man who has observed the eight-factored sabbath will—when their body breaks up, after death—be reborn in the company of the Gods of Yama. ",
+            "matched": true
+          },
+          "an3.70:32.5": {
+            "scid": "an3.70:32.5",
+            "pli": "Ṭhānaṁ kho panetaṁ, visākhe, vijjati yaṁ idhekacco itthī vā puriso vā aṭṭhaṅgasamannāgataṁ uposathaṁ upavasitvā kāyassa bhedā paraṁ maraṇā tusitānaṁ devānaṁ sahabyataṁ upapajjeyya. ",
+            "de": "Es ist möglich, dass eine Frau oder ein Mann, die den Besinnungstag mit den acht Faktoren eingehalten haben, wenn ihr Körper auseinanderbricht, nach dem Tod, unter den Freudvollen Göttern wiedergeboren werden. ",
+            "en": "It’s possible that a woman or man who has observed the eight-factored sabbath will—when their body breaks up, after death—be reborn in the company of the Joyful Gods. ",
+            "matched": true
+          },
+          "an3.70:33.5": {
+            "scid": "an3.70:33.5",
+            "pli": "Ṭhānaṁ kho panetaṁ, visākhe, vijjati yaṁ idhekacco itthī vā puriso vā aṭṭhaṅgasamannāgataṁ uposathaṁ upavasitvā kāyassa bhedā paraṁ maraṇā nimmānaratīnaṁ devānaṁ sahabyataṁ upapajjeyya. ",
+            "de": "Es ist möglich, dass eine Frau oder ein Mann, die den Besinnungstag mit den acht Faktoren eingehalten haben, wenn ihr Körper auseinanderbricht, nach dem Tod, unter den Göttern, die gerne erschaffen, wiedergeboren werden. ",
+            "en": "It’s possible that a woman or man who has observed the eight-factored sabbath will—when their body breaks up, after death—be reborn in the company of the Gods Who Love to Create. ",
+            "matched": true
+          },
+          "an3.70:34.5": {
+            "scid": "an3.70:34.5",
+            "pli": "Ṭhānaṁ kho panetaṁ, visākhe, vijjati yaṁ idhekacco itthī vā puriso vā aṭṭhaṅgasamannāgataṁ uposathaṁ upavasitvā kāyassa bhedā paraṁ maraṇā paranimmitavasavattīnaṁ devānaṁ sahabyataṁ upapajjeyya. ",
+            "de": "Es ist möglich, dass eine Frau oder ein Mann, die den Besinnungstag mit den acht Faktoren eingehalten haben, wenn ihr Körper auseinanderbricht, nach dem Tod, unter den Göttern, die über die Schöpfungen anderer herrschen, wiedergeboren werden. ",
+            "en": "It’s possible that a woman or man who has observed the eight-factored sabbath will—when their body breaks up, after death—be reborn in the company of the Gods Who Control the Creations of Others. ",
+            "matched": true
+          },
+          "an3.70:40.2": {
+            "scid": "an3.70:40.2",
+            "pli": "Aṭṭhaṅgupetaṁ upavassuposathaṁ; ",
+            "de": "der den Besinnungstag der acht Faktoren eingehalten hat, ",
+            "en": "who has observed the eight-factored sabbath, ",
+            "matched": true
+          }
+        },
+        "score": 22.092,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n70. Besinnungstag",
+        "segsMatched": 22,
+        "langSegs": {
+          "pli": 238,
+          "de": 232,
+          "en": 232
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.37_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.37_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.37_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.37",
+        "lang": "de",
+        "segMap": {
+          "an3.37:1.2": {
+            "scid": "an3.37:1.2",
+            "pli": "‘kacci bahū manussā manussesu matteyyā petteyyā sāmaññā brahmaññā kule jeṭṭhāpacāyino uposathaṁ upavasanti paṭijāgaronti puññāni karontī’ti. ",
+            "de": "‚Hoffentlich zollen viele Menschen ihren Eltern sowie Asketen und Brahmanen den gebührenden Respekt und ehren die Ältesten in der Familie, halten <span class=\"ebt-matched\">den Besinnungstag ein</span> und schaffen Verdienst.‘ ",
+            "en": "‘Hopefully most humans are paying due respect to their parents, ascetics and brahmins, honoring the elders in their families, observing the sabbath, staying awake, and making merit.’ ",
+            "matched": true
+          },
+          "an3.37:5.2": {
+            "scid": "an3.37:5.2",
+            "pli": "yā ca pakkhassa aṭṭhamī; ",
+            "de": "wird <span class=\"ebt-matched\">den Besinnungstag ein</span>halten, ",
+            "en": "would observe the sabbath ",
+            "matched": true
+          },
+          "an3.37:8.2": {
+            "scid": "an3.37:8.2",
+            "pli": "yā ca pakkhassa aṭṭhamī; ",
+            "de": "wird <span class=\"ebt-matched\">den Besinnungstag ein</span>halten, ",
+            "en": "would observe the sabbath, ",
+            "matched": true
+          }
+        },
+        "score": 3.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n4. Götterboten\n37. Die Vier Großen Könige (1)",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 39,
+          "de": 38,
+          "en": 38
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn30_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn30_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn30",
+        "lang": "de",
+        "segMap": {
+          "dn30:1.4.1": {
+            "scid": "dn30:1.4.1",
+            "pli": "Yampi, bhikkhave, tathāgato purimaṁ jātiṁ purimaṁ bhavaṁ purimaṁ niketaṁ pubbe manussabhūto samāno daḷhasamādāno ahosi kusalesu dhammesu, avatthitasamādāno kāyasucarite vacīsucarite manosucarite dānasaṁvibhāge sīlasamādāne uposathupavāse matteyyatāya petteyyatāya sāmaññatāya brahmaññatāya kule jeṭṭhāpacāyitāya aññataraññataresu ca adhikusalesu dhammesu. ",
+            "de": "Der Klargewordene wurde in manchen früheren Leben als Mensch wiedergeboren, in manchen früheren Daseinsformen, an manchen früheren Wohnplätzen. Er unternahm es entschieden, mit dem Körper, der Sprache und dem Geist taugliches Verhalten zu üben, und war darin beharrlich; Geben und Teilen, sich Übungsregeln vornehmen, <span class=\"ebt-matched\">den Besinnungstag ein</span>halten, Mutter und Vater, Asketen und Brahmanen den gebührenden Respekt zollen, die Ältesten in der Familie ehren und verschiedene andere Dinge, die zum tauglichen Verhalten gehören. ",
+            "en": "In some past lives, past existences, past abodes the Realized One was reborn as a human being. He firmly undertook and persisted in skillful behaviors such as good conduct by way of body, speech, and mind, giving and sharing, taking precepts, observing the sabbath, paying due respect to mother and father, ascetics and brahmins, honoring the elders in the family, and various other things pertaining to skillful behaviors. ",
+            "matched": true
+          },
+          "dn30:1.6.3": {
+            "scid": "dn30:1.6.3",
+            "pli": "Soceyyasīlālayuposathesu ca; ",
+            "de": "Reinheit, Übungsregeln, <span class=\"ebt-matched\">den Besinnungstag ein</span>halten; ",
+            "en": "purity, precepts, and observing the sabbath; ",
+            "matched": true
+          },
+          "dn30:2.13.2": {
+            "scid": "dn30:2.13.2",
+            "pli": "bahujanapubbaṅgamo ahosi kusalesu dhammesu bahujanapāmokkho kāyasucarite vacīsucarite manosucarite dānasaṁvibhāge sīlasamādāne uposathupavāse matteyyatāya petteyyatāya sāmaññatāya brahmaññatāya kule jeṭṭhāpacāyitāya aññataraññataresu ca adhikusalesu dhammesu. ",
+            "de": "Er war Leiter und Wegbereiter der Menschen für taugliche Verhaltensweisen wie gutes Verhalten mit dem Körper, der Sprache und dem Geist, Geben und Teilen, sich Übungsregeln vornehmen, <span class=\"ebt-matched\">den Besinnungstag ein</span>halten, Mutter und Vater, Asketen und Brahmanen den gebührenden Respekt zollen, die Ältesten in der Familie ehren und verschiedene andere Dinge, die zum tauglichen Verhalten gehören. ",
+            "en": "He was the leader and forerunner of people in skillful behaviors such as good conduct by way of body, speech, and mind, giving and sharing, taking precepts, observing the sabbath, paying due respect to mother and father, ascetics and brahmins, honoring the elders in the family, and various other things pertaining to skillful behaviors. ",
+            "matched": true
+          }
+        },
+        "score": 3.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 30\nKennzeichen eines großen Mannes",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 721,
+          "de": 716,
+          "en": 720
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.38_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.38_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.38_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.38",
+        "lang": "de",
+        "segMap": {
+          "an3.38:2.2": {
+            "scid": "an3.38:2.2",
+            "pli": "yā ca pakkhassa aṭṭhamī; ",
+            "de": "wird <span class=\"ebt-matched\">den Besinnungstag ein</span>halten, ",
+            "en": "would observe the sabbath ",
+            "matched": true
+          },
+          "an3.38:5.2": {
+            "scid": "an3.38:5.2",
+            "pli": "yā ca pakkhassa aṭṭhamī; ",
+            "de": "wird <span class=\"ebt-matched\">den Besinnungstag ein</span>halten, ",
+            "en": "would observe the sabbath, ",
+            "matched": true
+          }
+        },
+        "score": 2.087,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n4. Götterboten\n38. Die Vier Großen Könige (2)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 23,
+          "de": 22,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn17",
+        "lang": "de",
+        "segMap": {
+          "dn17:1.7.3": {
+            "scid": "dn17:1.7.3",
+            "pli": "Idhānanda, rañño mahāsudassanassa tadahuposathe pannarase sīsaṁnhātassa uposathikassa uparipāsādavaragatassa ",
+            "de": "An einem Besinnungstag am fünfzehnten Tag hatte König Mahāsudassana sein Haupt gebadet und war im königlichen Langhaus die Treppe hochgestiegen, um <span class=\"ebt-matched\">den Besinnungstag ein</span>zuhalten. ",
+            "en": "On a fifteenth day sabbath, King Mahāsudassana had bathed his head and gone upstairs in the royal longhouse to observe the sabbath. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 17\nDer König Mahāsudassana",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 444,
+          "de": 359,
+          "en": 443
+        }
+      }
+    ]
+  }
+}

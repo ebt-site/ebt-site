@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "深い瞑想は安らか",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "深い瞑想は安らか",
+    "method": "phrase",
+    "resultPattern": "深い瞑想は安らか",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an3/an3.101_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an3.101/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an3/an3.101_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.101",
+        "lang": "jpn",
+        "segMap": {
+          "an3.101:2.5": {
+            "scid": "an3.101:2.5",
+            "pli": "So hoti samādhi na ceva santo na ca paṇīto nappaṭippassaddhaladdho na ekodibhāvādhigato sasaṅkhāraniggayhavāritagato. ",
+            "en": "That immersion is not peaceful or sublime or tranquil or unified, but is held in place by forceful suppression. ",
+            "jpn": "その<span class=\"ebt-matched\">深い瞑想は安らか</span>でもなく、崇高でもなく、穏やかでもなく、まとまってもいないもので、強制的に抑制することで保たれています。",
+            "matched": true
+          },
+          "an3.101:2.7": {
+            "scid": "an3.101:2.7",
+            "pli": "So hoti samādhi santo paṇīto paṭippassaddhiladdho ekodibhāvādhigato na sasaṅkhāraniggayhavāritagato. ",
+            "en": "That immersion is peaceful and sublime and tranquil and unified, not held in place by forceful suppression. ",
+            "jpn": "その<span class=\"ebt-matched\">深い瞑想は安らか</span>で、崇高で、穏やかで、まとまったものであり、強制的に抑制することで保たれていません。",
+            "matched": true
+          }
+        },
+        "score": 2.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 三集\n第十　ひとかたまりの塩（一掬塩品）\n101. 選鉱者",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 52,
+          "en": 51,
+          "jpn": 50
+        }
+      }
+    ]
+  }
+}

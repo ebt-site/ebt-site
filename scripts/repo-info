@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+const RepoInfo = require('../src/repo-info');
+
+(async function(){
+  let info = await RepoInfo.info();
+  let json = JSON.stringify(info, null, 2);
+  let yaml = Object.keys(info).map(key => `${key}: ${info[key]}`);
+  console.log(json);
+})();

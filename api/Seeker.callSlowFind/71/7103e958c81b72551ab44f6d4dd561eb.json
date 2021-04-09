@@ -1,0 +1,106 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "giving food",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "giving food",
+    "method": "phrase",
+    "resultPattern": "\\bgiving food",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn1/sn1.42_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn1/sn1.42_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.58_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.58_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn1.42/en/sujato",
+      "an4.58/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn1/sn1.42_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn1/sn1.42_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn1.42",
+        "lang": "en",
+        "segMap": {
+          "sn1.42:2.1": {
+            "scid": "sn1.42:2.1",
+            "pli": "“Annado balado hoti, ",
+            "en": "“<span class=\"ebt-matched\">Giving food</span> you give strength. ",
+            "matched": true
+          }
+        },
+        "score": 1.059,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 1\n5. On Fire\n42. Giving What?",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 17,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.58_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.58",
+        "lang": "en",
+        "segMap": {
+          "an4.58:3.1": {
+            "scid": "an4.58:3.1",
+            "pli": "Yo saññatānaṁ paradattabhojinaṁ, ",
+            "en": "Carefully <span class=\"ebt-matched\">giving food</span> at the right time, ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n6. Overflowing Merit\n58. Sudatta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      }
+    ]
+  }
+}

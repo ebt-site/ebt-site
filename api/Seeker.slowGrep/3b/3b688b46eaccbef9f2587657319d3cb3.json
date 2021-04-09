@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bdas ist allein die wahrheit",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/dn/dn29_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/an/an2/an2.42-51_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/dn/dn21_translation-de-sabbamitta.json:1"
+  ]
+}

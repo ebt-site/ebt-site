@@ -1,0 +1,788 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "good friends, companions, and associates",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "good friends, companions, and associates",
+    "method": "phrase",
+    "resultPattern": "\\bgood friends, companions, and associates",
+    "segsMatched": 42,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn3/sn3.18_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn3/sn3.18_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga4/ud4.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga4/ud4.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn45/sn45.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn45/sn45.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn45/sn45.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn45/sn45.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.55_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.55_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.54_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.54_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn3/sn3.14_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn3/sn3.14_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.57_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.57_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.67_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.67_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.27_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.27_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.14_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.97_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.97_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.50_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.50_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.18_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.18_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.17_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.17_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn3.18/en/sujato",
+      "ud4.1/en/sujato",
+      "an9.3/en/sujato",
+      "an9.1/en/sujato",
+      "sn45.3/en/sujato",
+      "sn45.2/en/sujato",
+      "an8.55/en/sujato",
+      "an8.54/en/sujato",
+      "sn3.14/en/sujato",
+      "dn34/en/sujato",
+      "dn33/en/sujato",
+      "an8.57/en/sujato",
+      "an6.67/en/sujato",
+      "an3.27/en/sujato",
+      "an11.14/en/sujato",
+      "an10.97/en/sujato",
+      "an10.50/en/sujato",
+      "an10.18/en/sujato",
+      "an10.17/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn3/sn3.18_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn3/sn3.18_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn3.18",
+        "lang": "en",
+        "segMap": {
+          "sn3.18:1.4": {
+            "scid": "sn3.18:1.4",
+            "pli": "‘svākkhāto bhagavatā dhammo, so ca kho kalyāṇamittassa kalyāṇasahāyassa kalyāṇasampavaṅkassa, no pāpamittassa no pāpasahāyassa no pāpasampavaṅkassā’”ti. ",
+            "en": "‘The teaching is well explained by the Buddha. But it’s for someone with <span class=\"ebt-matched\">good friends, companions, and associates</span>, not for someone with bad friends, companions, and associates.’” ",
+            "matched": true
+          },
+          "sn3.18:3.3": {
+            "scid": "sn3.18:3.3",
+            "pli": "‘upaḍḍhamidaṁ, bhante, brahmacariyassa—yadidaṁ kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā’ti. ",
+            "en": "‘Sir, <span class=\"ebt-matched\">good friends, companions, and associates</span> are half the spiritual life.’ ",
+            "matched": true
+          },
+          "sn3.18:4.3": {
+            "scid": "sn3.18:4.3",
+            "pli": "Sakalameva hidaṁ, ānanda, brahmacariyaṁ—yadidaṁ kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā. ",
+            "en": "<span class=\"ebt-matched\">Good friends, companions, and associates</span> are the whole of the spiritual life. ",
+            "matched": true
+          },
+          "sn3.18:4.4": {
+            "scid": "sn3.18:4.4",
+            "pli": "Kalyāṇamittassetaṁ, ānanda, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati. ",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to develop and cultivate the noble eightfold path. ",
+            "matched": true
+          },
+          "sn3.18:7.2": {
+            "scid": "sn3.18:7.2",
+            "pli": "‘kalyāṇamitto bhavissāmi kalyāṇasahāyo kalyāṇasampavaṅko’ti. ",
+            "en": "‘I will have <span class=\"ebt-matched\">good friends, companions, and associates</span>.’ ",
+            "matched": true
+          },
+          "sn3.18:8.1": {
+            "scid": "sn3.18:8.1",
+            "pli": "Kalyāṇamittassa te, mahārāja, kalyāṇasahāyassa kalyāṇasampavaṅkassa ayaṁ eko dhammo upanissāya vihātabbo—",
+            "en": "When you have <span class=\"ebt-matched\">good friends, companions, and associates</span>, you should live supported by one thing: ",
+            "matched": true
+          }
+        },
+        "score": 6.115,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 3\n2. Childless\n18. Good Friends",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 52,
+          "en": 52
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.1",
+        "lang": "en",
+        "segMap": {
+          "an9.1:5.1": {
+            "scid": "an9.1:5.1",
+            "pli": "‘Idhāvuso, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "‘It’s when a mendicant has <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          },
+          "an9.1:10.1": {
+            "scid": "an9.1:10.1",
+            "pli": "Kalyāṇamittassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa—",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to ",
+            "matched": true
+          },
+          "an9.1:11.1": {
+            "scid": "an9.1:11.1",
+            "pli": "Kalyāṇamittassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa—",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to ",
+            "matched": true
+          },
+          "an9.1:12.1": {
+            "scid": "an9.1:12.1",
+            "pli": "Kalyāṇamittassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa—",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to ",
+            "matched": true
+          },
+          "an9.1:13.1": {
+            "scid": "an9.1:13.1",
+            "pli": "Kalyāṇamittassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa—",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to ",
+            "matched": true
+          }
+        },
+        "score": 5.135,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n1. Awakening\n1. Awakening",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.3",
+        "lang": "en",
+        "segMap": {
+          "an9.3:10.3": {
+            "scid": "an9.3:10.3",
+            "pli": "Idha, meghiya, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "Firstly, a mendicant has <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          },
+          "an9.3:15.1": {
+            "scid": "an9.3:15.1",
+            "pli": "Kalyāṇamittassetaṁ, meghiya, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa: ",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to ",
+            "matched": true
+          },
+          "an9.3:16.1": {
+            "scid": "an9.3:16.1",
+            "pli": "Kalyāṇamittassetaṁ, meghiya, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa: ",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to ",
+            "matched": true
+          },
+          "an9.3:17.1": {
+            "scid": "an9.3:17.1",
+            "pli": "Kalyāṇamittassetaṁ, meghiya, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa: ‘āraddhavīriyo viharissati …pe… anikkhittadhuro kusalesu dhammesu’. ",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to be energetic … ",
+            "matched": true
+          },
+          "an9.3:18.1": {
+            "scid": "an9.3:18.1",
+            "pli": "Kalyāṇamittassetaṁ, meghiya, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa: ‘paññavā bhavissati …pe… sammādukkhakkhayagāminiyā’. ",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to be wise … ",
+            "matched": true
+          }
+        },
+        "score": 5.068,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n1. Awakening\n3. With Meghiya",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 74,
+          "en": 73
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga4/ud4.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga4/ud4.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud4.1",
+        "lang": "en",
+        "segMap": {
+          "ud4.1:12.1": {
+            "scid": "ud4.1:12.1",
+            "pli": "Idha, meghiya, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko.",
+            "en": "Firstly, a mendicant has <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          },
+          "ud4.1:17.1": {
+            "scid": "ud4.1:17.1",
+            "pli": "Kalyāṇamittassetaṁ, meghiya, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa yaṁ sīlavā bhavissati, pātimokkhasaṁvarasaṁvuto viharissati, ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhissati sikkhāpadesu.",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to be ethical …",
+            "matched": true
+          },
+          "ud4.1:18.1": {
+            "scid": "ud4.1:18.1",
+            "pli": "Kalyāṇamittassetaṁ, meghiya, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa yaṁ yāyaṁ kathā abhisallekhikā cetovivaraṇasappāyā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati, seyyathidaṁ—",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to take part in talk about self-effacement that helps open the heart … ",
+            "matched": true
+          },
+          "ud4.1:19.1": {
+            "scid": "ud4.1:19.1",
+            "pli": "Kalyāṇamittassetaṁ, meghiya, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa yaṁ āraddhavīriyo viharissati akusalānaṁ dhammānaṁ pahānāya, kusalānaṁ dhammānaṁ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu.",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to be energetic … ",
+            "matched": true
+          },
+          "ud4.1:20.1": {
+            "scid": "ud4.1:20.1",
+            "pli": "Kalyāṇamittassetaṁ, meghiya, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa yaṁ paññavā bhavissati, udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā.",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to be wise … ",
+            "matched": true
+          }
+        },
+        "score": 5.055,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n4.1. With Meghiya",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 91,
+          "en": 68
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn45/sn45.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn45/sn45.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn45.3",
+        "lang": "en",
+        "segMap": {
+          "sn45.3:1.3": {
+            "scid": "sn45.3:1.3",
+            "pli": "“sakalamidaṁ, bhante, brahmacariyaṁ, yadidaṁ—kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā”ti. ",
+            "en": "“Sir, <span class=\"ebt-matched\">good friends, companions, and associates</span> are the whole of the spiritual life.” ",
+            "matched": true
+          },
+          "sn45.3:2.2": {
+            "scid": "sn45.3:2.2",
+            "pli": "Sakalamidaṁ, sāriputta, brahmacariyaṁ, yadidaṁ—kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā. ",
+            "en": "<span class=\"ebt-matched\">Good friends, companions, and associates</span> are the whole of the spiritual life. ",
+            "matched": true
+          },
+          "sn45.3:2.3": {
+            "scid": "sn45.3:2.3",
+            "pli": "Kalyāṇamittassetaṁ, sāriputta, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa—ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati. ",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to develop and cultivate the noble eightfold path. ",
+            "matched": true
+          }
+        },
+        "score": 3.188,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 45\n1. Ignorance\n3. Sāriputta",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn45/sn45.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn45/sn45.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn45.2",
+        "lang": "en",
+        "segMap": {
+          "sn45.2:1.4": {
+            "scid": "sn45.2:1.4",
+            "pli": "“upaḍḍhamidaṁ, bhante, brahmacariyaṁ, yadidaṁ—kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā”ti. ",
+            "en": "“Sir, <span class=\"ebt-matched\">good friends, companions, and associates</span> are half the spiritual life.” ",
+            "matched": true
+          },
+          "sn45.2:2.2": {
+            "scid": "sn45.2:2.2",
+            "pli": "Sakalamevidaṁ, ānanda, brahmacariyaṁ, yadidaṁ—kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā. ",
+            "en": "<span class=\"ebt-matched\">Good friends, companions, and associates</span> are the whole of the spiritual life. ",
+            "matched": true
+          },
+          "sn45.2:2.3": {
+            "scid": "sn45.2:2.3",
+            "pli": "Kalyāṇamittassetaṁ, ānanda, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa—ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati. ",
+            "en": "A mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span> can expect to develop and cultivate the noble eightfold path. ",
+            "matched": true
+          }
+        },
+        "score": 3.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 45\n1. Ignorance\n2. Half the Spiritual Life",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.55_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.55_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.55",
+        "lang": "en",
+        "segMap": {
+          "an8.55:8.2": {
+            "scid": "an8.55:8.2",
+            "pli": "na itthidhutto, na surādhutto, na akkhadhutto, kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "Not womanizing, drinking, or gambling, and having <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          },
+          "an8.55:8.5": {
+            "scid": "an8.55:8.5",
+            "pli": "na itthidhutto …pe… kalyāṇasampavaṅko. ",
+            "en": "Not womanizing, drinking, or gambling, and having <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n6. Gotamī\n55. With Ujjaya",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 76,
+          "en": 75
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.54_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.54_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.54",
+        "lang": "en",
+        "segMap": {
+          "an8.54:7.2": {
+            "scid": "an8.54:7.2",
+            "pli": "na itthidhutto, na surādhutto, na akkhadhutto, kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "Not womanizing, drinking, or gambling, and having <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          },
+          "an8.54:7.8": {
+            "scid": "an8.54:7.8",
+            "pli": "na itthidhutto, na surādhutto, na akkhadhutto, kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "Not womanizing, drinking, or gambling, and having <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n6. Gotamī\n54. With Dīghajāṇu",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 82,
+          "en": 81
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.67_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.67_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.67",
+        "lang": "en",
+        "segMap": {
+          "an6.67:2.1": {
+            "scid": "an6.67:2.1",
+            "pli": "‘So vata, bhikkhave, bhikkhu kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko, kalyāṇamitte sevamāno bhajamāno payirupāsamāno, tesañca diṭṭhānugatiṁ āpajjamāno ābhisamācārikaṁ dhammaṁ paripūressatī’ti ṭhānametaṁ vijjati. ",
+            "en": "It’s possible that a mendicant with <span class=\"ebt-matched\">good friends, companions, and associates</span>, while frequenting, accompanying, and attending, and following their example, will fulfill the practice dealing with the supplementary regulations. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n7. A God\n67. Friends",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.57_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.57",
+        "lang": "en",
+        "segMap": {
+          "an8.57:1.5": {
+            "scid": "an8.57:1.5",
+            "pli": "kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko; ",
+            "en": "They have <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n6. Gotamī\n57. Worthy of Offerings Dedicated to the Gods (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 15,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn3/sn3.14_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn3/sn3.14_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn3.14",
+        "lang": "en",
+        "segMap": {
+          "sn3.14:4.2": {
+            "scid": "sn3.14:4.2",
+            "pli": "rājā ca kho, bhikkhave, pasenadi kosalo kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "But King Pasenadi has <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 3\n2. Childless\n14. Battle (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.97_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.97_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.97",
+        "lang": "en",
+        "segMap": {
+          "an10.97:4.1": {
+            "scid": "an10.97:4.1",
+            "pli": "Kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "They have <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n97. Worthy of Offerings Dedicated to the Gods",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.17_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.17_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.17",
+        "lang": "en",
+        "segMap": {
+          "an10.17:3.1": {
+            "scid": "an10.17:3.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "Furthermore, a mendicant has <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n2. A Protector\n17. A Protector (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 41,
+          "en": 40
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.27_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.27",
+        "lang": "en",
+        "segMap": {
+          "an3.27:3.6": {
+            "scid": "an3.27:3.6",
+            "pli": "‘kalyāṇamitto purisapuggalo kalyāṇasahāyo kalyāṇasampavaṅko’ti. ",
+            "en": "‘That individual has <span class=\"ebt-matched\">good friends, companions, and associates</span>.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n3. Persons\n27. Offensive",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 45,
+          "en": 44
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.50_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.50_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.50",
+        "lang": "en",
+        "segMap": {
+          "an10.50:6.1": {
+            "scid": "an10.50:6.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "Furthermore, a mendicant has <span class=\"ebt-matched\">good friends, companions, and associates</span>. … ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n5. Abuse\n50. Arguments",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 51,
+          "en": 49
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.14_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.14_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.14",
+        "lang": "en",
+        "segMap": {
+          "an11.14:6.1": {
+            "scid": "an11.14:6.1",
+            "pli": "Puna caparaṁ, subhūti, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "Furthermore, a mendicant has <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n2. Recollection\n14. With Subhūti",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 54,
+          "en": 53
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.18_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.18_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.18",
+        "lang": "en",
+        "segMap": {
+          "an10.18:4.1": {
+            "scid": "an10.18:4.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "Furthermore, a mendicant has <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n2. A Protector\n18. A Protector (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 59,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:3.3.11": {
+            "scid": "dn33:3.3.11",
+            "pli": "Puna caparaṁ, āvuso, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "Furthermore, a mendicant has <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:2.3.10": {
+            "scid": "dn34:2.3.10",
+            "pli": "Puna caparaṁ, āvuso, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko. ",
+            "en": "Furthermore, a mendicant has <span class=\"ebt-matched\">good friends, companions, and associates</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

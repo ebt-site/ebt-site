@@ -1,0 +1,680 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "aufgegeben werden",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "aufgegeben werden",
+    "method": "phrase",
+    "resultPattern": "\\baufgegeben werden",
+    "segsMatched": 62,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn2_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/mn/mn2_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/mn/mn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.58_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.254_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.254_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.254_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/mn/mn10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.188_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.188_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.188_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn56/sn56.11_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn2/de/sabbamitta",
+      "an6.58/de/sabbamitta",
+      "dn34/de/sabbamitta",
+      "an4.254/de/sabbamitta",
+      "mn10/de/sabbamitta",
+      "an4.188/de/sabbamitta",
+      "sn56.11/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn2_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/mn/mn2_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/mn/mn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn2",
+        "lang": "de",
+        "segMap": {
+          "mn2:4.1": {
+            "scid": "mn2:4.1",
+            "pli": "Atthi, bhikkhave, āsavā dassanā pahātabbā, atthi āsavā saṁvarā pahātabbā, atthi āsavā paṭisevanā pahātabbā, atthi āsavā adhivāsanā pahātabbā, atthi āsavā parivajjanā pahātabbā, atthi āsavā vinodanā pahātabbā, atthi āsavā bhāvanā pahātabbā. ",
+            "de": "Manche Befleckungen müssen durch Sehen <span class=\"ebt-matched\">aufgegeben werden</span>, manche durch Zügelung, manche durch die Art des Gebrauchs, manche durch Ertragen, manche durch Meiden, manche durch Beseitigen und manche durch Entwickeln. ",
+            "en": "Some defilements should be given up by seeing, some by restraint, some by using, some by enduring, some by avoiding, some by dispelling, and some by developing. ",
+            "matched": true
+          },
+          "mn2:5.0": {
+            "scid": "mn2:5.0",
+            "pli": "1. Dassanāpahātabbaāsava ",
+            "de": "1. Befleckungen, die durch Sehen <span class=\"ebt-matched\">aufgegeben werden</span> müssen ",
+            "en": "1. Defilements Given Up by Seeing ",
+            "matched": true
+          },
+          "mn2:5.1": {
+            "scid": "mn2:5.1",
+            "pli": "Katame ca, bhikkhave, āsavā dassanā pahātabbā? ",
+            "de": "Und was sind die Befleckungen, die durch Sehen <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by seeing? ",
+            "matched": true
+          },
+          "mn2:11.4": {
+            "scid": "mn2:11.4",
+            "pli": "Ime vuccanti, bhikkhave, āsavā dassanā pahātabbā. ",
+            "de": "Das nennt man die Befleckungen, die durch Sehen <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by seeing. ",
+            "matched": true
+          },
+          "mn2:12.0": {
+            "scid": "mn2:12.0",
+            "pli": "2. Saṁvarāpahātabbaāsava ",
+            "de": "2. Befleckungen, die durch Zügelung <span class=\"ebt-matched\">aufgegeben werden</span> müssen ",
+            "en": "2. Defilements Given Up by Restraint ",
+            "matched": true
+          },
+          "mn2:12.1": {
+            "scid": "mn2:12.1",
+            "pli": "Katame ca, bhikkhave, āsavā saṁvarā pahātabbā? ",
+            "de": "Und was sind die Befleckungen, die durch Zügelung <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by restraint? ",
+            "matched": true
+          },
+          "mn2:12.11": {
+            "scid": "mn2:12.11",
+            "pli": "Ime vuccanti, bhikkhave, āsavā saṁvarā pahātabbā. ",
+            "de": "Das nennt man die Befleckungen, die durch Zügelung <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by restraint. ",
+            "matched": true
+          },
+          "mn2:13.0": {
+            "scid": "mn2:13.0",
+            "pli": "3. Paṭisevanāpahātabbaāsava ",
+            "de": "3. Befleckungen, die durch die Art des Gebrauchs <span class=\"ebt-matched\">aufgegeben werden</span> müssen ",
+            "en": "3. Defilements Given Up by Using ",
+            "matched": true
+          },
+          "mn2:13.1": {
+            "scid": "mn2:13.1",
+            "pli": "Katame ca, bhikkhave, āsavā paṭisevanā pahātabbā? ",
+            "de": "Und was sind die Befleckungen, die durch die Art des Gebrauchs <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by using? ",
+            "matched": true
+          },
+          "mn2:17.2": {
+            "scid": "mn2:17.2",
+            "pli": "Ime vuccanti, bhikkhave, āsavā paṭisevanā pahātabbā. ",
+            "de": "Das nennt man die Befleckungen, die durch die Art des Gebrauchs <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by using. ",
+            "matched": true
+          },
+          "mn2:18.0": {
+            "scid": "mn2:18.0",
+            "pli": "4. Adhivāsanāpahātabbaāsava ",
+            "de": "4. Befleckungen, die durch Ertragen <span class=\"ebt-matched\">aufgegeben werden</span> müssen ",
+            "en": "4. Defilements Given Up by Enduring ",
+            "matched": true
+          },
+          "mn2:18.1": {
+            "scid": "mn2:18.1",
+            "pli": "Katame ca, bhikkhave, āsavā adhivāsanā pahātabbā? ",
+            "de": "Und was sind die Befleckungen, die durch Ertragen <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by enduring? ",
+            "matched": true
+          },
+          "mn2:18.4": {
+            "scid": "mn2:18.4",
+            "pli": "Ime vuccanti, bhikkhave, āsavā adhivāsanā pahātabbā. ",
+            "de": "Das nennt man die Befleckungen, die durch Ertragen <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by enduring. ",
+            "matched": true
+          },
+          "mn2:19.0": {
+            "scid": "mn2:19.0",
+            "pli": "5. Parivajjanāpahātabbaāsava ",
+            "de": "5. Befleckungen, die durch Meiden <span class=\"ebt-matched\">aufgegeben werden</span> müssen ",
+            "en": "5. Defilements Given Up by Avoiding ",
+            "matched": true
+          },
+          "mn2:19.1": {
+            "scid": "mn2:19.1",
+            "pli": "Katame ca, bhikkhave, āsavā parivajjanā pahātabbā? ",
+            "de": "Und was sind die Befleckungen, die durch Meiden <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by avoiding? ",
+            "matched": true
+          },
+          "mn2:19.5": {
+            "scid": "mn2:19.5",
+            "pli": "Ime vuccanti, bhikkhave, āsavā parivajjanā pahātabbā. ",
+            "de": "Das nennt man die Befleckungen, die durch Meiden <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by avoiding. ",
+            "matched": true
+          },
+          "mn2:20.0": {
+            "scid": "mn2:20.0",
+            "pli": "6. Vinodanāpahātabbaāsava ",
+            "de": "6.Befleckungen, die durch Beseitigen <span class=\"ebt-matched\">aufgegeben werden</span> müssen ",
+            "en": "6. Defilements Given Up by Dispelling ",
+            "matched": true
+          },
+          "mn2:20.1": {
+            "scid": "mn2:20.1",
+            "pli": "Katame ca, bhikkhave, āsavā vinodanā pahātabbā? ",
+            "de": "Und was sind die Befleckungen, die durch Beseitigen <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by dispelling? ",
+            "matched": true
+          },
+          "mn2:20.4": {
+            "scid": "mn2:20.4",
+            "pli": "Ime vuccanti, bhikkhave, āsavā vinodanā pahātabbā. ",
+            "de": "Das nennt man die Befleckungen, die durch Beseitigen <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by dispelling. ",
+            "matched": true
+          },
+          "mn2:21.0": {
+            "scid": "mn2:21.0",
+            "pli": "7. Bhāvanāpahātabbaāsava ",
+            "de": "7. Befleckungen, die durch Entwickeln <span class=\"ebt-matched\">aufgegeben werden</span> müssen ",
+            "en": "7. Defilements Given Up by Developing ",
+            "matched": true
+          },
+          "mn2:21.1": {
+            "scid": "mn2:21.1",
+            "pli": "Katame ca, bhikkhave, āsavā bhāvanā pahātabbā? ",
+            "de": "Und was sind die Befleckungen, die durch Entwickeln <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by developing? ",
+            "matched": true
+          },
+          "mn2:21.10": {
+            "scid": "mn2:21.10",
+            "pli": "Ime vuccanti, bhikkhave, āsavā bhāvanā pahātabbā. ",
+            "de": "Das nennt man die Befleckungen, die durch Entwickeln <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by developing. ",
+            "matched": true
+          },
+          "mn2:22.1": {
+            "scid": "mn2:22.1",
+            "pli": "Yato kho, bhikkhave, bhikkhuno ye āsavā dassanā pahātabbā te dassanā pahīnā honti, ye āsavā saṁvarā pahātabbā te saṁvarā pahīnā honti, ye āsavā paṭisevanā pahātabbā te paṭisevanā pahīnā honti, ye āsavā adhivāsanā pahātabbā te adhivāsanā pahīnā honti, ye āsavā parivajjanā pahātabbā te parivajjanā pahīnā honti, ye āsavā vinodanā pahātabbā te vinodanā pahīnā honti, ye āsavā bhāvanā pahātabbā te bhāvanā pahīnā honti; ",
+            "de": "Nehmen wir nun eine Nonne, die die Befleckungen, die durch Sehen <span class=\"ebt-matched\">aufgegeben werden</span> müssen, durch Sehen aufgegeben hat. Die Befleckungen, die durch Zügelung <span class=\"ebt-matched\">aufgegeben werden</span> müssen, hat sie durch Zügelung aufgegeben. Die Befleckungen, die durch die Art des Gebrauchs <span class=\"ebt-matched\">aufgegeben werden</span> müssen, hat sie durch die Art des Gebrauchs aufgegeben. Die Befleckungen, die durch Ertragen <span class=\"ebt-matched\">aufgegeben werden</span> müssen, hat sie durch Ertragen aufgegeben. Die Befleckungen, die durch Meiden <span class=\"ebt-matched\">aufgegeben werden</span> müssen, hat sie durch Meiden aufgegeben. Die Befleckungen, die durch Beseitigen <span class=\"ebt-matched\">aufgegeben werden</span> müssen, hat sie durch Beseitigen aufgegeben. Die Befleckungen, die durch Entwickeln <span class=\"ebt-matched\">aufgegeben werden</span> müssen, hat sie durch Entwickeln aufgegeben. ",
+            "en": "Now, take a mendicant who, by seeing, has given up the defilements that should be given up by seeing. By restraint, they’ve given up the defilements that should be given up by restraint. By using, they’ve given up the defilements that should be given up by using. By enduring, they’ve given up the defilements that should be given up by enduring. By avoiding, they’ve given up the defilements that should be given up by avoiding. By dispelling, they’ve given up the defilements that should be given up by dispelling. By developing, they’ve given up the defilements that should be given up by developing. ",
+            "matched": true
+          }
+        },
+        "score": 23.184,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Mittlere Lehrreden 2\nAlle Befleckungen",
+        "segsMatched": 23,
+        "langSegs": {
+          "pli": 125,
+          "de": 124,
+          "en": 124
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.58_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.58",
+        "lang": "de",
+        "segMap": {
+          "an6.58:2.2": {
+            "scid": "an6.58:2.2",
+            "pli": "Idha, bhikkhave, bhikkhuno ye āsavā saṁvarā pahātabbā te saṁvarena pahīnā honti, ",
+            "de": "Da hat eine Nonne die Befleckungen, die durch Zügelung <span class=\"ebt-matched\">aufgegeben werden</span> müssen, durch Zügelung aufgegeben. ",
+            "en": "It’s a mendicant who, by restraint, has given up the defilements that should be given up by restraint. ",
+            "matched": true
+          },
+          "an6.58:2.3": {
+            "scid": "an6.58:2.3",
+            "pli": "ye āsavā paṭisevanā pahātabbā te paṭisevanāya pahīnā honti, ",
+            "de": "Die Befleckungen, die durch die Art des Gebrauchs <span class=\"ebt-matched\">aufgegeben werden</span> müssen, hat sie durch die Art des Gebrauchs aufgegeben. ",
+            "en": "By using, they’ve given up the defilements that should be given up by using. ",
+            "matched": true
+          },
+          "an6.58:2.4": {
+            "scid": "an6.58:2.4",
+            "pli": "ye āsavā adhivāsanā pahātabbā te adhivāsanāya pahīnā honti, ",
+            "de": "Die Befleckungen, die durch Ertragen <span class=\"ebt-matched\">aufgegeben werden</span> müssen, hat sie durch Ertragen aufgegeben. ",
+            "en": "By enduring, they’ve given up the defilements that should be given up by enduring. ",
+            "matched": true
+          },
+          "an6.58:2.5": {
+            "scid": "an6.58:2.5",
+            "pli": "ye āsavā parivajjanā pahātabbā te parivajjanāya pahīnā honti, ",
+            "de": "Die Befleckungen, die durch Meiden <span class=\"ebt-matched\">aufgegeben werden</span> müssen, hat sie durch Meiden aufgegeben. ",
+            "en": "By avoiding, they’ve given up the defilements that should be given up by avoiding. ",
+            "matched": true
+          },
+          "an6.58:2.6": {
+            "scid": "an6.58:2.6",
+            "pli": "ye āsavā vinodanā pahātabbā te vinodanāya pahīnā honti, ",
+            "de": "Die Befleckungen, die durch Beseitigen <span class=\"ebt-matched\">aufgegeben werden</span> müssen, hat sie durch Beseitigen aufgegeben. ",
+            "en": "By getting rid, they’ve given up the defilements that should be given up by getting rid. ",
+            "matched": true
+          },
+          "an6.58:2.7": {
+            "scid": "an6.58:2.7",
+            "pli": "ye āsavā bhāvanā pahātabbā te bhāvanāya pahīnā honti. ",
+            "de": "Die Befleckungen, die durch Entwickeln <span class=\"ebt-matched\">aufgegeben werden</span> müssen, hat sie durch Entwickeln aufgegeben. ",
+            "en": "By developing, they’ve given up the defilements that should be given up by developing. ",
+            "matched": true
+          },
+          "an6.58:3.1": {
+            "scid": "an6.58:3.1",
+            "pli": "Katame ca, bhikkhave, āsavā saṁvarā pahātabbā ye saṁvarena pahīnā honti? ",
+            "de": "Und was sind die Befleckungen, die durch Zügelung <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by restraint? ",
+            "matched": true
+          },
+          "an6.58:3.10": {
+            "scid": "an6.58:3.10",
+            "pli": "Ime vuccanti, bhikkhave, āsavā saṁvarā pahātabbā ye saṁvarena pahīnā honti. ",
+            "de": "Das nennt man die Befleckungen, die durch Zügelung <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by restraint. ",
+            "matched": true
+          },
+          "an6.58:4.1": {
+            "scid": "an6.58:4.1",
+            "pli": "Katame ca, bhikkhave, āsavā paṭisevanā pahātabbā ye paṭisevanāya pahīnā honti? ",
+            "de": "Und was sind die Befleckungen, die durch die Art des Gebrauchs <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by using? ",
+            "matched": true
+          },
+          "an6.58:4.11": {
+            "scid": "an6.58:4.11",
+            "pli": "Ime vuccanti, bhikkhave, āsavā paṭisevanā pahātabbā ye paṭisevanāya pahīnā honti. ",
+            "de": "Das nennt man die Befleckungen, die durch die Art des Gebrauchs <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by using. ",
+            "matched": true
+          },
+          "an6.58:5.1": {
+            "scid": "an6.58:5.1",
+            "pli": "Katame ca, bhikkhave, āsavā adhivāsanā pahātabbā ye adhivāsanāya pahīnā honti? ",
+            "de": "Und was sind die Befleckungen, die durch Ertragen <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by enduring? ",
+            "matched": true
+          },
+          "an6.58:5.4": {
+            "scid": "an6.58:5.4",
+            "pli": "Ime vuccanti, bhikkhave, āsavā adhivāsanā pahātabbā ye adhivāsanāya pahīnā honti. ",
+            "de": "Das nennt man die Befleckungen, die durch Ertragen <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by enduring. ",
+            "matched": true
+          },
+          "an6.58:6.1": {
+            "scid": "an6.58:6.1",
+            "pli": "Katame ca, bhikkhave, āsavā parivajjanā pahātabbā ye parivajjanāya pahīnā honti? ",
+            "de": "Und was sind die Befleckungen, die durch Meiden <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by avoiding? ",
+            "matched": true
+          },
+          "an6.58:6.4": {
+            "scid": "an6.58:6.4",
+            "pli": "Ime vuccanti, bhikkhave, āsavā parivajjanā pahātabbā ye parivajjanāya pahīnā honti. ",
+            "de": "Das nennt man die Befleckungen, die durch Meiden <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by avoiding. ",
+            "matched": true
+          },
+          "an6.58:7.1": {
+            "scid": "an6.58:7.1",
+            "pli": "Katame ca, bhikkhave, āsavā vinodanā pahātabbā ye vinodanāya pahīnā honti? ",
+            "de": "Und was sind die Befleckungen, die durch Beseitigen <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by getting rid? ",
+            "matched": true
+          },
+          "an6.58:7.7": {
+            "scid": "an6.58:7.7",
+            "pli": "Ime vuccanti, bhikkhave, āsavā vinodanā pahātabbā ye vinodanāya pahīnā honti. ",
+            "de": "Das nennt man die Befleckungen, die durch Beseitigen <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by getting rid. ",
+            "matched": true
+          },
+          "an6.58:8.1": {
+            "scid": "an6.58:8.1",
+            "pli": "Katame ca, bhikkhave, āsavā bhāvanā pahātabbā ye bhāvanāya pahīnā honti? ",
+            "de": "Und was sind die Befleckungen, die durch Entwickeln <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the defilements that should be given up by developing? ",
+            "matched": true
+          },
+          "an6.58:8.10": {
+            "scid": "an6.58:8.10",
+            "pli": "Ime vuccanti, bhikkhave, āsavā bhāvanā pahātabbā ye bhāvanāya pahīnā honti. ",
+            "de": "Das nennt man die Befleckungen, die durch Entwickeln <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the defilements that should be given up by developing. ",
+            "matched": true
+          }
+        },
+        "score": 18.305,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n6. Das große Kapitel\n58. Befleckungen",
+        "segsMatched": 18,
+        "langSegs": {
+          "pli": 59,
+          "de": 58,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.2.1": {
+            "scid": "dn34:1.2.1",
+            "pli": "Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo. ",
+            "de": "Werte Freunde, ein Ding ist eine große Hilfe, ein Ding muss entwickelt werden, ein Ding muss vollständig verstanden werden, ein Ding muss <span class=\"ebt-matched\">aufgegeben werden</span>, ein Ding führt zum Rückschritt, ein Ding führt zu Erhabenheit, ein Ding ist schwer zu erfassen, ein Ding muss erzeugt werden, ein Ding muss unmittelbar erkannt werden und ein Ding muss verwirklicht werden. ",
+            "en": "Reverends, one thing is helpful, one thing should be developed, one thing should be completely understood, one thing should be given up, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing should be produced, one thing should be directly known, one thing should be realized. ",
+            "matched": true
+          },
+          "dn34:1.2.11": {
+            "scid": "dn34:1.2.11",
+            "pli": "Katamo eko dhammo pahātabbo? ",
+            "de": "Welches eine Ding muss <span class=\"ebt-matched\">aufgegeben werden</span>? ",
+            "en": "What one thing should be given up? ",
+            "matched": true
+          },
+          "dn34:1.3.1": {
+            "scid": "dn34:1.3.1",
+            "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
+            "de": "Zwei Dinge sind eine große Hilfe, zwei Dinge müssen entwickelt werden, zwei Dinge müssen vollständig verstanden werden, zwei Dinge müssen <span class=\"ebt-matched\">aufgegeben werden</span>, zwei Dinge führen zum Rückschritt, zwei Dinge führen zu Erhabenheit, zwei Dinge sind schwer zu erfassen, zwei Dinge müssen erzeugt werden, zwei Dinge müssen unmittelbar erkannt werden und zwei Dinge müssen verwirklicht werden. ",
+            "en": "Two things are helpful, two things should be developed, two things should be completely understood, two things should be given up, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things should be realized. ",
+            "matched": true
+          },
+          "dn34:1.3.11": {
+            "scid": "dn34:1.3.11",
+            "pli": "Katame dve dhammā pahātabbā? ",
+            "de": "Welche zwei Dinge müssen <span class=\"ebt-matched\">aufgegeben werden</span>? ",
+            "en": "What two things should be given up? ",
+            "matched": true
+          },
+          "dn34:1.4.13": {
+            "scid": "dn34:1.4.13",
+            "pli": "Katame tayo dhammā pahātabbā? ",
+            "de": "Welche drei Dinge müssen <span class=\"ebt-matched\">aufgegeben werden</span>? ",
+            "en": "What three things should be given up? ",
+            "matched": true
+          },
+          "dn34:1.5.17": {
+            "scid": "dn34:1.5.17",
+            "pli": "Katame cattāro dhammā pahātabbā? ",
+            "de": "Welche vier Dinge müssen <span class=\"ebt-matched\">aufgegeben werden</span>? ",
+            "en": "What four things should be given up? ",
+            "matched": true
+          },
+          "dn34:1.6.19": {
+            "scid": "dn34:1.6.19",
+            "pli": "Katame pañca dhammā pahātabbā? ",
+            "de": "Welche fünf Dinge müssen <span class=\"ebt-matched\">aufgegeben werden</span>? ",
+            "en": "What five things should be given up? ",
+            "matched": true
+          },
+          "dn34:1.7.21": {
+            "scid": "dn34:1.7.21",
+            "pli": "Katame cha dhammā pahātabbā? ",
+            "de": "Welche sechs Dinge müssen <span class=\"ebt-matched\">aufgegeben werden</span>? ",
+            "en": "What six things should be given up? ",
+            "matched": true
+          },
+          "dn34:1.8.27": {
+            "scid": "dn34:1.8.27",
+            "pli": "Katame satta dhammā pahātabbā? ",
+            "de": "Welche sieben Dinge müssen <span class=\"ebt-matched\">aufgegeben werden</span>? ",
+            "en": "What seven things should be given up? ",
+            "matched": true
+          },
+          "dn34:2.1.38": {
+            "scid": "dn34:2.1.38",
+            "pli": "Katame aṭṭha dhammā pahātabbā? ",
+            "de": "Welche acht Dinge müssen <span class=\"ebt-matched\">aufgegeben werden</span>? ",
+            "en": "What eight things should be given up? ",
+            "matched": true
+          },
+          "dn34:2.2.30": {
+            "scid": "dn34:2.2.30",
+            "pli": "Katame nava dhammā pahātabbā? ",
+            "de": "Welche neun Dinge müssen <span class=\"ebt-matched\">aufgegeben werden</span>? ",
+            "en": "What nine things should be given up? ",
+            "matched": true
+          },
+          "dn34:2.3.1": {
+            "scid": "dn34:2.3.1",
+            "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
+            "de": "Zehn Dinge sind eine große Hilfe, zehn Dinge müssen entwickelt werden, zehn Dinge müssen vollständig verstanden werden, zehn Dinge müssen <span class=\"ebt-matched\">aufgegeben werden</span>, zehn Dinge führen zum Rückschritt, zehn Dinge führen zu Erhabenheit, zehn Dinge sind schwer zu erfassen, zehn Dinge müssen erzeugt werden, zehn Dinge müssen unmittelbar erkannt werden und zehn Dinge müssen verwirklicht werden. ",
+            "en": "Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
+            "matched": true
+          },
+          "dn34:2.3.52": {
+            "scid": "dn34:2.3.52",
+            "pli": "Katame dasa dhammā pahātabbā? ",
+            "de": "Welche zehn Dinge müssen <span class=\"ebt-matched\">aufgegeben werden</span>? ",
+            "en": "What ten things should be given up? ",
+            "matched": true
+          }
+        },
+        "score": 13.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 13,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.254_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.254_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.254_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.254",
+        "lang": "de",
+        "segMap": {
+          "an4.254:1.4": {
+            "scid": "an4.254:1.4",
+            "pli": "atthi, bhikkhave, dhammā abhiññā pahātabbā; ",
+            "de": "Es gibt Dinge, die durch unmittelbare Einsicht <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "There are things that should be given up by direct knowledge. ",
+            "matched": true
+          },
+          "an4.254:3.1": {
+            "scid": "an4.254:3.1",
+            "pli": "Katame ca, bhikkhave, dhammā abhiññā pahātabbā? ",
+            "de": "Und was sind die Dinge, die durch unmittelbare Einsicht <span class=\"ebt-matched\">aufgegeben werden</span> müssen? ",
+            "en": "And what are the things that should be given up by direct knowledge? ",
+            "matched": true
+          },
+          "an4.254:3.3": {
+            "scid": "an4.254:3.3",
+            "pli": "ime vuccanti, bhikkhave, dhammā abhiññā pahātabbā. ",
+            "de": "Das nennt man die Dinge, die durch unmittelbare Einsicht <span class=\"ebt-matched\">aufgegeben werden</span> müssen. ",
+            "en": "These are called the things that should be given up by direct knowledge. ",
+            "matched": true
+          }
+        },
+        "score": 3.13,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n26. Einsicht\n254. Einsicht",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 23,
+          "de": 22,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.188_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.188_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.188_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.188",
+        "lang": "de",
+        "segMap": {
+          "an4.188:3.4": {
+            "scid": "an4.188:3.4",
+            "pli": "Taṁ kho panidaṁ akusalaṁ pahātabbanti kho, upaka, mayā paññattaṁ. ",
+            "de": "Ich habe erklärt: ‚Das Untaugliche muss <span class=\"ebt-matched\">aufgegeben werden</span>.‘ ",
+            "en": "I’ve declared: ‘The unskillful should be given up.’ ",
+            "matched": true
+          },
+          "an4.188:3.6": {
+            "scid": "an4.188:3.6",
+            "pli": "itipidaṁ akusalaṁ pahātabbanti. ",
+            "de": "‚Das ist eine andere Art zu sagen, dass das Untaugliche <span class=\"ebt-matched\">aufgegeben werden</span> muss.‘ ",
+            "en": "‘This is another way of saying that the unskillful should be given up.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.069,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n19. Brahmanen\n188. Mit Upaka",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 29,
+          "de": 28,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/mn/mn10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn10",
+        "lang": "de",
+        "segMap": {
+          "mn10:36.6": {
+            "scid": "mn10:36.6",
+            "pli": "Santaṁ vā ajjhattaṁ thinamiddhaṁ ‘atthi me ajjhattaṁ thinamiddhan’ti pajānāti, asantaṁ vā ajjhattaṁ thinamiddhaṁ ‘natthi me ajjhattaṁ thinamiddhan’ti pajānāti, yathā ca anuppannassa thinamiddhassa uppādo hoti tañca pajānāti, yathā ca uppannassa thinamiddhassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa thinamiddhassa āyatiṁ anuppādo hoti tañca pajānāti. ",
+            "de": "Wenn Dumpfheit und Benommenheit in ihr sind, versteht sie: ‚In mir sind Dumpfheit und Benommenheit‘. Wenn keine Dumpfheit und keine Benommenheit in ihr ist, versteht sie: ‚In mir ist keine Dumpfheit und keine Benommenheit‘. Sie versteht, wie Dumpfheit und Benommenheit aufkommen; wie sie, wenn sie aufgekommen sind, <span class=\"ebt-matched\">aufgegeben werden</span>; und wie sie, wenn sie aufgegeben wurden, in Zukunft nicht mehr aufkommen. ",
+            "en": "When they have dullness and drowsiness in them, they understand: ‘I have dullness and drowsiness in me.’ When they don’t have dullness and drowsiness in them, they understand: ‘I don’t have dullness and drowsiness in me.’ They understand how dullness and drowsiness arise; how, when they’ve already arisen, they’re given up; and how, once they’re given up, they don’t arise again in the future. ",
+            "matched": true
+          },
+          "mn10:36.7": {
+            "scid": "mn10:36.7",
+            "pli": "Santaṁ vā ajjhattaṁ uddhaccakukkuccaṁ ‘atthi me ajjhattaṁ uddhaccakukkuccan’ti pajānāti, asantaṁ vā ajjhattaṁ uddhaccakukkuccaṁ ‘natthi me ajjhattaṁ uddhaccakukkuccan’ti pajānāti; yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti tañca pajānāti, yathā ca uppannassa uddhaccakukkuccassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa uddhaccakukkuccassa āyatiṁ anuppādo hoti tañca pajānāti. ",
+            "de": "Wenn Rastlosigkeit und Reue in ihr sind, versteht sie: ‚In mir sind Rastlosigkeit und Reue‘. Wenn keine Rastlosigkeit und keine Reue in ihr ist, versteht sie: ‚In mir ist keine Rastlosigkeit und keine Reue‘. Sie versteht, wie Rastlosigkeit und Reue aufkommen; wie sie, wenn sie aufgekommen sind, <span class=\"ebt-matched\">aufgegeben werden</span>; und wie sie, wenn sie aufgegeben wurden, in Zukunft nicht mehr aufkommen. ",
+            "en": "When they have restlessness and remorse in them, they understand: ‘I have restlessness and remorse in me.’ When they don’t have restlessness and remorse in them, they understand: ‘I don’t have restlessness and remorse in me.’ They understand how restlessness and remorse arise; how, when they’ve already arisen, they’re given up; and how, once they’re given up, they don’t arise again in the future. ",
+            "matched": true
+          }
+        },
+        "score": 2.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Mittlere Lehrreden 10\nAchtsamkeitsmeditation",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 235,
+          "de": 204,
+          "en": 233
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn56/sn56.11_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.11",
+        "lang": "de",
+        "segMap": {
+          "sn56.11:6.2": {
+            "scid": "sn56.11:6.2",
+            "pli": "‘Taṁ kho panidaṁ dukkhasamudayaṁ ariyasaccaṁ pahātabban’ti me, bhikkhave, pubbe …pe… udapādi. ",
+            "de": "‚Diese edle Wahrheit vom Entstehen des Leidens muss <span class=\"ebt-matched\">aufgegeben werden</span>.‘ Dieses Sehen ging mir auf … ",
+            "en": "‘This noble truth of the origin of suffering should be given up.’ Such was the vision that arose in me … ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 56\n2. Das Rad des Dhamma ins Rollen bringen\n11. Das Rad des Dhamma ins Rollen bringen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 60,
+          "de": 59,
+          "en": 59
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "who’s speaking this verse",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "who’s speaking this verse",
+    "method": "phrase",
+    "resultPattern": "\\bwho’s speaking this verse",
+    "segsMatched": 7,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn5/sn5.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn5/sn5.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn5/sn5.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn5/sn5.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn5/sn5.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn5/sn5.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn5/sn5.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn5/sn5.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn5/sn5.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn5/sn5.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn5/sn5.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn5/sn5.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn5/sn5.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn5/sn5.10_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn5.9/en/sujato",
+      "sn5.5/en/sujato",
+      "sn5.4/en/sujato",
+      "sn5.3/en/sujato",
+      "sn5.2/en/sujato",
+      "sn5.1/en/sujato",
+      "sn5.10/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn5/sn5.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn5/sn5.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn5.1",
+        "lang": "en",
+        "segMap": {
+          "sn5.1:3.2": {
+            "scid": "sn5.1:3.2",
+            "pli": "“ko nu khvāyaṁ manusso vā amanusso vā gāthaṁ bhāsatī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Who’s speaking this verse</span>, a human or a non-human?” ",
+            "matched": true
+          }
+        },
+        "score": 1.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 5\n1. Nuns\n1. With Āḷavikā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 26,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn5/sn5.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn5/sn5.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn5.2",
+        "lang": "en",
+        "segMap": {
+          "sn5.2:3.2": {
+            "scid": "sn5.2:3.2",
+            "pli": "“ko nu khvāyaṁ manusso vā amanusso vā gāthaṁ bhāsatī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Who’s speaking this verse</span>, a human or a non-human?” ",
+            "matched": true
+          }
+        },
+        "score": 1.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 5\n1. Nuns\n2. With Somā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 26,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn5/sn5.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn5/sn5.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn5.3",
+        "lang": "en",
+        "segMap": {
+          "sn5.3:3.2": {
+            "scid": "sn5.3:3.2",
+            "pli": "“ko nu khvāyaṁ manusso vā amanusso vā gāthaṁ bhāsatī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Who’s speaking this verse</span>, a human or a non-human?” ",
+            "matched": true
+          }
+        },
+        "score": 1.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 5\n1. Nuns\n3. With Kisāgotamī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 26,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn5/sn5.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn5/sn5.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn5.4",
+        "lang": "en",
+        "segMap": {
+          "sn5.4:3.2": {
+            "scid": "sn5.4:3.2",
+            "pli": "“ko nu khvāyaṁ manusso vā amanusso vā gāthaṁ bhāsatī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Who’s speaking this verse</span>, a human or a non-human?” ",
+            "matched": true
+          }
+        },
+        "score": 1.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 5\n1. Nuns\n4. With Vijayā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 29,
+          "en": 29
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn5/sn5.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn5/sn5.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn5.5",
+        "lang": "en",
+        "segMap": {
+          "sn5.5:3.2": {
+            "scid": "sn5.5:3.2",
+            "pli": "“ko nu khvāyaṁ manusso vā amanusso vā gāthaṁ bhāsatī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Who’s speaking this verse</span>, a human or a non-human?” ",
+            "matched": true
+          }
+        },
+        "score": 1.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 5\n1. Nuns\n5. With Uppalavaṇṇā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 29,
+          "en": 29
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn5/sn5.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn5/sn5.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn5.9",
+        "lang": "en",
+        "segMap": {
+          "sn5.9:3.2": {
+            "scid": "sn5.9:3.2",
+            "pli": "“ko nu khvāyaṁ manusso vā amanusso vā gāthaṁ bhāsatī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Who’s speaking this verse</span>, a human or a non-human?” ",
+            "matched": true
+          }
+        },
+        "score": 1.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 5\n1. Nuns\n9. With Selā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 30,
+          "en": 30
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn5/sn5.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn5/sn5.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn5.10",
+        "lang": "en",
+        "segMap": {
+          "sn5.10:3.2": {
+            "scid": "sn5.10:3.2",
+            "pli": "“ko nu khvāyaṁ manusso vā amanusso vā gāthaṁ bhāsatī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Who’s speaking this verse</span>, a human or a non-human?” ",
+            "matched": true
+          }
+        },
+        "score": 1.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 5\n1. Nuns\n10. With Vajirā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 38,
+          "en": 37
+        }
+      }
+    ]
+  }
+}

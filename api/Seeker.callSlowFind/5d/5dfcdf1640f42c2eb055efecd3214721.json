@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "faith as partner",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "faith as partner",
+    "method": "phrase",
+    "resultPattern": "\\bfaith as partner",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.94_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.94_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.94/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.94_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.94_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.94",
+        "lang": "en",
+        "segMap": {
+          "sn35.94:3.4": {
+            "scid": "sn35.94:3.4",
+            "pli": "Saddhādutiyā viharantānavassutā. ",
+            "en": "live with <span class=\"ebt-matched\">faith as partner</span>, uncorrupted. ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n10. The Sixes\n94. Untamed, Unguarded",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 51,
+          "en": 50
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "不機嫌さ、憎しみ、恨み",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "不機嫌さ、憎しみ、恨み",
+    "method": "phrase",
+    "resultPattern": "不機嫌さ、憎しみ、恨み",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.25_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.25_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an3/an3.25_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an3.25/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.25_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.25_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an3/an3.25_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.25",
+        "lang": "jpn",
+        "segMap": {
+          "an3.25:1.6": {
+            "scid": "an3.25:1.6",
+            "pli": "appampi vutto samāno abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "Even when lightly criticized they lose their temper, becoming annoyed, hostile, and hard-hearted, and they display annoyance, hate, and bitterness. ",
+            "jpn": "少し批判されただけで、腹を立て、ムッとし、敵対心を持ち、冷たくなり、そして、<span class=\"ebt-matched\">不機嫌さ、憎しみ、恨み</span>をあらわにします。",
+            "matched": true
+          },
+          "an3.25:1.9": {
+            "scid": "an3.25:1.9",
+            "pli": "appampi vutto samāno abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. ",
+            "en": "Even when lightly criticized they lose their temper, becoming annoyed, hostile, and hard-hearted, and they display annoyance, hate, and bitterness. ",
+            "jpn": "少し批判されただけで、腹を立て、ムッとし、敵対心を持ち、冷たくなり、そして、<span class=\"ebt-matched\">不機嫌さ、憎しみ、恨み</span>をあらわにします。",
+            "matched": true
+          }
+        },
+        "score": 2.08,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 三集\n第三　人々（人品）\n25 . ダイアモンドのように",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 25,
+          "en": 24,
+          "jpn": 24
+        }
+      }
+    ]
+  }
+}

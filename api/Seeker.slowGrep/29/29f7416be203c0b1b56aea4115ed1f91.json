@@ -1,0 +1,23 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\brid of resentment",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an5/an5.162_translation-en-sujato.json:15",
+    "translation/en/sujato/sutta/an/an9/an9.30_translation-en-sujato.json:5",
+    "translation/en/sujato/sutta/an/an5/an5.161_translation-en-sujato.json:5",
+    "translation/en/sujato/sutta/an/an10/an10.80_translation-en-sujato.json:5",
+    "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn7/sn7.16_translation-en-sujato.json:1"
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "assess",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "assess",
+    "method": "phrase",
+    "resultPattern": "\\bassess",
+    "segsMatched": 20,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn15_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn139_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn139_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.44_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.44_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.75_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.75_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.23_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.23_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.50_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.50_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.48_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.48_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.41_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.41_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.32_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.32_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn15/en/sujato",
+      "mn139/en/sujato",
+      "an6.44/en/sujato",
+      "an10.75/en/sujato",
+      "dn34/en/sujato",
+      "an9.23/en/sujato",
+      "an5.50/en/sujato",
+      "an5.48/en/sujato",
+      "an4.41/en/sujato",
+      "an3.32/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn15_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn15",
+        "lang": "en",
+        "segMap": {
+          "dn15:9.1": {
+            "scid": "dn15:9.1",
+            "pli": "Iti kho panetaṁ, ānanda, vedanaṁ paṭicca taṇhā, taṇhaṁ paṭicca pariyesanā, pariyesanaṁ paṭicca lābho, lābhaṁ paṭicca vinicchayo, vinicchayaṁ paṭicca chandarāgo, chandarāgaṁ paṭicca ajjhosānaṁ, ajjhosānaṁ paṭicca pariggaho, pariggahaṁ paṭicca macchariyaṁ, macchariyaṁ paṭicca ārakkho. ",
+            "en": "So it is, Ānanda, that feeling is a cause of craving. Craving is a cause of seeking. Seeking is a cause of gaining material possessions. Gaining material possessions is a cause of <span class=\"ebt-matched\">assess</span>ing. <span class=\"ebt-matched\">Assess</span>ing is a cause of desire and lust. Desire and lust is a cause of attachment. Attachment is a cause of possessiveness. Possessiveness is a cause of stinginess. Stinginess is a cause of safeguarding. ",
+            "matched": true
+          },
+          "dn15:15.1": {
+            "scid": "dn15:15.1",
+            "pli": "‘Vinicchayaṁ paṭicca chandarāgo’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā vinicchayaṁ paṭicca chandarāgo. ",
+            "en": "‘<span class=\"ebt-matched\">Assess</span>ing is a cause of desire and lust’—that’s what I said. And this is a way to understand how this is so. ",
+            "matched": true
+          },
+          "dn15:15.2": {
+            "scid": "dn15:15.2",
+            "pli": "Vinicchayo ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, sabbaso vinicchaye asati vinicchayanirodhā api nu kho chandarāgo paññāyethā”ti? ",
+            "en": "Suppose there were totally and utterly no <span class=\"ebt-matched\">assess</span>ing for anyone anywhere. When there’s no <span class=\"ebt-matched\">assess</span>ing at all, with the cessation of <span class=\"ebt-matched\">assess</span>ing, would desire and lust still be found?” ",
+            "matched": true
+          },
+          "dn15:15.4": {
+            "scid": "dn15:15.4",
+            "pli": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo chandarāgassa, yadidaṁ vinicchayo. ",
+            "en": "“That’s why this is the cause, source, origin, and condition of desire and lust, namely <span class=\"ebt-matched\">assess</span>ing. ",
+            "matched": true
+          },
+          "dn15:16.1": {
+            "scid": "dn15:16.1",
+            "pli": "‘Lābhaṁ paṭicca vinicchayo’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā lābhaṁ paṭicca vinicchayo. ",
+            "en": "‘Gaining material possessions is a cause of <span class=\"ebt-matched\">assess</span>ing’—that’s what I said. And this is a way to understand how this is so. ",
+            "matched": true
+          },
+          "dn15:16.2": {
+            "scid": "dn15:16.2",
+            "pli": "Lābho ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, sabbaso lābhe asati lābhanirodhā api nu kho vinicchayo paññāyethā”ti? ",
+            "en": "Suppose there were totally and utterly no gaining of material possessions for anyone anywhere. When there’s no gaining of material possessions at all, with the cessation of gaining material possessions, would <span class=\"ebt-matched\">assess</span>ing still be found?” ",
+            "matched": true
+          },
+          "dn15:16.4": {
+            "scid": "dn15:16.4",
+            "pli": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo vinicchayassa, yadidaṁ lābho. ",
+            "en": "“That’s why this is the cause, source, origin, and condition of <span class=\"ebt-matched\">assess</span>ing, namely the gaining of material possessions. ",
+            "matched": true
+          }
+        },
+        "score": 7.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 15\nThe Great Discourse on Causation\n1. Dependent Origination",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 277,
+          "en": 276
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn139_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn139_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn139",
+        "lang": "en",
+        "segMap": {
+          "mn139:3.5": {
+            "scid": "mn139:3.5",
+            "pli": "Sukhavinicchayaṁ jaññā; ",
+            "en": "Know how to <span class=\"ebt-matched\">assess</span> different kinds of pleasure. ",
+            "matched": true
+          },
+          "mn139:9.1": {
+            "scid": "mn139:9.1",
+            "pli": "‘Sukhavinicchayaṁ jaññā; ",
+            "en": "‘Know how to <span class=\"ebt-matched\">assess</span> different kinds of pleasure. ",
+            "matched": true
+          },
+          "mn139:9.20": {
+            "scid": "mn139:9.20",
+            "pli": "‘Sukhavinicchayaṁ jaññā; ",
+            "en": "‘Know how to <span class=\"ebt-matched\">assess</span> different kinds of pleasure. ",
+            "matched": true
+          }
+        },
+        "score": 3.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 139\nThe Analysis of Non-Conflict",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 201,
+          "en": 200
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.44_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.44_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.44",
+        "lang": "en",
+        "segMap": {
+          "an6.44:5.1": {
+            "scid": "an6.44:5.1",
+            "pli": "“Kā cānanda, migasālā upāsikā bālā abyattā ammakā ammakapaññā, ke ca purisapuggalaparopariyañāṇe? ",
+            "en": "“Ānanda, who is this laywoman Migasālā, a foolish incompetent matron, with an matron’s wit? And who is it that knows how to <span class=\"ebt-matched\">assess</span> individuals? ",
+            "matched": true
+          },
+          "an6.44:17.1": {
+            "scid": "an6.44:17.1",
+            "pli": "Kā cānanda, migasālā upāsikā bālā abyattā ammakā ammakapaññā, ke ca purisapuggalaparopariyañāṇe. ",
+            "en": "Who is this laywoman Migasālā, a foolish incompetent matron, with a matron’s wit? And who is it that knows how to <span class=\"ebt-matched\">assess</span> individuals? ",
+            "matched": true
+          }
+        },
+        "score": 2.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n5. About Dhammika\n44. With Migasālā",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 77,
+          "en": 76
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.75_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.75_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.75",
+        "lang": "en",
+        "segMap": {
+          "an10.75:8.1": {
+            "scid": "an10.75:8.1",
+            "pli": "“Kā cānanda, migasālā upāsikā bālā abyattā ammakā ammakapaññā, ke ca purisapuggalaparopariye ñāṇe? ",
+            "en": "“Ānanda, who is this laywoman Migasālā, a foolish incompetent matron, with a matron’s wit? And who is it that knows how to <span class=\"ebt-matched\">assess</span> individuals? ",
+            "matched": true
+          },
+          "an10.75:26.1": {
+            "scid": "an10.75:26.1",
+            "pli": "Kā cānanda, migasālā upāsikā bālā abyattā ammakā ammakapaññā, ke ca purisapuggalaparopariye ñāṇe. ",
+            "en": "Who is this laywoman Migasālā, a foolish incompetent matron, with a matron’s wit? And who is it that knows how to <span class=\"ebt-matched\">assess</span> individuals? ",
+            "matched": true
+          }
+        },
+        "score": 2.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n8. If You Want\n75. With Migasālā",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 117,
+          "en": 116
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.23_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.23",
+        "lang": "en",
+        "segMap": {
+          "an9.23:1.3": {
+            "scid": "an9.23:1.3",
+            "pli": "Taṇhaṁ paṭicca pariyesanā, pariyesanaṁ paṭicca lābho, lābhaṁ paṭicca vinicchayo, vinicchayaṁ paṭicca chandarāgo, chandarāgaṁ paṭicca ajjhosānaṁ, ajjhosānaṁ paṭicca pariggaho, pariggahaṁ paṭicca macchariyaṁ, macchariyaṁ paṭicca ārakkho, ārakkhādhikaraṇaṁ daṇḍādānaṁ satthādānaṁ kalahaviggahavivādatuvaṁtuvaṁpesuññamusāvādā aneke pāpakā akusalā dhammā sambhavanti. ",
+            "en": "Craving is a cause of seeking. Seeking is a cause of gaining material possessions. Gaining material possessions is a cause of <span class=\"ebt-matched\">assess</span>ing. <span class=\"ebt-matched\">Assess</span>ing is a cause of desire and lust. Desire and lust is a cause of attachment. Attachment is a cause of possessiveness. Possessiveness is a cause of stinginess. Stinginess is a cause of safeguarding. Owing to safeguarding, many bad, unskillful things come to be: taking up the rod and the sword, quarrels, arguments, and fights, accusations, divisive speech, and lies. ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n3. Abodes of Sentient Beings\n23. Rooted in Craving",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.32_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.32_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.32",
+        "lang": "en",
+        "segMap": {
+          "an3.32:6.1": {
+            "scid": "an3.32:6.1",
+            "pli": "‘Saṅkhāya lokasmiṁ paroparāni, ",
+            "en": "‘Having <span class=\"ebt-matched\">assess</span>ed the world high and low, ",
+            "matched": true
+          }
+        },
+        "score": 1.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n4. Messengers of the Gods\n32. With Ānanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 20,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.41_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.41_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.41",
+        "lang": "en",
+        "segMap": {
+          "an4.41:6.1": {
+            "scid": "an4.41:6.1",
+            "pli": "‘Saṅkhāya lokasmiṁ paroparāni, ",
+            "en": "‘Having <span class=\"ebt-matched\">assess</span>ed the world high and low, ",
+            "matched": true
+          }
+        },
+        "score": 1.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n5. With Rohitassa\n41. Ways of Developing Immersion Further",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 36,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.48_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.48_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.48",
+        "lang": "en",
+        "segMap": {
+          "an5.48:8.2": {
+            "scid": "an5.48:8.2",
+            "pli": "Na vedhatī atthavinicchayaññū; ",
+            "en": "as they’re able to <span class=\"ebt-matched\">assess</span> what’s beneficial, ",
+            "matched": true
+          }
+        },
+        "score": 1.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n5. With King Muṇḍa\n48. Things That Cannot Be Had",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 55,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.50_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.50_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.50",
+        "lang": "en",
+        "segMap": {
+          "an5.50:15.2": {
+            "scid": "an5.50:15.2",
+            "pli": "Na vedhatī atthavinicchayaññū; ",
+            "en": "as they’re able to <span class=\"ebt-matched\">assess</span> what’s beneficial, ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n5. With King Muṇḍa\n50. With Nārada",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 110,
+          "en": 108
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:2.2.32": {
+            "scid": "dn34:2.2.32",
+            "pli": "taṇhaṁ paṭicca pariyesanā, pariyesanaṁ paṭicca lābho, lābhaṁ paṭicca vinicchayo, vinicchayaṁ paṭicca chandarāgo, chandarāgaṁ paṭicca ajjhosānaṁ, ajjhosānaṁ paṭicca pariggaho, pariggahaṁ paṭicca macchariyaṁ, macchariyaṁ paṭicca ārakkho, ārakkhādhikaraṇaṁ daṇḍādānasatthādānakalahaviggahavivādatuvaṁtuvaṁpesuññamusāvādā aneke pāpakā akusalā dhammā sambhavanti. ",
+            "en": "Craving is a cause of seeking. Seeking is a cause of gaining material possessions. Gaining material possessions is a cause of <span class=\"ebt-matched\">assess</span>ing. <span class=\"ebt-matched\">Assess</span>ing is a cause of desire and lust. Desire and lust is a cause of attachment. Attachment is a cause of possessiveness. Possessiveness is a cause of stinginess. Stinginess is a cause of safeguarding. Owing to safeguarding, many bad, unskillful things come to be: taking up the rod and the sword, quarrels, arguments, fights, accusations, divisive speech, and lies. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

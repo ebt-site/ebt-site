@@ -1,0 +1,115 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "gibt dem besten",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "gibt dem besten",
+    "method": "phrase",
+    "resultPattern": "\\bgibt dem besten",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.32_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.32_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.32_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.32/de/sabbamitta",
+      "an4.34/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.34",
+        "lang": "de",
+        "segMap": {
+          "an4.34:8.1": {
+            "scid": "an4.34:8.1",
+            "pli": "Aggassa dātā medhāvī, ",
+            "de": "Ein verständiger Mensch <span class=\"ebt-matched\">gibt dem Besten</span>, ",
+            "en": "An intelligent person gives to the best, ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n4. Umstände\n34. Zuversicht zu den besten Dingen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 35,
+          "de": 34,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.32_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.32_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.32_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.32",
+        "lang": "de",
+        "segMap": {
+          "an5.32:11.1": {
+            "scid": "an5.32:11.1",
+            "pli": "Aggassa dātā medhāvī, ",
+            "de": "Ein verständiger Mensch <span class=\"ebt-matched\">gibt dem Besten</span>, ",
+            "en": "An intelligent person gives to the best, ",
+            "matched": true
+          }
+        },
+        "score": 1.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n4. Mit Sumanā\n32. Mit Cundī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 46,
+          "de": 45,
+          "en": 45
+        }
+      }
+    ]
+  }
+}

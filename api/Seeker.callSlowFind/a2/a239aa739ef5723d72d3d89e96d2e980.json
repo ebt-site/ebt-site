@@ -1,0 +1,136 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "die wenig wünsche haben",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "die wenig wünsche haben",
+    "method": "keywords",
+    "resultPattern": "\\bdie|\\bwenig|\\bwünsche|\\bhaben",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.90_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.90_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.90_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.378-393_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.378-393_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.378-393_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.97_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.97_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.97_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.1_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an9/an9.1_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an9/an9.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn19_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn19_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn19_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/de/sabbamitta",
+      "an9.1/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.1_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an9/an9.1_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an9/an9.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.1",
+        "lang": "de",
+        "segMap": {
+          "an9.1:7.1": {
+            "scid": "an9.1:7.1",
+            "pli": "Puna caparaṁ, āvuso, bhikkhu yāyaṁ kathā abhisallekhikā cetovivaraṇasappāyā, seyyathidaṁ—appicchakathā santuṭṭhikathā pavivekakathā asaṁsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī akasiralābhī. ",
+            "de": "Dann findet da eine Nonne, wann immer sie will, ohne Mühe und Not, Gelegenheit, an Gesprächen über Zurückhaltung teilzunehmen, <span class=\"ebt-matched\">die</span> helfen, das Herz zu öffnen: nämlich an Gesprächen darüber, <span class=\"ebt-matched\">wenig</span>e <span class=\"ebt-matched\">Wünsche</span> zu <span class=\"ebt-matched\">haben</span>, über Zufriedenheit, Abgeschiedenheit, Abstand, das Aufrütteln der Energie, Ethik, Versenkung, Weisheit, Freiheit und das Wissen und Sehen der Freiheit. ",
+            "en": "Furthermore, a mendicant gets to take part in talk about self-effacement that helps open the heart, when they want, without trouble or difficulty. That is, talk about fewness of wishes, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. ",
+            "matched": true
+          }
+        },
+        "score": 1.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 9\n1. Erwachen\n1. Erwachen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 37,
+          "de": 36,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:2.1.151": {
+            "scid": "dn34:2.1.151",
+            "pli": "appicchassāyaṁ dhammo, nāyaṁ dhammo mahicchassa. ",
+            "de": "‚<span class=\"ebt-matched\">Die</span>se Lehre ist für <span class=\"ebt-matched\">die</span>, <span class=\"ebt-matched\">die</span> <span class=\"ebt-matched\">wenig</span>e <span class=\"ebt-matched\">Wünsche</span> <span class=\"ebt-matched\">haben</span>, nicht für <span class=\"ebt-matched\">die</span>, <span class=\"ebt-matched\">die</span> viele <span class=\"ebt-matched\">Wünsche</span> <span class=\"ebt-matched\">haben</span>. ",
+            "en": "‘This teaching is for those of few wishes, not those of many wishes. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

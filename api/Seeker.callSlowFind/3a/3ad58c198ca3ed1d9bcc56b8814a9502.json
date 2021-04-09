@@ -1,0 +1,80 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "love in their heart",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "love in their heart",
+    "method": "phrase",
+    "resultPattern": "\\blove in their heart",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn12/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn12",
+        "lang": "en",
+        "segMap": {
+          "dn12:10.11": {
+            "scid": "dn12:10.11",
+            "pli": "“Ahitānukampissa mettaṁ vā tesu cittaṁ paccupaṭṭhitaṁ hoti sapattakaṁ vā”ti? ",
+            "en": "“But does an unkind person have <span class=\"ebt-matched\">love in their heart</span> or hostility?” ",
+            "matched": true
+          },
+          "dn12:11.11": {
+            "scid": "dn12:11.11",
+            "pli": "“Ahitānukampissa mettaṁ vā tesu cittaṁ paccupaṭṭhitaṁ hoti sapattakaṁ vā”ti? ",
+            "en": "“But does an unkind person have <span class=\"ebt-matched\">love in their heart</span> or hostility?” ",
+            "matched": true
+          }
+        },
+        "score": 2.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 12\nWith Lohicca",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 189,
+          "en": 188
+        }
+      }
+    ]
+  }
+}

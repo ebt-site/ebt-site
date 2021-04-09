@@ -1,0 +1,215 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "goldschmied",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "goldschmied",
+    "method": "phrase",
+    "resultPattern": "\\bgoldschmied",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.102_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.102_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.102_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.101_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.23_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.23_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.23_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.102/de/sabbamitta",
+      "an3.101/de/sabbamitta",
+      "dn10/de/sabbamitta",
+      "an5.23/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.102_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.102_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.102_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.102",
+        "lang": "de",
+        "segMap": {
+          "an3.102:2.1": {
+            "scid": "an3.102:2.1",
+            "pli": "Seyyathāpi, bhikkhave, suvaṇṇakāro vā suvaṇṇakārantevāsī vā ukkaṁ bandheyya, ukkaṁ bandhitvā ukkāmukhaṁ ālimpeyya, ukkāmukhaṁ ālimpetvā saṇḍāsena jātarūpaṁ gahetvā ukkāmukhe pakkhipeyya, ukkāmukhe pakkhipitvā kālena kālaṁ abhidhamati, kālena kālaṁ udakena paripphoseti, kālena kālaṁ ajjhupekkhati. ",
+            "de": "Es ist, wie wenn ein <span class=\"ebt-matched\">Goldschmied</span> oder sein Lehrling die Esse herrichtet, den Schmelztiegel vorheizt und das Gold mit der Zange nimmt und hineinlegt. Von Zeit zu Zeit facht er das Feuer an, von Zeit zu Zeit besprengt er das Gold mit Wasser und von Zeit zu Zeit wacht er nur über den Vorgang. ",
+            "en": "It’s like when a goldsmith or a goldsmith’s apprentice prepares a forge, fires the crucible, picks up some gold with tongs and puts it in the crucible. From time to time they fan it, from time to time they sprinkle water on it, and from time to time they just watch over it. ",
+            "matched": true
+          },
+          "an3.102:2.5": {
+            "scid": "an3.102:2.5",
+            "pli": "Yato ca kho, bhikkhave, suvaṇṇakāro vā suvaṇṇakārantevāsī vā taṁ jātarūpaṁ kālena kālaṁ abhidhamati, kālena kālaṁ udakena paripphoseti, kālena kālaṁ ajjhupekkhati, taṁ hoti jātarūpaṁ muduñca kammaniyañca pabhassarañca, na ca pabhaṅgu, sammā upeti kammāya. ",
+            "de": "Aber wenn der <span class=\"ebt-matched\">Goldschmied</span> jeweils von Zeit zu Zeit das Feuer anfacht, das Gold mit Wasser besprengt und über den Vorgang wacht, wird das Gold geschmeidig, formbar und leuchtend, ist nicht brüchig und bereit zur Verarbeitung. ",
+            "en": "But when that goldsmith fans it from time to time, sprinkles water on it from time to time, and watches over it from time to time, that gold becomes pliable, workable, and radiant, not brittle, and is ready to be worked. ",
+            "matched": true
+          },
+          "an3.102:2.6": {
+            "scid": "an3.102:2.6",
+            "pli": "Yassā yassā ca pilandhanavikatiyā ākaṅkhati—yadi paṭṭikāya, yadi kuṇḍalāya, yadi gīveyyake, yadi suvaṇṇamālāya—tañcassa atthaṁ anubhoti. ",
+            "de": "Dann gelingt es dem <span class=\"ebt-matched\">Goldschmied</span>, jedes beliebige Schmuckstück daraus herzustellen, sei es ein Armband, einen Ohrring, ein Halsband oder einen goldenen Kranz. ",
+            "en": "Then the goldsmith can successfully create any kind of ornament they want, whether a bracelet, earrings, a necklace, or a golden garland. ",
+            "matched": true
+          }
+        },
+        "score": 3.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n10. Ein Salzklümpchen\n102. Grundlagen",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 36,
+          "de": 34,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.101_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.101",
+        "lang": "de",
+        "segMap": {
+          "an3.101:1.8": {
+            "scid": "an3.101:1.8",
+            "pli": "Tamenaṁ suvaṇṇakāro vā suvaṇṇakārantevāsī vā jātarūpaṁ mūsāyaṁ pakkhipitvā dhamati sandhamati niddhamati. ",
+            "de": "Ein <span class=\"ebt-matched\">Goldschmied</span> oder sein Lehrling füllt das Gold in einen Schmelztiegel, wo er es erhitzt, schmilzt und verflüssigt. ",
+            "en": "A goldsmith or their apprentice places the gold in a crucible where they blow, melt, and smelt it. ",
+            "matched": true
+          },
+          "an3.101:1.10": {
+            "scid": "an3.101:1.10",
+            "pli": "Hoti so, bhikkhave, samayo yaṁ suvaṇṇakāro vā suvaṇṇakārantevāsī vā taṁ jātarūpaṁ dhamati sandhamati niddhamati. ",
+            "de": "Doch der <span class=\"ebt-matched\">Goldschmied</span> fährt fort, es zu erhitzen, zu schmelzen und zu verflüssigen. ",
+            "en": "But the goldsmith keeps on blowing, melting, and smelting it. ",
+            "matched": true
+          },
+          "an3.101:1.12": {
+            "scid": "an3.101:1.12",
+            "pli": "Yassā yassā ca pilandhanavikatiyā ākaṅkhati—yadi paṭṭikāya, yadi kuṇḍalāya, yadi gīveyyake, yadi suvaṇṇamālāya—tañcassa atthaṁ anubhoti. ",
+            "de": "Dann gelingt es dem <span class=\"ebt-matched\">Goldschmied</span>, jedes beliebige Schmuckstück daraus herzustellen, sei es ein Armband, einen Ohrring, ein Halsband oder einen goldenen Kranz. ",
+            "en": "Then the goldsmith can successfully create any kind of ornament they want, whether a bracelet, earrings, a necklace, or a golden garland. ",
+            "matched": true
+          }
+        },
+        "score": 3.058,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n10. Ein Salzklümpchen\n101. Ein Goldwäscher",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 52,
+          "de": 51,
+          "en": 51
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.23_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.23_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.23",
+        "lang": "de",
+        "segMap": {
+          "an5.23:1.6": {
+            "scid": "an5.23:1.6",
+            "pli": "Yassā yassā ca piḷandhanavikatiyā ākaṅkhati—yadi muddikāya yadi kuṇḍalāya yadi gīveyyakāya yadi suvaṇṇamālāya—tañcassa atthaṁ anubhoti. ",
+            "de": "Dann gelingt es dem <span class=\"ebt-matched\">Goldschmied</span>, jedes beliebige Schmuckstück daraus herzustellen, sei es ein Armband, einen Ohrring, ein Halsband oder einen goldenen Kranz. ",
+            "en": "Then the goldsmith can successfully create any kind of ornament they want, whether a ring, earrings, a necklace, or a golden garland. ",
+            "matched": true
+          }
+        },
+        "score": 1.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n3. Mit fünf Faktoren\n23. Verunreinigungen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 44,
+          "de": 43,
+          "en": 43
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn10",
+        "lang": "de",
+        "segMap": {
+          "dn10:2.26.3": {
+            "scid": "dn10:2.26.3",
+            "pli": "Seyyathā vā pana, māṇava, dakkho suvaṇṇakāro vā suvaṇṇakārantevāsī vā suparikammakatasmiṁ suvaṇṇasmiṁ yaññadeva suvaṇṇavikatiṁ ākaṅkheyya, taṁ tadeva kareyya abhinipphādeyya. ",
+            "de": "Oder wie ein fachkundiger <span class=\"ebt-matched\">Goldschmied</span> oder <span class=\"ebt-matched\">Goldschmied</span>elehrling, der gut vorbereitetes Gold hätte: Er könnte daraus jeden goldenen Gegenstand herstellen, den er wollte. ",
+            "en": "Or suppose an expert goldsmith or their apprentice had some well-prepared gold. They could produce any kind of gold item that they like. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 10\nMit Subha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 284,
+          "de": 226,
+          "en": 281
+        }
+      }
+    ]
+  }
+}

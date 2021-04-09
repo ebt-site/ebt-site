@@ -1,0 +1,256 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "a raft",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "a raft",
+    "method": "phrase",
+    "resultPattern": "\\ba raft",
+    "segsMatched": 14,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga8/ud8.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga8/ud8.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.238_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.238_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn22/en/sujato",
+      "mn38/en/sujato",
+      "ud8.6/en/sujato",
+      "dn16/en/sujato",
+      "sn35.238/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn22",
+        "lang": "en",
+        "segMap": {
+          "mn22:13.1": {
+            "scid": "mn22:13.1",
+            "pli": "Kullūpamaṁ vo, bhikkhave, dhammaṁ desessāmi nittharaṇatthāya, no gahaṇatthāya. ",
+            "en": "Mendicants, I will teach you how the Dhamma is similar to <span class=\"ebt-matched\">a raft</span>: it’s for crossing over, not for holding on. ",
+            "matched": true
+          },
+          "mn22:13.11": {
+            "scid": "mn22:13.11",
+            "pli": "Yannūnāhaṁ tiṇakaṭṭhasākhāpalāsaṁ saṅkaḍḍhitvā, kullaṁ bandhitvā, taṁ kullaṁ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṁ uttareyyan’ti. ",
+            "en": "‘Why don’t I gather grass, sticks, branches, and leaves and make <span class=\"ebt-matched\">a raft</span>? Riding on the raft, and paddling with my hands and feet, I can safely reach the far shore.’ ",
+            "matched": true
+          },
+          "mn22:13.15": {
+            "scid": "mn22:13.15",
+            "pli": "imāhaṁ kullaṁ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṁ uttiṇṇo. ",
+            "en": "Riding on the raft, and paddling with my hands and feet, I have safely crossed over to the far shore. ",
+            "matched": true
+          },
+          "mn22:13.20": {
+            "scid": "mn22:13.20",
+            "pli": "“Kathaṅkārī ca so, bhikkhave, puriso tasmiṁ kulle kiccakārī assa? ",
+            "en": "“And what, mendicants, should that person do with the raft? ",
+            "matched": true
+          },
+          "mn22:13.26": {
+            "scid": "mn22:13.26",
+            "pli": "Evameva kho, bhikkhave, kullūpamo mayā dhammo desito nittharaṇatthāya, no gahaṇatthāya. ",
+            "en": "In the same way, I have taught how the teaching is similar to <span class=\"ebt-matched\">a raft</span>: it’s for crossing over, not for holding on. ",
+            "matched": true
+          },
+          "mn22:14.1": {
+            "scid": "mn22:14.1",
+            "pli": "Kullūpamaṁ vo, bhikkhave, dhammaṁ desitaṁ, ājānantehi dhammāpi vo pahātabbā pageva adhammā. ",
+            "en": "By understanding the simile of the raft, you will even give up the teachings, let alone what is against the teachings. ",
+            "matched": true
+          }
+        },
+        "score": 6.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 22\nThe Simile of the Snake",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 359,
+          "en": 358
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.238_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.238_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.238",
+        "lang": "en",
+        "segMap": {
+          "sn35.238:5.6": {
+            "scid": "sn35.238:5.6",
+            "pli": "Yannūnāhaṁ tiṇakaṭṭhasākhāpalāsaṁ saṅkaḍḍhitvā kullaṁ bandhitvā taṁ kullaṁ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṁ gaccheyyan’ti. ",
+            "en": "‘Why don’t I gather grass, sticks, branches, and leaves and make <span class=\"ebt-matched\">a raft</span>? Riding on the raft, and paddling with my hands and feet, I can safely reach the far shore.’ ",
+            "matched": true
+          },
+          "sn35.238:15.1": {
+            "scid": "sn35.238:15.1",
+            "pli": "Kullanti kho, bhikkhave, ariyassetaṁ aṭṭhaṅgikassa maggassa adhivacanaṁ, seyyathidaṁ—",
+            "en": "‘The raft’ is a term for the noble eightfold path, that is: ",
+            "matched": true
+          }
+        },
+        "score": 2.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n19. The Simile of the Vipers\n238. The Simile of the Vipers",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 58,
+          "en": 57
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga8/ud8.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga8/ud8.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud8.6",
+        "lang": "en",
+        "segMap": {
+          "ud8.6:27.4": {
+            "scid": "ud8.6:27.4",
+            "pli": "Appekacce manussā nāvaṁ pariyesanti, appekacce uḷumpaṁ pariyesanti, appekacce kullaṁ bandhanti apārā pāraṁ gantukāmā.",
+            "en": "Wanting to cross from the near to the far shore, some people were seeking a boat, some a dinghy, while some were tying up <span class=\"ebt-matched\">a raft</span>. ",
+            "matched": true
+          },
+          "ud8.6:30.3": {
+            "scid": "ud8.6:30.3",
+            "pli": "Kullañhi jano pabandhati,",
+            "en": "While some people are still tying <span class=\"ebt-matched\">a raft</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\nThe Layfolk of Pāṭali Village",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 118,
+          "en": 98
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn38",
+        "lang": "en",
+        "segMap": {
+          "mn38:14.1": {
+            "scid": "mn38:14.1",
+            "pli": "“Imañce tumhe, bhikkhave, diṭṭhiṁ evaṁ parisuddhaṁ evaṁ pariyodātaṁ allīyetha kelāyetha dhanāyetha mamāyetha, api nu me tumhe, bhikkhave, kullūpamaṁ dhammaṁ desitaṁ ājāneyyātha nittharaṇatthāya no gahaṇatthāyā”ti? ",
+            "en": "“Pure and bright as this view is, mendicants, if you cherish it, fancy it, treasure it, and treat it as your own, would you be understanding how the Dhamma is similar to <span class=\"ebt-matched\">a raft</span>: for crossing over, not for holding on?” ",
+            "matched": true
+          },
+          "mn38:14.3": {
+            "scid": "mn38:14.3",
+            "pli": "“Imañce tumhe, bhikkhave, diṭṭhiṁ evaṁ parisuddhaṁ evaṁ pariyodātaṁ na allīyetha na kelāyetha na dhanāyetha na mamāyetha, api nu me tumhe, bhikkhave, kullūpamaṁ dhammaṁ desitaṁ ājāneyyātha nittharaṇatthāya no gahaṇatthāyā”ti? ",
+            "en": "“Pure and bright as this view is, mendicants, if you don’t cherish it, fancy it, treasure it, and treat it as your own, would you be understanding how the Dhamma is similar to <span class=\"ebt-matched\">a raft</span>: for crossing over, not for holding on?” ",
+            "matched": true
+          }
+        },
+        "score": 2.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 38\nThe Longer Discourse on the Ending of Craving",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 445,
+          "en": 444
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn16",
+        "lang": "en",
+        "segMap": {
+          "dn16:1.33.2": {
+            "scid": "dn16:1.33.2",
+            "pli": "Appekacce manussā nāvaṁ pariyesanti, appekacce uḷumpaṁ pariyesanti, appekacce kullaṁ bandhanti apārā, pāraṁ gantukāmā. ",
+            "en": "Wanting to cross from the near to the far shore, some people were seeking a boat, some a dinghy, while some were tying up <span class=\"ebt-matched\">a raft</span>. ",
+            "matched": true
+          },
+          "dn16:1.34.5": {
+            "scid": "dn16:1.34.5",
+            "pli": "Kullañhi jano bandhati, ",
+            "en": "While some people are still tying <span class=\"ebt-matched\">a raft</span>, ",
+            "matched": true
+          }
+        },
+        "score": 2.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 16\nThe Great Discourse on the Buddha’s Extinguishment",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1665,
+          "en": 1664
+        }
+      }
+    ]
+  }
+}

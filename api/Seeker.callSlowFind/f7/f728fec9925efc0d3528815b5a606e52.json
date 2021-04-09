@@ -1,0 +1,144 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "who understood",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "who understood",
+    "method": "phrase",
+    "resultPattern": "\\bwho understood",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn8/sn8.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn8/sn8.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga7/ud7.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga7/ud7.6_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn8.9/en/sujato",
+      "sn56.11/en/sujato",
+      "ud7.6/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn8/sn8.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn8/sn8.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn8.9",
+        "lang": "en",
+        "segMap": {
+          "sn8.9:1.2": {
+            "scid": "sn8.9:1.2",
+            "pli": "Atha kho āyasmā aññāsikoṇḍañño sucirasseva yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato pādesu sirasā nipatitvā bhagavato pādāni mukhena ca paricumbati, pāṇīhi ca parisambāhati, nāmañca sāveti: ",
+            "en": "Then Venerable Koṇḍañña <span class=\"ebt-matched\">Who Understood</span> approached the Buddha after a very long absence. He bowed with his head to the Buddha’s feet, caressing them and covering them with kisses, and pronounced his name: ",
+            "matched": true
+          },
+          "sn8.9:1.5": {
+            "scid": "sn8.9:1.5",
+            "pli": "“ayaṁ kho āyasmā aññāsikoṇḍañño sucirasseva yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato pādesu sirasā nipatitvā bhagavato pādāni mukhena ca paricumbati, pāṇīhi ca parisambāhati, nāmañca sāveti: ",
+            "en": "“This Venerable Koṇḍañña <span class=\"ebt-matched\">Who Understood</span> has approached the Buddha after a very long absence. He bowed with his head to the Buddha’s feet, caressing them and covering them with kisses, and pronounced his name: ",
+            "matched": true
+          }
+        },
+        "score": 2.077,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 8\n1. With Vaṅgīsa\n9. With Koṇḍañña",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 26,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga7/ud7.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga7/ud7.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud7.6",
+        "lang": "en",
+        "segMap": {
+          "ud7.6:1.3": {
+            "scid": "ud7.6:1.3",
+            "pli": "Tena kho pana samayena āyasmā aññāsikoṇḍañño bhagavato avidūre nisinno hoti pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya taṇhāsaṅkhayavimuttiṁ paccavekkhamāno.",
+            "en": "Now at that time Venerable Koṇḍañña <span class=\"ebt-matched\">Who Understood</span> was sitting not far from the Buddha cross-legged, with his body straight, reviewing the freedom through the ending of craving. ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\nThe Ending of Craving",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.11",
+        "lang": "en",
+        "segMap": {
+          "sn56.11:14.3": {
+            "scid": "sn56.11:14.3",
+            "pli": "Iti hidaṁ āyasmato koṇḍaññassa “aññāsikoṇḍañño” tveva nāmaṁ ahosīti. ",
+            "en": "And that’s how Venerable Koṇḍañña came to be known as “Koṇḍañña <span class=\"ebt-matched\">Who Understood</span>”. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n2. Rolling Forth the Wheel of Dhamma\n11. Rolling Forth the Wheel of Dhamma",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 60,
+          "en": 59
+        }
+      }
+    ]
+  }
+}

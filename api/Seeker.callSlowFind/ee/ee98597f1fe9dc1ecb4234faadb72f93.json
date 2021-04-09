@@ -1,0 +1,336 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "from the soles of the feet",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "from the soles of the feet",
+    "method": "phrase",
+    "resultPattern": "\\bfrom the soles of the feet",
+    "segsMatched": 10,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn119_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn119_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn51/sn51.20_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn51/sn51.20_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.127_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.127_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig2.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thig/thig2.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.29_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.29_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn119/en/sujato",
+      "sn51.20/en/sujato",
+      "sn35.127/en/sujato",
+      "mn10/en/sujato",
+      "thig2.8/en/sujato",
+      "dn28/en/sujato",
+      "dn22/en/sujato",
+      "an6.29/en/sujato",
+      "an10.60/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn119_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn119_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn119",
+        "lang": "en",
+        "segMap": {
+          "mn119:7.1": {
+            "scid": "mn119:7.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
+            "en": "Furthermore, a mendicant examines their own body, up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "matched": true
+          },
+          "mn119:7.7": {
+            "scid": "mn119:7.7",
+            "pli": "evameva kho, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
+            "en": "In the same way, a mendicant examines their own body, up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. … ",
+            "matched": true
+          }
+        },
+        "score": 2.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 119\nMindfulness of the Body",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 190,
+          "en": 173
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig2.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thig/thig2.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig2.8",
+        "lang": "en",
+        "segMap": {
+          "thig2.8:1.2": {
+            "scid": "thig2.8:1.2",
+            "pli": "adho ve kesamatthakā;",
+            "en": "up <span class=\"ebt-matched\">from the soles of the feet</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Nuns\nThe Book of the Twos\n2.8. Abhaya’s Mother",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.127_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.127_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.127",
+        "lang": "en",
+        "segMap": {
+          "sn35.127:3.2": {
+            "scid": "sn35.127:3.2",
+            "pli": "‘etha tumhe, bhikkhave, imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhatha—",
+            "en": "‘Please, monks, examine your own body up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "matched": true
+          }
+        },
+        "score": 1.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n13. Householders\n127. With Bhāradvāja",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 42,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.29_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.29",
+        "lang": "en",
+        "segMap": {
+          "an6.29:6.1": {
+            "scid": "an6.29:6.1",
+            "pli": "Puna caparaṁ, bhante, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
+            "en": "Furthermore, a mendicant examines their own body up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n3. Unsurpassable\n29. With Udāyī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 52,
+          "en": 51
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.60",
+        "lang": "en",
+        "segMap": {
+          "an10.60:6.2": {
+            "scid": "an10.60:6.2",
+            "pli": "Idhānanda, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānāppakārassa asucino paccavekkhati: ",
+            "en": "It’s when a mendicant examines their own body up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n60. With Girimānanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 80,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn51/sn51.20_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn51/sn51.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn51.20",
+        "lang": "en",
+        "segMap": {
+          "sn51.20:8.2": {
+            "scid": "sn51.20:8.2",
+            "pli": "Idha, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
+            "en": "It’s when a mendicant examines their own body up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 51\n2. Shaking the Stilt Longhouse\n20. Analysis",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 99,
+          "en": 97
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn28_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn28_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn28",
+        "lang": "en",
+        "segMap": {
+          "dn28:7.3": {
+            "scid": "dn28:7.3",
+            "pli": "Idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
+            "en": "Firstly, some ascetic or brahmin—by dint of keen, resolute, committed, and diligent effort, and right focus—experiences an immersion of the heart of such a kind that they examine their own body up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 28\nInspiring Confidence\n1. Sāriputta’s Lion’s Roar",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 250,
+          "en": 249
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn10",
+        "lang": "en",
+        "segMap": {
+          "mn10:10.1": {
+            "scid": "mn10:10.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā, adho kesamatthakā, tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
+            "en": "Furthermore, a mendicant examines their own body, up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 10\nMindfulness Meditation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 235,
+          "en": 233
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn22",
+        "lang": "en",
+        "segMap": {
+          "dn22:5.1": {
+            "scid": "dn22:5.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ",
+            "en": "Furthermore, a mendicant examines their own body, up <span class=\"ebt-matched\">from the soles of the feet</span> and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 22\nThe Longer Discourse on Mindfulness Meditation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 454,
+          "en": 453
+        }
+      }
+    ]
+  }
+}

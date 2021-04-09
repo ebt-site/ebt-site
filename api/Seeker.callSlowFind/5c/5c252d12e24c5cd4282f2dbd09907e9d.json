@@ -1,0 +1,1978 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "cruel",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "cruel",
+    "method": "phrase",
+    "resultPattern": "\\bcruel",
+    "segsMatched": 115,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.95_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.95_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag16.5_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag16.5_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn8_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn8_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn19_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn19_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn14/sn14.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn14/sn14.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga11/iti110_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga11/iti110_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn78_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn78_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn124_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn124_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga4/ud4.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga4/ud4.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.74_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.74_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.113_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.113_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.111_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.111_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.110_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.110_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.109_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.109_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.216_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.216_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.138_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.138_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.124_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.124_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.17_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.17_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.77_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.77_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn9/sn9.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn9/sn9.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn55/sn55.42_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.42_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn55/sn55.41_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.41_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.80_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.80_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn94_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn94_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn7_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn7_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn62_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn62_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn60_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn60_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn55_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn55_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn51_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn51_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn41_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn41_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn2_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn14_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn14_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn122_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn122_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn117_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn117_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn115_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn115_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn114_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn114_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga9/iti87_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga9/iti87_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn32_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn32_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.75_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.75_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.45_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.45_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.51_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.51_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.262_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.262_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.165_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.165_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.164_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.164_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.14_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.114_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.114_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.40_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.40_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.123_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.123_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.217_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.217_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.216_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.216_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.213_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.213_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.212_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.212_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.211_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.211_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.20_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.20_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.176_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.176_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.95/en/sujato",
+      "thag16.5/en/sujato",
+      "dn33/en/sujato",
+      "mn8/en/sujato",
+      "mn19/en/sujato",
+      "sn14.12/en/sujato",
+      "iti110/en/sujato",
+      "an4.11/en/sujato",
+      "mn78/en/sujato",
+      "mn33/en/sujato",
+      "mn124/en/sujato",
+      "ud4.1/en/sujato",
+      "an9.3/en/sujato",
+      "an6.74/en/sujato",
+      "an6.113/en/sujato",
+      "an6.111/en/sujato",
+      "an6.110/en/sujato",
+      "an6.109/en/sujato",
+      "an5.216/en/sujato",
+      "an4.138/en/sujato",
+      "an3.124/en/sujato",
+      "an11.17/en/sujato",
+      "an10.77/en/sujato",
+      "sn9.11/en/sujato",
+      "sn56.7/en/sujato",
+      "sn55.42/en/sujato",
+      "sn55.41/en/sujato",
+      "sn22.80/en/sujato",
+      "mn94/en/sujato",
+      "mn7/en/sujato",
+      "mn62/en/sujato",
+      "mn60/en/sujato",
+      "mn55/en/sujato",
+      "mn51/en/sujato",
+      "mn41/en/sujato",
+      "mn2/en/sujato",
+      "mn14/en/sujato",
+      "mn122/en/sujato",
+      "mn117/en/sujato",
+      "mn115/en/sujato",
+      "mn114/en/sujato",
+      "iti87/en/sujato",
+      "dn34/en/sujato",
+      "dn32/en/sujato",
+      "dn17/en/sujato",
+      "an6.75/en/sujato",
+      "an6.58/en/sujato",
+      "an6.57/en/sujato",
+      "an5.45/en/sujato",
+      "an5.140/en/sujato",
+      "an4.51/en/sujato",
+      "an4.262/en/sujato",
+      "an4.198/en/sujato",
+      "an4.165/en/sujato",
+      "an4.164/en/sujato",
+      "an4.14/en/sujato",
+      "an4.114/en/sujato",
+      "an3.40/en/sujato",
+      "an3.123/en/sujato",
+      "an3.101/en/sujato",
+      "an10.60/en/sujato",
+      "an10.217/en/sujato",
+      "an10.216/en/sujato",
+      "an10.213/en/sujato",
+      "an10.212/en/sujato",
+      "an10.211/en/sujato",
+      "an10.20/en/sujato",
+      "an10.176/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag16.5_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag16.5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag16.5",
+        "lang": "en",
+        "segMap": {
+          "thag16.5:2.4": {
+            "scid": "thag16.5:2.4",
+            "pli": "cittamassūpahaññati;",
+            "en": "by covetousness and <span class=\"ebt-matched\">cruel</span>ty.",
+            "matched": true
+          },
+          "thag16.5:4.4": {
+            "scid": "thag16.5:4.4",
+            "pli": "cittamassūpahaññati;",
+            "en": "by covetousness and <span class=\"ebt-matched\">cruel</span>ty.",
+            "matched": true
+          },
+          "thag16.5:6.4": {
+            "scid": "thag16.5:6.4",
+            "pli": "cittamassūpahaññati;",
+            "en": "by covetousness and <span class=\"ebt-matched\">cruel</span>ty.",
+            "matched": true
+          },
+          "thag16.5:8.4": {
+            "scid": "thag16.5:8.4",
+            "pli": "cittamassūpahaññati;",
+            "en": "by covetousness and <span class=\"ebt-matched\">cruel</span>ty.",
+            "matched": true
+          },
+          "thag16.5:10.4": {
+            "scid": "thag16.5:10.4",
+            "pli": "cittamassūpahaññati;",
+            "en": "by covetousness and <span class=\"ebt-matched\">cruel</span>ty.",
+            "matched": true
+          },
+          "thag16.5:12.4": {
+            "scid": "thag16.5:12.4",
+            "pli": "cittamassūpahaññati;",
+            "en": "by covetousness and <span class=\"ebt-matched\">cruel</span>ty.",
+            "matched": true
+          }
+        },
+        "score": 6.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Twenties\nChapter One\n16.5. Māluṅkyaputta (2nd)",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 125,
+          "en": 124
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.95_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.95_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.95",
+        "lang": "en",
+        "segMap": {
+          "sn35.95:13.4": {
+            "scid": "sn35.95:13.4",
+            "pli": "cittamassūpahaññati; ",
+            "en": "by covetousness and <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          },
+          "sn35.95:15.4": {
+            "scid": "sn35.95:15.4",
+            "pli": "cittamassūpahaññati; ",
+            "en": "by covetousness and <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          },
+          "sn35.95:17.4": {
+            "scid": "sn35.95:17.4",
+            "pli": "cittamassūpahaññati; ",
+            "en": "by covetousness and <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          },
+          "sn35.95:19.4": {
+            "scid": "sn35.95:19.4",
+            "pli": "cittamassūpahaññati; ",
+            "en": "by covetousness and <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          },
+          "sn35.95:21.4": {
+            "scid": "sn35.95:21.4",
+            "pli": "cittamassūpahaññati; ",
+            "en": "by covetousness and <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          },
+          "sn35.95:23.4": {
+            "scid": "sn35.95:23.4",
+            "pli": "cittamassūpahaññati; ",
+            "en": "by covetousness and <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          }
+        },
+        "score": 6.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n10. The Sixes\n95. Māluṅkyaputta",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 181,
+          "en": 180
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:1.10.13": {
+            "scid": "dn33:1.10.13",
+            "pli": "kāmavitakko, byāpādavitakko, vihiṁsāvitakko. ",
+            "en": "sensuality, malice, and <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          },
+          "dn33:1.10.17": {
+            "scid": "dn33:1.10.17",
+            "pli": "kāmasaṅkappo, byāpādasaṅkappo, vihiṁsāsaṅkappo. ",
+            "en": "sensuality, malice, and <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          },
+          "dn33:1.10.21": {
+            "scid": "dn33:1.10.21",
+            "pli": "kāmasaññā, byāpādasaññā, vihiṁsāsaññā. ",
+            "en": "sensuality, malice, and <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          },
+          "dn33:1.10.25": {
+            "scid": "dn33:1.10.25",
+            "pli": "kāmadhātu, byāpādadhātu, vihiṁsādhātu. ",
+            "en": "sensuality, malice, and <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          },
+          "dn33:1.11.87": {
+            "scid": "dn33:1.11.87",
+            "pli": "uppannaṁ vihiṁsāvitakkaṁ …pe… ",
+            "en": "or <span class=\"ebt-matched\">cruel</span> thought that’s arisen, but gives it up, gets rid of it, eliminates it, and obliterates it. ",
+            "matched": true
+          },
+          "dn33:3.3.73": {
+            "scid": "dn33:3.3.73",
+            "pli": "Idhāvuso, bhikkhuno kāmasaṅkappo pahīno hoti, byāpādasaṅkappo pahīno hoti, vihiṁsāsaṅkappo pahīno hoti. ",
+            "en": "It’s when they’ve given up sensual, malicious, and <span class=\"ebt-matched\">cruel</span> intentions. ",
+            "matched": true
+          }
+        },
+        "score": 6.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn19_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn19_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn19",
+        "lang": "en",
+        "segMap": {
+          "mn19:2.3": {
+            "scid": "mn19:2.3",
+            "pli": "So kho ahaṁ, bhikkhave, yo cāyaṁ kāmavitakko yo ca byāpādavitakko yo ca vihiṁsāvitakko—",
+            "en": "So I assigned sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts ",
+            "matched": true
+          },
+          "mn19:4-5.2": {
+            "scid": "mn19:4-5.2",
+            "pli": "uppajjati vihiṁsāvitakko. ",
+            "en": "a <span class=\"ebt-matched\">cruel</span> thought arose. ",
+            "matched": true
+          },
+          "mn19:4-5.4": {
+            "scid": "mn19:4-5.4",
+            "pli": "‘uppanno kho me ayaṁ vihiṁsāvitakko. ",
+            "en": "‘This <span class=\"ebt-matched\">cruel</span> thought has arisen in me. ",
+            "matched": true
+          },
+          "mn19:4-5.10": {
+            "scid": "mn19:4-5.10",
+            "pli": "So kho ahaṁ, bhikkhave, uppannuppannaṁ vihiṁsāvitakkaṁ pajahameva vinodameva byantameva naṁ akāsiṁ. ",
+            "en": "So I gave up, got rid of, and eliminated any <span class=\"ebt-matched\">cruel</span> thoughts that arose. ",
+            "matched": true
+          },
+          "mn19:6.4": {
+            "scid": "mn19:6.4",
+            "pli": "vihiṁsāvitakkañce, bhikkhave, bhikkhu bahulamanuvitakketi anuvicāreti, pahāsi avihiṁsāvitakkaṁ, vihiṁsāvitakkaṁ bahulamakāsi, tassa taṁ vihiṁsāvitakkāya cittaṁ namati. ",
+            "en": "If they often think about and consider <span class=\"ebt-matched\">cruel</span> thoughts … their mind inclines to <span class=\"ebt-matched\">cruel</span> thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 5.041,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 19\nTwo Kinds of Thought",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 123,
+          "en": 122
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn8_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn8",
+        "lang": "en",
+        "segMap": {
+          "mn8:12.2": {
+            "scid": "mn8:12.2",
+            "pli": "‘Pare vihiṁsakā bhavissanti, mayamettha avihiṁsakā bhavissāmā’ti sallekho karaṇīyo. ",
+            "en": "‘Others will be <span class=\"ebt-matched\">cruel</span>, but here we will not be <span class=\"ebt-matched\">cruel</span>.’ ",
+            "matched": true
+          },
+          "mn8:13.2": {
+            "scid": "mn8:13.2",
+            "pli": "Tasmātiha, cunda, ‘pare vihiṁsakā bhavissanti, mayamettha avihiṁsakā bhavissāmā’ti cittaṁ uppādetabbaṁ. ",
+            "en": "That’s why you should give rise to the following thoughts. ‘Others will be <span class=\"ebt-matched\">cruel</span>, but here we will not be <span class=\"ebt-matched\">cruel</span>.’ ",
+            "matched": true
+          },
+          "mn8:14.3": {
+            "scid": "mn8:14.3",
+            "pli": "evameva kho, cunda, vihiṁsakassa purisapuggalassa avihiṁsā hoti parikkamanāya, pāṇātipātissa purisapuggalassa pāṇātipātā veramaṇī hoti parikkamanāya, adinnādāyissa purisapuggalassa adinnādānā veramaṇī hoti parikkamanāya, abrahmacārissa purisapuggalassa abrahmacariyā veramaṇī hoti parikkamanāya, musāvādissa purisapuggalassa musāvādā veramaṇī hoti parikkamanāya, pisuṇavācassa purisapuggalassa pisuṇāya vācāya veramaṇī hoti parikkamanāya, pharusavācassa purisapuggalassa pharusāya vācāya veramaṇī hoti parikkamanāya, samphappalāpissa purisapuggalassa samphappalāpā veramaṇī hoti parikkamanāya, abhijjhālussa purisapuggalassa anabhijjhā hoti parikkamanāya, byāpannacittassa purisapuggalassa abyāpādo hoti parikkamanāya.  ",
+            "en": "In the same way, a <span class=\"ebt-matched\">cruel</span> individual gets around it by not being <span class=\"ebt-matched\">cruel</span>. An individual who kills gets around it by not killing. … ",
+            "matched": true
+          },
+          "mn8:15.2": {
+            "scid": "mn8:15.2",
+            "pli": "evameva kho, cunda, vihiṁsakassa purisapuggalassa avihiṁsā hoti uparibhāgāya, pāṇātipātissa purisapuggalassa pāṇātipātā veramaṇī hoti uparibhāgāya …pe… ",
+            "en": "In the same way, a <span class=\"ebt-matched\">cruel</span> individual is led upwards by not being <span class=\"ebt-matched\">cruel</span>. An individual who kills is led upwards by not killing … ",
+            "matched": true
+          },
+          "mn8:16.5": {
+            "scid": "mn8:16.5",
+            "pli": "Evameva kho, cunda, vihiṁsakassa purisapuggalassa avihiṁsā hoti parinibbānāya, pāṇātipātissa purisapuggalassa pāṇātipātā veramaṇī hoti parinibbānāya. ",
+            "en": "In the same way, a <span class=\"ebt-matched\">cruel</span> individual extinguishes it by not being <span class=\"ebt-matched\">cruel</span>. An individual who kills extinguishes it by not killing. … ",
+            "matched": true
+          }
+        },
+        "score": 5.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 8\nSelf-Effacement",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 170,
+          "en": 169
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn14/sn14.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn14/sn14.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn14.12",
+        "lang": "en",
+        "segMap": {
+          "sn14.12:1.2": {
+            "scid": "sn14.12:1.2",
+            "pli": "“Sanidānaṁ, bhikkhave, uppajjati kāmavitakko, no anidānaṁ; sanidānaṁ uppajjati byāpādavitakko, no anidānaṁ; sanidānaṁ uppajjati vihiṁsāvitakko, no anidānaṁ. ",
+            "en": "“Mendicants, sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts arise for a reason, not without reason. ",
+            "matched": true
+          },
+          "sn14.12:2.1": {
+            "scid": "sn14.12:2.1",
+            "pli": "Kathañca, bhikkhave, sanidānaṁ uppajjati kāmavitakko, no anidānaṁ; sanidānaṁ uppajjati byāpādavitakko, no anidānaṁ; sanidānaṁ uppajjati vihiṁsāvitakko, no anidānaṁ? ",
+            "en": "And how do sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts arise for a reason, not without reason? ",
+            "matched": true
+          },
+          "sn14.12:4.1": {
+            "scid": "sn14.12:4.1",
+            "pli": "Vihiṁsādhātuṁ, bhikkhave, paṭicca uppajjati vihiṁsāsaññā; vihiṁsāsaññaṁ paṭicca uppajjati vihiṁsāsaṅkappo …pe… vihiṁsāchando … vihiṁsāpariḷāho … vihiṁsāpariyesanā … ",
+            "en": "The element of <span class=\"ebt-matched\">cruel</span>ty gives rise to <span class=\"ebt-matched\">cruel</span> perceptions. <span class=\"ebt-matched\">Cruel</span> perceptions give rise to <span class=\"ebt-matched\">cruel</span> thoughts. … <span class=\"ebt-matched\">cruel</span> desires … <span class=\"ebt-matched\">cruel</span> passions … <span class=\"ebt-matched\">cruel</span> searches … ",
+            "matched": true
+          },
+          "sn14.12:4.2": {
+            "scid": "sn14.12:4.2",
+            "pli": "vihiṁsāpariyesanaṁ, bhikkhave, pariyesamāno assutavā puthujjano tīhi ṭhānehi micchā paṭipajjati—kāyena, vācāya, manasā. ",
+            "en": "An uneducated ordinary person on a <span class=\"ebt-matched\">cruel</span> search behaves badly in three ways: by body, speech, and mind. ",
+            "matched": true
+          }
+        },
+        "score": 4.103,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 14\nChapter Two\n12. With a Cause",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 39,
+          "en": 38
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.11",
+        "lang": "en",
+        "segMap": {
+          "an4.11:1.1": {
+            "scid": "an4.11:1.1",
+            "pli": "“Carato cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā. ",
+            "en": "“Mendicants, suppose a mendicant has a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought while walking. ",
+            "matched": true
+          },
+          "an4.11:2.1": {
+            "scid": "an4.11:2.1",
+            "pli": "Ṭhitassa cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā. ",
+            "en": "Suppose a mendicant has a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought while standing … ",
+            "matched": true
+          },
+          "an4.11:5.1": {
+            "scid": "an4.11:5.1",
+            "pli": "Carato cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā. ",
+            "en": "Suppose a mendicant has a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought while walking. ",
+            "matched": true
+          },
+          "an4.11:6.1": {
+            "scid": "an4.11:6.1",
+            "pli": "Ṭhitassa cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā. ",
+            "en": "Suppose a mendicant has a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought while standing … ",
+            "matched": true
+          }
+        },
+        "score": 4.095,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n2. Walking\n11. Walking",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 42,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga11/iti110_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga11/iti110_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti110",
+        "lang": "en",
+        "segMap": {
+          "iti110:2.1": {
+            "scid": "iti110:2.1",
+            "pli": "“Carato cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā.",
+            "en": "“Mendicants, suppose a mendicant has a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought while walking. ",
+            "matched": true
+          },
+          "iti110:3.1": {
+            "scid": "iti110:3.1",
+            "pli": "Ṭhitassa cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā.",
+            "en": "Suppose a mendicant has a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought while standing … ",
+            "matched": true
+          },
+          "iti110:6.1": {
+            "scid": "iti110:6.1",
+            "pli": "Carato cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā.",
+            "en": "Suppose a mendicant has a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought while walking. ",
+            "matched": true
+          },
+          "iti110:7.1": {
+            "scid": "iti110:7.1",
+            "pli": "Ṭhitassa cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā.",
+            "en": "Suppose a mendicant has a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought while standing … ",
+            "matched": true
+          }
+        },
+        "score": 4.085,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Fours\nThe Chapter on the Holy Offering of the Teaching\n110. Walking",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 47,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.216_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.216_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.216",
+        "lang": "en",
+        "segMap": {
+          "an5.216:1.3": {
+            "scid": "an5.216:1.3",
+            "pli": "Bahuno janassa appiyo hoti amanāpo, luddo ca hoti, vippaṭisārī ca, sammūḷho kālaṁ karoti, kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati. ",
+            "en": "Most people find you unlikable and unlovable. You’re <span class=\"ebt-matched\">cruel</span> and remorseful. You feel lost when you die. And when your body breaks up, after death, you’re reborn in a place of loss, a bad place, the underworld, hell. ",
+            "matched": true
+          },
+          "an5.216:2.3": {
+            "scid": "an5.216:2.3",
+            "pli": "Bahuno janassa piyo hoti manāpo, aluddo ca hoti, avippaṭisārī ca, asammūḷho kālaṁ karoti, kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati. ",
+            "en": "Most people find you likable and lovable. You’re neither <span class=\"ebt-matched\">cruel</span> nor remorseful. You don’t feel lost when you die. And when your body breaks up, after death, you’re reborn in a good place, a heavenly realm. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n22. Abuse\n216. Intolerance (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.109_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.109_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.109",
+        "lang": "en",
+        "segMap": {
+          "an6.109:1.3": {
+            "scid": "an6.109:1.3",
+            "pli": "Kāmavitakko, byāpādavitakko, vihiṁsāvitakko. ",
+            "en": "Sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts. ",
+            "matched": true
+          },
+          "an6.109:1.7": {
+            "scid": "an6.109:1.7",
+            "pli": "Kāmavitakkassa pahānāya nekkhammavitakko bhāvetabbo, byāpādavitakkassa pahānāya abyāpādavitakko bhāvetabbo, vihiṁsāvitakkassa pahānāya avihiṁsāvitakko bhāvetabbo. ",
+            "en": "You should develop thoughts of renunciation to give up sensual thoughts, thoughts of good will to give up malicious thoughts, and thoughts of harmlessness to give up <span class=\"ebt-matched\">cruel</span> thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n11. Triads\n109. Thoughts",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.110_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.110_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.110",
+        "lang": "en",
+        "segMap": {
+          "an6.110:1.3": {
+            "scid": "an6.110:1.3",
+            "pli": "Kāmasaññā, byāpādasaññā, vihiṁsāsaññā. ",
+            "en": "Sensual, malicious, and <span class=\"ebt-matched\">cruel</span> perceptions. ",
+            "matched": true
+          },
+          "an6.110:1.7": {
+            "scid": "an6.110:1.7",
+            "pli": "Kāmasaññāya pahānāya nekkhammasaññā bhāvetabbā, byāpādasaññāya pahānāya abyāpādasaññā bhāvetabbā, vihiṁsāsaññāya pahānāya avihiṁsāsaññā bhāvetabbā. ",
+            "en": "You should develop perceptions of renunciation to give up sensual perceptions, perceptions of good will to give up malicious perceptions, and perceptions of harmlessness to give up <span class=\"ebt-matched\">cruel</span> perceptions. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n11. Triads\n110. Perceptions",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.111_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.111_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.111",
+        "lang": "en",
+        "segMap": {
+          "an6.111:1.3": {
+            "scid": "an6.111:1.3",
+            "pli": "Kāmadhātu, byāpādadhātu, vihiṁsādhātu. ",
+            "en": "The elements of sensuality, malice, and <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          },
+          "an6.111:1.7": {
+            "scid": "an6.111:1.7",
+            "pli": "Kāmadhātuyā pahānāya nekkhammadhātu bhāvetabbā, byāpādadhātuyā pahānāya abyāpādadhātu bhāvetabbā, vihiṁsādhātuyā pahānāya avihiṁsādhātu bhāvetabbā. ",
+            "en": "You should develop the element of renunciation to give up the element of sensuality, the element of good will to give up the element of malice, and the element of harmlessness to give up the element of <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n11. Triads\n111. Elements",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.113_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.113_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.113",
+        "lang": "en",
+        "segMap": {
+          "an6.113:1.3": {
+            "scid": "an6.113:1.3",
+            "pli": "Arati, vihiṁsā, adhammacariyā. ",
+            "en": "Dissatisfaction, <span class=\"ebt-matched\">cruel</span>ty, and unprincipled conduct. ",
+            "matched": true
+          },
+          "an6.113:1.7": {
+            "scid": "an6.113:1.7",
+            "pli": "Aratiyā pahānāya muditā bhāvetabbā, vihiṁsāya pahānāya avihiṁsā bhāvetabbā, adhammacariyāya pahānāya dhammacariyā bhāvetabbā. ",
+            "en": "You should develop rejoicing to give up negativity, harmlessness to give up <span class=\"ebt-matched\">cruel</span>ty, and principled conduct to give up unprincipled conduct. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n11. Triads\n113. Dissatisfaction",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.77_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.77_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.77",
+        "lang": "en",
+        "segMap": {
+          "an10.77:1.3": {
+            "scid": "an10.77:1.3",
+            "pli": "Dhaṁsī ca, pagabbho ca, tintiṇo ca, mahagghaso ca, luddo ca, akāruṇiko ca, dubbalo ca, oravitā ca, muṭṭhassati ca, necayiko ca—",
+            "en": "They’re rude and impudent, gluttonous and voracious, <span class=\"ebt-matched\">cruel</span> and pitiless, weak and raucous, unmindful and acquisitive. ",
+            "matched": true
+          },
+          "an10.77:1.7": {
+            "scid": "an10.77:1.7",
+            "pli": "Dhaṁsī ca, pagabbho ca, tintiṇo ca, mahagghaso ca, luddo ca, akāruṇiko ca, dubbalo ca, oravitā ca, muṭṭhassati ca, necayiko ca—",
+            "en": "They’re rude and impudent, gluttonous and voracious, <span class=\"ebt-matched\">cruel</span> and pitiless, weak and raucous, unmindful and acquisitive. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n8. If You Want\n77. A Crow",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.74_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.74_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.74",
+        "lang": "en",
+        "segMap": {
+          "an6.74:1.3": {
+            "scid": "an6.74:1.3",
+            "pli": "Kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ, kāmasaññaṁ, byāpādasaññaṁ, vihiṁsāsaññaṁ—",
+            "en": "Sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts; and sensual, malicious, and <span class=\"ebt-matched\">cruel</span> perceptions. ",
+            "matched": true
+          },
+          "an6.74:2.3": {
+            "scid": "an6.74:2.3",
+            "pli": "Kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ, kāmasaññaṁ, byāpādasaññaṁ, vihiṁsāsaññaṁ—",
+            "en": "Sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts; and sensual, malicious, and <span class=\"ebt-matched\">cruel</span> perceptions. ",
+            "matched": true
+          }
+        },
+        "score": 2.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n7. A God\n74. First Absorption (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 18,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.138_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.138_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.138",
+        "lang": "en",
+        "segMap": {
+          "an4.138:2.3": {
+            "scid": "an4.138:2.3",
+            "pli": "So tattha kāmavitakkampi vitakketi byāpādavitakkampi vitakketi vihiṁsāvitakkampi vitakketi. ",
+            "en": "But they think sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts. ",
+            "matched": true
+          },
+          "an4.138:4.3": {
+            "scid": "an4.138:4.3",
+            "pli": "So tattha kāmavitakkampi vitakketi byāpādavitakkampi vitakketi vihiṁsāvitakkampi vitakketi. ",
+            "en": "And they think sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 2.074,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n14. Persons\n138. Retreat",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.124_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.124_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.124",
+        "lang": "en",
+        "segMap": {
+          "an3.124:1.8": {
+            "scid": "an3.124:1.8",
+            "pli": "Kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ—",
+            "en": "Sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts. … ",
+            "matched": true
+          },
+          "an3.124:2.5": {
+            "scid": "an3.124:2.5",
+            "pli": "Kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ—",
+            "en": "Sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 2.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n13. Kusināra\n124. Arguments",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn124_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn124_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn124",
+        "lang": "en",
+        "segMap": {
+          "mn124:4-5.2": {
+            "scid": "mn124:4-5.2",
+            "pli": "vihiṁsāsaññaṁ uppannapubbaṁ”. ",
+            "en": "or <span class=\"ebt-matched\">cruel</span>ty has ever arisen in me.” ",
+            "matched": true
+          },
+          "mn124:7-8.2": {
+            "scid": "mn124:7-8.2",
+            "pli": "vihiṁsāvitakkaṁ uppannapubbaṁ”. ",
+            "en": "or <span class=\"ebt-matched\">cruel</span>ty has ever arisen in me.” ",
+            "matched": true
+          }
+        },
+        "score": 2.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 124\nWith Bakkula",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 71,
+          "en": 70
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.3",
+        "lang": "en",
+        "segMap": {
+          "an9.3:7.3": {
+            "scid": "an9.3:7.3",
+            "pli": "kāmavitakko, byāpādavitakko, vihiṁsāvitakko. ",
+            "en": "sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts. ",
+            "matched": true
+          },
+          "an9.3:7.8": {
+            "scid": "an9.3:7.8",
+            "pli": "kāmavitakkena, byāpādavitakkena, vihiṁsāvitakkenā”ti. ",
+            "en": "sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts.” ",
+            "matched": true
+          }
+        },
+        "score": 2.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n1. Awakening\n3. With Meghiya",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 74,
+          "en": 73
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga4/ud4.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga4/ud4.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud4.1",
+        "lang": "en",
+        "segMap": {
+          "ud4.1:8.3": {
+            "scid": "ud4.1:8.3",
+            "pli": "kāmavitakko, byāpādavitakko, vihiṁsāvitakko.",
+            "en": "sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts. ",
+            "matched": true
+          },
+          "ud4.1:9.5": {
+            "scid": "ud4.1:9.5",
+            "pli": "kāmavitakkena, byāpādavitakkena, vihiṁsāvitakkena”.",
+            "en": "sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts.” ",
+            "matched": true
+          }
+        },
+        "score": 2.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n4.1. With Meghiya",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 91,
+          "en": 68
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.17_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.17_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.17",
+        "lang": "en",
+        "segMap": {
+          "an11.17:5.2": {
+            "scid": "an11.17:5.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ adhivāseti nappajahati na vinodeti na byantīkaroti na anabhāvaṁ gameti, uppannaṁ byāpādavitakkaṁ … uppannaṁ vihiṁsāvitakkaṁ … ",
+            "en": "It’s when a mendicant tolerates a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought that has arisen. They don’t give it up, get rid of it, eliminate it, and obliterate it. ",
+            "matched": true
+          },
+          "an11.17:19.2": {
+            "scid": "an11.17:19.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṁ gameti, uppannaṁ byāpādavitakkaṁ … uppannaṁ vihiṁsāvitakkaṁ … uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṁ gameti. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought that has arisen, but gives it up, gets rid of it, eliminates it, and exterminates it. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 2.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n2. Recollection\n17. The Cowherd",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 106,
+          "en": 105
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn33",
+        "lang": "en",
+        "segMap": {
+          "mn33:6.2": {
+            "scid": "mn33:6.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ adhivāseti, nappajahati na vinodeti na byantī karoti na anabhāvaṁ gameti. Uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ …pe… uppannuppanne pāpake akusale dhamme adhivāseti, nappajahati na vinodeti na byantī karoti na anabhāvaṁ gameti. ",
+            "en": "It’s when a mendicant tolerates a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought that has arisen. They tolerate any bad, unskillful qualities that have arisen. They don’t give them up, get rid of them, eliminate them, and obliterate them. ",
+            "matched": true
+          },
+          "mn33:19.2": {
+            "scid": "mn33:19.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti, pajahati vinodeti byantī karoti anabhāvaṁ gameti. Uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ …pe… uppannuppanne pāpake akusale dhamme nādhivāseti, pajahati vinodeti byantī karoti anabhāvaṁ gameti. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought that has arisen. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 2.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 33\nThe Longer Discourse on the Cowherd",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 118,
+          "en": 117
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn78_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn78_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn78",
+        "lang": "en",
+        "segMap": {
+          "mn78:12.2": {
+            "scid": "mn78:12.2",
+            "pli": "Kāmasaṅkappo, byāpādasaṅkappo, vihiṁsāsaṅkappo—",
+            "en": "Thoughts of sensuality, of malice, and of <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          },
+          "mn78:12.9": {
+            "scid": "mn78:12.9",
+            "pli": "Kāmasaññā, byāpādasaññā, vihiṁsāsaññā—",
+            "en": "Perceptions of sensuality, malice, and <span class=\"ebt-matched\">cruel</span>ty—",
+            "matched": true
+          }
+        },
+        "score": 2.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 78\nWith Uggāhamāna Samaṇamuṇḍika",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 162,
+          "en": 161
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.262_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.262_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.262",
+        "lang": "en",
+        "segMap": {
+          "an4.262:1.3": {
+            "scid": "an4.262:1.3",
+            "pli": "Kāmavitakkena, byāpādavitakkena, vihiṁsāvitakkena, duppañño hoti jaḷo elamūgo—",
+            "en": "They have sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts; or they’re witless, dull, and stupid. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n26. Insight\n262. Wilderness",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.75_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.75_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.75",
+        "lang": "en",
+        "segMap": {
+          "an6.75:1.3": {
+            "scid": "an6.75:1.3",
+            "pli": "Kāmavitakkena, byāpādavitakkena, vihiṁsāvitakkena, kāmasaññāya, byāpādasaññāya, vihiṁsāsaññāya—",
+            "en": "Sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts; and sensual, malicious, and <span class=\"ebt-matched\">cruel</span> perceptions. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n8. Perfection\n75. Suffering",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.7",
+        "lang": "en",
+        "segMap": {
+          "sn56.7:1.2": {
+            "scid": "sn56.7:1.2",
+            "pli": "kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ. ",
+            "en": "sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n1. Immersion\n7. Thoughts",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn9/sn9.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn9/sn9.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn9.11",
+        "lang": "en",
+        "segMap": {
+          "sn9.11:1.3": {
+            "scid": "sn9.11:1.3",
+            "pli": "kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ. ",
+            "en": "sensual, malicious, and <span class=\"ebt-matched\">cruel</span> thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 9\n1. In the Woods\n11. Unskillful Thoughts",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.51_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.51_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.51",
+        "lang": "en",
+        "segMap": {
+          "an4.51:7.4": {
+            "scid": "an4.51:7.4",
+            "pli": "Puthū savantī upayanti sāgaraṁ. ",
+            "en": "the <span class=\"ebt-matched\">cruel</span> sea that’s home to precious gems. ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n6. Overflowing Merit\n51. Overflowing Merit",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.165_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.165_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.165",
+        "lang": "en",
+        "segMap": {
+          "an4.165:5.2": {
+            "scid": "an4.165:5.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti pajahati vinodeti sameti byantīkaroti anabhāvaṁ gameti, uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ … uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti sameti byantīkaroti anabhāvaṁ gameti. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, calm them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 1.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n17. Practice\n165. Patience (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 26,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.164_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.164_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.164",
+        "lang": "en",
+        "segMap": {
+          "an4.164:4.2": {
+            "scid": "an4.164:4.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti pajahati vinodeti sameti byantīkaroti anabhāvaṁ gameti; uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ … uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti sameti byantīkaroti anabhāvaṁ gameti. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, calm them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n17. Practice\n164. Patient (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.45_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.45_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.45",
+        "lang": "en",
+        "segMap": {
+          "an5.45:7.4": {
+            "scid": "an5.45:7.4",
+            "pli": "Puthū savantī upayanti sāgaraṁ. ",
+            "en": "the <span class=\"ebt-matched\">cruel</span> sea that’s home to precious gems. ",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n5. With King Muṇḍa\n45. Overflowing Merit",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga9/iti87_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga9/iti87_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti87",
+        "lang": "en",
+        "segMap": {
+          "iti87:2.5": {
+            "scid": "iti87:2.5",
+            "pli": "Vihiṁsāvitakko, bhikkhave, andhakaraṇo acakkhukaraṇo aññāṇakaraṇo paññānirodhiko vighātapakkhiko anibbānasaṁvattaniko.",
+            "en": "and <span class=\"ebt-matched\">cruel</span>ty.",
+            "matched": true
+          }
+        },
+        "score": 1.037,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Threes\nChapter Four\n87. Destroyers of Sight",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 27,
+          "en": 26
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.213_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.213_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.213",
+        "lang": "en",
+        "segMap": {
+          "an10.213:1.11": {
+            "scid": "an10.213:1.11",
+            "pli": "byāpannacitto hoti … ",
+            "en": "She has <span class=\"ebt-matched\">cruel</span> intentions. … ",
+            "matched": true
+          }
+        },
+        "score": 1.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n21. The Body Born of Deeds\n213. A Female",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 30,
+          "en": 29
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.211_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.211_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.211",
+        "lang": "en",
+        "segMap": {
+          "an10.211:6.1": {
+            "scid": "an10.211:6.1",
+            "pli": "Pharusavāco hoti, yā sā vācā aṇḍakā kakkasā parakaṭukā parābhisajjanī kodhasāmantā asamādhisaṁvattanikā, tathārūpiṁ vācaṁ bhāsitā hoti. ",
+            "en": "They speak harshly. They use the kinds of words that are <span class=\"ebt-matched\">cruel</span>, nasty, hurtful, offensive, bordering on anger, not leading to immersion. ",
+            "matched": true
+          }
+        },
+        "score": 1.031,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n21. The Body Born of Deeds\n211. Heaven and Hell (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 32,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.212_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.212_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.212",
+        "lang": "en",
+        "segMap": {
+          "an10.212:2.8": {
+            "scid": "an10.212:2.8",
+            "pli": "byāpannacitto hoti … ",
+            "en": "They have <span class=\"ebt-matched\">cruel</span> intentions. … ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n21. The Body Born of Deeds\n212. Heaven and Hell (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn55/sn55.41_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn55/sn55.41_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn55.41",
+        "lang": "en",
+        "segMap": {
+          "sn55.41:7.4": {
+            "scid": "sn55.41:7.4",
+            "pli": "Puthū savantī upayanti sāgaraṁ. ",
+            "en": "the <span class=\"ebt-matched\">cruel</span> sea that’s home to precious gems. ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 55\n5. Overflowing Merit, With Verses\n41. Overflowing Merit (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn55/sn55.42_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn55/sn55.42_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn55.42",
+        "lang": "en",
+        "segMap": {
+          "sn55.42:6.4": {
+            "scid": "sn55.42:6.4",
+            "pli": "Puthū savantī upayanti sāgaraṁ. ",
+            "en": "the <span class=\"ebt-matched\">cruel</span> sea that’s home to precious gems. ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 55\n5. Overflowing Merit, With Verses\n42. Overflowing Merit (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 34,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.123_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.123_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.123",
+        "lang": "en",
+        "segMap": {
+          "an3.123:3.6": {
+            "scid": "an3.123:3.6",
+            "pli": "So tattha kāmavitakkampi vitakketi, byāpādavitakkampi vitakketi, vihiṁsāvitakkampi vitakketi. ",
+            "en": "They think about it with sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thoughts. ",
+            "matched": true
+          }
+        },
+        "score": 1.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n13. Kusināra\n123. At Kusināra",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.114_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.114_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.114",
+        "lang": "en",
+        "segMap": {
+          "an4.114:8.2": {
+            "scid": "an4.114:8.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti pajahati vinodeti hanati byantīkaroti anabhāvaṁ gameti, uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ …pe… uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti hanati byantīkaroti anabhāvaṁ gameti. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 1.025,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n12. With Kesi\n114. A Royal Elephant",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 40,
+          "en": 39
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.14_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.14_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.14",
+        "lang": "en",
+        "segMap": {
+          "an4.14:2.4": {
+            "scid": "an4.14:2.4",
+            "pli": "uppannaṁ vihiṁsāvitakkaṁ …pe… ",
+            "en": "or <span class=\"ebt-matched\">cruel</span> thought that’s arisen, but gives it up, gets rid of it, eliminates it, and obliterates it. ",
+            "matched": true
+          }
+        },
+        "score": 1.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n2. Walking\n14. Restraint",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 42,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.101",
+        "lang": "en",
+        "segMap": {
+          "an3.101:2.2": {
+            "scid": "an3.101:2.2",
+            "pli": "Tasmiṁ pahīne tasmiṁ byantīkate santi adhicittamanuyuttassa bhikkhuno majjhimasahagatā upakkilesā kāmavitakko byāpādavitakko vihiṁsāvitakko, tamenaṁ sacetaso bhikkhu dabbajātiko pajahati vinodeti byantīkaroti anabhāvaṁ gameti. ",
+            "en": "When they’ve been given up and eliminated, there are middling corruptions: sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thoughts. A sincere, capable mendicant gives these up, gets rid of, eliminates, and obliterates them. ",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n101. A Panner",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 52,
+          "en": 51
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.20_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.20",
+        "lang": "en",
+        "segMap": {
+          "an10.20:9.2": {
+            "scid": "an10.20:9.2",
+            "pli": "Idha, bhikkhave, bhikkhuno kāmasaṅkappo pahīno hoti, byāpādasaṅkappo pahīno hoti, vihiṁsāsaṅkappo pahīno hoti. ",
+            "en": "It’s when a mendicant has given up intentions of sensuality, malice, and <span class=\"ebt-matched\">cruel</span>ty. ",
+            "matched": true
+          }
+        },
+        "score": 1.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n2. A Protector\n20. Abodes of the Noble Ones (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 56,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.140_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.140_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.140",
+        "lang": "en",
+        "segMap": {
+          "an5.140:10.2": {
+            "scid": "an5.140:10.2",
+            "pli": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti, pajahati vinodeti hanati byantīkaroti anabhāvaṁ gameti; uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ …pe… uppannuppanne pāpake akusale dhamme nādhivāseti, pajahati vinodeti hanati byantīkaroti anabhāvaṁ gameti. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, calm them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n14. Kings\n140. A Listener",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 59,
+          "en": 57
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.58",
+        "lang": "en",
+        "segMap": {
+          "an6.58:7.4": {
+            "scid": "an6.58:7.4",
+            "pli": "uppannaṁ vihiṁsāvitakkaṁ …  ",
+            "en": "or <span class=\"ebt-matched\">cruel</span> thought that has arisen.  ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n6. The Great Chapter\n58. Defilements",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 59,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.217_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.217_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.217",
+        "lang": "en",
+        "segMap": {
+          "an10.217:9.1": {
+            "scid": "an10.217:9.1",
+            "pli": "Pharusavāco hoti, yā sā vācā aṇḍakā kakkasā parakaṭukā parābhisajjanī kodhasāmantā. Asamādhisaṁvattanikā, tathārūpiṁ vācaṁ bhāsitā hoti. ",
+            "en": "They speak harshly. They use the kinds of words that are <span class=\"ebt-matched\">cruel</span>, nasty, hurtful, offensive, bordering on anger, not leading to immersion. ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n21. The Body Born of Deeds\n217. Intentional (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 60,
+          "en": 59
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.57_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.57_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.57",
+        "lang": "en",
+        "segMap": {
+          "an6.57:2.1": {
+            "scid": "an6.57:2.1",
+            "pli": "Tatridaṁ, bhante, pūraṇena kassapena kaṇhābhijāti paññattā, orabbhikā sūkarikā sākuṇikā māgavikā luddā macchaghātakā corā coraghātakā bandhanāgārikā ye vā panaññepi keci kurūrakammantā. ",
+            "en": "The black class of rebirth consists of slaughterers of sheep, pigs, poultry, or deer, hunters or fishers, bandits, executioners, butchers of cattle, jailers, and any others with a <span class=\"ebt-matched\">cruel</span> livelihood. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n6. The Great Chapter\n57. The Six Classes of Rebirth",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 67,
+          "en": 66
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.40_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.40_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.40",
+        "lang": "en",
+        "segMap": {
+          "an3.40:2.7": {
+            "scid": "an3.40:2.7",
+            "pli": "Ahañceva kho pana evaṁ pabbajito samāno kāmavitakkaṁ vā vitakkeyyaṁ, byāpādavitakkaṁ vā vitakkeyyaṁ, vihiṁsāvitakkaṁ vā vitakkeyyaṁ, mahā kho panāyaṁ lokasannivāso. ",
+            "en": "And now, since I’ve now gone forth, I might have sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thoughts. But the population of the world is large, ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n4. Messengers from the Gods\n40. In Charge",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 75,
+          "en": 73
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.216_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.216_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.216",
+        "lang": "en",
+        "segMap": {
+          "an10.216:5.8": {
+            "scid": "an10.216:5.8",
+            "pli": "byāpannacitto hoti … ",
+            "en": "has <span class=\"ebt-matched\">cruel</span> intentions … ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n21. The Body Born of Deeds\n216. Creepy Creatures",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 76,
+          "en": 75
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.60_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.60_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.60",
+        "lang": "en",
+        "segMap": {
+          "an10.60:8.2": {
+            "scid": "an10.60:8.2",
+            "pli": "Idhānanda, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti. Uppannaṁ byāpādavitakkaṁ nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti. Uppannaṁ vihiṁsāvitakkaṁ nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti. Uppannuppanne pāpake akusale dhamme nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti. ",
+            "en": "It’s when a mendicant doesn’t tolerate a sensual, malicious, or <span class=\"ebt-matched\">cruel</span> thought that has arisen, and they don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, eliminate them, and obliterate them. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n6. Your Own Mind\n60. With Girimānanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 80,
+          "en": 78
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn55_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn55_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn55",
+        "lang": "en",
+        "segMap": {
+          "mn55:11.6": {
+            "scid": "mn55:11.6",
+            "pli": "“Yena kho, jīvaka, rāgena yena dosena yena mohena vihesavā assa arativā assa paṭighavā assa so rāgo so doso so moho tathāgatassa pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo. ",
+            "en": "“Any greed, hate, or delusion that might give rise to <span class=\"ebt-matched\">cruel</span>ty, negativity, or repulsion has been given up by the Realized One, cut off at the root, made like a palm stump, obliterated, and is unable to arise in the future. ",
+            "matched": true
+          }
+        },
+        "score": 1.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 55\nWith Jīvaka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 80,
+          "en": 79
+        }
+      }
+    ]
+  }
+}

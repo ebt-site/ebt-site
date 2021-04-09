@@ -1,0 +1,93 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "wesentliche bedingungen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "wesentliche bedingungen",
+    "method": "phrase",
+    "resultPattern": "\\bwesentliche bedingungen",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn12/sn12.23_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.23_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.23_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn12.23/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.23_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.23_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.23",
+        "lang": "de",
+        "segMap": {
+          "sn12.23:0.3": {
+            "scid": "sn12.23:0.3",
+            "pli": "23. Upanisasutta ",
+            "de": "23. <span class=\"ebt-matched\">Wesentliche Bedingungen</span> ",
+            "en": "23. Vital Conditions ",
+            "matched": true
+          },
+          "sn12.23:6.4": {
+            "scid": "sn12.23:6.4",
+            "pli": "nāmarūpūpanisaṁ saḷāyatanaṁ, ",
+            "de": "Name und Form sind <span class=\"ebt-matched\">wesentliche Bedingungen</span> für die sechs Sinnesfelder. ",
+            "en": "Name and form are vital conditions for the six sense fields. ",
+            "matched": true
+          },
+          "sn12.23:6.5": {
+            "scid": "sn12.23:6.5",
+            "pli": "saḷāyatanūpaniso phasso, ",
+            "de": "Die sechs Sinnesfelder sind <span class=\"ebt-matched\">wesentliche Bedingungen</span> für Berührung. ",
+            "en": "The six sense fields are vital conditions for contact. ",
+            "matched": true
+          }
+        },
+        "score": 3.032,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n3. Die zehn Kräfte\n23. Wesentliche Bedingungen",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 93,
+          "de": 92,
+          "en": 92
+        }
+      }
+    ]
+  }
+}

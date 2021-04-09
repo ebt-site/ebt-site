@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "an beiden enden",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "an beiden enden",
+    "method": "phrase",
+    "resultPattern": "\\ban beiden enden",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.95_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.95_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.95_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.95/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.95_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.95_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.95_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.95",
+        "lang": "de",
+        "segMap": {
+          "an4.95:2.1": {
+            "scid": "an4.95:2.1",
+            "pli": "Seyyathāpi, bhikkhave, chavālātaṁ ubhato padittaṁ, majjhe gūthagataṁ, neva gāme kaṭṭhatthaṁ pharati na araññe (…); ",
+            "de": "Wie eine Fackel zum Anzünden eines Scheiterhaufens für eine Bestattung, die <span class=\"ebt-matched\">an beiden Enden</span> brennt und in der Mitte mit Mist bestrichen ist: Weder im Dorf noch in der Wildnis könnte sie als Holz verwendet werden. ",
+            "en": "Suppose there was a firebrand for lighting a funeral pyre, burning at both ends, and smeared with dung in the middle. It couldn’t be used as timber either in the village or the wilderness. ",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n10. Dämonen\n95. Die Fackel",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "de": 17,
+          "en": 17
+        }
+      }
+    ]
+  }
+}

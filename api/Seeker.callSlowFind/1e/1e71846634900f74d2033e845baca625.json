@@ -1,0 +1,122 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "gehört, dass jemand eine solche",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "gehört, dass jemand eine solche",
+    "method": "phrase",
+    "resultPattern": "\\bgehört, dass jemand eine solche",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.38_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.38_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.38_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.38/de/sabbamitta",
+      "dn23/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.38_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.38_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.38_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.38",
+        "lang": "de",
+        "segMap": {
+          "an6.38:1.5": {
+            "scid": "an6.38:1.5",
+            "pli": "“Māhaṁ, brāhmaṇa, evaṁvādiṁ evaṁdiṭṭhiṁ addasaṁ vā assosiṁ vā. ",
+            "de": "„Nun, Brahmane, ich habe nie gesehen oder <span class=\"ebt-matched\">gehört, dass jemand eine solche</span> Lehre oder Ansicht vertrat. ",
+            "en": "“Well, brahmin, I’ve never seen or heard of anyone holding such a doctrine or view. ",
+            "matched": true
+          },
+          "an6.38:4.1": {
+            "scid": "an6.38:4.1",
+            "pli": "Māhaṁ, brāhmaṇa, evaṁvādiṁ evaṁdiṭṭhiṁ addasaṁ vā assosiṁ vā. ",
+            "de": "Nun, Brahmane, ich habe nie gesehen oder <span class=\"ebt-matched\">gehört, dass jemand eine solche</span> Lehre oder Ansicht vertrat. ",
+            "en": "Well, brahmin, I’ve never seen or heard of anyone holding such a doctrine or view. ",
+            "matched": true
+          }
+        },
+        "score": 2.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n4. Gottheiten\n38. Der eigene Wille",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 30,
+          "de": 29,
+          "en": 29
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn23_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "de",
+        "segMap": {
+          "dn23:5.4": {
+            "scid": "dn23:5.4",
+            "pli": "“Nāhaṁ, rājañña, evaṁvādiṁ evaṁdiṭṭhiṁ addasaṁ vā assosiṁ vā. ",
+            "de": "„Nun, Stammesfürst, ich habe nie gesehen oder <span class=\"ebt-matched\">gehört, dass jemand eine solche</span> Lehre oder Ansicht vertrat. ",
+            "en": "“Well, chieftain, I’ve never seen or heard of anyone holding such a doctrine or view. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 23\nMit Pāyāsi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 715,
+          "de": 636,
+          "en": 713
+        }
+      }
+    ]
+  }
+}

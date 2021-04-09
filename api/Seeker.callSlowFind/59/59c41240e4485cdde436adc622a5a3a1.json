@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "時が来ます",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "時が来ます",
+    "method": "phrase",
+    "resultPattern": "時が来ます",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an3/an3.101_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an3.101/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.101_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.101_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an3/an3.101_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.101",
+        "lang": "jpn",
+        "segMap": {
+          "an3.101:2.6": {
+            "scid": "an3.101:2.6",
+            "pli": "Hoti so, bhikkhave, samayo yaṁ taṁ cittaṁ ajjhattaṁyeva santiṭṭhati sannisīdati ekodi hoti samādhiyati. ",
+            "en": "But there comes a time when that mind is stilled internally; it settles, unifies, and becomes immersed in samādhi. ",
+            "jpn": "しかし、心が内側でじっとして、落ち着き、一つになり、深い瞑想に入る<span class=\"ebt-matched\">時が来ます</span>。",
+            "matched": true
+          }
+        },
+        "score": 1.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 三集\n第十　ひとかたまりの塩（一掬塩品）\n101. 選鉱者",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 52,
+          "en": 51,
+          "jpn": 50
+        }
+      }
+    ]
+  }
+}

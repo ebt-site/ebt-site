@@ -1,0 +1,350 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "die besinnung auf",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "die besinnung auf",
+    "method": "phrase",
+    "resultPattern": "\\bdie besinnung auf",
+    "segsMatched": 19,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.394-574_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.10_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.10_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.10_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.296-305_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.296-305_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.296-305_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.9_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.9_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.9_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an1.394-574/de/sabbamitta",
+      "an6.10/de/sabbamitta",
+      "an1.296-305/de/sabbamitta",
+      "dn34/de/sabbamitta",
+      "dn33/de/sabbamitta",
+      "an6.9/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an1/an1.394-574_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.394-574",
+        "lang": "de",
+        "segMap": {
+          "an1.485:1.1": {
+            "scid": "an1.485:1.1",
+            "pli": "Buddhānussatiṁ bhāveti … ",
+            "de": "Ein Mönch entwickelt <span class=\"ebt-matched\">die Besinnung auf</span> den Buddha … ",
+            "en": "They develop the recollection of the Buddha … ",
+            "matched": true
+          },
+          "an1.486:1.1": {
+            "scid": "an1.486:1.1",
+            "pli": "dhammānussatiṁ bhāveti … ",
+            "de": "<span class=\"ebt-matched\">die Besinnung auf</span> die Lehre … ",
+            "en": "the recollection of the teaching … ",
+            "matched": true
+          },
+          "an1.487:1.1": {
+            "scid": "an1.487:1.1",
+            "pli": "saṅghānussatiṁ bhāveti … ",
+            "de": "<span class=\"ebt-matched\">die Besinnung auf</span> den Saṅgha … ",
+            "en": "the recollection of the Saṅgha … ",
+            "matched": true
+          },
+          "an1.488:1.1": {
+            "scid": "an1.488:1.1",
+            "pli": "sīlānussatiṁ bhāveti … ",
+            "de": "<span class=\"ebt-matched\">die Besinnung auf</span> sittliches Verhalten … ",
+            "en": "the recollection of ethical conduct … ",
+            "matched": true
+          },
+          "an1.489:1.1": {
+            "scid": "an1.489:1.1",
+            "pli": "cāgānussatiṁ bhāveti … ",
+            "de": "<span class=\"ebt-matched\">die Besinnung auf</span> Großzügigkeit … ",
+            "en": "the recollection of generosity … ",
+            "matched": true
+          },
+          "an1.490:1.1": {
+            "scid": "an1.490:1.1",
+            "pli": "devatānussatiṁ bhāveti … ",
+            "de": "<span class=\"ebt-matched\">die Besinnung auf</span> die Gottheiten … ",
+            "en": "the recollection of the deities … ",
+            "matched": true
+          },
+          "an1.492:1.1": {
+            "scid": "an1.492:1.1",
+            "pli": "maraṇassatiṁ bhāveti … ",
+            "de": "<span class=\"ebt-matched\">die Besinnung auf</span> den Tod … ",
+            "en": "the recollection of death … ",
+            "matched": true
+          },
+          "an1.494:1.1": {
+            "scid": "an1.494:1.1",
+            "pli": "upasamānussatiṁ bhāveti …. ",
+            "de": "<span class=\"ebt-matched\">die Besinnung auf</span> Frieden … ",
+            "en": "the recollection of peace … ",
+            "matched": true
+          }
+        },
+        "score": 8.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 1\n29. Noch ein Kapitel über ein Fingerschnippen\n394–574",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 176,
+          "de": 175,
+          "en": 175
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.10_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.10_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.10",
+        "lang": "de",
+        "segMap": {
+          "an6.10:2.9": {
+            "scid": "an6.10:2.9",
+            "pli": "‘ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotaṁ samāpanno buddhānussatiṁ bhāveti’. ",
+            "de": "einen edlen Schüler, der unter den Unausgeglichenen ausgeglichen lebt, unter denen, die in Not sind, lebt er frei von Nöten. Er ist in die Strömung der Lehre eingetaucht und entfaltet <span class=\"ebt-matched\">die Besinnung auf</span> den Buddha. ",
+            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop the recollection of the Buddha. ",
+            "matched": true
+          },
+          "an6.10:3.8": {
+            "scid": "an6.10:3.8",
+            "pli": "‘ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotaṁ samāpanno dhammānussatiṁ bhāveti’. ",
+            "de": "eine edle Schülerin, die unter den Unausgeglichenen ausgeglichen lebt, unter denen, die in Not sind, lebt sie frei von Nöten. Sie ist in die Strömung der Lehre eingetaucht und entfaltet <span class=\"ebt-matched\">die Besinnung auf</span> die Lehre. ",
+            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop the recollection of the teaching. ",
+            "matched": true
+          },
+          "an6.10:4.8": {
+            "scid": "an6.10:4.8",
+            "pli": "‘ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotaṁ samāpanno saṅghānussatiṁ bhāveti’. ",
+            "de": "einen edlen Schüler, der unter den Unausgeglichenen ausgeglichen lebt, unter denen, die in Not sind, lebt er frei von Nöten. Er ist in die Strömung der Lehre eingetaucht und entfaltet <span class=\"ebt-matched\">die Besinnung auf</span> den Saṅgha. ",
+            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop the recollection of the Saṅgha. ",
+            "matched": true
+          },
+          "an6.10:5.7": {
+            "scid": "an6.10:5.7",
+            "pli": "‘ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotaṁ samāpanno sīlānussatiṁ bhāveti’. ",
+            "de": "eine edle Schülerin, die unter den Unausgeglichenen ausgeglichen lebt, unter denen, die in Not sind, lebt sie frei von Nöten. Sie ist in die Strömung der Lehre eingetaucht und entfaltet <span class=\"ebt-matched\">die Besinnung auf</span> das sittliche Verhalten. ",
+            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop the recollection of ethics. ",
+            "matched": true
+          },
+          "an6.10:6.9": {
+            "scid": "an6.10:6.9",
+            "pli": "‘ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotaṁ samāpanno cāgānussatiṁ bhāveti’. ",
+            "de": "einen edlen Schüler, der unter den Unausgeglichenen ausgeglichen lebt, unter denen, die in Not sind, lebt sie frei von Nöten. Er ist in die Strömung der Lehre eingetaucht und entfaltet <span class=\"ebt-matched\">die Besinnung auf</span> die Großzügigkeit. ",
+            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop the recollection of generosity. ",
+            "matched": true
+          },
+          "an6.10:7.13": {
+            "scid": "an6.10:7.13",
+            "pli": "‘ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotaṁ samāpanno devatānussatiṁ bhāveti’. ",
+            "de": "eine edle Schülerin, die unter den Unausgeglichenen ausgeglichen lebt, unter denen, die in Not sind, lebt sie frei von Nöten. Sie ist in die Strömung der Lehre eingetaucht und entfaltet <span class=\"ebt-matched\">die Besinnung auf</span> die Gottheiten. ",
+            "en": "a noble disciple who lives in balance among people who are unbalanced, and lives untroubled among people who are troubled. They’ve entered the stream of the teaching and develop the recollection of the deities. ",
+            "matched": true
+          }
+        },
+        "score": 6.088,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n1. Einer Gabe würdig\n10. Mit Mahānāma",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 68,
+          "de": 57,
+          "en": 66
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.296-305_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an1/an1.296-305_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an1/an1.296-305_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.296-305",
+        "lang": "de",
+        "segMap": {
+          "an1.296:1.3": {
+            "scid": "an1.296:1.3",
+            "pli": "Buddhānussati. ",
+            "de": "<span class=\"ebt-matched\">Die Besinnung auf</span> den Buddha. ",
+            "en": "Recollection of the Buddha. ",
+            "matched": true
+          },
+          "an1.297-305:1.3": {
+            "scid": "an1.297-305:1.3",
+            "pli": "Dhammānussati …pe… saṅghānussati … sīlānussati … cāgānussati … devatānussati … ānāpānassati … maraṇassati … kāyagatāsati … upasamānussati. ",
+            "de": "<span class=\"ebt-matched\">Die Besinnung auf</span> die Lehre … <span class=\"ebt-matched\">die Besinnung auf</span> den Saṅgha … <span class=\"ebt-matched\">die Besinnung auf</span> sittliches Verhalten … <span class=\"ebt-matched\">die Besinnung auf</span> Großzügigkeit … <span class=\"ebt-matched\">die Besinnung auf</span> die Gottheiten … Achtsamkeit auf den Atem … Achtsamkeit auf den Tod … Achtsamkeit auf den Körper … <span class=\"ebt-matched\">die Besinnung auf</span> Frieden. ",
+            "en": "Recollection of the teaching … Recollection of the Saṅgha … Recollection of ethical conduct … Recollection of generosity … Recollection of the deities … Mindfulness of breathing … Mindfulness of death … Mindfulness of the body … Recollection of peace. ",
+            "matched": true
+          }
+        },
+        "score": 2.143,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 1\n24. Erstes\n296–305",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 14,
+          "de": 13,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.9_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.9_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.9",
+        "lang": "de",
+        "segMap": {
+          "an6.9:1.3": {
+            "scid": "an6.9:1.3",
+            "pli": "Buddhānussati, dhammānussati, saṅghānussati, sīlānussati, cāgānussati, devatānussati. ",
+            "de": "<span class=\"ebt-matched\">Die Besinnung auf</span> den Buddha, auf die Lehre, auf den Saṅgha, auf sittliches Verhalten, auf Großzügigkeit und auf die Gottheiten. ",
+            "en": "The recollection of the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n1. Einer Gabe würdig\n9. Gegenstände zur Besinnung",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:2.2.115": {
+            "scid": "dn33:2.2.115",
+            "pli": "buddhānussati, dhammānussati, saṅghānussati, sīlānussati, cāgānussati, devatānussati. ",
+            "de": "<span class=\"ebt-matched\">die Besinnung auf</span> den Buddha, auf die Lehre, auf den Saṅgha, auf sittliches Verhalten, auf Großzügigkeit und auf die Gottheiten. ",
+            "en": "the recollection of the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.7.15": {
+            "scid": "dn34:1.7.15",
+            "pli": "buddhānussati, dhammānussati, saṅghānussati, sīlānussati, cāgānussati, devatānussati. ",
+            "de": "<span class=\"ebt-matched\">Die Besinnung auf</span> den Buddha, auf die Lehre, auf den Saṅgha, auf sittliches Verhalten, auf Großzügigkeit und auf die Gottheiten. ",
+            "en": "the recollection of the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

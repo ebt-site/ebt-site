@@ -1,0 +1,163 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "schwer zu erfassen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "schwer zu erfassen",
+    "method": "phrase",
+    "resultPattern": "\\bschwer zu erfassen",
+    "segsMatched": 13,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.2.1": {
+            "scid": "dn34:1.2.1",
+            "pli": "Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo. ",
+            "de": "Werte Freunde, ein Ding ist eine große Hilfe, ein Ding muss entwickelt werden, ein Ding muss vollständig verstanden werden, ein Ding muss aufgegeben werden, ein Ding führt zum Rückschritt, ein Ding führt zu Erhabenheit, ein Ding ist <span class=\"ebt-matched\">schwer zu erfassen</span>, ein Ding muss erzeugt werden, ein Ding muss unmittelbar erkannt werden und ein Ding muss verwirklicht werden. ",
+            "en": "Reverends, one thing is helpful, one thing should be developed, one thing should be completely understood, one thing should be given up, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing should be produced, one thing should be directly known, one thing should be realized. ",
+            "matched": true
+          },
+          "dn34:1.2.20": {
+            "scid": "dn34:1.2.20",
+            "pli": "Katamo eko dhammo duppaṭivijjho? ",
+            "de": "Welches eine Ding ist <span class=\"ebt-matched\">schwer zu erfassen</span>? ",
+            "en": "What one thing is hard to comprehend? ",
+            "matched": true
+          },
+          "dn34:1.3.1": {
+            "scid": "dn34:1.3.1",
+            "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
+            "de": "Zwei Dinge sind eine große Hilfe, zwei Dinge müssen entwickelt werden, zwei Dinge müssen vollständig verstanden werden, zwei Dinge müssen aufgegeben werden, zwei Dinge führen zum Rückschritt, zwei Dinge führen zu Erhabenheit, zwei Dinge sind <span class=\"ebt-matched\">schwer zu erfassen</span>, zwei Dinge müssen erzeugt werden, zwei Dinge müssen unmittelbar erkannt werden und zwei Dinge müssen verwirklicht werden. ",
+            "en": "Two things are helpful, two things should be developed, two things should be completely understood, two things should be given up, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things should be realized. ",
+            "matched": true
+          },
+          "dn34:1.3.20": {
+            "scid": "dn34:1.3.20",
+            "pli": "Katame dve dhammā duppaṭivijjhā? ",
+            "de": "Welche zwei Dinge sind <span class=\"ebt-matched\">schwer zu erfassen</span>? ",
+            "en": "What two things are hard to comprehend? ",
+            "matched": true
+          },
+          "dn34:1.4.25": {
+            "scid": "dn34:1.4.25",
+            "pli": "Katame tayo dhammā duppaṭivijjhā? ",
+            "de": "Welche drei Dinge sind <span class=\"ebt-matched\">schwer zu erfassen</span>? ",
+            "en": "What three things are hard to comprehend? ",
+            "matched": true
+          },
+          "dn34:1.5.29": {
+            "scid": "dn34:1.5.29",
+            "pli": "Katame cattāro dhammā duppaṭivijjhā? ",
+            "de": "Welche vier Dinge sind <span class=\"ebt-matched\">schwer zu erfassen</span>? ",
+            "en": "What four things are hard to comprehend? ",
+            "matched": true
+          },
+          "dn34:1.6.40": {
+            "scid": "dn34:1.6.40",
+            "pli": "Katame pañca dhammā duppaṭivijjhā? ",
+            "de": "Welche fünf Dinge sind <span class=\"ebt-matched\">schwer zu erfassen</span>? ",
+            "en": "What five things are hard to comprehend? ",
+            "matched": true
+          },
+          "dn34:1.7.33": {
+            "scid": "dn34:1.7.33",
+            "pli": "Katame cha dhammā duppaṭivijjhā? ",
+            "de": "Welche sechs Dinge sind <span class=\"ebt-matched\">schwer zu erfassen</span>? ",
+            "en": "What six things are hard to comprehend? ",
+            "matched": true
+          },
+          "dn34:1.8.39": {
+            "scid": "dn34:1.8.39",
+            "pli": "Katame satta dhammā duppaṭivijjhā? ",
+            "de": "Welche sieben Dinge sind <span class=\"ebt-matched\">schwer zu erfassen</span>? ",
+            "en": "What seven things are hard to comprehend? ",
+            "matched": true
+          },
+          "dn34:2.1.121": {
+            "scid": "dn34:2.1.121",
+            "pli": "Katame aṭṭha dhammā duppaṭivijjhā? ",
+            "de": "Welche acht Dinge sind <span class=\"ebt-matched\">schwer zu erfassen</span>? ",
+            "en": "What eight things are hard to comprehend? ",
+            "matched": true
+          },
+          "dn34:2.2.58": {
+            "scid": "dn34:2.2.58",
+            "pli": "Katame nava dhammā duppaṭivijjhā? ",
+            "de": "Welche neun Dinge sind <span class=\"ebt-matched\">schwer zu erfassen</span>? ",
+            "en": "What nine things are hard to comprehend? ",
+            "matched": true
+          },
+          "dn34:2.3.1": {
+            "scid": "dn34:2.3.1",
+            "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
+            "de": "Zehn Dinge sind eine große Hilfe, zehn Dinge müssen entwickelt werden, zehn Dinge müssen vollständig verstanden werden, zehn Dinge müssen aufgegeben werden, zehn Dinge führen zum Rückschritt, zehn Dinge führen zu Erhabenheit, zehn Dinge sind <span class=\"ebt-matched\">schwer zu erfassen</span>, zehn Dinge müssen erzeugt werden, zehn Dinge müssen unmittelbar erkannt werden und zehn Dinge müssen verwirklicht werden. ",
+            "en": "Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
+            "matched": true
+          },
+          "dn34:2.3.64": {
+            "scid": "dn34:2.3.64",
+            "pli": "Katame dasa dhammā duppaṭivijjhā? ",
+            "de": "Welche zehn Dinge sind <span class=\"ebt-matched\">schwer zu erfassen</span>? ",
+            "en": "What ten things are hard to comprehend? ",
+            "matched": true
+          }
+        },
+        "score": 13.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 13,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

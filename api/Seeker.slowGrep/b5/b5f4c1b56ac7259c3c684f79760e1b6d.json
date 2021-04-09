@@ -1,0 +1,24 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bohne wahrnehmung",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn24_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn15_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an5/an5.32_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an4/an4.34_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an2/an2.77-86_translation-de-sabbamitta.json:1"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "modes of conceit",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "modes of conceit",
+    "method": "phrase",
+    "resultPattern": "\\bmodes of conceit",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/kn/thag/thag18.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag18.1_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "thag18.1/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag18.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag18.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag18.1",
+        "lang": "en",
+        "segMap": {
+          "thag18.1:26.2": {
+            "scid": "thag18.1:26.2",
+            "pli": "nāhaṁ seyyoti vā pana;",
+            "en": "by the <span class=\"ebt-matched\">modes of conceit</span>—",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Forties\nChapter One\n18.1. Mahākassapa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 178,
+          "en": 170
+        }
+      }
+    ]
+  }
+}

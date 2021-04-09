@@ -1,0 +1,156 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "give with consideration",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "give with consideration",
+    "method": "phrase",
+    "resultPattern": "\\bgive with consideration",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn110_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn110_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.20_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.20_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.147_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.147_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn110/en/sujato",
+      "an9.20/en/sujato",
+      "an5.147/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.147_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.147_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.147",
+        "lang": "en",
+        "segMap": {
+          "an5.147:1.3": {
+            "scid": "an5.147:1.3",
+            "pli": "Asakkaccaṁ deti, acittīkatvā deti, asahatthā deti, apaviddhaṁ deti, anāgamanadiṭṭhiko deti. ",
+            "en": "They give carelessly. They give thoughtlessly. They don’t give with their own hand. They give the dregs. They give without consideration for consequences. ",
+            "matched": true
+          },
+          "an5.147:2.3": {
+            "scid": "an5.147:2.3",
+            "pli": "Sakkaccaṁ deti, cittīkatvā deti, sahatthā deti, anapaviddhaṁ deti, āgamanadiṭṭhiko deti. ",
+            "en": "They give carefully. They give thoughtfully. They give with their own hand. They don’t give the dregs. They <span class=\"ebt-matched\">give with consideration</span> for consequences. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n15. At Tikaṇḍakī\n147. Gifts of a Bad Person",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.20_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.20",
+        "lang": "en",
+        "segMap": {
+          "an9.20:2.5": {
+            "scid": "an9.20:2.5",
+            "pli": "tañca asakkaccaṁ deti, acittīkatvā deti, asahatthā deti, apaviddhaṁ deti, anāgamanadiṭṭhiko deti. ",
+            "en": "But they give it carelessly, thoughtlessly, not with their own hand. They give the dregs, and they give without consideration for consequences. ",
+            "matched": true
+          },
+          "an9.20:3.2": {
+            "scid": "an9.20:3.2",
+            "pli": "tañca sakkaccaṁ deti, cittīkatvā deti, sahatthā deti, anapaviddhaṁ deti, āgamanadiṭṭhiko deti. ",
+            "en": "And they give it carefully, thoughtfully, with their own hand. They don’t give the dregs, and they <span class=\"ebt-matched\">give with consideration</span> for consequences. ",
+            "matched": true
+          }
+        },
+        "score": 2.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n2. The Lion’s Roar\n20. About Velāma",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 56,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn110_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn110_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn110",
+        "lang": "en",
+        "segMap": {
+          "mn110:12.2": {
+            "scid": "mn110:12.2",
+            "pli": "Idha, bhikkhave, asappuriso asakkaccaṁ dānaṁ deti, asahatthā dānaṁ deti, acittīkatvā dānaṁ deti, apaviṭṭhaṁ dānaṁ deti anāgamanadiṭṭhiko dānaṁ deti. ",
+            "en": "It’s when a bad person gives a gift carelessly, not with their own hand, and thoughtlessly. They give the dregs, and they give without consideration for consequences. ",
+            "matched": true
+          },
+          "mn110:23.2": {
+            "scid": "mn110:23.2",
+            "pli": "Idha, bhikkhave, sappuriso sakkaccaṁ dānaṁ deti, sahatthā dānaṁ deti, cittīkatvā dānaṁ deti, anapaviṭṭhaṁ dānaṁ deti, āgamanadiṭṭhiko dānaṁ deti. ",
+            "en": "It’s when a good person gives a gift carefully, with their own hand, and thoughtfully. They don’t give the dregs, and they <span class=\"ebt-matched\">give with consideration</span> for consequences. ",
+            "matched": true
+          }
+        },
+        "score": 2.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 110\nThe Shorter Discourse on the Full-Moon Night",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 100,
+          "en": 98
+        }
+      }
+    ]
+  }
+}

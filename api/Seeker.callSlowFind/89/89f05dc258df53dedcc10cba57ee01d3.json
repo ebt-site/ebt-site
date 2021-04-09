@@ -1,0 +1,170 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "extinguished until i have nun disciples",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "extinguished until i have nun disciples",
+    "method": "phrase",
+    "resultPattern": "\\bextinguished until i have nun disciples",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn51/sn51.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn51/sn51.10_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga6/ud6.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga6/ud6.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.70_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.70_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn51.10/en/sujato",
+      "ud6.1/en/sujato",
+      "dn16/en/sujato",
+      "an8.70/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn51/sn51.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn51/sn51.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn51.10",
+        "lang": "en",
+        "segMap": {
+          "sn51.10:11.2": {
+            "scid": "sn51.10:11.2",
+            "pli": "‘na tāvāhaṁ, pāpima, parinibbāyissāmi yāva me bhikkhuniyo na sāvikā bhavissanti viyattā vinītā visāradā bahussutā dhammadharā dhammānudhammappaṭipannā sāmīcippaṭipannā anudhammacāriniyo, sakaṁ ācariyakaṁ uggahetvā ācikkhissanti desessanti paññapessanti paṭṭhapessanti vivarissanti vibhajissanti uttānīkarissanti, uppannaṁ parappavādaṁ sahadhammena suniggahitaṁ niggahetvā sappāṭihāriyaṁ dhammaṁ desessantī’ti. ",
+            "en": "‘Wicked One, I will not become fully <span class=\"ebt-matched\">extinguished until I have nun disciples</span> who are competent, educated, assured, learned …’ … ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 51\n1. At the Cāpāla Shrine\n10. At the Cāpāla Shrine",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 68,
+          "en": 66
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.70_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.70_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.70",
+        "lang": "en",
+        "segMap": {
+          "an8.70:7.3": {
+            "scid": "an8.70:7.3",
+            "pli": "‘na tāvāhaṁ, pāpima, parinibbāyissāmi yāva me bhikkhuniyo na sāvikā bhavissanti …pe… ",
+            "en": "‘Wicked One, I will not become fully <span class=\"ebt-matched\">extinguished until I have nun disciples</span> who are competent, educated, assured, learned …’ … ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n7. Earthquakes\n70. Earthquakes",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 87,
+          "en": 85
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga6/ud6.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga6/ud6.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud6.1",
+        "lang": "en",
+        "segMap": {
+          "ud6.1:10.2": {
+            "scid": "ud6.1:10.2",
+            "pli": "‘na tāvāhaṁ, pāpima, parinibbāyissāmi yāva me bhikkhuniyo na sāvikā bhavissanti viyattā vinītā visāradā bahussutā dhammadharā dhammānudhammappaṭipannā sāmīcippaṭipannā anudhammacāriniyo sakaṁ ācariyakaṁ uggahetvā ācikkhissanti desessanti paññapessanti paṭṭhapessanti vivarissanti vibhajissanti uttānīkarissanti uppannaṁ parappavādaṁ sahadhammena suniggahitaṁ niggahetvā sappāṭihāriyaṁ dhammaṁ desessantī’ti.",
+            "en": "‘Wicked One, I will not become fully <span class=\"ebt-matched\">extinguished until I have nun disciples</span> who are competent, educated, assured, learned …’ … ",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\nSurrendering the Life Force",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 91,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn16",
+        "lang": "en",
+        "segMap": {
+          "dn16:3.8.4": {
+            "scid": "dn16:3.8.4",
+            "pli": "‘na tāvāhaṁ, pāpima, parinibbāyissāmi, yāva me bhikkhuniyo na sāvikā bhavissanti viyattā vinītā visāradā bahussutā dhammadharā dhammānudhammappaṭipannā sāmīcippaṭipannā anudhammacāriniyo, sakaṁ ācariyakaṁ uggahetvā ācikkhissanti desessanti paññapessanti paṭṭhapessanti vivarissanti vibhajissanti uttānīkarissanti, uppannaṁ parappavādaṁ sahadhammena suniggahitaṁ niggahetvā sappāṭihāriyaṁ dhammaṁ desessantī’ti. ",
+            "en": "‘Wicked One, I will not become fully <span class=\"ebt-matched\">extinguished until I have nun disciples</span> who are competent, educated, assured, learned …’ ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 16\nThe Great Discourse on the Buddha’s Extinguishment",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1665,
+          "en": 1664
+        }
+      }
+    ]
+  }
+}

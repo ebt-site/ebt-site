@@ -1,0 +1,688 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "joy springs up",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "joy springs up",
+    "method": "phrase",
+    "resultPattern": "\\bjoy springs up",
+    "segsMatched": 47,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn42/sn42.13_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn42/sn42.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.26_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.26_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn55/sn55.40_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn55/sn55.40_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn47/sn47.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.10_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.97_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.97_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn40_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn40_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn9_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn9_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn13_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn13_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.2_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/en/sujato",
+      "sn42.13/en/sujato",
+      "an5.26/en/sujato",
+      "sn55.40/en/sujato",
+      "sn47.10/en/sujato",
+      "sn35.97/en/sujato",
+      "dn33/en/sujato",
+      "mn40/en/sujato",
+      "dn9/en/sujato",
+      "dn2/en/sujato",
+      "dn13/en/sujato",
+      "dn10/en/sujato",
+      "an11.2/en/sujato",
+      "an10.2/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.26_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.26",
+        "lang": "en",
+        "segMap": {
+          "an5.26:2.4": {
+            "scid": "an5.26:2.4",
+            "pli": "Tassa atthapaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati. ",
+            "en": "Feeling inspired, <span class=\"ebt-matched\">joy springs up</span>. ",
+            "matched": true
+          },
+          "an5.26:2.5": {
+            "scid": "an5.26:2.5",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          },
+          "an5.26:3.3": {
+            "scid": "an5.26:3.3",
+            "pli": "Tassa atthapaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati. ",
+            "en": "Feeling inspired, <span class=\"ebt-matched\">joy springs up</span>. ",
+            "matched": true
+          },
+          "an5.26:3.4": {
+            "scid": "an5.26:3.4",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          },
+          "an5.26:4.3": {
+            "scid": "an5.26:4.3",
+            "pli": "Tassa atthapaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati. ",
+            "en": "Feeling inspired, <span class=\"ebt-matched\">joy springs up</span>. ",
+            "matched": true
+          },
+          "an5.26:4.4": {
+            "scid": "an5.26:4.4",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          },
+          "an5.26:5.4": {
+            "scid": "an5.26:5.4",
+            "pli": "Tassa atthapaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati. ",
+            "en": "Feeling inspired, <span class=\"ebt-matched\">joy springs up</span>. ",
+            "matched": true
+          },
+          "an5.26:5.5": {
+            "scid": "an5.26:5.5",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          },
+          "an5.26:6.4": {
+            "scid": "an5.26:6.4",
+            "pli": "Tassa atthapaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati. ",
+            "en": "Feeling inspired, <span class=\"ebt-matched\">joy springs up</span>. ",
+            "matched": true
+          },
+          "an5.26:6.5": {
+            "scid": "an5.26:6.5",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          }
+        },
+        "score": 10.204,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n3. With Five Factors\n26. Opportunities for Freedom",
+        "segsMatched": 10,
+        "langSegs": {
+          "pli": 49,
+          "en": 48
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn42/sn42.13_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn42/sn42.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn42.13",
+        "lang": "en",
+        "segMap": {
+          "sn42.13:23.7": {
+            "scid": "sn42.13:23.7",
+            "pli": "Tassa pāmojjaṁ jāyati. ",
+            "en": "<span class=\"ebt-matched\">Joy springs up</span> in them. ",
+            "matched": true
+          },
+          "sn42.13:23.8": {
+            "scid": "sn42.13:23.8",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          },
+          "sn42.13:24.7": {
+            "scid": "sn42.13:24.7",
+            "pli": "Tassa pāmojjaṁ jāyati. ",
+            "en": "<span class=\"ebt-matched\">Joy springs up</span> in them. ",
+            "matched": true
+          },
+          "sn42.13:24.8": {
+            "scid": "sn42.13:24.8",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          },
+          "sn42.13:25.11": {
+            "scid": "sn42.13:25.11",
+            "pli": "Tassa pāmojjaṁ jāyati. ",
+            "en": "<span class=\"ebt-matched\">Joy springs up</span> in them. ",
+            "matched": true
+          },
+          "sn42.13:25.12": {
+            "scid": "sn42.13:25.12",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          },
+          "sn42.13:26.11": {
+            "scid": "sn42.13:26.11",
+            "pli": "Tassa pāmojjaṁ jāyati. ",
+            "en": "<span class=\"ebt-matched\">Joy springs up</span> in them. ",
+            "matched": true
+          },
+          "sn42.13:26.12": {
+            "scid": "sn42.13:26.12",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          },
+          "sn42.13:31.11": {
+            "scid": "sn42.13:31.11",
+            "pli": "Tassa pāmojjaṁ jāyati. ",
+            "en": "<span class=\"ebt-matched\">Joy springs up</span> in them. ",
+            "matched": true
+          },
+          "sn42.13:31.12": {
+            "scid": "sn42.13:31.12",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          }
+        },
+        "score": 10.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 42\n1. Chiefs\n13. With Pāṭaliya",
+        "segsMatched": 10,
+        "langSegs": {
+          "pli": 300,
+          "en": 299
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.6.80": {
+            "scid": "dn34:1.6.80",
+            "pli": "Tassa atthappaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. ",
+            "en": "Feeling inspired, <span class=\"ebt-matched\">joy springs up</span>. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. ",
+            "matched": true
+          },
+          "dn34:1.6.84": {
+            "scid": "dn34:1.6.84",
+            "pli": "Tassa atthappaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. ",
+            "en": "Feeling inspired, <span class=\"ebt-matched\">joy springs up</span>. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. ",
+            "matched": true
+          },
+          "dn34:1.6.88": {
+            "scid": "dn34:1.6.88",
+            "pli": "Tassa atthappaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. ",
+            "en": "Feeling inspired, <span class=\"ebt-matched\">joy springs up</span>. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. ",
+            "matched": true
+          },
+          "dn34:1.6.93": {
+            "scid": "dn34:1.6.93",
+            "pli": "Tassa atthappaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. ",
+            "en": "Feeling inspired, <span class=\"ebt-matched\">joy springs up</span>. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. ",
+            "matched": true
+          },
+          "dn34:1.6.98": {
+            "scid": "dn34:1.6.98",
+            "pli": "Tassa atthappaṭisaṁvedino dhammappaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. ",
+            "en": "Feeling inspired, <span class=\"ebt-matched\">joy springs up</span>. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. ",
+            "matched": true
+          },
+          "dn34:2.2.3": {
+            "scid": "dn34:2.2.3",
+            "pli": "Nava yonisomanasikāramūlakā dhammā, yonisomanasikaroto pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati, samāhite citte yathābhūtaṁ jānāti passati, yathābhūtaṁ jānaṁ passaṁ nibbindati, nibbindaṁ virajjati, virāgā vimuccati. ",
+            "en": "Nine things rooted in proper attention. When you attend properly, <span class=\"ebt-matched\">joy springs up</span>. When you’re joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, you feel bliss. And when you’re blissful, the mind becomes immersed. When your mind is immersed, you truly know and see. When you truly know and see, you grow disillusioned. Being disillusioned, desire fades away. When desire fades away you’re freed. ",
+            "matched": true
+          }
+        },
+        "score": 6.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.97_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.97_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.97",
+        "lang": "en",
+        "segMap": {
+          "sn35.97:2.3": {
+            "scid": "sn35.97:2.3",
+            "pli": "tassa abyāsittacittassa pāmojjaṁ jāyati. ",
+            "en": "When the mind isn’t polluted, <span class=\"ebt-matched\">joy springs up</span>. ",
+            "matched": true
+          },
+          "sn35.97:2.4": {
+            "scid": "sn35.97:2.4",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          },
+          "sn35.97:2.13": {
+            "scid": "sn35.97:2.13",
+            "pli": "tassa abyāsittacittassa pāmojjaṁ jāyati. ",
+            "en": "When the mind isn’t polluted, <span class=\"ebt-matched\">joy springs up</span>. ",
+            "matched": true
+          },
+          "sn35.97:2.14": {
+            "scid": "sn35.97:2.14",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          }
+        },
+        "score": 4.085,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n10. The Sixes\n97. One Who Lives Negligently",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 47,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn55/sn55.40_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn55/sn55.40_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn55.40",
+        "lang": "en",
+        "segMap": {
+          "sn55.40:5.5": {
+            "scid": "sn55.40:5.5",
+            "pli": "Tassa evaṁ appamattassa viharato pāmojjaṁ jāyati. ",
+            "en": "When they live diligently, <span class=\"ebt-matched\">joy springs up</span>. ",
+            "matched": true
+          },
+          "sn55.40:5.6": {
+            "scid": "sn55.40:5.6",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          },
+          "sn55.40:6.5": {
+            "scid": "sn55.40:6.5",
+            "pli": "Tassa evaṁ appamattassa viharato pāmojjaṁ jāyati. ",
+            "en": "When they live diligently, <span class=\"ebt-matched\">joy springs up</span>. ",
+            "matched": true
+          },
+          "sn55.40:6.6": {
+            "scid": "sn55.40:6.6",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          }
+        },
+        "score": 4.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 55\n4. Overflowing Merit\n40. Nandiya the Sakyan",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 64,
+          "en": 62
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.10",
+        "lang": "en",
+        "segMap": {
+          "sn47.10:6.5": {
+            "scid": "sn47.10:6.5",
+            "pli": "Tassa kismiñcideva pasādanīye nimitte cittaṁ paṇidahato pāmojjaṁ jāyati. ",
+            "en": "As they do so, <span class=\"ebt-matched\">joy springs up</span>. ",
+            "matched": true
+          },
+          "sn47.10:6.6": {
+            "scid": "sn47.10:6.6",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          },
+          "sn47.10:7.6": {
+            "scid": "sn47.10:7.6",
+            "pli": "Tassa kismiñcideva pasādanīye nimitte cittaṁ paṇidahato pāmojjaṁ jāyati. ",
+            "en": "As they do so, <span class=\"ebt-matched\">joy springs up</span>. ",
+            "matched": true
+          },
+          "sn47.10:7.7": {
+            "scid": "sn47.10:7.7",
+            "pli": "Pamuditassa pīti jāyati. ",
+            "en": "Being joyful, rapture springs up. ",
+            "matched": true
+          }
+        },
+        "score": 4.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 47\n1. In Ambapālī’s Wood\n10. The Nuns’ Quarters",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 76,
+          "en": 74
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:2.1.130": {
+            "scid": "dn33:2.1.130",
+            "pli": "Tassa atthapaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. ",
+            "en": "Feeling inspired, <span class=\"ebt-matched\">joy springs up</span>. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. ",
+            "matched": true
+          },
+          "dn33:2.1.137": {
+            "scid": "dn33:2.1.137",
+            "pli": "Tassa atthapaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. ",
+            "en": "Feeling inspired, <span class=\"ebt-matched\">joy springs up</span>. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.2",
+        "lang": "en",
+        "segMap": {
+          "an11.2:2.3": {
+            "scid": "an11.2:2.3",
+            "pli": "Dhammatā esā, bhikkhave, yaṁ avippaṭisārissa pāmojjaṁ uppajjati. ",
+            "en": "It’s only natural that <span class=\"ebt-matched\">joy springs up</span> when you have no regrets. ",
+            "matched": true
+          }
+        },
+        "score": 1.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 11\n1. Dependence\n2. Making a Wish",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 36,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.2",
+        "lang": "en",
+        "segMap": {
+          "an10.2:1.6": {
+            "scid": "an10.2:1.6",
+            "pli": "Dhammatā esā, bhikkhave, yaṁ avippaṭisārissa pāmojjaṁ jāyati. ",
+            "en": "It’s only natural that <span class=\"ebt-matched\">joy springs up</span> when you have no regrets. ",
+            "matched": true
+          }
+        },
+        "score": 1.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n1. Benefits\n2. Making a Wish",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 41,
+          "en": 40
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn40_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn40_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn40",
+        "lang": "en",
+        "segMap": {
+          "mn40:8.2": {
+            "scid": "mn40:8.2",
+            "pli": "Tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhamattānaṁ samanupassato (…) pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. ",
+            "en": "Seeing this, <span class=\"ebt-matched\">joy springs up</span>. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed in samādhi. ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 40\nThe Shorter Discourse at Assapura",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 71,
+          "en": 69
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn10",
+        "lang": "en",
+        "segMap": {
+          "dn10:2.12.4": {
+            "scid": "dn10:2.12.4",
+            "pli": "Tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. ",
+            "en": "Seeing that the hindrances have been given up in them, <span class=\"ebt-matched\">joy springs up</span>. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 10\nWith Subha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 284,
+          "en": 281
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn13_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn13",
+        "lang": "en",
+        "segMap": {
+          "dn13:40-75.4": {
+            "scid": "dn13:40-75.4",
+            "pli": "tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. ",
+            "en": "Seeing that the hindrances have been given up in them, <span class=\"ebt-matched\">joy springs up</span>. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 13\nThe Three Knowledges",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 280,
+          "en": 278
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn2",
+        "lang": "en",
+        "segMap": {
+          "dn2:74.4": {
+            "scid": "dn2:74.4",
+            "pli": "Tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. ",
+            "en": "Seeing that the hindrances have been given up in them, <span class=\"ebt-matched\">joy springs up</span>. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 2\nThe Fruits of the Ascetic Life\n1. A Discussion With the King’s Ministers",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 649,
+          "en": 632
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn9_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn9",
+        "lang": "en",
+        "segMap": {
+          "dn9:8.1": {
+            "scid": "dn9:8.1",
+            "pli": "tassime pañcanīvaraṇe pahīne attani samanupassato pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. ",
+            "en": "Seeing that the hindrances have been given up in them, <span class=\"ebt-matched\">joy springs up</span>. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 9\nWith Poṭṭhapāda\n1. On the Wanderer Poṭṭhapāda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 473,
+          "en": 472
+        }
+      }
+    ]
+  }
+}

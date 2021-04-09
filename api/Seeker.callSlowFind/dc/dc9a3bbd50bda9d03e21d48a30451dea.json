@@ -1,0 +1,564 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "to kill",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "to kill",
+    "method": "phrase",
+    "resultPattern": "\\bto kill",
+    "segsMatched": 22,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn93_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn93_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn54_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn54_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.111_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.111_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn98_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn98_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn146_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn146_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn119_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn119_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/iti/vagga3/iti27_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/iti/vagga3/iti27_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn4_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn4_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.20_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.20_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.264_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.264_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.163-182_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.163-182_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn93/en/sujato",
+      "mn54/en/sujato",
+      "an4.111/en/sujato",
+      "mn98/en/sujato",
+      "mn146/en/sujato",
+      "mn119/en/sujato",
+      "mn10/en/sujato",
+      "iti27/en/sujato",
+      "dn4/en/sujato",
+      "dn25/en/sujato",
+      "dn22/en/sujato",
+      "an9.20/en/sujato",
+      "an8.1/en/sujato",
+      "an4.264/en/sujato",
+      "an3.163-182/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn93_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn93_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn93",
+        "lang": "en",
+        "segMap": {
+          "mn93:7.5": {
+            "scid": "mn93:7.5",
+            "pli": "khattiyova nu kho pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhi kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya, no brāhmaṇo? ",
+            "en": "Suppose an aristocrat were <span class=\"ebt-matched\">to kill</span> living creatures, steal, and commit sexual misconduct; to use speech that’s false, divisive, harsh, or nonsensical; and to be covetous, malicious, with wrong view. When their body breaks up, after death, they’d be reborn in a place of loss, a bad place, the underworld, hell. Would this happen only to an aristocrat, and not to a brahmin? ",
+            "matched": true
+          },
+          "mn93:7.13": {
+            "scid": "mn93:7.13",
+            "pli": "sabbepi hi, bho gotama, cattāro vaṇṇā pāṇātipātino adinnādāyino kāmesumicchācārino musāvādino pisuṇavācā pharusavācā samphappalāpino abhijjhālū byāpannacittā micchādiṭṭhī kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyyun”ti. ",
+            "en": "For if any of the four classes were <span class=\"ebt-matched\">to kill</span> living creatures, steal, and commit sexual misconduct; to use speech that’s false, divisive, harsh, or nonsensical; and to be covetous, malicious, with wrong view, then, when their body breaks up, after death, they’d be reborn in a place of loss, a bad place, the underworld, hell.” ",
+            "matched": true
+          },
+          "mn93:8.5": {
+            "scid": "mn93:8.5",
+            "pli": "brāhmaṇova nu kho pāṇātipātā paṭivirato adinnādānā paṭivirato kāmesumicchācārā paṭivirato musāvādā paṭivirato pisuṇāya vācāya paṭivirato pharusāya vācāya paṭivirato samphappalāpā paṭivirato anabhijjhālu abyāpannacitto sammādiṭṭhi kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya, no khattiyo, no vesso, no suddo”ti? ",
+            "en": "Suppose a brahmin were to refrain from killing living creatures, stealing, and committing sexual misconduct; from using speech that’s false, divisive, harsh, or nonsensical; and from covetousness, malice, and wrong view. When their body breaks up, after death, they’d be reborn in a good place, a heavenly realm. Would this happen only to an brahmin, and not to an aristocrat, a merchant, or a worker?” ",
+            "matched": true
+          },
+          "mn93:8.11": {
+            "scid": "mn93:8.11",
+            "pli": "sabbepi hi, bho gotama, cattāro vaṇṇā pāṇātipātā paṭiviratā adinnādānā paṭiviratā kāmesumicchācārā paṭiviratā musāvādā paṭiviratā pisuṇāya vācāya paṭiviratā pharusāya vācāya paṭiviratā samphappalāpā paṭiviratā anabhijjhālū abyāpannacittā sammādiṭṭhī kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyyun”ti. ",
+            "en": "For if any of the four classes were to refrain from killing living creatures, stealing, and committing sexual misconduct; from using speech that’s false, divisive, harsh, or nonsensical; and from covetousness, malice, and wrong view, then, when their body breaks up, after death, they’d be reborn in a good place, a heavenly realm.” ",
+            "matched": true
+          }
+        },
+        "score": 4.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 93\nWith Assalāyana",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 244,
+          "en": 243
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.264_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.264_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.264",
+        "lang": "en",
+        "segMap": {
+          "an4.264:1.3": {
+            "scid": "an4.264:1.3",
+            "pli": "Attanā ca pāṇātipātī hoti, parañca pāṇātipāte samādapeti, pāṇātipāte ca samanuñño hoti, pāṇātipātassa ca vaṇṇaṁ bhāsati—",
+            "en": "They themselves kill living creatures; they encourage others <span class=\"ebt-matched\">to kill</span> living creatures; they approve of killing living creatures; and they praise killing living creatures. ",
+            "matched": true
+          },
+          "an4.264:2.3": {
+            "scid": "an4.264:2.3",
+            "pli": "Attanā ca pāṇātipātā paṭivirato hoti, parañca pāṇātipātā veramaṇiyā samādapeti, pāṇātipātā veramaṇiyā ca samanuñño hoti, pāṇātipātā veramaṇiyā ca vaṇṇaṁ bhāsati—",
+            "en": "They don’t themselves kill living creatures; they encourage others to not kill living creatures; they approve of not killing living creatures; and they praise not killing living creatures. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n27. Ways of Performing Deeds\n264. Killing Living Creatures",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.111_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.111_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.111",
+        "lang": "en",
+        "segMap": {
+          "an4.111:4.3": {
+            "scid": "an4.111:4.3",
+            "pli": "“Na kho, bhante, bhagavato pāṇātipāto kappati. ",
+            "en": "“Sir, it’s not appropriate for the Buddha <span class=\"ebt-matched\">to kill</span> living creatures. ",
+            "matched": true
+          },
+          "an4.111:4.7": {
+            "scid": "an4.111:4.7",
+            "pli": "Na tathāgatassa pāṇātipāto kappati. ",
+            "en": "it’s not appropriate for a Realized One <span class=\"ebt-matched\">to kill</span> living creatures. ",
+            "matched": true
+          }
+        },
+        "score": 2.057,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n12. With Kesi\n111. With Kesi",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 35,
+          "en": 34
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.163-182_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.163-182_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.163-182",
+        "lang": "en",
+        "segMap": {
+          "an3.163:1.3": {
+            "scid": "an3.163:1.3",
+            "pli": "Attanā ca pāṇātipātī hoti, parañca pāṇātipāte samādapeti, pāṇātipāte ca samanuñño hoti. ",
+            "en": "They themselves kill living creatures. They encourage others <span class=\"ebt-matched\">to kill</span> living creatures. And they approve of killing living creatures. ",
+            "matched": true
+          },
+          "an3.164:1.3": {
+            "scid": "an3.164:1.3",
+            "pli": "Attanā ca pāṇātipātā paṭivirato hoti, parañca pāṇātipātā veramaṇiyā samādapeti, pāṇātipātā veramaṇiyā ca samanuñño hoti …pe…. ",
+            "en": "They don’t themselves kill living creatures. They encourage others to not kill living creatures. And they approve of not killing living creatures. … ",
+            "matched": true
+          }
+        },
+        "score": 2.054,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n17. Ways of Performing Deeds\n163–182",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 37,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn54_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn54_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn54",
+        "lang": "en",
+        "segMap": {
+          "mn54:6.3": {
+            "scid": "mn54:6.3",
+            "pli": "‘yesaṁ kho ahaṁ saṁyojanānaṁ hetu pāṇātipātī assaṁ, tesāhaṁ saṁyojanānaṁ pahānāya samucchedāya paṭipanno. ",
+            "en": "‘I am practicing to give up and cut off the fetters that might cause me <span class=\"ebt-matched\">to kill</span> living creatures. ",
+            "matched": true
+          },
+          "mn54:6.4": {
+            "scid": "mn54:6.4",
+            "pli": "Ahañceva kho pana pāṇātipātī assaṁ, attāpi maṁ upavadeyya pāṇātipātapaccayā, anuviccāpi maṁ viññū garaheyyuṁ pāṇātipātapaccayā, kāyassa bhedā paraṁ maraṇā duggati pāṭikaṅkhā pāṇātipātapaccayā. ",
+            "en": "But if I were <span class=\"ebt-matched\">to kill</span> living creatures, because of that I would reprimand myself; sensible people, after examination, would criticize me; and when my body breaks up, after death, I could expect to be reborn in a bad place. ",
+            "matched": true
+          }
+        },
+        "score": 2.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 54\nWith Potaliya the Wanderer",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 209,
+          "en": 208
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.1",
+        "lang": "en",
+        "segMap": {
+          "an8.1:7.1": {
+            "scid": "an8.1:7.1",
+            "pli": "Yo na hanti na ghāteti, ",
+            "en": "Don’t kill or cause others <span class=\"ebt-matched\">to kill</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n1. Love\n1. The Benefits of Love",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 34,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/iti/vagga3/iti27_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/iti/vagga3/iti27_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "iti27",
+        "lang": "en",
+        "segMap": {
+          "iti27:10.1": {
+            "scid": "iti27:10.1",
+            "pli": "Yo na hanti na ghāteti,",
+            "en": "Don’t kill or cause others <span class=\"ebt-matched\">to kill</span>,",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "So It Was Said\nThe Book of the Ones\nChapter Three\n27. The Meditation on Love",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 47,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.20_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.20",
+        "lang": "en",
+        "segMap": {
+          "an9.20:8.8": {
+            "scid": "an9.20:8.8",
+            "pli": "yo ca pasannacitto sikkhāpadāni samādiyeyya—",
+            "en": "It would be more fruitful to undertake the training rules—not <span class=\"ebt-matched\">to kill</span> living creatures, steal, commit sexual misconduct, lie, or take alcoholic drinks that cause negligence—than to go for refuge to the Buddha, the teaching, and the Saṅgha with a confident heart. ",
+            "matched": true
+          }
+        },
+        "score": 1.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n2. The Lion’s Roar\n20. About Velāma",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 56,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn119_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn119_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn119",
+        "lang": "en",
+        "segMap": {
+          "mn119:8.3": {
+            "scid": "mn119:8.3",
+            "pli": "Seyyathāpi, bhikkhave, dakkho goghātako vā goghātakantevāsī vā gāviṁ vadhitvā catumahāpathe bilaso vibhajitvā nisinno assa; ",
+            "en": "It’s as if a deft butcher or butcher’s apprentice were <span class=\"ebt-matched\">to kill</span> a cow and sit down at the crossroads with the meat cut into portions. ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 119\nMindfulness of the Body",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 190,
+          "en": 173
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn10_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn10",
+        "lang": "en",
+        "segMap": {
+          "mn10:12.3": {
+            "scid": "mn10:12.3",
+            "pli": "Seyyathāpi, bhikkhave, dakkho goghātako vā goghātakantevāsī vā gāviṁ vadhitvā catumahāpathe bilaso vibhajitvā nisinno assa. ",
+            "en": "It’s as if a deft butcher or butcher’s apprentice were <span class=\"ebt-matched\">to kill</span> a cow and sit down at the crossroads with the meat cut into portions. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 10\nMindfulness Meditation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 235,
+          "en": 233
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn4_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn4",
+        "lang": "en",
+        "segMap": {
+          "dn4:20.10": {
+            "scid": "dn4:20.10",
+            "pli": "Aṅgako kho māṇavako pāṇampi haneyya, adinnampi ādiyeyya, paradārampi gaccheyya, musāvādampi bhaṇeyya, majjampi piveyya, ettha dāni, bho, kiṁ vaṇṇo karissati, kiṁ mantā, kiṁ jāti? ",
+            "en": "But if Aṅgaka were <span class=\"ebt-matched\">to kill</span> living creatures, steal, commit adultery, lie, and drink alcohol, then what’s the use of his appearance, his hymns, or his birth? ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 4\nWith Soṇadaṇḍa\n1. The Brahmins and Householders of Campā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 297,
+          "en": 296
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "en",
+        "segMap": {
+          "dn25:16.5": {
+            "scid": "dn25:16.5",
+            "pli": "Idha, nigrodha, tapassī na pāṇaṁ atipāteti, na pāṇaṁ atipātayati, na pāṇamatipātayato samanuñño hoti. ",
+            "en": "It’s when a mortifier doesn’t kill living creatures, doesn’t get others <span class=\"ebt-matched\">to kill</span>, and doesn’t approve of killing. ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 25\nThe Lion’s Roar at Udumbarikā’s Monastery\n1. On the Wanderer Nigrodha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 383,
+          "en": 382
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn98_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn98_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn98",
+        "lang": "en",
+        "segMap": {
+          "mn98:11.41": {
+            "scid": "mn98:11.41",
+            "pli": "Yo na hanti na ghāteti, ",
+            "en": "not killing or causing others <span class=\"ebt-matched\">to kill</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 98\nWith Vāseṭṭha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 293,
+          "en": 292
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn146_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn146_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn146",
+        "lang": "en",
+        "segMap": {
+          "mn146:11.1": {
+            "scid": "mn146:11.1",
+            "pli": "Seyyathāpi, bhaginiyo, dakkho goghātako vā goghātakantevāsī vā gāviṁ vadhitvā tiṇhena govikantanena gāviṁ saṅkanteyya anupahacca antaraṁ maṁsakāyaṁ anupahacca bāhiraṁ cammakāyaṁ. ",
+            "en": "Suppose a deft butcher or their apprentice was <span class=\"ebt-matched\">to kill</span> a cow and carve it with a sharp meat cleaver. Without damaging the flesh inside or the hide outside, ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 146\nAdvice from Nandaka",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 361,
+          "en": 360
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn22",
+        "lang": "en",
+        "segMap": {
+          "dn22:6.3": {
+            "scid": "dn22:6.3",
+            "pli": "Seyyathāpi, bhikkhave, dakkho goghātako vā goghātakantevāsī vā gāviṁ vadhitvā catumahāpathe bilaso vibhajitvā nisinno assa; ",
+            "en": "It’s as if a deft butcher or butcher’s apprentice were <span class=\"ebt-matched\">to kill</span> a cow and sit down at the crossroads with the meat cut into portions. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 22\nThe Longer Discourse on Mindfulness Meditation",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 454,
+          "en": 453
+        }
+      }
+    ]
+  }
+}

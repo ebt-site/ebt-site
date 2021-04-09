@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\blimited immersion and wisdom",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an9/an9.12_translation-en-sujato.json:4",
+    "translation/en/sujato/sutta/an/an3/an3.86_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an3/an3.87_translation-en-sujato.json:1"
+  ]
+}

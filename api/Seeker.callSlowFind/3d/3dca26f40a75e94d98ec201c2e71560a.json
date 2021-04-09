@@ -1,0 +1,792 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "the cosmos is eternal",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "the cosmos is eternal",
+    "method": "phrase",
+    "resultPattern": "\\bthe cosmos is eternal",
+    "segsMatched": 47,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn63_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn63_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn24/sn24.9_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn24/sn24.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn9_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn9_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn41/sn41.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn41/sn41.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.96_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.96_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.93_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.93_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.41_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.41_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn44/sn44.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn44/sn44.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn44/sn44.7_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn44/sn44.7_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn33/sn33.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn33/sn33.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn33/sn33.1_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn33/sn33.1_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn72_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn72_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn25_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga6/ud6.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga6/ud6.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.38_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.38_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.95_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.95_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.20_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.20_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn63/en/sujato",
+      "sn24.9/en/sujato",
+      "dn9/en/sujato",
+      "sn41.3/en/sujato",
+      "an10.96/en/sujato",
+      "an10.93/en/sujato",
+      "sn56.8/en/sujato",
+      "sn56.41/en/sujato",
+      "sn44.8/en/sujato",
+      "sn44.7/en/sujato",
+      "sn33.2/en/sujato",
+      "sn33.1/en/sujato",
+      "mn72/en/sujato",
+      "mn25/en/sujato",
+      "ud6.4/en/sujato",
+      "an4.38/en/sujato",
+      "an10.95/en/sujato",
+      "an10.20/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn63_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn63_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn63",
+        "lang": "en",
+        "segMap": {
+          "mn63:2.3": {
+            "scid": "mn63:2.3",
+            "pli": "‘sassato loko’tipi, ‘asassato loko’tipi, ‘antavā loko’tipi, ‘anantavā loko’tipi, ‘taṁ jīvaṁ taṁ sarīran’tipi, ‘aññaṁ jīvaṁ aññaṁ sarīran’tipi, ‘hoti tathāgato paraṁ maraṇā’tipi, ‘na hoti tathāgato paraṁ maraṇā’tipi, ‘hoti ca na ca hoti tathāgato paraṁ maraṇā’tipi, ‘neva hoti na na hoti tathāgato paraṁ maraṇā’tipi—",
+            "en": "For example: <span class=\"ebt-matched\">the cosmos is eternal</span>, or not eternal, or finite, or infinite; the soul and the body are the same thing, or they are different things; after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist. ",
+            "matched": true
+          },
+          "mn63:3.18": {
+            "scid": "mn63:3.18",
+            "pli": "‘sassato loko’ti, ‘sassato loko’ti me bhagavā byākarotu; ",
+            "en": "that <span class=\"ebt-matched\">the cosmos is eternal</span>, please tell me. ",
+            "matched": true
+          },
+          "mn63:3.20": {
+            "scid": "mn63:3.20",
+            "pli": "‘asassato loko’ti, ‘asassato loko’ti me bhagavā byākarotu. ",
+            "en": "that the cosmos is not eternal, tell me. ",
+            "matched": true
+          },
+          "mn63:3.22": {
+            "scid": "mn63:3.22",
+            "pli": "‘sassato loko’ti vā, ‘asassato loko’ti vā, ajānato kho pana apassato etadeva ujukaṁ hoti yadidaṁ: ",
+            "en": "whether <span class=\"ebt-matched\">the cosmos is eternal</span> or not, then it is straightforward to simply say: ",
+            "matched": true
+          },
+          "mn63:5.3": {
+            "scid": "mn63:5.3",
+            "pli": "“sassato loko”ti vā, “asassato loko”ti vā …pe… ",
+            "en": "that <span class=\"ebt-matched\">the cosmos is eternal</span>, or that the cosmos is not eternal … ",
+            "matched": true
+          },
+          "mn63:5.33": {
+            "scid": "mn63:5.33",
+            "pli": "“sassato loko”ti vā “asassato loko”ti vā …pe… ",
+            "en": "that <span class=\"ebt-matched\">the cosmos is eternal</span>, or that the cosmos is not eternal … ",
+            "matched": true
+          },
+          "mn63:6.1": {
+            "scid": "mn63:6.1",
+            "pli": "‘Sassato loko’ti, mālukyaputta, diṭṭhiyā sati brahmacariyavāso abhavissāti, evaṁ no. ",
+            "en": "It’s not true that if there were the view ‘<span class=\"ebt-matched\">the cosmos is eternal</span>’ there would be the living of the spiritual life. ",
+            "matched": true
+          },
+          "mn63:6.2": {
+            "scid": "mn63:6.2",
+            "pli": "‘Asassato loko’ti, mālukyaputta, diṭṭhiyā sati brahmacariyavāso abhavissāti, evampi no. ",
+            "en": "It’s not true that if there were the view ‘the cosmos is not eternal’ there would be the living of the spiritual life. ",
+            "matched": true
+          },
+          "mn63:6.3": {
+            "scid": "mn63:6.3",
+            "pli": "‘Sassato loko’ti vā, mālukyaputta, diṭṭhiyā sati, ‘asassato loko’ti vā diṭṭhiyā sati attheva jāti, atthi jarā, atthi maraṇaṁ, santi sokaparidevadukkhadomanassupāyāsā; ",
+            "en": "When there is the view that <span class=\"ebt-matched\">the cosmos is eternal</span> or that the cosmos is not eternal, there is rebirth, there is old age, there is death, and there is sorrow, lamentation, pain, sadness, and distress. ",
+            "matched": true
+          },
+          "mn63:7.4": {
+            "scid": "mn63:7.4",
+            "pli": "‘Sassato loko’ti mālukyaputta, mayā abyākataṁ; ",
+            "en": "I have not declared the following: ‘<span class=\"ebt-matched\">the cosmos is eternal</span>,’ ",
+            "matched": true
+          },
+          "mn63:7.5": {
+            "scid": "mn63:7.5",
+            "pli": "‘asassato loko’ti—",
+            "en": "‘the cosmos is not eternal,’ ",
+            "matched": true
+          }
+        },
+        "score": 11.06,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 63\nThe Shorter Discourse With Māluṅkya",
+        "segsMatched": 11,
+        "langSegs": {
+          "pli": 182,
+          "en": 181
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn9_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn9",
+        "lang": "en",
+        "segMap": {
+          "dn9:25.3": {
+            "scid": "dn9:25.3",
+            "pli": "kiṁ pana, bhante, ‘sassato loko, idameva saccaṁ moghamaññan’”ti? ",
+            "en": "then is this right: ‘<span class=\"ebt-matched\">The cosmos is eternal</span>. This is the only truth, anything else is wrong’?” ",
+            "matched": true
+          },
+          "dn9:26.1": {
+            "scid": "dn9:26.1",
+            "pli": "“Kiṁ pana, bhante, ‘asassato loko, idameva saccaṁ moghamaññan’”ti? ",
+            "en": "“Then is this right: ‘The cosmos is not eternal. This is the only truth, anything else is wrong’?” ",
+            "matched": true
+          },
+          "dn9:31.4": {
+            "scid": "dn9:31.4",
+            "pli": "Na kho pana mayaṁ kiñci samaṇassa gotamassa ekaṁsikaṁ dhammaṁ desitaṁ ājānāma: ",
+            "en": "We understand that the ascetic Gotama didn’t make any definitive statement at all regarding whether <span class=\"ebt-matched\">the cosmos is eternal</span> and so on.” ",
+            "matched": true
+          },
+          "dn9:31.7": {
+            "scid": "dn9:31.7",
+            "pli": "“ahampi kho, bho, na kiñci samaṇassa gotamassa ekaṁsikaṁ dhammaṁ desitaṁ ājānāmi: ",
+            "en": "“I too understand that the ascetic Gotama didn’t make any definitive statement at all regarding whether <span class=\"ebt-matched\">the cosmos is eternal</span> and so on. ",
+            "matched": true
+          },
+          "dn9:33.6": {
+            "scid": "dn9:33.6",
+            "pli": "‘Sassato loko’ti kho, poṭṭhapāda, mayā anekaṁsiko dhammo desito paññatto; ",
+            "en": "‘<span class=\"ebt-matched\">The cosmos is eternal</span>’ … ",
+            "matched": true
+          },
+          "dn9:33.7": {
+            "scid": "dn9:33.7",
+            "pli": "‘asassato loko’ti kho, poṭṭhapāda, mayā anekaṁsiko dhammo desito paññatto; ",
+            "en": "‘The cosmos is not eternal’ … ",
+            "matched": true
+          }
+        },
+        "score": 6.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 9\nWith Poṭṭhapāda\n1. On the Wanderer Poṭṭhapāda",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 473,
+          "en": 472
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn24/sn24.9_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn24/sn24.9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn24.9",
+        "lang": "en",
+        "segMap": {
+          "sn24.9:0.3": {
+            "scid": "sn24.9:0.3",
+            "pli": "9. Sassatadiṭṭhisutta ",
+            "en": "9. <span class=\"ebt-matched\">The Cosmos is Eternal</span> ",
+            "matched": true
+          },
+          "sn24.9:1.3": {
+            "scid": "sn24.9:1.3",
+            "pli": "‘sassato loko’”ti? ",
+            "en": "‘<span class=\"ebt-matched\">The cosmos is eternal</span>’?” ",
+            "matched": true
+          },
+          "sn24.9:2.2": {
+            "scid": "sn24.9:2.2",
+            "pli": "‘sassato loko’ti. ",
+            "en": "‘<span class=\"ebt-matched\">The cosmos is eternal</span>.’ ",
+            "matched": true
+          },
+          "sn24.9:2.6": {
+            "scid": "sn24.9:2.6",
+            "pli": "‘sassato loko’ti. ",
+            "en": "‘<span class=\"ebt-matched\">The cosmos is eternal</span>.’ ",
+            "matched": true
+          }
+        },
+        "score": 4.108,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 24\n1. Stream-Entry\n9. The Cosmos is Eternal",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.96_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.96_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.96",
+        "lang": "en",
+        "segMap": {
+          "an10.96:5.1": {
+            "scid": "an10.96:5.1",
+            "pli": "“Kiṁ nu kho, bho, ‘sassato loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavan”ti? ",
+            "en": "“Is this your view: ‘<span class=\"ebt-matched\">The cosmos is eternal</span>. This is the only truth, other ideas are silly’?” ",
+            "matched": true
+          },
+          "an10.96:6.1": {
+            "scid": "an10.96:6.1",
+            "pli": "“Kiṁ pana, bho, ‘asassato loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavan”ti? ",
+            "en": "“Then is this your view: ‘The cosmos is not eternal. This is the only truth, other ideas are silly’?” ",
+            "matched": true
+          },
+          "an10.96:13.1": {
+            "scid": "an10.96:13.1",
+            "pli": "“‘Sassato loko, idameva saccaṁ moghamaññan’ti kho, āvuso, diṭṭhigatametaṁ. ",
+            "en": "“‘<span class=\"ebt-matched\">The cosmos is eternal</span>. This is the only truth, other ideas are silly:’ that’s a misconception. ",
+            "matched": true
+          },
+          "an10.96:13.2": {
+            "scid": "an10.96:13.2",
+            "pli": "‘Asassato loko, idameva saccaṁ moghamaññan’ti kho, āvuso, diṭṭhigatametaṁ. ",
+            "en": "‘The cosmos is not eternal. This is the only truth, other ideas are silly:’ that’s a misconception. ",
+            "matched": true
+          }
+        },
+        "score": 4.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n96. With Kokanada",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 80,
+          "en": 79
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.93_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.93_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.93",
+        "lang": "en",
+        "segMap": {
+          "an10.93:6.2": {
+            "scid": "an10.93:6.2",
+            "pli": "“sassato loko, idameva saccaṁ moghamaññanti—",
+            "en": "“<span class=\"ebt-matched\">The cosmos is eternal</span>. This is the only truth, other ideas are silly. ",
+            "matched": true
+          },
+          "an10.93:7.2": {
+            "scid": "an10.93:7.2",
+            "pli": "“asassato loko, idameva saccaṁ moghamaññanti—",
+            "en": "“The cosmos is not eternal. This is the only truth, other ideas are silly. ",
+            "matched": true
+          },
+          "an10.93:9.3": {
+            "scid": "an10.93:9.3",
+            "pli": "‘sassato loko, idameva saccaṁ moghamaññanti—",
+            "en": "‘<span class=\"ebt-matched\">The cosmos is eternal</span>. This is the only truth, other ideas are silly. ",
+            "matched": true
+          },
+          "an10.93:10.2": {
+            "scid": "an10.93:10.2",
+            "pli": "‘asassato loko, idameva saccaṁ moghamaññanti—",
+            "en": "‘The cosmos is not eternal. This is the only truth, other ideas are silly. ",
+            "matched": true
+          }
+        },
+        "score": 4.039,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n93. What Is Your View?",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 103,
+          "en": 102
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.95_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.95_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.95",
+        "lang": "en",
+        "segMap": {
+          "an10.95:1.3": {
+            "scid": "an10.95:1.3",
+            "pli": "“kiṁ nu kho, bho gotama, sassato loko, idameva saccaṁ moghamaññan”ti? ",
+            "en": "“Master Gotama, is this right: ‘<span class=\"ebt-matched\">The cosmos is eternal</span>. This is the only truth, other ideas are silly’?” ",
+            "matched": true
+          },
+          "an10.95:2.1": {
+            "scid": "an10.95:2.1",
+            "pli": "“Kiṁ pana, bho gotama, asassato loko, idameva saccaṁ moghamaññan”ti? ",
+            "en": "“Then is this right: ‘The cosmos is not eternal. This is the only truth, other ideas are silly’?” ",
+            "matched": true
+          }
+        },
+        "score": 2.035,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n95. With Uttiya",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 57,
+          "en": 56
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn41/sn41.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn41/sn41.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn41.3",
+        "lang": "en",
+        "segMap": {
+          "sn41.3:2.3": {
+            "scid": "sn41.3:2.3",
+            "pli": "‘sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā. ",
+            "en": "<span class=\"ebt-matched\">the cosmos is eternal</span>, or not eternal, or finite, or infinite; the soul and the body are the same thing, or they are different things; after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist. ",
+            "matched": true
+          },
+          "sn41.3:4.11": {
+            "scid": "sn41.3:4.11",
+            "pli": "‘sassato lokoti vā, asassato lokoti vā, antavā lokoti vā anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇāti vā. ",
+            "en": "<span class=\"ebt-matched\">the cosmos is eternal</span>, or not eternal, or finite, or infinite; the soul and the body are the same thing, or they are different things; after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist. ",
+            "matched": true
+          }
+        },
+        "score": 2.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 41\n1. With Citta\n3. With Isidatta (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 73,
+          "en": 72
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn44/sn44.7_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn44/sn44.7_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn44.7",
+        "lang": "en",
+        "segMap": {
+          "sn44.7:2.1": {
+            "scid": "sn44.7:2.1",
+            "pli": "“Kiṁ nu kho, bho moggallāna, sassato loko”ti? ",
+            "en": "“Master Moggallāna, is this right: ‘<span class=\"ebt-matched\">the cosmos is eternal</span>’?” ",
+            "matched": true
+          },
+          "sn44.7:2.4": {
+            "scid": "sn44.7:2.4",
+            "pli": "“Kiṁ pana, bho moggallāna, asassato loko”ti? ",
+            "en": "“Then is this right: ‘the cosmos is not eternal’ … ",
+            "matched": true
+          }
+        },
+        "score": 2.024,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 44\n1. The Undeclared Points\n7. With Moggallāna",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 82,
+          "en": 81
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga6/ud6.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga6/ud6.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud6.4",
+        "lang": "en",
+        "segMap": {
+          "ud6.4:2.2": {
+            "scid": "ud6.4:2.2",
+            "pli": "“sassato loko, idameva saccaṁ moghamaññan”ti.",
+            "en": "“<span class=\"ebt-matched\">The cosmos is eternal</span>. This is the only truth, other ideas are silly.” ",
+            "matched": true
+          },
+          "ud6.4:3.2": {
+            "scid": "ud6.4:3.2",
+            "pli": "“asassato loko, idameva saccaṁ moghamaññan”ti.",
+            "en": "“The cosmos is not eternal.”",
+            "matched": true
+          }
+        },
+        "score": 2.019,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\nFollowers of Other Paths (1st)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 106,
+          "en": 88
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn72_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn72_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn72",
+        "lang": "en",
+        "segMap": {
+          "mn72:3.1": {
+            "scid": "mn72:3.1",
+            "pli": "“Kiṁ nu kho, bho gotama, ‘sassato loko, idameva saccaṁ moghamaññan’ti—",
+            "en": "“Master Gotama, is this your view: ‘<span class=\"ebt-matched\">The cosmos is eternal</span>. This is the only truth, other ideas are silly’?” ",
+            "matched": true
+          },
+          "mn72:4.1": {
+            "scid": "mn72:4.1",
+            "pli": "“Kiṁ pana, bho gotama, ‘asassato loko, idameva saccaṁ moghamaññan’ti—",
+            "en": "“Then is this your view: ‘The cosmos is not eternal. This is the only truth, other ideas are silly’?” ",
+            "matched": true
+          }
+        },
+        "score": 2.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 72\nWith Vacchagotta on Fire",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 161,
+          "en": 160
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.8",
+        "lang": "en",
+        "segMap": {
+          "sn56.8:1.2": {
+            "scid": "sn56.8:1.2",
+            "pli": "‘sassato loko’ti vā ‘asassato loko’ti vā, ‘antavā loko’ti vā ‘anantavā loko’ti vā, ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vā, ‘hoti tathāgato paraṁ maraṇā’ti vā ‘na hoti tathāgato paraṁ maraṇā’ti vā, ‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti vā, ‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā. ",
+            "en": "For example: <span class=\"ebt-matched\">the cosmos is eternal</span>, or not eternal, or finite, or infinite; the soul and the body are the same thing, or they are different things; after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n1. Immersion\n8. Thought",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn33/sn33.1_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn33/sn33.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn33.1",
+        "lang": "en",
+        "segMap": {
+          "sn33.1:1.5": {
+            "scid": "sn33.1:1.5",
+            "pli": "sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti? ",
+            "en": "<span class=\"ebt-matched\">the cosmos is eternal</span>, or not eternal, or finite, or infinite; the soul and the body are the same thing, or they are different things; after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist.” ",
+            "matched": true
+          }
+        },
+        "score": 1.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 33\n1. With Vacchagotta\n1. Not Knowing Form",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn33/sn33.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn33/sn33.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn33.2",
+        "lang": "en",
+        "segMap": {
+          "sn33.2:1.4": {
+            "scid": "sn33.2:1.4",
+            "pli": "sassato lokoti vā, asassato lokoti vā …pe… ",
+            "en": "<span class=\"ebt-matched\">the cosmos is eternal</span>, or not eternal … ",
+            "matched": true
+          }
+        },
+        "score": 1.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 33\n1. With Vacchagotta\n2. Not Knowing Feeling",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.38_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.38_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.38",
+        "lang": "en",
+        "segMap": {
+          "an4.38:1.4": {
+            "scid": "an4.38:1.4",
+            "pli": "sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇāti vā; ",
+            "en": "<span class=\"ebt-matched\">the cosmos is eternal</span>, or not eternal, or finite, or infinite; the soul and the body are the same thing, or they are different things; after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist. ",
+            "matched": true
+          }
+        },
+        "score": 1.031,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n4. Situations\n38. Withdrawn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 32,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.41_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.41_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.41",
+        "lang": "en",
+        "segMap": {
+          "sn56.41:4.2": {
+            "scid": "sn56.41:4.2",
+            "pli": "‘sassato loko’ti vā ‘asassato loko’ti vā, ‘antavā loko’ti vā ‘anantavā loko’ti vā, ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vā, ‘hoti tathāgato paraṁ maraṇā’ti vā ‘na hoti tathāgato paraṁ maraṇā’ti vā, ‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti vā, ‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā. ",
+            "en": "For example: <span class=\"ebt-matched\">the cosmos is eternal</span>, or not eternal, or finite, or infinite; the soul and the body are the same thing, or they are different things; after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist. ",
+            "matched": true
+          }
+        },
+        "score": 1.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n5. A Cliff\n41. Speculation About the World",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 34,
+          "en": 33
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.20_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.20",
+        "lang": "en",
+        "segMap": {
+          "an10.20:7.3": {
+            "scid": "an10.20:7.3",
+            "pli": "‘sassato loko’ti vā, ‘asassato loko’ti vā, ‘antavā loko’ti vā, ‘anantavā loko’ti vā, ‘taṁ jīvaṁ taṁ sarīran’ti vā, ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vā, ‘hoti tathāgato paraṁ maraṇā’ti vā, ‘na hoti tathāgato paraṁ maraṇā’ti vā, ‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti vā, ‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā, ",
+            "en": "<span class=\"ebt-matched\">the cosmos is eternal</span>, or not eternal, or finite, or infinite; the soul and the body are the same thing, or they are different things; after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist. ",
+            "matched": true
+          }
+        },
+        "score": 1.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n2. A Protector\n20. Abodes of the Noble Ones (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 56,
+          "en": 54
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn44/sn44.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn44/sn44.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn44.8",
+        "lang": "en",
+        "segMap": {
+          "sn44.8:1.3": {
+            "scid": "sn44.8:1.3",
+            "pli": "“kiṁ nu kho, bho gotama, sassato loko”ti? ",
+            "en": "“Master Gotama, is this right: ‘<span class=\"ebt-matched\">the cosmos is eternal</span>’?” ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 44\n1. The Undeclared Points\n8. With Vacchagotta",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 67,
+          "en": 66
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn25_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn25",
+        "lang": "en",
+        "segMap": {
+          "mn25:10.21": {
+            "scid": "mn25:10.21",
+            "pli": "sassato loko itipi, asassato loko itipi; ",
+            "en": "‘<span class=\"ebt-matched\">The cosmos is eternal</span>’ or ‘The cosmos is not eternal’; ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 25\nFodder",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 199,
+          "en": 198
+        }
+      }
+    ]
+  }
+}

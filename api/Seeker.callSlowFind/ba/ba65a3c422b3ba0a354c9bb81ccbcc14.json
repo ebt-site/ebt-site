@@ -1,0 +1,174 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "disciples don’t want to listen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "disciples don’t want to listen",
+    "method": "phrase",
+    "resultPattern": "\\bdisciples don’t want to listen",
+    "segsMatched": 9,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn137_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn137_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn122_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn122_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn137/en/sujato",
+      "dn12/en/sujato",
+      "mn122/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn137_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn137_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn137",
+        "lang": "en",
+        "segMap": {
+          "mn137:22.3": {
+            "scid": "mn137:22.3",
+            "pli": "Tassa sāvakā na sussūsanti, na sotaṁ odahanti, na aññā cittaṁ upaṭṭhapenti, vokkamma ca satthusāsanā vattanti. ",
+            "en": "But their <span class=\"ebt-matched\">disciples don’t want to listen</span>. They don’t pay attention or apply their minds to understand. They proceed having turned away from the Teacher’s instruction. ",
+            "matched": true
+          },
+          "mn137:23.3": {
+            "scid": "mn137:23.3",
+            "pli": "Tassa ekacce sāvakā na sussūsanti, na sotaṁ odahanti, na aññā cittaṁ upaṭṭhapenti, vokkamma ca satthusāsanā vattanti; ",
+            "en": "And some of their <span class=\"ebt-matched\">disciples don’t want to listen</span>. They don’t pay attention or apply their minds to understand. They proceed having turned away from the Teacher’s instruction. ",
+            "matched": true
+          },
+          "mn137:23.4": {
+            "scid": "mn137:23.4",
+            "pli": "ekacce sāvakā sussūsanti, sotaṁ odahanti, aññā cittaṁ upaṭṭhapenti, na ca vokkamma satthusāsanā vattanti. ",
+            "en": "But some of their disciples do want to listen. They pay attention and apply their minds to understand. They don’t proceed having turned away from the Teacher’s instruction. ",
+            "matched": true
+          },
+          "mn137:24.3": {
+            "scid": "mn137:24.3",
+            "pli": "Tassa sāvakā sussūsanti, sotaṁ odahanti, aññācittaṁ upaṭṭhapenti, na ca vokkamma satthusāsanā vattanti. ",
+            "en": "And their disciples want to listen. They pay attention and apply their minds to understand. They don’t proceed having turned away from the Teacher’s instruction. ",
+            "matched": true
+          }
+        },
+        "score": 4.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 137\nThe Analysis of the Six Sense Fields",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 195,
+          "en": 194
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn12",
+        "lang": "en",
+        "segMap": {
+          "dn12:16.7": {
+            "scid": "dn12:16.7",
+            "pli": "Tassa sāvakā na sussūsanti, na sotaṁ odahanti, na aññā cittaṁ upaṭṭhapenti, vokkamma ca satthusāsanā vattanti. ",
+            "en": "But their <span class=\"ebt-matched\">disciples don’t want to listen</span>. They don’t pay attention or apply their minds to understand. They proceed having turned away from the teacher’s instruction. ",
+            "matched": true
+          },
+          "dn12:17.4": {
+            "scid": "dn12:17.4",
+            "pli": "Tassa sāvakā sussūsanti, sotaṁ odahanti, aññā cittaṁ upaṭṭhapenti, na ca vokkamma satthusāsanā vattanti. ",
+            "en": "Their disciples do want to listen. They pay attention and apply their minds to understand. They don’t proceed having turned away from the teacher’s instruction. ",
+            "matched": true
+          },
+          "dn12:18.4": {
+            "scid": "dn12:18.4",
+            "pli": "Tassa sāvakā na sussūsanti, na sotaṁ odahanti, na aññā cittaṁ upaṭṭhapenti, vokkamma ca satthusāsanā vattanti. ",
+            "en": "But their <span class=\"ebt-matched\">disciples don’t want to listen</span>. They don’t pay attention or apply their minds to understand. They proceed having turned away from the teacher’s instruction. ",
+            "matched": true
+          }
+        },
+        "score": 3.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 12\nWith Lohicca",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 189,
+          "en": 188
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn122_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn122_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn122",
+        "lang": "en",
+        "segMap": {
+          "mn122:25.6": {
+            "scid": "mn122:25.6",
+            "pli": "Tassa sāvakā na sussūsanti, na sotaṁ odahanti, na aññā cittaṁ upaṭṭhapenti, vokkamma ca satthusāsanā vattanti. ",
+            "en": "But their <span class=\"ebt-matched\">disciples don’t want to listen</span>. They don’t pay attention or apply their minds to understand. They proceed having turned away from the Teacher’s instruction. ",
+            "matched": true
+          },
+          "mn122:26.4": {
+            "scid": "mn122:26.4",
+            "pli": "Tassa sāvakā sussūsanti, sotaṁ odahanti, aññā cittaṁ upaṭṭhapenti, na ca vokkamma satthusāsanā vattanti. ",
+            "en": "And their disciples want to listen. They pay attention and apply their minds to understand. They don’t proceed having turned away from the Teacher’s instruction. ",
+            "matched": true
+          }
+        },
+        "score": 2.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 122\nThe Longer Discourse on Emptiness",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 172,
+          "en": 171
+        }
+      }
+    ]
+  }
+}

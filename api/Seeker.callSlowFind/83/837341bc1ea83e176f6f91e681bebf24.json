@@ -1,0 +1,182 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "like a ball of thread",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "like a ball of thread",
+    "method": "phrase",
+    "resultPattern": "\\blike a ball of thread",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.229_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.229_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.199_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.199_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.60_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.60_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn15_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.229/en/sujato",
+      "an4.199/en/sujato",
+      "sn12.60/en/sujato",
+      "dn15/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.229_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.229_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.229",
+        "lang": "en",
+        "segMap": {
+          "sn35.229:1.6": {
+            "scid": "sn35.229:1.6",
+            "pli": "Etthāyaṁ sadevako loko samārako sabrahmako sassamaṇabrāhmaṇī pajā sadevamanussā yebhuyyena samunnā tantākulakajātā kulagaṇṭhikajātā muñjapabbajabhūtā, apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattati …pe…. ",
+            "en": "And it’s here that this world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—is for the most part sunk. It’s become tangled like string, knotted <span class=\"ebt-matched\">like a ball of thread</span>, and matted like rushes and reeds, and it doesn’t escape the places of loss, the bad places, the underworld, transmigration. ",
+            "matched": true
+          },
+          "sn35.229:2.3": {
+            "scid": "sn35.229:2.3",
+            "pli": "Etthāyaṁ sadevako loko samārako sabrahmako sassamaṇabrāhmaṇī pajā sadevamanussā yebhuyyena samunnā tantākulakajātā kulagaṇṭhikajātā muñjapabbajabhūtā apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattatīti. ",
+            "en": "And it’s here that this world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—is for the most part sunk. It’s become tangled like string, knotted <span class=\"ebt-matched\">like a ball of thread</span>, and matted like rushes and reeds, and it doesn’t escape the places of loss, the bad places, the underworld, transmigration. ",
+            "matched": true
+          }
+        },
+        "score": 2.095,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n18. The Ocean\n229. The Ocean (2nd)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.199_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.199_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.199",
+        "lang": "en",
+        "segMap": {
+          "an4.199:1.2": {
+            "scid": "an4.199:1.2",
+            "pli": "“taṇhaṁ vo, bhikkhave, desessāmi jāliniṁ saritaṁ visaṭaṁ visattikaṁ, yāya ayaṁ loko uddhasto pariyonaddho tantākulakajāto gulāguṇṭhikajāto muñjapabbajabhūto apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattati. ",
+            "en": "“Mendicants, I will teach you about craving—the weaver, the migrant, the ubiquitous, the clinging. This world is choked by it, engulfed by it. It makes the world tangled like yarn, knotted <span class=\"ebt-matched\">like a ball of thread</span>, and matted like rushes and reeds, not escaping the places of loss, the bad places, the underworld, transmigration. ",
+            "matched": true
+          },
+          "an4.199:6.1": {
+            "scid": "an4.199:6.1",
+            "pli": "Ayaṁ kho sā, bhikkhave, taṇhā jālinī saritā visaṭā visattikā, yāya ayaṁ loko uddhasto pariyonaddho tantākulakajāto guṇāguṇṭhikajāto muñjapabbajabhūto apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattatī”ti. ",
+            "en": "This is that craving—the weaver, the migrant, the ubiquitous, the clinging. This world is choked by it, engulfed by it. It makes the world tangled like yarn, knotted <span class=\"ebt-matched\">like a ball of thread</span>, and matted like rushes and reeds, not escaping the places of loss, the bad places, the underworld, transmigration.” ",
+            "matched": true
+          }
+        },
+        "score": 2.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n20. The Great Chapter\n199. Craving, the Weaver",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.60_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.60_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.60",
+        "lang": "en",
+        "segMap": {
+          "sn12.60:2.3": {
+            "scid": "sn12.60:2.3",
+            "pli": "Etassa, ānanda, dhammassa ananubodhā appaṭivedhā evamayaṁ pajā tantākulakajātā kulagaṇṭhikajātā muñjapabbajabhūtā apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattati. ",
+            "en": "It is because of not understanding and not penetrating this teaching that this population has become tangled like string, knotted <span class=\"ebt-matched\">like a ball of thread</span>, and matted like rushes and reeds, and it doesn’t escape the places of loss, the bad places, the underworld, transmigration. ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n6. Suffering\n60. Sources",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 49,
+          "en": 47
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn15_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn15",
+        "lang": "en",
+        "segMap": {
+          "dn15:1.8": {
+            "scid": "dn15:1.8",
+            "pli": "Etassa, ānanda, dhammassa ananubodhā appaṭivedhā evamayaṁ pajā tantākulakajātā kulagaṇṭhikajātā muñjapabbajabhūtā apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattati. ",
+            "en": "It is because of not understanding and not penetrating this teaching that this population has become tangled like string, knotted <span class=\"ebt-matched\">like a ball of thread</span>, and matted like rushes and reeds, and it doesn’t escape the places of loss, the bad places, the underworld, transmigration. ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 15\nThe Great Discourse on Causation\n1. Dependent Origination",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 277,
+          "en": 276
+        }
+      }
+    ]
+  }
+}

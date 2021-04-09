@@ -1,0 +1,1068 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "is it really true",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "is it really true",
+    "method": "phrase",
+    "resultPattern": "\\bis it really true",
+    "segsMatched": 41,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn26_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn26_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.61_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.61_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.85_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.85_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn7/sn7.21_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn7/sn7.21_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.84_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.84_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn21/sn21.4_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn21/sn21.4_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn21/sn21.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn21/sn21.10_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn16/sn16.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn16/sn16.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.70_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.70_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn12/sn12.32_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.32_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn95_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn95_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn70_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn70_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn48_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn48_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn21_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn21_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn101_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn101_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga3/ud3.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga3/ud3.6_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga3/ud3.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga3/ud3.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga2/ud2.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga2/ud2.10_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn9_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn9_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn5_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn5_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn4_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn4_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.8_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.64_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.64_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.94_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.94_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn26/en/sujato",
+      "dn24/en/sujato",
+      "an3.61/en/sujato",
+      "sn22.85/en/sujato",
+      "mn38/en/sujato",
+      "mn22/en/sujato",
+      "sn7.21/en/sujato",
+      "sn22.84/en/sujato",
+      "sn21.4/en/sujato",
+      "sn21.10/en/sujato",
+      "sn16.6/en/sujato",
+      "sn12.70/en/sujato",
+      "sn12.32/en/sujato",
+      "mn95/en/sujato",
+      "mn70/en/sujato",
+      "mn48/en/sujato",
+      "mn21/en/sujato",
+      "mn101/en/sujato",
+      "ud3.6/en/sujato",
+      "ud3.2/en/sujato",
+      "ud2.10/en/sujato",
+      "dn9/en/sujato",
+      "dn5/en/sujato",
+      "dn4/en/sujato",
+      "dn25/en/sujato",
+      "dn23/en/sujato",
+      "dn12/en/sujato",
+      "an8.8/en/sujato",
+      "an3.64/en/sujato",
+      "an10.94/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn26_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn26",
+        "lang": "en",
+        "segMap": {
+          "dn26:10.10": {
+            "scid": "dn26:10.10",
+            "pli": "‘saccaṁ kira tvaṁ, ambho purisa, paresaṁ adinnaṁ theyyasaṅkhātaṁ ādiyī’ti? ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span>, mister, that you stole from others with the intention to commit theft?’ ",
+            "matched": true
+          },
+          "dn26:11.6": {
+            "scid": "dn26:11.6",
+            "pli": "‘saccaṁ kira tvaṁ, ambho purisa, paresaṁ adinnaṁ theyyasaṅkhātaṁ ādiyī’ti? ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span>, mister, that you stole from others?’ ",
+            "matched": true
+          },
+          "dn26:12.10": {
+            "scid": "dn26:12.10",
+            "pli": "‘saccaṁ kira tvaṁ, ambho purisa, paresaṁ adinnaṁ theyyasaṅkhātaṁ ādiyī’ti? ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span>, mister, that you stole from others?’ ",
+            "matched": true
+          },
+          "dn26:14.8": {
+            "scid": "dn26:14.8",
+            "pli": "‘saccaṁ kira tvaṁ, ambho purisa, paresaṁ adinnaṁ theyyasaṅkhātaṁ ādiyī’ti? ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span>, mister, that you stole from others?’ ",
+            "matched": true
+          }
+        },
+        "score": 4.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 26\nThe Wheel-Turning Monarch\n1. Taking Refuge in Oneself",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 355,
+          "en": 354
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn24_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn24",
+        "lang": "en",
+        "segMap": {
+          "dn24:2.14.5": {
+            "scid": "dn24:2.14.5",
+            "pli": "‘saccaṁ kira tumhe āyasmanto issarakuttaṁ brahmakuttaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "matched": true
+          },
+          "dn24:2.18.3": {
+            "scid": "dn24:2.18.3",
+            "pli": "‘saccaṁ kira tumhe āyasmanto khiḍḍāpadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "matched": true
+          },
+          "dn24:2.19.3": {
+            "scid": "dn24:2.19.3",
+            "pli": "‘saccaṁ kira tumhe āyasmanto manopadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "matched": true
+          },
+          "dn24:2.20.3": {
+            "scid": "dn24:2.20.3",
+            "pli": "‘saccaṁ kira tumhe āyasmanto adhiccasamuppannaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "matched": true
+          }
+        },
+        "score": 4.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 24\nAbout Pāṭikaputta\n1. On Sunakkhatta",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 581,
+          "en": 580
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.61_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.61",
+        "lang": "en",
+        "segMap": {
+          "an3.61:2.3": {
+            "scid": "an3.61:2.3",
+            "pli": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino: ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "matched": true
+          },
+          "an3.61:4.3": {
+            "scid": "an3.61:4.3",
+            "pli": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino—",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "matched": true
+          },
+          "an3.61:6.3": {
+            "scid": "an3.61:6.3",
+            "pli": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino—",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "matched": true
+          }
+        },
+        "score": 3.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n61. Sectarian Tenets",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 117,
+          "en": 116
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.85_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.85_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.85",
+        "lang": "en",
+        "segMap": {
+          "sn22.85:3.1": {
+            "scid": "sn22.85:3.1",
+            "pli": "“Saccaṁ kira te, āvuso yamaka, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Reverend Yamaka, that you have such a harmful misconception: ",
+            "matched": true
+          },
+          "sn22.85:6.1": {
+            "scid": "sn22.85:6.1",
+            "pli": "“Saccaṁ kira te, āvuso yamaka, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Reverend Yamaka, that you have such a harmful misconception: ",
+            "matched": true
+          }
+        },
+        "score": 2.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n9. Senior Mendicants\n85. With Yamaka",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 197,
+          "en": 196
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn22_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn22",
+        "lang": "en",
+        "segMap": {
+          "mn22:3.2": {
+            "scid": "mn22:3.2",
+            "pli": "“saccaṁ kira te, āvuso ariṭṭha, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Reverend Ariṭṭha, that you have such a harmful misconception: ",
+            "matched": true
+          },
+          "mn22:5.7": {
+            "scid": "mn22:5.7",
+            "pli": "“saccaṁ kira te, ariṭṭha, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Ariṭṭha, that you have such a harmful misconception: ",
+            "matched": true
+          }
+        },
+        "score": 2.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 22\nThe Simile of the Snake",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 359,
+          "en": 358
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn38",
+        "lang": "en",
+        "segMap": {
+          "mn38:3.5": {
+            "scid": "mn38:3.5",
+            "pli": "“saccaṁ kira te, āvuso sāti, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Reverend Sāti, that you have such a harmful misconception: ",
+            "matched": true
+          },
+          "mn38:5.7": {
+            "scid": "mn38:5.7",
+            "pli": "“saccaṁ kira te, sāti, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Sāti, that you have such a harmful misconception: ",
+            "matched": true
+          }
+        },
+        "score": 2.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 38\nThe Longer Discourse on the Ending of Craving",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 445,
+          "en": 444
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn7/sn7.21_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn7/sn7.21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn7.21",
+        "lang": "en",
+        "segMap": {
+          "sn7.21:2.4": {
+            "scid": "sn7.21:2.4",
+            "pli": "“saccaṁ kira tvaṁ, brāhmaṇa, udakasuddhiko, udakena suddhiṁ paccesi, sāyaṁ pātaṁ udakorohanānuyogamanuyutto viharasī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, brahmin, that you practice purification by water, believing in purification by water; that you live committed to the practice of immersing yourself in water at dawn and dusk?” ",
+            "matched": true
+          }
+        },
+        "score": 1.04,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 7\n2. Lay Followers\n21. With Saṅgārava",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 25,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn21/sn21.4_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn21/sn21.4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn21.4",
+        "lang": "en",
+        "segMap": {
+          "sn21.4:2.6": {
+            "scid": "sn21.4:2.6",
+            "pli": "“saccaṁ kira tvaṁ, bhikkhu, pacchābhattaṁ piṇḍapātapaṭikkanto vihāraṁ pavisitvā appossukko tuṇhībhūto saṅkasāyasi, na bhikkhūnaṁ veyyāvaccaṁ karosi cīvarakārasamaye”ti? ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, monk, that after your meal, on your return from alms-round, you entered your dwelling, where you adhered to passivity and silence, and you didn’t help the mendicants out when it was time to sew robes?” ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 21\n1. Monks\n4. A Junior Mendicant",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga3/ud3.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga3/ud3.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud3.6",
+        "lang": "en",
+        "segMap": {
+          "ud3.6:3.3": {
+            "scid": "ud3.6:3.3",
+            "pli": "“saccaṁ kira tvaṁ, vaccha, bhikkhū vasalavādena samudācarasī”ti?",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Vaccha, that you addressed the mendicants as ‘lowlifes’?”",
+            "matched": true
+          }
+        },
+        "score": 1.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n3.6. With Pilindavaccha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 29,
+          "en": 25
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn21/sn21.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn21/sn21.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn21.10",
+        "lang": "en",
+        "segMap": {
+          "sn21.10:2.7": {
+            "scid": "sn21.10:2.7",
+            "pli": "“saccaṁ kira tvaṁ, thera, ekavihārī ekavihārassa ca vaṇṇavādī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Senior, that you live alone and praise living alone?” ",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 21\n1. Monks\n10. A Mendicant Named Senior",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn16/sn16.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn16/sn16.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn16.6",
+        "lang": "en",
+        "segMap": {
+          "sn16.6:4.2": {
+            "scid": "sn16.6:4.2",
+            "pli": "“saccaṁ kira tumhe, bhikkhave, aññamaññaṁ sutena accāvadatha: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, monks, that you’ve been competing in studies, saying: ",
+            "matched": true
+          }
+        },
+        "score": 1.028,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 16\n1. Kassapa\n6. Advice",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 36,
+          "en": 35
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga2/ud2.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga2/ud2.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud2.10",
+        "lang": "en",
+        "segMap": {
+          "ud2.10:6.1": {
+            "scid": "ud2.10:6.1",
+            "pli": "“Saccaṁ kira tvaṁ, bhaddiya, araññagatopi rukkhamūlagatopi suññāgāragatopi abhikkhaṇaṁ udānaṁ udānesi:",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Bhaddiya, that even in the wilderness, at the foot of a tree, or in an empty dwelling, you frequently express this heartfelt sentiment:",
+            "matched": true
+          }
+        },
+        "score": 1.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n2.10. With Bhaddiya",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 48,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.64_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.64_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.64",
+        "lang": "en",
+        "segMap": {
+          "an3.64:3.2": {
+            "scid": "an3.64:3.2",
+            "pli": "“saccaṁ kira tvaṁ, sarabha, evaṁ vadesi: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Sarabha, that you’ve been saying: ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n7. The Great Chapter\n64. With Sarabha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.94_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.94_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.94",
+        "lang": "en",
+        "segMap": {
+          "an10.94:4.4": {
+            "scid": "an10.94:4.4",
+            "pli": "“saccaṁ kira, gahapati, samaṇo gotamo sabbaṁ tapaṁ garahati, sabbaṁ tapassiṁ lūkhājīviṁ ekaṁsena upakkosati upavadatī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, householder? Does the ascetic Gotama criticize all forms of mortification? Does he categorically condemn and denounce those self-mortifiers who live rough?” ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n94. With Vajjiyamāhita",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 63,
+          "en": 62
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga3/ud3.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga3/ud3.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud3.2",
+        "lang": "en",
+        "segMap": {
+          "ud3.2:5.1": {
+            "scid": "ud3.2:5.1",
+            "pli": "“Saccaṁ kira tvaṁ, nanda, sambahulānaṁ bhikkhūnaṁ evamārocesi:",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Nanda, that you informed several mendicants that ",
+            "matched": true
+          }
+        },
+        "score": 1.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n3.2. With Nanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 74,
+          "en": 59
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.84_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.84_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.84",
+        "lang": "en",
+        "segMap": {
+          "sn22.84:3.6": {
+            "scid": "sn22.84:3.6",
+            "pli": "“saccaṁ kira tvaṁ, tissa, sambahulānaṁ bhikkhūnaṁ evamārocesi: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Tissa, that you informed several mendicants that ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n9. Senior Mendicants\n84. With Tissa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 104,
+          "en": 103
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.8_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.8",
+        "lang": "en",
+        "segMap": {
+          "an8.8:5.1": {
+            "scid": "an8.8:5.1",
+            "pli": "“Saccaṁ kira, bhante, āyasmā uttaro bhikkhūnaṁ evaṁ dhammaṁ desesi: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, sir, that you teach the mendicants in this way: ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n1. Love\n8. Uttara on Failure",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 113,
+          "en": 112
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn48_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn48_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn48",
+        "lang": "en",
+        "segMap": {
+          "mn48:4.7": {
+            "scid": "mn48:4.7",
+            "pli": "“saccaṁ kira tumhe, bhikkhave, bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharatha, ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, mendicants, that you have been arguing, quarreling, and fighting, continually wounding each other with barbed words? ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 48\nThe Mendicants of Kosambi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 110,
+          "en": 109
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.32_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.32_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.32",
+        "lang": "en",
+        "segMap": {
+          "sn12.32:6.7": {
+            "scid": "sn12.32:6.7",
+            "pli": "“saccaṁ kira tayā, sāriputta, aññā byākatā: ",
+            "en": "“Sāriputta, <span class=\"ebt-matched\">is it really true</span> that you have declared enlightenment: ",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n4. Kaḷāra the Aristocrat\n32. With Kaḷāra the Aristocrat",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 135,
+          "en": 134
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.70_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.70_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.70",
+        "lang": "en",
+        "segMap": {
+          "sn12.70:4.8": {
+            "scid": "sn12.70:4.8",
+            "pli": "“saccaṁ kirāyasmantehi bhagavato santike aññā byākatā: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span> that the venerables have declared enlightenment in the Buddha’s presence?” ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n7. The Great Chapter\n70. The Wanderer Susīma",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 180,
+          "en": 176
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn12_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn12",
+        "lang": "en",
+        "segMap": {
+          "dn12:9.6": {
+            "scid": "dn12:9.6",
+            "pli": "“saccaṁ kira te, lohicca, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Lohicca, that you have such a harmful misconception: ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 12\nWith Lohicca",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 189,
+          "en": 188
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn70_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn70_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn70",
+        "lang": "en",
+        "segMap": {
+          "mn70:6.7": {
+            "scid": "mn70:6.7",
+            "pli": "“saccaṁ kira, bhikkhave, sambahulā bhikkhū tumhe upasaṅkamitvā etadavocuṁ: ",
+            "en": "The Buddha said to them, “<span class=\"ebt-matched\">Is it really true</span>, mendicants, that several mendicants went to you and said: ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 70\nAt Kīṭāgiri",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 203,
+          "en": 201
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn21_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn21",
+        "lang": "en",
+        "segMap": {
+          "mn21:5.1": {
+            "scid": "mn21:5.1",
+            "pli": "“Saccaṁ kira tvaṁ, phagguna, bhikkhunīhi saddhiṁ ativelaṁ saṁsaṭṭho viharasi? ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Phagguna, that you’ve been mixing overly closely together with the nuns? ",
+            "matched": true
+          }
+        },
+        "score": 1.004,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 21\nThe Simile of the Saw",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 227,
+          "en": 226
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn4_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn4_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn4",
+        "lang": "en",
+        "segMap": {
+          "dn4:4.5": {
+            "scid": "dn4:4.5",
+            "pli": "“saccaṁ kira bhavaṁ soṇadaṇḍo samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span> that you are going to see the ascetic Gotama?” ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 4\nWith Soṇadaṇḍa\n1. The Brahmins and Householders of Campā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 297,
+          "en": 296
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn5_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn5_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn5",
+        "lang": "en",
+        "segMap": {
+          "dn5:5.6": {
+            "scid": "dn5:5.6",
+            "pli": "“saccaṁ kira bhavaṁ kūṭadanto samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span> that you are going to see the ascetic Gotama?” ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 5\nWith Kūṭadanta\n1. The Brahmins and Householders of Khāṇumata",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 375,
+          "en": 374
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "en",
+        "segMap": {
+          "dn25:21.2": {
+            "scid": "dn25:21.2",
+            "pli": "“saccaṁ kira, nigrodha, bhāsitā te esā vācā”ti? ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, Nigrodha—are those your words?” ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 25\nThe Lion’s Roar at Udumbarikā’s Monastery\n1. On the Wanderer Nigrodha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 383,
+          "en": 382
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn95_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn95_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn95",
+        "lang": "en",
+        "segMap": {
+          "mn95:7.5": {
+            "scid": "mn95:7.5",
+            "pli": "“saccaṁ kira bhavaṁ caṅkī samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī”ti? ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span> that you are going to see the ascetic Gotama?” ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 95\nWith Caṅkī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 305,
+          "en": 304
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn101_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn101_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn101",
+        "lang": "en",
+        "segMap": {
+          "mn101:3.2": {
+            "scid": "mn101:3.2",
+            "pli": "‘saccaṁ kira tumhe, āvuso nigaṇṭhā, evaṁvādino evaṁdiṭṭhino—",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 101\nAt Devadaha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 362,
+          "en": 361
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn9_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn9_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn9",
+        "lang": "en",
+        "segMap": {
+          "dn9:34.4": {
+            "scid": "dn9:34.4",
+            "pli": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino: ",
+            "en": "‘<span class=\"ebt-matched\">Is it really true</span> that this is the venerables’ view?’ ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 9\nWith Poṭṭhapāda\n1. On the Wanderer Poṭṭhapāda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 473,
+          "en": 472
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn23_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn23",
+        "lang": "en",
+        "segMap": {
+          "dn23:32.10": {
+            "scid": "dn23:32.10",
+            "pli": "“saccaṁ kira tvaṁ, tāta uttara, dānaṁ datvā evaṁ anuddisasi: ",
+            "en": "“<span class=\"ebt-matched\">Is it really true</span>, dear Uttara, that you referred to the offering in this way?” ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 23\nWith Pāyāsi",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 715,
+          "en": 713
+        }
+      }
+    ]
+  }
+}

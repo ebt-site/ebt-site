@@ -1,0 +1,229 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "leiden vieler menschen",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "leiden vieler menschen",
+    "method": "phrase",
+    "resultPattern": "\\bleiden vieler menschen",
+    "segsMatched": 10,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.88_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.88_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.88_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.11_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.11_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.32-41_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.32-41_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.32-41_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.316-332_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.316-332_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.316-332_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.88/de/sabbamitta",
+      "an3.11/de/sabbamitta",
+      "an2.32-41/de/sabbamitta",
+      "an1.316-332/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.316-332_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an1/an1.316-332_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an1/an1.316-332_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.316-332",
+        "lang": "de",
+        "segMap": {
+          "an1.316:1.1": {
+            "scid": "an1.316:1.1",
+            "pli": "“Ekapuggalo, bhikkhave, loke uppajjamāno uppajjati bahujanaahitāya bahujanaasukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
+            "de": "„Ein Mensch, Mönche und Nonnen, erscheint in der Welt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und Leiden von Göttern und Menschen. ",
+            "en": "“One person, mendicants, arises in the world for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. ",
+            "matched": true
+          },
+          "an1.316:1.5": {
+            "scid": "an1.316:1.5",
+            "pli": "Ayaṁ kho, bhikkhave, ekapuggalo loke uppajjamāno uppajjati bahujanaahitāya bahujanaasukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānan”ti. ",
+            "de": "Das ist der eine Mensch, Mönche und Nonnen, der zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und Leiden von Göttern und Menschen in der Welt erscheint.“ ",
+            "en": "This is one person who arises in the world for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans.” ",
+            "matched": true
+          },
+          "an1.319:1.1": {
+            "scid": "an1.319:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekapuggalampi samanupassāmi yo evaṁ bahujanaahitāya paṭipanno bahujanaasukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ yathayidaṁ, bhikkhave, makkhali moghapuriso. ",
+            "de": "„Mönche und Nonnen, ich sehe keinen anderen Menschen, der so zum Schaden und Unglück vieler Menschen handelt, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen, wie Makkhali, dieser törichte Mann. ",
+            "en": "“Mendicants, I do not see a single other person who acts for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans like that silly man, Makkhali. ",
+            "matched": true
+          },
+          "an1.319:1.3": {
+            "scid": "an1.319:1.3",
+            "pli": "evamevaṁ kho, bhikkhave, makkhali moghapuriso manussakhippaṁ maññe loke uppanno bahūnaṁ sattānaṁ ahitāya dukkhāya anayāya byasanāyā”ti. ",
+            "de": "Ebenso ist Makkhali, dieser törichte Mann, eine Menschenfalle, so scheint es mir. Er ist zum Schaden, Leiden, Unheil und Verhängnis vieler Wesen in der Welt erschienen.“ ",
+            "en": "so too that silly man, Makkhali, is a trap for humans, it seems to me. He has arisen in the world for the harm, suffering, calamity, and disaster of many beings.” ",
+            "matched": true
+          }
+        },
+        "score": 4.066,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 1\n26. Drittes\n316–332",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 61,
+          "de": 60,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.11_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.11_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.11",
+        "lang": "de",
+        "segMap": {
+          "an3.11:1.1": {
+            "scid": "an3.11:1.1",
+            "pli": "“Tīhi, bhikkhave, dhammehi samannāgato ñāto bhikkhu bahujanaahitāya paṭipanno hoti bahujanadukkhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
+            "de": "„Mönche und Nonnen, ein renommierter Mönch, der drei Eigenschaften besitzt, handelt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
+            "en": "“Mendicants, a well-known mendicant who has three qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. ",
+            "matched": true
+          },
+          "an3.11:1.4": {
+            "scid": "an3.11:1.4",
+            "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato ñāto bhikkhu bahujanaahitāya paṭipanno hoti bahujanadukkhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
+            "de": "Ein renommierter Mönch, der diese drei Eigenschaften besitzt, handelt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
+            "en": "A well-known mendicant who has these three qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n2. Der Wagenbauer\n11. Renommiert",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.88_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.88_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.88_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.88",
+        "lang": "de",
+        "segMap": {
+          "an5.88:1.1": {
+            "scid": "an5.88:1.1",
+            "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu bahujanaahitāya paṭipanno hoti bahujanaasukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
+            "de": "„Mönche und Nonnen, ein Ordensältester, der fünf Eigenschaften besitzt, handelt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
+            "en": "“Mendicants, a senior mendicant who has five qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. ",
+            "matched": true
+          },
+          "an5.88:2.8": {
+            "scid": "an5.88:2.8",
+            "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu bahujanaahitāya paṭipanno hoti bahujanaasukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
+            "de": "Ein Ordensältester, der diese fünf Eigenschaften besitzt, handelt zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
+            "en": "A senior mendicant who has these five qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. ",
+            "matched": true
+          }
+        },
+        "score": 2.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n9. Ordensälteste\n88. Ordensälteste",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 22,
+          "de": 21,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.32-41_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.32-41_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.32-41_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.32-41",
+        "lang": "de",
+        "segMap": {
+          "an2.39:1.6": {
+            "scid": "an2.39:1.6",
+            "pli": "Tayidaṁ, bhikkhave, hoti bahujanāhitāya bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
+            "de": "Das ist zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
+            "en": "This is for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans. ",
+            "matched": true
+          },
+          "an2.41:1.1": {
+            "scid": "an2.41:1.1",
+            "pli": "“Ye te, bhikkhave, bhikkhū duggahitehi suttantehi byañjanappatirūpakehi atthañca dhammañca paṭibāhanti te, bhikkhave, bhikkhū bahujanāhitāya paṭipannā bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. ",
+            "de": "„Mönche und Nonnen, indem sie sich die Lehrreden fehlerhaft einprägen und nur einen ähnlichen Ausdruck nehmen, schließen manche Mönche und Nonnen die Bedeutung und die Lehre aus. Sie handeln zum Schaden und Unglück vieler Menschen, zum Nachteil, Schaden und <span class=\"ebt-matched\">Leiden vieler Menschen</span>, von Göttern und Menschen. ",
+            "en": "“Mendicants, by memorizing the discourses incorrectly, taking only a semblance of the phrasing, some mendicants shut out the meaning and the teaching. They act for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans. ",
+            "matched": true
+          }
+        },
+        "score": 2.012,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n4. Friedvoller Geist\n32–41",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 169,
+          "de": 168,
+          "en": 168
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "愛情による心の解放",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "jpn"
+      ],
+      "maxResults": 1000,
+      "searchLang": "jpn",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "jpn",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "jpn",
+    "searchLang": "jpn",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "愛情による心の解放",
+    "method": "phrase",
+    "resultPattern": "愛情による心の解放",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an11/an11.15_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an11/an11.15_translation-en-sujato.json",
+      "translation/jpn/kaz/sutta/an/an11/an11.15_translation-jpn-kaz.json"
+    ],
+    "suttaRefs": [
+      "an11.15/jpn/kaz"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.15_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an11/an11.15_translation-en-sujato.json",
+          "translation/jpn/kaz/sutta/an/an11/an11.15_translation-jpn-kaz.json"
+        ],
+        "author_uid": "kaz",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.15",
+        "lang": "jpn",
+        "segMap": {
+          "an11.15:1.1": {
+            "scid": "an11.15:1.1",
+            "pli": "“Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasānisaṁsā pāṭikaṅkhā. ",
+            "en": "“Mendicants, you can expect eleven benefits when the heart’s release by love has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented. ",
+            "jpn": "「托鉢僧侶たちよ、<span class=\"ebt-matched\">愛情による心の解放</span>が培われ、発達して、練習が積まれ、媒体となり、土台となり、維持され、強化され、しっかり実行されると、十一の利点が予想できます。",
+            "matched": true
+          },
+          "an11.15:2.3": {
+            "scid": "an11.15:2.3",
+            "pli": "Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ime ekādasānisaṁsā pāṭikaṅkhā”ti. ",
+            "en": "You can expect eleven benefits when the heart’s release by love has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented.” ",
+            "jpn": "<span class=\"ebt-matched\">愛情による心の解放</span>が培われ、発達して、練習が積まれ、媒体となり、土台となり、維持され、強化され、しっかり実行されると、十一の利点が予想できます。」",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "増支部経典 十一集\n第二.　思い出し考える（憶念品）\n15. 愛情の利点",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "en": 7,
+          "jpn": 7
+        }
+      }
+    ]
+  }
+}

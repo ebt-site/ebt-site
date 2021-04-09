@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "ich bin in die strömung eingetaucht",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "ich bin in die strömung eingetaucht",
+    "method": "phrase",
+    "resultPattern": "\\bich bin in die strömung eingetaucht",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.179_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.179_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.179_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.179/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.179_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.179_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.179_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.179",
+        "lang": "de",
+        "segMap": {
+          "an5.179:1.4": {
+            "scid": "an5.179:1.4",
+            "pli": "‘khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto, sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo’ti. ",
+            "de": "‚Ich habe mit der Wiedergeburt in der Hölle, dem Tierreich und dem Geisterreich abgeschlossen. Mit allen verlorenen Orten habe ich abgeschlossen, mit allen schlechten Orten, mit der Unterwelt. <span class=\"ebt-matched\">Ich bin in die Strömung eingetaucht</span>! Ich muss nicht mehr in der Unterwelt wiedergeboren werden und bin auf dem Weg zum Erwachen.‘ ",
+            "en": "‘I’ve finished with rebirth in hell, the animal realm, and the ghost realm. I’ve finished with all places of loss, bad places, the underworld. I am a stream-enterer! I’m not liable to be reborn in the underworld, and am bound for awakening.’ ",
+            "matched": true
+          },
+          "an5.179:7.2": {
+            "scid": "an5.179:7.2",
+            "pli": "‘khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto, sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo’ti. ",
+            "de": "‚Ich habe mit der Wiedergeburt in der Hölle, dem Tierreich und dem Geisterreich abgeschlossen. Mit allen verlorenen Orten habe ich abgeschlossen, mit allen schlechten Orten, mit der Unterwelt. <span class=\"ebt-matched\">Ich bin in die Strömung eingetaucht</span>! Ich muss nicht mehr in der Unterwelt wiedergeboren werden und bin auf dem Weg zum Erwachen.‘ ",
+            "en": "‘I’ve finished with rebirth in hell, the animal realm, and the ghost realm. I’ve finished with all places of loss, bad places, the underworld. I am a stream-enterer! I’m not liable to be reborn in the underworld, and am bound for awakening.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n18. Ein Laienschüler\n179. Ein Laie",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 86,
+          "de": 85,
+          "en": 85
+        }
+      }
+    ]
+  }
+}

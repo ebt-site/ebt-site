@@ -1,0 +1,79 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "erkenntnis der sechs sinnesfelder",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "erkenntnis der sechs sinnesfelder",
+    "method": "phrase",
+    "resultPattern": "\\berkenntnis der sechs sinnesfelder",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn12/sn12.33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/sn/sn12/sn12.33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn12.33/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/sn/sn12/sn12.33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.33",
+        "lang": "de",
+        "segMap": {
+          "sn12.33:2.9": {
+            "scid": "sn12.33:2.9",
+            "pli": "saḷāyatane ñāṇaṁ … ",
+            "de": "<span class=\"ebt-matched\">Erkenntnis der sechs Sinnesfelder</span> … ",
+            "en": "Knowledge of the six sense fields … ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verbundene Lehrreden 12\n4. Kaḷāra der Adlige\n33. Grundlagen der Erkenntnis",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 66,
+          "de": 65,
+          "en": 65
+        }
+      }
+    ]
+  }
+}

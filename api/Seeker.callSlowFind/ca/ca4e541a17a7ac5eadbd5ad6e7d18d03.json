@@ -1,0 +1,394 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "erlösung des herzens durch liebe",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "erlösung des herzens durch liebe",
+    "method": "phrase",
+    "resultPattern": "\\berlösung des herzens durch liebe",
+    "segsMatched": 17,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.13_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.13_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.13_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.68_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.68_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.68_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.11-20_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.11-20_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.11-20_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an11/an11.15_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an11/an11.15_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an11/an11.15_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.63_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an8/an8.63_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an8/an8.63_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an1/an1.394-574_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/de/sabbamitta",
+      "dn33/de/sabbamitta",
+      "an6.13/de/sabbamitta",
+      "an3.68/de/sabbamitta",
+      "an1.11-20/de/sabbamitta",
+      "an11.15/de/sabbamitta",
+      "an8.63/de/sabbamitta",
+      "an1.394-574/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.13_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.13_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.13",
+        "lang": "de",
+        "segMap": {
+          "an6.13:1.4": {
+            "scid": "an6.13:1.4",
+            "pli": "‘mettā hi kho me cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā; ",
+            "de": "‚Ich habe die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> entwickelt. Ich habe sie gepflegt, sie zu meinem Fahrzeug und meiner Grundlage gemacht, habe sie hochgehalten, gefestigt und richtig umgesetzt. ",
+            "en": "‘I’ve developed the heart’s release by love. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. ",
+            "matched": true
+          },
+          "an6.13:1.7": {
+            "scid": "an6.13:1.7",
+            "pli": "Aṭṭhānametaṁ, āvuso, anavakāso yaṁ mettāya cetovimuttiyā bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya; ",
+            "de": "Es ist unmöglich, werter Freund, es kann nicht sein, dass die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> entwickelt und richtig umgesetzt wurde, ",
+            "en": "It’s impossible, reverend, it cannot happen that the heart’s release by love has been developed and properly implemented, ",
+            "matched": true
+          },
+          "an6.13:1.9": {
+            "scid": "an6.13:1.9",
+            "pli": "Nissaraṇañhetaṁ, āvuso, byāpādassa yadidaṁ mettācetovimuttī’ti. ",
+            "de": "Denn durch die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> entrinnt man bösem Willen.‘ ",
+            "en": "For it is the heart’s release by love that is the escape from ill will.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.061,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n2. Warmherzig\n13. Elemente des Entrinnens",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 49,
+          "de": 40,
+          "en": 48
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:2.2.71": {
+            "scid": "dn33:2.2.71",
+            "pli": "‘mettā hi kho me cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā, ",
+            "de": "‚Ich habe die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> entwickelt. Ich habe sie gepflegt, sie zu meinem Fahrzeug und meiner Grundlage gemacht, habe sie hochgehalten, gefestigt und richtig umgesetzt. ",
+            "en": "‘I’ve developed the heart’s release by love. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. ",
+            "matched": true
+          },
+          "dn33:2.2.74": {
+            "scid": "dn33:2.2.74",
+            "pli": "Aṭṭhānametaṁ, āvuso, anavakāso, yaṁ mettāya cetovimuttiyā bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya. ",
+            "de": "Es ist unmöglich, werte Freundin, es kann nicht sein, dass die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> entwickelt und richtig umgesetzt wurde, ",
+            "en": "It’s impossible, reverend, it cannot happen that the heart’s release by love has been developed and properly implemented, ",
+            "matched": true
+          },
+          "dn33:2.2.76": {
+            "scid": "dn33:2.2.76",
+            "pli": "Nissaraṇaṁ hetaṁ, āvuso, byāpādassa, yadidaṁ mettā cetovimuttī’ti.  ",
+            "de": "Denn durch die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> entrinnt man bösem Willen.‘ ",
+            "en": "For it is the heart’s release by love that is the escape from ill will.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.7.36": {
+            "scid": "dn34:1.7.36",
+            "pli": "‘mettā hi kho me, cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā, ",
+            "de": "‚Ich habe die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> entwickelt. Ich habe sie gepflegt, sie zu meinem Fahrzeug und meiner Grundlage gemacht, habe sie hochgehalten, gefestigt und richtig umgesetzt. ",
+            "en": "‘I’ve developed the heart’s release by love. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. ",
+            "matched": true
+          },
+          "dn34:1.7.39": {
+            "scid": "dn34:1.7.39",
+            "pli": "Aṭṭhānametaṁ āvuso anavakāso yaṁ mettāya cetovimuttiyā bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya. ",
+            "de": "Es ist unmöglich, werter Freund, es kann nicht sein, dass die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> entwickelt und richtig umgesetzt wurde, ",
+            "en": "It’s impossible, reverend, it cannot happen that the heart’s release by love has been developed and properly implemented, ",
+            "matched": true
+          },
+          "dn34:1.7.41": {
+            "scid": "dn34:1.7.41",
+            "pli": "Nissaraṇaṁ hetaṁ, āvuso, byāpādassa, yadidaṁ mettācetovimuttī’ti.  ",
+            "de": "Denn durch die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> entrinnt man bösem Willen.‘ ",
+            "en": "For it is the heart’s release by love that is the escape from ill will.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an11/an11.15_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an11/an11.15_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an11/an11.15_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an11.15",
+        "lang": "de",
+        "segMap": {
+          "an11.15:1.1": {
+            "scid": "an11.15:1.1",
+            "pli": "“Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasānisaṁsā pāṭikaṅkhā. ",
+            "de": "„Mönche und Nonnen, wenn man die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> geübt, entwickelt und gepflegt hat, sie zu seinem Fahrzeug und seiner Grundlage gemacht, sie hochgehalten, gefestigt und richtig umgesetzt hat, kann man elf vorteilhafte Folgen erwarten. ",
+            "en": "“Mendicants, you can expect eleven benefits when the heart’s release by love has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented. ",
+            "matched": true
+          },
+          "an11.15:2.3": {
+            "scid": "an11.15:2.3",
+            "pli": "Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ime ekādasānisaṁsā pāṭikaṅkhā”ti. ",
+            "de": "Wenn man die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> geübt, entwickelt und gepflegt hat, sie zu seinem Fahrzeug und seiner Grundlage gemacht, sie hochgehalten, gefestigt und richtig umgesetzt hat, kann man diese elf vorteilhaften Folgen erwarten.“ ",
+            "en": "You can expect eleven benefits when the heart’s release by love has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented.” ",
+            "matched": true
+          }
+        },
+        "score": 2.25,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 11\n2. Besinnung\n15. Die vorteilhaften Folgen der Liebe",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 7
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.11-20_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an1/an1.11-20_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an1/an1.11-20_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.11-20",
+        "lang": "de",
+        "segMap": {
+          "an1.17:1.1": {
+            "scid": "an1.17:1.1",
+            "pli": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppanno vā byāpādo nuppajjati uppanno vā byāpādo pahīyati yathayidaṁ, bhikkhave, mettā cetovimutti. ",
+            "de": "„Mönche und Nonnen, ich sehe kein einziges Ding, das bösen Willen so am Entstehen hindert oder ihn verschwinden lässt, wenn er entstanden ist, wie die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span>. ",
+            "en": "“Mendicants, I do not see a single thing that prevents ill will from arising, or, when it has arisen, abandons it like the heart’s release by love. ",
+            "matched": true
+          },
+          "an1.17:1.2": {
+            "scid": "an1.17:1.2",
+            "pli": "Mettaṁ, bhikkhave, cetovimuttiṁ yoniso manasi karoto anuppanno ceva byāpādo nuppajjati uppanno ca byāpādo pahīyatī”ti. ",
+            "de": "Wenn man sich mit der <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> genau befasst, entsteht kein böser Wille, und wenn er bereits entstanden ist, verschwindet er.“ ",
+            "en": "When you attend properly on the heart’s release by love, ill will does not arise, or, if it has already arisen, it’s given up.” ",
+            "matched": true
+          }
+        },
+        "score": 2.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 1\n2. Die Hindernisse aufgeben\n11–20",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 44,
+          "de": 43,
+          "en": 43
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.68_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.68_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.68_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.68",
+        "lang": "de",
+        "segMap": {
+          "an3.68:7.2": {
+            "scid": "an3.68:7.2",
+            "pli": "‘“Mettā cetovimuttī”tissa vacanīyaṁ. ",
+            "de": "Dann solltet ihr sagen: ‚die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span>.‘ ",
+            "en": "You should say: ‘The heart’s release by love.’ ",
+            "matched": true
+          },
+          "an3.68:7.3": {
+            "scid": "an3.68:7.3",
+            "pli": "Tassa mettaṁ cetovimuttiṁ yoniso manasi karoto anuppanno ceva doso nuppajjati uppanno ca doso pahīyati. ",
+            "de": "Wenn man sich mit der <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> genau befasst, entsteht kein Hass, und wenn er bereits entstanden ist, löst er sich auf. ",
+            "en": "When you attend properly on the heart’s release by love, hate doesn’t arise, or if it’s already arisen it’s given up. ",
+            "matched": true
+          }
+        },
+        "score": 2.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n68. Anhänger anderer Lehren",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 47,
+          "de": 46,
+          "en": 46
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.63_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an8/an8.63_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an8/an8.63_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.63",
+        "lang": "de",
+        "segMap": {
+          "an8.63:2.2": {
+            "scid": "an8.63:2.2",
+            "pli": "‘mettā me cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. ",
+            "de": "‚Ich will die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> entwickeln. Ich werde sie pflegen, sie zu meinem Fahrzeug und meiner Grundlage machen, werde sie hochhalten, festigen und richtig umsetzen.‘ ",
+            "en": "‘I will develop the heart’s release by love. I’ll cultivate it, make it my vehicle and my basis, keep it up, consolidate it, and properly implement it.’ ",
+            "matched": true
+          }
+        },
+        "score": 1.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 8\n7. Erdbeben\n63. Eine kurze Unterweisung",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 37,
+          "de": 36,
+          "en": 36
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an1/an1.394-574_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an1/an1.394-574_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an1.394-574",
+        "lang": "de",
+        "segMap": {
+          "an1.398:1.1": {
+            "scid": "an1.398:1.1",
+            "pli": "mettaṁ cetovimuttiṁ bhāveti …pe… ",
+            "de": "oder die <span class=\"ebt-matched\">Erlösung des Herzens durch Liebe</span> … ",
+            "en": "or the heart’s release by love … ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 1\n29. Noch ein Kapitel über ein Fingerschnippen\n394–574",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 176,
+          "de": 175,
+          "en": 175
+        }
+      }
+    ]
+  }
+}

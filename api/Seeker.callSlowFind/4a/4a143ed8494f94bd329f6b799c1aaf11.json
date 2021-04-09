@@ -1,0 +1,1230 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "should be given up",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "should be given up",
+    "method": "phrase",
+    "resultPattern": "\\bshould be given up",
+    "segsMatched": 107,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn2_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn2_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn54_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn54_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.23_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.23_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.47_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.47_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn45/sn45.159_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn45/sn45.159_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn149_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn149_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.254_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.254_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.25_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.25_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.24_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.24_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn44_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.188_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.188_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.94_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.94_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.29_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.29_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.12_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn36/sn36.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn36/sn36.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn92_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn92_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn91_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn91_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag16.6_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag16.6_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.58/en/sujato",
+      "mn2/en/sujato",
+      "dn34/en/sujato",
+      "mn54/en/sujato",
+      "an10.23/en/sujato",
+      "an7.47/en/sujato",
+      "sn45.159/en/sujato",
+      "mn149/en/sujato",
+      "an4.254/en/sujato",
+      "sn35.25/en/sujato",
+      "sn35.24/en/sujato",
+      "mn44/en/sujato",
+      "an4.188/en/sujato",
+      "an10.94/en/sujato",
+      "sn56.29/en/sujato",
+      "sn56.12/en/sujato",
+      "sn56.11/en/sujato",
+      "sn36.3/en/sujato",
+      "mn92/en/sujato",
+      "mn91/en/sujato",
+      "thag16.6/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.58_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.58_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.58",
+        "lang": "en",
+        "segMap": {
+          "an6.58:2.2": {
+            "scid": "an6.58:2.2",
+            "pli": "Idha, bhikkhave, bhikkhuno ye āsavā saṁvarā pahātabbā te saṁvarena pahīnā honti, ",
+            "en": "It’s a mendicant who, by restraint, has given up the defilements that <span class=\"ebt-matched\">should be given up</span> by restraint. ",
+            "matched": true
+          },
+          "an6.58:2.3": {
+            "scid": "an6.58:2.3",
+            "pli": "ye āsavā paṭisevanā pahātabbā te paṭisevanāya pahīnā honti, ",
+            "en": "By using, they’ve given up the defilements that <span class=\"ebt-matched\">should be given up</span> by using. ",
+            "matched": true
+          },
+          "an6.58:2.4": {
+            "scid": "an6.58:2.4",
+            "pli": "ye āsavā adhivāsanā pahātabbā te adhivāsanāya pahīnā honti, ",
+            "en": "By enduring, they’ve given up the defilements that <span class=\"ebt-matched\">should be given up</span> by enduring. ",
+            "matched": true
+          },
+          "an6.58:2.5": {
+            "scid": "an6.58:2.5",
+            "pli": "ye āsavā parivajjanā pahātabbā te parivajjanāya pahīnā honti, ",
+            "en": "By avoiding, they’ve given up the defilements that <span class=\"ebt-matched\">should be given up</span> by avoiding. ",
+            "matched": true
+          },
+          "an6.58:2.6": {
+            "scid": "an6.58:2.6",
+            "pli": "ye āsavā vinodanā pahātabbā te vinodanāya pahīnā honti, ",
+            "en": "By getting rid, they’ve given up the defilements that <span class=\"ebt-matched\">should be given up</span> by getting rid. ",
+            "matched": true
+          },
+          "an6.58:2.7": {
+            "scid": "an6.58:2.7",
+            "pli": "ye āsavā bhāvanā pahātabbā te bhāvanāya pahīnā honti. ",
+            "en": "By developing, they’ve given up the defilements that <span class=\"ebt-matched\">should be given up</span> by developing. ",
+            "matched": true
+          },
+          "an6.58:3.1": {
+            "scid": "an6.58:3.1",
+            "pli": "Katame ca, bhikkhave, āsavā saṁvarā pahātabbā ye saṁvarena pahīnā honti? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by restraint? ",
+            "matched": true
+          },
+          "an6.58:3.10": {
+            "scid": "an6.58:3.10",
+            "pli": "Ime vuccanti, bhikkhave, āsavā saṁvarā pahātabbā ye saṁvarena pahīnā honti. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by restraint. ",
+            "matched": true
+          },
+          "an6.58:4.1": {
+            "scid": "an6.58:4.1",
+            "pli": "Katame ca, bhikkhave, āsavā paṭisevanā pahātabbā ye paṭisevanāya pahīnā honti? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by using? ",
+            "matched": true
+          },
+          "an6.58:4.11": {
+            "scid": "an6.58:4.11",
+            "pli": "Ime vuccanti, bhikkhave, āsavā paṭisevanā pahātabbā ye paṭisevanāya pahīnā honti. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by using. ",
+            "matched": true
+          },
+          "an6.58:5.1": {
+            "scid": "an6.58:5.1",
+            "pli": "Katame ca, bhikkhave, āsavā adhivāsanā pahātabbā ye adhivāsanāya pahīnā honti? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by enduring? ",
+            "matched": true
+          },
+          "an6.58:5.4": {
+            "scid": "an6.58:5.4",
+            "pli": "Ime vuccanti, bhikkhave, āsavā adhivāsanā pahātabbā ye adhivāsanāya pahīnā honti. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by enduring. ",
+            "matched": true
+          },
+          "an6.58:6.1": {
+            "scid": "an6.58:6.1",
+            "pli": "Katame ca, bhikkhave, āsavā parivajjanā pahātabbā ye parivajjanāya pahīnā honti? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by avoiding? ",
+            "matched": true
+          },
+          "an6.58:6.4": {
+            "scid": "an6.58:6.4",
+            "pli": "Ime vuccanti, bhikkhave, āsavā parivajjanā pahātabbā ye parivajjanāya pahīnā honti. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by avoiding. ",
+            "matched": true
+          },
+          "an6.58:7.1": {
+            "scid": "an6.58:7.1",
+            "pli": "Katame ca, bhikkhave, āsavā vinodanā pahātabbā ye vinodanāya pahīnā honti? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by getting rid? ",
+            "matched": true
+          },
+          "an6.58:7.7": {
+            "scid": "an6.58:7.7",
+            "pli": "Ime vuccanti, bhikkhave, āsavā vinodanā pahātabbā ye vinodanāya pahīnā honti. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by getting rid. ",
+            "matched": true
+          },
+          "an6.58:8.1": {
+            "scid": "an6.58:8.1",
+            "pli": "Katame ca, bhikkhave, āsavā bhāvanā pahātabbā ye bhāvanāya pahīnā honti? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by developing? ",
+            "matched": true
+          },
+          "an6.58:8.10": {
+            "scid": "an6.58:8.10",
+            "pli": "Ime vuccanti, bhikkhave, āsavā bhāvanā pahātabbā ye bhāvanāya pahīnā honti. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by developing. ",
+            "matched": true
+          }
+        },
+        "score": 18.305,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n6. The Great Chapter\n58. Defilements",
+        "segsMatched": 18,
+        "langSegs": {
+          "pli": 59,
+          "en": 58
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn2_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn2",
+        "lang": "en",
+        "segMap": {
+          "mn2:4.1": {
+            "scid": "mn2:4.1",
+            "pli": "Atthi, bhikkhave, āsavā dassanā pahātabbā, atthi āsavā saṁvarā pahātabbā, atthi āsavā paṭisevanā pahātabbā, atthi āsavā adhivāsanā pahātabbā, atthi āsavā parivajjanā pahātabbā, atthi āsavā vinodanā pahātabbā, atthi āsavā bhāvanā pahātabbā. ",
+            "en": "Some defilements <span class=\"ebt-matched\">should be given up</span> by seeing, some by restraint, some by using, some by enduring, some by avoiding, some by dispelling, and some by developing. ",
+            "matched": true
+          },
+          "mn2:5.1": {
+            "scid": "mn2:5.1",
+            "pli": "Katame ca, bhikkhave, āsavā dassanā pahātabbā? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by seeing? ",
+            "matched": true
+          },
+          "mn2:10.11": {
+            "scid": "mn2:10.11",
+            "pli": "Tassa amanasikaraṇīyānaṁ dhammānaṁ amanasikārā manasikaraṇīyānaṁ dhammānaṁ manasikārā anuppannā ceva āsavā na uppajjanti, uppannā ca āsavā pahīyanti. ",
+            "en": "Because of not paying attention to what they should not and paying attention to what they should, unarisen defilements don’t arise and arisen defilements are given up. ",
+            "matched": true
+          },
+          "mn2:11.4": {
+            "scid": "mn2:11.4",
+            "pli": "Ime vuccanti, bhikkhave, āsavā dassanā pahātabbā. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by seeing. ",
+            "matched": true
+          },
+          "mn2:12.1": {
+            "scid": "mn2:12.1",
+            "pli": "Katame ca, bhikkhave, āsavā saṁvarā pahātabbā? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by restraint? ",
+            "matched": true
+          },
+          "mn2:12.11": {
+            "scid": "mn2:12.11",
+            "pli": "Ime vuccanti, bhikkhave, āsavā saṁvarā pahātabbā. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by restraint. ",
+            "matched": true
+          },
+          "mn2:13.1": {
+            "scid": "mn2:13.1",
+            "pli": "Katame ca, bhikkhave, āsavā paṭisevanā pahātabbā? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by using? ",
+            "matched": true
+          },
+          "mn2:17.2": {
+            "scid": "mn2:17.2",
+            "pli": "Ime vuccanti, bhikkhave, āsavā paṭisevanā pahātabbā. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by using. ",
+            "matched": true
+          },
+          "mn2:18.1": {
+            "scid": "mn2:18.1",
+            "pli": "Katame ca, bhikkhave, āsavā adhivāsanā pahātabbā? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by enduring? ",
+            "matched": true
+          },
+          "mn2:18.4": {
+            "scid": "mn2:18.4",
+            "pli": "Ime vuccanti, bhikkhave, āsavā adhivāsanā pahātabbā. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by enduring. ",
+            "matched": true
+          },
+          "mn2:19.1": {
+            "scid": "mn2:19.1",
+            "pli": "Katame ca, bhikkhave, āsavā parivajjanā pahātabbā? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by avoiding? ",
+            "matched": true
+          },
+          "mn2:19.5": {
+            "scid": "mn2:19.5",
+            "pli": "Ime vuccanti, bhikkhave, āsavā parivajjanā pahātabbā. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by avoiding. ",
+            "matched": true
+          },
+          "mn2:20.1": {
+            "scid": "mn2:20.1",
+            "pli": "Katame ca, bhikkhave, āsavā vinodanā pahātabbā? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by dispelling? ",
+            "matched": true
+          },
+          "mn2:20.4": {
+            "scid": "mn2:20.4",
+            "pli": "Ime vuccanti, bhikkhave, āsavā vinodanā pahātabbā. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by dispelling. ",
+            "matched": true
+          },
+          "mn2:21.1": {
+            "scid": "mn2:21.1",
+            "pli": "Katame ca, bhikkhave, āsavā bhāvanā pahātabbā? ",
+            "en": "And what are the defilements that <span class=\"ebt-matched\">should be given up</span> by developing? ",
+            "matched": true
+          },
+          "mn2:21.10": {
+            "scid": "mn2:21.10",
+            "pli": "Ime vuccanti, bhikkhave, āsavā bhāvanā pahātabbā. ",
+            "en": "These are called the defilements that <span class=\"ebt-matched\">should be given up</span> by developing. ",
+            "matched": true
+          },
+          "mn2:22.1": {
+            "scid": "mn2:22.1",
+            "pli": "Yato kho, bhikkhave, bhikkhuno ye āsavā dassanā pahātabbā te dassanā pahīnā honti, ye āsavā saṁvarā pahātabbā te saṁvarā pahīnā honti, ye āsavā paṭisevanā pahātabbā te paṭisevanā pahīnā honti, ye āsavā adhivāsanā pahātabbā te adhivāsanā pahīnā honti, ye āsavā parivajjanā pahātabbā te parivajjanā pahīnā honti, ye āsavā vinodanā pahātabbā te vinodanā pahīnā honti, ye āsavā bhāvanā pahātabbā te bhāvanā pahīnā honti; ",
+            "en": "Now, take a mendicant who, by seeing, has given up the defilements that <span class=\"ebt-matched\">should be given up</span> by seeing. By restraint, they’ve given up the defilements that <span class=\"ebt-matched\">should be given up</span> by restraint. By using, they’ve given up the defilements that <span class=\"ebt-matched\">should be given up</span> by using. By enduring, they’ve given up the defilements that <span class=\"ebt-matched\">should be given up</span> by enduring. By avoiding, they’ve given up the defilements that <span class=\"ebt-matched\">should be given up</span> by avoiding. By dispelling, they’ve given up the defilements that <span class=\"ebt-matched\">should be given up</span> by dispelling. By developing, they’ve given up the defilements that <span class=\"ebt-matched\">should be given up</span> by developing. ",
+            "matched": true
+          }
+        },
+        "score": 17.136,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 2\nAll the Defilements",
+        "segsMatched": 17,
+        "langSegs": {
+          "pli": 125,
+          "en": 124
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.2.1": {
+            "scid": "dn34:1.2.1",
+            "pli": "Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo. ",
+            "en": "Reverends, one thing is helpful, one thing should be developed, one thing should be completely understood, one thing <span class=\"ebt-matched\">should be given up</span>, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing should be produced, one thing should be directly known, one thing should be realized. ",
+            "matched": true
+          },
+          "dn34:1.2.11": {
+            "scid": "dn34:1.2.11",
+            "pli": "Katamo eko dhammo pahātabbo? ",
+            "en": "What one thing <span class=\"ebt-matched\">should be given up</span>? ",
+            "matched": true
+          },
+          "dn34:1.3.1": {
+            "scid": "dn34:1.3.1",
+            "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
+            "en": "Two things are helpful, two things should be developed, two things should be completely understood, two things <span class=\"ebt-matched\">should be given up</span>, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things should be realized. ",
+            "matched": true
+          },
+          "dn34:1.3.11": {
+            "scid": "dn34:1.3.11",
+            "pli": "Katame dve dhammā pahātabbā? ",
+            "en": "What two things <span class=\"ebt-matched\">should be given up</span>? ",
+            "matched": true
+          },
+          "dn34:1.4.13": {
+            "scid": "dn34:1.4.13",
+            "pli": "Katame tayo dhammā pahātabbā? ",
+            "en": "What three things <span class=\"ebt-matched\">should be given up</span>? ",
+            "matched": true
+          },
+          "dn34:1.5.17": {
+            "scid": "dn34:1.5.17",
+            "pli": "Katame cattāro dhammā pahātabbā? ",
+            "en": "What four things <span class=\"ebt-matched\">should be given up</span>? ",
+            "matched": true
+          },
+          "dn34:1.6.19": {
+            "scid": "dn34:1.6.19",
+            "pli": "Katame pañca dhammā pahātabbā? ",
+            "en": "What five things <span class=\"ebt-matched\">should be given up</span>? ",
+            "matched": true
+          },
+          "dn34:1.7.21": {
+            "scid": "dn34:1.7.21",
+            "pli": "Katame cha dhammā pahātabbā? ",
+            "en": "What six things <span class=\"ebt-matched\">should be given up</span>? ",
+            "matched": true
+          },
+          "dn34:1.8.27": {
+            "scid": "dn34:1.8.27",
+            "pli": "Katame satta dhammā pahātabbā? ",
+            "en": "What seven things <span class=\"ebt-matched\">should be given up</span>? ",
+            "matched": true
+          },
+          "dn34:2.1.38": {
+            "scid": "dn34:2.1.38",
+            "pli": "Katame aṭṭha dhammā pahātabbā? ",
+            "en": "What eight things <span class=\"ebt-matched\">should be given up</span>? ",
+            "matched": true
+          },
+          "dn34:2.2.30": {
+            "scid": "dn34:2.2.30",
+            "pli": "Katame nava dhammā pahātabbā? ",
+            "en": "What nine things <span class=\"ebt-matched\">should be given up</span>? ",
+            "matched": true
+          },
+          "dn34:2.3.1": {
+            "scid": "dn34:2.3.1",
+            "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
+            "en": "Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things <span class=\"ebt-matched\">should be given up</span>, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
+            "matched": true
+          },
+          "dn34:2.3.52": {
+            "scid": "dn34:2.3.52",
+            "pli": "Katame dasa dhammā pahātabbā? ",
+            "en": "What ten things <span class=\"ebt-matched\">should be given up</span>? ",
+            "matched": true
+          }
+        },
+        "score": 13.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 13,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.23_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.23",
+        "lang": "en",
+        "segMap": {
+          "an10.23:1.1": {
+            "scid": "an10.23:1.1",
+            "pli": "“Atthi, bhikkhave, dhammā kāyena pahātabbā, no vācāya. ",
+            "en": "“Mendicants, there are things that <span class=\"ebt-matched\">should be given up</span> by the body, not by speech. ",
+            "matched": true
+          },
+          "an10.23:1.2": {
+            "scid": "an10.23:1.2",
+            "pli": "Atthi, bhikkhave, dhammā vācāya pahātabbā, no kāyena. ",
+            "en": "There are things that <span class=\"ebt-matched\">should be given up</span> by speech, not by the body. ",
+            "matched": true
+          },
+          "an10.23:1.3": {
+            "scid": "an10.23:1.3",
+            "pli": "Atthi, bhikkhave, dhammā neva kāyena pahātabbā no vācāya, paññāya disvā pahātabbā. ",
+            "en": "There are things that <span class=\"ebt-matched\">should be given up</span> neither by the body, nor by speech, but by seeing again and again with wisdom. ",
+            "matched": true
+          },
+          "an10.23:2.1": {
+            "scid": "an10.23:2.1",
+            "pli": "Katame ca, bhikkhave, dhammā kāyena pahātabbā, no vācāya? ",
+            "en": "And what are the things that <span class=\"ebt-matched\">should be given up</span> by the body, not by speech? ",
+            "matched": true
+          },
+          "an10.23:2.7": {
+            "scid": "an10.23:2.7",
+            "pli": "Ime vuccanti, bhikkhave, dhammā kāyena pahātabbā, no vācāya. ",
+            "en": "These are the things that <span class=\"ebt-matched\">should be given up</span> by the body, not by speech. ",
+            "matched": true
+          },
+          "an10.23:3.1": {
+            "scid": "an10.23:3.1",
+            "pli": "Katame ca, bhikkhave, dhammā vācāya pahātabbā, no kāyena? ",
+            "en": "And what are the things that <span class=\"ebt-matched\">should be given up</span> by speech, not by the body? ",
+            "matched": true
+          },
+          "an10.23:3.7": {
+            "scid": "an10.23:3.7",
+            "pli": "Ime vuccanti, bhikkhave, dhammā vācāya pahātabbā, no kāyena. ",
+            "en": "These are the things that <span class=\"ebt-matched\">should be given up</span> by speech, not by the body. ",
+            "matched": true
+          },
+          "an10.23:4.1": {
+            "scid": "an10.23:4.1",
+            "pli": "Katame ca, bhikkhave, dhammā neva kāyena pahātabbā no vācāya, paññāya disvā pahātabbā? ",
+            "en": "And what are the things that <span class=\"ebt-matched\">should be given up</span> neither by the body, nor by speech, but by seeing again and again with wisdom? ",
+            "matched": true
+          },
+          "an10.23:4.9": {
+            "scid": "an10.23:4.9",
+            "pli": "macchariyaṁ, bhikkhave, neva kāyena pahātabbaṁ no vācāya, paññāya disvā pahātabbaṁ. ",
+            "en": "and stinginess are things that <span class=\"ebt-matched\">should be given up</span> neither by the body, nor by speech, but by seeing again and again with wisdom. ",
+            "matched": true
+          },
+          "an10.23:5.1": {
+            "scid": "an10.23:5.1",
+            "pli": "Pāpikā, bhikkhave, issā neva kāyena pahātabbā no vācāya, paññāya disvā pahātabbā. ",
+            "en": "Nasty jealousy <span class=\"ebt-matched\">should be given up</span> neither by the body, nor by speech, but by seeing again and again with wisdom. ",
+            "matched": true
+          },
+          "an10.23:6.1": {
+            "scid": "an10.23:6.1",
+            "pli": "Pāpikā, bhikkhave, icchā neva kāyena pahātabbā no vācāya, paññāya disvā pahātabbā. ",
+            "en": "Corrupt wishes <span class=\"ebt-matched\">should be given up</span> neither by the body, nor by speech, but by seeing again and again with wisdom. ",
+            "matched": true
+          },
+          "an10.23:6.13": {
+            "scid": "an10.23:6.13",
+            "pli": "Ime vuccanti, bhikkhave, dhammā neva kāyena pahātabbā no vācāya, paññāya disvā pahātabbā. ",
+            "en": "Corrupt wishes <span class=\"ebt-matched\">should be given up</span> neither by the body, nor by speech, but by seeing again and again with wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 12.128,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n3. The Great Chapter\n23. Body",
+        "segsMatched": 12,
+        "langSegs": {
+          "pli": 94,
+          "en": 93
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn54_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn54_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn54",
+        "lang": "en",
+        "segMap": {
+          "mn54:4.4": {
+            "scid": "mn54:4.4",
+            "pli": "Apāṇātipātaṁ nissāya pāṇātipāto pahātabbo; ",
+            "en": "Killing living creatures <span class=\"ebt-matched\">should be given up</span>, relying on not killing living creatures. ",
+            "matched": true
+          },
+          "mn54:4.5": {
+            "scid": "mn54:4.5",
+            "pli": "dinnādānaṁ nissāya adinnādānaṁ pahātabbaṁ; ",
+            "en": "Stealing <span class=\"ebt-matched\">should be given up</span>, relying on not stealing. ",
+            "matched": true
+          },
+          "mn54:4.6": {
+            "scid": "mn54:4.6",
+            "pli": "saccavācaṁ nissāya musāvādo pahātabbo; ",
+            "en": "Lying <span class=\"ebt-matched\">should be given up</span>, relying on speaking the truth. ",
+            "matched": true
+          },
+          "mn54:4.7": {
+            "scid": "mn54:4.7",
+            "pli": "apisuṇaṁ vācaṁ nissāya pisuṇā vācā pahātabbā; ",
+            "en": "Divisive speech <span class=\"ebt-matched\">should be given up</span>, relying on speech that isn’t divisive. ",
+            "matched": true
+          },
+          "mn54:4.8": {
+            "scid": "mn54:4.8",
+            "pli": "agiddhilobhaṁ nissāya giddhilobho pahātabbo; ",
+            "en": "Greed and lust <span class=\"ebt-matched\">should be given up</span>, relying on not being greedy and lustful. ",
+            "matched": true
+          },
+          "mn54:4.9": {
+            "scid": "mn54:4.9",
+            "pli": "anindārosaṁ nissāya nindāroso pahātabbo; ",
+            "en": "Blaming and insulting <span class=\"ebt-matched\">should be given up</span>, relying on not blaming and not insulting. ",
+            "matched": true
+          },
+          "mn54:4.10": {
+            "scid": "mn54:4.10",
+            "pli": "akkodhūpāyāsaṁ nissāya kodhūpāyāso pahātabbo; ",
+            "en": "Anger and distress <span class=\"ebt-matched\">should be given up</span>, relying on not being angry and distressed. ",
+            "matched": true
+          },
+          "mn54:4.11": {
+            "scid": "mn54:4.11",
+            "pli": "anatimānaṁ nissāya atimāno pahātabbo. ",
+            "en": "Arrogance <span class=\"ebt-matched\">should be given up</span>, relying on not being arrogant. ",
+            "matched": true
+          },
+          "mn54:6.1": {
+            "scid": "mn54:6.1",
+            "pli": "“‘Apāṇātipātaṁ nissāya pāṇātipāto pahātabbo’ti iti kho panetaṁ vuttaṁ, kiñcetaṁ paṭicca vuttaṁ? ",
+            "en": "“‘Killing living creatures <span class=\"ebt-matched\">should be given up</span>, relying on not killing living creatures.’ That’s what I said, but why did I say it? ",
+            "matched": true
+          },
+          "mn54:6.7": {
+            "scid": "mn54:6.7",
+            "pli": "‘Apāṇātipātaṁ nissāya pāṇātipāto pahātabbo’ti—",
+            "en": "‘Killing living creatures <span class=\"ebt-matched\">should be given up</span>, relying on not killing living creatures.’ ",
+            "matched": true
+          },
+          "mn54:13.1": {
+            "scid": "mn54:13.1",
+            "pli": "‘Anatimānaṁ nissāya atimāno pahātabbo’ti iti kho panetaṁ vuttaṁ, kiñcetaṁ paṭicca vuttaṁ? ",
+            "en": "Arrogance <span class=\"ebt-matched\">should be given up</span>, relying on not being arrogant.’ That’s what I said, but why did I say it? ",
+            "matched": true
+          },
+          "mn54:13.7": {
+            "scid": "mn54:13.7",
+            "pli": "‘Anatimānaṁ nissāya atimāno pahātabbo’ti—",
+            "en": "‘Arrogance <span class=\"ebt-matched\">should be given up</span> by not being arrogant.’ ",
+            "matched": true
+          }
+        },
+        "score": 12.057,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 54\nWith Potaliya the Wanderer",
+        "segsMatched": 12,
+        "langSegs": {
+          "pli": 209,
+          "en": 208
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.47_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.47_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.47",
+        "lang": "en",
+        "segMap": {
+          "an7.47:8.1": {
+            "scid": "an7.47:8.1",
+            "pli": "Tayome, brāhmaṇa, aggī pahātabbā parivajjetabbā, na sevitabbā. ",
+            "en": "Brahmin, these three fires <span class=\"ebt-matched\">should be given up</span> and rejected, not cultivated. ",
+            "matched": true
+          },
+          "an7.47:9.1": {
+            "scid": "an7.47:9.1",
+            "pli": "Kasmā cāyaṁ, brāhmaṇa, rāgaggi pahātabbo parivajjetabbo, na sevitabbo? ",
+            "en": "And why should the fire of greed be given up and rejected, not cultivated? ",
+            "matched": true
+          },
+          "an7.47:9.4": {
+            "scid": "an7.47:9.4",
+            "pli": "Tasmāyaṁ rāgaggi pahātabbo parivajjetabbo, na sevitabbo. ",
+            "en": "That’s why the fire of greed <span class=\"ebt-matched\">should be given up</span> and rejected, not cultivated. ",
+            "matched": true
+          },
+          "an7.47:10.1": {
+            "scid": "an7.47:10.1",
+            "pli": "Kasmā cāyaṁ, brāhmaṇa, dosaggi pahātabbo parivajjetabbo, na sevitabbo? ",
+            "en": "And why should the fire of hate be given up and rejected, not cultivated? ",
+            "matched": true
+          },
+          "an7.47:10.4": {
+            "scid": "an7.47:10.4",
+            "pli": "Tasmāyaṁ dosaggi pahātabbo parivajjetabbo, na sevitabbo. ",
+            "en": "That’s why the fire of hate <span class=\"ebt-matched\">should be given up</span> and rejected, not cultivated. ",
+            "matched": true
+          },
+          "an7.47:11.1": {
+            "scid": "an7.47:11.1",
+            "pli": "Kasmā cāyaṁ, brāhmaṇa, mohaggi pahātabbo parivajjetabbo, na sevitabbo? ",
+            "en": "And why should the fire of delusion be given up and rejected, not cultivated? ",
+            "matched": true
+          },
+          "an7.47:11.4": {
+            "scid": "an7.47:11.4",
+            "pli": "Tasmāyaṁ mohaggi pahātabbo parivajjetabbo, na sevitabbo. ",
+            "en": "That’s why the fire of delusion <span class=\"ebt-matched\">should be given up</span> and rejected, not cultivated. ",
+            "matched": true
+          },
+          "an7.47:11.5": {
+            "scid": "an7.47:11.5",
+            "pli": "Ime kho tayo, brāhmaṇa, aggī pahātabbā parivajjetabbā, na sevitabbā. ",
+            "en": "These three fires <span class=\"ebt-matched\">should be given up</span> and rejected, not cultivated. ",
+            "matched": true
+          }
+        },
+        "score": 8.104,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n5. A Great Sacrifice\n47. Fires (2nd)",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 77,
+          "en": 76
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.254_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.254_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.254",
+        "lang": "en",
+        "segMap": {
+          "an4.254:1.4": {
+            "scid": "an4.254:1.4",
+            "pli": "atthi, bhikkhave, dhammā abhiññā pahātabbā; ",
+            "en": "There are things that <span class=\"ebt-matched\">should be given up</span> by direct knowledge. ",
+            "matched": true
+          },
+          "an4.254:3.1": {
+            "scid": "an4.254:3.1",
+            "pli": "Katame ca, bhikkhave, dhammā abhiññā pahātabbā? ",
+            "en": "And what are the things that <span class=\"ebt-matched\">should be given up</span> by direct knowledge? ",
+            "matched": true
+          },
+          "an4.254:3.3": {
+            "scid": "an4.254:3.3",
+            "pli": "ime vuccanti, bhikkhave, dhammā abhiññā pahātabbā. ",
+            "en": "These are called the things that <span class=\"ebt-matched\">should be given up</span> by direct knowledge. ",
+            "matched": true
+          }
+        },
+        "score": 3.13,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n26. Insight\n254. Insight",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn45/sn45.159_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn45/sn45.159_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn45.159",
+        "lang": "en",
+        "segMap": {
+          "sn45.159:1.3": {
+            "scid": "sn45.159:1.3",
+            "pli": "ye dhammā abhiññā pahātabbā, te dhamme abhiññā pajahati, ye dhammā abhiññā sacchikātabbā, te dhamme abhiññā sacchikaroti, ye dhammā abhiññā bhāvetabbā, te dhamme abhiññā bhāveti. ",
+            "en": "They give up by direct knowledge the things that <span class=\"ebt-matched\">should be given up</span> by direct knowledge. They realize by direct knowledge the things that should be realized by direct knowledge. They develop by direct knowledge the things that should be developed by direct knowledge. ",
+            "matched": true
+          },
+          "sn45.159:2.6": {
+            "scid": "sn45.159:2.6",
+            "pli": "Katame ca, bhikkhave, dhammā abhiññā pahātabbā? ",
+            "en": "And what are the things that <span class=\"ebt-matched\">should be given up</span> by direct knowledge? ",
+            "matched": true
+          },
+          "sn45.159:2.8": {
+            "scid": "sn45.159:2.8",
+            "pli": "ime, bhikkhave, dhammā abhiññā pahātabbā. ",
+            "en": "These are the things that <span class=\"ebt-matched\">should be given up</span> by direct knowledge. ",
+            "matched": true
+          }
+        },
+        "score": 3.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 45\n12. Hard Work\n159. A Guest House",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 24,
+          "en": 23
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn149_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn149_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn149",
+        "lang": "en",
+        "segMap": {
+          "mn149:10.12": {
+            "scid": "mn149:10.12",
+            "pli": "Ye dhammā abhiññā pahātabbā te dhamme abhiññā pajahati. ",
+            "en": "They give up by direct knowledge those things that <span class=\"ebt-matched\">should be given up</span> by direct knowledge. ",
+            "matched": true
+          },
+          "mn149:11.5": {
+            "scid": "mn149:11.5",
+            "pli": "Katame ca, bhikkhave, dhammā abhiññā pahātabbā? ",
+            "en": "And what are the things that <span class=\"ebt-matched\">should be given up</span> by direct knowledge? ",
+            "matched": true
+          },
+          "mn149:11.7": {
+            "scid": "mn149:11.7",
+            "pli": "ime dhammā abhiññā pahātabbā. ",
+            "en": "These are the things that <span class=\"ebt-matched\">should be given up</span> by direct knowledge. ",
+            "matched": true
+          }
+        },
+        "score": 3.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 149\nThe Great Discourse on the Six Sense Fields",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 105,
+          "en": 104
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn44_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn44",
+        "lang": "en",
+        "segMap": {
+          "mn44:27.1": {
+            "scid": "mn44:27.1",
+            "pli": "“Sukhāya panāyye, vedanāya kiṁ pahātabbaṁ, dukkhāya vedanāya kiṁ pahātabbaṁ, adukkhamasukhāya vedanāya kiṁ pahātabban”ti? ",
+            "en": "“What <span class=\"ebt-matched\">should be given up</span> in regard to each of these three feelings?” ",
+            "matched": true
+          },
+          "mn44:27.2": {
+            "scid": "mn44:27.2",
+            "pli": "“Sukhāya kho, āvuso visākha, vedanāya rāgānusayo pahātabbo, dukkhāya vedanāya paṭighānusayo pahātabbo, adukkhamasukhāya vedanāya avijjānusayo pahātabbo”ti. ",
+            "en": "“The underlying tendency to greed <span class=\"ebt-matched\">should be given up</span> when it comes to pleasant feeling. The underlying tendency to repulsion <span class=\"ebt-matched\">should be given up</span> when it comes to painful feeling. The underlying tendency to ignorance <span class=\"ebt-matched\">should be given up</span> when it comes to neutral feeling.” ",
+            "matched": true
+          },
+          "mn44:28.1": {
+            "scid": "mn44:28.1",
+            "pli": "“Sabbāya nu kho, ayye, sukhāya vedanāya rāgānusayo pahātabbo, sabbāya dukkhāya vedanāya paṭighānusayo pahātabbo, sabbāya adukkhamasukhāya vedanāya avijjānusayo pahātabbo”ti? ",
+            "en": "“Should these underlying tendencies be given up regarding all instances of these feelings?” ",
+            "matched": true
+          }
+        },
+        "score": 3.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 44\nThe Shorter Classification",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 138,
+          "en": 137
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.24_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.24_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.24",
+        "lang": "en",
+        "segMap": {
+          "sn35.24:1.4": {
+            "scid": "sn35.24:1.4",
+            "pli": "Cakkhuṁ, bhikkhave, pahātabbaṁ, rūpā pahātabbā, cakkhuviññāṇaṁ pahātabbaṁ, cakkhusamphasso pahātabbo, yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi pahātabbaṁ …pe… ",
+            "en": "The eye <span class=\"ebt-matched\">should be given up</span>. Sights <span class=\"ebt-matched\">should be given up</span>. Eye consciousness <span class=\"ebt-matched\">should be given up</span>. Eye contact <span class=\"ebt-matched\">should be given up</span>. The painful, pleasant, or neutral feeling that arises conditioned by eye contact should also be given up. ",
+            "matched": true
+          },
+          "sn35.24:1.8": {
+            "scid": "sn35.24:1.8",
+            "pli": "mano pahātabbo, dhammā pahātabbā, manoviññāṇaṁ pahātabbaṁ, manosamphasso pahātabbo, yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi pahātabbaṁ. ",
+            "en": "mind <span class=\"ebt-matched\">should be given up</span>. Thoughts <span class=\"ebt-matched\">should be given up</span>. Mind consciousness <span class=\"ebt-matched\">should be given up</span>. Mind contact <span class=\"ebt-matched\">should be given up</span>. The painful, pleasant, or neutral feeling that arises conditioned by mind contact <span class=\"ebt-matched\">should be given up</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.154,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n3. All\n24. Giving Up",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 13,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.25_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.25",
+        "lang": "en",
+        "segMap": {
+          "sn35.25:1.4": {
+            "scid": "sn35.25:1.4",
+            "pli": "Cakkhuṁ, bhikkhave, abhiññā pariññā pahātabbaṁ, rūpā abhiññā pariññā pahātabbā, cakkhuviññāṇaṁ abhiññā pariññā pahātabbaṁ, cakkhusamphasso abhiññā pariññā pahātabbo, yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi abhiññā pariññā pahātabbaṁ …pe… ",
+            "en": "The eye <span class=\"ebt-matched\">should be given up</span> by direct knowledge and complete understanding. Sights <span class=\"ebt-matched\">should be given up</span> by direct knowledge and complete understanding. Eye consciousness <span class=\"ebt-matched\">should be given up</span> by direct knowledge and complete understanding. Eye contact <span class=\"ebt-matched\">should be given up</span> by direct knowledge and complete understanding. The painful, pleasant, or neutral feeling that arises conditioned by eye contact <span class=\"ebt-matched\">should be given up</span> by direct knowledge and complete understanding. ",
+            "matched": true
+          },
+          "sn35.25:1.8": {
+            "scid": "sn35.25:1.8",
+            "pli": "mano abhiññā pariññā pahātabbo, dhammā abhiññā pariññā pahātabbā, manoviññāṇaṁ abhiññā pariññā pahātabbaṁ, manosamphasso abhiññā pariññā pahātabbo, yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi abhiññā pariññā pahātabbaṁ. ",
+            "en": "mind <span class=\"ebt-matched\">should be given up</span> by direct knowledge and complete understanding. Thoughts <span class=\"ebt-matched\">should be given up</span> by direct knowledge and complete understanding. Mind consciousness <span class=\"ebt-matched\">should be given up</span> by direct knowledge and complete understanding. Mind contact <span class=\"ebt-matched\">should be given up</span> by direct knowledge and complete understanding. The painful, pleasant, or neutral feeling that arises conditioned by mind contact <span class=\"ebt-matched\">should be given up</span> by direct knowledge and complete understanding. ",
+            "matched": true
+          }
+        },
+        "score": 2.154,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n3. All\n25. Giving Up By Direct Knowledge and Complete Understanding",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 13,
+          "en": 12
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.188_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.188_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.188",
+        "lang": "en",
+        "segMap": {
+          "an4.188:3.4": {
+            "scid": "an4.188:3.4",
+            "pli": "Taṁ kho panidaṁ akusalaṁ pahātabbanti kho, upaka, mayā paññattaṁ. ",
+            "en": "I’ve declared: ‘The unskillful <span class=\"ebt-matched\">should be given up</span>.’ ",
+            "matched": true
+          },
+          "an4.188:3.6": {
+            "scid": "an4.188:3.6",
+            "pli": "itipidaṁ akusalaṁ pahātabbanti. ",
+            "en": "‘This is another way of saying that the unskillful <span class=\"ebt-matched\">should be given up</span>.’ ",
+            "matched": true
+          }
+        },
+        "score": 2.069,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n19. Brahmins\n188. With Upaka",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 29,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.94_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.94_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.94",
+        "lang": "en",
+        "segMap": {
+          "an10.94:7.9": {
+            "scid": "an10.94:7.9",
+            "pli": "nāhaṁ, gahapati, sabbo paṭinissaggo paṭinissajjitabboti vadāmi. ",
+            "en": "I don’t say that everything <span class=\"ebt-matched\">should be given up</span>. ",
+            "matched": true
+          },
+          "an10.94:7.10": {
+            "scid": "an10.94:7.10",
+            "pli": "Na panāhaṁ, gahapati, sabbo paṭinissaggo na paṭinissajjitabboti vadāmi; ",
+            "en": "But I don’t say that nothing <span class=\"ebt-matched\">should be given up</span>. ",
+            "matched": true
+          }
+        },
+        "score": 2.032,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n10. With Upāli\n94. With Vajjiyamāhita",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 63,
+          "en": 62
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.29_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.29",
+        "lang": "en",
+        "segMap": {
+          "sn56.29:2.2": {
+            "scid": "sn56.29:2.2",
+            "pli": "Dukkhaṁ, bhikkhave, ariyasaccaṁ pariññeyyaṁ, dukkhasamudayaṁ ariyasaccaṁ pahātabbaṁ, dukkhanirodhaṁ ariyasaccaṁ sacchikātabbaṁ, dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabbaṁ. ",
+            "en": "The noble truth of suffering should be completely understood. The noble truth of the origin of suffering <span class=\"ebt-matched\">should be given up</span>. The noble truth of the cessation of suffering should be realized. The noble truth of the practice that leads to the cessation of suffering should be developed. ",
+            "matched": true
+          }
+        },
+        "score": 1.083,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n3. At the Village of Koṭi\n29. Should Be Completely Understood",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 12,
+          "en": 11
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.12_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.12",
+        "lang": "en",
+        "segMap": {
+          "sn56.12:2.2": {
+            "scid": "sn56.12:2.2",
+            "pli": "‘Taṁ kho panidaṁ dukkhasamudayaṁ ariyasaccaṁ pahātabban’ti, bhikkhave, tathāgatānaṁ pubbe …pe… udapādi. ",
+            "en": "‘This noble truth of the origin of suffering <span class=\"ebt-matched\">should be given up</span>.’ … ",
+            "matched": true
+          }
+        },
+        "score": 1.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n2. Rolling Forth the Wheel of Dhamma\n12. The Realized Ones",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn36/sn36.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn36/sn36.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn36.3",
+        "lang": "en",
+        "segMap": {
+          "sn36.3:1.4": {
+            "scid": "sn36.3:1.4",
+            "pli": "Sukhāya, bhikkhave, vedanāya rāgānusayo pahātabbo, dukkhāya vedanāya paṭighānusayo pahātabbo, adukkhamasukhāya vedanāya avijjānusayo pahātabbo. ",
+            "en": "The underlying tendency to greed <span class=\"ebt-matched\">should be given up</span> when it comes to pleasant feeling. The underlying tendency to repulsion <span class=\"ebt-matched\">should be given up</span> when it comes to painful feeling. The underlying tendency to ignorance <span class=\"ebt-matched\">should be given up</span> when it comes to neutral feeling. ",
+            "matched": true
+          }
+        },
+        "score": 1.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 36\n1. With Verses\n3. Giving Up",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 29,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn56.11",
+        "lang": "en",
+        "segMap": {
+          "sn56.11:6.2": {
+            "scid": "sn56.11:6.2",
+            "pli": "‘Taṁ kho panidaṁ dukkhasamudayaṁ ariyasaccaṁ pahātabban’ti me, bhikkhave, pubbe …pe… udapādi. ",
+            "en": "‘This noble truth of the origin of suffering <span class=\"ebt-matched\">should be given up</span>.’ Such was the vision that arose in me … ",
+            "matched": true
+          }
+        },
+        "score": 1.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 56\n2. Rolling Forth the Wheel of Dhamma\n11. Rolling Forth the Wheel of Dhamma",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 60,
+          "en": 59
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag16.6_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag16.6_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag16.6",
+        "lang": "en",
+        "segMap": {
+          "thag16.6:11.3": {
+            "scid": "thag16.6:11.3",
+            "pli": "Pahātabbaṁ pahīnaṁ me,",
+            "en": "and given up what <span class=\"ebt-matched\">should be given up</span>:",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Twenties\nChapter One\n16.6. Sela",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 105,
+          "en": 104
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn92_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn92_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn92",
+        "lang": "en",
+        "segMap": {
+          "mn92:19.8": {
+            "scid": "mn92:19.8",
+            "pli": "Pahātabbaṁ pahīnaṁ me, ",
+            "en": "and given up what <span class=\"ebt-matched\">should be given up</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 92\nWith Sela",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 205,
+          "en": 204
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn91_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn91_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn91",
+        "lang": "en",
+        "segMap": {
+          "mn91:31.7": {
+            "scid": "mn91:31.7",
+            "pli": "Pahātabbaṁ pahīnaṁ me, ",
+            "en": "and given up what <span class=\"ebt-matched\">should be given up</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 91\nWith Brahmāyu",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 308,
+          "en": 307
+        }
+      }
+    ]
+  }
+}

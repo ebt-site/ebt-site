@@ -1,0 +1,18 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bauflösen der bindungen",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an6/an6.56_translation-de-sabbamitta.json:6",
+    "translation/de/sabbamitta/sutta/sn/sn5/sn5.8_translation-de-sabbamitta.json:1"
+  ]
+}

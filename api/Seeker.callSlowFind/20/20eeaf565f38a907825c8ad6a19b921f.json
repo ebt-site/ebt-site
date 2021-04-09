@@ -1,0 +1,179 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "mit hängenden schultern",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "mit hängenden schultern",
+    "method": "phrase",
+    "resultPattern": "\\bmit hängenden schultern",
+    "segsMatched": 7,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.64_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.64_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.64_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.49_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.49_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.49_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.64/de/sabbamitta",
+      "dn25/de/sabbamitta",
+      "an5.49/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.64_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.64_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.64_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.64",
+        "lang": "de",
+        "segMap": {
+          "an3.64:6.6": {
+            "scid": "an3.64:6.6",
+            "pli": "Evaṁ vutte, sarabho paribbājako tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. ",
+            "de": "Auf diese Worte saß Sarabha still da, befangen, <span class=\"ebt-matched\">mit hängenden Schultern</span>, gedrückt, niedergeschlagen, und konnte nichts sagen. ",
+            "en": "When this was said, Sarabha sat silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say. ",
+            "matched": true
+          },
+          "an3.64:8.3": {
+            "scid": "an3.64:8.3",
+            "pli": "So vata mayā sādhukaṁ samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno aṭṭhānametaṁ anavakāso yaṁ so tiṇṇaṁ ṭhānānaṁ nāññataraṁ ṭhānaṁ nigaccheyya, aññena vā aññaṁ paṭicarissati, bahiddhā kathaṁ apanāmessati, kopañca dosañca appaccayañca pātukarissati, tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdissati, seyyathāpi sarabho paribbājako. ",
+            "de": "Wenn er von mir ins Kreuzverhör genommen wird, dann wird er zweifellos eine dieser drei Reaktionen zeigen: Er weicht dem Problem aus und lenkt das Gespräch auf Nebensächlichkeiten. Er zeigt Ärger, Hass und Unmut. Oder er sitzt still da, befangen, <span class=\"ebt-matched\">mit hängenden Schultern</span>, gedrückt, niedergeschlagen, und kann nichts sagen, so wie Sarabha. ",
+            "en": "When grilled by me, they would, without a doubt, fall into one of these three categories. They’d dodge the issue, distracting the discussion with irrelevant points. They’d display annoyance, hate, and bitterness. Or they’d sit silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say, like Sarabha. ",
+            "matched": true
+          },
+          "an3.64:9.3": {
+            "scid": "an3.64:9.3",
+            "pli": "So vata mayā sādhukaṁ samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno aṭṭhānametaṁ anavakāso yaṁ so tiṇṇaṁ ṭhānānaṁ nāññataraṁ ṭhānaṁ nigaccheyya, aññena vā aññaṁ paṭicarissati, bahiddhā kathaṁ apanāmessati, kopañca dosañca appaccayañca pātukarissati, tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdissati, seyyathāpi sarabho paribbājako. ",
+            "de": "Wenn er von mir ins Kreuzverhör genommen wird, dann wird er zweifellos eine dieser drei Reaktionen zeigen: Er weicht dem Problem aus und lenkt das Gespräch auf Nebensächlichkeiten. Er zeigt Ärger, Hass und Unmut. Oder er sitzt still da, befangen, <span class=\"ebt-matched\">mit hängenden Schultern</span>, gedrückt, niedergeschlagen, und kann nichts sagen, so wie Sarabha. ",
+            "en": "When grilled by me, they would, without a doubt, fall into one of these three categories. They’d dodge the issue, distracting the discussion with irrelevant points. They’d display annoyance, hate, and bitterness. Or they’d sit silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say, like Sarabha. ",
+            "matched": true
+          },
+          "an3.64:10.3": {
+            "scid": "an3.64:10.3",
+            "pli": "So vata mayā sādhukaṁ samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno aṭṭhānametaṁ anavakāso yaṁ so tiṇṇaṁ ṭhānānaṁ nāññataraṁ ṭhānaṁ nigaccheyya, aññena vā aññaṁ paṭicarissati, bahiddhā kathaṁ apanāmessati, kopañca dosañca appaccayañca pātukarissati, tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdissati, seyyathāpi sarabho paribbājako”ti. ",
+            "de": "Wenn er von mir ins Kreuzverhör genommen wird, dann wird er zweifellos eine dieser drei Reaktionen zeigen: Er weicht dem Problem aus und lenkt das Gespräch auf Nebensächlichkeiten. Er zeigt Ärger, Hass und Unmut. Oder er sitzt still da, befangen, <span class=\"ebt-matched\">mit hängenden Schultern</span>, gedrückt, niedergeschlagen, und kann nichts sagen, so wie Sarabha.“ ",
+            "en": "When grilled by me, they would, without a doubt, fall into one of these three categories. They’d dodge the issue, distracting the discussion with irrelevant points. They’d display annoyance, hate, and bitterness. Or they’d sit silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say, like Sarabha.” ",
+            "matched": true
+          }
+        },
+        "score": 4.066,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n64. Mit Sarabha",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 61,
+          "de": 60,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "de",
+        "segMap": {
+          "dn25:20.11": {
+            "scid": "dn25:20.11",
+            "pli": "Evaṁ vutte, nigrodho paribbājako tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. ",
+            "de": "Auf diese Worte saß Nigrodha still da, befangen, <span class=\"ebt-matched\">mit hängenden Schultern</span>, gedrückt, niedergeschlagen, und konnte nichts sagen. ",
+            "en": "When he said this, Nigrodha sat silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say. ",
+            "matched": true
+          },
+          "dn25:24.1": {
+            "scid": "dn25:24.1",
+            "pli": "Evaṁ vutte, te paribbājakā tuṇhībhūtā maṅkubhūtā pattakkhandhā adhomukhā pajjhāyantā appaṭibhānā nisīdiṁsu yathā taṁ mārena pariyuṭṭhitacittā. ",
+            "de": "Auf diese Worte saßen die Wanderer still da, befangen, <span class=\"ebt-matched\">mit hängenden Schultern</span>, gedrückt, niedergeschlagen, und konnten nichts sagen, als wäre ihr Geist von Māra besessen. ",
+            "en": "When this was said, those wanderers sat silent, dismayed, shoulders drooping, downcast, depressed, with nothing to say, as if their minds were possessed by Māra. ",
+            "matched": true
+          }
+        },
+        "score": 2.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 25\nDas Löwengebrüll in Udumbarikās Kloster\n1. Vom Wanderer Nigrodha",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 383,
+          "de": 347,
+          "en": 382
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.49_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.49_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.49_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.49",
+        "lang": "de",
+        "segMap": {
+          "an5.49:2.4": {
+            "scid": "an5.49:2.4",
+            "pli": "Evaṁ vutte, rājā pasenadi kosalo dukkhī dummano pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. ",
+            "de": "Auf diese Worte saß König Pasenadi elend und traurig da, <span class=\"ebt-matched\">mit hängenden Schultern</span>, gedrückt, niedergeschlagen, und konnte nichts sagen. ",
+            "en": "When this was said, King Pasenadi was miserable and sad. He sat with his shoulders drooping, downcast, depressed, with nothing to say. ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n5. Mit König Muṇḍa\n49. Der König von Kosala",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "de": 12,
+          "en": 13
+        }
+      }
+    ]
+  }
+}

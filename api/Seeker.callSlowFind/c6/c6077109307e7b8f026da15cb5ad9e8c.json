@@ -1,0 +1,158 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "inappropriate to talk",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "inappropriate to talk",
+    "method": "phrase",
+    "resultPattern": "\\binappropriate to talk",
+    "segsMatched": 15,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.157_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.157_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.157/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.157_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.157_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.157",
+        "lang": "en",
+        "segMap": {
+          "an5.157:1.3": {
+            "scid": "an5.157:1.3",
+            "pli": "Assaddhassa, bhikkhave, saddhākathā dukkathā; ",
+            "en": "It’s <span class=\"ebt-matched\">inappropriate to talk</span> to an unfaithful person about faith. ",
+            "matched": true
+          },
+          "an5.157:1.4": {
+            "scid": "an5.157:1.4",
+            "pli": "dussīlassa sīlakathā dukkathā; ",
+            "en": "It’s <span class=\"ebt-matched\">inappropriate to talk</span> to an unethical person about ethics. ",
+            "matched": true
+          },
+          "an5.157:1.5": {
+            "scid": "an5.157:1.5",
+            "pli": "appassutassa bāhusaccakathā dukkathā; ",
+            "en": "It’s <span class=\"ebt-matched\">inappropriate to talk</span> to an unlearned person about learning. ",
+            "matched": true
+          },
+          "an5.157:1.6": {
+            "scid": "an5.157:1.6",
+            "pli": "maccharissa cāgakathā dukkathā; ",
+            "en": "It’s <span class=\"ebt-matched\">inappropriate to talk</span> to a stingy person about generosity. ",
+            "matched": true
+          },
+          "an5.157:1.7": {
+            "scid": "an5.157:1.7",
+            "pli": "duppaññassa paññākathā dukkathā. ",
+            "en": "It’s <span class=\"ebt-matched\">inappropriate to talk</span> to a witless person about wisdom. ",
+            "matched": true
+          },
+          "an5.157:2.1": {
+            "scid": "an5.157:2.1",
+            "pli": "Kasmā ca, bhikkhave, assaddhassa saddhākathā dukkathā? ",
+            "en": "And why is it <span class=\"ebt-matched\">inappropriate to talk</span> to an unfaithful person about faith? ",
+            "matched": true
+          },
+          "an5.157:2.5": {
+            "scid": "an5.157:2.5",
+            "pli": "Tasmā assaddhassa saddhākathā dukkathā. ",
+            "en": "That’s why it’s <span class=\"ebt-matched\">inappropriate to talk</span> to an unfaithful person about faith. ",
+            "matched": true
+          },
+          "an5.157:3.1": {
+            "scid": "an5.157:3.1",
+            "pli": "Kasmā ca, bhikkhave, dussīlassa sīlakathā dukkathā? ",
+            "en": "And why is it <span class=\"ebt-matched\">inappropriate to talk</span> to an unethical person about ethics? ",
+            "matched": true
+          },
+          "an5.157:3.5": {
+            "scid": "an5.157:3.5",
+            "pli": "Tasmā dussīlassa sīlakathā dukkathā. ",
+            "en": "That’s why it’s <span class=\"ebt-matched\">inappropriate to talk</span> to an unethical person about ethics. ",
+            "matched": true
+          },
+          "an5.157:4.1": {
+            "scid": "an5.157:4.1",
+            "pli": "Kasmā ca, bhikkhave, appassutassa bāhusaccakathā dukkathā? ",
+            "en": "And why is it <span class=\"ebt-matched\">inappropriate to talk</span> to an unlearned person about learning? ",
+            "matched": true
+          },
+          "an5.157:4.5": {
+            "scid": "an5.157:4.5",
+            "pli": "Tasmā appassutassa bāhusaccakathā dukkathā. ",
+            "en": "That’s why it’s <span class=\"ebt-matched\">inappropriate to talk</span> to an unlearned person about learning. ",
+            "matched": true
+          },
+          "an5.157:5.1": {
+            "scid": "an5.157:5.1",
+            "pli": "Kasmā ca, bhikkhave, maccharissa cāgakathā dukkathā? ",
+            "en": "And why is it <span class=\"ebt-matched\">inappropriate to talk</span> to a stingy person about generosity? ",
+            "matched": true
+          },
+          "an5.157:5.5": {
+            "scid": "an5.157:5.5",
+            "pli": "Tasmā maccharissa cāgakathā dukkathā. ",
+            "en": "That’s why it’s <span class=\"ebt-matched\">inappropriate to talk</span> to a stingy person about generosity. ",
+            "matched": true
+          },
+          "an5.157:6.1": {
+            "scid": "an5.157:6.1",
+            "pli": "Kasmā ca, bhikkhave, duppaññassa paññākathā dukkathā? ",
+            "en": "And why is it <span class=\"ebt-matched\">inappropriate to talk</span> to a witless person about wisdom? ",
+            "matched": true
+          },
+          "an5.157:6.5": {
+            "scid": "an5.157:6.5",
+            "pli": "Tasmā duppaññassa paññākathā dukkathā. ",
+            "en": "That’s why it’s <span class=\"ebt-matched\">inappropriate to talk</span> to a witless person about wisdom. ",
+            "matched": true
+          }
+        },
+        "score": 15.214,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n16. The True Teaching\n157. Inappropriate Talk",
+        "segsMatched": 15,
+        "langSegs": {
+          "pli": 70,
+          "en": 69
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "grasping the eye",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "grasping the eye",
+    "method": "phrase",
+    "resultPattern": "\\bgrasping the eye",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.108_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.108_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.105_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.105_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.108/en/sujato",
+      "sn35.105/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.108_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.108_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.108",
+        "lang": "en",
+        "segMap": {
+          "sn35.108:3.1": {
+            "scid": "sn35.108:3.1",
+            "pli": "“Cakkhusmiṁ kho, bhikkhave, sati cakkhuṁ upādāya cakkhuṁ abhinivissa seyyohamasmīti vā hoti, sadisohamasmīti vā hoti, hīnohamasmīti vā hoti …pe… ",
+            "en": "“When there’s an eye, because of <span class=\"ebt-matched\">grasping the eye</span> and insisting on the eye, people think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’. … ",
+            "matched": true
+          }
+        },
+        "score": 1.036,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n11. Sanctuary\n108. I’m Better",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.105_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.105_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.105",
+        "lang": "en",
+        "segMap": {
+          "sn35.105:3.1": {
+            "scid": "sn35.105:3.1",
+            "pli": "“Cakkhusmiṁ kho, bhikkhave, sati cakkhuṁ upādāya uppajjati ajjhattaṁ sukhaṁ dukkhaṁ …pe… ",
+            "en": "“Mendicants, when there’s an eye, because of <span class=\"ebt-matched\">grasping the eye</span>, pleasure and pain arise in oneself. … ",
+            "matched": true
+          }
+        },
+        "score": 1.033,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n11. Sanctuary\n105. Because of Grasping",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 30,
+          "en": 29
+        }
+      }
+    ]
+  }
+}

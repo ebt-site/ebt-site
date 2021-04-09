@@ -1,0 +1,158 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "glaube an eine persönlichkeit",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "glaube an eine persönlichkeit",
+    "method": "phrase",
+    "resultPattern": "\\bglaube an eine persönlichkeit",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/kp/kp6_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/kp/kp6_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/kp/kp6_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.94_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.94_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.94_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn33/de/sabbamitta",
+      "kp6/de/sabbamitta",
+      "an3.94/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.10.41": {
+            "scid": "dn33:1.10.41",
+            "pli": "sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso. ",
+            "de": "<span class=\"ebt-matched\">Glaube an eine Persönlichkeit</span>, Zweifel und falsches Verständnis von Regeln und Gelübden. ",
+            "en": "identity view, doubt, and misapprehension of precepts and observances. ",
+            "matched": true
+          },
+          "dn33:2.1.21": {
+            "scid": "dn33:2.1.21",
+            "pli": "sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, kāmacchando, byāpādo. ",
+            "de": "<span class=\"ebt-matched\">Glaube an eine Persönlichkeit</span>, Zweifel, falsches Verständnis von Regeln und Gelübden, sinnliches Verlangen und böser Wille. ",
+            "en": "identity view, doubt, misapprehension of precepts and observances, sensual desire, and ill will. ",
+            "matched": true
+          }
+        },
+        "score": 2.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.94_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.94_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.94_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.94",
+        "lang": "de",
+        "segMap": {
+          "an3.94:2.2": {
+            "scid": "an3.94:2.2",
+            "pli": "sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso. ",
+            "de": "<span class=\"ebt-matched\">Glaube an eine Persönlichkeit</span>, Zweifel und falsches Verständnis von Regeln und Gelübden. ",
+            "en": "identity view, doubt, and misapprehension of precepts and observances. ",
+            "matched": true
+          }
+        },
+        "score": 1.1,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n10. Ein Salzklümpchen\n94. Frühling",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 10,
+          "de": 9,
+          "en": 9
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/kp/kp6_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/kp/kp6_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/kp/kp6_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "kp6",
+        "lang": "de",
+        "segMap": {
+          "kp6:10.3": {
+            "scid": "kp6:10.3",
+            "pli": "Sakkāyadiṭṭhī vicikicchitañca,",
+            "de": "<span class=\"ebt-matched\">Glaube an eine Persönlichkeit</span>, Zweifel ",
+            "en": "identity view, doubt, and any",
+            "matched": true
+          }
+        },
+        "score": 1.011,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Kleinere Ausschnitte\nJuwelen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 92,
+          "de": 91,
+          "en": 91
+        }
+      }
+    ]
+  }
+}

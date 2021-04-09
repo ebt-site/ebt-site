@@ -1,0 +1,316 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "hurtful and pleasing choices",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "hurtful and pleasing choices",
+    "method": "phrase",
+    "resultPattern": "\\bhurtful and pleasing choices",
+    "segsMatched": 11,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn57_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn57_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.238_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.238_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.237_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.237_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.236_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.236_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.235_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.235_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.234_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.234_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.233_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.233_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.23_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.23_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn57/en/sujato",
+      "an4.238/en/sujato",
+      "an4.237/en/sujato",
+      "an4.236/en/sujato",
+      "an4.235/en/sujato",
+      "an4.234/en/sujato",
+      "an4.233/en/sujato",
+      "an3.23/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.23_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.23",
+        "lang": "en",
+        "segMap": {
+          "an3.23:3.1": {
+            "scid": "an3.23:3.1",
+            "pli": "Idha pana, bhikkhave, ekacco puggalo sabyābajjhampi abyābajjhampi kāyasaṅkhāraṁ abhisaṅkharoti, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṁ abhisaṅkharoti, sabyābajjhampi abyābajjhampi manosaṅkhāraṁ abhisaṅkharoti. ",
+            "en": "Furthermore, another person makes both <span class=\"ebt-matched\">hurtful and pleasing choices</span> by way of body, speech, and mind. ",
+            "matched": true
+          },
+          "an3.23:3.2": {
+            "scid": "an3.23:3.2",
+            "pli": "So sabyābajjhampi abyābajjhampi kāyasaṅkhāraṁ abhisaṅkharitvā, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṁ abhisaṅkharitvā, sabyābajjhampi abyābajjhampi manosaṅkhāraṁ abhisaṅkharitvā sabyābajjhampi abyābajjhampi lokaṁ upapajjati. ",
+            "en": "Having made these choices, they are reborn in a world that is both hurtful and pleasing, ",
+            "matched": true
+          }
+        },
+        "score": 2.105,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n3. Persons\n23. Choices",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.233_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.233_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.233",
+        "lang": "en",
+        "segMap": {
+          "an4.233:4.2": {
+            "scid": "an4.233:4.2",
+            "pli": "Idha, bhikkhave, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṁ abhisaṅkharoti, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṁ abhisaṅkharoti, sabyābajjhampi abyābajjhampi manosaṅkhāraṁ abhisaṅkharoti. ",
+            "en": "It’s when someone makes both <span class=\"ebt-matched\">hurtful and pleasing choices</span> by way of body, speech, and mind. ",
+            "matched": true
+          },
+          "an4.233:4.3": {
+            "scid": "an4.233:4.3",
+            "pli": "So sabyābajjhampi abyābajjhampi kāyasaṅkhāraṁ abhisaṅkharitvā, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṁ abhisaṅkharitvā, sabyābajjhampi abyābajjhampi manosaṅkhāraṁ abhisaṅkharitvā sabyābajjhampi abyābajjhampi lokaṁ upapajjati. ",
+            "en": "Having made these choices, they are reborn in a world that is both hurtful and pleasing, ",
+            "matched": true
+          }
+        },
+        "score": 2.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n24. Deeds\n233. Deeds in Detail",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 32,
+          "en": 31
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn57_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn57_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn57",
+        "lang": "en",
+        "segMap": {
+          "mn57:10.2": {
+            "scid": "mn57:10.2",
+            "pli": "Idha, puṇṇa, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṁ abhisaṅkharoti, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṁ abhisaṅkharoti, sabyābajjhampi abyābajjhampi manosaṅkhāraṁ abhisaṅkharoti. ",
+            "en": "It’s when someone makes both <span class=\"ebt-matched\">hurtful and pleasing choices</span> by way of body, speech, and mind. ",
+            "matched": true
+          },
+          "mn57:10.3": {
+            "scid": "mn57:10.3",
+            "pli": "So sabyābajjhampi abyābajjhampi kāyasaṅkhāraṁ abhisaṅkharitvā, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṁ abhisaṅkharitvā, sabyābajjhampi abyābajjhampi manosaṅkhāraṁ abhisaṅkharitvā sabyābajjhampi abyābajjhampi lokaṁ upapajjati. ",
+            "en": "Having made these choices, they are reborn in a world that is both hurtful and pleasing, ",
+            "matched": true
+          }
+        },
+        "score": 2.018,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 57\nThe Ascetic Who Behaved Like a Dog",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 114,
+          "en": 113
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.238_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.238_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.238",
+        "lang": "en",
+        "segMap": {
+          "an4.238:3.2": {
+            "scid": "an4.238:3.2",
+            "pli": "Idha, bhikkhave, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṁ abhisaṅkharoti …pe… idaṁ vuccati, bhikkhave, kammaṁ kaṇhasukkaṁ kaṇhasukkavipākaṁ. ",
+            "en": "It’s when someone makes both <span class=\"ebt-matched\">hurtful and pleasing choices</span> by way of body, speech, and mind. These are called dark and bright deeds with dark and bright results. ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n24. Deeds\n238. Awakening Factors",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.237_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.237_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.237",
+        "lang": "en",
+        "segMap": {
+          "an4.237:4.2": {
+            "scid": "an4.237:4.2",
+            "pli": "Idha, bhikkhave, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṁ abhisaṅkharoti …pe… idaṁ vuccati, bhikkhave, kammaṁ kaṇhasukkaṁ kaṇhasukkavipākaṁ. ",
+            "en": "It’s when someone makes both <span class=\"ebt-matched\">hurtful and pleasing choices</span> by way of body, speech, and mind. These are called dark and bright deeds with dark and bright results. ",
+            "matched": true
+          }
+        },
+        "score": 1.05,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n24. Deeds\n237. The Noble Path",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 20,
+          "en": 19
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.235_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.235_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.235",
+        "lang": "en",
+        "segMap": {
+          "an4.235:3.2": {
+            "scid": "an4.235:3.2",
+            "pli": "Idha, bhikkhave, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṁ abhisaṅkharoti …pe… idaṁ vuccati, bhikkhave, kammaṁ kaṇhasukkaṁ kaṇhasukkavipākaṁ. ",
+            "en": "It’s when someone makes both <span class=\"ebt-matched\">hurtful and pleasing choices</span> by way of body, speech, and mind. These are called dark and bright deeds with dark and bright results. ",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n24. Deeds\n235. Training Rules (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.236_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.236_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.236",
+        "lang": "en",
+        "segMap": {
+          "an4.236:4.2": {
+            "scid": "an4.236:4.2",
+            "pli": "Idha, bhikkhave, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṁ abhisaṅkharoti …pe… idaṁ vuccati, bhikkhave, kammaṁ kaṇhasukkaṁ kaṇhasukkavipākaṁ. ",
+            "en": "It’s when someone makes both <span class=\"ebt-matched\">hurtful and pleasing choices</span> by way of body, speech, and mind. These are called dark and bright deeds with dark and bright results. ",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n24. Deeds\n236. Training Rules (2nd)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.234_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.234_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.234",
+        "lang": "en",
+        "segMap": {
+          "an4.234:6.2": {
+            "scid": "an4.234:6.2",
+            "pli": "Idha, brāhmaṇa, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṁ abhisaṅkharoti, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṁ abhisaṅkharoti, sabyābajjhampi abyābajjhampi manosaṅkhāraṁ abhisaṅkharoti. ",
+            "en": "It’s when someone makes both <span class=\"ebt-matched\">hurtful and pleasing choices</span> by way of body, speech, and mind. … ",
+            "matched": true
+          }
+        },
+        "score": 1.026,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n24. Deeds\n234. About Soṇakāyana",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 39,
+          "en": 38
+        }
+      }
+    ]
+  }
+}

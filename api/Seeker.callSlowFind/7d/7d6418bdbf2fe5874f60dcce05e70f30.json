@@ -1,0 +1,512 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "emotional barrenness",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "emotional barrenness",
+    "method": "phrase",
+    "resultPattern": "\\bemotional barrenness",
+    "segsMatched": 48,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn16_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn16_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.14_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.14_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.71_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.71_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.205_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an5/an5.205_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn22/sn22.90_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.90_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn16/en/sujato",
+      "an10.14/en/sujato",
+      "an9.71/en/sujato",
+      "an5.205/en/sujato",
+      "dn34/en/sujato",
+      "dn33/en/sujato",
+      "sn22.90/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn16_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn16_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn16",
+        "lang": "en",
+        "segMap": {
+          "mn16:0.2": {
+            "scid": "mn16:0.2",
+            "pli": "Cetokhilasutta ",
+            "en": "<span class=\"ebt-matched\">Emotional Barrenness</span> ",
+            "matched": true
+          },
+          "mn16:2.1": {
+            "scid": "mn16:2.1",
+            "pli": "“Yassa kassaci, bhikkhave, bhikkhuno pañca cetokhilā appahīnā, pañca cetasovinibandhā asamucchinnā, so vatimasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatīti—netaṁ ṭhānaṁ vijjati. ",
+            "en": "“Mendicants, when a mendicant has not given up five kinds of <span class=\"ebt-matched\">emotional barrenness</span> and cut off five emotional shackles, it’s not possible for them to achieve growth, improvement, or maturity in this teaching and training. ",
+            "matched": true
+          },
+          "mn16:3.1": {
+            "scid": "mn16:3.1",
+            "pli": "Katamāssa pañca cetokhilā appahīnā honti? ",
+            "en": "What are the five kinds of <span class=\"ebt-matched\">emotional barrenness</span> they haven’t given up? ",
+            "matched": true
+          },
+          "mn16:3.4": {
+            "scid": "mn16:3.4",
+            "pli": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ paṭhamo cetokhilo appahīno hoti. ",
+            "en": "This is the first kind of <span class=\"ebt-matched\">emotional barrenness</span> they haven’t given up. ",
+            "matched": true
+          },
+          "mn16:4.2": {
+            "scid": "mn16:4.2",
+            "pli": "evamassāyaṁ dutiyo cetokhilo appahīno hoti. ",
+            "en": "This is the second kind of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "mn16:5.2": {
+            "scid": "mn16:5.2",
+            "pli": "evamassāyaṁ tatiyo cetokhilo appahīno hoti. ",
+            "en": "This is the third kind of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "mn16:6.3": {
+            "scid": "mn16:6.3",
+            "pli": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ catuttho cetokhilo appahīno hoti. ",
+            "en": "This is the fourth kind of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "mn16:7.3": {
+            "scid": "mn16:7.3",
+            "pli": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ pañcamo cetokhilo appahīno hoti. ",
+            "en": "This is the fifth kind of <span class=\"ebt-matched\">emotional barrenness</span> they haven’t given up. ",
+            "matched": true
+          },
+          "mn16:7.4": {
+            "scid": "mn16:7.4",
+            "pli": "Imāssa pañca cetokhilā appahīnā honti. ",
+            "en": "These are the five kinds of <span class=\"ebt-matched\">emotional barrenness</span> they haven’t given up. ",
+            "matched": true
+          },
+          "mn16:13.1": {
+            "scid": "mn16:13.1",
+            "pli": "Yassa kassaci, bhikkhave, bhikkhuno ime pañca cetokhilā appahīnā, ime pañca cetasovinibandhā asamucchinnā, so vatimasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatīti—netaṁ ṭhānaṁ vijjati. ",
+            "en": "When a mendicant has not given up these five kinds of <span class=\"ebt-matched\">emotional barrenness</span> and cut off these five emotional shackles, it’s not possible for them to achieve growth, improvement, or maturity in this teaching and training. ",
+            "matched": true
+          },
+          "mn16:14.1": {
+            "scid": "mn16:14.1",
+            "pli": "Yassa kassaci, bhikkhave, bhikkhuno pañca cetokhilā pahīnā, pañca cetasovinibandhā susamucchinnā, so vatimasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatīti—ṭhānametaṁ vijjati. ",
+            "en": "When a mendicant has given up these five kinds of <span class=\"ebt-matched\">emotional barrenness</span> and cut off these five emotional shackles, it is possible for them to achieve growth, improvement, and maturity in this teaching and training. ",
+            "matched": true
+          },
+          "mn16:15.1": {
+            "scid": "mn16:15.1",
+            "pli": "Katamāssa pañca cetokhilā pahīnā honti? ",
+            "en": "What are the five kinds of <span class=\"ebt-matched\">emotional barrenness</span> they’ve given up? ",
+            "matched": true
+          },
+          "mn16:15.4": {
+            "scid": "mn16:15.4",
+            "pli": "Yassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ paṭhamo cetokhilo pahīno hoti. ",
+            "en": "This is the first kind of <span class=\"ebt-matched\">emotional barrenness</span> they’ve given up. ",
+            "matched": true
+          },
+          "mn16:19.3": {
+            "scid": "mn16:19.3",
+            "pli": "Yassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ pañcamo cetokhilo pahīno hoti. ",
+            "en": "This is the fifth kind of <span class=\"ebt-matched\">emotional barrenness</span> they’ve given up. ",
+            "matched": true
+          },
+          "mn16:19.4": {
+            "scid": "mn16:19.4",
+            "pli": "Imāssa pañca cetokhilā pahīnā honti. ",
+            "en": "These are the five kinds of <span class=\"ebt-matched\">emotional barrenness</span> they’ve given up. ",
+            "matched": true
+          },
+          "mn16:25.1": {
+            "scid": "mn16:25.1",
+            "pli": "Yassa kassaci, bhikkhave, bhikkhuno ime pañca cetokhilā pahīnā, ime pañca cetasovinibandhā susamucchinnā, so vatimasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatīti—ṭhānametaṁ vijjati. ",
+            "en": "When a mendicant has given up these five kinds of <span class=\"ebt-matched\">emotional barrenness</span> and cut off these five emotional shackles, it is possible for them to achieve growth, improvement, or maturity in this teaching and training. ",
+            "matched": true
+          }
+        },
+        "score": 16.193,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 16\nEmotional Barrenness",
+        "segsMatched": 16,
+        "langSegs": {
+          "pli": 83,
+          "en": 82
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.14_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.14_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.14",
+        "lang": "en",
+        "segMap": {
+          "an10.14:0.3": {
+            "scid": "an10.14:0.3",
+            "pli": "14. Cetokhilasutta ",
+            "en": "14. <span class=\"ebt-matched\">Emotional Barrenness</span> ",
+            "matched": true
+          },
+          "an10.14:1.1": {
+            "scid": "an10.14:1.1",
+            "pli": "“Yassa kassaci, bhikkhave, bhikkhussa vā bhikkhuniyā vā pañca cetokhilā appahīnā pañca cetasovinibandhā asamucchinnā, tassa yā ratti vā divaso vā āgacchati hāniyeva pāṭikaṅkhā kusalesu dhammesu no vuddhi. ",
+            "en": "“Mendicants, a monk or nun who has not given up five kinds of <span class=\"ebt-matched\">emotional barrenness</span> and has not cut off five emotional shackles can expect decline, not growth, in skillful qualities, whether by day or by night. ",
+            "matched": true
+          },
+          "an10.14:2.1": {
+            "scid": "an10.14:2.1",
+            "pli": "Katamassa pañca cetokhilā appahīnā honti? ",
+            "en": "What are the five kinds of <span class=\"ebt-matched\">emotional barrenness</span> they haven’t given up? ",
+            "matched": true
+          },
+          "an10.14:2.4": {
+            "scid": "an10.14:2.4",
+            "pli": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ paṭhamo cetokhilo appahīno hoti. ",
+            "en": "This is the first kind of <span class=\"ebt-matched\">emotional barrenness</span> they haven’t given up. ",
+            "matched": true
+          },
+          "an10.14:3.6": {
+            "scid": "an10.14:3.6",
+            "pli": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ pañcamo cetokhilo appahīno hoti. ",
+            "en": "This is the fifth kind of <span class=\"ebt-matched\">emotional barrenness</span> they haven’t given up. ",
+            "matched": true
+          },
+          "an10.14:3.7": {
+            "scid": "an10.14:3.7",
+            "pli": "Imassa pañca cetokhilā appahīnā honti. ",
+            "en": "These are the five kinds of <span class=\"ebt-matched\">emotional barrenness</span> they haven’t given up. ",
+            "matched": true
+          },
+          "an10.14:6.1": {
+            "scid": "an10.14:6.1",
+            "pli": "Yassa kassaci, bhikkhave, bhikkhussa vā bhikkhuniyā vā ime pañca cetokhilā appahīnā ime pañca cetasovinibandhā asamucchinnā, tassa yā ratti vā divaso vā āgacchati hāniyeva pāṭikaṅkhā kusalesu dhammesu no vuddhi. ",
+            "en": "A monk or nun who has not given up these five kinds of <span class=\"ebt-matched\">emotional barrenness</span> and has not cut off these five emotional shackles can expect decline, not growth, in skillful qualities, whether by day or by night. ",
+            "matched": true
+          },
+          "an10.14:7.2": {
+            "scid": "an10.14:7.2",
+            "pli": "evamevaṁ kho, bhikkhave, yassa kassaci bhikkhussa vā bhikkhuniyā vā ime pañca cetokhilā appahīnā ime pañca cetasovinibandhā asamucchinnā, tassa yā ratti vā divaso vā āgacchati hāniyeva pāṭikaṅkhā kusalesu dhammesu no vuddhi. ",
+            "en": "In the same way, monk or nun who has not given up these five kinds of <span class=\"ebt-matched\">emotional barrenness</span> and has not cut off these five emotional shackles can expect decline, not growth, in skillful qualities, whether by day or by night. ",
+            "matched": true
+          },
+          "an10.14:8.1": {
+            "scid": "an10.14:8.1",
+            "pli": "Yassa kassaci, bhikkhave, bhikkhussa vā bhikkhuniyā vā pañca cetokhilā pahīnā pañca cetasovinibandhā susamucchinnā, tassa yā ratti vā divaso vā āgacchati vuddhiyeva pāṭikaṅkhā kusalesu dhammesu no parihāni. ",
+            "en": "A monk or nun who has given up five kinds of <span class=\"ebt-matched\">emotional barrenness</span> and has cut off five emotional shackles can expect growth, not decline, in skillful qualities, whether by day or by night. ",
+            "matched": true
+          },
+          "an10.14:9.1": {
+            "scid": "an10.14:9.1",
+            "pli": "Katamassa pañca cetokhilā pahīnā honti? ",
+            "en": "What are the five kinds of <span class=\"ebt-matched\">emotional barrenness</span> they’ve given up? ",
+            "matched": true
+          },
+          "an10.14:9.4": {
+            "scid": "an10.14:9.4",
+            "pli": "Yassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ paṭhamo cetokhilo pahīno hoti. ",
+            "en": "This is the first kind of <span class=\"ebt-matched\">emotional barrenness</span> they’ve given up. ",
+            "matched": true
+          },
+          "an10.14:10.6": {
+            "scid": "an10.14:10.6",
+            "pli": "Yassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ pañcamo cetokhilo pahīno hoti. ",
+            "en": "This is the fifth kind of <span class=\"ebt-matched\">emotional barrenness</span> they’ve given up. ",
+            "matched": true
+          },
+          "an10.14:10.7": {
+            "scid": "an10.14:10.7",
+            "pli": "Imassa pañca cetokhilā pahīnā honti. ",
+            "en": "These are the five kinds of <span class=\"ebt-matched\">emotional barrenness</span> they’ve given up. ",
+            "matched": true
+          },
+          "an10.14:13.1": {
+            "scid": "an10.14:13.1",
+            "pli": "Yassa kassaci, bhikkhave, bhikkhussa vā bhikkhuniyā vā ime pañca cetokhilā pahīnā ime pañca cetasovinibandhā susamucchinnā, tassa yā ratti vā divaso vā āgacchati vuddhiyeva pāṭikaṅkhā kusalesu dhammesu no parihāni. ",
+            "en": "A monk or nun who has given up these five kinds of <span class=\"ebt-matched\">emotional barrenness</span> and has cut off these five emotional shackles can expect growth, not decline, in skillful qualities, whether by day or by night. ",
+            "matched": true
+          },
+          "an10.14:14.2": {
+            "scid": "an10.14:14.2",
+            "pli": "evamevaṁ kho, bhikkhave, yassa kassaci bhikkhussa vā bhikkhuniyā vā ime pañca cetokhilā pahīnā ime pañca cetasovinibandhā susamucchinnā, tassa yā ratti vā divaso vā āgacchati vuddhiyeva pāṭikaṅkhā kusalesu dhammesu no parihānī”ti. ",
+            "en": "In the same way, a monk or nun who has given up these five kinds of <span class=\"ebt-matched\">emotional barrenness</span> and has cut off these five emotional shackles can expect growth, not decline, in skillful qualities, whether by day or by night.” ",
+            "matched": true
+          }
+        },
+        "score": 15.268,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n2. A Protector\n14. Emotional Barrenness",
+        "segsMatched": 15,
+        "langSegs": {
+          "pli": 56,
+          "en": 55
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.205_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an5/an5.205_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.205",
+        "lang": "en",
+        "segMap": {
+          "an5.205:0.3": {
+            "scid": "an5.205:0.3",
+            "pli": "205. Cetokhilasutta ",
+            "en": "205. <span class=\"ebt-matched\">Emotional Barrenness</span> ",
+            "matched": true
+          },
+          "an5.205:1.1": {
+            "scid": "an5.205:1.1",
+            "pli": "“Pañcime, bhikkhave, cetokhilā. ",
+            "en": "“Mendicants, there are these five kinds of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "an5.205:1.5": {
+            "scid": "an5.205:1.5",
+            "pli": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, ayaṁ paṭhamo cetokhilo. ",
+            "en": "This is the first kind of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "an5.205:2.6": {
+            "scid": "an5.205:2.6",
+            "pli": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, ayaṁ pañcamo cetokhilo. ",
+            "en": "This is the fifth kind of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "an5.205:2.7": {
+            "scid": "an5.205:2.7",
+            "pli": "Ime kho, bhikkhave, pañca cetokhilā”ti. ",
+            "en": "These are the five kinds of <span class=\"ebt-matched\">emotional barrenness</span>.” ",
+            "matched": true
+          }
+        },
+        "score": 5.313,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 5\n21. With Kimbila\n205. Emotional Barrenness",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.71_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.71_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.71",
+        "lang": "en",
+        "segMap": {
+          "an9.71:0.3": {
+            "scid": "an9.71:0.3",
+            "pli": "71. Cetokhilasutta ",
+            "en": "71. <span class=\"ebt-matched\">Emotional Barrenness</span> ",
+            "matched": true
+          },
+          "an9.71:1.1": {
+            "scid": "an9.71:1.1",
+            "pli": "“Pañcime, bhikkhave, cetokhilā. ",
+            "en": "“Mendicants, there are five kinds of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "an9.71:1.5": {
+            "scid": "an9.71:1.5",
+            "pli": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, ayaṁ paṭhamo cetokhilo. ",
+            "en": "This is the first kind of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "an9.71:2.6": {
+            "scid": "an9.71:2.6",
+            "pli": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, ayaṁ pañcamo cetokhilo. ",
+            "en": "This is the fifth kind of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "an9.71:3.1": {
+            "scid": "an9.71:3.1",
+            "pli": "Imesaṁ kho, bhikkhave, pañcannaṁ cetokhilānaṁ pahānāya …pe… ime cattāro satipaṭṭhānā bhāvetabbā”ti. ",
+            "en": "To give up these five kinds of <span class=\"ebt-matched\">emotional barrenness</span> you should develop the four kinds of mindfulness meditation. …” ",
+            "matched": true
+          }
+        },
+        "score": 5.313,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n7. Mindfulness Meditation\n71. Emotional Barrenness",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 16,
+          "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:2.1.76": {
+            "scid": "dn33:2.1.76",
+            "pli": "Pañca cetokhilā. ",
+            "en": "Five kinds of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "dn33:2.1.78": {
+            "scid": "dn33:2.1.78",
+            "pli": "Yo so, āvuso, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na sampasīdati, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, ayaṁ paṭhamo cetokhilo. ",
+            "en": "This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the first kind of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "dn33:2.1.83": {
+            "scid": "dn33:2.1.83",
+            "pli": "Yo so, āvuso, bhikkhu sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, ayaṁ pañcamo cetokhilo. ",
+            "en": "This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the fifth kind of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "en",
+        "segMap": {
+          "dn34:1.6.24": {
+            "scid": "dn34:1.6.24",
+            "pli": "Pañca cetokhilā—",
+            "en": "Five kinds of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "dn34:1.6.28": {
+            "scid": "dn34:1.6.28",
+            "pli": "Ayaṁ paṭhamo cetokhilo. ",
+            "en": "This is the first kind of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          },
+          "dn34:1.6.34": {
+            "scid": "dn34:1.6.34",
+            "pli": "Ayaṁ pañcamo cetokhilo. ",
+            "en": "This is the fifth kind of <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 34\nUp to Ten",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 894,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.90_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.90_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.90",
+        "lang": "en",
+        "segMap": {
+          "sn22.90:8.1": {
+            "scid": "sn22.90:8.1",
+            "pli": "“Ettakenapi mayaṁ āyasmato channassa attamanā api nāma taṁ āyasmā channo āvi akāsi khīlaṁ chindi. ",
+            "en": "“I’m already delighted with Venerable Channa. Hopefully you’ve opened yourself up and cut through your <span class=\"ebt-matched\">emotional barrenness</span>. ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n9. Senior Mendicants\n90. With Channa",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 100,
+          "en": 99
+        }
+      }
+    ]
+  }
+}

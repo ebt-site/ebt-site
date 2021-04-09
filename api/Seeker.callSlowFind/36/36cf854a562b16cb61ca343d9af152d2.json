@@ -1,0 +1,74 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "eye contact brings happiness",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "eye contact brings happiness",
+    "method": "phrase",
+    "resultPattern": "\\beye contact brings happiness",
+    "segsMatched": 1,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.94_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.94_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.94/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.94_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.94_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.94",
+        "lang": "en",
+        "segMap": {
+          "sn35.94:2.3": {
+            "scid": "sn35.94:2.3",
+            "pli": "Cakkhu, bhikkhave, phassāyatanaṁ sudantaṁ suguttaṁ surakkhitaṁ susaṁvutaṁ sukhādhivāhaṁ hoti …pe… ",
+            "en": "The field of <span class=\"ebt-matched\">eye contact brings happiness</span> when it’s well tamed, well guarded, well protected, and well restrained. ",
+            "matched": true
+          }
+        },
+        "score": 1.02,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n10. The Sixes\n94. Untamed, Unguarded",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 51,
+          "en": 50
+        }
+      }
+    ]
+  }
+}

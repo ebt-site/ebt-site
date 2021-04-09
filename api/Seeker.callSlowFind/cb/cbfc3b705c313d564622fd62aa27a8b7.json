@@ -1,0 +1,130 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "four foundations",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "four foundations",
+    "method": "phrase",
+    "resultPattern": "\\bfour foundations",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn140_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn140_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn140/en/sujato",
+      "dn33/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn140_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn140_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn140",
+        "lang": "en",
+        "segMap": {
+          "mn140:7.2": {
+            "scid": "mn140:7.2",
+            "pli": "yattha ṭhitaṁ maññassavā nappavattanti, maññassave kho pana nappavattamāne muni santoti vuccati. ",
+            "en": "They have <span class=\"ebt-matched\">four foundations</span>, standing on which the streams of identification don’t flow. And when the streams of identification don’t flow, they’re called a sage at peace. ",
+            "matched": true
+          },
+          "mn140:11.1": {
+            "scid": "mn140:11.1",
+            "pli": "‘Caturādhiṭṭhāno ayaṁ, bhikkhu, puriso’ti—",
+            "en": "‘This person has <span class=\"ebt-matched\">four foundations</span>.’ ",
+            "matched": true
+          },
+          "mn140:11.4": {
+            "scid": "mn140:11.4",
+            "pli": "‘Caturādhiṭṭhāno ayaṁ, bhikkhu, puriso’ti—",
+            "en": "‘This person has <span class=\"ebt-matched\">four foundations</span>.’ ",
+            "matched": true
+          },
+          "mn140:30.1": {
+            "scid": "mn140:30.1",
+            "pli": "‘Yattha ṭhitaṁ maññassavā nappavattanti, maññassave kho pana nappavattamāne muni santoti vuccatī’ti—",
+            "en": "‘They have <span class=\"ebt-matched\">four foundations</span>, standing on which the streams of identification don’t flow. And when the streams of identification don’t flow, they’re called a sage at peace.’ ",
+            "matched": true
+          },
+          "mn140:32.1": {
+            "scid": "mn140:32.1",
+            "pli": "‘Yattha ṭhitaṁ maññassavā nappavattanti, maññassave kho pana nappavattamāne muni santoti vuccatī’ti—",
+            "en": "‘They have <span class=\"ebt-matched\">four foundations</span>, standing on which the streams of identification don’t flow. And when the streams of identification don’t flow, they’re called a sage at peace.’ ",
+            "matched": true
+          }
+        },
+        "score": 5.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 140\nThe Analysis of the Elements",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 239,
+          "en": 238
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:1.11.149": {
+            "scid": "dn33:1.11.149",
+            "pli": "Cattāri adhiṭṭhānāni—",
+            "en": "<span class=\"ebt-matched\">Four foundations</span>: ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

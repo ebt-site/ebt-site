@@ -1,0 +1,438 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "harp",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "harp",
+    "method": "phrase",
+    "resultPattern": "\\bharp",
+    "segsMatched": 27,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn35/sn35.246_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.246_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.55_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.55_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn17/sn17.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn17/sn17.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn4/sn4.23_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn4/sn4.23_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thag/thag7.2_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/thag/thag7.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.30_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an6/an6.30_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn35.246/en/sujato",
+      "dn21/en/sujato",
+      "an6.55/en/sujato",
+      "sn17.3/en/sujato",
+      "sn4.23/en/sujato",
+      "thag7.2/en/sujato",
+      "dn17/en/sujato",
+      "dn16/en/sujato",
+      "an6.30/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.246_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.246_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.246",
+        "lang": "en",
+        "segMap": {
+          "sn35.246:0.3": {
+            "scid": "sn35.246:0.3",
+            "pli": "246. Vīṇopamasutta ",
+            "en": "246. The Simile of the <span class=\"ebt-matched\">Harp</span> ",
+            "matched": true
+          },
+          "sn35.246:4.1": {
+            "scid": "sn35.246:4.1",
+            "pli": "Seyyathāpi, bhikkhave, rañño vā rājamahāmattassa vā vīṇāya saddo assutapubbo assa. ",
+            "en": "Suppose a king or their minister had never heard the sound of an arched <span class=\"ebt-matched\">harp</span>. ",
+            "matched": true
+          },
+          "sn35.246:4.6": {
+            "scid": "sn35.246:4.6",
+            "pli": "‘esā, kho, bhante, vīṇā nāma, yassā eso saddo evaṁrajanīyo evaṅkamanīyo evaṁmadanīyo evaṁmucchanīyo evambandhanīyo’ti. ",
+            "en": "‘That, sir, is an arched <span class=\"ebt-matched\">harp</span>.’ ",
+            "matched": true
+          },
+          "sn35.246:4.8": {
+            "scid": "sn35.246:4.8",
+            "pli": "‘gacchatha me, bho, taṁ vīṇaṁ āharathā’ti. ",
+            "en": "‘Go, my man, fetch me that arched <span class=\"ebt-matched\">harp</span>.’ ",
+            "matched": true
+          },
+          "sn35.246:4.11": {
+            "scid": "sn35.246:4.11",
+            "pli": "‘ayaṁ kho sā, bhante, vīṇā yassā eso saddo evaṁrajanīyo evaṅkamanīyo evaṁmadanīyo evaṁmucchanīyo evambandhanīyo’ti. ",
+            "en": "‘This, sir, is that arched <span class=\"ebt-matched\">harp</span>.’ ",
+            "matched": true
+          },
+          "sn35.246:4.13": {
+            "scid": "sn35.246:4.13",
+            "pli": "‘alaṁ me, bho, tāya vīṇāya, tameva me saddaṁ āharathā’ti. ",
+            "en": "‘I’ve had enough of that arched <span class=\"ebt-matched\">harp</span>! Just fetch me the sound.’ ",
+            "matched": true
+          },
+          "sn35.246:4.15": {
+            "scid": "sn35.246:4.15",
+            "pli": "‘ayaṁ kho, bhante, vīṇā nāma anekasambhārā mahāsambhārā. ",
+            "en": "‘Sir, this arched <span class=\"ebt-matched\">harp</span> is made of many components assembled together, ",
+            "matched": true
+          },
+          "sn35.246:4.17": {
+            "scid": "sn35.246:4.17",
+            "pli": "doṇiñca paṭicca cammañca paṭicca daṇḍañca paṭicca upadhāraṇe ca paṭicca tantiyo ca paṭicca koṇañca paṭicca purisassa ca tajjaṁ vāyāmaṁ paṭicca evāyaṁ, bhante, vīṇā nāma anekasambhārā mahāsambhārā. ",
+            "en": "it depends on the body, the skin, the neck, the head, the strings, the plectrum, and a person to play it properly. That’s how an arched <span class=\"ebt-matched\">harp</span> is made of many components assembled together, ",
+            "matched": true
+          },
+          "sn35.246:4.19": {
+            "scid": "sn35.246:4.19",
+            "pli": "So taṁ vīṇaṁ dasadhā vā satadhā vā phāleyya, dasadhā vā satadhā vā taṁ phāletvā sakalikaṁ sakalikaṁ kareyya. ",
+            "en": "But he’d split that <span class=\"ebt-matched\">harp</span> into ten pieces or a hundred pieces, then splinter it up. ",
+            "matched": true
+          },
+          "sn35.246:4.23": {
+            "scid": "sn35.246:4.23",
+            "pli": "‘asatī kirāyaṁ, bho, vīṇā nāma, yathevaṁ yaṁ kiñci vīṇā nāma ettha ca panāyaṁ jano ativelaṁ pamatto palaḷito’ti. ",
+            "en": "‘It seems that there’s nothing to this thing called an arched <span class=\"ebt-matched\">harp</span> or whatever’s called an arched <span class=\"ebt-matched\">harp</span>! But people waste their time with it, negligent and heedless!’ ",
+            "matched": true
+          }
+        },
+        "score": 10.164,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n19. The Simile of the Vipers\n246. The Simile of the Harp",
+        "segsMatched": 10,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.55_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.55_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.55",
+        "lang": "en",
+        "segMap": {
+          "an6.55:4.2": {
+            "scid": "an6.55:4.2",
+            "pli": "kusalo tvaṁ pubbe agāriyabhūto vīṇāya tantissare”ti? ",
+            "en": "When you were still a layman, weren’t you a good <span class=\"ebt-matched\">harp</span> player?” ",
+            "matched": true
+          },
+          "an6.55:4.4": {
+            "scid": "an6.55:4.4",
+            "pli": "“Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā”ti? ",
+            "en": "“When your <span class=\"ebt-matched\">harp</span>’s strings were tuned too tight, was it resonant and playable?” ",
+            "matched": true
+          },
+          "an6.55:5.1": {
+            "scid": "an6.55:5.1",
+            "pli": "“Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā”ti? ",
+            "en": "“When your <span class=\"ebt-matched\">harp</span>’s strings were tuned too slack, was it resonant and playable?” ",
+            "matched": true
+          },
+          "an6.55:6.1": {
+            "scid": "an6.55:6.1",
+            "pli": "“Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā”ti? ",
+            "en": "“But when your <span class=\"ebt-matched\">harp</span>’s strings were tuned neither too tight nor too slack, but fixed at an even tension, was it resonant and playable?” ",
+            "matched": true
+          }
+        },
+        "score": 4.041,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n6. The Great Chapter\n55. With Soṇa",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 97,
+          "en": 96
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn21_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn21_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn21",
+        "lang": "en",
+        "segMap": {
+          "dn21:1.2.4": {
+            "scid": "dn21:1.2.4",
+            "pli": "“Evaṁ, bhaddantavā”ti kho pañcasikho gandhabbadevaputto sakkassa devānamindassa paṭissutvā beluvapaṇḍuvīṇaṁ ādāya sakkassa devānamindassa anucariyaṁ upāgami. ",
+            "en": "“Yes, lord,” replied the fairy Pañcasikha. Taking his arched <span class=\"ebt-matched\">harp</span> made from the pale timber of wood-apple, he went as Sakka’s attendant. ",
+            "matched": true
+          },
+          "dn21:1.4.4": {
+            "scid": "dn21:1.4.4",
+            "pli": "“Evaṁ, bhaddantavā”ti kho pañcasikho gandhabbadevaputto sakkassa devānamindassa paṭissutvā beluvapaṇḍuvīṇaṁ ādāya yena indasālaguhā tenupasaṅkami; upasaṅkamitvā: ",
+            "en": "“Yes, lord,” replied the fairy Pañcasikha. Taking his arched <span class=\"ebt-matched\">harp</span> made from the pale timber of wood-apple, he went to the Indasāla cave. When he had drawn near, he stood to one side, thinking, ",
+            "matched": true
+          },
+          "dn21:1.4.8": {
+            "scid": "dn21:1.4.8",
+            "pli": "Ekamantaṁ ṭhito kho pañcasikho gandhabbadevaputto beluvapaṇḍuvīṇaṁ assāvesi, imā ca gāthā abhāsi buddhūpasañhitā dhammūpasañhitā saṅghūpasañhitā arahantūpasañhitā kāmūpasañhitā: ",
+            "en": "Standing to one side, Pañcasikha played his arched <span class=\"ebt-matched\">harp</span>, and sang these verses on the Buddha, the teaching, the Saṅgha, the perfected ones, and sensual love. ",
+            "matched": true
+          },
+          "dn21:1.6.10": {
+            "scid": "dn21:1.6.10",
+            "pli": "Athāhaṁ beluvapaṇḍuvīṇaṁ ādāya yena timbaruno gandhabbarañño nivesanaṁ tenupasaṅkamiṁ; upasaṅkamitvā beluvapaṇḍuvīṇaṁ assāvesiṁ, imā ca gāthā abhāsiṁ buddhūpasañhitā dhammūpasañhitā saṅghūpasañhitā arahantūpasañhitā kāmūpasañhitā—",
+            "en": "I took my arched <span class=\"ebt-matched\">harp</span> to Timbaru’s home, where I played those verses. ",
+            "matched": true
+          }
+        },
+        "score": 4.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 21\nSakka’s Questions",
+        "segsMatched": 4,
+        "langSegs": {
+          "pli": 515,
+          "en": 514
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn17/sn17.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn17/sn17.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn17.3",
+        "lang": "en",
+        "segMap": {
+          "sn17.3:1.7": {
+            "scid": "sn17.3:1.7",
+            "pli": "Tamenaṁ luddo papatāya vijjhi. ",
+            "en": "and a hunter pierced her with a <span class=\"ebt-matched\">harp</span>oon. ",
+            "matched": true
+          },
+          "sn17.3:2.2": {
+            "scid": "sn17.3:2.2",
+            "pli": "Papatāti kho, bhikkhave, lābhasakkārasilokassetaṁ adhivacanaṁ. ",
+            "en": "‘<span class=\"ebt-matched\">Harp</span>oon’ is a term for possessions, honor, and popularity. ",
+            "matched": true
+          },
+          "sn17.3:2.4": {
+            "scid": "sn17.3:2.4",
+            "pli": "Yo hi koci, bhikkhave, bhikkhu uppannaṁ lābhasakkārasilokaṁ assādeti nikāmeti—",
+            "en": "Whoever enjoys and likes arisen possessions, honor, and popularity is called a mendicant who has been pierced with a <span class=\"ebt-matched\">harp</span>oon. They’ve met with tragedy and disaster, and the Wicked One can treat them however he wants. ",
+            "matched": true
+          }
+        },
+        "score": 3.107,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 17\nChapter One\n3. A Turtle",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 28,
+          "en": 27
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn4/sn4.23_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn4/sn4.23_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn4.23",
+        "lang": "en",
+        "segMap": {
+          "sn4.23:10.7": {
+            "scid": "sn4.23:10.7",
+            "pli": "Atha kho māro pāpimā beluvapaṇḍuvīṇaṁ ādāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi: ",
+            "en": "Then Māra, carrying his <span class=\"ebt-matched\">harp</span> of yellow wood apple, went up to the Buddha and addressed him in verse: ",
+            "matched": true
+          },
+          "sn4.23:14.2": {
+            "scid": "sn4.23:14.2",
+            "pli": "vīṇā kacchā abhassatha; ",
+            "en": "that his <span class=\"ebt-matched\">harp</span> dropped from his armpit, ",
+            "matched": true
+          }
+        },
+        "score": 2.029,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 4\n3. Māra\n23. With Godhika",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 70,
+          "en": 70
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag7.2_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/thag/thag7.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag7.2",
+        "lang": "en",
+        "segMap": {
+          "thag7.2:2.2": {
+            "scid": "thag7.2:2.2",
+            "pli": "vīṇāhi paṇavehi ca;",
+            "en": "in arched <span class=\"ebt-matched\">harp</span>s, and in cymbals.",
+            "matched": true
+          }
+        },
+        "score": 1.03,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Verses of the Senior Monks\nThe Book of the Sevens\nChapter One\n7.2. Lakuṇṭaka Bhaddiya",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 33,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.30_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an6/an6.30_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.30",
+        "lang": "en",
+        "segMap": {
+          "an6.30:3.2": {
+            "scid": "an6.30:3.2",
+            "pli": "Idha, bhikkhave, ekacco bherisaddampi savanāya gacchati, vīṇāsaddampi savanāya gacchati, gītasaddampi savanāya gacchati, uccāvacaṁ vā pana savanāya gacchati, samaṇassa vā brāhmaṇassa vā micchādiṭṭhikassa micchāpaṭipannassa dhammassavanāya gacchati. ",
+            "en": "Some people go to hear the sound of drums, arched <span class=\"ebt-matched\">harp</span>s, singing, or a diverse spectrum of sounds; or ascetics and brahmins of wrong view and wrong practice. ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 6\n3. Unsurpassable\n30. Unsurpassable",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 67,
+          "en": 65
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn17_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn17_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn17",
+        "lang": "en",
+        "segMap": {
+          "dn17:1.3.11": {
+            "scid": "dn17:1.3.11",
+            "pli": "hatthisaddena assasaddena rathasaddena bherisaddena mudiṅgasaddena vīṇāsaddena gītasaddena saṅkhasaddena sammasaddena pāṇitāḷasaddena ‘asnātha pivatha khādathā’ti dasamena saddena. ",
+            "en": "the sound of elephants, horses, chariots, drums, clay drums, arched <span class=\"ebt-matched\">harp</span>s, singing, horns, gongs, and handbells; and the cry, ‘Eat, drink, be merry!’ as the tenth. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 17\nKing Mahāsudassana",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 444,
+          "en": 443
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn16",
+        "lang": "en",
+        "segMap": {
+          "dn16:5.18.8": {
+            "scid": "dn16:5.18.8",
+            "pli": "hatthisaddena assasaddena rathasaddena bherisaddena mudiṅgasaddena vīṇāsaddena gītasaddena saṅkhasaddena sammasaddena pāṇitāḷasaddena ‘asnātha pivatha khādathā’ti dasamena saddena. ",
+            "en": "the sound of elephants, horses, chariots, drums, clay drums, arched <span class=\"ebt-matched\">harp</span>s, singing, horns, gongs, and handbells; and the cry: ‘Eat, drink, be merry!’ as the tenth. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 16\nThe Great Discourse on the Buddha’s Extinguishment",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1665,
+          "en": 1664
+        }
+      }
+    ]
+  }
+}

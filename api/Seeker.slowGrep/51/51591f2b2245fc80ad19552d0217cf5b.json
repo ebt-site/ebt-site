@@ -1,0 +1,20 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bnieder, derb, gewöhnlich, unedel und zwecklos",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/dn/dn29_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an6/an6.30_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/sn/sn56/sn56.11_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/dn/dn28_translation-de-sabbamitta.json:1"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "zu straff gespannt",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "zu straff gespannt",
+    "method": "phrase",
+    "resultPattern": "\\bzu straff gespannt",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.55_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.55_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.55_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.55/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.55_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.55_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.55_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.55",
+        "lang": "de",
+        "segMap": {
+          "an6.55:4.4": {
+            "scid": "an6.55:4.4",
+            "pli": "“Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā”ti? ",
+            "de": "„Wenn die Saiten deiner Harfe <span class=\"ebt-matched\">zu straff gespannt</span> waren, hat sie da richtig geklungen und war zu gebrauchen?“ ",
+            "en": "“When your harp’s strings were tuned too tight, was it resonant and playable?” ",
+            "matched": true
+          },
+          "an6.55:6.1": {
+            "scid": "an6.55:6.1",
+            "pli": "“Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā”ti? ",
+            "de": "„Doch wenn die Saiten deiner Harfe weder zu straff noch zu locker gespannt sondern mit einer gleichmäßigen Spannung befestigt waren, hat sie da richtig geklungen und war zu gebrauchen?“ ",
+            "en": "“But when your harp’s strings were tuned neither too tight nor too slack, but fixed at an even tension, was it resonant and playable?” ",
+            "matched": true
+          }
+        },
+        "score": 2.021,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n6. Das große Kapitel\n55. Mit Soṇa",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 97,
+          "de": 87,
+          "en": 96
+        }
+      }
+    ]
+  }
+}

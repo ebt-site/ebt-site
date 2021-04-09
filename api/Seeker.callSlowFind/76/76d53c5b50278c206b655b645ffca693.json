@@ -1,0 +1,213 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "zu erhabenheit",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "zu erhabenheit",
+    "method": "phrase",
+    "resultPattern": "\\bzu erhabenheit",
+    "segsMatched": 16,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.179_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.179_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.179_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn34/de/sabbamitta",
+      "an4.179/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.2.1": {
+            "scid": "dn34:1.2.1",
+            "pli": "Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo. ",
+            "de": "Werte Freunde, ein Ding ist eine große Hilfe, ein Ding muss entwickelt werden, ein Ding muss vollständig verstanden werden, ein Ding muss aufgegeben werden, ein Ding führt zum Rückschritt, ein Ding führt <span class=\"ebt-matched\">zu Erhabenheit</span>, ein Ding ist schwer zu erfassen, ein Ding muss erzeugt werden, ein Ding muss unmittelbar erkannt werden und ein Ding muss verwirklicht werden. ",
+            "en": "Reverends, one thing is helpful, one thing should be developed, one thing should be completely understood, one thing should be given up, one thing makes things worse, one thing leads to distinction, one thing is hard to comprehend, one thing should be produced, one thing should be directly known, one thing should be realized. ",
+            "matched": true
+          },
+          "dn34:1.2.17": {
+            "scid": "dn34:1.2.17",
+            "pli": "Katamo eko dhammo visesabhāgiyo? ",
+            "de": "Welches eine Ding führt <span class=\"ebt-matched\">zu Erhabenheit</span>? ",
+            "en": "What one thing leads to distinction? ",
+            "matched": true
+          },
+          "dn34:1.3.1": {
+            "scid": "dn34:1.3.1",
+            "pli": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā. ",
+            "de": "Zwei Dinge sind eine große Hilfe, zwei Dinge müssen entwickelt werden, zwei Dinge müssen vollständig verstanden werden, zwei Dinge müssen aufgegeben werden, zwei Dinge führen zum Rückschritt, zwei Dinge führen <span class=\"ebt-matched\">zu Erhabenheit</span>, zwei Dinge sind schwer zu erfassen, zwei Dinge müssen erzeugt werden, zwei Dinge müssen unmittelbar erkannt werden und zwei Dinge müssen verwirklicht werden. ",
+            "en": "Two things are helpful, two things should be developed, two things should be completely understood, two things should be given up, two things make things worse, two things lead to distinction, two things are hard to comprehend, two things should be produced, two things should be directly known, two things should be realized. ",
+            "matched": true
+          },
+          "dn34:1.3.17": {
+            "scid": "dn34:1.3.17",
+            "pli": "Katame dve dhammā visesabhāgiyā? ",
+            "de": "Welche zwei Dinge führen <span class=\"ebt-matched\">zu Erhabenheit</span>? ",
+            "en": "What two things lead to distinction? ",
+            "matched": true
+          },
+          "dn34:1.4.21": {
+            "scid": "dn34:1.4.21",
+            "pli": "Katame tayo dhammā visesabhāgiyā? ",
+            "de": "Welche drei Dinge führen <span class=\"ebt-matched\">zu Erhabenheit</span>? ",
+            "en": "What three things lead to distinction? ",
+            "matched": true
+          },
+          "dn34:1.5.25": {
+            "scid": "dn34:1.5.25",
+            "pli": "Katame cattāro dhammā visesabhāgiyā? ",
+            "de": "Welche vier Dinge führen <span class=\"ebt-matched\">zu Erhabenheit</span>? ",
+            "en": "What four things lead to distinction? ",
+            "matched": true
+          },
+          "dn34:1.5.31": {
+            "scid": "dn34:1.5.31",
+            "pli": "hānabhāgiyo samādhi, ṭhitibhāgiyo samādhi, visesabhāgiyo samādhi, nibbedhabhāgiyo samādhi. ",
+            "de": "Versenkung, die zum Rückschritt führt, die zum Stillstand führt, die <span class=\"ebt-matched\">zu Erhabenheit</span> führt und die zum Durchbruch führt. ",
+            "en": "immersion liable to decline, stable immersion, immersion that leads to distinction, and immersion that leads to penetration. ",
+            "matched": true
+          },
+          "dn34:1.6.36": {
+            "scid": "dn34:1.6.36",
+            "pli": "Katame pañca dhammā visesabhāgiyā? ",
+            "de": "Welche fünf Dinge führen <span class=\"ebt-matched\">zu Erhabenheit</span>? ",
+            "en": "What five things lead to distinction? ",
+            "matched": true
+          },
+          "dn34:1.7.29": {
+            "scid": "dn34:1.7.29",
+            "pli": "Katame cha dhammā visesabhāgiyā? ",
+            "de": "Welche sechs Dinge führen <span class=\"ebt-matched\">zu Erhabenheit</span>? ",
+            "en": "What six things lead to distinction? ",
+            "matched": true
+          },
+          "dn34:1.8.35": {
+            "scid": "dn34:1.8.35",
+            "pli": "Katame satta dhammā visesabhāgiyā? ",
+            "de": "Welche sieben Dinge führen <span class=\"ebt-matched\">zu Erhabenheit</span>? ",
+            "en": "What seven things lead to distinction? ",
+            "matched": true
+          },
+          "dn34:2.1.84": {
+            "scid": "dn34:2.1.84",
+            "pli": "Katame aṭṭha dhammā visesabhāgiyā? ",
+            "de": "Welche acht Dinge führen <span class=\"ebt-matched\">zu Erhabenheit</span>? ",
+            "en": "What eight things lead to distinction? ",
+            "matched": true
+          },
+          "dn34:2.2.46": {
+            "scid": "dn34:2.2.46",
+            "pli": "Katame nava dhammā visesabhāgiyā? ",
+            "de": "Welche neun Dinge führen <span class=\"ebt-matched\">zu Erhabenheit</span>? ",
+            "en": "What nine things lead to distinction? ",
+            "matched": true
+          },
+          "dn34:2.3.1": {
+            "scid": "dn34:2.3.1",
+            "pli": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā. ",
+            "de": "Zehn Dinge sind eine große Hilfe, zehn Dinge müssen entwickelt werden, zehn Dinge müssen vollständig verstanden werden, zehn Dinge müssen aufgegeben werden, zehn Dinge führen zum Rückschritt, zehn Dinge führen <span class=\"ebt-matched\">zu Erhabenheit</span>, zehn Dinge sind schwer zu erfassen, zehn Dinge müssen erzeugt werden, zehn Dinge müssen unmittelbar erkannt werden und zehn Dinge müssen verwirklicht werden. ",
+            "en": "Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized. ",
+            "matched": true
+          },
+          "dn34:2.3.60": {
+            "scid": "dn34:2.3.60",
+            "pli": "Katame dasa dhammā visesabhāgiyā? ",
+            "de": "Welche zehn Dinge führen <span class=\"ebt-matched\">zu Erhabenheit</span>? ",
+            "en": "What ten things lead to distinction? ",
+            "matched": true
+          }
+        },
+        "score": 14.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 14,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.179_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.179_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.179_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.179",
+        "lang": "de",
+        "segMap": {
+          "an4.179:2.1": {
+            "scid": "an4.179:2.1",
+            "pli": "“Idhāvuso ānanda, sattā imā hānabhāgiyā saññāti yathābhūtaṁ nappajānanti, imā ṭhitibhāgiyā saññāti yathābhūtaṁ nappajānanti, imā visesabhāgiyā saññāti yathābhūtaṁ nappajānanti, imā nibbedhabhāgiyā saññāti yathābhūtaṁ nappajānanti. ",
+            "de": "„Werter Ānanda, das ist, weil manche Lebewesen nicht wirklich verstehen, welche Wahrnehmungen zum Rückschritt, welche zum Stillstand, welche <span class=\"ebt-matched\">zu Erhabenheit</span> und welche zum Durchbruch führen. ",
+            "en": "“Reverend Ānanda, it’s because some sentient beings don’t really understand which perceptions make things worse, which keep things steady, which lead to distinction, and which lead to penetration. ",
+            "matched": true
+          },
+          "an4.179:3.2": {
+            "scid": "an4.179:3.2",
+            "pli": "“Idhāvuso ānanda, sattā imā hānabhāgiyā saññāti yathābhūtaṁ pajānanti, imā ṭhitibhāgiyā saññāti yathābhūtaṁ pajānanti, imā visesabhāgiyā saññāti yathābhūtaṁ pajānanti, imā nibbedhabhāgiyā saññāti yathābhūtaṁ pajānanti. ",
+            "de": "„Werter Ānanda, das ist, weil manche Lebewesen wirklich verstehen, welche Wahrnehmungen zum Rückschritt, welche zum Stillstand, welche <span class=\"ebt-matched\">zu Erhabenheit</span> und welche zum Durchbruch führen. ",
+            "en": "“Reverend Ānanda, it’s because some sentient beings truly understand which perceptions make things worse, which keep things steady, which lead to distinction, and which lead to penetration. ",
+            "matched": true
+          }
+        },
+        "score": 2.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n18. Absicht\n179. Erlöschen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 12,
+          "de": 11,
+          "en": 11
+        }
+      }
+    ]
+  }
+}

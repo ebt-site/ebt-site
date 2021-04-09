@@ -1,0 +1,237 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "heißt es so",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "heißt es so",
+    "method": "phrase",
+    "resultPattern": "\\bheißt es so",
+    "segsMatched": 7,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/mn/mn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/mn/mn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an2/an2.42-51_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an2/an2.42-51_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an2/an2.42-51_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.51_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.51_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.51_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.20_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.20_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.20_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn33/de/sabbamitta",
+      "an2.42-51/de/sabbamitta",
+      "dn34/de/sabbamitta",
+      "an6.51/de/sabbamitta",
+      "an3.20/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/mn/mn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/mn/mn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn33",
+        "lang": "de",
+        "segMap": {
+          "mn33:9.3": {
+            "scid": "mn33:9.3",
+            "pli": "‘idaṁ, bhante, kathaṁ? ",
+            "de": "‚Warum, Herr, <span class=\"ebt-matched\">heißt es so</span>? ",
+            "en": "‘Why, sir, does it say this? ",
+            "matched": true
+          },
+          "mn33:22.3": {
+            "scid": "mn33:22.3",
+            "pli": "‘idaṁ, bhante, kathaṁ? ",
+            "de": "‚Warum, Herr, <span class=\"ebt-matched\">heißt es so</span>? ",
+            "en": "‘Why, sir, does it say this? ",
+            "matched": true
+          }
+        },
+        "score": 2.017,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Mittlere Lehrreden 33\nDie längere Lehrrede vom Kuhhirten",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 118,
+          "de": 117,
+          "en": 117
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an2/an2.42-51_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an2/an2.42-51_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an2/an2.42-51_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an2.42-51",
+        "lang": "de",
+        "segMap": {
+          "an2.47:1.7": {
+            "scid": "an2.47:1.7",
+            "pli": "‘idaṁ kathaṁ, imassa ko attho’ti? ",
+            "de": "‚Warum <span class=\"ebt-matched\">heißt es so</span>? Was bedeutet das?‘ ",
+            "en": "‘Why does it say this? What does that mean?’ ",
+            "matched": true
+          },
+          "an2.47:2.5": {
+            "scid": "an2.47:2.5",
+            "pli": "‘idaṁ kathaṁ, imassa ko attho’ti? ",
+            "de": "‚Warum <span class=\"ebt-matched\">heißt es so</span>? Was bedeutet das?‘ ",
+            "en": "‘Why does it say this? What does that mean?’ ",
+            "matched": true
+          }
+        },
+        "score": 2.014,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 2\n5. Versammlungen\n42–51",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 146,
+          "de": 144,
+          "en": 144
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.51_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.51_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.51_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.51",
+        "lang": "de",
+        "segMap": {
+          "an6.51:3.6": {
+            "scid": "an6.51:3.6",
+            "pli": "‘idaṁ, bhante, kathaṁ; imassa kvattho’ti? ",
+            "de": "‚Warum, Herr, <span class=\"ebt-matched\">heißt es so</span>? Was bedeutet das?‘ ",
+            "en": "‘Why, sir, does it say this? What does that mean?’ ",
+            "matched": true
+          }
+        },
+        "score": 1.034,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n5. Über Dhammika\n51. Mit Ānanda",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 29,
+          "de": 24,
+          "en": 28
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.20_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.20_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.20_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.20",
+        "lang": "de",
+        "segMap": {
+          "an3.20:6.3": {
+            "scid": "an3.20:6.3",
+            "pli": "‘idaṁ, bhante, kathaṁ, imassa ko attho’ti? ",
+            "de": "‚Warum, Herr, <span class=\"ebt-matched\">heißt es so</span>? Was bedeutet das?‘ ",
+            "en": "‘Why, sir, does it say this? What does that mean?’ ",
+            "matched": true
+          }
+        },
+        "score": 1.023,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n2. Der Wagenbauer\n20. Ein Kaufmann (2)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 43,
+          "de": 41,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:2.1.8": {
+            "scid": "dn34:2.1.8",
+            "pli": "‘idaṁ, bhante, kathaṁ? ",
+            "de": "‚Warum, Herr, <span class=\"ebt-matched\">heißt es so</span>? ",
+            "en": "‘Why, sir, does it say this? ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

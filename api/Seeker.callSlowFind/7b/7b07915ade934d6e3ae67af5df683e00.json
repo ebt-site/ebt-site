@@ -1,0 +1,280 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "vier dinge.* entwickelt werden",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "vier dinge.* entwickelt werden",
+    "method": "phrase",
+    "resultPattern": "\\bvier dinge.* entwickelt werden",
+    "segsMatched": 9,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.276_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.276_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.276_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.275_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.275_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.275_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.274_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.274_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.274_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.304-783_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.304-783_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.304-783_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.277-303_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.277-303_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.277-303_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.276/de/sabbamitta",
+      "an4.275/de/sabbamitta",
+      "an4.274/de/sabbamitta",
+      "dn34/de/sabbamitta",
+      "an4.304-783/de/sabbamitta",
+      "an4.277-303/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.274_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.274_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.274_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.274",
+        "lang": "de",
+        "segMap": {
+          "an4.274:1.1": {
+            "scid": "an4.274:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya cattāro dhammā bhāvetabbā. ",
+            "de": "„Um Gier unmittelbar zu erkennen, müssen <span class=\"ebt-matched\">vier Dinge entwickelt werden</span>. ",
+            "en": "“For insight into greed, four things should be developed. ",
+            "matched": true
+          },
+          "an4.274:1.5": {
+            "scid": "an4.274:1.5",
+            "pli": "Rāgassa, bhikkhave, abhiññāya ime cattāro dhammā bhāvetabbā”ti. ",
+            "de": "Um Gier unmittelbar zu erkennen, müssen diese <span class=\"ebt-matched\">vier Dinge entwickelt werden</span>.“ ",
+            "en": "For insight into greed, these four things should be developed.” ",
+            "matched": true
+          }
+        },
+        "score": 2.222,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n28. Abgekürzte Texte, die mit Gier beginnen\n274. Achtsamkeitsmeditation",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 9,
+          "de": 8,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.275_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.275_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.275_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.275",
+        "lang": "de",
+        "segMap": {
+          "an4.275:1.1": {
+            "scid": "an4.275:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya cattāro dhammā bhāvetabbā. ",
+            "de": "„Um Gier unmittelbar zu erkennen, müssen <span class=\"ebt-matched\">vier Dinge entwickelt werden</span>. ",
+            "en": "“For insight into greed, four things should be developed. ",
+            "matched": true
+          },
+          "an4.275:1.5": {
+            "scid": "an4.275:1.5",
+            "pli": "Rāgassa, bhikkhave, abhiññāya ime cattāro dhammā bhāvetabbā”ti. ",
+            "de": "Um Gier unmittelbar zu erkennen, müssen diese <span class=\"ebt-matched\">vier Dinge entwickelt werden</span>.“ ",
+            "en": "For insight into greed, these four things should be developed.” ",
+            "matched": true
+          }
+        },
+        "score": 2.222,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n28. Abgekürzte Texte, die mit Gier beginnen\n275. Rechtes Bemühen",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 9,
+          "de": 8,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.276_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.276_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.276_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.276",
+        "lang": "de",
+        "segMap": {
+          "an4.276:1.1": {
+            "scid": "an4.276:1.1",
+            "pli": "“Rāgassa, bhikkhave, abhiññāya cattāro dhammā bhāvetabbā. ",
+            "de": "„Um Gier unmittelbar zu erkennen, müssen <span class=\"ebt-matched\">vier Dinge entwickelt werden</span>. ",
+            "en": "“For insight into greed, four things should be developed. ",
+            "matched": true
+          },
+          "an4.276:1.7": {
+            "scid": "an4.276:1.7",
+            "pli": "Rāgassa, bhikkhave, abhiññāya ime cattāro dhammā bhāvetabbā”ti. ",
+            "de": "Um Gier unmittelbar zu erkennen, müssen diese <span class=\"ebt-matched\">vier Dinge entwickelt werden</span>.“ ",
+            "en": "For insight into greed, these four things should be developed.” ",
+            "matched": true
+          }
+        },
+        "score": 2.182,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n28. Abgekürzte Texte, die mit Gier beginnen\n276. Grundlagen der Wunderkräfte",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 11,
+          "de": 10,
+          "en": 10
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.277-303_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.277-303_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.277-303_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.277-303",
+        "lang": "de",
+        "segMap": {
+          "an4.277-303:1.1": {
+            "scid": "an4.277-303:1.1",
+            "pli": "“Rāgassa, bhikkhave, pariññāya …pe… parikkhayāya … pahānāya … khayāya … vayāya … virāgāya … nirodhāya … cāgāya … paṭinissaggāya cattāro dhammā bhāvetabbā …pe…. ",
+            "de": "„Um Gier vollständig zu verstehen … um damit aufzuhören … um sie aufzugeben … zu beenden … um sie zum Verschwinden zu bringen … zum Schwinden … zum Aufhören … um sie herzugeben … um Gier loszulassen, müssen <span class=\"ebt-matched\">vier Dinge entwickelt werden</span>.“ ",
+            "en": "“For the complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go of greed, four things should be developed.” ",
+            "matched": true
+          }
+        },
+        "score": 1.2,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n28. Abgekürzte Texte, die mit Gier beginnen\n277–303 Vollständiges Verstehen, etc.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 5,
+          "de": 4,
+          "en": 4
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.304-783_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.304-783_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.304-783_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.304-783",
+        "lang": "de",
+        "segMap": {
+          "an4.304-783:1.1": {
+            "scid": "an4.304-783:1.1",
+            "pli": "“Dosassa …pe… mohassa … kodhassa … upanāhassa … makkhassa … paḷāsassa … issāya … macchariyassa … māyāya … sāṭheyyassa … thambhassa … sārambhassa … mānassa … atimānassa … madassa … pamādassa abhiññāya … pariññāya … parikkhayāya … pahānāya … khayāya … vayāya … virāgāya … nirodhāya … cāgāya … paṭinissaggāya ime cattāro dhammā bhāvetabbā”ti. ",
+            "de": "„Hass … Täuschung … Zorn … Feindseligkeit … Geringschätzung … Verachtung … Eifersucht … Geiz … Betrug … Doppelzüngigkeit … Starrsinn … Angriffslust … Einbildung … Selbstgefälligkeit … Eitelkeit … Nachlässigkeit … um unmittelbar zu erkennen … vollständig zu verstehen … um damit aufzuhören … um sie aufzugeben … zu beenden … um sie zum Verschwinden zu bringen … zum Schwinden … zum Aufhören … um sie herzugeben … um sie loszulassen, müssen <span class=\"ebt-matched\">vier Dinge entwickelt werden</span>.“ ",
+            "en": "“Of hate … delusion … anger … hostility … disdain … contempt … jealousy … stinginess … deceit … deviousness … obstinacy … aggression … conceit … arrogance … vanity … negligence … for insight … complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go … four things should be developed.” ",
+            "matched": true
+          }
+        },
+        "score": 1.125,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n28. Abgekürzte Texte, die mit Gier beginnen\n304–783 Verstehen von Hass, etc.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 8,
+          "de": 7,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.5.6": {
+            "scid": "dn34:1.5.6",
+            "pli": "Katame cattāro dhammā bhāvetabbā? ",
+            "de": "Welche <span class=\"ebt-matched\">vier Dinge müssen entwickelt werden</span>? ",
+            "en": "What four things should be developed? ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      }
+    ]
+  }
+}

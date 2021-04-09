@@ -1,0 +1,80 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "serves as your refuge",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "serves as your refuge",
+    "method": "phrase",
+    "resultPattern": "\\bserves as your refuge",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn108_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn108_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn108/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn108_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn108_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn108",
+        "lang": "en",
+        "segMap": {
+          "mn108:10.6": {
+            "scid": "mn108:10.6",
+            "pli": "ayaṁ no bhagavato accayena paṭisaraṇaṁ bhavissatīti, yaṁ tumhe etarahi paṭipādeyyāthā’ti—",
+            "en": "who <span class=\"ebt-matched\">serves as your refuge</span> after the Buddha passed away, to whom you now turn, ",
+            "matched": true
+          },
+          "mn108:12.3": {
+            "scid": "mn108:12.3",
+            "pli": "ayaṁ no bhagavato accayena paṭisaraṇaṁ bhavissatīti yaṁ tumhe etarahi paṭipādeyyāthā’ti—",
+            "en": "who <span class=\"ebt-matched\">serves as your refuge</span> after the Buddha passed away, to whom you now turn, ",
+            "matched": true
+          }
+        },
+        "score": 2.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 108\nWith Moggallāna the Guardian",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 160,
+          "en": 159
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,596 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "rebirth in the realm",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "rebirth in the realm",
+    "method": "phrase",
+    "resultPattern": "\\brebirth in the realm",
+    "segsMatched": 23,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn22/sn22.102_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn22/sn22.102_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn45/sn45.180_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn45/sn45.180_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn53/sn53.45-54_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn53/sn53.45-54_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn51/sn51.77-86_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn51/sn51.77-86_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn50/sn50.99-108_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn50/sn50.99-108_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn50/sn50.45-54_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn50/sn50.45-54_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn49/sn49.45-54_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn49/sn49.45-54_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn48/sn48.169-178_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn48/sn48.169-178_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn48/sn48.115-124_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn48/sn48.115-124_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn47/sn47.95-104_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.95-104_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn46/sn46.130_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn46/sn46.130_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.70_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.70_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.26_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.26_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an9/an9.25_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an9/an9.25_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an10/an10.13_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an10/an10.13_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn22.102/en/sujato",
+      "sn45.180/en/sujato",
+      "sn53.45-54/en/sujato",
+      "sn51.77-86/en/sujato",
+      "sn50.99-108/en/sujato",
+      "sn50.45-54/en/sujato",
+      "sn49.45-54/en/sujato",
+      "sn48.169-178/en/sujato",
+      "sn48.115-124/en/sujato",
+      "sn47.95-104/en/sujato",
+      "sn46.130/en/sujato",
+      "dn33/en/sujato",
+      "an9.70/en/sujato",
+      "an9.26/en/sujato",
+      "an9.25/en/sujato",
+      "an10.13/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.25_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.25",
+        "lang": "en",
+        "segMap": {
+          "an9.25:2.8": {
+            "scid": "an9.25:2.8",
+            "pli": "‘anāvattidhammaṁ me cittaṁ kāmabhavāyā’ti paññāya cittaṁ suparicitaṁ hoti; ",
+            "en": "… ‘My mind is not liable to return to rebirth in the sensual realm.’ ",
+            "matched": true
+          },
+          "an9.25:2.9": {
+            "scid": "an9.25:2.9",
+            "pli": "‘anāvattidhammaṁ me cittaṁ rūpabhavāyā’ti paññāya cittaṁ suparicitaṁ hoti; ",
+            "en": "… ‘My mind is not liable to return to <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form.’ ",
+            "matched": true
+          },
+          "an9.25:2.10": {
+            "scid": "an9.25:2.10",
+            "pli": "‘anāvattidhammaṁ me cittaṁ arūpabhavāyā’ti paññāya cittaṁ suparicitaṁ hoti. ",
+            "en": "… ‘My mind is not liable to return to rebirth in the formless realm.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.167,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n3. Abodes of Sentient Beings\n25. Consolidated by Wisdom",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn22/sn22.102_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn22/sn22.102_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn22.102",
+        "lang": "en",
+        "segMap": {
+          "sn22.102:1.2": {
+            "scid": "sn22.102:1.2",
+            "pli": "“Aniccasaññā, bhikkhave, bhāvitā bahulīkatā sabbaṁ kāmarāgaṁ pariyādiyati, sabbaṁ rūparāgaṁ pariyādiyati, sabbaṁ bhavarāgaṁ pariyādiyati, sabbaṁ avijjaṁ pariyādiyati, sabbaṁ asmimānaṁ samūhanati. ",
+            "en": "“Mendicants, when the perception of impermanence is developed and cultivated it eliminates all desire for sensual pleasures, for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, and for rebirth in a future life. It eliminates all ignorance and eradicates all conceit ‘I am’. ",
+            "matched": true
+          },
+          "sn22.102:11.2": {
+            "scid": "sn22.102:11.2",
+            "pli": "evameva kho, bhikkhave, aniccasaññā bhāvitā bahulīkatā sabbaṁ kāmarāgaṁ pariyādiyati, sabbaṁ rūparāgaṁ pariyādiyati, sabbaṁ bhavarāgaṁ pariyādiyati, sabbaṁ avijjaṁ pariyādiyati, sabbaṁ asmimānaṁ samūhanati. ",
+            "en": "In the same way, when the perception of impermanence is developed and cultivated it eliminates all desire for sensual pleasures, for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, and for rebirth in a future life. It eliminates all ignorance and eradicates all conceit ‘I am’. ",
+            "matched": true
+          },
+          "sn22.102:12.7": {
+            "scid": "sn22.102:12.7",
+            "pli": "evaṁ bhāvitā kho, bhikkhave, aniccasaññā evaṁ bahulīkatā sabbaṁ kāmarāgaṁ pariyādiyati, sabbaṁ rūparāgaṁ pariyādiyati, sabbaṁ bhavarāgaṁ pariyādiyati, sabbaṁ avijjaṁ pariyādiyati, sabbaṁ asmimānaṁ samūhanatī”ti. ",
+            "en": "That’s how the perception of impermanence is developed and cultivated so that it eliminates all desire for sensual pleasures, for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, and for rebirth in a future life. That’s how it eliminates all ignorance and eradicates all conceit ‘I am’.” ",
+            "matched": true
+          }
+        },
+        "score": 3.067,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 22\n10. Flowers\n102. The Perception of Impermanence",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 45,
+          "en": 42
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.26_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.26_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.26",
+        "lang": "en",
+        "segMap": {
+          "an9.26:5.8": {
+            "scid": "an9.26:5.8",
+            "pli": "‘anāvattidhammaṁ me cittaṁ kāmabhavāyā’ti cetasā cittaṁ suparicitaṁ hoti; ",
+            "en": "… ‘My mind is not liable to return to rebirth in the sensual realm.’ ",
+            "matched": true
+          },
+          "an9.26:5.9": {
+            "scid": "an9.26:5.9",
+            "pli": "‘anāvattidhammaṁ me cittaṁ rūpabhavāyā’ti cetasā cittaṁ suparicitaṁ hoti; ",
+            "en": "… ‘My mind is not liable to return to <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form.’ ",
+            "matched": true
+          },
+          "an9.26:5.10": {
+            "scid": "an9.26:5.10",
+            "pli": "‘anāvattidhammaṁ me cittaṁ arūpabhavāyā’ti cetasā cittaṁ suparicitaṁ hoti. ",
+            "en": "… ‘My mind is not liable to return to rebirth in the formless realm.’ ",
+            "matched": true
+          }
+        },
+        "score": 3.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n3. Abodes of Sentient Beings\n26. The Simile of the Stone Pillar",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 67,
+          "en": 66
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn45/sn45.180_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn45/sn45.180_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn45.180",
+        "lang": "en",
+        "segMap": {
+          "sn45.180:1.3": {
+            "scid": "sn45.180:1.3",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          },
+          "sn45.180:2.3": {
+            "scid": "sn45.180:2.3",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 2.047,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 45\n14. Floods\n180. Higher Fetters",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 43,
+          "en": 41
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an9/an9.70_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an9/an9.70_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an9.70",
+        "lang": "en",
+        "segMap": {
+          "an9.70:1.3": {
+            "scid": "an9.70:1.3",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.111,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 9\n7. Mindfulness Meditation\n70. Higher Fetters",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 9,
+          "en": 8
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an10/an10.13_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an10/an10.13_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an10.13",
+        "lang": "en",
+        "segMap": {
+          "an10.13:2.2": {
+            "scid": "an10.13:2.2",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.071,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 10\n2. A Protector\n13. Fetters",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 14,
+          "en": 13
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn50/sn50.45-54_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn50/sn50.45-54_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn50.45-54",
+        "lang": "en",
+        "segMap": {
+          "sn50.45-54:1.3": {
+            "scid": "sn50.45-54:1.3",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.063,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 50\n5. Floods\n45–54. Floods, Etc.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 16,
+          "en": 16
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn48/sn48.169-178_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn48/sn48.169-178_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn48.169-178",
+        "lang": "en",
+        "segMap": {
+          "sn48.169-178:1.3": {
+            "scid": "sn48.169-178:1.3",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 48\n15. Another Chapter on Floods\n169–178. Another Series on Floods, Etc.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 18,
+          "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn48/sn48.115-124_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn48/sn48.115-124_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn48.115-124",
+        "lang": "en",
+        "segMap": {
+          "sn48.115-124:1.3": {
+            "scid": "sn48.115-124:1.3",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 48\n12. Floods\n115–124. Floods",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn50/sn50.99-108_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn50/sn50.99-108_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn50.99-108",
+        "lang": "en",
+        "segMap": {
+          "sn50.99-108:1.3": {
+            "scid": "sn50.99-108:1.3",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.053,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 50\n9. Another Chapter on Floods\n99–108. Another Series on Floods, Etc.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 19,
+          "en": 18
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn49/sn49.45-54_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn49/sn49.45-54_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn49.45-54",
+        "lang": "en",
+        "segMap": {
+          "sn49.45-54:1.3": {
+            "scid": "sn49.45-54:1.3",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.048,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 49\n5. Floods\n45–54. Floods, Etc.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn46/sn46.130_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn46/sn46.130_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn46.130",
+        "lang": "en",
+        "segMap": {
+          "sn46.130:1.4": {
+            "scid": "sn46.130:1.4",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 46\n13. Floods\n130. Higher Fetters",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 22,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn51/sn51.77-86_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn51/sn51.77-86_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn51.77-86",
+        "lang": "en",
+        "segMap": {
+          "sn51.77-86:1.3": {
+            "scid": "sn51.77-86:1.3",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 51\n8. Floods\n77–86. Floods, Etc.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn53/sn53.45-54_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn53/sn53.45-54_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn53.45-54",
+        "lang": "en",
+        "segMap": {
+          "sn53.45-54:1.3": {
+            "scid": "sn53.45-54:1.3",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.045,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 53\n5. Floods\n45–54 Floods, Etc.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 22,
+          "en": 21
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.95-104_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.95-104_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.95-104",
+        "lang": "en",
+        "segMap": {
+          "sn47.95-104:1.3": {
+            "scid": "sn47.95-104:1.3",
+            "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—",
+            "en": "Desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 47\n10. Floods\n95–104. Higher Fetters, Etc.",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 23,
+          "en": 22
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "en",
+        "segMap": {
+          "dn33:2.1.23": {
+            "scid": "dn33:2.1.23",
+            "pli": "rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā. ",
+            "en": "desire for <span class=\"ebt-matched\">rebirth in the realm</span> of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 33\nReciting in Concert",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

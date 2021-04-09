@@ -1,0 +1,156 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "the dhamma in brief",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "the dhamma in brief",
+    "method": "phrase",
+    "resultPattern": "\\bthe dhamma in brief",
+    "segsMatched": 6,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn47/sn47.3_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn47/sn47.3_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an8/an8.63_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an8/an8.63_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.257_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an4/an4.257_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn47.3/en/sujato",
+      "an8.63/en/sujato",
+      "an4.257/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.257_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an4/an4.257_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.257",
+        "lang": "en",
+        "segMap": {
+          "an4.257:2.1": {
+            "scid": "an4.257:2.1",
+            "pli": "“Sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti. ",
+            "en": "“Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.” ",
+            "matched": true
+          },
+          "an4.257:2.4": {
+            "scid": "an4.257:2.4",
+            "pli": "“Desetu me, bhante, bhagavā saṅkhittena dhammaṁ; desetu sugato saṅkhittena dhammaṁ. Appeva nāmāhaṁ bhagavato bhāsitassa atthaṁ ājāneyyaṁ; appeva nāmāhaṁ bhagavato bhāsitassa dāyādo assan”ti. ",
+            "en": "“Sir, may the Buddha please teach me Dhamma in brief! May the Holy One teach me <span class=\"ebt-matched\">the Dhamma in brief</span>! Hopefully I can understand the meaning of what the Buddha says! Hopefully I can be an heir of the Buddha’s teaching!” ",
+            "matched": true
+          }
+        },
+        "score": 2.095,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 4\n26. Insight\n257. With Māluṅkyaputta",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 21,
+          "en": 20
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn47/sn47.3_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn47/sn47.3_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn47.3",
+        "lang": "en",
+        "segMap": {
+          "sn47.3:1.3": {
+            "scid": "sn47.3:1.3",
+            "pli": "“sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti. ",
+            "en": "“Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.” ",
+            "matched": true
+          },
+          "sn47.3:1.5": {
+            "scid": "sn47.3:1.5",
+            "pli": "“Desetu me, bhante, bhagavā saṅkhittena dhammaṁ, desetu sugato saṅkhittena dhammaṁ. Appeva nāmāhaṁ bhagavato bhāsitassa atthaṁ jāneyyaṁ, appeva nāmāhaṁ bhagavato bhāsitassa dāyādo assan”ti. ",
+            "en": "“Sir, may the Buddha please teach me Dhamma in brief! May the Holy One teach me <span class=\"ebt-matched\">the Dhamma in brief</span>! Hopefully I can understand the meaning of what the Buddha says! Hopefully I can be an heir of the Buddha’s teaching!” ",
+            "matched": true
+          }
+        },
+        "score": 2.065,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 47\n1. In Ambapālī’s Wood\n3. A Monk",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 31,
+          "en": 30
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an8/an8.63_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an8/an8.63_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an8.63",
+        "lang": "en",
+        "segMap": {
+          "an8.63:1.2": {
+            "scid": "an8.63:1.2",
+            "pli": "“sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti. ",
+            "en": "“Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.” ",
+            "matched": true
+          },
+          "an8.63:1.5": {
+            "scid": "an8.63:1.5",
+            "pli": "“Desetu me, bhante, bhagavā saṅkhittena dhammaṁ, desetu sugato saṅkhittena dhammaṁ. Appeva nāmāhaṁ bhagavato bhāsitassa atthaṁ ājāneyyaṁ, appeva nāmāhaṁ bhagavato bhāsitassa dāyādo assan”ti. ",
+            "en": "“Sir, may the Buddha please teach me Dhamma in brief! May the Holy One teach me <span class=\"ebt-matched\">the Dhamma in brief</span>! Hopefully I can understand the meaning of what the Buddha says! Hopefully I can be an heir of the Buddha’s teaching!” ",
+            "matched": true
+          }
+        },
+        "score": 2.054,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 8\n7. Earthquakes\n63. A Teaching in Brief",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 37,
+          "en": 36
+        }
+      }
+    ]
+  }
+}

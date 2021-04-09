@@ -1,0 +1,80 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "three foundations",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "three foundations",
+    "method": "phrase",
+    "resultPattern": "\\bthree foundations",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.102_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an3/an3.102_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.102/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.102_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an3/an3.102_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.102",
+        "lang": "en",
+        "segMap": {
+          "an3.102:1.1": {
+            "scid": "an3.102:1.1",
+            "pli": "“Adhicittamanuyuttena, bhikkhave, bhikkhunā tīṇi nimittāni kālena kālaṁ manasi kātabbāni—",
+            "en": "“Mendicants, a mendicant committed to the higher mind should focus on <span class=\"ebt-matched\">three foundations</span> from time to time: ",
+            "matched": true
+          },
+          "an3.102:3.1": {
+            "scid": "an3.102:3.1",
+            "pli": "Evamevaṁ kho, bhikkhave, adhicittamanuyuttena bhikkhunā tīṇi nimittāni kālena kālaṁ manasi kātabbāni—",
+            "en": "In the same way, a mendicant committed to the higher mind should focus on <span class=\"ebt-matched\">three foundations</span> from time to time: ",
+            "matched": true
+          }
+        },
+        "score": 2.056,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 3\n10. A Lump of Salt\n102. Foundations",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 36,
+          "en": 34
+        }
+      }
+    ]
+  }
+}

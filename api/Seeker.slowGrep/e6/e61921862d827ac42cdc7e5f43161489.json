@@ -1,0 +1,24 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bum die wesen zu läutern",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/sn/sn47/sn47.43_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/sn/sn47/sn47.18_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/sn/sn47/sn47.1_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/mn/mn10_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an6/an6.30_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an6/an6.26_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an4/an4.194_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/an/an3/an3.74_translation-de-sabbamitta.json:1"
+  ]
+}

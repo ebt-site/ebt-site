@@ -1,0 +1,129 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "ich bin besser",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "ich bin besser",
+    "method": "phrase",
+    "resultPattern": "\\bich bin besser",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an4/an4.185_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.185_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.185_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an4.185/de/sabbamitta",
+      "dn33/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.185_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.185_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.185_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.185",
+        "lang": "de",
+        "segMap": {
+          "an4.185:4.6": {
+            "scid": "an4.185:4.6",
+            "pli": "So tena na samaṇoti maññati, na brāhmaṇoti maññati, na seyyohamasmīti maññati, na sadisohamasmīti maññati, na hīnohamasmīti maññati. ",
+            "de": "Doch er hält sich deswegen nicht für einen ‚Asketen‘ oder ‚Brahmanen‘, und er denkt auch nicht ‚<span class=\"ebt-matched\">ich bin besser</span>‘, ‚ich bin gleich‘ oder ‚ich bin schlechter‘. ",
+            "en": "But they don’t think of themselves as an ‘ascetic’ or ‘brahmin’ because of that. Nor do they think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’. ",
+            "matched": true
+          },
+          "an4.185:5.4": {
+            "scid": "an4.185:5.4",
+            "pli": "So tena na samaṇoti maññati, na brāhmaṇoti maññati, na seyyohamasmīti maññati, na sadisohamasmīti maññati, na hīnohamasmīti maññati. ",
+            "de": "Doch er hält sich deswegen nicht für einen ‚Asketen‘ oder ‚Brahmanen‘, und er denkt auch nicht ‚<span class=\"ebt-matched\">ich bin besser</span>‘, ‚ich bin gleich‘ oder ‚ich bin schlechter‘. ",
+            "en": "But they don’t think of themselves as an ‘ascetic’ or ‘brahmin’ because of that. Nor do they think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’. ",
+            "matched": true
+          },
+          "an4.185:7.4": {
+            "scid": "an4.185:7.4",
+            "pli": "So tena na samaṇoti maññati, na brāhmaṇoti maññati, na seyyohamasmīti maññati, na sadisohamasmīti maññati, na hīnohamasmīti maññati. ",
+            "de": "Doch er hält sich deswegen nicht für einen ‚Asketen‘ oder ‚Brahmanen‘, und er denkt auch nicht ‚<span class=\"ebt-matched\">ich bin besser</span>‘, ‚ich bin gleich‘ oder ‚ich bin schlechter‘. ",
+            "en": "But they don’t think of themselves as an ‘ascetic’ or ‘brahmin’ because of that. Nor do they think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’. ",
+            "matched": true
+          }
+        },
+        "score": 3.091,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n19. Brahmanen\n185. Wahrheiten der Brahmanen",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 33,
+          "de": 32,
+          "en": 32
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:1.10.49": {
+            "scid": "dn33:1.10.49",
+            "pli": "seyyohamasmīti vidhā, sadisohamasmīti vidhā, hīnohamasmīti vidhā. ",
+            "de": "‚<span class=\"ebt-matched\">Ich bin besser</span>‘, ‚ich bin gleich‘ und ‚ich bin schlechter‘. ",
+            "en": "‘I’m better’, ‘I’m equal’, and ‘I’m worse’. ",
+            "matched": true
+          }
+        },
+        "score": 1.001,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      }
+    ]
+  }
+}

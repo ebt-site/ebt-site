@@ -1,0 +1,151 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "nimm meinen fehler",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "nimm meinen fehler",
+    "method": "phrase",
+    "resultPattern": "\\bnimm meinen fehler",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.159_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.159_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.159_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an3/an3.91_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.91_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.91_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn25/de/sabbamitta",
+      "an4.159/de/sabbamitta",
+      "an3.91/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.91_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.91_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.91_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.91",
+        "lang": "de",
+        "segMap": {
+          "an3.91:3.13": {
+            "scid": "an3.91:3.13",
+            "pli": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu, āyatiṁ saṁvarāyā”ti. ",
+            "de": "Bitte, Herr, <span class=\"ebt-matched\">nimm meinen Fehler</span> als Fehler an, und ich will mich in Zukunft zügeln.“ ",
+            "en": "Please, sir, accept my mistake for what it is, so I will restrain myself in future.” ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n9. Asketen\n91. In Paṅkadhā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 61,
+          "de": 59,
+          "en": 59
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.159_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.159_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.159_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.159",
+        "lang": "de",
+        "segMap": {
+          "an4.159:9.3": {
+            "scid": "an4.159:9.3",
+            "pli": "Tassā me, bhante, ayyo ānando accayaṁ accayato paṭiggaṇhātu, āyatiṁ saṁvarāyā”ti. ",
+            "de": "Bitte, Herr, <span class=\"ebt-matched\">nimm meinen Fehler</span> als Fehler an, und ich will mich in Zukunft zügeln.“ ",
+            "en": "Please, sir, accept my mistake for what it is, so I can restrain myself in future.” ",
+            "matched": true
+          }
+        },
+        "score": 1.015,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n16. Fähigkeiten\n159. Eine Nonne",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 65,
+          "de": 64,
+          "en": 64
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "de",
+        "segMap": {
+          "dn25:22.3": {
+            "scid": "dn25:22.3",
+            "pli": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu āyatiṁ saṁvarāyā”ti. ",
+            "de": "Bitte, Herr, <span class=\"ebt-matched\">nimm meinen Fehler</span> als Fehler an, und ich will mich in Zukunft zügeln.“ ",
+            "en": "Please, sir, accept my mistake for what it is, so I will restrain myself in future.” ",
+            "matched": true
+          }
+        },
+        "score": 1.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 25\nDas Löwengebrüll in Udumbarikās Kloster\n1. Vom Wanderer Nigrodha",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 383,
+          "de": 347,
+          "en": 382
+        }
+      }
+    ]
+  }
+}

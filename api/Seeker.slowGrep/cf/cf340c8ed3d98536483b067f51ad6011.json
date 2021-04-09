@@ -1,0 +1,30 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\brad-drehend.* herrscher",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/dn/dn30_translation-de-sabbamitta.json:21",
+    "translation/de/sabbamitta/sutta/an/an4/an4.130_translation-de-sabbamitta.json:5",
+    "translation/de/sabbamitta/sutta/dn/dn17_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/an/an3/an3.14_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/an/an2/an2.52-63_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/an/an1/an1.278-286_translation-de-sabbamitta.json:4",
+    "translation/de/sabbamitta/sutta/an/an5/an5.133_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an5/an5.132_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/an/an5/an5.131_translation-de-sabbamitta.json:3",
+    "translation/de/sabbamitta/sutta/dn/dn14_translation-de-sabbamitta.json:2",
+    "translation/de/sabbamitta/sutta/kn/kp/kp8_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an7/an7.66_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an6/an6.53_translation-de-sabbamitta.json:1",
+    "translation/de/sabbamitta/sutta/an/an4/an4.247_translation-de-sabbamitta.json:1"
+  ]
+}

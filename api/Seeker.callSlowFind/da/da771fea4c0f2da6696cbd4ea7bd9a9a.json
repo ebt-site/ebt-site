@@ -1,0 +1,158 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "das stehlen auf",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "das stehlen auf",
+    "method": "phrase",
+    "resultPattern": "\\bdas stehlen auf",
+    "segsMatched": 4,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an3/an3.70_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an3/an3.70_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an5/an5.178_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.178_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.178_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an4/an4.198_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an3.70/de/sabbamitta",
+      "an5.178/de/sabbamitta",
+      "an4.198/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an3/an3.70_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an3/an3.70_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an3/an3.70_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an3.70",
+        "lang": "de",
+        "segMap": {
+          "an3.70:20.1": {
+            "scid": "an3.70:20.1",
+            "pli": "Yāvajīvaṁ arahanto adinnādānaṁ pahāya adinnādānā paṭiviratā dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharanti; ",
+            "de": "Solange sie leben, geben die Vollendeten <span class=\"ebt-matched\">das Stehlen auf</span>. Sie nehmen nur, was gegeben wird, erwarten nur, was gegeben wird. Sie sind nicht diebisch und erhalten sich rein. ",
+            "en": "As long as they live, the perfected ones give up stealing. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "matched": true
+          },
+          "an3.70:20.2": {
+            "scid": "an3.70:20.2",
+            "pli": "ahampajja imañca rattiṁ imañca divasaṁ adinnādānaṁ pahāya adinnādānā paṭivirato dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharāmi. ",
+            "de": "Auch ich will für diesen Tag und diese Nacht <span class=\"ebt-matched\">das Stehlen auf</span>geben. Ich will nur nehmen, was gegeben wird, nur erwarten, was gegeben wird. Ich will nicht diebisch sein und mich rein erhalten. ",
+            "en": "I, too, for this day and night will give up stealing. I’ll take only what’s given, and expect only what’s given. I’ll keep myself clean by not thieving. ",
+            "matched": true
+          }
+        },
+        "score": 2.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 3\n7. Das große Kapitel\n70. Besinnungstag",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 238,
+          "de": 232,
+          "en": 232
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.178_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.178_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.178_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.178",
+        "lang": "de",
+        "segMap": {
+          "an5.178:2.3": {
+            "scid": "an5.178:2.3",
+            "pli": "‘ayaṁ puriso adinnādānaṁ pahāya adinnādānā paṭiviratoti. ",
+            "de": "dass ein Mensch <span class=\"ebt-matched\">das Stehlen auf</span>gegeben hat – ",
+            "en": "of a person who has given up stealing, ",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n18. Ein Laienschüler\n178. Könige",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 77,
+          "de": 66,
+          "en": 76
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an4/an4.198_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an4/an4.198_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an4/an4.198_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an4.198",
+        "lang": "de",
+        "segMap": {
+          "an4.198:8.2": {
+            "scid": "an4.198:8.2",
+            "pli": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati. ",
+            "de": "Sie gibt <span class=\"ebt-matched\">das Stehlen auf</span>. Sie nimmt nur, was gegeben wird, erwartet nur, was gegeben wird. Sie ist nicht diebisch und ist innerlich rein. ",
+            "en": "They give up stealing. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. ",
+            "matched": true
+          }
+        },
+        "score": 1.009,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 4\n20. Das große Kapitel\n198. Selbstquälerei",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 111,
+          "de": 110,
+          "en": 110
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "früchte des gebens",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "früchte des gebens",
+    "method": "phrase",
+    "resultPattern": "\\bfrüchte des gebens",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an5/an5.34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an5/an5.34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an5/an5.34_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an5.34/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an5/an5.34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an5/an5.34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an5/an5.34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an5.34",
+        "lang": "de",
+        "segMap": {
+          "an5.34:7.2": {
+            "scid": "an5.34:7.2",
+            "pli": "“yānimāni, bhante, bhagavatā cattāri sandiṭṭhikāni dānaphalāni akkhātāni, nāhaṁ ettha bhagavato saddhāya gacchāmi; ahaṁ petāni jānāmi. ",
+            "de": "„Wenn es um diese vier <span class=\"ebt-matched\">Früchte des Gebens</span> geht, die in diesem Leben sichtbar sind, so muss ich mich nicht auf mein Vertrauen zum Buddha verlassen, denn ich kenne sie auch. ",
+            "en": "“When it comes to those four fruits of giving that are apparent in the present life, I don’t have to rely on faith in the Buddha, for I know them too. ",
+            "matched": true
+          },
+          "an5.34:7.7": {
+            "scid": "an5.34:7.7",
+            "pli": "Yānimāni, bhante, bhagavatā cattāri sandiṭṭhikāni dānaphalāni akkhātāni, nāhaṁ ettha bhagavato saddhāya gacchāmi; ahaṁ petāni jānāmi. ",
+            "de": "Wenn es um diese vier <span class=\"ebt-matched\">Früchte des Gebens</span> geht, die in diesem Leben sichtbar sind, so muss ich mich nicht auf mein Vertrauen zum Buddha verlassen, denn ich kenne sie auch. ",
+            "en": "When it comes to these four fruits of giving that are apparent in the present life, I don’t have to rely on faith in the Buddha, for I know them too. ",
+            "matched": true
+          }
+        },
+        "score": 2.047,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 5\n4. Mit Sumanā\n34. Mit dem General Sīha",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 43,
+          "de": 42,
+          "en": 42
+        }
+      }
+    ]
+  }
+}

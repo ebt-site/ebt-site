@@ -1,0 +1,115 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "isst, was nicht zu tadeln ist",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "isst, was nicht zu tadeln ist",
+    "method": "phrase",
+    "resultPattern": "\\bisst, was nicht zu tadeln ist",
+    "segsMatched": 2,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/kn/thag/thag15.2_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/thag/thag15.2_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/thag/thag15.2_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.43_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.43_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.43_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "thag15.2/de/sabbamitta",
+      "an6.43/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thag/thag15.2_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/thag/thag15.2_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/thag/thag15.2_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thag15.2",
+        "lang": "de",
+        "segMap": {
+          "thag15.2:10.1": {
+            "scid": "thag15.2:10.1",
+            "pli": "Bhuñjati anavajjāni,",
+            "de": "Er <span class=\"ebt-matched\">isst, was nicht zu tadeln ist</span>, ",
+            "en": "He eats blameless things,",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Strophen der altehrwürdigen Mönche\nDas Sechzehnerbuch\nErstes Kapitel\n15.2. Udāyī",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 76,
+          "de": 69,
+          "en": 68
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.43_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.43_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.43_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.43",
+        "lang": "de",
+        "segMap": {
+          "an6.43:14.1": {
+            "scid": "an6.43:14.1",
+            "pli": "Bhuñjati anavajjāni, ",
+            "de": "Er <span class=\"ebt-matched\">isst, was nicht zu tadeln ist</span>, ",
+            "en": "He eats blameless things, ",
+            "matched": true
+          }
+        },
+        "score": 1.01,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n5. Über Dhammika\n43. Der Riese",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 98,
+          "de": 97,
+          "en": 97
+        }
+      }
+    ]
+  }
+}

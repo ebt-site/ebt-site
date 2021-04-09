@@ -1,0 +1,136 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "giving up craving",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "giving up craving",
+    "method": "phrase",
+    "resultPattern": "\\bgiving up craving",
+    "segsMatched": 7,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/sn/sn12/sn12.66_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn12/sn12.66_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn75_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn75_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "sn12.66/en/sujato",
+      "mn75/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn12/sn12.66_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn12/sn12.66_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn12.66",
+        "lang": "en",
+        "segMap": {
+          "sn12.66:10.3": {
+            "scid": "sn12.66:10.3",
+            "pli": "Ye taṇhaṁ pajahiṁsu te upadhiṁ pajahiṁsu. ",
+            "en": "<span class=\"ebt-matched\">Giving up craving</span>, they gave up attachments. ",
+            "matched": true
+          },
+          "sn12.66:11.3": {
+            "scid": "sn12.66:11.3",
+            "pli": "Ye taṇhaṁ pajahissanti …pe… ",
+            "en": "<span class=\"ebt-matched\">Giving up craving</span> … ",
+            "matched": true
+          },
+          "sn12.66:12.3": {
+            "scid": "sn12.66:12.3",
+            "pli": "Ye taṇhaṁ pajahanti te upadhiṁ pajahanti. ",
+            "en": "<span class=\"ebt-matched\">Giving up craving</span>, they give up attachments. ",
+            "matched": true
+          },
+          "sn12.66:13.14": {
+            "scid": "sn12.66:13.14",
+            "pli": "Ye taṇhaṁ pajahiṁsu te upadhiṁ pajahiṁsu. ",
+            "en": "<span class=\"ebt-matched\">Giving up craving</span>, they gave up attachments. ",
+            "matched": true
+          },
+          "sn12.66:14.4": {
+            "scid": "sn12.66:14.4",
+            "pli": "Ye taṇhaṁ pajahanti te upadhiṁ pajahanti. ",
+            "en": "<span class=\"ebt-matched\">Giving up craving</span>, they give up attachments. ",
+            "matched": true
+          }
+        },
+        "score": 5.043,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 12\n7. The Great Chapter\n66. Self-examination",
+        "segsMatched": 5,
+        "langSegs": {
+          "pli": 116,
+          "en": 115
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn75_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn75_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn75",
+        "lang": "en",
+        "segMap": {
+          "mn75:18.2": {
+            "scid": "mn75:18.2",
+            "pli": "api nu te diṭṭho vā suto vā rājā vā rājamahāmatto vā pañcahi kāmaguṇehi samappito samaṅgībhūto paricārayamāno kāmataṇhaṁ appahāya kāmapariḷāhaṁ appaṭivinodetvā vigatapipāso ajjhattaṁ vūpasantacitto vihāsi vā viharati vā viharissati vā”ti? ",
+            "en": "Have you seen or heard of a king or a royal minister of the past, future, or present, amusing themselves supplied and provided with the five kinds of sensual stimulation, who—without <span class=\"ebt-matched\">giving up craving</span> for sensual pleasures and dispelling passion for sensual pleasures—lives rid of thirst, their mind peaceful inside?” ",
+            "matched": true
+          },
+          "mn75:18.6": {
+            "scid": "mn75:18.6",
+            "pli": "Atha kho, māgaṇḍiya, ye hi keci samaṇā vā brāhmaṇā vā vigatapipāsā ajjhattaṁ vūpasantacittā vihāsuṁ vā viharanti vā viharissanti vā sabbe te kāmānaṁyeva samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā kāmataṇhaṁ pahāya kāmapariḷāhaṁ paṭivinodetvā vigatapipāsā ajjhattaṁ vūpasantacittā vihāsuṁ vā viharanti vā viharissanti vā”ti. ",
+            "en": "On the contrary, all the ascetics or brahmins of the past, future, or present who live rid of thirst, their minds peaceful inside, do so after truly understanding the origin, ending, gratification, drawback, and escape of sensual pleasures, and after <span class=\"ebt-matched\">giving up craving</span> and dispelling passion for sensual pleasures.” ",
+            "matched": true
+          }
+        },
+        "score": 2.008,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 75\nWith Māgaṇḍiya",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 263,
+          "en": 262
+        }
+      }
+    ]
+  }
+}

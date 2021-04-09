@@ -1,0 +1,285 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "warmherzige eigenschaft",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "warmherzige eigenschaft",
+    "method": "phrase",
+    "resultPattern": "\\bwarmherzige eigenschaft",
+    "segsMatched": 18,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.12_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.12_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.12_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an6/an6.11_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.11_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.11_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn33/de/sabbamitta",
+      "an6.12/de/sabbamitta",
+      "dn34/de/sabbamitta",
+      "an6.11/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn33",
+        "lang": "de",
+        "segMap": {
+          "dn33:2.2.37": {
+            "scid": "dn33:2.2.37",
+            "pli": "Cha sāraṇīyā dhammā. ",
+            "de": "Sechs <span class=\"ebt-matched\">warmherzige Eigenschaft</span>en: ",
+            "en": "Six warm-hearted qualities. ",
+            "matched": true
+          },
+          "dn33:2.2.39": {
+            "scid": "dn33:2.2.39",
+            "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.  ",
+            "de": "Diese <span class=\"ebt-matched\">warmherzige Eigenschaft</span> sorgt für Zuneigung und Respekt, führt zum Einbeziehen, zum Nicht-Streiten, zu Eintracht und Einigkeit. ",
+            "en": "This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. ",
+            "matched": true
+          },
+          "dn33:2.2.41": {
+            "scid": "dn33:2.2.41",
+            "pli": "Ayampi dhammo sāraṇīyo …pe… ekībhāvāya saṁvattati.  ",
+            "de": "Auch diese <span class=\"ebt-matched\">warmherzige Eigenschaft</span> … führt zu Eintracht und Einigkeit. ",
+            "en": "This too is a warm-hearted quality. ",
+            "matched": true
+          },
+          "dn33:2.2.43": {
+            "scid": "dn33:2.2.43",
+            "pli": "Ayampi dhammo sāraṇīyo …pe… ekībhāvāya saṁvattati.  ",
+            "de": "Auch diese <span class=\"ebt-matched\">warmherzige Eigenschaft</span> … führt zu Eintracht und Einigkeit. ",
+            "en": "This too is a warm-hearted quality. ",
+            "matched": true
+          },
+          "dn33:2.2.45": {
+            "scid": "dn33:2.2.45",
+            "pli": "Ayampi dhammo sāraṇīyo …pe… ekībhāvāya saṁvattati.  ",
+            "de": "Auch diese <span class=\"ebt-matched\">warmherzige Eigenschaft</span> … führt zu Eintracht und Einigkeit. ",
+            "en": "This too is a warm-hearted quality. ",
+            "matched": true
+          },
+          "dn33:2.2.47": {
+            "scid": "dn33:2.2.47",
+            "pli": "Ayampi dhammo sāraṇīyo …pe… ekībhāvāya saṁvattati.  ",
+            "de": "Auch diese <span class=\"ebt-matched\">warmherzige Eigenschaft</span> … führt zu Eintracht und Einigkeit. ",
+            "en": "This too is a warm-hearted quality. ",
+            "matched": true
+          },
+          "dn33:2.2.49": {
+            "scid": "dn33:2.2.49",
+            "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.  ",
+            "de": "Auch diese <span class=\"ebt-matched\">warmherzige Eigenschaft</span> sorgt für Zuneigung und Respekt, führt zum Einbeziehen, zum Nicht-Streiten, zu Eintracht und Einigkeit. ",
+            "en": "This warm-hearted quality too makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. ",
+            "matched": true
+          }
+        },
+        "score": 7.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 33\nIm Chor aufsagen",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 1167,
+          "de": 1166,
+          "en": 1166
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.12_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.12_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.12_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.12",
+        "lang": "de",
+        "segMap": {
+          "an6.12:1.1": {
+            "scid": "an6.12:1.1",
+            "pli": "“Chayime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattanti. ",
+            "de": "„Mönche und Nonnen, diese sechs warmherzigen Eigenschaften sorgen für Zuneigung und Respekt, führen zum Einbeziehen, zum Nicht-Streiten, zu Eintracht und Einigkeit. ",
+            "en": "“Mendicants, these six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. ",
+            "matched": true
+          },
+          "an6.12:1.4": {
+            "scid": "an6.12:1.4",
+            "pli": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati. ",
+            "de": "Diese <span class=\"ebt-matched\">warmherzige Eigenschaft</span> sorgt für Zuneigung und Respekt, führt zum Einbeziehen, zum Nicht-Streiten, zu Eintracht und Einigkeit. ",
+            "en": "This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. ",
+            "matched": true
+          },
+          "an6.12:4.1": {
+            "scid": "an6.12:4.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu ye te lābhā dhammikā dhammaladdhā antamaso pattapariyāpannamattampi tathārūpehi lābhehi appaṭivibhattabhogī hoti sīlavantehi sabrahmacārīhi sādhāraṇabhogī, ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati. ",
+            "de": "Dann teilt da ein Mönch vorbehaltlos, was er an materiellem Besitz auf rechtmäßige Weise erhalten hat, selbst das Essen in seiner Almosenschale, und benutzt es gemeinsam mit seinen sittlichen geistlichen Gefährten. Auch das ist eine <span class=\"ebt-matched\">warmherzige Eigenschaft</span>. ",
+            "en": "Furthermore, a mendicant shares without reservation any material possessions they have gained by legitimate means, even the food placed in the alms-bowl, using them in common with their ethical spiritual companions. This too is a warm-hearted quality. ",
+            "matched": true
+          },
+          "an6.12:5.1": {
+            "scid": "an6.12:5.1",
+            "pli": "Puna caparaṁ, bhikkhave, bhikkhu yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṁvattanikāni tathārūpehi sīlehi sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca, ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati. ",
+            "de": "Dann lebt da eine Nonne nach den Regeln, die sie mit ihren geistlichen Gefährtinnen teilt, sowohl öffentlich als insgeheim. Die Regeln sind ungebrochen, tadellos, makellos und unbeschädigt; sie sind befreiend, werden von vernünftigen Menschen gepriesen, sind nicht fehlgeleitet und führen in die Versenkung. Auch das ist eine <span class=\"ebt-matched\">warmherzige Eigenschaft</span>. ",
+            "en": "Furthermore, a mendicant lives according to the precepts shared with their spiritual companions, both in public and in private. Those precepts are unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion. This too is a warm-hearted quality. ",
+            "matched": true
+          },
+          "an6.12:6.2": {
+            "scid": "an6.12:6.2",
+            "pli": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati. ",
+            "de": "Diese <span class=\"ebt-matched\">warmherzige Eigenschaft</span> sorgt für Zuneigung und Respekt, führt zum Einbeziehen, zum Nicht-Streiten, zu Eintracht und Einigkeit. ",
+            "en": "This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. ",
+            "matched": true
+          },
+          "an6.12:7.1": {
+            "scid": "an6.12:7.1",
+            "pli": "Ime kho, bhikkhave, cha dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattantī”ti. ",
+            "de": "Diese sechs warmherzigen Eigenschaften sorgen für Zuneigung und Respekt, führen zum Einbeziehen, zum Nicht-Streiten, zu Eintracht und Einigkeit.“ ",
+            "en": "These six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.” ",
+            "matched": true
+          }
+        },
+        "score": 6.4,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n2. Warmherzig\n12. Warmherzig (2)",
+        "segsMatched": 6,
+        "langSegs": {
+          "pli": 15,
+          "de": 14,
+          "en": 14
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn34_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn34_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn34_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn34",
+        "lang": "de",
+        "segMap": {
+          "dn34:1.7.3": {
+            "scid": "dn34:1.7.3",
+            "pli": "Cha sāraṇīyā dhammā. ",
+            "de": "Sechs <span class=\"ebt-matched\">warmherzige Eigenschaft</span>en: ",
+            "en": "Six warm-hearted qualities. ",
+            "matched": true
+          },
+          "dn34:1.7.5": {
+            "scid": "dn34:1.7.5",
+            "pli": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.  ",
+            "de": "Diese <span class=\"ebt-matched\">warmherzige Eigenschaft</span> sorgt für Zuneigung und Respekt, führt zum Einbeziehen, zum Nicht-Streiten, zu Eintracht und Einigkeit. ",
+            "en": "This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. ",
+            "matched": true
+          },
+          "dn34:1.7.11": {
+            "scid": "dn34:1.7.11",
+            "pli": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo, saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati. ",
+            "de": "Diese <span class=\"ebt-matched\">warmherzige Eigenschaft</span> sorgt für Zuneigung und Respekt, führt zum Einbeziehen, zum Nicht-Streiten, zu Eintracht und Einigkeit. ",
+            "en": "This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. ",
+            "matched": true
+          }
+        },
+        "score": 3.003,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 34\nBis zu zehn",
+        "segsMatched": 3,
+        "langSegs": {
+          "pli": 894,
+          "de": 754,
+          "en": 891
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.11_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.11_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.11_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.11",
+        "lang": "de",
+        "segMap": {
+          "an6.11:1.1": {
+            "scid": "an6.11:1.1",
+            "pli": "“Chayime, bhikkhave, dhammā sāraṇīyā. ",
+            "de": "„Mönche und Nonnen, es gibt sechs <span class=\"ebt-matched\">warmherzige Eigenschaft</span>en. ",
+            "en": "“Mendicants, there are these six warm-hearted qualities. ",
+            "matched": true
+          },
+          "an6.11:7.1": {
+            "scid": "an6.11:7.1",
+            "pli": "Ime kho, bhikkhave, cha dhammā sāraṇīyā”ti. ",
+            "de": "Das sind die sechs warmherzigen Eigenschaften.“ ",
+            "en": "These are the six warm-hearted qualities.” ",
+            "matched": true
+          }
+        },
+        "score": 2.154,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n2. Warmherzig\n11. Warmherzig (1)",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 13,
+          "de": 12,
+          "en": 12
+        }
+      }
+    ]
+  }
+}

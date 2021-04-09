@@ -1,0 +1,128 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "gegenstand zur besinnung",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "gegenstand zur besinnung",
+    "method": "phrase",
+    "resultPattern": "\\bgegenstand zur besinnung",
+    "segsMatched": 8,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/an/an6/an6.29_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/an/an6/an6.29_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/an/an6/an6.29_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "an6.29/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an6/an6.29_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/an/an6/an6.29_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/an/an6/an6.29_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an6.29",
+        "lang": "de",
+        "segMap": {
+          "an6.29:2.5": {
+            "scid": "an6.29:2.5",
+            "pli": "Idaṁ, bhante, anussatiṭṭhānan”ti. ",
+            "de": "Das ist ein <span class=\"ebt-matched\">Gegenstand zur Besinnung</span>.“ ",
+            "en": "This is a topic for recollection.” ",
+            "matched": true
+          },
+          "an6.29:4.4": {
+            "scid": "an6.29:4.4",
+            "pli": "Idaṁ, bhante, anussatiṭṭhānaṁ evaṁ bhāvitaṁ evaṁ bahulīkataṁ diṭṭhadhammasukhavihārāya saṁvattati. ",
+            "de": "Wenn dieser <span class=\"ebt-matched\">Gegenstand zur Besinnung</span> so entwickelt und gepflegt wird, führt er zu wonnevoller Meditation in diesem Leben. ",
+            "en": "When this topic of recollection is developed and cultivated in this way it leads to blissful meditation in this very life. ",
+            "matched": true
+          },
+          "an6.29:5.3": {
+            "scid": "an6.29:5.3",
+            "pli": "Idaṁ, bhante, anussatiṭṭhānaṁ evaṁ bhāvitaṁ evaṁ bahulīkataṁ ñāṇadassanappaṭilābhāya saṁvattati. ",
+            "de": "Wenn dieser <span class=\"ebt-matched\">Gegenstand zur Besinnung</span> so entwickelt und gepflegt wird, führt er zum Erkennen und Sehen. ",
+            "en": "When this topic of recollection is developed and cultivated in this way it leads to knowledge and vision. ",
+            "matched": true
+          },
+          "an6.29:6.3": {
+            "scid": "an6.29:6.3",
+            "pli": "Idaṁ, bhante, anussatiṭṭhānaṁ evaṁ bhāvitaṁ evaṁ bahulīkataṁ kāmarāgappahānāya saṁvattati. ",
+            "de": "Wenn dieser <span class=\"ebt-matched\">Gegenstand zur Besinnung</span> so entwickelt und gepflegt wird, führt er dazu, das sinnliche Verlangen aufzugeben. ",
+            "en": "When this topic of recollection is developed and cultivated in this way it leads to giving up sensual desire. ",
+            "matched": true
+          },
+          "an6.29:9.7": {
+            "scid": "an6.29:9.7",
+            "pli": "Idaṁ, bhante, anussatiṭṭhānaṁ evaṁ bhāvitaṁ evaṁ bahulīkataṁ asmimānasamugghātāya saṁvattati. ",
+            "de": "Wenn dieser <span class=\"ebt-matched\">Gegenstand zur Besinnung</span> so entwickelt und gepflegt wird, führt er dazu, die Einbildung ‚ich bin‘ zu entwurzeln. ",
+            "en": "When this topic of recollection is developed and cultivated in this way it leads to uprooting the conceit ‘I am’. ",
+            "matched": true
+          },
+          "an6.29:10.2": {
+            "scid": "an6.29:10.2",
+            "pli": "Idaṁ, bhante, anussatiṭṭhānaṁ evaṁ bhāvitaṁ evaṁ bahulīkataṁ anekadhātupaṭivedhāya saṁvattati. ",
+            "de": "Wenn dieser <span class=\"ebt-matched\">Gegenstand zur Besinnung</span> so entwickelt und gepflegt wird, führt er zum Durchdringen vieler Elemente. ",
+            "en": "When this topic of recollection is developed and cultivated in this way it leads to the penetration of many elements. ",
+            "matched": true
+          },
+          "an6.29:11.2": {
+            "scid": "an6.29:11.2",
+            "pli": "Tena hi tvaṁ, ānanda, idampi chaṭṭhaṁ anussatiṭṭhānaṁ dhārehi. ",
+            "de": "Nun, Ānanda, du solltest dir auch diesen sechsten <span class=\"ebt-matched\">Gegenstand zur Besinnung</span> merken: ",
+            "en": "Well then, Ānanda, you should also remember this sixth topic for recollection. ",
+            "matched": true
+          },
+          "an6.29:11.4": {
+            "scid": "an6.29:11.4",
+            "pli": "Idaṁ, ānanda, anussatiṭṭhānaṁ evaṁ bhāvitaṁ evaṁ bahulīkataṁ satisampajaññāya saṁvattatī”ti. ",
+            "de": "Wenn dieser <span class=\"ebt-matched\">Gegenstand zur Besinnung</span> so entwickelt und gepflegt wird, führt er zu Achtsamkeit und Umsicht.“ ",
+            "en": "When this topic of recollection is developed and cultivated in this way it leads to mindfulness and situational awareness.” ",
+            "matched": true
+          }
+        },
+        "score": 8.154,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Nummerierte Lehrreden 6\n3. Unübertrefflich\n29. Mit Udāyī",
+        "segsMatched": 8,
+        "langSegs": {
+          "pli": 52,
+          "de": 49,
+          "en": 51
+        }
+      }
+    ]
+  }
+}

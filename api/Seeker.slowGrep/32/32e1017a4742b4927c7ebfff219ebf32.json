@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\ba person’s ethics",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/an/an4/an4.192_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/sn/sn3/sn3.11_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/kn/ud/vagga6/ud6.2_translation-en-sujato.json:1"
+  ]
+}

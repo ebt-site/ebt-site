@@ -1,0 +1,122 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "weit weg von der tollen menge",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "de",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "de",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "weit weg von der tollen menge",
+    "method": "phrase",
+    "resultPattern": "\\bweit weg von der tollen menge",
+    "segsMatched": 3,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn32_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/dn/dn32_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/dn/dn32_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn25/de/sabbamitta",
+      "dn32/de/sabbamitta"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn25_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "de",
+        "segMap": {
+          "dn25:4.5": {
+            "scid": "dn25:4.5",
+            "pli": "Aññathā kho pana so bhagavā araññavanapatthāni pantāni senāsanāni paṭisevati appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppānī”ti. ",
+            "de": "Das ist ganz anders als wenn der Buddha abgelegene Unterkünfte in der Wildnis und im Wald aufsucht, die ruhig und still sind, <span class=\"ebt-matched\">weit weg von der tollen Menge</span>, fern von menschlichen Siedlungen und für die Klausur geeignet. ",
+            "en": "It’s quite different to the way the Buddha frequents remote lodgings in the wilderness and the forest that are quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat.” ",
+            "matched": true
+          },
+          "dn25:21.9": {
+            "scid": "dn25:21.9",
+            "pli": "Udāhu, evaṁ su te bhagavanto araññavanapatthāni pantāni senāsanāni paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni, seyyathāpāhaṁ etarahī’”ti. ",
+            "de": "Oder sagten sie, dass die Buddhas abgelegene Unterkünfte in der Wildnis und im Wald aufsuchten, die ruhig und still sind, <span class=\"ebt-matched\">weit weg von der tollen Menge</span>, fern von menschlichen Siedlungen und für die Klausur geeignet, wie ich es heutzutage tue?“ ",
+            "en": "Or did they say that the Buddhas frequented remote lodgings in the wilderness and the forest that are quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat, like I do these days?” ",
+            "matched": true
+          }
+        },
+        "score": 2.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 25\nDas Löwengebrüll in Udumbarikās Kloster\n1. Vom Wanderer Nigrodha",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 383,
+          "de": 347,
+          "en": 382
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn32_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/dn/dn32_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/dn/dn32_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn32",
+        "lang": "de",
+        "segMap": {
+          "dn32:2.13": {
+            "scid": "dn32:2.13",
+            "pli": "Santi hi, bhante, bhagavato sāvakā araññavanapatthāni pantāni senāsanāni paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni. ",
+            "de": "Herr, es gibt Schülerinnen und Schüler des Buddha, die abgelegene Unterkünfte in der Wildnis und im Wald aufsuchen, die ruhig und still sind, <span class=\"ebt-matched\">weit weg von der tollen Menge</span>, fern von menschlichen Siedlungen und für die Klausur geeignet. ",
+            "en": "Sir, there are disciples of the Buddha who frequent remote lodgings in the wilderness and the forest that are quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Lange Lehrreden 32\nDer Āṭānāṭiya-Schutz\n1. Der erste Abschnitt zum Aufsagen",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 574,
+          "de": 291,
+          "en": 573
+        }
+      }
+    ]
+  }
+}

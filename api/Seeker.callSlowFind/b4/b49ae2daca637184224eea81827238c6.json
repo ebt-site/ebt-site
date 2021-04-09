@@ -1,0 +1,254 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "the known",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "the known",
+    "method": "phrase",
+    "resultPattern": "\\bthe known",
+    "segsMatched": 18,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/mn/mn1_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn1_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.95_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.95_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn112_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn112_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/ud/vagga1/ud1.10_root-pli-ms.json",
+      "translation/en/sujato/sutta/kn/ud/vagga1/ud1.10_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "mn1/en/sujato",
+      "sn35.95/en/sujato",
+      "mn112/en/sujato",
+      "ud1.10/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn1_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn1_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn1",
+        "lang": "en",
+        "segMap": {
+          "mn1:22.1": {
+            "scid": "mn1:22.1",
+            "pli": "Viññātaṁ viññātato sañjānāti; ",
+            "en": "They perceive <span class=\"ebt-matched\">the known</span> as <span class=\"ebt-matched\">the known</span>. ",
+            "matched": true
+          },
+          "mn1:22.2": {
+            "scid": "mn1:22.2",
+            "pli": "viññātaṁ viññātato saññatvā viññātaṁ maññati, viññātasmiṁ maññati, viññātato maññati, viññātaṁ meti maññati, viññātaṁ abhinandati. ",
+            "en": "But then they identify with <span class=\"ebt-matched\">the known</span> … ",
+            "matched": true
+          },
+          "mn1:28-49.19": {
+            "scid": "mn1:28-49.19",
+            "pli": "viññātaṁ … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
+            "matched": true
+          },
+          "mn1:52-74.19": {
+            "scid": "mn1:52-74.19",
+            "pli": "viññātaṁ … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
+            "matched": true
+          },
+          "mn1:76-98.19": {
+            "scid": "mn1:76-98.19",
+            "pli": "viññātaṁ … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
+            "matched": true
+          },
+          "mn1:100-122.19": {
+            "scid": "mn1:100-122.19",
+            "pli": "viññātaṁ … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
+            "matched": true
+          },
+          "mn1:124-146.19": {
+            "scid": "mn1:124-146.19",
+            "pli": "viññātaṁ … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
+            "matched": true
+          },
+          "mn1:148-170.19": {
+            "scid": "mn1:148-170.19",
+            "pli": "viññātaṁ … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
+            "matched": true
+          },
+          "mn1:172-194.19": {
+            "scid": "mn1:172-194.19",
+            "pli": "viññātaṁ … ",
+            "en": "<span class=\"ebt-matched\">the known</span> … ",
+            "matched": true
+          }
+        },
+        "score": 9.027,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 1\nThe Root of All Things",
+        "segsMatched": 9,
+        "langSegs": {
+          "pli": 334,
+          "en": 333
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.95_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.95_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.95",
+        "lang": "en",
+        "segMap": {
+          "sn35.95:4.2": {
+            "scid": "sn35.95:4.2",
+            "pli": "ye te cakkhuviññeyyā rūpā adiṭṭhā adiṭṭhapubbā, na ca passasi, na ca te hoti passeyyanti? Atthi te tattha chando vā rāgo vā pemaṁ vā”ti? ",
+            "en": "Do you have any desire or greed or fondness for sights known by the eye that you haven’t seen, you’ve never seen before, you don’t see, and you don’t think would be seen?” ",
+            "matched": true
+          },
+          "sn35.95:5.1": {
+            "scid": "sn35.95:5.1",
+            "pli": "“Ye te sotaviññeyyā saddā assutā assutapubbā, na ca suṇāsi, na ca te hoti suṇeyyanti? Atthi te tattha chando vā rāgo vā pemaṁ vā”ti? ",
+            "en": "“Do you have any desire or greed or affection for sounds known by the ear … ",
+            "matched": true
+          },
+          "sn35.95:6.1": {
+            "scid": "sn35.95:6.1",
+            "pli": "“Ye te ghānaviññeyyā gandhā aghāyitā aghāyitapubbā, na ca ghāyasi, na ca te hoti ghāyeyyanti? Atthi te tattha chando vā rāgo vā pemaṁ vā”ti? ",
+            "en": "smells known by the nose … ",
+            "matched": true
+          },
+          "sn35.95:7.1": {
+            "scid": "sn35.95:7.1",
+            "pli": "“Ye te jivhāviññeyyā rasā asāyitā asāyitapubbā, na ca sāyasi, na ca te hoti sāyeyyanti? Atthi te tattha chando vā rāgo vā pemaṁ vā”ti? ",
+            "en": "tastes known by the tongue … ",
+            "matched": true
+          },
+          "sn35.95:8.1": {
+            "scid": "sn35.95:8.1",
+            "pli": "“Ye te kāyaviññeyyā phoṭṭhabbā asamphuṭṭhā asamphuṭṭhapubbā, na ca phusasi, na ca te hoti phuseyyanti? Atthi te tattha chando vā rāgo vā pemaṁ vā”ti? ",
+            "en": "touches known by the body … ",
+            "matched": true
+          },
+          "sn35.95:9.1": {
+            "scid": "sn35.95:9.1",
+            "pli": "“Ye te manoviññeyyā dhammā aviññātā aviññātapubbā, na ca vijānāsi, na ca te hoti vijāneyyanti? Atthi te tattha chando vā rāgo vā pemaṁ vā”ti? ",
+            "en": "thoughts known by the mind that you haven’t known, you’ve never known before, you don’t know, and you don’t think would be known?” ",
+            "matched": true
+          },
+          "sn35.95:10.1": {
+            "scid": "sn35.95:10.1",
+            "pli": "“Ettha ca te, mālukyaputta, diṭṭhasutamutaviññātabbesu dhammesu diṭṭhe diṭṭhamattaṁ bhavissati, sute sutamattaṁ bhavissati, mute mutamattaṁ bhavissati, viññāte viññātamattaṁ bhavissati. ",
+            "en": "“In that case, when it comes to things that are to be seen, heard, thought, and known: in the seen will be merely the seen; in the heard will be merely the heard; in the thought will be merely the thought; in <span class=\"ebt-matched\">the known</span> will be merely <span class=\"ebt-matched\">the known</span>. ",
+            "matched": true
+          }
+        },
+        "score": 7.039,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n10. The Sixes\n95. Māluṅkyaputta",
+        "segsMatched": 7,
+        "langSegs": {
+          "pli": 181,
+          "en": 180
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/ud/vagga1/ud1.10_root-pli-ms.json",
+          "translation/en/sujato/sutta/kn/ud/vagga1/ud1.10_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "ud1.10",
+        "lang": "en",
+        "segMap": {
+          "ud1.10:8.2": {
+            "scid": "ud1.10:8.2",
+            "pli": "‘diṭṭhe diṭṭhamattaṁ bhavissati, sute sutamattaṁ bhavissati, mute mutamattaṁ bhavissati, viññāte viññātamattaṁ bhavissatī’ti.",
+            "en": "‘In the seen will be merely the seen; in the heard will be merely the heard; in the thought will be merely the thought; in <span class=\"ebt-matched\">the known</span> will be merely <span class=\"ebt-matched\">the known</span>.’",
+            "matched": true
+          }
+        },
+        "score": 1.013,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Heartfelt Sayings\n1.10. With Bāhiya",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 79,
+          "en": 70
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn112_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn112_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn112",
+        "lang": "en",
+        "segMap": {
+          "mn112:3.5": {
+            "scid": "mn112:3.5",
+            "pli": "Diṭṭhe diṭṭhavāditā, sute sutavāditā, mute mutavāditā, viññāte viññātavāditā—",
+            "en": "One speaks of the seen as seen, the heard as heard, the thought as thought, and <span class=\"ebt-matched\">the known</span> as known. ",
+            "matched": true
+          }
+        },
+        "score": 1.007,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 112\nThe Sixfold Purification",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 147,
+          "en": 146
+        }
+      }
+    ]
+  }
+}

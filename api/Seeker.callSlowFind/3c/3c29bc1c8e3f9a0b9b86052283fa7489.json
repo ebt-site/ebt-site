@@ -1,0 +1,240 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "far from the madding crowd",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en"
+      ],
+      "maxResults": 1000,
+      "searchLang": "en",
+      "maxDoc": 50,
+      "minLang": 2,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "en",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "en",
+    "searchLang": "en",
+    "minLang": 2,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "far from the madding crowd",
+    "method": "phrase",
+    "resultPattern": "\\bfar from the madding crowd",
+    "segsMatched": 7,
+    "bilaraPaths": [
+      "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json",
+      "root/pli/ms/sutta/sn/sn35/sn35.63_root-pli-ms.json",
+      "translation/en/sujato/sutta/sn/sn35/sn35.63_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn89_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn89_translation-en-sujato.json",
+      "root/pli/ms/sutta/mn/mn108_root-pli-ms.json",
+      "translation/en/sujato/sutta/mn/mn108_translation-en-sujato.json",
+      "root/pli/ms/sutta/dn/dn32_root-pli-ms.json",
+      "translation/en/sujato/sutta/dn/dn32_translation-en-sujato.json",
+      "root/pli/ms/sutta/an/an7/an7.61_root-pli-ms.json",
+      "translation/en/sujato/sutta/an/an7/an7.61_translation-en-sujato.json"
+    ],
+    "suttaRefs": [
+      "dn25/en/sujato",
+      "sn35.63/en/sujato",
+      "mn89/en/sujato",
+      "mn108/en/sujato",
+      "dn32/en/sujato",
+      "an7.61/en/sujato"
+    ],
+    "mlDocs": [
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn25_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn25_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn25",
+        "lang": "en",
+        "segMap": {
+          "dn25:4.5": {
+            "scid": "dn25:4.5",
+            "pli": "Aññathā kho pana so bhagavā araññavanapatthāni pantāni senāsanāni paṭisevati appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppānī”ti. ",
+            "en": "It’s quite different to the way the Buddha frequents remote lodgings in the wilderness and the forest that are quiet and still, <span class=\"ebt-matched\">far from the madding crowd</span>, remote from human settlements, and fit for retreat.” ",
+            "matched": true
+          },
+          "dn25:21.9": {
+            "scid": "dn25:21.9",
+            "pli": "Udāhu, evaṁ su te bhagavanto araññavanapatthāni pantāni senāsanāni paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni, seyyathāpāhaṁ etarahī’”ti. ",
+            "en": "Or did they say that the Buddhas frequented remote lodgings in the wilderness and the forest that are quiet and still, <span class=\"ebt-matched\">far from the madding crowd</span>, remote from human settlements, and fit for retreat, like I do these days?” ",
+            "matched": true
+          }
+        },
+        "score": 2.005,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 25\nThe Lion’s Roar at Udumbarikā’s Monastery\n1. On the Wanderer Nigrodha",
+        "segsMatched": 2,
+        "langSegs": {
+          "pli": 383,
+          "en": 382
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/sn/sn35/sn35.63_root-pli-ms.json",
+          "translation/en/sujato/sutta/sn/sn35/sn35.63_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "sn35.63",
+        "lang": "en",
+        "segMap": {
+          "sn35.63:2.14": {
+            "scid": "sn35.63:2.14",
+            "pli": "Evaṁvihārī ca, migajāla, bhikkhu kiñcāpi araññavanapatthāni pantāni senāsanāni paṭisevati appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni; ",
+            "en": "A mendicant who lives like this is said to live with a partner, even if they frequent remote lodgings in the wilderness and the forest that are quiet and still, <span class=\"ebt-matched\">far from the madding crowd</span>, remote from human settlements, and fit for retreat. ",
+            "matched": true
+          }
+        },
+        "score": 1.022,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Linked Discourses 35\n7. With Migajāla\n63. With Migajāla (1st)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 45,
+          "en": 44
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/an/an7/an7.61_root-pli-ms.json",
+          "translation/en/sujato/sutta/an/an7/an7.61_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "an7.61",
+        "lang": "en",
+        "segMap": {
+          "an7.61:11.8": {
+            "scid": "an7.61:11.8",
+            "pli": "Yāni ca kho tāni senāsanāni appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni tathārūpehi senāsanehi saṁsaggaṁ vaṇṇayāmī”ti. ",
+            "en": "I do praise closeness with those lodgings that are quiet and still, <span class=\"ebt-matched\">far from the madding crowd</span>, remote from human settlements, and fit for retreat.” ",
+            "matched": true
+          }
+        },
+        "score": 1.016,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Numbered Discourses 7\n6. The Undeclared Points\n61. Nodding Off",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 61,
+          "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn89_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn89_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn89",
+        "lang": "en",
+        "segMap": {
+          "mn89:4.1": {
+            "scid": "mn89:4.1",
+            "pli": "Addasā kho rājā pasenadi kosalo ārāme jaṅghāvihāraṁ anucaṅkamamāno anuvicaramāno rukkhamūlāni pāsādikāni pasādanīyāni appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni. ",
+            "en": "As he was going for a walk in the park he saw roots of trees that were impressive and inspiring, quiet and still, <span class=\"ebt-matched\">far from the madding crowd</span>, remote from human settlements, and fit for retreat. ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 89\nShrines to the Teaching",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 159,
+          "en": 158
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/mn/mn108_root-pli-ms.json",
+          "translation/en/sujato/sutta/mn/mn108_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "mn108",
+        "lang": "en",
+        "segMap": {
+          "mn108:25.4": {
+            "scid": "mn108:25.4",
+            "pli": "“Kacci pana, bho ānanda, veḷuvanaṁ ramaṇīyañceva appasaddañca appanigghosañca vijanavātaṁ manussarāhasseyyakaṁ paṭisallānasāruppan”ti? ",
+            "en": "“I hope the Bamboo Grove is delightful, quiet and still, <span class=\"ebt-matched\">far from the madding crowd</span>, remote from human settlements, and fit for retreat?” ",
+            "matched": true
+          }
+        },
+        "score": 1.006,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Middle Discourses 108\nWith Moggallāna the Guardian",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 160,
+          "en": 159
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/dn/dn32_root-pli-ms.json",
+          "translation/en/sujato/sutta/dn/dn32_translation-en-sujato.json"
+        ],
+        "author_uid": "sujato",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "dn32",
+        "lang": "en",
+        "segMap": {
+          "dn32:2.13": {
+            "scid": "dn32:2.13",
+            "pli": "Santi hi, bhante, bhagavato sāvakā araññavanapatthāni pantāni senāsanāni paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni. ",
+            "en": "Sir, there are disciples of the Buddha who frequent remote lodgings in the wilderness and the forest that are quiet and still, <span class=\"ebt-matched\">far from the madding crowd</span>, remote from human settlements, and fit for retreat. ",
+            "matched": true
+          }
+        },
+        "score": 1.002,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Long Discourses 32\nThe Āṭānāṭiya Protection\n1. The First Recitation Section",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 574,
+          "en": 573
+        }
+      }
+    ]
+  }
+}
