@@ -1,0 +1,17 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bso hat der buddha es erklärt",
+      "maxResults": 1000,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an6/an6.44_translation-de-sabbamitta.json:1"
+  ]
+}

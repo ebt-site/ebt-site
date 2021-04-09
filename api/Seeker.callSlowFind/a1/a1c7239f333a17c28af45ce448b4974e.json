@@ -1,0 +1,40 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.callSlowFind",
+  "args": [
+    {
+      "pattern": "metteyya",
+      "showMatchesOnly": true,
+      "languages": [
+        "pli",
+        "en",
+        "de"
+      ],
+      "maxResults": 1000,
+      "searchLang": "pli",
+      "maxDoc": 50,
+      "minLang": 3,
+      "matchHighlight": "<span class=\"ebt-matched\">$&</span>",
+      "lang": "de",
+      "types": [
+        "root",
+        "translation"
+      ],
+      "includeUnpublished": false
+    }
+  ],
+  "value": {
+    "lang": "de",
+    "searchLang": "pli",
+    "minLang": 3,
+    "maxDoc": 50,
+    "maxResults": 1000,
+    "pattern": "metteyya",
+    "method": "phrase",
+    "resultPattern": "\\b(m|ṁ|ṃ)e(t|ṭ)(t|ṭ)eyy(a|ā)",
+    "segsMatched": 0,
+    "bilaraPaths": [],
+    "suttaRefs": [],
+    "mlDocs": []
+  }
+}

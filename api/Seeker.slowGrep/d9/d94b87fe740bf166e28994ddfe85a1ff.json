@@ -1,0 +1,17 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bochse,",
+      "maxResults": 0,
+      "lang": "de",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/de/sabbamitta/sutta/an/an4/an4.108_translation-de-sabbamitta.json:2"
+  ]
+}
