@@ -21,7 +21,7 @@
 <script>
 import Vue from 'vue';
 const { version } = require('~/package.json');
-import { EbtVue } from '../index';
+import { EbtVue } from 'ebt-vue';
 import {
   mdiMenu,
 } from "@mdi/js";

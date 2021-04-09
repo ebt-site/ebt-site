@@ -4,7 +4,8 @@
   </ebt-article>
 </template>
 <script>
-  import EbtArticle from '@/components/ebt-article';
+  import { EbtVue } from 'ebt-vue';
+  const { EbtArticle, } = EbtVue;
   export default {
     async asyncData({ $content, params }) {
       const article = await $content('sites', params.slug).fetch()

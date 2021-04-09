@@ -8,7 +8,7 @@
   const { EbtArticle } = EbtVue;
   export default {
     async asyncData({ $content, params }) {
-      const article = await $content('author', params.slug).fetch()
+      const article = await $content('admin', params.slug).fetch()
       return { article }
     },
     components: { EbtArticle, },

@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import { EbtVue } from '../index';
+import { EbtVue } from 'ebt-vue';
 let {
   EbtPageSuttas,
 } = EbtVue;

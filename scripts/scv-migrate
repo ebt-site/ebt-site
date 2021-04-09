@@ -1,0 +1,33 @@
+#!/bin/bash
+
+DIR=`dirname $0`
+SCRIPT=`basename $0 | tr abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ`
+cd $DIR/..
+
+SRC=$1
+if [ "$SRC" == "" ]; then
+  echo "$SCRIPT: no source directory specified for sc-voice/ebt-site migration"
+  exit -1
+fi
+echo "$SCRIPT: converting $SRC"
+rm -rf pages 
+cp -r -v $SRC/pages pages
+rm -rf content
+cp -r -v $SRC/content content
+cp -r -v $SRC/static/* static
+cp $SRC/ebt-repo.json ebt-repo.json
+rm -rf components
+
+echo "$SCRIPT: renaming scv- to ebt-"
+function repgrep {
+  eval "find pages -type f $INCLUDE -exec grep -HE \"$1\" {} \; -exec sed -i -e \"s/$1/$2/g\" {} \; ";
+  eval "find content -type f $INCLUDE -exec grep -HE \"$1\" {} \; -exec sed -i -e \"s/$1/$2/g\" {} \; ";
+}
+repgrep scv- ebt- 
+repgrep Scv Ebt 
+repgrep @sc-voice. 
+repgrep sc-voice ebt-site
+repgrep ebt-static ebt-vue
+sed -i -e "s/sc-voice/ebt-site/g" ebt-repo.json
+sed -i -e "s/...index/ebt-vue/g" layouts/default.vue
+
