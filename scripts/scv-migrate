@@ -11,11 +11,11 @@ if [ "$SRC" == "" ]; then
 fi
 echo "$SCRIPT: converting $SRC"
 rm -rf pages 
-cp -r -v $SRC/pages pages
+cp -ruv $SRC/pages pages
 rm -rf content
-cp -r -v $SRC/content content
-cp -r -v $SRC/static/* static
-cp $SRC/ebt-repo.json ebt-repo.json
+cp -ruv $SRC/content content
+cp -ruv $SRC/static/* static
+cp -uv $SRC/ebt-repo.json ebt-repo.json
 rm -rf components
 
 echo "$SCRIPT: renaming scv- to ebt-"
