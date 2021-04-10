@@ -1,0 +1,20 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bthe interior earth element",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn62_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/mn/mn28_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/mn/mn140_translation-en-sujato.json:3",
+    "translation/en/sujato/sutta/an/an4/an4.177_translation-en-sujato.json:1"
+  ]
+}
