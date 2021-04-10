@@ -1,0 +1,20 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bone fine night",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn134_translation-en-sujato.json:10",
+    "translation/en/sujato/sutta/mn/mn133_translation-en-sujato.json:7",
+    "translation/en/sujato/sutta/mn/mn132_translation-en-sujato.json:6",
+    "translation/en/sujato/sutta/mn/mn131_translation-en-sujato.json:5"
+  ]
+}
