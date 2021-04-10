@@ -1,6 +1,6 @@
 {
   "name": "ebt-site",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vue/Vuetify website framework for Early Buddhist Texts",
   "main": "index.js",
   "public": true,
@@ -13,7 +13,7 @@
     "core-js": "^3.6.5",
     "ebt-vue": "^0.5.86",
     "nuxt": "^2.14.12",
-    "scv-bilara": "^2.1.7",
+    "scv-bilara": "^2.1.9",
     "vue-cookie": "^1.1.4",
     "vue-details": "^1.0.9"
   },
