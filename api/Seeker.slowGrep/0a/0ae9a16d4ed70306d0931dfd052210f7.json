@@ -1,0 +1,20 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\bmeditate and concentrate",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn50_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/mn/mn108_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an11/an11.9_translation-en-sujato.json:2",
+    "translation/en/sujato/sutta/an/an6/an6.46_translation-en-sujato.json:1"
+  ]
+}

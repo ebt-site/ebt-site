@@ -1,0 +1,19 @@
+{
+  "isPromise": true,
+  "volume": "Seeker.slowGrep",
+  "args": [
+    {
+      "pattern": "\\blike a dog",
+      "maxResults": 1000,
+      "lang": "en",
+      "reTipCat": {},
+      "root": "local/ebt-data",
+      "patPrimary": "/sutta/"
+    }
+  ],
+  "value": [
+    "translation/en/sujato/sutta/mn/mn57_translation-en-sujato.json:5",
+    "translation/en/sujato/sutta/kn/thig/thig16.1_translation-en-sujato.json:1",
+    "translation/en/sujato/sutta/dn/dn24_translation-en-sujato.json:1"
+  ]
+}
