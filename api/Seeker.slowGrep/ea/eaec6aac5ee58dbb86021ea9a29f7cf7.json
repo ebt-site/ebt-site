@@ -3,7 +3,7 @@
   "volume": "Seeker.slowGrep",
   "args": [
     {
-      "pattern": "\\bmeditier.* und konzentrier",
+      "pattern": "\\bmeditier konzentrier",
       "maxResults": 1000,
       "lang": "de",
       "reTipCat": {},
@@ -11,7 +11,5 @@
       "patPrimary": "/sutta/"
     }
   ],
-  "value": [
-    "translation/de/sabbamitta/sutta/an/an6/an6.46_translation-de-sabbamitta.json:1"
-  ]
+  "value": []
 }
