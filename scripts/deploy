@@ -17,9 +17,11 @@ else
 fi
 
 export BABEL_ENV=deploy
-npm run version:nuxt &&\
-npm run build:routes &&\
-npm run build:generate-dist &&\
+nuxt --version
+$DIR/nuxt-routes.js
+export CI=
+echo CI=$CI
+nuxt generate
 $DIR/git-commit-version PUSH
 npm run deploy:branch 
 RC=$?
