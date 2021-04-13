@@ -32,11 +32,14 @@
     "pattern": "frieden finden",
     "method": "phrase",
     "resultPattern": "\\bfrieden finden",
-    "segsMatched": 4,
+    "segsMatched": 5,
     "bilaraPaths": [
       "root/pli/ms/sutta/kn/thig/thig6.8_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/kn/thig/thig6.8_translation-de-sabbamitta.json",
       "translation/en/sujato/sutta/kn/thig/thig6.8_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig5.1_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/thig/thig5.1_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/thig/thig5.1_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/thig/thig3.2_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/kn/thig/thig3.2_translation-de-sabbamitta.json",
       "translation/en/sujato/sutta/kn/thig/thig3.2_translation-en-sujato.json",
@@ -49,6 +52,7 @@
     ],
     "suttaRefs": [
       "thig6.8/de/sabbamitta",
+      "thig5.1/de/sabbamitta",
       "thig3.2/de/sabbamitta",
       "thig3.1/de/sabbamitta",
       "thig2.10/de/sabbamitta"
@@ -148,6 +152,38 @@
           "pli": 18,
           "de": 17,
           "en": 17
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig5.1_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/thig/thig5.1_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/thig/thig5.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig5.1",
+        "lang": "de",
+        "segMap": {
+          "thig5.1:2.1": {
+            "scid": "thig5.1:2.1",
+            "pli": "Aladdhā cetaso santiṁ,",
+            "de": "Ich konnte keinen inneren <span class=\"ebt-matched\">Frieden finden</span>, ",
+            "en": "Failing to find peace of heart,",
+            "matched": true
+          }
+        },
+        "score": 1.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Strophen der altehrwürdigen Nonnen\nDas Fünferbuch\n5.1. Eine nicht namentlich genannte Nonne (2)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 26,
+          "de": 25,
+          "en": 25
         }
       },
       {

@@ -32,7 +32,7 @@
     "pattern": "fingerschnippen",
     "method": "phrase",
     "resultPattern": "\\bfingerschnippen",
-    "segsMatched": 19,
+    "segsMatched": 20,
     "bilaraPaths": [
       "root/pli/ms/sutta/an/an1/an1.394-574_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/an/an1/an1.394-574_translation-de-sabbamitta.json",
@@ -42,12 +42,16 @@
       "translation/en/sujato/sutta/an/an1/an1.51-60_translation-en-sujato.json",
       "root/pli/ms/sutta/an/an1/an1.316-332_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/an/an1/an1.316-332_translation-de-sabbamitta.json",
-      "translation/en/sujato/sutta/an/an1/an1.316-332_translation-en-sujato.json"
+      "translation/en/sujato/sutta/an/an1/an1.316-332_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig5.1_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/thig/thig5.1_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/thig/thig5.1_translation-en-sujato.json"
     ],
     "suttaRefs": [
       "an1.394-574/de/sabbamitta",
       "an1.51-60/de/sabbamitta",
-      "an1.316-332/de/sabbamitta"
+      "an1.316-332/de/sabbamitta",
+      "thig5.1/de/sabbamitta"
     ],
     "mlDocs": [
       {
@@ -256,6 +260,38 @@
           "pli": 61,
           "de": 60,
           "en": 60
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig5.1_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/thig/thig5.1_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/thig/thig5.1_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig5.1",
+        "lang": "de",
+        "segMap": {
+          "thig5.1:1.4": {
+            "scid": "thig5.1:1.4",
+            "pli": "cittassūpasamajjhagaṁ.",
+            "de": "und sei es nur für die Dauer eines <span class=\"ebt-matched\">Fingerschnippen</span>s. ",
+            "en": "even for as long as a finger-snap.",
+            "matched": true
+          }
+        },
+        "score": 1.038,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Strophen der altehrwürdigen Nonnen\nDas Fünferbuch\n5.1. Eine nicht namentlich genannte Nonne (2)",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 26,
+          "de": 25,
+          "en": 25
         }
       }
     ]

@@ -32,18 +32,14 @@
     "pattern": "muschelschalen, steine und kiesel",
     "method": "phrase",
     "resultPattern": "\\bmuschelschalen, steine und kiesel",
-    "segsMatched": 3,
+    "segsMatched": 2,
     "bilaraPaths": [
       "root/pli/ms/sutta/an/an1/an1.41-50_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/an/an1/an1.41-50_translation-de-sabbamitta.json",
-      "translation/en/sujato/sutta/an/an1/an1.41-50_translation-en-sujato.json",
-      "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
-      "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
-      "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
+      "translation/en/sujato/sutta/an/an1/an1.41-50_translation-en-sujato.json"
     ],
     "suttaRefs": [
-      "an1.41-50/de/sabbamitta",
-      "dn10/de/sabbamitta"
+      "an1.41-50/de/sabbamitta"
     ],
     "mlDocs": [
       {
@@ -83,38 +79,6 @@
           "pli": 67,
           "de": 66,
           "en": 66
-        }
-      },
-      {
-        "bilaraPaths": [
-          "root/pli/ms/sutta/dn/dn10_root-pli-ms.json",
-          "translation/de/sabbamitta/sutta/dn/dn10_translation-de-sabbamitta.json",
-          "translation/en/sujato/sutta/dn/dn10_translation-en-sujato.json"
-        ],
-        "author_uid": "sabbamitta",
-        "type": "translation",
-        "category": "sutta",
-        "sutta_uid": "dn10",
-        "lang": "de",
-        "segMap": {
-          "dn10:2.36.1": {
-            "scid": "dn10:2.36.1",
-            "pli": "Seyyathāpi, māṇava, pabbatasaṅkhepe udakarahado accho vippasanno anāvilo. Tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakathalampi macchagumbampi carantampi tiṭṭhantampi. Tassa evamassa: ‘ayaṁ kho udakarahado accho vippasanno anāvilo. Tatrime sippisambukāpi sakkharakathalāpi macchagumbāpi carantipi tiṭṭhantipī’ti. ",
-            "de": "Wie ein See, der durchsichtig, klar und ungetrübt wäre. Ein Mensch mit gutem Sehvermögen, der am Ufer stünde, würde die <span class=\"ebt-matched\">Muschelschalen, Steine und Kiesel</span> sehen und auch die Fischschwärme, die herumschwämmen oder stillstünden. Er dächte: ‚Dieser See ist durchsichtig, klar und ungetrübt. Hier sind die <span class=\"ebt-matched\">Muschelschalen, Steine und Kiesel</span> und die Fischschwärme, die herumschwimmen oder stillstehen.‘ ",
-            "en": "Suppose that in a mountain glen there was a lake that was transparent, clear, and unclouded. A person with good eyesight standing on the bank would see the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still. They’d think: ‘This lake is transparent, clear, and unclouded. And here are the mussel shells, gravel and pebbles, and schools of fish swimming about or staying still.’ ",
-            "matched": true
-          }
-        },
-        "score": 1.004,
-        "hyphen": "­",
-        "maxWord": 30,
-        "minWord": 5,
-        "title": "Lange Lehrreden 10\nMit Subha",
-        "segsMatched": 1,
-        "langSegs": {
-          "pli": 284,
-          "de": 226,
-          "en": 281
         }
       }
     ]

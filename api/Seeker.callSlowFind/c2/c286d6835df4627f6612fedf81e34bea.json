@@ -32,7 +32,7 @@
     "pattern": "merkmalslos",
     "method": "phrase",
     "resultPattern": "\\bmerkmalslos",
-    "segsMatched": 11,
+    "segsMatched": 12,
     "bilaraPaths": [
       "root/pli/ms/sutta/dn/dn33_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/dn/dn33_translation-de-sabbamitta.json",
@@ -46,6 +46,9 @@
       "root/pli/ms/sutta/sn/sn47/sn47.9_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/sn/sn47/sn47.9_translation-de-sabbamitta.json",
       "translation/en/sujato/sutta/sn/sn47/sn47.9_translation-en-sujato.json",
+      "root/pli/ms/sutta/kn/thig/thig5.8_root-pli-ms.json",
+      "translation/de/sabbamitta/sutta/kn/thig/thig5.8_translation-de-sabbamitta.json",
+      "translation/en/sujato/sutta/kn/thig/thig5.8_translation-en-sujato.json",
       "root/pli/ms/sutta/kn/thig/thig3.3_root-pli-ms.json",
       "translation/de/sabbamitta/sutta/kn/thig/thig3.3_translation-de-sabbamitta.json",
       "translation/en/sujato/sutta/kn/thig/thig3.3_translation-en-sujato.json",
@@ -61,6 +64,7 @@
       "dn34/de/sabbamitta",
       "an6.13/de/sabbamitta",
       "sn47.9/de/sabbamitta",
+      "thig5.8/de/sabbamitta",
       "thig3.3/de/sabbamitta",
       "thig2.1/de/sabbamitta",
       "an3.183-352/de/sabbamitta"
@@ -252,6 +256,38 @@
           "pli": 16,
           "de": 15,
           "en": 15
+        }
+      },
+      {
+        "bilaraPaths": [
+          "root/pli/ms/sutta/kn/thig/thig5.8_root-pli-ms.json",
+          "translation/de/sabbamitta/sutta/kn/thig/thig5.8_translation-de-sabbamitta.json",
+          "translation/en/sujato/sutta/kn/thig/thig5.8_translation-en-sujato.json"
+        ],
+        "author_uid": "sabbamitta",
+        "type": "translation",
+        "category": "sutta",
+        "sutta_uid": "thig5.8",
+        "lang": "de",
+        "segMap": {
+          "thig5.8:4.1": {
+            "scid": "thig5.8:4.1",
+            "pli": "Animittañca bhāvemi,",
+            "de": "Ich meditiere über das <span class=\"ebt-matched\">Merkmalslos</span>e, ",
+            "en": "I meditate on the signless,",
+            "matched": true
+          }
+        },
+        "score": 1.042,
+        "hyphen": "­",
+        "maxWord": 30,
+        "minWord": 5,
+        "title": "Strophen der altehrwürdigen Nonnen\nDas Fünferbuch\n5.8. Soṇā",
+        "segsMatched": 1,
+        "langSegs": {
+          "pli": 24,
+          "de": 23,
+          "en": 23
         }
       },
       {
