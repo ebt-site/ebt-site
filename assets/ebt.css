@@ -59,7 +59,8 @@ label {
 
 .ebt-select {
   padding: 0.5em;
-  text-align: right;
+  text-align: left;
+  -webkit-appearance: auto;
 }
 .ebt-select:focus {
   box-shadow: -1 0 3pt 2pt var(--ebt-focus-color-light);
