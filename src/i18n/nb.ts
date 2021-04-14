@@ -171,6 +171,8 @@ export default {
     ariaPageBottom: "view page bottom",
     ariaPageTop: "view page top",
     ariaPlay: "Spill av",
+    ariaPlayNext: "Play Next",
+    ariaPlayPrevious: "Play Previous",
     ariaPlaySutta: "A_SEARCH A_SUTTAID. A_DURATION",
     ariaSeconds: "A_SECONDS sekunder",
     ariaSettings: "Innstillinger",

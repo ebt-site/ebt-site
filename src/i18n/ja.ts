@@ -173,6 +173,8 @@ export default {
     ariaPageTop: "view page top",
     ariaPlaySutta: "A_SEARCH A_SUTTAID. A_DURATION",
     ariaPlay: "再生",
+    ariaPlayNext: "Play Next",
+    ariaPlayPrevious: "Play Previous",
     ariaSeconds: "A_SECONDS 秒",
     ariaSettings: "設定",
     ariaSuttaCentralNewTab: "suttacentral.net を新しいタブで開く",

@@ -170,6 +170,8 @@ export default {
     ariaPageBottom: "view page bottom",
     ariaPageTop: "view page top",
     ariaPlay: "Jouer",
+    ariaPlayNext: "Play Next",
+    ariaPlayPrevious: "Play Previous",
     ariaPlaySutta: "A_SEARCH A_SUTTAID. A_DURATION",
     ariaSeconds: "A_SECONDS secondes",
     ariaSettings: "Paramètres",

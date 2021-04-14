@@ -131,24 +131,35 @@
         var bw = new BilaraWeb({fetch, examples});
         should(bw.exampleOfMatch('königliches Gut', 'de')).equal(examples.de[0]);
     });
-    it("loadSuttaSegments(...) returns sutta", async ()=>{
+    it("TESTTESTloadSuttaSegments(...) returns sutta", async ()=>{
         var bw = new BilaraWeb({fetch});
         //bw.logLevel = 'info';
-        let pli = await bw.loadSuttaSegments({sutta_uid:'an9.2'});
+        var res = await bw.loadSuttaSegments({sutta_uid:'an9.2'});
+        let { 
+            translator:ms, 
+            segments:pli,
+        } = res;
         should(pli['an9.2:0.1']).match(/Aṅguttara Nikāya 9/);
-        let en = await bw.loadSuttaSegments({sutta_uid:'an9.2', lang:'en'});
+        should(ms).equal('ms');
+        let { 
+            translator, 
+            segments:en,
+        } = await bw.loadSuttaSegments({sutta_uid:'an9.2', lang:'en'});
+        should(translator).equal('sujato');
         should(en['an9.2:0.1']).match(/Numbered Discourses 9/);
         let nolang = await bw.loadSuttaSegments({sutta_uid:'an9.2', lang:'nolang'});
         should(nolang).equal(undefined);
         let nosuid = await bw.loadSuttaSegments({lang:'nosuid'});
         should(nosuid).equal(undefined);
     });
-    it("loadSutta(...) returns sutta", async ()=>{
+    it("TESTTESTloadSutta(...) returns sutta", async ()=>{
         let bw = new BilaraWeb({fetch});
         let sutta_uid = 'an3.128';
         let lang = 'de';
+        let translator = 'sabbamitta';
         let sutta = await bw.loadSutta({sutta_uid, lang});
         should(sutta.sutta_uid).equal(sutta_uid);
+        should(sutta.translator).equal(translator);
         let segments = sutta.segments;
         should.deepEqual(segments[3],{
             scid: 'an3.128:1.1',
@@ -165,7 +176,7 @@
             '128. Verdrießlich '
         ]);
     });
-    it("loadSutta(...) returns sutta fallback", async ()=>{
+    it("TESTTESTloadSutta(...) returns sutta fallback", async ()=>{
         let bw = new BilaraWeb({fetch});
         //bw.logLevel = 'info';
 
@@ -178,6 +189,7 @@
             lang,
             titles:[],
             segments:[],
+            translator: 'notranslator',
         });
 
         // Pali sutta fallback
@@ -254,6 +266,21 @@
                 'translation/en/sujato/sutta/dn/dn33_translation-en-sujato.json',
             //'translation/my/my-team': 
                 //'translation/my/my-team/sutta/dn/dn33_translation-my-my-team.json',
+        });
+    });
+    it("TESTTESTsegmentAudioUrls(...) => HTML5 audio sources", async()=>{
+        let bw = new BilaraWeb({fetch});
+        let urls = await bw.segmentAudioUrls({
+            scid: 'sn12.23:1.1',
+            lang: 'en',
+            translator: 'sujato',
+            vtrans: 'amy',
+            vroot: 'aditi',
+        });
+        let endpoint = 'https://voice.suttacentral.net/scv/audio';
+        should.deepEqual(urls, {
+          en: `${endpoint}/sn12.23/en/sujato/amy/2b889573f11b1e26ff1f2a3113beb746`,
+          pli: `${endpoint}/sn12.23/pli/ms/aditi/4cde0928fd30c7920ea805960313a269`,
         });
     });
 })

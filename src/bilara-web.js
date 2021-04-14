@@ -17,6 +17,10 @@
             if (opts.fetch == null) {
                 throw new Error('BilaraWeb() fetch callback is required');
             }
+            this.endpoints = Object.assign({
+                playSegment: 'https://voice.suttacentral.net/scv/play/segment',
+                audio: 'https://voice.suttacentral.net/scv/audio',
+            }, opts.endpoints);
             this.fetch = opts.fetch;
             this.host = opts.host || 'https://raw.githubusercontent.com';
             this.includeUnpublished = opts.includeUnpublished === true;
@@ -319,6 +323,9 @@
             let segments;
             let bilaraPaths = this.suidPaths(sutta_uid) || {};
             let bpKey = Object.keys(bilaraPaths).find(key=>key.includes(`/${lang}/`));
+            if (bpKey == null) {
+                return undefined;
+            }
             let bpSegs = bilaraPaths[bpKey];
             if (bpSegs) { 
                 let branch = includeUnpublished ? 'unpublished' : 'published';
@@ -332,7 +339,12 @@
             } else {
                 this.info(`loadSuttaSegments(${sutta_uid}) not found lang:${lang}`);
             }
-            return segments;
+            let [ segType, segLang, translator ] = bpKey && bpKey.split('/') || [];
+            return {
+                lang,
+                translator,
+                segments
+            };
         }
 
         async loadSutta({sutta_uid, lang=this.lang}) { try {
@@ -349,12 +361,17 @@
             if (!(typeof lang === 'string')) {
                 throw new Error(`expected string lang:${lang}`);
             }
-            let pli = await this.loadSuttaSegments({sutta_uid, lang:'pli'}) || {};
+            let {
+                segments: pli = [],
+            } = await this.loadSuttaSegments({sutta_uid, lang:'pli'}) || {};
             let segMap = Object.keys(pli).reduce((a,scid)=>{
                 a[scid] = {scid, pli:pli[scid]};
                 return a;
             },{});
-            let langSegs = await this.loadSuttaSegments({sutta_uid, lang}) || {};
+            let {
+                translator = 'notranslator',
+                segments:langSegs = [],
+            } = await this.loadSuttaSegments({sutta_uid, lang}) || {};
             Object.keys(langSegs).forEach(scid=>{
                 segMap[scid] = segMap[scid] || { scid };
                 segMap[scid][lang] = langSegs[scid];
@@ -374,6 +391,7 @@
             return suttaCache[key] = {
               sutta_uid,
               lang,
+              translator,
               titles,
               segments,
             };
@@ -421,6 +439,38 @@
                 };
             }
             return null;
+        }
+
+        async segmentAudioUrls(opts={}) {
+            let {
+                scid,
+                lang='en',
+                translator='sujato',
+                vtrans='amy',
+                vroot='aditi',
+            } = opts;
+            if (!scid) {
+                throw new Error('segmentAudioUrls() required: scid');
+            }
+            let {
+                fetch,
+                endpoints,
+            } = this;
+            let suid = scid.split(':')[0];
+            let url = [ endpoints.playSegment, 
+                suid, lang, translator, scid, vtrans, vroot, ].join('/');
+            let res = await fetch(url);
+            let json = await res.json();
+            let audio = json.segment.audio;
+
+            return Object.keys(audio).reduce((a,k)=>{
+                if (k === 'pli') {
+                    a[k] = [endpoints.audio, suid, k, 'ms', vroot, audio[k]].join('/')
+                } else {
+                    a[k] = [endpoints.audio, suid, k, translator, vtrans, audio[k]].join('/')
+                }
+                return a;
+            }, {});
         }
     }
 

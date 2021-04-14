@@ -10,6 +10,7 @@ const DEFAULT = {
     get sutta() { return {
         titles: ['...'],
         lang: 'en',
+        translator: '...',
         sutta_uid: null,
         segments: [
             {scid: null, pli: '...', en: '...'}
@@ -30,11 +31,13 @@ export const mutations = {
     cursorScid(state, value) {
         let { settings, sutta } = state;
         let { history } = settings;
-        let { sutta_uid, lang } = sutta;
+        let { sutta_uid, lang, translator, } = sutta;
         let cursor = history.find(h=>h.sutta_uid===sutta_uid && h.lang===lang);
         if (cursor) {
             settings.cursor = cursor;
             cursor.scid = value;
+            cursor.lang = lang;
+            cursor.translator = translator;
             console.log(`$store.state.ebt.cursorScid:`, cursor);
         }
     },
@@ -45,6 +48,8 @@ export const mutations = {
         let sh = history.find(h=>h.sutta_uid===sutta_uid && h.lang===lang);
         if (sh && !sh.scid) {
             sh.scid = sutta.segments[0].scid;
+            sh.translator = sutta.translator;
+            sh.lang = lang;
             settings.cursor = sh;
         }
         Object.assign(state.sutta, DEFAULT.sutta, sutta);
@@ -63,13 +68,16 @@ export const mutations = {
                 settings.cursor = sh;
             } else {
                 let { scid } = state.sutta.segments[0];
-                let historyNew = { sutta_uid, date, lang, scid};
+                let { translator } = state.sutta;
+                let historyNew = { sutta_uid, date, lang, translator, scid};
                 settings.cursor = historyNew;
                 console.log(`dbg suttaRef`, historyNew);
                 history.push(historyNew);
             }
             if (!settings.cursor.scid) {
                 settings.cursor.scid = state.sutta.segments[0].scid;
+                settings.cursor.lang = state.sutta.lang;
+                settings.cursor.translator = state.sutta.translator;
             }
             history.sort((a,b)=>a.date-b.date);
         }
@@ -117,6 +125,7 @@ export const actions = {
         if (search !== newSearch) {
             $nuxt.$router.replace({query: {search: `${sutta_uid}/${lang}`}});
         }
+        console.log(`dbg loadSutta`, sutta);
         context.commit('sutta', sutta);
     },
     async loadExample ({commit, state}, payload) {
