@@ -13,7 +13,7 @@
       </v-container>
     </div>
     <v-footer app dark >
-      <ebt-cursor />
+      <ebt-cursor :js="js"/>
     </v-footer>
   </v-app>
 </template>
@@ -22,6 +22,9 @@
 import Vue from 'vue';
 const { version } = require('~/package.json');
 import { EbtVue } from 'ebt-vue';
+const JS = {
+  BilaraWeb: require('ebt-vue/src/bilara-web'),
+}
 import {
   mdiMenu,
 } from "@mdi/js";
@@ -44,6 +47,9 @@ export default {
   methods: {
   },
   computed: {
+    js() { 
+      return JS;
+    },
     version() {
       return version;
     },

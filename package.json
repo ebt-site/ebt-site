@@ -1,18 +1,25 @@
 {
   "name": "ebt-site",
   "version": "1.0.19",
+  "private": true,
   "description": "Vue/Vuetify website framework for Early Buddhist Texts",
-  "main": "index.js",
-  "public": true,
-  "directories": {
-    "src": "src",
-    "test": "test"
+  "scripts": {
+    "dev": "nuxt",
+    "build": "scripts/build",
+    "build:nuxt": "nuxt build",
+    "build:nuxt-config": "scripts/build-nuxt-config",
+    "start": "nuxt start",
+    "generate": "scripts/nuxt-routes.js && nuxt generate",
+    "generate:deploy": "export BABEL_ENV=deploy; scripts/nuxt-routes.js && nuxt generate",
+    "deploy": "scripts/deploy",
+    "deploy:branch": "push-dir --dir=dist --branch=gh-pages --cleanup",
+    "version:nuxt": "nuxt --version"
   },
   "dependencies": {
     "@nuxt/content": "^1.13.1",
     "core-js": "^3.6.5",
-    "ebt-vue": "^0.5.86",
-    "nuxt": "^2.15.4",
+    "ebt-vue": "^0.6.5",
+    "nuxt": "2.14.12",
     "scv-bilara": "^2.1.10",
     "vue-cookie": "^1.1.4",
     "vue-details": "^1.0.9"
@@ -47,73 +54,7 @@
     "vue": "^2.6.12",
     "vue-template-compiler": "^2.6.12"
   },
-  "scripts": {
-    "build": "scripts/build",
-    "build:examples": "scripts/js/build.js",
-    "build:routes": "scripts/nuxt-routes.js",
-    "build:generate-dist": "export CI=; echo CI=$CI; nuxt generate",
-    "build:nuxt": "nuxt build",
-    "build:vue": "cross-env NODE_ENV=production rollup --config rollup.config.js",
-    "build:ssr": "cross-env NODE_ENV=production rollup --config rollup.config.js --format cjs",
-    "build:es": "cross-env NODE_ENV=production rollup --config rollup.config.js --format es",
-    "build:unpkg": "cross-env NODE_ENV=production rollup --config rollup.config.js --format iife",
-    "git:commit-version": "scripts/git-commit-version",
-    "test": "npm run test:verbose",
-    "test:action": "scripts/test-action",
-    "test:test": "mocha -w --watch-ignore node_modules,.git,local -R min --inline-diffs -g TEST './@(src|test)/**/*.js'",
-    "test:verbose": "mocha --inline-diffs",
-    "test:watch": "mocha -w --inline-diffs",
-    "dev": "nuxt",
-    "start": "nuxt start",
-    "version:nuxt": "nuxt --version",
-    "env": "scripts/env",
-    "generate": "npm run build:routes && nuxt generate",
-    "deploy": "scripts/deploy",
-    "deploy:branch": "push-dir --dir=dist --branch=gh-pages --cleanup"
-  },
-  "repository": {
-    "tag": "git"
-  },
-  "bin": {},
-  "keywords": [
-    "SuttaCentral",
-    "SuttaCentral Voice",
-    "EBT",
-    "Voice",
-    "Buddha",
-    "Pali",
-    "translation",
-    "Javascript",
-    "bilara-data",
-    "Bilara"
-  ],
   "author": "Karl Lew",
-  "homepage": "https://github.com/ebt-site/ebt-vue",
-  "license": "MIT",
-  "eslintConfig": {
-    "root": true,
-    "env": {
-      "node": true
-    },
-    "extends": [
-      "eslint:recommended"
-    ],
-    "rules": {
-      "no-console": "off"
-    },
-    "parserOptions": {
-      "parser": "babel-eslint"
-    }
-  },
-  "postcss": {
-    "plugins": {
-      "autoprefixer": {}
-    }
-  },
-  "peerDependencies": {
-    "vue": "^2.6.12"
-  },
-  "engines": {
-    "node": ">=14"
-  }
+  "homepage": "https://github.com/ebt-site/ebt-site",
+  "license": "MIT"
 }

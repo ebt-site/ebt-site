@@ -4,7 +4,6 @@ DIR=`dirname $0`
 SCRIPT=`basename $0 | tr abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ`
 cd $DIR/..
 
-type rg >& /dev/null
 $DIR/install-ripgrep
 
 ED=local/ebt-data
@@ -24,6 +23,6 @@ $DIR/js/build.js
 
 if [ "$1" == "PUSH" ]; then
   $DIR/git-commit-version PUSH &&\
-  $DIR/deploy &&\
   $DIR/publish-npm
 fi
+$DIR/deploy 
