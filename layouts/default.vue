@@ -1,7 +1,7 @@
 <template>
   <v-app >
     <v-app-bar dark :clipped-left="clipped" fixed app hide-on-scroll >
-      <ebt-app-bar title="EBT-Vue" :imgUrl="siteImage">
+      <ebt-app-bar title="EBT-Site" :imgUrl="siteImage">
         <v-btn icon to="/components" class="ebt-icon-btn" >
           <v-icon class="ebt-settings-icon">{{mdiMenu}}</v-icon>
         </v-btn>
