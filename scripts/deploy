@@ -1,26 +1,29 @@
 #!/bin/bash
 DIR=`dirname $0`
+SCRIPT=`basename $0 | tr abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ`
+cd $DIR/..
 
-echo -e "DEPLOY\t: start"
+echo "$SCRIPT: start"
 
-echo -e "DEPLOY\t: checking git..."
+echo "$SCRIPT: checking git..."
 git checkout package-lock.json
 git status 2> /dev/null | grep "nothing to commit"; RC=$?
 if [ "$RC" == "0" ]; then
-  echo -e "DEPLOY\t: git is clean (OK)"
+  echo "$SCRIPT: git is clean (OK)"
 else
-  echo -e "DEPLOY\t: git is NOT clean (CANCELED)"
+  echo "$SCRIPT: git is NOT clean (CANCELED)"
   git status
   exit -1
 fi
 
 export BABEL_ENV=deploy
-npm run version:nuxt &&\
-npm run build:routes &&\
-npm run build:generate-dist &&\
-npm run git:commit-version PUSH &&\
-npm run deploy:branch &&\
-find dist &&\
+nuxt --version
+$DIR/nuxt-routes.js
+export CI=
+echo CI=$CI
+nuxt generate
+$DIR/git-commit-version PUSH
+npm run deploy:branch 
 RC=$?
 
-echo -e "DEPLOY\t: done => $RC"
+echo "$SCRIPT: done => $RC"
