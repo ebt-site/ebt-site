@@ -46,7 +46,7 @@ Your EBT website will be a [Github Page](https://pages.github.com/).
 Let's make it.
 
 1. Click <kbd>Settings</kbd>
-1. Scroll down to *Github Pages*
+1. Click on *Pages* in the left bar
 1. Select the *Source* of your Github page to be the `gh-pages` branch.
 1. Click <kbd>Save</kbd>
 
