@@ -1,9 +1,15 @@
 <template>
   <v-app >
     <v-app-bar dark :clipped-left="clipped" fixed app hide-on-scroll >
-      <ebt-app-bar title="EBT-Site" :imgUrl="siteImage">
-        <v-btn icon to="/components" class="ebt-icon-btn" >
-          <v-icon class="ebt-settings-icon">{{mdiMenu}}</v-icon>
+      <ebt-app-bar 
+        :title="ebtSiteTitle"
+        :imgUrl="ebtSiteImage"
+        :monolingual="ebtLang"
+        >
+        <v-btn icon class="ebt-icon-btn" 
+          title="Github"
+          :href="githubUrl" target="_blank">
+          <v-icon>{{ mdiGithub }}</v-icon>
         </v-btn>
       </ebt-app-bar>
     </v-app-bar>
@@ -21,13 +27,13 @@
 <script>
 import Vue from 'vue';
 const { version } = require('~/package.json');
+import {
+  mdiGithub,
+} from "@mdi/js";
 import { EbtVue } from 'ebt-vue';
 const JS = {
   BilaraWeb: require('ebt-vue/src/bilara-web'),
 }
-import {
-  mdiMenu,
-} from "@mdi/js";
 let {
   EbtAppBar,
   EbtCursor,
@@ -41,10 +47,15 @@ export default {
   data () {
     return {
       clipped: false,
-      mdiMenu,
+      mdiGithub,
     }
   },
   methods: {
+  },
+  mounted() {
+    console.log('layouts/default mounted', 
+        this.$nuxt,
+    );
   },
   computed: {
     js() { 
@@ -53,8 +64,21 @@ export default {
     version() {
       return version;
     },
-    siteImage() {
-      return 'greg-rosenke-bJdK9v-VVw0-unsplash.png';
+    ebtLang() {
+        return this.$nuxt.context.env.ebt_lang;
+    },
+    ebtSiteImage() {
+        return this.$nuxt.context.env.ebt_site_image;
+    },
+    ebtSiteTitle() {
+        return this.$nuxt.context.env.ebt_site_title;
+    },
+    githubUrl() {
+        let {
+          ebt_repository,
+          ebt_account,
+        } = this.$nuxt.context.env;
+        return `https://github.com/${ebt_account}/${ebt_repository}`;
     },
   },
 }
