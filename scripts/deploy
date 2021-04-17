@@ -18,6 +18,7 @@ fi
 
 export BABEL_ENV=deploy
 nuxt --version
+$DIR/wiki-images
 $DIR/nuxt-routes.js
 export CI=
 echo CI=$CI
