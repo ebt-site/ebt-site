@@ -18,4 +18,7 @@ echo "$SCRIPT: pulling $UPSTREAM"
 git config remote.upstream.url $UPSTREAM
 git config remote.upstream.fetch +refs/heads/*:refs/remotes/upstream/*
 git pull upstream main
-git checkout nuxt-routes.json
+git checkout --ours nuxt-routes.json
+git add nuxt-routes.json
+rm package-lock.json
+npm install
