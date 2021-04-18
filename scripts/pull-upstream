@@ -4,8 +4,17 @@ DIR=`dirname $0`
 SCRIPT=`basename $0 | tr abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ`
 cd $DIR/..
 
-UPSTREAM=https://github.com/ebt-site/ebt-vue.git
+
+git config --list | grep remote.origin.url | grep 'ebt-site.ebt-site' > /dev/null
+RC=$?
+if [ "$RC" == "0" ]; then
+  UPSTREAM=https://github.com/ebt-site/ebt-vue.git
+else
+  UPSTREAM=https://github.com/ebt-site/ebt-site.git
+fi
+
 echo "$SCRIPT: pulling $UPSTREAM"
+
 git config remote.upstream.url $UPSTREAM
 git config remote.upstream.fetch +refs/heads/*:refs/remotes/upstream/*
 git pull upstream main
