@@ -4,21 +4,20 @@ DIR=`dirname $0`
 SCRIPT=`basename $0 | tr abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ`
 cd $DIR/..
 
-
 git config --list | grep remote.origin.url | grep 'ebt-site.ebt-site' > /dev/null
 RC=$?
 if [ "$RC" == "0" ]; then
-  UPSTREAM=https://github.com/ebt-site/ebt-vue.git
+  echo "$SCRIPT: ebt-site/ebt-site (nothing to pull)"
 else
   UPSTREAM=https://github.com/ebt-site/ebt-site.git
+
+  echo "$SCRIPT: pulling $UPSTREAM"
+
+  git config remote.upstream.url $UPSTREAM
+  git config remote.upstream.fetch +refs/heads/*:refs/remotes/upstream/*
+  git pull -X ours --no-edit upstream main
+  git checkout --ours nuxt-routes.json
+  git add nuxt-routes.json
+  rm package-lock.json
+  npm install
 fi
-
-echo "$SCRIPT: pulling $UPSTREAM"
-
-git config remote.upstream.url $UPSTREAM
-git config remote.upstream.fetch +refs/heads/*:refs/remotes/upstream/*
-git pull upstream main
-git checkout --ours nuxt-routes.json
-git add nuxt-routes.json
-rm package-lock.json
-npm install
