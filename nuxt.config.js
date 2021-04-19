@@ -1,6 +1,6 @@
 import yaml from 'js-yaml';
 import fs from 'fs';
-const EBT_SITE_YAML = yaml.safeLoadAll(fs.readFileSync('./ebt-site.yaml'))[0] || {};
+const EBT_SITE_YAML = yaml.loadAll(fs.readFileSync('./ebt-site.yaml'))[0] || {};
 const { logger } = require('log-instance');
 
 import NuxtConfig from 'ebt-vue/nuxt.config';
