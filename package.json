@@ -1,6 +1,6 @@
 {
   "name": "ebt-site",
-  "version": "1.0.34",
+  "version": "1.0.35",
   "private": true,
   "description": "Vue/Vuetify website framework for Early Buddhist Texts",
   "scripts": {
@@ -11,7 +11,8 @@
     "start": "nuxt start",
     "generate": "scripts/nuxt-routes.js && nuxt generate",
     "generate:deploy": "export BABEL_ENV=deploy; scripts/nuxt-routes.js && nuxt generate",
-    "deploy": "scripts/deploy",
+    "push-action": "scripts/push-action",
+    "schedule-action": "scripts/schedule-action",
     "deploy:branch": "push-dir --dir=dist --branch=gh-pages --cleanup",
     "version:nuxt": "nuxt --version"
   },

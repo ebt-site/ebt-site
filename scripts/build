@@ -24,10 +24,8 @@ npm install --save-dev scv-bilara@latest; RC=$? || exit $RC
 echo "$SCRIPT: updating ebt-vue"
 npm install --save ebt-vue@latest; RC=$? || exit $RC
 
-
 if [ "$1" == "PUSH" ]; then
   echo "$SCRIPT: git commit"
-  $DIR/git-commit-version PUSH; RC=$? || exit $RC
+  $DIR/git-commit-version PUSH 
 fi
 
-$DIR/deploy 
