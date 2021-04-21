@@ -7,22 +7,27 @@ cd $DIR/..
 $DIR/install-ripgrep
 
 ED=local/ebt-data
+echo "$SCRIPT: updating $ED"
 if [ -e $ED ]; then
   pushd $ED > /dev/null
-  git pull
+  git pull; RC=$? || exit $RC
   popd > /dev/null
 else
   echo -e "$SCRIPT: cloning $ED"
   mkdir -p local
-  git clone https://github.com/ebt-site/ebt-data $ED
+  git clone https://github.com/ebt-site/ebt-data $ED; RC=$? || exit $RC
 fi
 
-npm install --save scv-bilara@latest
-rm -rf api/Seeker*
-$DIR/js/build.js
+echo "$SCRIPT: updating scv-bilara"
+npm install --save-dev scv-bilara@latest; RC=$? || exit $RC
+
+echo "$SCRIPT: updating ebt-vue"
+npm install --save ebt-vue@latest; RC=$? || exit $RC
+
 
 if [ "$1" == "PUSH" ]; then
-  $DIR/git-commit-version PUSH &&\
-  $DIR/publish-npm
+  echo "$SCRIPT: git commit"
+  $DIR/git-commit-version PUSH; RC=$? || exit $RC
 fi
+
 $DIR/deploy 
