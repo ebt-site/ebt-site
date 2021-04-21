@@ -5,4 +5,4 @@ SCRIPT=`basename $0 | tr abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ`
 cd $DIR/..
 
 $DIR/build PUSH && \
-$DIR/deploy
+$DIR/push-action
