@@ -6,18 +6,6 @@ cd $DIR/..
 
 $DIR/install-ripgrep
 
-ED=local/ebt-data
-echo "$SCRIPT: updating $ED"
-if [ -e $ED ]; then
-  pushd $ED > /dev/null
-  git pull; RC=$? || exit $RC
-  popd > /dev/null
-else
-  echo -e "$SCRIPT: cloning $ED"
-  mkdir -p local
-  git clone https://github.com/ebt-site/ebt-data $ED; RC=$? || exit $RC
-fi
-
 echo "$SCRIPT: updating scv-bilara"
 npm install --save-dev scv-bilara@latest; RC=$? || exit $RC
 
