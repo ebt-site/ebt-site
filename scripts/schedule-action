@@ -4,5 +4,26 @@ DIR=`dirname $0`
 SCRIPT=`basename $0 | tr abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ`
 cd $DIR/..
 
-$DIR/build PUSH && \
-$DIR/push-action
+MSG=`type curl`; RC=$?
+if [ "$RC" == "0" ]; then
+  echo "$SCRIPT: curl found (ok)"
+else
+  echo "$SCRIPT: installing curl"
+  sudo apt-get install curl
+fi
+
+REPO=`git config -l | grep remote.origin.url | sed s/.*com:// | sed s/\.git//`
+UPSTREAM=`curl -s https://api.github.com/repos/$REPO | json parent.full_name`
+
+if [ "$UPSTREAM" == "" ]; then
+  echo "$SCRIPT: No upstream repository (ok)"
+  $DIR/build PUSH; RC=$? || exit $RC
+  $DIR/push-action; RC=$? || exit $RC
+else
+  echo "$SCRIPT: pulling from upstream repository $UPSTREAM"
+  git config remote.upstream.url https://github.com/$UPSTREAM.git
+  git config remote.upstream.fetch +refs/heads/*:refs/remotes/upstream/*
+  git pull -X ours --no-edit upstream main; RC=$? || exit $RC
+fi
+
+
