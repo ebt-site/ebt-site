@@ -26,4 +26,4 @@ else
   git pull -X ours --no-edit upstream main; RC=$? || exit $RC
 fi
 
-
+$DIR/push-action
