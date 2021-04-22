@@ -24,6 +24,9 @@ else
   git config remote.upstream.url https://github.com/$UPSTREAM.git
   git config remote.upstream.fetch +refs/heads/*:refs/remotes/upstream/*
   git pull -X ours --no-edit upstream main; RC=$? || exit $RC
+
+  echo "$SCRIPT: npm install"
+  npm install
 fi
 
 $DIR/push-action
