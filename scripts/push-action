@@ -19,6 +19,9 @@ fi
 export BABEL_ENV=deploy
 nuxt --version
 
+echo "$SCRIPT: repo-info"
+$DIR/repo-info > ebt-repo.json
+
 echo "$SCRIPT: wiki-images"
 $DIR/wiki-images; RC=$? || exit $RC
 

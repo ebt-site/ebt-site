@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const RepoInfo = require('../src/repo-info');
+const RepoInfo = require('ebt-vue/src/repo-info');
 
 (async function(){
   let info = await RepoInfo.info();
