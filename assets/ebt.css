@@ -380,6 +380,11 @@ summary:focus {
 .ebt-header {
   margin-bottom: var(--ebt-header-margin-bottom);
 }
+.ebt-author {
+  margin-bottom: 1em;
+  text-align: center;
+  font-size: smaller;
+}
 
 .ebt-nav-cursor {
     display: flex;
