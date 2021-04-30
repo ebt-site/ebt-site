@@ -12,7 +12,16 @@ else
   sudo apt-get install curl
 fi
 
+MSG=`type json`; RC=$?
+if [ "$RC" == "0" ]; then
+  echo "$SCRIPT: json found (ok)"
+else
+  echo "$SCRIPT: installing json"
+  sudo npm install -g json
+fi
+
 REPO=`git config -l | grep remote.origin.url | sed s/.*com:// | sed s/\.git//`
+echo "$SCRIPT: REPO is $REPO"
 UPSTREAM=`curl -s https://api.github.com/repos/$REPO | json parent.full_name`
 
 if [ "$UPSTREAM" == "" ]; then
