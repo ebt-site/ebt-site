@@ -4,7 +4,7 @@ const http = require('http');
 const express = require('express');
 const app = module.exports = express();
 
-const ROOT='ebt-vue';
+const ROOT='ebt-site';
 app.use(`/${ROOT}`, express.static('dist'))
 
 
