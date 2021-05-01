@@ -16,6 +16,8 @@ else
   exit -1
 fi
 
+$DIR/touch-content
+
 export BABEL_ENV=deploy
 nuxt --version
 
