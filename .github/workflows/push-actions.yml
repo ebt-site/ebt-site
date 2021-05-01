@@ -10,6 +10,9 @@ jobs:
     name: Node=${{ matrix.node }} OS=${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
       - uses: actions/setup-node@v2
       - run: scripts/install
       - run: git config user.name github-actions
