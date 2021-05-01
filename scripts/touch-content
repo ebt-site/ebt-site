@@ -7,4 +7,4 @@ cd $DIR/..
 echo "$SCRIPT: touching content files to date of last change"
 find content -type f | \
 xargs -I '{}' bash -c \
-'touch -d `git log -1 --pretty="format:%cI" {}` {}; ls -l {}'
+'DATE=`git log -1 --pretty="format:%cI" {}`; touch -d "$DATE" {}; echo $DATE {}'
