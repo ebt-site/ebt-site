@@ -20,9 +20,10 @@ else
   sudo npm install -g json
 fi
 
-REPO=`git config -l | grep remote.origin.url | sed s/.*com:// | sed s/\.git//`
-echo "$SCRIPT: REPO is $REPO"
-UPSTREAM=`curl -s https://api.github.com/repos/$REPO | json parent.full_name`
+ACCOUNT=`$DIR/repo-info | json account`
+REPO=`$DIR/repo-info | json repository`
+UPSTREAM=`curl -s https://api.github.com/repos/$ACCOUNT/$REPO | json parent.full_name`
+echo "$SCRIPT: ACCOUNT:$ACCOUNT REPO:$REPO UPSTREAM:$UPSTREAM"
 
 if [ "$UPSTREAM" == "" ]; then
   echo "$SCRIPT: No upstream repository (ok)"
