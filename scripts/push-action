@@ -16,6 +16,9 @@ else
   exit -1
 fi
 
+echo "$SCRIPT: git log LICENSE"
+git log LICENSE
+
 $DIR/touch-content
 
 export BABEL_ENV=deploy
