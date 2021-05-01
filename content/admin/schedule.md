@@ -40,7 +40,7 @@ Since the fork is refreshed from the main EBT-site, it won't get the latest info
 until the next cycle, eight hours later.
 If you would like your EBT-site fork to get content sooner, 
 just edit `.github/workflows/schedule-actions.yml` 
-and change the `30` to `45`. 
+and change the `20` to `40`. 
 Your EBT-site fork will update at 45 minutes past the hour, 
 after the main EBT-site has been updated.
 
