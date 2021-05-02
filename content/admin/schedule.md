@@ -23,15 +23,19 @@ if no resources are available.
 | <span class="utc-time">03:00</span> | update [ebt-data](https://github.com/ebt-site/ebt-data) |
 | <span class="utc-time">03:20</span> | update [scv-bilara](https://github.com/sc-voice/scv-bilara) |
 | <span class="utc-time">03:40</span> | update [ebt-vue](https://github.com/ebt-site/ebt-vue) |
+| <span class="utc-time">04:15</span> | update [sc-voice](https://github.com/sc-voice/sc-voice) |
+| <span class="utc-time">11:00</span> | update [ebt-data](https://github.com/ebt-site/ebt-data) |
 | <span class="utc-time">04:20</span> | update [ebt-site](https://github.com/ebt-site/ebt-site) 🎉 |
 | <span class="utc-time">11:00</span> | update [ebt-data](https://github.com/ebt-site/ebt-data) |
 | <span class="utc-time">11:20</span> | update [scv-bilara](https://github.com/sc-voice/scv-bilara) |
 | <span class="utc-time">11:40</span> | update [ebt-vue](https://github.com/ebt-site/ebt-vue) |
 | <span class="utc-time">12:00</span> | update [sc-api](https://github.com/ebt-site/sc-api) |
+| <span class="utc-time">12:15</span> | update [sc-voice](https://github.com/sc-voice/sc-voice) |
 | <span class="utc-time">12:20</span> | update [ebt-site](https://github.com/ebt-site/ebt-site) 🎉 |
 | <span class="utc-time">19:00</span> | update [ebt-data](https://github.com/ebt-site/ebt-data) |
 | <span class="utc-time">19:20</span> | update [scv-bilara](https://github.com/sc-voice/scv-bilara) |
 | <span class="utc-time">19:40</span> | update [ebt-vue](https://github.com/ebt-site/ebt-vue) |
+| <span class="utc-time">20:15</span> | update [sc-voice](https://github.com/sc-voice/sc-voice) |
 | <span class="utc-time">20:20</span> | update [ebt-site](https://github.com/ebt-site/ebt-site) 🎉 |
 
 ### Scheduling EBT-site Forks
@@ -46,11 +50,14 @@ after the main EBT-site has been updated.
 
 ### Details
 
+The scheduled actions listed above update the following Github repositories:
+
 * [ebt-data](https://github.com/ebt-site/ebt-data) stores the current snapshot of [suttacentral/bilara-data](https://github.com/suttacentral/bilara-data) as a fallback in the event of any SuttaCentral data restructuring.
 * [scv-bilara](https://github.com/sc-voice/scv-bilara) maintains [suid-map.json](https://github.com/sc-voice/scv-bilara/blob/main/src/auto/suidmap.json), which lists all published suttas and translations. New translations will not show up until this is updated. Scv-bilara also maintains [examples.json](https://github.com/sc-voice/scv-bilara/blob/main/src/examples.json)
 * [ebt-vue](https://github.com/ebt-site/ebt-vue) updates example search, which is dependent on new or updated content.
 * [sc-api](https://github.com/ebt-site/sc-api) stores the latest SuttaCentral suttaplex information for every sutta. [Voice.suttacnetral.net](https://voice.suttacentral.net) uses SC-Api to access legacy, non-segmented suttas. It is a fallback that enables Voice.suttacentral.net to continue working if Suttacentral.net is offline.
-* [ebt-site](https://github.com/ebt-site/ebt-site) is the main EBT website
+* [ebt-site](https://github.com/ebt-site/ebt-site) is the source for the main EBT website
+* [sc-voice](https://github.com/sc-voice/sc-voice) is the source for [voice.suttacentral.net](https://voice.suttacentral.net)
 
 ### ⚠️IMPORTANT
 Do not change the EBT-site `schedule-actions.yml`.
