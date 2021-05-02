@@ -24,7 +24,6 @@ if no resources are available.
 | <span class="utc-time">03:20</span> | update [scv-bilara](https://github.com/sc-voice/scv-bilara) |
 | <span class="utc-time">03:40</span> | update [ebt-vue](https://github.com/ebt-site/ebt-vue) |
 | <span class="utc-time">04:15</span> | update [sc-voice](https://github.com/sc-voice/sc-voice) |
-| <span class="utc-time">11:00</span> | update [ebt-data](https://github.com/ebt-site/ebt-data) |
 | <span class="utc-time">04:20</span> | update [ebt-site](https://github.com/ebt-site/ebt-site) 🎉 |
 | <span class="utc-time">11:00</span> | update [ebt-data](https://github.com/ebt-site/ebt-data) |
 | <span class="utc-time">11:20</span> | update [scv-bilara](https://github.com/sc-voice/scv-bilara) |
