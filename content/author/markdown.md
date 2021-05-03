@@ -19,6 +19,12 @@ supports HTML5 elements.
 You can include many HTML5 elements such as `<audio>` on your
 EBT site wiki pages
 
+```
+<audio controls src="/ebt-site/audio/simple-bell.ogg"/>
+```
+<audio controls src="/ebt-site/audio/simple-bell.ogg">
+</audio>
+
 ## CSS
 The CSS file used by your EBT website is in the `assets/svs.css` file.
 CSS changes are best done using a [Linux development environment](http://localhost:3000/ebt-site/author/linux-install).
