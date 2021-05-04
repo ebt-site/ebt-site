@@ -1,0 +1,4 @@
+#!/bin/bash
+USER=`git config --list | grep remote.origin.url | sed s/.*:// | sed s/\\\/.*// `
+SITE=`git config --list | grep remote.origin.url | sed s/.*\\\///`
+echo "https://$USER.github.io/$SITE"
