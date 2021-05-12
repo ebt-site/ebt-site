@@ -445,6 +445,15 @@ summary:focus {
   align-items: center;
   width: 50%;
 }
+.v-application a{
+  text-decoration: none;
+}
+.v-application a:hover {
+  text-decoration: underline;
+}
+.v-application .v-alert__content a {
+  color: var(--ebt-color-dark);
+}
 .v-app-bar .v-toolbar__content {
   padding-left: 0px;
   padding-right: 0.5em;
@@ -631,4 +640,3 @@ blockquote {
     max-width: 290px;
   }
 }
-
