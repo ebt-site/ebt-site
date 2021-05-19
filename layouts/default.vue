@@ -18,9 +18,11 @@
         <nuxt />
       </v-container>
     </div>
+    <!---
     <v-footer app dark >
       <ebt-cursor :js="js"/>
     </v-footer>
+    -->
   </v-app>
 </template>
 
