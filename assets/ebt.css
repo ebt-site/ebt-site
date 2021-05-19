@@ -25,6 +25,8 @@
   --ebt-color-dark: #FFFFFF;
   --ebt-color-light: #222;
   --ebt-cursor-border: 0.15em;
+  --ebt-nav-font-size: 0.85rem;
+  --ebt-bottom-navigation-height: 2rem;
 }
 
 label {
@@ -127,41 +129,32 @@ label {
   margin-bottom: 1em;
   border: 1pt solid #222;
   height: 24px;
-  text-decoration-color: var(--ebt-color-light);
 }
 .ebt-text-btn .v-btn__content {
-  font-size: 0.75rem;
+  font-size: var(--ebt-nav-font-size);
   text-transform: none;
   font-variant: small-caps;
   font-weight: 400;
 }
-.ebt-text-btn .v-btn__content:hover,
+.ebt-text-btn:hover .v-btn__content,
 .ebt-text-btn:focus-within .v-btn__content {
-  color: var(--ebt-focus-color-light);
   font-weight: var(--ebt-focus-font-weight);
 }
 .ebt-text-btn:hover,
 .ebt-text-btn:focus-within {
-  color: var(--ebt-focus-color-light);
-  border: 1pt solid var(--ebt-focus-color-light);
+  border: 1pt solid;
   border-radius: 0;
-  outline: 1pt solid var(--ebt-focus-color-light);
   text-decoration: underline;
-  text-decoration-color: var(--ebt-focus-color-light);
-  color: var(--ebt-focus-color-light);
-  background-color: var(--ebt-focus-background-color-light);
 }
 .theme--dark.ebt-text-btn:hover,
 .theme--dark.ebt-text-btn:focus-within {
-  color: var(--ebt-focus-color-dark);
-  background-color: var(--ebt-focus-background-color-dark);
-  border: 1pt solid var(--ebt-focus-color-dark);
+  color: var(--ebt-focus-color-dark) !important;
   outline: 1pt solid var(--ebt-focus-color-dark);
 }
-.theme--dark.ebt-text-btn .v-btn__content:hover,
-.ebt-text-btn:focus-within .theme--dark.v-btn__content {
-  color: var(--ebt-focus-color-dark) ;
-  background-color: var(--ebt-focus-background-color-dark);
+.theme--light.ebt-text-btn:hover,
+.theme--light.ebt-text-btn:focus-within {
+  color: var(--ebt-focus-color-light);
+  outline: 1pt solid var(--ebt-focus-color-light);
 }
 
 .ebt-inspire-row {
@@ -177,6 +170,7 @@ label {
   margin-right:2px;
   border-radius:5px;
   border: none;
+  min-width: 2em !important;
   font-size: 1rem !important; /* override .v-btn.v-size--default */
 }
 .ebt-icon-btn svg {
@@ -186,7 +180,7 @@ label {
 .ebt-icon-btn:hover {
   outline: 2px solid var(--ebt-focus-color-light);
 }
-.theme--dark.ebt-icon-btn:focus, 
+.theme--dark.ebt-icon-btn:focus-within, 
 .theme--dark.ebt-icon-btn:hover {
   outline: 2px solid var(--ebt-focus-color-dark);
   background-color: var(--ebt-focus-background-color-dark);
@@ -386,20 +380,12 @@ summary:focus {
   font-size: smaller;
 }
 
-.ebt-nav-cursor {
-    display: flex;
-    flex-flow: row noWrap;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
-}
 .ebt-nav-sutta {
-    display: flex;
-    flex-flow: row noWrap;
-    align-items: baseline;
-    justify-content: space-between;
-    width: 100%;
-    margin-bottom: 1em;
+  display: flex;
+  flex-flow: row noWrap;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
 }
 .ebt-nav-sutta > button {
     width: 8em !important;
@@ -447,6 +433,8 @@ summary:focus {
 }
 .v-application a{
   text-decoration: none;
+  color: var(--ebt-color-light) ;
+  background: transparent;
 }
 .v-application a:hover {
   text-decoration: underline;
@@ -591,13 +579,6 @@ div.site-content {
   align-items: center;
   padding-bottom: 8em;
 }
-.ebt-suttacentral {
-  font-size: smaller;
-  font-variant: small-caps;
-}
-.ebt-suttacentral a:hover {
-  color: var(--ebt-focus-color-light);
-}
 pre,
 blockquote {
   border-left: 3pt solid #ccc;
@@ -638,5 +619,8 @@ blockquote {
   }
   .ebt-result-text {
     max-width: 290px;
+  }
+  .ebt-side-by-side {
+    flex-flow: column;
   }
 }
