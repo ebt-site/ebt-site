@@ -387,9 +387,6 @@ summary:focus {
   justify-content: space-between;
   width: 100%;
 }
-.ebt-nav-sutta > button {
-    width: 8em !important;
-}
 .ebt-nav-btn {
   min-width: 5rem;
   background-color: transparent;
