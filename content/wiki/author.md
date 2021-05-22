@@ -4,7 +4,7 @@ description: Add or edit wiki content
 img: aaron-burden-xG8IQMqMITM-unsplash.png
 alt: Photo of pen and blank notepad
 order: 9999
-category: 2. Wiki Administration
+category: 3. Wiki Administration
 slugDir: author
 ---
 There are several ways to edit your EBT website wiki:
