@@ -20,9 +20,9 @@ You can include many HTML5 elements such as `<audio>` on your
 EBT site wiki pages
 
 ```
-<audio controls src="/ebt-site/audio/simple-bell.ogg"/>
+<audio controls src="audio/simple-bell.ogg"/>
 ```
-<audio controls src="/ebt-site/audio/simple-bell.ogg">
+<audio controls src="audio/simple-bell.ogg">
 </audio>
 
 ## CSS
