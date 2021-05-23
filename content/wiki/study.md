@@ -1,8 +1,8 @@
 ---
 title: Sutta study on EBT-Site
-description: How to use EBT-Site
-img: wheel.png
-img-alt: Generic image for study 
+description: How to use EBT-Site 
+img: pixabay-literature-3091212_640.png
+img-alt: image of pile of books with cup of tea on top
 slugDir: study
 category: 2. Sutta study
 order: 9999

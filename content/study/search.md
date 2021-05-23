@@ -1,8 +1,9 @@
 ---
 title: Searching the Suttas 
 description: How to find the text you are looking for
-img: amanda-flavell-9XSLoMlVhYU-unsplash.png
-img-alt: Generic image for study example
+img: alfons-morales-YLSwjSy7stw-unsplash.png
+img-alt: image of library
+order: 1
 ---
 This is how you find the text you wish to study:
 
