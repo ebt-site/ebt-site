@@ -10,7 +10,8 @@ order: 1
 This website is a template and framework for building 
 an [open-source](https://opensource.org/licenses/MIT) 
 community of
-linked Buddhist websites hosted on Github.
+linked Buddhist websites hosted on Github. At the same time, 
+it is a website designed for Sutta study.
 
 ### Study or review the EBTs with ease:
 
