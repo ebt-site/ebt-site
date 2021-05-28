@@ -33,6 +33,12 @@ label {
     color: var(--ebt-label-color);
 }
 
+.ebt-image {
+  padding: 0.4em;
+  border-radius: 0.2em;
+  background: #fff;
+  max-width: 600px;
+}
 .ebt-checkbox {
   padding-top: 0.2em;
   padding-bottom: 0.2em;
