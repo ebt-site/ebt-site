@@ -67,6 +67,33 @@ To enable content updates, we need to enable the _schedule-actions_ workflow.
 1. Click <kbd>schedule-actions</kbd>
 1. Click <kbd>Enable workflow</kbd>
 
+### Step 6. Changing time for schedule-actions
+Code and content updates are handled by the `.github/workflow/schedule-actions.yml` file.
+
+<pre>
+name: schedule-actions
+on: 
+  schedule:
+    - cron: 20 4,12,20 * * *
+jobs:
+  build-job:
+    ...
+</pre>
+
+To change the update schedule, edit the following line:
+
+<pre>
+cron: 20 4,12,20 * * *
+</pre>
+
+It is recommendable to set your time slightly *after* the time of the mother site, like
+
+<pre>
+cron: 40 4,12,20 * * *
+</pre>
+
+See [crontab.guru](https://crontab.guru/) for help 
+
 ### Next Steps
 Congratulations! You now have your own EBT website.
 
