@@ -48,7 +48,7 @@ Let's make it.
 1. Click <kbd>Settings</kbd>
 1. Click on *Pages* in the left bar
 1. Select the *Source* of your Github page to be the `gh-pages` branch.
-1. Click <kbd>Save</kbd>
+1. Click <kbd>Save</kbd> if necessary (it may already be saved).
 
 It takes a while to build an EBT site. 
 Eventually you will see a green box:
