@@ -25,8 +25,9 @@ All EBT websites are [open source](https://opensource.org/licenses/MIT).
 To create your own EBT website, you will 
 [fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 The `ebt-site` Github repository.
-Your own EBT website will initially have the name 'ebt-site`,
-but we'll change it later.
+
+**IMPORTANT!** Your own EBT website will initially have the name 'ebt-site`,
+but we can change it _later_. Do not change the name!
 
 1. Login to Github
 1. Navigate your browser to [ebt-site](https://github.com/ebt-site/ebt-site)
