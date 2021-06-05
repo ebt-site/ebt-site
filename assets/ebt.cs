@@ -279,7 +279,12 @@ summary:focus {
     color: #888;
     margin-top: 0.6em;
     margin-left: 0.2em;
-    flex: 1 1 10em;
+    padding-right: 0.5em;
+    flex: 1 1;
+    min-width: 8em;
+}
+.ebt-scid:hover {
+  color: var(--ebt-color-light);
 }
 .ebt-sutta {
   margin-top: 2em;
