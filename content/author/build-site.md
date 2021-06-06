@@ -29,15 +29,17 @@ The `ebt-site` Github repository.
 **IMPORTANT!** Your own EBT website will initially have the name 'ebt-site`,
 but we can change it _later_. Do not change the name!
 
-1. Login to Github
-1. Navigate your browser to [ebt-site](https://github.com/ebt-site/ebt-site)
-1. Click <kbd>Fork</kbd> in the upper right hand corner of the web page.
+Let's take a look at your new EBT-Site in Github.
+
+1. Login to Github. 
+1. We will now open up the main EBT-Site Github repository in a new browser tab. For reference, these instructions will still be here in this browser tab.  CTRL-Click [this link](https://github.com/ebt-site/ebt-site) to open a new browser tab that shows the main EBT-Site repository from which you will create your own fork. 
+1. Click <kbd>Fork</kbd> in the upper right hand corner of the web page. Do NOT change the fork name at this time. Your forked repository will also have the name "ebt-site".
 
 ### Step 3. Build your EBT website
 Once you have created your ebt-site fork, 
 Github still needs a little push in order to start building your new EBT website. For this purpose you can make any edit on any page of your new repository.
 
-Open the `content` folder in your repository. There you find various sub-folders. Choose any file in any of those to make any small edit. Just changing one character is enough. Committing your change will start a workflow run. Click the `Actions` tab in the top-center of your web page to see what's happening. After about 5 minutes, you'll see that the initial commit 
+Open the `content` folder in your repository. There you find various sub-folders. Choose any file in any of those to make any small edit. For example, add "Hello, world!" to your new `content/wiki/welcome.md` file. Just changing one character is enough. Committing your change will start a workflow run. Click the `Actions` tab in the top-center of your web page to see what's happening. After about 5 minutes, you'll see that the initial commit 
 has been built. (It will be called whatever you call your commit.)
 
 ![Initial Commit](./initial-commit.png)
