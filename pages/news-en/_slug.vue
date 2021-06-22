@@ -8,7 +8,7 @@
   const { EbtArticle, } = EbtVue;
   export default {
     async asyncData({ $content, params }) {
-      const article = await $content('news', params.slug).fetch()
+      const article = await $content('news-en', params.slug).fetch()
 
       return { article }
     },
