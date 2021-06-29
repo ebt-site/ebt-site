@@ -11,15 +11,15 @@ This is how you find the text you wish to study:
 
 If you don't know where to start, click the `Inspire Me!` button. This will trigger a random term from a collection of examples to be shown together with the corresponding results:
 
-<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./result.png" alt="screenshot of search result">
+<img src="./result.png" class="ebt-image" alt="screenshot of search result">
 
 Clicking on the line of text with the arrow in the results field will show the Suttas that have the relevant search term:
 
-<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./result-suttas.png" alt="screenshot of results list">
+<img src="./result-suttas.png" class="ebt-image" alt="screenshot of results list">
 
 Clicking on one of the Suttas in the results list will show the search term in the context of its text segment:
 
-<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./result-segment.png" alt="screenshot of result segment">
+<img src="./result-segment.png" class="ebt-image" alt="screenshot of result segment">
 
 On this level you can already compare, whether or not a given term occurs always in the same context.
 
@@ -29,7 +29,7 @@ Clicking on the arrow underneath a segment takes you to the corresponding Sutta.
 
 If you are searching for a particular topic, start typing a word that you remember from the context into the search box. Let's assume for example that you sish to find one of the similes about water. Type "water" and select from the search terms that pop up.
 
-<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./searchfield.png" alt="screenshot of search field with word water and search terms">
+<img src="./searchfield.png" class="ebt-image" alt="screenshot of search field with word water and search terms">
 
 You can also search Suttas by ID, fo rexample "AN 10.61". In languages that are not completely translated, if you search for a Sutta that has no segmented translation in your selected language Bhante Sujato's English translation will be shown.
 
@@ -39,17 +39,17 @@ Free text search is  not supported on EBT-Site. If you enter a search string tha
 
 At the bottom of the page you find links to the previous and next Suttas in the order of the canon. In the middle there is a link to the corresponding Sutta on SuttaCentral.
 
-<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./links.png" alt="screenshot of links at bottom of page">
+<img src="./links.png" class="ebt-image" alt="screenshot of links at bottom of page">
 
 ### 4. Unsing the results history
 
 It is easy to go back to your previous Sutta on EBT-Site. You can see the history in the bottom navigation bar. In the middle you see the segment last clicked on of your current Sutta, at the left is the Sutta you have last come from, and at the right is the Sutta to which you have previously been going from your current place.
 
-<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./history1.png" alt="screenshot of history">
+<img src="./history1.png" class="ebt-image" alt="screenshot of history">
 
 EBT-Site remembers a longer search history. On hovering your mouse over the left or right history links, you see more Suttas in the order in which you have visited them.
 
-<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./history2.png" alt="screenshot of history">
+<img src="./history2.png" class="ebt-image" alt="screenshot of history">
 
 Next to this "long term memory", the EBT-Site history also has a "short term memory". Each new Sutta that you visit, in which you click or play a segment, is marked with a pin. This way its position in the history is moved to the front. This makes it easier to switch between Suttas that are already in the history on a later place. The pins remain for 24 hours.
 
@@ -59,7 +59,7 @@ Next to this "long term memory", the EBT-Site history also has a "short term mem
 
 Clicking on a segment will highlight it.
 
-<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./segment.png" alt="screenshot of highlighted segment">
+<img src="./segment.png" class="ebt-image" alt="screenshot of highlighted segment">
 
 At the same time the segment ID appears in the middle of the bottom navigation bar (see screen shot under "history"). By clicking it, you can go back to the segment last highlighted from any place in the text.
 
