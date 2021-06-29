@@ -8,7 +8,7 @@ order: 2
 
 The button for the audio function is on the left at the bottom navigation bar.
 
-<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./play.png" alt="screenshot of audio button">
+<img src="./play.png" class="ebt-image" alt="screenshot of audio button">
 
 Intermittant play: When clicking on a text segment, this can be played by clicking the play button. At the end of the segment, the cursor moves to the next segment. Click the play button again or press the space bar in order to continue.
 
