@@ -18,38 +18,38 @@
         <nuxt />
       </v-container>
     </div>
-    <!---
-    <v-footer app dark >
-      <ebt-cursor :js="js"/>
-    </v-footer>
-    -->
+    <ebt-processing />
   </v-app>
 </template>
 
 <script>
 import Vue from 'vue';
 const { version } = require('~/package.json');
-import {
-  mdiGithub,
-} from "@mdi/js";
 import { EbtVue } from 'ebt-vue';
 const JS = {
   BilaraWeb: require('ebt-vue/src/bilara-web'),
 }
+import {
+  mdiMenu,
+  mdiGithub,
+  mdiFileClock,
+} from "@mdi/js";
 let {
+  EbtProcessing,
   EbtAppBar,
-  EbtCursor,
 } = EbtVue;
 
 export default {
   components: {
-    EbtCursor,
+    EbtProcessing,
     EbtAppBar,
   },
   data () {
     return {
       clipped: false,
+      mdiMenu,
       mdiGithub,
+      mdiFileClock,
     }
   },
   methods: {
@@ -59,12 +59,17 @@ export default {
         this.$nuxt,
     );
   },
+
   computed: {
     js() { 
       return JS;
     },
     version() {
       return version;
+    },
+    processing() {
+        let { $store } = this;
+        return $store && $store.state.ebt.processing;
     },
     ebtLang() {
         return this.$nuxt.context.env.ebt_lang;
