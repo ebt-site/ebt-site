@@ -102,6 +102,14 @@ label {
   font-style: italic;
   flex: 1 1 50%;
 }
+.ebt-text-english {
+  max-width: var(--ebt-text-width);
+  font-family: var(--ebt-sc-serif-font);
+  font-size: 95%;
+  padding-bottom: 0.7em;
+  padding-left: 0.7em;
+  flex: 1 1 50%;
+}
 .ebt-text-trans {
   max-width: var(--ebt-text-width);
   font-family: var(--ebt-sans-font);
