@@ -4,7 +4,7 @@ description: Adapt EBT-Site to your needs
 img: zoltan-tasi-CLJeQCr2F_A-unsplash.png
 img-alt: Meshing gears
 category: 2. Sutta study
-order: 4
+order: 99
 ---
 
 Behind the little gear wheel at the top right you will find several settings which you can customize according to your needs.
