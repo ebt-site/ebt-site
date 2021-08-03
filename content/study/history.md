@@ -4,7 +4,7 @@ description: Use EBT-Site history to recall what was said and done long ago.
 img: timothy-eberly-4NnHD9qRE2M-unsplash.png
 img-alt: Image of blurry book
 category: 2. Sutta study
-order: 5
+order: 4
 ---
 
 ### Memory fades
