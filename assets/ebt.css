@@ -600,6 +600,13 @@ blockquote {
   border-left: 3pt solid #ccc;
   padding-left: 0.5em;
 }
+.theme--light.v-application kbd {
+  background: #212529ba !important;
+}
+li {
+  margin-top: 0.15em;
+  margin-bottom: 0.15em;
+}
 
 @media(width < 600px) {
   :root {
