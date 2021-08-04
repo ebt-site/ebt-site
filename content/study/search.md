@@ -55,6 +55,8 @@ Next to this "long term memory", the EBT-Site history also has a "short term mem
 
 **Please note:** You need to activate cookies for the history features to work. In order to clear the history, disable cookies and refresh the page.
 
+To learn more about the history function, please see [here](/study/history).
+
 ### 5. Going to individual segments
 
 Clicking on a segment will highlight it.
