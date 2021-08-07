@@ -1,8 +1,8 @@
 ---
 title: Welcome to EBT-Site
 description: Wiki welcome page
-img: amanda-flavell-9XSLoMlVhYU-unsplash.png
-img-alt: A picture of the Buddha
+img: pexels-philippe-donn-1133957.png
+img-alt: Hummingbird reaching to drink nectar from flowers
 category: 1. General
 order: 1
 ---

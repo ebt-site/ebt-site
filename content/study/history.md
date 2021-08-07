@@ -48,13 +48,13 @@ We allocate more time for difficult memories and less time for familiar memories
 In other words, we adjust the spacing of repetition according to the memory.
 
 For example, an unfamiliar sutta will be harder to recall than a familiar sutta.
-Applying spaced repetition, we therefore spend more time recalling difficult/new suttas..
+Applying spaced repetition, we therefore spend more time recalling difficult/new suttas.
 And we spend less time recalling familiar suttas.
 Learning a new sutta we recall it frequently.
 Fortunately, with time, effort and study, unfamiliar suttas become familiar
 and recall becomes less difficult as well as less frequent.
 
-Thang goodness we don't need to read all 4000 suttas every day!
+Thank goodness we don't need to read all 4000 suttas every day!
 
 But wait...
 
@@ -78,14 +78,15 @@ the _history navigation bar_ at the bottom of the web page:
 
 <img src="mn1-5-sariputta.png" class="ebt-image"/>
 
-EBT-Site history tracks the suttas you study by the timestamp of when they were first read.
-Studied suttas are ordered from left to right, with most recently studied suttas appearing to the right of older suttas.
-EBT-Site history can therefore inform the spaced repetition of suttas for recall.
-Sariputta simply studies the stuff on the right more than the stuff on the left.
+EBT-Site history tracks suttas by timestamp.
+Studied suttas are ordered from left to right, with most recently studied suttas appearing to the right of older suttas, since more recent suttas will tend to have newer timestamps.
+In this way Sariputta can easily study familiar suttas, looking to the left for older suttas.
 
 ...and after a while...
 
-After a while, Sariputta notices that MN1 is vexingly complicated and deserves more intense and frequent study. What shall Sariputta do to move MN1 to the right of MN5?
+After a while, Sariputta notices that MN1 is vexingly complicated and deserves more intense and frequent study.
+MN1 appears fifth in the list and Sariputta wishes it to be number one.
+What shall Sariputta do to move MN1 to the right of MN5?
 
 ### Pinning a sutta
 
