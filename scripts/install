@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DIR=`basename`
+DIR=`dirname $0` 
 
 $DIR/install-ripgrep
 
