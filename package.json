@@ -1,6 +1,6 @@
 {
   "name": "ebt-site",
-  "version": "1.9.33",
+  "version": "1.9.34",
   "private": true,
   "description": "Vue/Vuetify website framework for Early Buddhist Texts",
   "scripts": {
@@ -30,7 +30,7 @@
     "mocha": "^7.1.1",
     "push-dir": "^0.4.1",
     "sass-loader": "^10.1.1",
-    "scv-bilara": "^3.26.9",
+    "scv-bilara": "^3.26.10",
     "should": "^11.2.0"
   },
   "author": "Karl Lew",
