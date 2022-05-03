@@ -1,7 +1,10 @@
 #!/bin/bash
 
-DIR=`dirname $0` 
+DIR=`dirname $0`
+SCRIPT=`basename $0 | tr abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ`
 
-$DIR/install-ripgrep
-
-npm install
+${DIR}/install-node16 &&
+${DIR}/update-npm &&
+${DIR}/install-ripgrep &&
+npm install && 
+echo -e "${SCRIPT}: completed (OK)"
