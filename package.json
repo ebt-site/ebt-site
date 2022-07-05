@@ -1,6 +1,6 @@
 {
   "name": "ebt-site",
-  "version": "1.11.59",
+  "version": "1.11.60",
   "private": true,
   "description": "Vue/Vuetify website framework for Early Buddhist Texts",
   "scripts": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "@nuxt/content": "^1.14.0",
     "@nuxtjs/vuetify": "^1.11.3",
-    "ebt-vue": "^1.51.19",
+    "ebt-vue": "^1.51.20",
     "nuxt": "2.15.3"
   },
   "devDependencies": {
