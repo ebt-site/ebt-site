@@ -21,6 +21,7 @@ When you include an image, be sure to thank your source!
 * [Unsplash.com](https://unsplash.com) 
 * [Pexels.com](https://pexels.com) 
 * [Pixabay.com](https://pixabay.com) 
+* [PxHere.com](https://pxhere.com)
 * [Wikimedia](/author/add-wikimedia) (limited use)
 
 If you use your own image, consider uploading them at full
@@ -55,6 +56,7 @@ Narrower pictures won't line up with the other thumbnails on their right side.
 * [Unsplash images:](https://unsplash.com) save as PNG file with provided name
 * [Pexels images:](https://pexels.com) save as PNG file with provided name
 * [Pixabay images:](https://pixabay.com) save as PNG file, prefixing the provided name with `pixabay-` 
+* [PxHere.com](https://pxhere.com) save as PNG file; choose a meaningful name that contans the "magic number" of the image and prefix that with `pxhere-`
 * [Wikimedia images:](/author/add-wikimedia) do not save or edit Wikimedia files
 
 ## Step 4. Add Image file
