@@ -56,7 +56,7 @@ Narrower pictures won't line up with the other thumbnails on their right side.
 * [Unsplash images:](https://unsplash.com) save as PNG file with provided name
 * [Pexels images:](https://pexels.com) save as PNG file with provided name
 * [Pixabay images:](https://pixabay.com) save as PNG file, prefixing the provided name with `pixabay-` 
-* [PxHere.com](https://pxhere.com) save as PNG file; choose a meaningful name that contans the "magic number" of the image and prefix that with `pxhere-`
+* [PxHere.com:](https://pxhere.com) save as PNG file; choose a meaningful name that contans the "magic number" of the image and prefix that with `pxhere-`
 * [Wikimedia images:](/author/add-wikimedia) do not save or edit Wikimedia files
 
 ## Step 4. Add Image file
