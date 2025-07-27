@@ -1,6 +1,6 @@
 {
   "name": "ebt-site",
-  "version": "1.12.3027",
+  "version": "1.12.3028",
   "private": true,
   "description": "Vue/Vuetify website framework for Early Buddhist Texts",
   "scripts": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "@nuxt/content": "^1.14.0",
     "@nuxtjs/vuetify": "^1.11.3",
-    "ebt-vue": "^1.55.2913",
+    "ebt-vue": "^1.55.2914",
     "nuxt": "2.15.3"
   },
   "devDependencies": {
@@ -30,7 +30,7 @@
     "mocha": "^7.1.1",
     "push-dir": "^0.4.1",
     "sass-loader": "^10.1.1",
-    "scv-bilara": "^3.174.18",
+    "scv-bilara": "^3.174.19",
     "should": "^11.2.0"
   },
   "author": "Karl Lew",
